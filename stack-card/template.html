@@ -176,7 +176,7 @@ footer{font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padd
 const STACK = __DATA__;
 const AGENT_MD = __AGENT_MD__;
 const MODES = {shared:"Use it with me today", artifact:"I send you the output", pattern:"Copy the design", private:"Mine only (personal data)"};
-const LAYER_NAMES = {agent_runtime:"Agent runtime", agents:"Agents", skills:"Skills", build_and_deploy:"Build & deploy", design_and_presentation:"Design & pitch", media:"Media", knowledge_and_docs:"Knowledge & docs", private_data:"Private data", data_assets:"Data assets", working_rules:"Working rules"};
+const LAYER_NAMES = {agent_runtime:"Agent runtime", agents:"Agents", skills:"Skills", build_and_deploy:"Build & deploy", design_and_presentation:"Design & pitch", media:"Media", agent_observability:"Agent observability", knowledge_and_docs:"Knowledge & docs", company_data:"Company data",private_data:"Private data", data_assets:"Data assets", working_rules:"Working rules"};
 const $ = s => document.querySelector(s);
 const el = (t, a = {}, txt) => { const e = document.createElement(t); for (const k in a) e.setAttribute(k, a[k]); if (txt != null) e.textContent = txt; return e; };
 

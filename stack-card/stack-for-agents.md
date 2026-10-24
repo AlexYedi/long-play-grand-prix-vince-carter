@@ -304,6 +304,27 @@ Ground rules: never ask for or pass around keys or tokens. Treat `private` nodes
       ]
     },
     {
+      "layer": "agent_observability",
+      "description": "Watching the product's own AI agents once they run.",
+      "nodes": [
+        {
+          "id": "prism",
+          "name": "Block Convey Prism",
+          "does": "Monitors the project's AI agents: traces, flagged runs, latency, cost, response quality; policy documents, guardrails and evaluators",
+          "interface": "mcp",
+          "share": "shared",
+          "notes": "Free plan, connected today, no traces yet. 50 MCP calls/day, 100 credits/month; guardrails and the Evaluators Hub need the paid Builder plan. Candidate home for the extraction call's traces and a span-grounding evaluator",
+          "equivalents": [
+            "Langfuse",
+            "LangSmith",
+            "Braintrust",
+            "Arize Phoenix",
+            "PostHog LLM analytics"
+          ]
+        }
+      ]
+    },
+    {
       "layer": "design_and_presentation",
       "nodes": [
         {
@@ -406,6 +427,25 @@ Ground rules: never ask for or pass around keys or tokens. Treat `private` nodes
           "does": "PRD drafting",
           "interface": "mcp",
           "share": "artifact"
+        }
+      ]
+    },
+    {
+      "layer": "company_data",
+      "nodes": [
+        {
+          "id": "akta",
+          "name": "akta.pro",
+          "does": "Private and public company data: firmographics, business model, news signals, company lists by industry",
+          "interface": "mcp",
+          "share": "artifact",
+          "notes": "Pay-as-you-go credits on my account; I run queries and share the output. Plan limits: news 6 months back, lists capped at 20 companies, no funding/M&A, headcount, traffic or review data. Used for likely-acquirer research on the path-to-liquidity extension",
+          "equivalents": [
+            "Crunchbase",
+            "PitchBook",
+            "Harmonic",
+            "Clay"
+          ]
         }
       ]
     },

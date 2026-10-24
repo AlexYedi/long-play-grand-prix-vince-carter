@@ -12,6 +12,8 @@ Messy founder updates → extracted metrics with source spans → reconciliation
 |---|---|
 | `team-kit.html` | One page for the team: problem, scope, demo plan, roles. Open it in a browser. |
 | `docs/synthesis.md` | The plan. Every feature traces to an organizer challenge clause (F1–F4, P1–P2, E1); anything without an ID gets cut. |
+| `docs/evidence.md` | Every problem with current LP reporting, its cited source and tier, the value we unlock, plus real LP reports to benchmark against |
+| `docs/lp-requirements-and-architecture.md` | What LPs weigh for a new fund, how LP types differ, the legal landscape, standards, the biggest vs. hardest gaps, and the architecture and sovereignty posture |
 | `docs/systems-analysis.md` | LP reporting as a trust system, not a document pipeline |
 | `research/judges.md` | The audience: who each judge is, what they have said, and what the demo shows them |
 | `research/market-map.md` · `value-chain-research.md` · `liquidity-and-lp-expansion.md` | The market, the stakeholders, and the bigger vision |
