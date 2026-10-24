@@ -1,0 +1,734 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00003id&sections=company_assessment%2Cfirmographic%2Cbusiness_model",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:26:36.408Z",
+  "data": {
+    "data": {
+      "uuid": "00003id",
+      "company_assessment": {
+        "market_position": "Forter is a privately held, venture-backed SaaS company founded in 2013 and headquartered in New York, with engineering roots in Tel Aviv and regional offices in London, Singapore, and an EU Data Center in Ireland. The company operates a Trust Platform for digital commerce and is recognized as a Leader in fraud detection and prevention by Frost & Sullivan (four consecutive years) and has been named to the Forbes Cloud 100 for five consecutive years, with a $3 billion valuation following its 2021 Series F.",
+        "strengths": [
+          {
+            "details": "Forter's first-mover position in agent authentication (TACP open standard, Agentic Orchestration Suite, partnerships with Mastercard Agent Pay, Google UCP, and AWS Marketplace AI Agents) positions the company to capture disproportionate share of a new trust-and-identity spend category as AI agents become meaningful commerce initiators. The 2,107% year-over-year surge in agentic commerce activity across Forter's network (reported January 2026) provides early evidence that the market is forming around Forter's data assets and protocol.",
+            "headline": "Foundational identity layer for agentic commerce",
+            "source": [
+              "https://ecommercenews.com.au/story/forter-unveils-ai-copilot-to-tackle-surging-fraud-risk"
+            ]
+          },
+          {
+            "details": "Each merchant added to Forter's 250,000+ storefront network strengthens the identity graph that powers fraud decisions for all customers. As the platform scales toward more than 1 million merchants serving 2B+ shoppers, the data advantage over single-tenant or regional fraud vendors becomes increasingly defensible, supporting pricing power and reduced churn over time.",
+            "headline": "Network-effect moat deepens with each merchant",
+            "source": [
+              "https://www.forter.com/platform/fraud-management/"
+            ]
+          },
+          {
+            "details": "Forter's evolution from a single-product fraud vendor to a unified Trust Platform (Fraud Management + Payment Optimization + Dispute + Account Protection + Abuse Prevention + AI Agents + Agentic Orchestration) enables cross-sell into existing accounts. Adoption of Forter Prism AI agents and Predictive Payment Routing at existing customers like Priceline, ASOS, and Adidas creates meaningful ARPU expansion without requiring new logo acquisition.",
+            "headline": "Platform expansion drives ARPU and wallet share",
+            "source": [
+              "https://www.forter.com/agents/"
+            ]
+          },
+          {
+            "details": "Forter Element's OEM motion with PSPs (Stripe, Checkout.com, Nuvei, PayU, GMO, Veritrans) brings Forter's capabilities to thousands of merchants via single integrations, including small and mid-market merchants who would not buy direct. This channel expands total addressable market while Forter also monetizes usage-based pricing on transaction volume.",
+            "headline": "Embedded PSP distribution unlocks SMB and mid-market",
+            "source": [
+              "https://www.forter.com/forter-element/"
+            ]
+          },
+          {
+            "details": "Flagship alliances with McDonald's (January 2026 global rollout), Mastercard (Agent Pay), Google (UCP/AP2), AWS (Retail Competency, AI Agents Marketplace), Shopify (Premier Partner), and Salesforce (no-code integration) collectively position Forter as the de facto trust layer for digital commerce. These partnerships expand distribution, validate the platform, and create references that accelerate enterprise sales cycles.",
+            "headline": "Strategic partnerships validate platform positioning",
+            "source": [
+              "https://www.qsrweb.com/news/mcdonalds-partners-with-forter-to-advance-digital-fraud-protection/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Stripe Radar, Shopify's built-in fraud analysis, Adyen risk engine, and PayPal's own fraud products are increasingly capable and bundled free or at marginal cost with payment processing. As merchants consolidate vendors, Forter's standalone value proposition could erode, particularly in mid-market and SMB where usage economics matter most.",
+            "headline": "Platform-native fraud tools compress direct-vendor opportunity",
+            "source": [
+              "https://www.forter.com/"
+            ]
+          },
+          {
+            "details": "Forter's TACP competes with Google UCP, OpenAI ACP, Mastercard Agent Pay, and emerging merchant-direct frameworks. If the market consolidates around a competitor's protocol, Forter's Agentic Orchestration Suite could become a single-customer integration rather than the foundational standard, materially reducing the long-term TAM the company can capture from agentic commerce.",
+            "headline": "Agentic commerce standard wars risk stranded investment",
+            "source": [
+              "https://www.forter.com/blog/trusted-agentic-commerce-protocol/"
+            ]
+          },
+          {
+            "details": "Forter monetizes via enterprise subscriptions tied to transaction volume and a usage component (over $400B in annual transaction value processed). A consumer-spending recession or e-commerce contraction would directly compress revenue, while a large fixed cost base (501-1,000 employees, global offices) would amplify operating-leverage risk.",
+            "headline": "Usage-based revenue exposed to macro-driven transaction slowdown",
+            "source": [
+              "https://www.forter.com/"
+            ]
+          },
+          {
+            "details": "Forter's last disclosed valuation was $3B in May 2021, and no subsequent funding round has been publicly disclosed. With public-market peers Riskified and Signifyd trading well below historical highs, Forter may face down-round pressure or delayed liquidity. The hiring of a CFO (Jim Lejeal, March 2025) signals IPO preparation, but execution risk around timing and valuation is material.",
+            "headline": "Stale valuation creates IPO/M&A uncertainty",
+            "source": [
+              "http://dlvr.it/S0NNDN"
+            ]
+          },
+          {
+            "details": "A 202% year-over-year rise in automated fraud attempts across Forter's network signals an arms race in which attackers rapidly adapt to AI-based detection. Persistent false-positive declines (despite reported 46% reductions) or high-profile chargeback incidents at marquee customers could undermine trust in the platform's core promise of fully automated trust decisions.",
+            "headline": "Rising automated fraud erodes core value proposition",
+            "source": [
+              "https://ecommercenews.com.au/story/forter-unveils-ai-copilot-to-tackle-surging-fraud-risk"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Forter's network spans 2 billion+ identities across 250,000+ storefronts with up to 6,000 behavioral and hard data attributes per identity — covering roughly 25% of the global population. This dataset is proprietary, grows with every transaction, and underpins the predictive accuracy of every model Forter ships; it cannot be replicated by competitors without comparable merchant scale and years of historical signal collection.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Every merchant added to the network improves fraud, payment, and abuse detection for all others. Named brand customers (Wayfair, Instacart, Adidas, Priceline, McDonald's) materially strengthen collective intelligence, and the consortium design means Forter's accuracy improves with scale rather than degrades — a classic two-sided network effect.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "Forter holds a patented Decision AI and authored the Trusted Agentic Commerce Protocol (TACP), an open cryptographic standard for AI agent authentication using JSON Web Encryption (RFC 7516), published on GitHub. The TACP authorship positions Forter as a foundational standards-setter in a new market (agentic commerce) rather than a feature vendor.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Forter is the only fraud prevention partner with Shopify Premier status and AWS Retail Competency, and is integrated natively with Salesforce Commerce Cloud, Adobe Commerce, SAP, commercetools, Stripe, Checkout.com, Nuvei, PayU, Mastercard, and Google. Forter Element embeds Forter's decisioning inside PSP platforms, creating downstream lock-in across thousands of merchants per PSP partner.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "The Trust Platform unifies fraud, payment routing, disputes, account protection, and abuse prevention into a single decisioning layer; replacing it would require re-instrumenting checkout, account, and back-office workflows plus losing the historical chargeback evidence and issuer optimization models. Annual contracts and embedded PSP integrations amplify churn friction.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Forter Element (OEM motion) and AWS Marketplace listings allow Forter to reach thousands of merchants without a direct sales touch, while the IMPACT conference series (NYC, London, Jinan) and a deep SI partner network (PwC, Infosys, Perficient, Endava) compress enterprise sales cycles. Distribution is strong but still dependent on direct enterprise field sales for large flagship deals.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Forter's last disclosed capital raise was the $300M Series F at a $3B valuation in May 2021. With ~$525M+ raised to date and 501-1,000 employees, the absence of subsequent primary funding rounds over 4+ years could indicate capital constraints, a longer path to profitability, or delayed liquidity plans relative to public-market-ready peers (Riskified, Signifyd).",
+            "headline": "No fresh funding round disclosed since May 2021 Series F",
+            "source": [
+              "http://dlvr.it/S0NNDN"
+            ]
+          },
+          {
+            "details": "Direct competitors include Riskified, Signifyd, Sift, Kount (Equifax), and Ravelin, alongside platform-native solutions such as Stripe Radar, Shopify's built-in fraud analysis, Adyen's risk engine, and PayPal's own fraud products. Network-effect advantages may be partially neutralized by merchants consolidating spend with their payment processor's bundled risk offering.",
+            "headline": "Intense competition from well-funded direct peers and platform-native fraud tools",
+            "source": [
+              "https://www.forter.com/"
+            ]
+          },
+          {
+            "details": "Forter reported a 2,107% surge in agentic commerce activity across its network alongside a 202% rise in automated fraud attempts (reported January 2026). As Forter pioneers agent authentication, it also becomes the high-value target whose detection failures would be highly visible to enterprise customers.",
+            "headline": "Agentic commerce opportunity creates parallel attack surface for fraudsters",
+            "source": [
+              "https://ecommercenews.com.au/story/forter-unveils-ai-copilot-to-tackle-surging-fraud-risk"
+            ]
+          },
+          {
+            "details": "CEO/co-founder Michael Reitblat and CTO Eran Vanounou (author of TACP) are the public faces of Forter's AI strategy and the agentic commerce bet. Departure of either would materially impact continuity of the most differentiated technical roadmap.",
+            "headline": "Key-person dependency on founder-CEO and CTO for strategic direction",
+            "source": [
+              "https://www.forter.com/company/"
+            ]
+          },
+          {
+            "details": "A large share of marquee customers operates in retail/apparel (Adidas, Puma, Nordstrom, Saks, PacSun, Shein, ASOS, Deckers), travel (Priceline, Kiwi.com), and marketplaces (eBay, G2A, Wayfair). Macro consumer-spending slowdowns directly compress merchant transaction volumes, which underpins Forter's usage-based pricing.",
+            "headline": "Customer concentration in cyclical discretionary verticals (apparel, luxury, travel)",
+            "source": [
+              "https://www.forter.com/"
+            ]
+          },
+          {
+            "details": "Forter's strategic bet on the Trusted Agentic Commerce Protocol depends on AI agent developers, merchants, and PSPs choosing Forter's standard over competing agentic frameworks (Google UCP, OpenAI ACP, Mastercard Agent Pay). Failure to achieve network adoption would reduce the Agentic Orchestration Suite to a single-vendor product rather than the foundational trust layer.",
+            "headline": "TACP open standard requires broad ecosystem adoption to deliver value",
+            "source": [
+              "https://www.forter.com/blog/trusted-agentic-commerce-protocol/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Forter's Identity Intelligence Network covers ~25% of the global population with up to 6,000 attributes per identity, processing $400B+ in annual transaction value. This consortium scale creates a structural data moat that strengthens with every merchant added and is materially difficult for competitors to replicate.",
+            "headline": "Massive identity data network spanning 2B+ identities across 250,000+ storefronts",
+            "source": [
+              "https://www.forter.com/platform/fraud-management/"
+            ]
+          },
+          {
+            "details": "Named customers include Adidas, eBay, Nordstrom, Wayfair, Priceline, Instacart, HelloFresh, McDonald's, Chewy, ASOS, Shein, Saks Fifth Avenue, LG, Deckers Brands, SeatGeek, and Grubhub. A global McDonald's partnership (announced January 2026) extends reach into QSR digital ordering and loyalty.",
+            "headline": "Blue-chip enterprise customer roster across retail, travel, marketplaces, and QSR",
+            "source": [
+              "https://www.forter.com/"
+            ]
+          },
+          {
+            "details": "Series F of $300M closed in May 2021 at a $3B post-money valuation, led by Tiger Global with participation from Sequoia Capital Israel, Bessemer, Salesforce Ventures, L Catterton, March Capital, Scale Venture Partners, NewView Capital, Citi Ventures, Samsung NEXT, and others.",
+            "headline": "Last private valuation of $3B backed by tier-1 venture investors",
+            "source": [
+              "http://dlvr.it/S0NNDN"
+            ]
+          },
+          {
+            "details": "Forter authored the Trusted Agentic Commerce Protocol (TACP), an open standard using JSON Web Encryption (RFC 7516) for AI agent authentication, with a public GitHub repository. The Agentic Orchestration Suite, partnerships with Mastercard Agent Pay, Google UCP, and AWS Marketplace AI Agents category listing position Forter as a foundational identity layer for agent-initiated transactions.",
+            "headline": "First-mover position in agentic commerce trust with proprietary open standard (TACP)",
+            "source": [
+              "https://www.forter.com/blog/trusted-agentic-commerce-protocol/"
+            ]
+          },
+          {
+            "details": "Named to the Forbes Cloud 100 for the fifth consecutive year (2025) and recognized as a Leader in the Frost & Sullivan Radar Report for Fraud Detection & Prevention (KYU) for the fourth consecutive year. Also holds AWS Retail Competency (only fraud partner with this distinction) and Shopify Premier Partner status.",
+            "headline": "Consistent third-party recognition with five-year Forbes Cloud 100 streak",
+            "source": [
+              "https://www.prnewswire.com/news-releases/forter-is-named-to-the-2025-forbes-cloud-100-for-fifth-consecutive-year-302545553.html"
+            ]
+          },
+          {
+            "details": "Beyond core Fraud Management, Forter now offers Payment Optimization (Predictive Payment Routing, Issuer Optimization, Smart 3DS, PSD2/Japan 3DS), Dispute Management, Account Protection, Abuse Prevention, and the Forter Prism AI agent suite. Forter Element embeds fraud decisioning into PSPs (Checkout.com, Nuvei, Stripe, PayU) as an OEM channel.",
+            "headline": "Platform expansion from fraud to payment optimization and agentic orchestration increases wallet share",
+            "source": [
+              "https://www.forter.com/platform/fraud-management/"
+            ]
+          },
+          {
+            "details": "Distribution spans direct enterprise sales, channel/partner ecosystem (PwC, Infosys, Perficient, Endava, Jellyfish), OEM via PSPs, AWS Marketplace listing, and the proprietary IMPACT Conference series across NYC, London, and China. Offices in New York, Tel Aviv, London, Singapore, plus an EU Data Center in Ireland launched October 2024.",
+            "headline": "Multi-channel distribution and global operational footprint",
+            "source": [
+              "https://www.forter.com/partners/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Forter's customer base sits between concentrated and distributed. Marquee enterprise anchors — McDonald's, Priceline, Wayfair, ASOS, Adidas, Nordstrom, eBay, Instacart, HelloFresh, Shein, Saks Fifth Avenue — account for material revenue given enterprise quote-based, multi-year contracts, but the broader network spans 250,000+ storefronts and ~400,000 online businesses, of which the majority access Forter indirectly through PSP partners (Stripe, Checkout.com, Nuvei, PayU) or via Forter Element embedded offerings. This dual structure reduces top-line concentration risk relative to pure-play enterprise SaaS, while the PSP channel creates a long tail of smaller merchants that smooths revenue volatility. However, the named enterprise anchor set is dominated by retail and travel with overlap on the IMPACT Awards roster (Priceline, Wayfair, McDonald's), suggesting meaningful wallet share among a relatively small number of large logos. Net: Moderate concentration risk with the largest revenue dollars concentrated in a few dozen enterprise deals, but the underlying transaction volume is broadly diversified across the consortium.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Fraud prevention natively embedded in Stripe's payments platform. Functions as both a competitor (free/bundled fraud tooling for Stripe merchants) and a partner (Forter Element integration with Stripe).",
+            "name": "Stripe Radar",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "Fast-growing fraud detection and AML platform using digital footprinting and ML. Comparable in fraud decisioning technology but typically serves fintech and digital-native merchants rather than the largest global brands.",
+            "name": "SEON",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "000004x"
+          },
+          {
+            "description": "Fraud, account takeover, and payment fraud prevention SaaS for online merchants, with growing footprint in Europe. Overlaps with Forter in payment fraud and account protection use cases.",
+            "name": "Ravelin",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0002rlm"
+          },
+          {
+            "description": "Enterprise fraud protection platform offering a 100% chargeback guarantee across the customer journey, serving many of the same enterprise retail and DTC customers as Forter.",
+            "name": "Signifyd",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002xb"
+          },
+          {
+            "description": "Enterprise fraud prevention and chargeback management platform serving airlines, travel, retail, and digital goods merchants. Direct overlap with Forter's enterprise travel and retail customer base.",
+            "name": "Accertify",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0003l7p"
+          },
+          {
+            "description": "Publicly traded e-commerce fraud prevention SaaS platform using AI to approve/deny transactions for enterprise merchants. Directly comparable business model, customer base (apparel, luxury, travel, marketplaces), and chargeback-guarantee pricing to Forter.",
+            "name": "Riskified",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000b4d"
+          },
+          {
+            "description": "Identity verification and AML platform with growing fraud prevention capabilities. Adjacent to Forter's identity intelligence and account protection modules, with overlap in KYC and onboarding use cases.",
+            "name": "Veriff",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "000027f"
+          },
+          {
+            "description": "Equifax-owned digital fraud prevention platform combining identity data, ML, and device fingerprinting. Directly competes with Forter in mid-market and enterprise e-commerce fraud decisioning.",
+            "name": "Kount (Equifax)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000x38"
+          },
+          {
+            "description": "AI-driven trust and safety SaaS platform covering fraud, content abuse, and account takeover for digital businesses. Comparable in product scope (identity, ML decisioning, abuse prevention) and target segments to Forter.",
+            "name": "Sift",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a2a"
+          },
+          {
+            "description": "Global payments platform offering bundled revenue optimization, authentication, and risk management. Comparable in targeting large enterprise merchants but bundles fraud with acquiring rather than selling standalone.",
+            "name": "Adyen",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00004v8"
+          }
+        ]
+      },
+      "firmographic": {
+        "name": "Forter",
+        "legal_name": "Forter Ltd.",
+        "website": "forter.com",
+        "company_type": {
+          "code": "private",
+          "label": "Private"
+        },
+        "founded_year": 2013,
+        "company_description": "Forter is a SaaS company founded in 2013 that delivers a real-time, AI-powered Trust Platform for digital commerce merchants. The platform combines fraud management, payment optimization, dispute management, account protection, and abuse prevention into a single identity-based decisioning layer, processing more than $400 billion in annual transaction value across a network of 2 billion+ identities and 250,000+ storefronts. Underlying the platform is a patented Decision AI model trained on behavioral, device, payment, and identity signals; this model underpins new agentic commerce offerings including the Trusted Agentic Commerce Protocol (TACP), the Agentic Orchestration Suite, and the Forter Prism AI Copilot and Agent suite.\n\nForter monetizes through enterprise quote-based contracts on a usage/transaction-based pricing model, complemented by an OEM motion via Forter Element for payment service providers and an AWS Marketplace listing. The go-to-market is multi-channel: direct enterprise field sales anchored by 'Contact Sales' and 'Request Demo' flows, a global partner ecosystem across PSPs (Stripe, Checkout.com, Nuvei, PayU), technology platforms (Shopify Premier Partner, Salesforce Commerce Cloud, Adobe Commerce, SAP, commercetools), consulting/SIs (PwC, Infosys, Perficient, Endava), and event-driven demand generation through the proprietary IMPACT conference series in NYC, London, and Jinan. Customer segments are dominated by large enterprise merchants across retail (Adidas, ASOS, Nordstrom, Wayfair, Shein), travel (Priceline, Kiwi.com), marketplaces (eBay, G2A), QSR (McDonald's), and digital services (Instacart, HelloFresh, Grubhub), with a secondary PSP/reseller segment reaching the long tail.\n\nThe company operates from New York with engineering roots in Tel Aviv and regional hubs in London, Singapore, and Ireland (an EU data center launched October 2024 for GDPR-compliant processing). It is privately held and venture-backed, with a $300 million Series F closed in May 2021 at a $3 billion valuation. Forter has expanded its IP footprint into agentic commerce, authoring an open cryptographic standard (TACP) and launching AI-driven orchestration across Google UCP, OpenAI ACP, AP2, and Mastercard Agent Pay protocols.",
+        "company_description_short": "Forter is a SaaS fraud prevention and identity intelligence platform serving enterprise digital commerce merchants. It processes over $400 billion in annual transaction value across a 2-billion-identity network, delivering real-time AI decisions for fraud, payment optimization, disputes, and emerging agentic commerce.",
+        "operating_status": {
+          "code": "operating",
+          "label": "Operating"
+        },
+        "ownership_category": {
+          "code": "venture_growth_investor_backed",
+          "label": "Venture Growth Investor Backed"
+        },
+        "headcount_range": "501-1000",
+        "logo_url": "https://files.akta.pro/logos/00/00/3i/4bf075a3-aceb-5375-b2b2-e6232fe0398b.png",
+        "akta_rank": 14321
+      },
+      "business_model": {
+        "gtm_motion": [
+          {
+            "description": "Enterprise sales-led motion with prominent 'Contact Sales', 'Talk to Sales', and 'Request Demo' CTAs across product pages. Sales team targets large global brands across retail, travel, QSR, marketplaces, and digital commerce. Sales contacts routed via dedicated sales email (sales@forter.com) and 1-800 phone line.",
+            "source": [
+              "https://www.forter.com/"
+            ],
+            "type": {
+              "code": "enterprise_field_sales",
+              "label": "Enterprise Field Sales"
+            }
+          },
+          {
+            "description": "Channel partner ecosystem including technology partners (AWS, Shopify, Salesforce, SAP, Stripe, commercetools), PSPs (Checkout.com, Nuvei, PayU, Thunes), consulting/SIs (PwC, Infosys, Perficient, Endava), and resellers. Partner program with 'Find a Forter Partner' and 'Become a Forter Partner' pages.",
+            "source": [
+              "https://www.forter.com/partners/"
+            ],
+            "type": {
+              "code": "channel_partners",
+              "label": "Channel Partners"
+            }
+          },
+          {
+            "description": "Event-driven GTM through proprietary IMPACT Conference series (IMPACT NYC Oct 14, 2026; IMPACT Europe Sept 8 London; IMPACT China Sept 11 Jinan). Sponsors include AWS, Shopify, Spreedly, Salesforce, ESW, PwC. Hosts annual gathering of digital commerce leaders.",
+            "source": [
+              "https://www.forter.com/impact/"
+            ],
+            "type": {
+              "code": "event_driven",
+              "label": "Event Driven"
+            }
+          },
+          {
+            "description": "Embedded/OEM motion via Forter Element for PSPs, enabling payment service providers to offer Forter's fraud detection to their merchants through a single integration. Also offers pre-built integrations on Shopify, Salesforce Commerce Cloud, commercetools, and Adobe Commerce marketplaces.",
+            "source": [
+              "https://www.forter.com/partners/"
+            ],
+            "type": {
+              "code": "oem_embedded",
+              "label": "Oem Embedded"
+            }
+          },
+          {
+            "description": "Marketplace listing on AWS Marketplace, including the new AI Agents and Tools category where Forter's Trusted Agentic Commerce solution is available. Eligible AWS customers can use AWS committed spend (EDP) to purchase Forter.",
+            "source": [
+              "https://www.yourcentralvalley.com/business/press-releases/cision/20250716NE29710/forters-trusted-agentic-commerce-is-now-available-in-the-new-aws-marketplace-ai-agents-and-tools-category"
+            ],
+            "type": {
+              "code": "marketplace_listing",
+              "label": "Marketplace Listing"
+            }
+          }
+        ],
+        "revenue_model": [
+          {
+            "description": "Enterprise SaaS revenue from merchants subscribing to Forter's Trust Platform, which unifies fraud management, payment optimization, dispute management, account protection, and abuse prevention into a single platform. Quote-based/enterprise contracts typical.",
+            "source": [
+              "https://www.forter.com/company/"
+            ],
+            "title": "SaaS Trust Platform Subscriptions",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "Revenue from payment service providers (PSPs) embedding Forter's fraud decisioning into their platforms via a single integration. Includes optional chargeback guarantee backed by automated, real-time decisions.",
+            "source": [
+              "https://www.forter.com/forter-element/"
+            ],
+            "title": "Forter Element for PSPs (OEM/Embedded)",
+            "type": {
+              "code": "licensing_royalties",
+              "label": "Licensing Royalties"
+            }
+          },
+          {
+            "description": "Pricing tied to transaction volume, with the platform processing more than $400 billion in annual transaction value across merchants. ROI calculator helps merchants quantify value.",
+            "source": [
+              "https://www.forter.com/"
+            ],
+            "title": "Usage/Transaction-Based Pricing",
+            "type": {
+              "code": "usage_based",
+              "label": "Usage Based"
+            }
+          },
+          {
+            "description": "Sales via AWS Marketplace, including the AI Agents and Tools category where Forter's Trusted Agentic Commerce solution is listed. Eligible AWS customers can apply AWS committed spend (EDP).",
+            "source": [
+              "https://finance.yahoo.com/news/forter-partners-global-qsr-leader-140000435.html"
+            ],
+            "title": "AWS Marketplace Transactions",
+            "type": {
+              "code": "marketplace_commission",
+              "label": "Marketplace Commission"
+            }
+          }
+        ],
+        "marketing_channels": [
+          {
+            "description": "Active publication of articles on fraud prevention, agentic commerce, return abuse, payment optimization, Japan 3DS mandate, Visa VAMP, and product updates.",
+            "source": [
+              "https://www.forter.com/blog/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Forter Blog",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Solution briefs, white papers, case studies (Priceline, Kurt Geiger, Nordstrom), reports (PwC x Forter, Trust Premium Report), and market assessments.",
+            "source": [
+              "https://www.forter.com/resources/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Resource Center",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Self-service ROI calculator (hello.forter.com/roi-calculator) helps prospects quantify business value of the platform.",
+            "source": [
+              "https://www.forter.com/"
+            ],
+            "stage": {
+              "code": "bottom_of_funnel",
+              "label": "Bottom of Funnel"
+            },
+            "title": "ROI Calculator",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Global conference series: IMPACT NYC (Oct 14, 2026), IMPACT Europe (Sept 8, London), IMPACT China (Sept 11, Jinan). Includes IMPACT Awards recognizing customers like Wayfair and Priceline.",
+            "source": [
+              "https://www.forter.com/impact/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "IMPACT Conference Series",
+            "type": {
+              "code": "events_conferences",
+              "label": "Events/ conferences"
+            }
+          },
+          {
+            "description": "Participation at MPE 2026, Shoptalk 2026, and webinars (e.g., Visa VAMP updates). On-demand virtual events.",
+            "source": [
+              "https://www.forter.com/events/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Industry Events & Webinars",
+            "type": {
+              "code": "events_conferences",
+              "label": "Events/ conferences"
+            }
+          },
+          {
+            "description": "Active press release distribution via PR Newswire, Yahoo Finance, BusinessWire, and inclusion in Forbes, Frost & Sullivan, and industry analyst coverage.",
+            "source": [
+              "https://www.forter.com/newsroom/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Press Releases & PR",
+            "type": {
+              "code": "pr_earned_media",
+              "label": "PR/ Earned Media"
+            }
+          },
+          {
+            "description": "API reference, SDKs, integration guides at docs.forter.com; GitHub repository for the Trusted Agentic Commerce Protocol; ai@forter.com for developer collaboration.",
+            "source": [
+              "https://www.forter.com/"
+            ],
+            "stage": {
+              "code": "post_sale",
+              "label": "Post Sale"
+            },
+            "title": "Developer Documentation & Community",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          },
+          {
+            "description": "Forum curated by Forter for debate, discovery, and action around agentic commerce. Includes roundtables and think tanks.",
+            "source": [
+              "https://www.forter.com/agentic-commerce/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Agentic Commerce Collective",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          },
+          {
+            "description": "Direct phone (1-800-537-0601), sales@forter.com, info@forter.com, and dedicated Request Demo flows across product pages.",
+            "source": [
+              "https://www.forter.com/"
+            ],
+            "stage": {
+              "code": "bottom_of_funnel",
+              "label": "Bottom of Funnel"
+            },
+            "title": "Sales Outreach (1-800 line, Contact Sales, Request Demo)",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Joint marketing with IMPACT sponsors (AWS, Shopify, Spreedly, Salesforce, ESW, PwC) and channel partners (commercetools, Stripe, Shopify).",
+            "source": [
+              "https://www.forter.com/impact/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Partner Co-marketing",
+            "type": {
+              "code": "referral_affiliate_partner",
+              "label": "Referral/affiliate/ partner"
+            }
+          }
+        ],
+        "distribution_channels": [
+          {
+            "description": "Sales-led motion via sales@forter.com, 1-800 phone line, and dedicated 'Talk to Sales' / 'Request Demo' flows. Targets large global brands across retail, travel, QSR, marketplaces, and digital commerce.",
+            "scope": "Global",
+            "source": [
+              "https://www.forter.com/company/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Direct Enterprise Sales",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          },
+          {
+            "description": "Network of technology partners (Adobe, AWS, Shopify, Salesforce, SAP, Stripe, Ping Identity, commercetools), implementation SIs (PwC, Infosys, Perficient, Endava, Jellyfish), and regional resellers (GMO Payment Gateway, DG Financial Technology/Veritrans).",
+            "scope": "Global",
+            "source": [
+              "https://www.forter.com/partners/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Partner Ecosystem (Tech, SI, Reseller)",
+            "type": {
+              "code": "channel_reseller_var",
+              "label": "Channel/ Reseller/ VAR"
+            }
+          },
+          {
+            "description": "Embedded motion via a single integration that enables PSPs to offer Forter's fraud and identity capabilities to all their merchants with optional chargeback guarantee.",
+            "scope": "Global",
+            "source": [
+              "https://www.forter.com/forter-element/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Forter Element for PSPs (Embedded/OEM)",
+            "type": {
+              "code": "oem_embedded_whitelabel",
+              "label": "OEM/ Embedded/ White-label"
+            }
+          },
+          {
+            "description": "Forter's Trusted Agentic Commerce is listed in the AWS Marketplace AI Agents and Tools category; also listed in AWS Marketplace generally for eligible AWS customers using EDP spend.",
+            "scope": "Global",
+            "source": [
+              "https://www.yourcentralvalley.com/business/press-releases/cision/20250716NE29710/forters-trusted-agentic-commerce-is-now-available-in-the-new-aws-marketplace-ai-agents-and-tools-category"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "AWS Marketplace",
+            "type": {
+              "code": "marketplace_app_store",
+              "label": "Marketplace/ app store"
+            }
+          },
+          {
+            "description": "Sales acceleration through global IMPACT conference series (NYC, London, Jinan) where prospects engage with Forter experts and customer references.",
+            "scope": "Global",
+            "source": [
+              "https://www.forter.com/impact/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Direct Sales (Event-Driven at IMPACT)",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          },
+          {
+            "description": "Contact Sales form at /sales/, Contact Us at /contact-us/, and general info@forter.com inbox for inbound inquiries from mid-market merchants.",
+            "scope": "Global",
+            "source": [
+              "https://www.forter.com/newsroom/"
+            ],
+            "target_buyer": {
+              "code": "mid_market",
+              "label": "Mid-market"
+            },
+            "title": "Inside Sales / Contact Form",
+            "type": {
+              "code": "inside_sales",
+              "label": "Inside Sales"
+            }
+          }
+        ],
+        "cost_components": [
+          "Personnel",
+          "Technology or R&D",
+          "Marketing or Sales",
+          "Operations",
+          "Infrastructure"
+        ],
+        "pricing_details": [
+          {
+            "billing_cadence": {
+              "code": "multi_year_contract",
+              "label": "Multi-year contract"
+            },
+            "description": "Enterprise quote-based pricing; no public tiers",
+            "model": {
+              "code": "others",
+              "label": "Other"
+            },
+            "notes": "Pricing determined through Contact Sales and Request Demo flows. Available via AWS Marketplace with potential use of AWS committed spend (EDP). ROI Calculator tool available for self-service estimation.",
+            "source": [
+              "https://www.forter.com/company/"
+            ]
+          }
+        ],
+        "gtm_type": {
+          "code": "b2b",
+          "label": "B2B"
+        },
+        "offering_type": {
+          "code": "software",
+          "label": "Software"
+        }
+      }
+    },
+    "credits_consumed": 6
+  }
+}

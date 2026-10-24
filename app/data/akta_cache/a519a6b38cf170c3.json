@@ -1,0 +1,437 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002dz&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:34.495Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 35670428,
+        "title": "Yapay zeka destekli sağlık girişimi Pearl, 110 milyon dolar yatırım aldı",
+        "url": "https://webrazzi.com/2026/07/09/yapay-zeka-destekli-saglik-girisimi-pearl-110-milyon-dolar-yatirim-aldi/",
+        "publisher": "Webrazzi",
+        "published_date": "2026-07-09T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6514,
+        "ai_summary": "Pearl, an AI-driven healthcare startup, raised $110 million in funding. The investment came from a $50 million equity round led by Andreessen Horowitz and a $60 million debt round from Trinity Capital. The company will use the funds to develop its AI platform and expand partnerships with healthcare and insurance providers.",
+        "word_count": 192,
+        "original_language": "TR",
+        "author": "İdil Dilber",
+        "countries": [],
+        "industries": [
+          {
+            "name": "SaMD – Imaging & Signal Analysis (AI/ML)",
+            "code": "HLACANAG",
+            "is_primary": true
+          },
+          {
+            "name": "Healthcare & Life Sciences Growth Equity",
+            "code": "FSANACAB",
+            "is_primary": false
+          },
+          {
+            "name": "Independent Venture Debt Funds / Platforms",
+            "code": "FSANAIAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000003f",
+            "name": "Trinity Capital",
+            "website": "https://trinitycap.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000e4p",
+            "name": "Viking Global Investors",
+            "website": "https://www.vikingglobal.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002jd",
+            "name": "AlleyCorp",
+            "website": "https://alleycorp.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000b7fx",
+            "name": "Ulysses Capital",
+            "website": "https://ulyssescap.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          },
+          {
+            "code": "20000218",
+            "name": "biotechnology business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "286",
+            "name": "Medical Health"
+          },
+          {
+            "code": "109",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "524114",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          },
+          {
+            "code": "8050",
+            "name": "SERVICES-NURSING & PERSONAL CARE FACILITIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jeffrey deflavio",
+            "kevin ryan",
+            "michael kopko",
+            "ankit patel"
+          ],
+          "location": [
+            "şirket"
+          ],
+          "product": [
+            "yapay zeka destekli sağlık girişimi pearl"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8597,
+        "group_id": 3053428,
+        "full_text": "Yapay zeka destekli sağlık girişimi Pearl, 110 milyon dolar yatırım aldı. Şirketin 110 milyon dolarlık yatırım turu iki farklı finansman yapısından oluştu.\n\nYatırımın 50 milyon dolarlık bölümü Andreessen Horowitz liderliğinde gerçekleşen öz sermaye yatırım turundan geldi. Bu yatırım turunda Viking Global Investors, AlleyCorp ve Ulysses Capital yer aldı. Yatırımın kalan 60 milyon dolarlık kısmı ise Trinity Capital tarafından sağlanan borç finansmanı olarak gerçekleşti.\n\nPearl, yeni gelen yatırımı yapay zeka platformunu geliştirmek, sağlık sistemi ve sigorta kuruluşlarıyla iş birliklerini büyütmek ve yeni risk yönetimi çözümleri geliştirmek için kullanacağını açıkladı.\n\nŞirket, 2020 yılında Michael Kopko, Jeffrey DeFlavio, Ankit Patel ve Kevin Ryan tarafından hayata geçirildi. Pearl, Medicare hastalarına hizmet veren sağlık kuruluşları ve doktorlar için yapay zeka destekli bir sağlık teknolojisi platformu geliştiriyor. Platform, hastaların sağlık risklerini analiz ederek bakım süreçlerinin daha etkili yönetilmesine yardımcı oluyor.\n\nPearl'ün geliştirdiği sistem, sağlık hizmeti sağlayıcılarının iş akışlarını düzenliyor, riskleri önceden tahmin ediyor ve olası sağlık sorunları büyümeden önce gerekli adımların atılmasını otomatikleştiriyor. Böylece hem bakım kalitesinin artırılması hem de sağlık maliyetlerinin azaltılması hedefleniyor.\n\nŞirket, ayrıca yapay zeka ajanlarıyla yıllık sağlık kontrollerinin planlanması, taburcu olduktan sonra hasta takibi ve bakım yönetimi gibi idari süreçleri otomatikleştirerek sağlık çalışanlarının hastalara daha fazla zaman ayırmasını sağlıyor."
+      },
+      {
+        "id": 35657414,
+        "title": "Alpha Partners backs Pearl in historic $58 million dental AI funding round",
+        "url": "https://alphapartners.com/blog/alpha-partners-backs-pearl-in-historic-58-million-dental-ai-funding-round/",
+        "publisher": "Alphapartners",
+        "published_date": "2026-07-02T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Alpha Partners joined Pearl's $58 million Series B, the largest dental AI funding round. Pearl's AI improves X-ray interpretation accuracy and boosts patient treatment acceptance by 30%. The funding will expand product lines and strengthen IP.",
+        "word_count": 317,
+        "original_language": "EN",
+        "author": "The Alpha Team",
+        "countries": [],
+        "industries": [
+          {
+            "name": "SaMD – Imaging & Signal Analysis (AI/ML)",
+            "code": "HLACANAG",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ut3",
+            "name": "Neotribe Ventures",
+            "website": "https://www.neotribe.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000uhl",
+            "name": "Crosscut Ventures",
+            "website": "http://www.crosscut.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000056p",
+            "name": "Alpha Partners",
+            "website": "https://alphapartners.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000005w",
+            "name": "Craft Ventures",
+            "website": "https://craftventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0004f8x",
+            "name": "Smash Capital",
+            "website": "https://smashcap.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000737",
+            "name": "medical research"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          },
+          {
+            "code": "339116",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "six continents",
+            "120 countries"
+          ],
+          "product": [
+            "pearl"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 11610560,
+        "full_text": "Alpha Partners backs Pearl in historic $58 million dental AI funding round\n\nWe are excited to announce our participation in Pearl’s groundbreaking $58 million Series B funding round, the largest ever investment in dental artificial intelligence. This investment solidifies Pearl’s position as a global leader in revolutionizing dental care through AI-powered solutions. Elevating dental care standards Pearl’s AI technology is transforming the dental industry by addressing a key challenge: inconsistent diagnostic accuracy. By leveraging machine learning and computer vision, Pearl’s platform serves as a real-time aid for dentists, enhancing the accuracy and consistency of X-ray interpretations, ultimately improving patient care. This translates to increased efficiency within dental clinics and dental service organizations, as dentists can spend less time reviewing X-rays and more time providing care. On average, Pearl’s AI has also been shown to boost patient acceptance of recommended treatments by 30%. Additionally, the AI tool has proven valuable for insurers by reducing fraud, waste, and abuse. With FDA clearance and regulatory authorizations in over 120 countries, Pearl’s impact spans six continents. This significant investment will fuel further innovation, allowing Pearl to expand their product line, strengthen their intellectual property, and make AI-powered dental care accessible to an even wider audience. The Alpha Partners model Alpha Partners is a $150 million growth fund writing $3-$15 million checks into primary venture rounds. Our model is to partner with companies’ early investors and help them continue to bet on their winning portfolio companies by leveraging their access to new financings. We have built a deep network of 1000+ investment firms that spans early, growth, and pre-IPO investors, and to date have deployed over $250 million into 30 companies with this strategy. If you’d like to discuss collaborating with Alpha, please reach out to hello@alphapartners.com or livechat us via our website. We are honored to join Left Lane Capital, Smash Capital, Craft Ventures, Neotribe Ventures, and Crosscut Ventures in supporting Pearl."
+      },
+      {
+        "id": 41760267,
+        "title": "Pearl Raises Largest-Ever Investment in Dental AI with $58 Million Round",
+        "url": "https://www.aetoswire.com/en/news/2407202440519",
+        "publisher": "AETOSWire",
+        "published_date": "2026-01-01T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Pearl raised $58 million in Series B funding led by Left Lane Capital, the largest investment in dental AI. The company will use the funds to expand its AI product line, regulatory portfolio, and global access. Pearl's AI is FDA-cleared and used in over 500,000 dental practices.",
+        "word_count": 821,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ut3",
+            "name": "Neotribe Ventures",
+            "website": "https://www.neotribe.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000056p",
+            "name": "Alpha Partners",
+            "website": "https://alphapartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000005w",
+            "name": "Craft Ventures",
+            "website": "https://craftventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0004f8x",
+            "name": "Smash Capital",
+            "website": "https://smashcap.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ophir tanz",
+            "vinny pujji",
+            "megan cahalan"
+          ],
+          "location": [
+            "120 countries",
+            "six continents",
+            "new york"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 15353468,
+        "full_text": "Megan Cahalan\nMatter Health for Pearl\nPearl@matternow.com\nThe landmark investment in dental artificial intelligence enables Pearl to further expand its dental AI solutions and meaningfully improve oral health outcomes for patients\n(BUSINESS WIRE)--Pearl, the global leader in dental AI, today announced that it has raised $58 million in Series B funding to accelerate its mission to elevate patient care in dentistry. Left Lane Capital led the round, with participation from Smash Capital, Alpha Partners, and existing investors, Craft Ventures and Neotribe Ventures. This funding marks the largest investment ever in dental artificial intelligence.\nWith this investment, Pearl will continue to advance innovation in technologies that enhance the health of dental patients around the world by expanding its line of dental AI products, broadening its regulatory and patent portfolio, and increasing global access to the transformative benefits of AI in dentistry. At present, Pearl’s machine learning and computer vision tools solve a core challenge in dentistry: inconsistency in diagnostic accuracy, which directly impacts the quality of patient care. The company’s AI serves as a real-time aid to help dentists read patient x-rays, deliver consistent, objective, and accurate diagnoses, and clearly communicate findings to patients with precision, clarity, and confidence.\nSince receiving the first-ever FDA clearance for AI software to help dental professionals detect multiple different pathologies and other conditions in x-rays, Pearl’s clinical AI has gained regulatory authorizations for chairside use in over 120 countries and recognition among TIME’s Best Inventions. The company plans to use the funding announced today both to accelerate ongoing development of computer vision capabilities – including detection and tracking of disease in 3D and other imaging modalities – and introduce new AI tools to improve patient treatment planning, insurance claim approvals and dental education.\n“In the field of healthcare, dentistry has become an AI standard-bearer, demonstrating the technology’s enormous utility and benefit in day-to-day patient care––and Pearl has led the AI charge in dentistry,” said Ophir Tanz, founder and CEO of Pearl. “This historic funding round underscores the impact of Pearl’s capabilities and supports our belief that high-quality, AI-powered dental care should be accessible to everyone. With this investment, Pearl will continue to push the envelope, providing pioneering machine learning to improve oral health outcomes and strengthen trust between the patient and dental professionals.”\nThis investment follows a period of significant growth for Pearl. The company grew its revenue by 458% in 2023 and remains the only dental AI company with a global market presence. Pearl’s technology is used in dental practices across six continents and is commercially available to over 500,000 dental practices and millions of dental professionals worldwide. The company has also integrated its AI into dozens of popular imaging and practice management systems and is the preferred radiologic AI provider for leading dental technology distributors.\n“We have spent the past year evaluating this market and it is clear that Pearl stands above peers at the forefront of dental innovation,” said Vinny Pujji, Managing Partner at Left Lane Capital. “Pearl’s pioneering dental Al improves diagnostic accuracy and efficiency while transforming the provider-patient relationship. We’re confident in Pearl’s ability to continue setting new standards of care and are thrilled to support their next phase of growth.”\nPearl’s AI technology offers a seamless and less invasive approach to dental diagnostics. By accurately detecting disease and displaying clinical findings that are easy for patients to understand, the company’s FDA-cleared software enhances the efficiency, consistency, and precision of radiologic exams, while also facilitating patient education and engagement in their dental health. Leveraging its new funding, Pearl will enable dental professionals to continually raise the standard of care with more transparent, accurate and objective diagnoses, more effective individualized care, and deeper patient trust in dentistry.\nFor more information on how Pearl’s suite of solutions can enhance your dental practice, visit hellopearl.com.\nAbout Pearl\nPearl is an AI-driven company committed to enhancing patient care in dentistry. Founded in 2019 by a team with decades of experience developing successful, enterprise-grade computer vision solutions, Pearl introduced the first-ever FDA-cleared AI capable of reading and instantly identifying diseases in dental x-rays. With regulatory clearance in 120 countries, Pearl’s AI assists dentists in making precise clinical decisions and effectively communicating with patients, thereby transforming the dental care experience worldwide. As dentistry’s global AI leader, Pearl is committed to the ongoing innovation of robust, accessible AI tools that improve patient health outcomes and build greater trust in dental medicine. To request a demo, please visit hellopearl.com/getdemo.\nAbout Left Lane Capital\nFounded in 2019, Left Lane Capital is a New York and London-based global venture capital and growth equity firm investing in internet and technology companies with a consumer orientation. Left Lane’s mission is to partner with extraordinary entrepreneurs who create category-defining companies across growth sectors of the economy, including software, healthcare, e-commerce, consumer, fintech, medtech, and other industries. Select investments include Bilt Rewards, Polycam, Kings League, M1 Finance, Wayflyer, Masterworks, Blank Street, Talkiatry, LemFi, and more. For more information, please visit www.leftlane.com.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20240724200226/en/\nMegan Cahalan\nMatter Health for Pearl\nPearl@matternow.com"
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

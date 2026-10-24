@@ -1,0 +1,1837 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=000004k&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:07.845Z",
+  "data": {
+    "total": 16,
+    "limit": 50,
+    "offset": 0,
+    "count": 16,
+    "data": [
+      {
+        "id": 33635379,
+        "title": "Spring Health Highlights Employer Demand for Family-Focused Mental Health Support",
+        "url": "https://www.tipranks.com/news/private-companies/spring-health-highlights-employer-demand-for-family-focused-mental-health-support",
+        "publisher": "Tipranks",
+        "published_date": "2026-08-20T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health highlighted family mental health as a workplace concern during back-to-school, suggesting employers adopt flexible schedules and psychological safety. The post positions its offerings for year-round support, potentially increasing contract stickiness and addressable spend. It may also enable Spring Health to capture incremental revenue from expanded coverage tiers.",
+        "word_count": 212,
+        "original_language": "EN",
+        "author": "Tipranks Private Companies Auto-Generated Newsdesk",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Employer Wellness & Population Health Programs",
+            "code": "HLAEAAAH",
+            "is_primary": true
+          },
+          {
+            "name": "School-Based Mental & Behavioral Health Services",
+            "code": "EDAJAIAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000519",
+            "name": "employee benefits"
+          },
+          {
+            "code": "20000458",
+            "name": "mental health"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "89",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7424,
+        "group_id": 10178650,
+        "full_text": "According to a recent LinkedIn post from Spring Health, the company is emphasizing the growing importance of family mental health as a workplace concern during the back-to-school period. The post outlines practical steps employers can take to support working parents, including flexible schedules, psychological safety, and better awareness of children’s mental health warning signs.\n\nThe post suggests that Spring Health is positioning its offerings as relevant to employers seeking year-round mental health support for employees and their dependents. For investors, this focus underscores a potential demand driver in the employer-sponsored mental health benefits market, particularly among enterprises aiming to reduce productivity loss and retention risk tied to parental stress.\n\nBy highlighting family-oriented mental health needs, Spring Health appears to be targeting broader utilization of its services beyond individual employees. This framing may support deeper integration with HR and benefits strategies, potentially increasing contract stickiness and expanding addressable spend as organizations seek comprehensive solutions for workforce well-being.\n\nThe emphasis on early identification of child and adolescent distress could also signal opportunities for Spring Health to differentiate its product set with specialized resources. If employers respond by enhancing benefits in this area, Spring Health could capture incremental revenue from expanded coverage tiers and larger per-employee-per-month budgets within the competitive digital mental health landscape.\n\nDisclaimer & DisclosureReport an Issue"
+      },
+      {
+        "id": 27705003,
+        "title": "CalHR Selects Spring Health to Assume Statewide Employee Mental Health Support",
+        "url": "https://www.prnewswire.com/news-releases/calhr-selects-spring-health-to-assume-statewide-employee-mental-health-support-302826863.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-07-16T13:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "California's Department of Human Resources (CalHR) selected Spring Health to provide mental health support through a new Employee Assistance Program called 'Whole You,' covering more than 245,000 state employees across 153 departments. First responders, including firefighters, police officers, and correctional staff, receive the most extensive tier of care under the program, with support staff in CalFire, California Highway Patrol, and the Department of Corrections and Rehabilitation also receiving elevated support levels. The program, available immediately, replaces traditional EAP services with claims of 92% member improvement rates and appointments available in under two days on average.",
+        "word_count": 634,
+        "original_language": "EN",
+        "author": "Spring Health",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Peer Support, Recovery Coaching & Sober Living Services",
+            "code": "HLAFACAN",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health Managed Care (Medicaid) / BH Carve-In-Carve-Out Plans",
+            "code": "HLAEAEAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Compensation & Benefits",
+            "code": "WT03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000htv4",
+            "name": "California Department of Human Resources",
+            "website": "https://www.calhr.ca.gov/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "07000000",
+            "name": "health"
+          },
+          {
+            "code": "20001340",
+            "name": "mental wellbeing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "223",
+            "name": "Healthy Living"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8090",
+            "name": "SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "shannon macgregor",
+            "george michaels"
+          ],
+          "location": [
+            "california",
+            "sacramento, calif."
+          ],
+          "product": [
+            "whole you",
+            "spring health"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 3146351,
+        "full_text": "Whole You, Powered by Spring Health, extends personalized mental health care to more than 245,000 California state employees across 153 departments SACRAMENTO, Calif., July 16, 2026 /PRNewswire/ -- California's firefighters, police officers, parks departments, correctional staff, and many others spend their careers keeping communities safe and helping people through their worst days. Nationally, first responders develop PTSD at up to ten times the rate of the general population, according to a 2025 meta-analysis published in Clinical Psychology Review[1]. It's a toll that builds quietly over the routine weight of emergency response and is compounded during high-intensity stretches like fire season. The California Department of Human Resources (CalHR) is now providing the state's employees and their families access to Whole You, Powered by Spring Health, CalHR's new Employee Assistance Program (EAP) offering confidential, personalized support for care, crisis needs, work-life challenges, and everyday wellbeing. A lifelong mental health platform, Spring Health will deliver mental health care to more than 245,000 California state employees across 153 departments, and their eligible family members. First responders receive the most extensive tier of care under the new program, delivered by trauma-informed providers with direct experience in first responder roles. Support staff within CalFire, the California Highway Patrol and the Department of Corrections and Rehabilitation also receive an elevated level of support, reflecting the higher-stress nature of their roles. The State's 153,000 administrative or desk-based staff will also receive support under the new program. CalHR was drawn to Spring Health's proven outcomes, not just improved access. According to research published in OJPHI and JAMA Network Open, 92% of members reliably improve or recover from depression or anxiety, and members recover 5.9 weeks faster than the leading competitor, with appointments available in less than two days on average, compared to a 48-day average with traditional EAPs. \"First responders put themselves in harm's way over and over again to protect the communities they serve. That takes a toll not just on them, but on their families too,\" said George Michaels, Chief Revenue Officer at Spring Health. \"Partnering with CalHR to support more than 245,000 state employees is exactly the kind of large-scale, public-sector commitment we built Spring Health to deliver on, and we're honored to help deliver the mental health support they and their families deserve.\" \"When people go to work, they shouldn't have to leave their hearts at home,\" said Shannon MacGregor, Statewide Employee Assistance Program Manager at the California Department of Human Resources. \"Our first responders carry things most of us never have to. Whole You is our commitment that when they need support, it's there — fast, confidential and built around what they've actually experienced.\" Whole You, Powered by Spring Health, is available now to California state employees and their eligible dependents through their department's benefits resources. For more information on Spring Health's lifelong mental health platform, visit our webpage. About Spring Health Spring Health is a global mental health company built on one AI-native platform so care follows individuals across every job, move, health plan, and life stage. Independently validated by JAMA Network Open and the Validation Institute, with 92% of members reliably improved or recovered from depression or anxiety and employers seeing a 52% reduction in total mental health claims costs, Spring Health provides personalized lifelong mental health support across self-guided tools, coaching, therapy, medication management, and specialty care. More than 170 million people worldwide have access to Spring Health, which is trusted by leading employers, health plans, and channel partners, including Highmark, Target, The Coca-Cola Company, BlackRock, Microsoft, Pfizer, and Wawa. Media Contact: press@springhealth.com [1] Arena, A.F., Gregory, M., Collins, D.A.J., Vilus, B., Bryant, R., Harvey, S.B., & Deady, M. (2025). Global PTSD prevalence among active first responders and trends over recent years: A systematic review and meta-analysis. Clinical Psychology Review, 120, 102622. SOURCE Spring Health"
+      },
+      {
+        "id": 26916302,
+        "title": "Can AI Prevent Suicides? – Communications of the ACM",
+        "url": "https://cacm.acm.org/news/can-ai-prevent-suicides/",
+        "publisher": "Acm",
+        "published_date": "2026-07-01T17:12:24",
+        "sentiment": "Positive",
+        "sentiment_score": 0.988,
+        "ai_summary": "Spring Health, a mental health organization, has developed VERA-MH (Validation of Ethical and Responsible AI in Mental Health), an open-source clinically validated evaluation framework launched in October 2025 to measure how AI chatbots detect and respond to suicide risk, addressing growing concerns following lawsuits and incidents where AI allegedly contributed to suicides.",
+        "word_count": 1649,
+        "original_language": "EN",
+        "author": "Esther Shein",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+            "code": "HDAAACAI",
+            "is_primary": false
+          },
+          {
+            "name": "Couples & Family Therapy Teletherapy Platforms",
+            "code": "HLALAEAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000r9",
+            "name": "Google",
+            "website": "https://www.google.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001356",
+            "name": "depression"
+          },
+          {
+            "code": "20000810",
+            "name": "death and dying"
+          },
+          {
+            "code": "20000737",
+            "name": "medical research"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8090",
+            "name": "SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+          },
+          {
+            "code": "8734",
+            "name": "SERVICES-TESTING LABORATORIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "adam chekroud",
+            "chekroud",
+            "karla ivankovich",
+            "dr. paul nestadt",
+            "dr. david wolff",
+            "dr. sam zand",
+            "wolff",
+            "esther shein"
+          ],
+          "location": [
+            "florida",
+            "u.k.",
+            "new jersey",
+            "boston"
+          ],
+          "product": [
+            "vera-mh",
+            "google gemini",
+            "chatbot",
+            "app"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2691864,
+        "full_text": "A metal health organization is looking to measure how generative AI tools detect and respond to suicide risk.\n\nAs chatbots become more widely used as de facto mental health therapists, news about models encouraging people to commit suicide is growing more common. For example, Google Gemini has been cited in a wrongful-death suit alleging that the chatbot drove a 36-year old Florida man into delusional behavior and ultimately coached him toward committing suicide. The mother of a 14-year-old U.K. teen alleges her son also fell prey to a chatbot and took his life as a result. The parents of a 16-year-old boy who took his own life testified before a Senate subcommittee about the harmful effects of chatbots. The list goes on. Now, a mental health organization called Spring Health is looking to measure how generative AI (GenAI) tools detect and respond to suicide risk. The company has developed VERA-MH (Validation of Ethical and Responsible AI in Mental Health), which it maintains is the industry’s first open-source, clinically validated evaluation framework for this purpose. Adam Chekroud, cofounder of Spring Health, says that just as cars must have seatbelts, technology for mental health needs a safety standard. AI creates enormous potential in mental health by expanding access, reducing stigma, and supporting people between sessions in ways that weren’t possible a few years ago, Chekroud said. But the potential for harm is just as real, he added. “We’re currently in the middle of a massive, unregulated experiment where millions of people are turning to general-purpose AI for support, guidance, and even answers to therapeutic questions,” he said. “These models weren’t designed to work directly with mental health issues. Most lack clinical oversight, regulatory safeguards, and reliable crisis response mechanisms.” This puts individuals at risk in their most vulnerable moments, and puts employers responsible for their workforce’s well-being in an difficult position, Chekroud said. AI has been part of Spring Health’s model since day one, he said, and company officials “held ourselves to a strict internal safety bar: Anything touching a member or provider had to be clinician-co-developed, rigorously tested, and validated as safe.” Yet when Chekroud’s staff went looking for an external standard against which to benchmark their work, they couldn’t find a shared, clinically grounded definition of what “safe” actually means for AI in mental health, he said. “That absence of standards was a gap, not a failure; it was simply that no one had built a way to measure it yet,” Chekroud said. “We weren’t going to wait for a catastrophic failure to change that.” VERA-MH was developed in collaboration with the AI in Mental Health Safety & Ethics Council, an organization convened by Spring Health that includes practicing clinicians, healthcare leaders, ethicists, and AI developers, he said. The framework is designed to evaluate whether an AI system can recognize signs of crisis, respond appropriately, escalate to a human clinician when warranted, and maintain clear safety boundaries. “We started with suicide risk because that’s where getting it wrong carries the greatest potential for harm,” Chekroud explained. The framework was launched in October 2025, followed by an open consultation period that lasted for months and allowed external stakeholders to provide feedback. Chekroud said it was important to his team that VERA-MH be open source from the start. “Our goal was always widespread adoption to raise the bar on the overall safety of AI, not gatekeeping,” he said. The feedback was overall positive, with reviewers “noting that the benchmark is a strong and thoughtful starting framework for evaluating safety in mental health AI,” he said. The most common feedback focused on refining rubric definitions and rating criteria for what is safe vs. unsafe AI behavior; ensuring the set of user personas is diverse and not biased; and emphasizing the ultimate need for real-world validation against clinical standards and outcomes, Chekroud said. In response, the VERA-MH team refined the evaluation rubric for greater clarity and consistency, strengthened the representation and heterogeneity of user personas, and improved the scoring approach to make outputs more actionable and easier to interpret by developers and other stakeholders, Chekroud said. The free open-source code lets any developer plug VERA-MH into their system and infrastructure and receive a structured overall safety score, along with scores for five distinct safety dimensions, so problems can be identified and fixed before they reach users in crisis, Chekroud said. The five dimensions are: detecting potential risk, confirming risk, guiding users to human care when needed, maintaining supportive conversation, and respecting AI boundaries. For employers, health plans, and benefits consultants, Chekroud said VERA-MH offers a consistent clinical benchmark for evaluating and comparing AI mental health and other chatbots on how well they detect and respond to indications of suicide risk, and understanding how safe AI chatbots are in other parts of their benefit systems. For researchers and policymakers, it creates a shared language for developing guidelines and, eventually, regulation, he said. “One of the core problems in this space is that everyone is operating by their own internal definitions of ‘safe.’ VERA-MH won’t solve that overnight, but it gives the field a common starting point.” Mental health providers had mixed opinions on whether a framework for evaluating the safety of chatbots used in mental health will be effective. Dr. Paul Nestadt, a psychiatrist, epidemiologist, and associate professor at Johns Hopkins University, where he serves as medical director of the Center for Suicide Prevention, said a benchmark is a good idea in theory. While not familiar with VERA-MH, Nestadt said it could be a harm reduction measure, but he is concerned a benchmark may be an “imperfect measure.” Right now, AI is unpredictable, Nestadt noted; it’s different than software that people are used to, which is deterministic. In contrast, “AI is probabilistic, so it doesn’t act the same way twice. . . . Let’s say you’re able to train a model that does just what you want it to do; at the end of the day, it’s unpredictable.” That said, Nestadt likes the idea of “a publicly facing benchmark that is independently validated” and judges an AI model on its ability to escalate a situation to a human in the event of a crisis. At the same time, having benchmarks doesn’t preclude accidents from happening. “It just means we sort of agree that there needs [to be] some basic, bare minimum” standard, Nestadt said. It remains to be seen whether AI will ever have clinical judgment. Karla Ivankovich, a licensed clinical therapist, said she is not clear it will. Unfamiliar with VERA-MH, Ivankovich said she’d like to “see it in action” to determine whether it has properly vetted a chatbot. “AI generators are intended to basically help people complete a task,” Ivankovich said. “So if the task is for AI to sound more compassionate, we have to measure whether those benchmarks are going to interrupt [a person] from ideation to action.” The introduction of VERA-MH is “a major advancement,” said Dr. Sam Zand, a psychiatrist and CEO of Anywhere Clinic, which provides psychiatric telemedicine services. “A clinically informed open-source framework that defines how artificial intelligence should identify and respond to crises is precisely what is needed in the healthcare profession. The emphasis on recognition, response, escalation, and safety boundaries connects very closely to our current methods of evaluating suicide risk in the field of psychiatry.” Zand added that the biggest obstacle will be ensuring that the standard is able to effectively capture the nuance of indirect expressions of distress and produce consistent results in real-world situations. “For a standard to take hold in the marketplace, it must demonstrate credibility, be transparent, exhibit collaborative multi-stakeholder support, and obtain some degree of regulatory or institutional endorsement,” Zand said. “Ultimately, how effective these approaches are will determine if they are adopted into practice.” Dr. David Wolff, medical consultant at the New Life Mental Health rehabilitation center in New Jersey, said there is an urgent need for standardized expectations around safety, escalation, empathy, and referral to human care. “Mental health professionals should be involved in the creation of an industry benchmark for how generative AI detects and responds to suicide risk,” Wolff said. “Minimum safety standards for recognizing crisis signals can guide users toward human support.” How a chatbot responds to a person in crisis can “dramatically vary between platforms,” Wolff said. “The inconsistency creates real safety concerns for vulnerable users.” Chekroud said VERA-MH findings reveal significant variation in how commercially available AI chatbots identify and respond to potential suicide risk, highlighting the need for consistent safety standards. “Emerging research and evaluation frameworks like VERA-MH are already showing that some AI systems recognize suicide risk signs far better than others,” Wolff said. “When people disclose suicidal thoughts to an AI model, they shouldn’t be left to chance and having to depend on which app or model they happened to open that day.” Chatbot users may have a false sense of safety and trust when talking to AI, he added. “Unfortunately, these tools might miss warning signs or respond in ways that escalate the situation. Industry benchmarks will result in a safer experience for the millions of people who are already using AI tools while in emotionally vulnerable moments.” Chekroud said the team is encouraged that evaluations of leading general-purpose chatbots by VERA-MH show that “most models have gotten safer over time.” However, “gaps remain in consistently confirming risk in ambiguous situations and effectively guiding users to appropriate human care or support,” he said. “While most models are able to generally maintain supportive conversations and adhere to safety boundaries, there is still room for improvement across those areas, too.” Yet he believes this is a start, and momentum for the benchmark will continue to grow. “Without shared standards, accountability is impossible,” Chekroud said. “You can’t hold an industry to expectations that no one has written down.” Esther Shein is a freelance technology and business writer based in the Boston area."
+      },
+      {
+        "id": 25792813,
+        "title": "For Caregivers of Neurodivergent Children, Finding the Right Care Is a Full-Time Job",
+        "url": "https://www.prnewswire.com/news-releases/for-caregivers-of-neurodivergent-children-finding-the-right-care-is-a-full-time-job-302796162.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-06-10T13:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.3246,
+        "ai_summary": "Spring Health, a global mental health company, launched its Neurodiversity Program to provide specialized care for children with neurodivergent needs and their caregivers, requiring no formal diagnosis to begin. Research cited in the announcement shows caregivers spend more than 10 hours per week coordinating care, translating to over $18,000 in lost earnings annually. The program utilizes AI through Spring Health's Guide platform to streamline care navigation, reduce administrative burden, and connect families with clinically appropriate in-network support.",
+        "word_count": 647,
+        "original_language": "EN",
+        "author": "Spring Health",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Neurodevelopmental & Behavioral Therapy Platforms (ADHD/Autism/Behavioral Coaching)",
+            "code": "HLALAEAJ",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health for Children & Adolescents (Youth Services)",
+            "code": "HLAFACAL",
+            "is_primary": false
+          },
+          {
+            "name": "Family Caregiver Support, Training & Coaching",
+            "code": "HLADAGAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000787",
+            "name": "parenting"
+          },
+          {
+            "code": "20000490",
+            "name": "pediatrics"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "224",
+            "name": "Healthy Living"
+          },
+          {
+            "code": "313",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62411",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "624110",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "april koh",
+            "gijo mathew"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "neurodiversity program"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8685,
+        "group_id": 354568,
+        "full_text": "Caregivers of neurodivergent children spend more than 10 hours a week coordinating care, a burden that translates to over $18,000 in lost earnings annually. Spring Health's new Neurodiversity Program is designed to change that. NEW YORK, June 10, 2026 /PRNewswire/ -- For many working parents of neurodivergent children, getting care still means long waitlists, fragmented referrals, and a cycle of trial and error that can stretch on for years. The toll is financial as much as emotional. Studies show that the 10+ hours a week1 spent coordinating care for a neurodivergent child costs families more than $18,000 in lost earnings annually2. That burden shows up every day, in distraction, absenteeism, and the decisions employees make about whether to stay. As the school year ends and summer begins, the pressure intensifies: changes in routine are hard on everyone, the resources families rely on during the school year are often less available, and working caregivers carry more between their child's care and their job. Today, Spring Health, a global mental health company built on one AI-native platform, launched the Neurodiversity Program, specialized care for children with neurodivergent needs and their caregivers, with no formal diagnosis required to begin. The Neurodiversity Program provides care across the full spectrum of needs through specialized care navigation, multidisciplinary support for the child, coaching and skills support for caregivers, and neuropsychological assessments. Powering it all is Guide, Spring Health's AI-led experience built to replace the endless phone calls, paperwork, and administrative burden so caregivers don't need to be case managers. For families already using the Neurodiversity Program, the impact has been immediate. \"For once, I feel like I'm not alone in this. I never understood how anxiety and ADHD-related challenges can overlap, or how much they can affect the behaviors I was seeing day to day. That helped me understand my child in a new way. Thank you for helping us get started, giving me direction, and helping us move forward,\" said a working parent and Spring Health member. \"Caregivers spend months, sometimes years, chasing answers, coordinating care across providers who don't talk to each other, and absorbing a weight that follows them everywhere,\" said April Koh, co-founder and CEO, Spring Health. \"The right support, found earlier, changes the trajectory not only for the child's life, but the entire family.\" For employers, the Neurodiversity Program is designed to restore productivity for working caregivers by providing the most clinically appropriate, cost-effective in-network care for their child and expert, hands-on caregiver support. This gives employees the headspace to show up as the best versions of themselves at home and work. \"I know this problem from the inside. My family lives it,\" said Gijo Mathew, Chief Product Officer at Spring Health. \"What breaks caregivers is the years of wrong turns: the wrong referral, the wrong provider, the wrong care. We built the Neurodiversity Program to close that gap with one coordinated system that helps families understand what to do next and how to keep moving forward.\" The Neurodiversity Program is available now to Spring Health customers. For more information, visit springhealth.com/what-we-do/neurodiversity. About Spring Health Spring Health is a global mental health company built on one AI-native platform so care follows individuals across every job, move, health plan, and life stage. Independently validated by JAMA Network Open and the Validation Institute, with 92% of members reliably improved or recovered from depression or anxiety and employers seeing a 52% reduction in total mental health claims costs, Spring Health provides personalized lifelong mental health support across self-guided tools, coaching, therapy, medication management, and specialty care. More than 170 million people worldwide have access to Spring Health, which is trusted by leading employers, health plans, and channel partners, including Highmark, Target, The Coca-Cola Company, BlackRock, Microsoft, Pfizer, and Wawa. Media Contact:\n\npress@springhealth.com 1 The Child & Adolescent Health Measurement Initiative\n\n2 Children with Special Healthcare Needs and Forgone Family Employment SOURCE Spring Health"
+      },
+      {
+        "id": 26620865,
+        "title": "We Spent the Last Decade Building the AI-Native Mental Health Company the Next Decade Will Need",
+        "url": "https://www.springhealth.com/blog/building-ai-native-mental-health-company-next-decade-will-need",
+        "publisher": "Spring Health",
+        "published_date": "2026-05-29T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health co-founders reflect on the company's 10-year anniversary, positioning the first decade as the analog-to-digital transformation of mental healthcare and announcing their vision for an AI-native future. The company cites independently validated clinical outcomes including 92% patient improvement rates, 56% faster recovery times, and $1,796 in annual cost savings per patient. The next decade strategy centers on two new capabilities: Alma, which maintains therapist continuity across coverage changes, and Guide, an AI system providing continuous care support across providers and life stages.",
+        "word_count": 1273,
+        "original_language": "EN",
+        "author": "Written Byadam Chekroudpresident",
+        "countries": [],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Healthcare & Wellness Personalization",
+            "code": "HDAAAGAI",
+            "is_primary": false
+          },
+          {
+            "name": "Mental Health Therapist Marketplaces",
+            "code": "HLALALAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "feature",
+          "label": "Feature"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "alma"
+          ],
+          "location": [],
+          "product": [
+            "vera-mh",
+            "guide",
+            "401(k)",
+            "spring health"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8375,
+        "group_id": 2563684,
+        "full_text": "April and I started Spring Health 10 years ago today. When we did, mental healthcare was almost entirely analog. You called a 1-800 number. You worked your way through a phone tree. You waited weeks for an appointment, then left work and drove across town to keep it. The most personal experience in someone's life was delivered through the least personal infrastructure imaginable. The last decade was about closing that gap. We replaced phone trees with a platform. We gave people direct visibility into who their provider is, what they specialize in, and exactly when they are available. That was the analog-to-digital decade. The next one is AI-native. The mental healthcare it produces will look almost nothing like what came before. Where care still breaks Digital solved real problems. Faster access. Better matching. Transparent provider information. Outcomes you could actually measure. The experience, though, was still built around the transaction, not the person.\n\nBetter support, better outcomes, stronger teams. Explore how Spring Health helps organizations reduce costs and improve lives. Book a demo Featured articles Why Spring Health Is Joining Forces with Alma Why We Built Guide as a Multi-Agent System Instead of One Big Agent We Need AI Chatbots to Identify Suicide Risk Every Single Time. VERA-MH Can Help Feel better faster Get therapy, coaching, and medication support as low as $0 and as soon as tomorrow. Find care Featured articles Why Spring Health Is Joining Forces with Alma Why We Built Guide as a Multi-Agent System Instead of One Big Agent We Need AI Chatbots to Identify Suicide Risk Every Single Time. VERA-MH Can Help You can see it in the most ordinary version of trying to get help.\n\nThey find a therapist. They build trust. They make progress.\n\nThen they change jobs, move, switch health plans, or need a different level of care, and the thread breaks.\n\nThe system asks them to start all over again at exactly the moment they have the least energy to do it.\n\nThat is the problem that has stayed with us from the start. Even when care worked, it rarely stayed intact across the normal changes in a person's life. Even the best solutions of that era, ours included, optimized the transaction. They could create access to a moment of care. They did not solve for the lifetime. What the digital decade got right We founded Spring Health on a conviction: mental healthcare did not need to be trial and error. We proved a new clinical model, Precision Mental Healthcare, that made care far more personal, identifying the treatments and providers that worked best for each individual. Every match, every outcome, and every signal fed a model that learns what works, for whom, and under what circumstances. Ten years and millions of patients later, the results are independently validated and peer-reviewed: 92% of patients reliably improved or recovered from depression or anxiety, and they get better 56% faster than any other clinical model.\n\nAnd that patient’s healthcare costs $1,796 per year less as a result\n\nThose numbers matter because they show that better mental healthcare isn’t a vague aspiration or a nice to have. It's here today, it's working, it is saving companies money, and it improves over time as the system learns.\n\nWhat AI-native actually means The machine learning we built into Spring Health from day one was the first version of this idea. What is possible today is a generational leap beyond it.\n\nThe availability and affordability of general-purpose LLMs have revealed more demand for mental and emotional support than ever before. Millions of people are already turning to these tools every day for support, reflection, and guidance. LLMs have exposed just how often the formal system was unavailable, unaffordable, or inaccessible when people needed help.\n\nLegacy mental health systems are responding by bolting AI onto the old system, to speed up workflows, summarize notes, and look more modern. What they lack is a model of care that:\n\nRemembers context.\n\nLearns over time.\n\nHelps support continue across providers, coverage changes, and life stages.\n\nThat requires a different foundation: the one we’re building over the next decade. Building lifelong continuity You wouldn't sign up for a 401(k) if you knew you'd lose the balance and start over from zero every time you changed jobs. That is exactly what mental healthcare has asked people to do for decades. Every coverage change, every job change, every move resets the clock.\n\nAI-native architecture changes that. It makes lifelong continuity possible in two layers: a relationship that stays with you, and a thread that carries your story forward. The relationship: Alma Alma’s coverage is what makes it possible to keep the therapist you trust, even when your employer changes plans or you change jobs. With more than 170 million people worldwide now able to access Spring Health, we have the foundation in place to protect the progress a person has built, across the changes that have always interrupted it.\n\nYou stay with your care team. You stay with the relationship that is doing the work. The trust you have built does not reset to zero. The thread: Guide Guide is Spring Health's AI that supports people across every stage of their mental health journey, and the part of this that is genuinely new. It carries the context of your care across providers, sessions, and life stages. It provides a continuous thread that stays with you, learns from you, and helps every interaction with care build on every one that came before. Not as an alternative to therapy, but as the kind of memory that has never existed in healthcare before.\n\n‍ Guide is still early, but it is already proving its clinical impact in one of the most fragile periods of any care journey, the first few weeks, when most people fall off. In our first peer-reviewed study, members using Guide attended 5% more therapy sessions in their first seven weeks, completed their second session sooner, and improved continuity of care from 57% to 60%.\n\nPeople do not just need help finding care. They need help staying engaged with it long enough for it to work.\n\nNone of this came at the expense of the human relationship. Members using Guide reported no decline in therapeutic alliance with their providers. AI-native infrastructure does the work humans structurally cannot do, while preserving space for the work only humans can do. For a provider, that means showing up to every session with the full picture, not just what the patient remembers to mention. Together The relationship holds. The thread carries your story forward. Together, they make something possible that has never been possible in mental healthcare before: care that follows you, learns from you, and gets stronger the longer your story is intact.\n\nThe bar AI has to clear LLMs revealed the scale of the need. They also revealed their limits. They are immediate, but they are not built for longitudinal care, clinical context, or mental health safety. They have shown both the size of the opportunity and the risk of getting it wrong.\n\nIf AI is going to play a meaningful role in mental healthcare, it has to be held to a real standard. That is why Spring Health co-developed and open-sourced VERA-MH: the first open-source AI safety benchmark for mental health. The bar should be public, independently verifiable, and applied to everyone in the category, ourselves included. The next 10 years The first decade of Spring Health was about making mental healthcare digital, measured, and precise.\n\nThe next one will make it continuous, lifelong, and AI-native.\n\nThat is what we have been building toward for the last decade. It is what the next decade of mental healthcare will require. It is what the next decade will demand from all of us."
+      },
+      {
+        "id": 24207951,
+        "title": "Spring Health Launches 'Guide,' New AI Experience That Improves Mental Health Outcomes",
+        "url": "https://www.prnewswire.com/news-releases/spring-health-launches-guide-new-ai-experience-that-improves-mental-health-outcomes-302751086.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-04-23T12:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health, a global mental health company, has launched Guide, an AI-led mental health experience that the company states is backed by clinical evidence and a safety framework. A recent study by Spring Health found that individuals supported by Guide experienced faster improvement in depression and anxiety symptoms, with those needing care most showing up to 25% greater symptom improvement. Guide is now available to select Spring Health customers as the company positions itself as a lifelong mental health platform.",
+        "word_count": 475,
+        "original_language": "EN",
+        "author": "Spring Health",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Outpatient Mental Health Clinics & Counseling Centers",
+            "code": "HLAFACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000478",
+            "name": "therapy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "286",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8093",
+            "name": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "gijo mathew",
+            "april koh"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "guide"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9397,
+        "group_id": 1533810,
+        "full_text": "Safety-tested and backed by clinical evidence, Guide helps members improve outcomes faster with continuous, personalized support NEW YORK, April 23, 2026 /PRNewswire/ -- Mental healthcare has a continuity problem. Care resets each time something changes. Progress disappears. The next clinician starts from scratch. Today Spring Health, a global mental health company built on one AI-native platform, launches Guide, an AI-led experience with something no other mental health product has: clinical proof that it improves outcomes, and a safety framework developed by worldwide technology and clinical experts to identify and close the failure modes that have caused harm elsewhere. In a recent study by Spring Health, individuals supported by Guide experienced faster improvement in depression and anxiety symptoms. And those who needed care most saw the strongest gains — up to 25% greater symptom improvement. \"Mental healthcare has always been treated as a series of one-off events. Context is lost, progress resets, and momentum breaks,\" said April Koh, co-founder and CEO of Spring Health. \"Guide holds the full arc of a person's mental health, not just their most challenging moments. This is what it means to build a lifelong mental health platform, and today marks the beginning of it at scale.\" Spring Health's platform already produces strong clinical results: 92% of members show clinically significant improvement across its network. Guide extends that model, ensuring context persists as care evolves and that support reaches members between sessions, not only during them. The safety architecture behind those results is equally deliberate. Before deployment, every AI capability in Guide is scored against VERA-MH, the Validated Evaluation and Risk Assessment framework for Mental Health. Guide operates entirely within Spring Health's unified clinical platform — meaning every interaction builds on real clinical context, is coordinated with providers, and is subject to clinical oversight. \"No one can hold a decade of context across every session, every life change, every moment of need. Guide can do it safely,\" said Gijo Mathew, Chief Product Officer at Spring Health. \"That's not replacing human care. It's giving people something the system has never offered before: a continuous thread through their entire mental health journey.\" Guide is available now to select Spring Health customers. For more information, visit www.springhealth.com/guide. About Spring Health Spring Health is a global mental health company that connects members, providers, and organizations on a single AI-native platform so care follows individuals across every job, health plan, and life stage. Independently validated by JAMA Network Open and the Validation Institute for clinical outcomes and net savings, the company's AI platform provides personalized lifelong mental health support across self-guided tools, coaching, therapy, medication management, and specialty care. Today, more than 140 million people worldwide have access to Spring Health, which is trusted by leading employers, health plans, and partners, including Highmark, Target, The Coca-Cola Company, BlackRock, Microsoft, Pfizer, and Wawa. Media Contact:\n\npress@springhealth.com SOURCE Spring Health"
+      },
+      {
+        "id": 27063915,
+        "title": "Spring Health Launches 'Guide,' New AI Experience That Improves Mental Health Outcomes",
+        "url": "https://www.springhealth.com/news/guide-ai-experience-improves-mental-health-outcomes",
+        "publisher": "Spring Health",
+        "published_date": "2026-04-23T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health, a global mental health company, has launched Guide, an AI-led mental health experience designed to maintain continuity of care across sessions and transitions. Clinical data from a recent company study shows individuals supported by Guide experienced faster improvement in depression and anxiety symptoms, with those who needed care most achieving up to 25% greater symptom improvement. The product is now available to select Spring Health customers as part of the company's broader strategy to build a lifelong mental health platform.",
+        "word_count": 351,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Care Coordination, Referral Management & Transitions-of-Care Pathways",
+            "code": "HLACAGAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "07000000",
+            "name": "health"
+          },
+          {
+            "code": "20001340",
+            "name": "mental wellbeing"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "286",
+            "name": "Medical Health"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6219",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8090",
+            "name": "SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "gijo mathew",
+            "april koh"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "guide"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9051,
+        "group_id": 1533810,
+        "full_text": "NEW YORK — April 23, 2026 — Mental healthcare has a continuity problem. Care resets each time something changes. Progress disappears. The next clinician starts from scratch. Today Spring Health, a global mental health company built on one AI-native platform, launches Guide, an AI-led experience with something no other mental health product has: clinical proof that it improves outcomes, and a safety framework developed by worldwide technology and clinical experts to identify and close the failure modes that have caused harm elsewhere. In a recent study by Spring Health, individuals supported by Guide experienced faster improvement in depression and anxiety symptoms. And those who needed care most saw the strongest gains — up to 25% greater symptom improvement. \"Mental healthcare has always been treated as a series of one-off events. Context is lost, progress resets, and momentum breaks,\" said April Koh, co-founder and CEO of Spring Health. \"Guide holds the full arc of a person's mental health, not just their most challenging moments. This is what it means to build a lifelong mental health platform, and today marks the beginning of it at scale.\" Spring Health's platform already produces strong clinical results: 92% of members show clinically significant improvement across its network. Guide extends that model, ensuring context persists as care evolves and that support reaches members between sessions, not only during them. The safety architecture behind those results is equally deliberate. Before deployment, every AI capability in Guide is scored against VERA-MH, the Validated Evaluation and Risk Assessment framework for Mental Health. Guide operates entirely within Spring Health's unified clinical platform — meaning every interaction builds on real clinical context, is coordinated with providers, and is subject to clinical oversight. \"No one can hold a decade of context across every session, every life change, every moment of need. Guide can do it safely,\" said Gijo Mathew, Chief Product Officer at Spring Health. \"That's not replacing human care. It's giving people something the system has never offered before: a continuous thread through their entire mental health journey.\" Guide is available now to select Spring Health customers. For more information, visit www.springhealth.com/guide."
+      },
+      {
+        "id": 23832918,
+        "title": "Introducing Guide: Spring Health’s AI-Led Experience for Employer Mental Health",
+        "url": "https://www.springhealth.com/blog/guide-ai-experience",
+        "publisher": "Spring Health",
+        "published_date": "2026-04-23T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health has introduced Guide, an AI-led mental health experience designed for employer populations that maintains continuous care across providers, coverage changes, and life events rather than resetting when circumstances change. The product addresses a significant engagement gap where approximately 60% of employees never book a first session after enrolling and one in three attend only a single session, leading to low utilization and rising costs for employers. Guide operates within Spring Health's unified platform, using AI to remember clinical context over time, personalize support, and guide members to the right next step between sessions.",
+        "word_count": 882,
+        "original_language": "EN",
+        "author": "Written Bygijo Mathewchief Product Officer",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Outpatient Mental Health & Counseling Clinics",
+            "code": "HLAFABAC",
+            "is_primary": true
+          },
+          {
+            "name": "Care Coordination, Referral Management & Transitions-of-Care Pathways",
+            "code": "HLACAGAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001340",
+            "name": "mental wellbeing"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "maya",
+            "gene"
+          ],
+          "location": [],
+          "product": [
+            "guide"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7389,
+        "group_id": 223563,
+        "full_text": "Mental health isn’t episodic; it evolves across a person’s life. But today’s mental healthcare system is built around isolated moments of care: people find a provider, attend a session, and then are left to figure out what comes next on their own.\n\nWhen a person changes jobs, switches insurance, or their clinical needs evolve, they are often forced to hit a “reset button” on their care, losing access to their provider and the progress they’ve made. When care resets, people drop off.\n\nThis impact is felt even among employee populations: ~60% never book a first session after enrolling, and 1 in 3 attend only a single session.\n\nFor employers, that shows up as low utilization, inconsistent outcomes, and rising costs without meaningful improvement. What they need is not just access to care, but continuous engagement in care, so people stay long enough to get better, and stay better.\n\nBetter support, better outcomes, stronger teams. Explore how Spring Health helps organizations reduce costs and improve lives. Book a demo Featured articles No items found. Feel better faster Get therapy, coaching, and medication support as low as $0 and as soon as tomorrow. Find care Featured articles No items found.\n\nAt Spring Health, we’ve spent the last decade building the AI-native infrastructure to make that possible, connecting every member experience, provider interaction, and outcome on a single platform.\n\nWith that foundation, it’s now possible to deliver mental healthcare in a fundamentally different way: one that carries context forward across providers, coverage changes, and life events so care doesn’t reset, and progress isn’t lost.\n\nThat’s why we are pleased to introduce Guide, Spring Health’s AI-led experience for employer mental health. Guide supports people across every stage of their journey, helping them start care with confidence, stay engaged, and build progress that lasts.\n\nThe impact is measurable. Members supported by Guide see faster improvement in depression and anxiety symptoms, with the greatest gains among those who need care most.\n\nA system built for moments, not for lives Mental health isn’t something that happens once. It’s something people carry with them across their lives, through stress at work, relationships, family, growth, and change. But the system was never designed around that reality. It was built for appointments, for isolated episodes, for moments in time, not for what happens between those touchpoints, or how care should evolve as life evolves. That’s where care breaks down.\n\nA shift to AI-led care Guide is a fundamental shift in how mental healthcare works. Instead of care happening only during sessions, support extends into everyday life. Instead of employees having to figure out what to do next, they’re guided to the right next step.\n\nInstead of losing context when something changes, care stays connected. Guide was built to solve a problem we see every day: people open up, make progress, and then have to start over with a new provider, a new system, or a new moment in life. Guide changes that. It remembers context, understands what someone is going through, and guides them to the right next step, whether that’s support in the moment or reinforcing what they’ve already learned. So instead of restarting again and again, care builds.\n\nWhat makes this possible Delivering care this way requires capabilities that didn’t exist before: remembering context over time, supporting people beyond individual moments, and learning at scale to personalize for each individual. Guide brings these capabilities to life. Because everything is connected in Spring Health’s platform, every interaction builds on real clinical context. Members don’t repeat their story, providers see the full picture, and care evolves as life evolves. What this looks like in practice Take Maya and her therapist, Gene. In session, Maya shares that she’s dreading a difficult conversation with her sister. Together, they unpack Maya’s fears and concerns and make a plan to practice the conversation. Later that week, Guide prompts Maya to roleplay that conversation with her sister. In the next session, Maya and Gene don’t start from scratch. Instead, they discuss how the roleplay went, building on work outside their session, turning insight into concrete progress. Guide was made to counteract the moments where care typically breaks, where engagement is either lost or sustained, like the homework that is never completed, the next session that is never scheduled, or the great insight that is lost after a therapy session ends.\n\nWhy AI, and why now AI is already being used for emotional support. In fact, emotional support and companionship is the top use case for generative AI, which means many people are already using AI as their therapist. But most of those tools are not designed for mental healthcare. They lack clinical context, safeguards, and integration with real care. We’ve already seen the consequences, from misleading advice to harmful guidance in moments that require clinical care. That creates real risk for employees in vulnerable moments, and for employers responsible for providing safe, effective support. The answer isn’t to ignore AI. It’s to build it the right way. Guide isn’t a standalone chatbot or generic AI that delivers one-size-fits-all answers. It operates inside Spring Health's unified platform, where every member experience, every provider workflow, and every outcome is connected. That means every interaction builds on real clinical context, support is personalized, and care stays coordinated. Members don’t repeat their story, providers see the full picture, and care evolves as life evolves."
+      },
+      {
+        "id": 21617118,
+        "title": "Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms",
+        "url": "https://www.openpr.com/news/4456577/mental-health-apps-market-2026-2033-ai-therapy-digital",
+        "publisher": "openPR.com",
+        "published_date": "2026-04-06T14:31:51",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "DataM Intelligence released a market research report on the global Mental Health Apps Market, which reached US$6.49 billion in 2024 and is projected to grow to US$15.69 billion by 2033 at a CAGR of 10.4%. Key recent developments include notable mergers and acquisitions such as Universal Health Services acquiring Talkspace (March 2026), Spring Health announcing the acquisition of Alma (expected Q2 2026), and Cerebral acquiring Inflow (March 2026), alongside product and partnership expansions by companies including Headspace Health, Calm, and Talkspace across the U.S. and Japan.",
+        "word_count": 3402,
+        "original_language": "EN",
+        "author": "Datam Intelligence Research Llp",
+        "countries": [
+          "USA",
+          "JPN"
+        ],
+        "industries": [
+          {
+            "name": "Mental Health Therapist Marketplaces",
+            "code": "HLALALAJ",
+            "is_primary": true
+          },
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": false
+          },
+          {
+            "name": "Behavioral Health-Integrated Chronic Care (SUD comorbidity, collaborative care)",
+            "code": "HLALAFAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Policy & Legislative Changes",
+            "code": "RC02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000cj",
+            "name": "Talkspace",
+            "website": "https://talkspace.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000m26",
+            "name": "Universal Health Services",
+            "website": "https://uhs.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "sai kiran",
+            "gabriele ketterl"
+          ],
+          "location": [
+            "japan",
+            "united states",
+            "asia-pacific",
+            "the middle east",
+            "u.s.",
+            "italy",
+            "brazil",
+            "china",
+            "germany",
+            "canada",
+            "saudi arabia",
+            "russia",
+            "india",
+            "colombia",
+            "france",
+            "argentina",
+            "u.k.",
+            "australia",
+            "spain",
+            "u.a.e.",
+            "mexico",
+            "south korea",
+            "south africa",
+            "indonesia",
+            "north america",
+            "the netherlands",
+            "south america",
+            "europe",
+            "middle east & africa",
+            "asia pacific",
+            "middle east",
+            "vietnam",
+            "eu",
+            "southeast asia"
+          ],
+          "product": [
+            "digital mental health platforms",
+            "virtual counseling services",
+            "android",
+            "ios",
+            "communication platforms",
+            "mental wellness services",
+            "mobile platforms",
+            "wearable devices",
+            "home care settings",
+            "mental hospitals",
+            "digital mental health services",
+            "workplace mental wellness solutions",
+            "sapphire glass",
+            "smartphone screens",
+            "led substrates",
+            "protective covers",
+            "health coach",
+            "optical components"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9997,
+        "group_id": 1079998,
+        "full_text": "Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms Mental Health Apps Market DataM Intelligence has released a new research report titled \"Mental Health Apps Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms of both value and volume, along with emerging opportunities and the overall development outlook of the global Mental Health Apps market.\n\n\n\nReady to scale in the Mental Health Apps Market? Connect with the right partners and unlock new growth opportunities today:- https://www.datamintelligence.com/partner-identification-enquiry/mental-health-apps-market?rs\n\n\n\nPartner Identification\n\n\n\n✓Increase Your Customer Base by 3X using our Partner Identification tool\n\n✓Uncover strategic collaboration opportunities with DataM vetted partners aligned to your ecosystem.\n\n✓Identify high potential M&A targets based on synergies, market positioning and growth trajectory.\n\n✓Prioritize partners by strategic fit rather than general capability.\n\n\n\nThe Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033, growing at a CAGR of 10.4% during the forecast period 2026-2033.\n\n\n\nDownload Free Sample Report (Get Higher Priority for Corporate Email ID):- https://datamintelligence.com/download-sample/mental-health-apps-market?rs\n\n\n\nUnited States: Recent Industry Developments:\n\n\n\n✅ February 2026: Headspace Health expanded its AI-driven mental wellness platform by integrating personalized therapy recommendations and real-time mood tracking to enhance user engagement and clinical outcomes.\n\n\n\n✅ January 2026: Calm introduced advanced sleep therapy modules and workplace mental wellness solutions, targeting corporate clients to address rising stress and burnout levels.\n\n\n\n✅ December 2025: Talkspace strengthened partnerships with U.S. healthcare providers and insurers to improve accessibility to virtual therapy and expand coverage for digital mental health services.\n\n\n\nList of Key Players 2026:\n\n\n\nSanvello Health Inc., CVS Health Corporation, Mindscapes, Headspace Inc., Youper Inc., MoodMission, MoodTools, K Health Inc, Calm.com Inc., and Happify Health.\n\n\n\nGrowth Forecast Projected 2026:\n\n\n\nThe Global Mental Health Apps Market is anticipated to rise at a considerable rate during the forecast period, between 2026 and 2033. In 2025, the market is growing at a steady rate, and with the rising adoption of strategies by key players, the market is expected to rise over the projected horizon.\n\n\n\nKey Developments 2025-2026:\n\n\n\n✅ February 2026: Leading mental health app providers expanded AI-driven therapy features and personalized digital care solutions to meet the rising global demand for accessible mental wellness support.\n\n\n\n✅ January 2026: Companies introduced advanced mood-tracking algorithms and real-time analytics tools to enhance user engagement, early diagnosis, and personalized treatment plans.\n\n\n\n✅ December 2025: Adoption of digital mental health platforms accelerated due to increasing awareness, remote healthcare trends, and growing acceptance of teletherapy and virtual counseling services.\n\n\n\n✅ November 2025: Key players strengthened global partnerships with healthcare providers and insurers to expand service accessibility across emerging markets in Asia-Pacific and the Middle East.\n\n\n\n✅ October 2025: Investments in data security, privacy frameworks, and HIPAA-compliant technologies improved user trust, platform reliability, and regulatory compliance across mental health applications.\n\n\n\nHow Our Market Research Process Works:\n\n\n\nThe global Mental Health Apps Market research report is developed using a comprehensive combination of primary and secondary data sources. The study evaluates a wide range of industry-influencing factors, including government regulations, evolving market dynamics, competitive intensity, and historical performance trends. It also analyzes technological advancements, emerging innovations, and developments across related industries. In addition, the report assesses market volatility, growth opportunities, potential barriers, and key challenges that could impact the future expansion of the Mental Health Apps ecosystem.\n\n\n\nRecent Mergers & Acquisitions (M & A) 2025-2026:\n\n\n\n✅ March 2026: Universal Health Services acquired Talkspace to expand digital behavioral health services.\n\n✅ Q2 2026 (expected): Spring Health announced acquisition of Alma to strengthen integrated care and provider network capabilities.\n\n✅ March 2026: Cerebral acquired Inflow to expand ADHD-focused digital therapy solutions.\n\n\n\nRequest Strategic Market Customization: https://datamintelligence.com/customize/mental-health-apps-market?rs\n\n\n\nJapan: Recent Industry Developments:\n\n\n\n✅ February 2026: FiNC Technologies enhanced its mental health app capabilities with AI-based stress monitoring and personalized lifestyle coaching to support preventive healthcare.\n\n\n\n✅ January 2026: Sony Group Corporation advanced digital wellness solutions by integrating mental health tracking features into wearable devices and mobile platforms.\n\n\n\n✅ December 2025: LY Corporation expanded its digital health ecosystem by incorporating mental wellness services and counseling support within its communication platforms.\n\n\n\nMajor Focused Key Segmentations 2026:\n\n\n\nBy Platform Type: Android, iOS, Other Platform Types.\n\n\n\nBy Application: Depression and Anxiety Management, Stress Management, Meditation Management, Other Application Types.\n\n\n\nBy End-user: Home Care Settings, Mental Hospitals, Other End Users.\n\n\n\nRegional Growth Analysis for Market:\n\n\n\n⇥ North America (U.S., Canada, Mexico)\n\n\n\n⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)\n\n\n\n⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)\n\n\n\n⇥ South America (Colombia, Brazil, Argentina, Rest of South America)\n\n\n\n⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)\n\n\n\nWe Provide Benefits of the Report:\n\n\n\nChapter 1: Lays the foundation by defining the scope of the report, highlighting core market segments across regions, product types, and applications. It delivers a clear snapshot of current market size, growth potential, and how the industry is expected to evolve in both the near and long term.\n\n\n\nChapter 2: Spotlights the most impactful market insights, unveiling the transformative trends and forces shaping the future of the industry.\n\n\n\nChapter 3: Provides a deep dive into the competitive landscape of , covering revenue shares, strategic initiatives, and notable mergers & acquisitions that are reshaping the market.\n\n\n\nChapter 4: Presents detailed company profiles of leading players featuring financial performance, product portfolios, profit margins, and key milestones that set them apart in the industry.\n\n\n\nChapters 5 & 6: Break down revenue analysis at both regional and country levels, offering precise data on market size, growth drivers, and expansion opportunities across global markets.\n\n\n\nChapter 7: Analyzes the market by product type, spotlighting segment-specific opportunities and helping stakeholders identify untapped, high-growth areas.\n\n\n\nChapter 8 :Explores the market through application-based segmentation, assessing demand across industries and pinpointing downstream sectors with the strongest potential for growth.\n\n\n\nChapter 9: Maps the industry's supply chain in detail, tracing upstream and downstream activities to provide clarity on value creation across the ecosystem.\n\n\n\nChapter 10: Wraps up with a concise summary of the report's key insights distilling the most critical findings and strategic takeaways for decision-makers and stakeholders.\n\n\n\nUnlock Full 360° Strategic Report: https://www.datamintelligence.com/buy-now-page?report=mental-health-apps-market?rs\n\n\n\nFAQ\n\n\n\nQ1: What is the current size of the Mental Health Apps Market?\n\n\n\nA: Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033\n\n\n\nQ2: How rapidly will the Market expanding?\n\n\n\nA: The Mental Health Apps market is projected to grow at a CAGR of 10.4 % between 2026 and 2033.\n\n\n\nGet Unlimited Market Reports & Strategic Insights: https://www.datamintelligence.com/mental-health-apps-subscription?rs\n\n\n\nContact Us -\n\n\n\nCompany Name: DataM Intelligence\n\nContact Person: Sai Kiran\n\nEmail: Sai.k@datamintelligence.com\n\nPhone: +1 877 441 4866\n\nWebsite: https://www.datamintelligence.com\n\n\n\nAbout Us -\n\n\n\nDataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.\n\n\n\nOur research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele.\n\n\n\nThis release was published on openPR.\n\nDataM Intelligence has released a new research report titled \"Mental Health Apps Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms of both value and volume, along with emerging opportunities and the overall development outlook of the global Mental Health Apps market.Ready to scale in the Mental Health Apps Market? Connect with the right partners and unlock new growth opportunities today:-Partner Identification✓Increase Your Customer Base by 3X using our Partner Identification tool✓Uncover strategic collaboration opportunities with DataM vetted partners aligned to your ecosystem.✓Identify high potential M&A targets based on synergies, market positioning and growth trajectory.✓Prioritize partners by strategic fit rather than general capability.The Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033, growing at a CAGR of 10.4% during the forecast period 2026-2033.Download Free Sample Report (Get Higher Priority for Corporate Email ID):-United States: Recent Industry Developments:✅ February 2026: Headspace Health expanded its AI-driven mental wellness platform by integrating personalized therapy recommendations and real-time mood tracking to enhance user engagement and clinical outcomes.✅ January 2026: Calm introduced advanced sleep therapy modules and workplace mental wellness solutions, targeting corporate clients to address rising stress and burnout levels.✅ December 2025: Talkspace strengthened partnerships with U.S. healthcare providers and insurers to improve accessibility to virtual therapy and expand coverage for digital mental health services.List of Key Players 2026:Sanvello Health Inc., CVS Health Corporation, Mindscapes, Headspace Inc., Youper Inc., MoodMission, MoodTools, K Health Inc, Calm.com Inc., and Happify Health.Growth Forecast Projected 2026:The Global Mental Health Apps Market is anticipated to rise at a considerable rate during the forecast period, between 2026 and 2033. In 2025, the market is growing at a steady rate, and with the rising adoption of strategies by key players, the market is expected to rise over the projected horizon.Key Developments 2025-2026:✅ February 2026: Leading mental health app providers expanded AI-driven therapy features and personalized digital care solutions to meet the rising global demand for accessible mental wellness support.✅ January 2026: Companies introduced advanced mood-tracking algorithms and real-time analytics tools to enhance user engagement, early diagnosis, and personalized treatment plans.✅ December 2025: Adoption of digital mental health platforms accelerated due to increasing awareness, remote healthcare trends, and growing acceptance of teletherapy and virtual counseling services.✅ November 2025: Key players strengthened global partnerships with healthcare providers and insurers to expand service accessibility across emerging markets in Asia-Pacific and the Middle East.✅ October 2025: Investments in data security, privacy frameworks, and HIPAA-compliant technologies improved user trust, platform reliability, and regulatory compliance across mental health applications.How Our Market Research Process Works:The global Mental Health Apps Market research report is developed using a comprehensive combination of primary and secondary data sources. The study evaluates a wide range of industry-influencing factors, including government regulations, evolving market dynamics, competitive intensity, and historical performance trends. It also analyzes technological advancements, emerging innovations, and developments across related industries. In addition, the report assesses market volatility, growth opportunities, potential barriers, and key challenges that could impact the future expansion of the Mental Health Apps ecosystem.Recent Mergers & Acquisitions (M & A) 2025-2026:✅ March 2026: Universal Health Services acquired Talkspace to expand digital behavioral health services.✅ Q2 2026 (expected): Spring Health announced acquisition of Alma to strengthen integrated care and provider network capabilities.✅ March 2026: Cerebral acquired Inflow to expand ADHD-focused digital therapy solutions.Request Strategic Market Customization:Japan: Recent Industry Developments:✅ February 2026: FiNC Technologies enhanced its mental health app capabilities with AI-based stress monitoring and personalized lifestyle coaching to support preventive healthcare.✅ January 2026: Sony Group Corporation advanced digital wellness solutions by integrating mental health tracking features into wearable devices and mobile platforms.✅ December 2025: LY Corporation expanded its digital health ecosystem by incorporating mental wellness services and counseling support within its communication platforms.Major Focused Key Segmentations 2026:By Platform Type: Android, iOS, Other Platform Types.By Application: Depression and Anxiety Management, Stress Management, Meditation Management, Other Application Types.By End-user: Home Care Settings, Mental Hospitals, Other End Users.Regional Growth Analysis for Market:⇥ North America (U.S., Canada, Mexico)⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)⇥ South America (Colombia, Brazil, Argentina, Rest of South America)⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)We Provide Benefits of the Report:Chapter 1: Lays the foundation by defining the scope of the report, highlighting core market segments across regions, product types, and applications. It delivers a clear snapshot of current market size, growth potential, and how the industry is expected to evolve in both the near and long term.Chapter 2: Spotlights the most impactful market insights, unveiling the transformative trends and forces shaping the future of the industry.Chapter 3: Provides a deep dive into the competitive landscape of , covering revenue shares, strategic initiatives, and notable mergers & acquisitions that are reshaping the market.Chapter 4: Presents detailed company profiles of leading players featuring financial performance, product portfolios, profit margins, and key milestones that set them apart in the industry.Chapters 5 & 6: Break down revenue analysis at both regional and country levels, offering precise data on market size, growth drivers, and expansion opportunities across global markets.Chapter 7: Analyzes the market by product type, spotlighting segment-specific opportunities and helping stakeholders identify untapped, high-growth areas.Chapter 8 :Explores the market through application-based segmentation, assessing demand across industries and pinpointing downstream sectors with the strongest potential for growth.Chapter 9: Maps the industry's supply chain in detail, tracing upstream and downstream activities to provide clarity on value creation across the ecosystem.Chapter 10: Wraps up with a concise summary of the report's key insights distilling the most critical findings and strategic takeaways for decision-makers and stakeholders.Unlock Full 360° Strategic Report:FAQQ1: What is the current size of the Mental Health Apps Market?A: Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033Q2: How rapidly will the Market expanding?A: The Mental Health Apps market is projected to grow at a CAGR of 10.4 % between 2026 and 2033.Get Unlimited Market Reports & Strategic Insights:Contact Us -Company Name: DataM IntelligenceContact Person: Sai KiranEmail: Sai.k@datamintelligence.comPhone: +1 877 441 4866Website:About Us -DataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.Our research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele. Permanent link to this press release: Copy Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Share Tweet Email You can edit or delete your press release Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms here Delete press release Edit press release News-ID: 4456577 • Views: …\n\nVietnam Animal Supplement Market Analysis | Livestock Feed, Amino Acids & Probio … DataM Intelligence has released a new research report titled \"Vietnam Animal Supplement Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in … Sapphire Glass Market to Reach US$ 1,697.74 Million by 2032 Driven by Rising Dem … The Sapphire Glass Market reached US$ 951.22 million in 2024 and is expected to reach US$ 1,697.74 million by 2032, growing at a CAGR of 7.51% during the forecast period 2025-2032. Growth is driven by increasing demand for high durability and scratch resistant materials across industries such as consumer electronics, aerospace, healthcare, and defense. Sapphire glass is widely used in smartphone screens, wearable devices, optical components, LED substrates, and protective covers … Future of BIPV Glass Market | Solar Integration, Energy-Efficient Buildings & Gr … DataM Intelligence has released a new research report titled \"BIPV (Building Integrated Photovoltaics) Glass Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market … Surgical Simulation Market Trends (2026-2033) | Virtual Reality, Haptic Tech & S … DataM Intelligence has released a new research report titled \"Surgical Simulation Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms … All 5 Releases\n\nHealth Coach Market Positioned for Accelerated Growth with Iora Health, Virta He … Global health coach market is estimated to be valued at USD 18.83 Bn in 2025 and is expected to reach USD 30.65 Bn by 2032, exhibiting a compound annual growth rate (CAGR) of 7.2% from 2025 to 2032. Latest Report on the Health Coach Market 2025-2032, focuses on a comprehensive analysis of the current and future prospects of the Health Coach Market industry. An in-depth analysis of historical trends, future trends, … Digital Musculoskeletal (MSK) Care Market Top Companies Study - Hinge Health, Sw … InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the \"Global Digital Musculoskeletal (MSK) Care Market Size, Share & Trends Analysis Report Solution (Online/Virtual Consultations, Pain Management Therapy Programs, Remote Monitoring, Others), Condition (Back Pain, Foot & Ankle Pain, Knee & Lower Leg Pain, Neck & Shoulder Pain, Pelvis, Hip & Thigh Pain, Others), End User (Healthcare Providers, Healthcare Payers, Employers, Individuals/Patients, Others)- Market Outlook And … Digital Therapeutics Market Outlook 2025 : Proteus Digital Health, Omada Health, … ReportsWeb.com has announced the addition of the “Global Digital Therapeutics Market Size, Status and Forecast 2025” The report focuses on major leading players with information such as company profiles, product picture and specification. This report studies the global Digital Therapeutics market, analyzes and researches the Digital Therapeutics development status and forecast in United States, EU, Japan, China, India and Southeast Asia. This report focuses on the top players in global market, … Digital Therapeutics Market Outlook to 2025 - Propeller Health, CANARY HEALTH, N … The global digital therapeutics market is segmented on the basis of application, distribution channel, and geography. The application segment includes, respiratory diseases, central nervous system disease, smoking cessation, medication adherence, cardiovascular diseases, musculoskeletal diseases, and other applications. Based on distribution channel, the digital therapeutics market is segmented as, B2B and B2C. Digital therapeutics, a subset of digital health, is a health discipline and treatment option that utilizes a digital and … Digital Therapeutics Market Analysis 2018 | Growth by Top Companies: Proteus Dig … Global Digital Therapeutics Market to 2025 This report \"Digital Therapeutics Market Analysis to 2025\" provides an in-depth insight of medical device industry covering all important parameters including development trends, challenges, opportunities, key manufacturers and competitive analysis. Digital therapeutics, a subset of digital health, is a health discipline and treatment option that utilizes a digital and often online health technologies to treat a medical or psychological condition. The treatment relies on behavioral and … Digital Therapeutics Market 2018 Global Key Player Analysis - Omada Health, Twin … New Intelligence Report on “Digital Therapeutics Market to 2025” is recently published by The Insight Partners. The report aims to provide leading industry players with information such as company profiles, products and services offered, financial information of last 3 yesars, key development in past five years North America is estimated to contribute to the largest share in the digital therapeutics market in the coming years, owing to factors such as, improved …\n\nOpenPR ist the nicest and most clearly laid out PR platform I have seen to this day. The press releases are displayed very nicely and clearly and without any unnecessary frills. The updates are fast and the finished release looks appealing and is clearly legible. Even with 16 years of experience one discovers new things from time to time. Congratulations!\n\nGabriele Ketterl, Director Marketing & PR, Menads Your Press Release on Google News Press Release in German on openPR.de"
+      },
+      {
+        "id": 19401351,
+        "title": "VERA-MH Findings Highlight Gaps in How AI Chatbots Respond to Suicidal Ideation",
+        "url": "https://www.springhealth.com/news/vera-mh-for-suicide-risk",
+        "publisher": "Spring Health",
+        "published_date": "2026-02-11T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.791,
+        "ai_summary": "Spring Health announced the development of VERA-MH, an open-source framework to evaluate the safety of AI chatbots in mental health care, especially during high-risk conversations involving suicide risk. The framework has been applied to assess commercial AI models, revealing significant differences in how they handle vulnerable moments. The initiative aims to establish shared safety standards and expand responsible AI practices in mental health support. ",
+        "word_count": 691,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Crisis Support, Suicide Prevention & Acute Behavioral Triage Platforms",
+            "code": "HLALAEAI",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health Managed Care (Medicaid) / BH Carve-In-Carve-Out Plans",
+            "code": "HLAEAEAE",
+            "is_primary": false
+          },
+          {
+            "name": "Workplace Mental Health & EAP-Integrated Teletherapy Platforms",
+            "code": "HLALAEAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000463",
+            "name": "health organization"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "adam chekroud",
+            "dr. millard brown"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "vera-mh"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 985980,
+        "full_text": "NEW YORK, February 11, 2026 — Spring Health, a global mental health company, today announced a major advancement in its work to improve AI safety in mental health care with the application of VERA-MH (Validation of Ethical and Responsible AI in Mental Health), an open-source, clinically grounded framework designed to evaluate how AI chatbots behave in high-risk mental health conversations. As conversational AI tools become increasingly embedded in how people seek emotional and mental health support, including during moments of crisis, concerns have grown among clinicians, researchers, and policymakers about the safety of these systems when they encounter suicide risk and acute psychological distress. Without shared standards, developers and decision-makers lack a consistent way to assess whether AI systems respond appropriately when the stakes are highest. “AI is already present in some of the most vulnerable moments in people’s lives,” said Adam Chekroud, President and co-founder at Spring Health. “In mental health care, clinicians are held to clear standards designed to prevent harm. As AI increasingly operates in these same moments, it must be held to similarly rigorous expectations.” From Concept to Application In October 2025, Spring Health partnered with leaders across healthcare, technology, and ethics to launch VERA-MH, the first open-source, clinically grounded standard for evaluating the safety and effectiveness of AI chatbots in mental health care. Since opening the framework to the field, dozens of academic, clinical, and technology experts have joined the effort to help shape a common foundation for responsible innovation. Today’s announcement marks the next step in that work. VERA-MH has now been applied to assess commercially available AI models, beginning with conversations that may involve suicide risk. Suicide risk was selected as the first focus area because it represents the moment where getting safety wrong carries the greatest potential for harm. Major commercially available AI models showed meaningful differences in how they evaluate potential risk, respond supportively, guide users to human care, and maintain appropriate boundaries. These findings are not intended to indict individual systems but instead invite universal industry participation. Without widespread adoption of shared benchmarks, the field lacks a common definition of what “safe enough” means in practice. Shared Infrastructure for a Growing Ecosystem VERA-MH provides a structured way to define and evaluate safety expectations in high-risk mental health conversations, including recognizing suicide risk, responding appropriately, and escalating to human support when needed. “Shared safety standards are not a constraint on innovation,” said Dr. Millard Brown, Chief Medical Officer at Spring Health. “They keep people safe. Standards help developers innovate responsibly, enable employers and health plans to make informed decisions, and most importantly, help protect those in crisis. We all deserve confidence that if a loved one turns to an AI tool for support, it has been rigorously tested and proven safe.” An Invitation to the Field VERA-MH is designed to evolve over time as AI capabilities, use cases, and risks change. Suicide risk is the first milestone in a broader, multi-year effort to expand shared safety standards across additional mental health risk areas. Spring Health is calling on the industry to engage with VERA-MH and contribute to the development of future safety standards. Developers and researchers can immediately apply the open-source codebase to evaluate solutions against the benchmark. Employers, benefits consultants, and policymakers can advance responsible adoption by requiring the standard in AI implementation decisions. “Our goal is to raise the bar together,” said Dr. Millard Brown, Chief Medical Officer at Spring Health. “So that wherever AI shows up in someone’s hardest moments, the field can stand behind what ‘safe’ means. When safety fails in moments of suicide risk, lives are at stake.” For more information about VERA-MH and to access the open-source framework, visit https://www.springhealth.com/blog/vera-mh-for-suicide-risk About VERA-MH VERA-MH (Validation of Ethical and Responsible AI in Mental Health) is an open-source evaluation framework that provides a transparent, clinically grounded way to assess whether AI systems meet essential safety requirements in high-risk mental health conversations. Built in collaboration with clinicians, researchers, and the AI in Mental Health Safety & Ethics Council, VERA-MH is designed to make AI safety measurable, comparable, and accountable. For future updates and ongoing work, follow VERA-MH on LinkedIn. ‍"
+      },
+      {
+        "id": 18968530,
+        "title": "What the Spring Health, Alma Deal Means for the Future of Digital Health Dealmaking",
+        "url": "https://bhbusiness.com/2026/01/29/what-the-spring-health-alma-deal-means-for-the-future-of-digital-health-dealmaking/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-01-29T20:26:08",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8114,
+        "ai_summary": "Spring Health announced plans to acquire therapist enablement platform Alma, with the combined entity expected to generate $1 billion in revenue in its first year and valued at between $6 billion and $7 billion. Both companies target different payer markets but address the same challenge of connecting patients to mental health care, with Alma providing backend support for providers and helping them contract with insurance while Spring Health works with employers. The deal is expected to signal a growing number of mega deals in the digital behavioral health space as venture-backed companies explore exit strategies amid a difficult fundraising environment.",
+        "word_count": 1038,
+        "original_language": "EN",
+        "author": "Laura Lovett",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Behavioral Health & Psychiatry Virtual Care (Payer Network)",
+            "code": "HLALACAC",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral & Mental Health Virtual Care (EAP/Teletherapy)",
+            "code": "HLALADAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "6219",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ashleigh hollowell",
+            "adam checkround",
+            "chekroud"
+          ],
+          "location": [],
+          "product": [
+            "rula",
+            "headway",
+            "alama",
+            "alma",
+            "headspace",
+            "talkspace",
+            "mindstrong",
+            "noma",
+            "therapist enablement platforms"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1919643,
+        "full_text": "This is an exclusive BHB+ article During the post-pandemic investment boom, venture firms poured billions of dollars into the digital behavioral health sector. In 2021, at the peak of investor interest, digital behavioral health providers raised $4.8 billion in funding, according to Rock Health. ​While the sector attracted plenty of venture capital, it has had few mega M&A deals. But that may be shifting.​ This morning, mental health benefits platform Spring Health announced its plans to acquire therapist enablement platform Alma. Advertisement While the terms of the deal were not disclosed, both companies have raised hundreds of millions of dollars – and according to a Wall Street Journal report, the combined entity expects to see $1 billion in revenue in its first year and is valued at between $6 billion and $7 billion. I would not be surprised if the deal was valued north of $1 billion and investors got a healthy payout. I think the deal could signal a growing number of mega deals in the digital behavioral health space. I’m also interested to see what this deal could indicate for the futures of other therapist-enablement platforms such as Headway and Rula. Advertisement While Spring Health and Alma came from different corners of the market, these platforms could be attractive acquisition targets — particularly for payers looking to build or expand provider networks. ​In this week’s exclusive BHB+ Update, I will explore: – What we know about the Spring Health-Alma deal – What’s next for digital health M&A – Why payers might begin looking at therapist-enabled platforms Inside the Spring Health, Alma deal ​Spring Health’s acquisition of Alma is interesting because the two companies target different payer markets. Spring Health works with employers to give their staff members access to contract therapists through its platform. ​Meanwhile, Alma provides backend support for behavioral health providers and helps them contract with insurance providers. Adam Checkround, co-founder and president of Spring Health, told my colleague Ashleigh Hollowell that the acquisition made sense because both companies were addressing the same issue: connecting patients to mental health care. ​“Individually, Spring Health and Alma each reached significant scale addressing different parts of that challenge,” Chekroud said. “Together, this is the moment to accelerate impact by expanding access while reducing the total cost of care, strengthening provider infrastructure, and supporting continuity of care across more points in a person’s mental health journey.” I think the deal could work for Spring Health for a few reasons. First, it could help diversify revenue and tap into Alma’s extensive relationships with health plans. This comes as Spring Health’s core employer customers face point-solution fatigue — and publicly traded competitors like Talkspace (Nasdaq: TALK) report declining revenue in that same market. Companies are responding by diversifying beyond the employer market. Headspace, long known for employer-sponsored virtual therapy, rolled out a direct-to-consumer option in June that lets patients use their insurance — opening up an entirely new revenue stream.​ Chekroud also noted that the deal could help the combined entities support care transition for clients who move between employer-sponsored and health plan-sponsored care. While Alma and Spring Health will remain separate operating entities, coming under one roof means a much bigger company. This could be a tactic in moving towards a public offering. PitchBook speculated that Spring Health is a company to watch for an IPO in 2026. What does this mean for other therapist-enabled platforms? Over the past half a dozen years, payers have struggled with ghost networks and keeping up with patient access demands in behavioral health. This gave rise to therapist-enablement platforms, such as Alama, Headway and Rula. These platforms helped more independent therapists become in-network with payers and, in turn, gave payers access to thousands of therapists. Like Alma, many of these companies have raised significant funding. Take Headway: The company closed a $100 million funding round in 2024, raising its valuation to $2.3 billion. While these companies wouldn’t come cheap, they may be exploring exit strategies. So, which acquirer has deep pockets and needs an access expansion play? Payers. As more payers consider expansion opportunities, therapist enablement platforms could be a natural fit. Still, I could see many independent providers getting the “yuck” at paying a major insurance company for their tech stack and the up-front contracting expenses, just to turn around and bill that payer for a session. Alternatively, some of these companies might grow to the scale that the best exit strategy is public. And there are enough of these platforms out there that consolidation could still occur in the market. ​Digital health M&A picking up ​Digital health M&A never stopped, but it never matched the pace of venture investment either. However, I think we are poised to see some more dealmaking in 2026. For starters, many companies that took advantage of the digital behavioral health funding frenzy of the early 2020s are finding it a difficult environment to raise additional rounds. ​This could mean that some companies will be forced to find a deal or close their doors. We have already seen some smaller behavioral health providers close up shop. And many digital providers have shuttered; for example, virtual ketamine provider Noma closed its doors in September and Mindstrong shut down in 2023. ​Additionally, those investors who poured funds into those funding rounds are looking for a payout. And there seems to be some interesting moves in the space. Earlier this week, NOCD announced the acquisition of trauma-informed provider Rebound Health. At the same time, it announced that the pair will operate under a new parent company, Noto, which will act as a specialty behavioral health services provider. It’s an interesting move for the company because it allows it to expand into new areas of behavioral health, while keeping its specialty care at the center. ​At the end of last year, pediatric provider Handspring Health bought adolescent therapy Joon Care in a more cut-and-dry merging of the same specialty type companies. Similarly, virtual provider Kooth purchased Kismet Health’s pediatric telehealth platform in November. ​But I do expect to see some interesting and innovative mergers that help digital players, and dare I even say, more traditional players, get into new and innovative areas of the industry.\n\nCompanies featured in this article: Spring Health"
+      },
+      {
+        "id": 24373912,
+        "title": "7 Employee Wellness Programs That Boost Workplace ROI",
+        "url": "https://9dbreathwork.com/best-employee-wellness-programs/",
+        "publisher": "9Dbreathwork",
+        "published_date": "2026-01-22T18:14:27",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "This article is a comprehensive buyer's guide reviewing seven employee wellness programs for 2026: 9D Breathwork, Personify Health, Wellhub, Calm for Organizations, Headspace for Employers, Lyra Health, and Spring Health. Each platform is evaluated across features, pricing models (most quote-based), implementation complexity, and ideal use cases, with the article emphasizing that effective corporate wellness requires an integrated ecosystem rather than a single solution. The guide cites research indicating comprehensive wellness initiatives can reduce absenteeism and healthcare costs by up to 25%, and concludes with actionable steps for organizations to evaluate, pilot, and implement programs suited to their workforce's specific needs.",
+        "word_count": 5804,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Wellbeing, Mental Health & Employee Assistance (EAP)",
+            "code": "BPACAPAO",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral & Mental Health Virtual Care (EAP/Teletherapy)",
+            "code": "HLALADAB",
+            "is_primary": false
+          },
+          {
+            "name": "Corporate/Workplace Wellness Coaching",
+            "code": "HSADAGAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": true
+          },
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005h8",
+            "name": "Calm",
+            "website": "http://www.calm.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000aip",
+            "name": "Headspace",
+            "website": "https://www.headspace.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002lbe",
+            "name": "Personify Health",
+            "website": "https://personifyhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00009oi",
+            "name": "Lyra Health",
+            "website": "http://www.lyrahealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000wn",
+            "name": "Wellhub",
+            "website": "http://wellhub.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000519",
+            "name": "employee benefits"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "232",
+            "name": "Healthy Living"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "9d breathwork",
+            "personify health",
+            "wellhub",
+            "virgin pulse",
+            "9dbreathwork.com",
+            "gympass",
+            "calm",
+            "headspace",
+            "headspace health",
+            "lyra link",
+            "lyra connect",
+            "lyra",
+            "spring health",
+            "psychiatric services",
+            "lyra health"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8189,
+        "group_id": 748646,
+        "full_text": "The 7 Best Employee Wellness Programs to Boost ROI in 2026 The days of office fruit bowls and pizza parties defining corporate wellness are over. Modern workplaces demand a more sophisticated, strategic approach to employee well-being, one that addresses the complex challenges of burnout, stress, and mental health head-on. A study in the Journal of Occupational and Environmental Medicine found that comprehensive wellness initiatives can lead to a 25% reduction in absenteeism and healthcare costs. This shift is not just about perks; it’s about creating a resilient, engaged, and productive workforce. Truly strategic wellness extends beyond basic offerings to include fundamental support for employee well-being. For instance, companies can explore a comprehensive guide on implementing reasonable adjustments for mental health at work to build a genuinely inclusive culture. Investing in the best employee wellness programs is no longer a luxury but a core business imperative that directly impacts retention, performance, and your bottom line. This guide cuts through the noise to help you find the right fit for your team. We’ve curated a list of top-tier platforms and services, from innovative breathwork to comprehensive mental health support. For each program, you’ll find a direct link, a clear breakdown of its pros and cons, target audience, and actionable implementation tips to help you make an informed decision. Let’s explore the solutions that will genuinely support your employees’ health and drive your organization forward. 1. 9D Breathwork 9D Breathwork emerges as a powerful and innovative contender in the landscape of the best employee wellness programs, offering a deeply transformative experience that goes far beyond conventional stress-management techniques. It integrates ancient breathing practices with a modern, multi-sensory technological approach, creating a full-spectrum journey designed to address the root causes of workplace stress, burnout, and dissatisfaction. A study in Frontiers in Psychology found that breathwork interventions can significantly reduce stress and improve mental health. This platform is uniquely positioned for organizations seeking to provide employees with a tool for profound and lasting change, rather than a superficial fix. The core of the 9D Breathwork experience is its multi-layered methodology. Each session combines guided breathwork, binaural beats for brainwave entrainment, hypnotic suggestion, Neuro-Linguistic Programming (NLP), and subliminal messaging. This potent combination is engineered to bypass the conscious mind’s resistance and directly influence the subconscious, where limiting beliefs and stress patterns are stored. For corporate teams, this translates into a powerful tool for dismantling the deep-seated drivers of anxiety and overwhelm, fostering genuine resilience from the inside out. Key Features and Strengths Multi-Modal Approach: By layering multiple therapeutic modalities, 9D Breathwork creates a synergistic effect that targets the body, mind, and subconscious simultaneously for deeper, more sustainable shifts in well-being.\n\nBy layering multiple therapeutic modalities, 9D Breathwork creates a synergistic effect that targets the body, mind, and subconscious simultaneously for deeper, more sustainable shifts in well-being. Corporate Suitability: The program is explicitly designed to address common workplace challenges like burnout, job dissatisfaction, and high-stress environments, making it a highly relevant corporate wellness solution.\n\nThe program is explicitly designed to address common workplace challenges like burnout, job dissatisfaction, and high-stress environments, making it a highly relevant corporate wellness solution. Scalable Delivery Model: 9D Breathwork offers a digital franchise model that empowers certified facilitators to deliver standardized, high-quality, tech-enabled sessions to corporate clients, ensuring consistency and scalability. Implementation and Actionable Insights To integrate 9D Breathwork effectively, introduce it as the cornerstone of a mental resilience initiative. Start with a pilot program for a specific department experiencing high stress, such as sales or project management. Action Step: Schedule a 60-minute introductory “Stress Release & Reset” session for the pilot group, facilitated by a certified 9D practitioner. Frame it as an innovative experience-based workshop, not just another webinar. Collect pre- and post-session feedback using a simple 1-10 rating scale for stress, focus, and overwhelm to measure immediate impact. Based on the positive results, you can then develop a quarterly series of sessions focused on different themes like “Enhancing Focus” or “Overcoming Burnout.” Learn more about the foundations of breathwork therapy on 9dbreathwork.com to better understand its mechanisms. What to Consider While the approach is innovative, organizations should perform their own due diligence. Pricing, formal certifications, and specific corporate case studies are not publicly listed and should be requested directly. It’s also crucial to communicate that this is a powerful wellness tool, not a substitute for clinical mental health treatment. Employees with pre-existing medical conditions should be advised to consult a clinician before participating. Despite this, its unique, tech-forward approach makes 9D Breathwork a standout choice for companies ready to invest in a truly transformational wellness program. Website: https://9dbreathwork.com 2. Personify Health Personify Health (formerly Virgin Pulse) offers an enterprise-grade, unified wellbeing platform designed to be a single “front door” for all aspects of employee health. It excels at consolidating disparate benefits, care navigation, and wellness initiatives into one cohesive experience, making it one of the best employee wellness programs for large, complex organizations aiming to reduce vendor sprawl and simplify benefits for their workforce. The platform integrates everything from mental health support and fitness challenges to chronic condition management and benefits navigation. This holistic approach is grounded in behavioral science, using nudges, gamification, and personalized content to drive sustained engagement and healthy habits. Key Features & Benefits Personify Health stands out by bundling comprehensive services, which can streamline administration and improve the employee experience. Holistic Platform: Combines wellbeing programs, care navigation, incentives, and even TPA services in one place.\n\nCombines wellbeing programs, care navigation, incentives, and even TPA services in one place. Behavior-Change Tools: Utilizes gamification, team challenges, and live coaching to motivate employees. A study in the Journal of Medical Internet Research found that such gamified interventions significantly increased physical activity among participants.\n\nUtilizes gamification, team challenges, and live coaching to motivate employees. A study in the Journal of Medical Internet Research found that such gamified interventions significantly increased physical activity among participants. Global Scalability: Trusted by Fortune 500 companies, the platform is built to support large, diverse, and geographically distributed employee populations.\n\nTrusted by Fortune 500 companies, the platform is built to support large, diverse, and geographically distributed employee populations. Advanced Analytics: Provides robust data to track engagement, measure health outcomes, and demonstrate ROI/VOI for leadership. Implementation & Budget Pricing: Pricing is quote-based and typically structured as a Per Employee Per Month (PEPM), Per Participant Per Month (PPPM), or Per Employee Per Year (PEPY) fee. It is not publicly listed and requires a consultation.\n\nPricing is quote-based and typically structured as a Per Employee Per Month (PEPM), Per Participant Per Month (PPPM), or Per Employee Per Year (PEPY) fee. It is not publicly listed and requires a consultation. Best For: Mid-market to large enterprises (500+ employees) that need to manage a complex benefits ecosystem and are seeking a single, integrated solution.\n\nMid-market to large enterprises (500+ employees) that need to manage a complex benefits ecosystem and are seeking a single, integrated solution. Actionable Tip: To maximize ROI, leverage Personify Health’s data to identify key health risks in your population. For example, if data shows low physical activity, use the platform’s challenge tools to launch a company-wide “Step Challenge” with teams competing for a prize, like an extra day of PTO. Pros and Cons Pros Cons Enterprise Credibility: Strong track record with large, global organizations. Opaque Pricing: Quote-based model makes it hard to compare costs without a formal sales process. Reduces Vendor Sprawl: Consolidates multiple wellness and navigation vendors. Potential Overkill: May be too complex or feature-rich for small businesses needing a single solution. Broad Market Recognition: The rebrand from Virgin Pulse has maintained its visibility. Implementation Time: Integrating a comprehensive platform can require significant internal resources. How it Complements 9D Breathwork: A platform like Personify Health provides the broad, foundational structure for daily wellbeing. You can integrate specialized, high-impact modalities like 9D Breathwork as a featured “event” or “challenge” within the Personify ecosystem to target specific needs like stress reduction and peak performance. Learn more about how to design a comprehensive program by exploring these workplace wellness program examples. 3. Wellhub Wellhub (formerly Gympass) operates as a corporate wellness marketplace, offering employees subsidized access to a vast global network of gyms, fitness studios, virtual classes, and premium wellness apps. It stands out by providing unparalleled choice and flexibility, making it one of the best employee wellness programs for companies that want to empower their employees to pursue their own version of wellbeing, from physical fitness to mental health. The platform provides a consumer-grade experience where employees can browse and book services through a simple app, using a single membership. This model aggregates thousands of wellness partners, removing the friction for employees to find activities they genuinely enjoy and for employers to manage countless individual vendor relationships. Key Features & Benefits Wellhub’s strength lies in its extensive partner network and flexible, employee-centric design, which promotes autonomy and variety. Vast Partner Network: Provides access to thousands of gyms, studios, and wellness apps (like Calm and Headspace) globally, catering to diverse interests.\n\nProvides access to thousands of gyms, studios, and wellness apps (like Calm and Headspace) globally, catering to diverse interests. Tiered Membership Plans: Offers multiple plan levels (e.g., Digital to Diamond) with transparent employee-facing prices, allowing for choice based on budget and need.\n\nOffers multiple plan levels (e.g., Digital to Diamond) with transparent employee-facing prices, allowing for choice based on budget and need. Holistic Offerings: Goes beyond just gyms to include mindfulness, nutrition, sleep apps, and therapy, supporting a comprehensive view of health. A study in the American Journal of Health Promotion found that multicomponent wellness programs that include both physical and mental health resources are more effective at improving employee health outcomes.\n\nGoes beyond just gyms to include mindfulness, nutrition, sleep apps, and therapy, supporting a comprehensive view of health. A study in the American Journal of Health Promotion found that multicomponent wellness programs that include both physical and mental health resources are more effective at improving employee health outcomes. Simplified Administration: Employers manage a single contract with Wellhub while giving employees access to a massive, aggregated network of providers. Implementation & Budget Pricing: Employee-facing plan prices are publicly listed. The employer subsidy and overall cost structure, however, are quote-based and depend on company size and the level of contribution.\n\nEmployee-facing plan prices are publicly listed. The employer subsidy and overall cost structure, however, are quote-based and depend on company size and the level of contribution. Best For: Companies of all sizes (from startups to large enterprises) looking to offer a high-value, flexible fitness and wellness benefit that caters to individual employee preferences.\n\nCompanies of all sizes (from startups to large enterprises) looking to offer a high-value, flexible fitness and wellness benefit that caters to individual employee preferences. Actionable Tip: Launch a “Wellness Exploration” campaign when you roll out Wellhub. For example, challenge employees to try one new activity weekly for a month—a local yoga class, a guided meditation on a partner app, or a session with a nutritionist—and post a photo in a company-wide chat channel. The most adventurous participant wins a wellness-related prize. Pros and Cons Pros Cons Unmatched Employee Choice: Massive network of fitness and wellness partners. Opaque Employer Pricing: The exact employer subsidy and total cost are not publicly available. Transparent Employee Tiers: Easy for employees to understand plan costs. Access Limitations: Premium studios or popular classes can have booking caps depending on the plan tier. Global Scalability: Excellent for companies with a distributed workforce. Dependent on Partner Network: The value is contingent on the quality and density of partners in each location. How it Complements 9D Breathwork: Wellhub is an ideal “everyday wellness” platform that gives employees ongoing access to gyms and apps. You can then introduce a specialized modality like 9D Breathwork as a premium, high-impact workshop to address specific corporate goals like stress resilience and leadership development. Learn more about how to design a comprehensive program by exploring these workplace wellness program examples. 4. Calm for Organizations (Calm Business / Calm Health) Calm for Organizations extends the popular consumer meditation and sleep app into the corporate world, offering a streamlined, content-first approach to employee mental wellbeing. It is one of the best employee wellness programs for companies seeking a fast, scalable, and highly accessible solution to address common stressors like anxiety and poor sleep. By providing a vast library of guided meditations, sleep stories, and mindfulness exercises, Calm makes mental wellness resources immediately available to employees. The platform is designed for ease of use, both for administrators and employees. Its user-friendly interface and widely recognized brand name help drive adoption and engagement, making it a powerful tool for building a foundational layer of mental health support within an organization. A study published in the Journal of Affective Disorders found that regular use of a mindfulness app like Calm was effective in reducing self-reported depression symptoms. Key Features & Benefits Calm stands out with its speed to market and content that resonates with a broad audience, from meditation novices to experienced practitioners. Extensive Content Library: Offers thousands of hours of original audio content, including guided meditations, sleep stories, mindfulness exercises, and calming music.\n\nOffers thousands of hours of original audio content, including guided meditations, sleep stories, mindfulness exercises, and calming music. Rapid Deployment: Small to mid-sized teams (5-300 employees) can purchase and launch the program instantly online with a credit card, a unique feature among top-tier vendors.\n\nSmall to mid-sized teams (5-300 employees) can purchase and launch the program instantly online with a credit card, a unique feature among top-tier vendors. Admin Partner Portal: Provides HR and wellness leaders with real-time analytics on engagement, sign-ups, and content usage to measure program impact.\n\nProvides HR and wellness leaders with real-time analytics on engagement, sign-ups, and content usage to measure program impact. Brand Recognition: The consumer app’s popularity significantly lowers the barrier to entry, as many employees are already familiar with and trust the Calm brand. Implementation & Budget Pricing: For teams of 5-300, pricing is transparent and available for online purchase, starting around $58.99 per employee per year, with discounts for larger teams. Enterprise pricing for Calm Health is quote-based and requires a consultation.\n\nFor teams of 5-300, pricing is transparent and available for online purchase, starting around $58.99 per employee per year, with discounts for larger teams. Enterprise pricing for Calm Health is quote-based and requires a consultation. Best For: Small to large companies that want a low-friction, high-engagement mental wellness benefit that can be implemented almost immediately.\n\nSmall to large companies that want a low-friction, high-engagement mental wellness benefit that can be implemented almost immediately. Actionable Tip: Launch a company-wide “Mindful Month” challenge. For example, promote a different 10-minute “Daily Calm” meditation each week via internal comms. Use the Partner Portal to identify the most engaged department and reward them with a team lunch to boost friendly competition and participation. Pros and Cons Pros Cons Fastest Implementation: Unmatched speed-to-launch for smaller teams. Content-Focused: The standard plan lacks deep clinical support or one-on-one coaching. High Brand Recognition: Leverages a well-loved consumer brand to drive adoption. Opaque Enterprise Pricing: Costs for larger, more integrated Calm Health plans are not transparent. Accessible for All Levels: Content is approachable for beginners and experts alike. Passive Engagement Model: Relies on employees to self-initiate use of the app’s resources. How it Complements 9D Breathwork: Calm provides an excellent “always-on” resource for daily mindfulness and stress maintenance. You can then layer in 9D Breathwork as a powerful, instructor-led intervention for deeper transformation. Use Calm for daily practice and introduce a 9D Breathwork workshop as a peak experience in your wellness calendar to provide comprehensive stress management training for employees. 5. Headspace for Employers (Headspace Health) Headspace for Employers offers a powerful, integrated solution that combines preventive mental wellness with clinical mental health care. It merges the widely recognized Headspace mindfulness app with on-demand coaching, therapy, and psychiatry, making it a top contender among the best employee wellness programs for organizations prioritizing a comprehensive mental health strategy. This unified approach simplifies vendor management by providing a single resource for both proactive mindfulness and reactive clinical support. The platform is designed to meet employees wherever they are on their mental health journey. It provides accessible, everyday tools for managing stress and improving focus through its app, while also offering a clear pathway to higher levels of care, including 24/7 coaching and access to licensed therapists. Key Features & Benefits Headspace stands out by bridging the gap between daily mindfulness and clinical intervention, all under a brand that employees already know and trust. Integrated Care Spectrum: Provides a full range of services from the Headspace app (meditation, sleep, focus) to on-demand coaching, therapy, and psychiatry, functioning as a complete EAP replacement.\n\nProvides a full range of services from the Headspace app (meditation, sleep, focus) to on-demand coaching, therapy, and psychiatry, functioning as a complete EAP replacement. Strong Brand Recognition: The consumer popularity of Headspace drives higher initial adoption and engagement rates compared to lesser-known EAP providers.\n\nThe consumer popularity of Headspace drives higher initial adoption and engagement rates compared to lesser-known EAP providers. Evidence-Based Approach: The effectiveness of its mindfulness content is well-documented. A study in the Journal of Medical Internet Research found that just 10 days of Headspace use resulted in a 14% decrease in stress.\n\nThe effectiveness of its mindfulness content is well-documented. A study in the Journal of Medical Internet Research found that just 10 days of Headspace use resulted in a 14% decrease in stress. Global & Crisis Support: Offers enterprise-level implementation, robust impact reporting, and critical incident support for a distributed, global workforce. Implementation & Budget Pricing: Pricing is customized based on company size and selected services, typically following a Per Employee Per Month (PEPM) model. A consultation with their sales team is required for a quote.\n\nPricing is customized based on company size and selected services, typically following a Per Employee Per Month (PEPM) model. A consultation with their sales team is required for a quote. Best For: Companies of all sizes (from startups to large enterprises) looking for a dedicated, best-in-class mental health solution that covers both preventive care and clinical needs.\n\nCompanies of all sizes (from startups to large enterprises) looking for a dedicated, best-in-class mental health solution that covers both preventive care and clinical needs. Actionable Tip: Launch a “Mindful Mornings” initiative. For example, block 15 minutes in company-wide calendars every morning for one week for “Focus Time,” and encourage teams to use a guided meditation from the Headspace app during this period. Survey employees on perceived stress and focus levels before and after the week to demonstrate tangible impact to leadership. Pros and Cons Pros Cons Unified Mindfulness & Clinical Care: A single vendor for the full spectrum of mental health. Opaque Pricing: Requires direct sales engagement to understand costs and compare options. High Employee Engagement: Well-known brand encourages voluntary adoption and use. Broader Than Needed for Some: Small businesses wanting only a basic meditation app may find it too comprehensive. Strong Clinical Governance: Backed by a team of clinical experts and scientific research. Focus on Mental Health: Not an all-in-one wellness platform covering physical or financial wellbeing. How it Complements 9D Breathwork: Headspace provides an excellent “always-on” resource for daily mental hygiene and clinical support. You can introduce 9D Breathwork as a powerful, deep-dive workshop to address acute stress, burnout, or trauma that requires a more somatic and transformative experience than guided meditation alone can offer. Learn more about creating a multi-layered approach by reviewing these workplace wellness program examples. 6. Lyra Health Lyra Health provides a high-touch, workforce mental health solution that is a clear leader among the best employee wellness programs focused on clinical quality and measurable outcomes. Instead of offering a broad, lifestyle-focused platform, Lyra zeroes in on providing evidence-based therapy, coaching, and medication management through a rigorously vetted and credentialed provider network. This makes it an ideal choice for employers prioritizing deep, impactful mental health support over general wellness perks. The platform is engineered to remove barriers to care, offering fast access to providers and a personalized matching process to ensure a good fit. Its emphasis on data provides HR and finance leaders with the robust analytics needed to demonstrate the value and impact of their mental health investment, moving beyond simple engagement metrics to clinical outcomes. Key Features & Benefits Lyra’s strength lies in its clinical-first approach, ensuring employees receive effective, evidence-based care that drives real results. Evidence-Based Care: Connects employees with a large, high-quality network of therapists and coaches trained in proven methods like Cognitive Behavioral Therapy (CBT). A meta-analysis in Cognitive Therapy and Research confirmed CBT’s effectiveness in treating anxiety disorders, a common workplace issue.\n\nConnects employees with a large, high-quality network of therapists and coaches trained in proven methods like Cognitive Behavioral Therapy (CBT). A meta-analysis in Cognitive Therapy and Research confirmed CBT’s effectiveness in treating anxiety disorders, a common workplace issue. Blended Care Model: Integrates therapy, coaching, medication management, and digital self-care tools into personalized care plans for each employee.\n\nIntegrates therapy, coaching, medication management, and digital self-care tools into personalized care plans for each employee. Robust Employer Analytics: The Lyra Connect dashboard offers powerful, aggregate insights into workforce mental health trends, utilization, and clinical improvement, enabling data-driven decisions.\n\nThe Lyra Connect dashboard offers powerful, aggregate insights into workforce mental health trends, utilization, and clinical improvement, enabling data-driven decisions. Seamless Integration: Lyra Link and other tools integrate with existing benefits platforms, simplifying access for employees and reducing administrative burdens for HR teams. Implementation & Budget Pricing: Enterprise-focused pricing is quote-based, typically structured on a PEPM model. It is not publicly available and requires a consultation with their sales team.\n\nEnterprise-focused pricing is quote-based, typically structured on a PEPM model. It is not publicly available and requires a consultation with their sales team. Best For: Mid-market to enterprise companies (500+ employees) that want a premium, clinically-focused mental health benefit with strong ROI reporting capabilities.\n\nMid-market to enterprise companies (500+ employees) that want a premium, clinically-focused mental health benefit with strong ROI reporting capabilities. Actionable Tip: Use Lyra’s aggregate data to identify the top mental health challenges in your organization (e.g., burnout, anxiety). For example, if burnout is high in the engineering department, partner with Lyra to launch a targeted email campaign to that group, promoting specific resources like Lyra’s coaching for stress management and time-management skills. Pros and Cons Pros Cons Focus on Clinical Quality: Provider network is rigorously vetted for quality. Niche Focus: Less emphasis on physical wellness, nutrition, or financial health. CFO-Ready Reporting: Delivers measurable data on clinical outcomes and ROI. Enterprise Pricing: Cost may be prohibitive for smaller companies or startups. Reduces HR Burden: Strong integrations streamline benefits administration. High-Touch Model: May be more than what’s needed for companies seeking a simple, self-serve tool. How it Complements 9D Breathwork: Lyra provides the essential clinical framework for addressing diagnosed mental health conditions. You can introduce 9D Breathwork as a powerful, non-clinical tool for proactive mental fitness, helping employees manage daily stress and build resilience before they require clinical intervention. Discover more about building a supportive ecosystem with these workplace mental health programs. 7. Spring Health Spring Health is a comprehensive mental health solution that acts as a precise, data-driven front door for employee mental healthcare. It distinguishes itself by providing rapid access to care, personalized navigation, and robust analytics, making it one of the best employee wellness programs for organizations prioritizing measurable mental health outcomes and fast support for their workforce. The platform uses a proprietary assessment to create a personalized care plan for each employee, guiding them to the right level of support, whether it’s coaching, therapy, or medication management. This clinical precision aims to reduce the trial-and-error process often associated with finding effective mental healthcare, ensuring employees connect with the right provider quickly. Key Features & Benefits Spring Health’s strength lies in its speed, personalization, and focus on demonstrating tangible results for both employees and employers. Precision Mental Healthcare: Each member completes a dynamic assessment that generates a personalized, evidence-based care plan, guiding them to the most effective treatment.\n\nEach member completes a dynamic assessment that generates a personalized, evidence-based care plan, guiding them to the most effective treatment. Rapid Access to Care: The platform boasts an average time-to-care of less than two days, a critical factor when employees are in immediate need. Research in Psychiatric Services highlights that long wait times are a significant barrier to receiving mental health treatment.\n\nThe platform boasts an average time-to-care of less than two days, a critical factor when employees are in immediate need. Research in Psychiatric Services highlights that long wait times are a significant barrier to receiving mental health treatment. Dedicated Care Navigators: Every member is assigned a dedicated Care Navigator (a licensed clinician) to provide guidance, book appointments, and offer continuous support.\n\nEvery member is assigned a dedicated Care Navigator (a licensed clinician) to provide guidance, book appointments, and offer continuous support. Manager Training & Support: The “SpringsWorks” component provides leaders with playbooks, consultations, and crisis resources to help them support their teams’ mental wellbeing effectively. Implementation & Budget Pricing: Pricing is quote-based and requires a consultation. It is typically structured on a Per Employee Per Month (PEPM) basis, covering access to the platform and a set number of therapy or coaching sessions.\n\nPricing is quote-based and requires a consultation. It is typically structured on a Per Employee Per Month (PEPM) basis, covering access to the platform and a set number of therapy or coaching sessions. Best For: Companies of all sizes (from startups to large enterprises) that want to provide a high-touch, clinically-rigorous mental health benefit with a clear ROI.\n\nCompanies of all sizes (from startups to large enterprises) that want to provide a high-touch, clinically-rigorous mental health benefit with a clear ROI. Actionable Tip: Utilize the SpringWorks manager training to equip your leaders. For example, host a mandatory “Mental Health First Aid” workshop for all people managers using Spring Health’s resources. Role-play scenarios where managers practice recognizing signs of distress and confidently guide an employee to the platform using compassionate, pre-approved language. Pros and Cons Pros Cons Exceptional Speed-to-Care: Drastically reduces wait times for mental health support. Quote-Based Pricing: Lack of transparent pricing makes initial budget planning difficult without a demo. Data-Driven & ROI-Focused: Provides employers with clear analytics on engagement and outcomes. Niche Focus: Primarily centered on mental health; requires other vendors for physical or financial wellness. Personalized Care Navigation: High-touch support model reduces employee confusion and friction. U.S. Centric: While expanding, its network and primary focus have historically been strongest in the U.S. How it Complements 9D Breathwork: Spring Health provides the clinical framework for mental health treatment (therapy, psychiatry), while 9D Breathwork offers a powerful, non-clinical modality for immediate stress reduction and nervous system regulation. You can position 9D Breathwork sessions as a proactive, preventative tool within your wellness calendar to help employees manage daily stress before it escalates to a clinical level requiring Spring Health’s services. Explore these workplace wellness program examples for more integration ideas. Top 7 Employee Wellness Programs: Side-by-Side Comparison Item Implementation complexity Resource requirements Expected outcomes Ideal use cases Key advantages 9D Breathwork Medium–High: trained facilitators + tech stack Facilitator training, audio/entrainment tech, digital delivery/franchise support Deep stress/anxiety reduction and substrate-level behavioral shifts (non‑clinical) Corporate wellbeing experiences, experiential workshops, facilitator scaling Multi‑modal layering (breath + entrainment + subconscious reprogramming); scalable franchise model Personify Health High: enterprise deployment and integrations Platform configuration, admin teams, enterprise licensing and BI resources Consolidated wellbeing management, engagement tracking, ROI/VOI reporting Mid‑to‑large employers needing a single wellbeing “front door” Unified platform with analytics; reduces vendor sprawl; enterprise credibility Wellhub Low–Medium: marketplace onboarding and plan setup Employer subsidy budget, account admin, employee communications Broader employee access to fitness/wellness options and higher utilization Employers wanting flexible, tiered fitness/wellness networks Large partner network and transparent employee pricing tiers Calm for Organizations Low: quick license provisioning; optional enterprise setup User licenses, minimal admin setup; optional enterprise services Rapid access to meditation/sleep/stress content and baseline engagement Organizations wanting fast, content‑forward mental wellbeing at scale Fastest path to launch; broad, approachable content library Headspace for Employers Medium: app + clinical service integration Licenses, clinical service coordination, implementation support Preventive mindfulness plus on‑demand clinical care and improved engagement Employers seeking combined mindfulness and higher‑acuity mental health services Single vendor for preventive and clinical care; strong brand recognition Lyra Health High: provider network management and integrations Enterprise budget, benefits integrations, provider credentialing Measurable clinical outcomes, high‑quality therapy/coaching access Employers prioritizing clinical quality, measurable outcomes and CFO reporting Credentialed provider network; emphasis on clinical quality and analytics Spring Health Medium–High: care navigation and rapid access workflows Care navigators, integration with HR/benefits, implementation support Very fast time‑to‑care, guided navigation, employer insights Employers needing rapid access to care, guided navigation and manager support Speed‑to‑care with dedicated navigators; strong outcome tracking Your Action Plan: Choosing and Integrating the Right Program for Your Team Navigating the landscape of employee wellness programs can feel overwhelming, but this guide has armed you with the essential details on top-tier options like Personify Health, Wellhub, Calm, Headspace, Lyra Health, and Spring Health. We’ve explored how each platform tackles a different facet of well-being, from comprehensive health management and physical fitness to targeted mental health support and mindfulness. The central takeaway is clear: the most effective strategy isn’t about finding a single magic bullet, but about building a holistic, integrated ecosystem of support. The research is undeniable. A 2022 study published in JAMA Network Open found that multicomponent wellness interventions significantly improved employee health outcomes and reduced healthcare costs. This highlights the importance of layering solutions to address the diverse needs of your workforce. Synthesizing Your Strategy: From Selection to Success Your journey from evaluation to implementation requires a strategic, people-first approach. The best employee wellness programs are those that align with your company’s unique culture, address your employees’ specific pain points, and deliver measurable results. Key Takeaways to Guide Your Decision: Holistic is Non-Negotiable: Relying solely on a mental health app or a fitness subsidy is no longer sufficient. True well-being encompasses mental, emotional, and physical health. Your program should reflect this interconnectedness.\n\nRelying solely on a mental health app or a fitness subsidy is no longer sufficient. True well-being encompasses mental, emotional, and physical health. Your program should reflect this interconnectedness. Integration is Power: The most successful programs work in synergy. For instance, an EAP like Lyra Health can provide critical crisis support, while a platform like Calm offers daily preventative care. Adding a somatic modality like 9D Breathwork can then provide a powerful tool for processing stress and trauma that traditional talk therapy might not address.\n\nThe most successful programs work in synergy. For instance, an EAP like Lyra Health can provide critical crisis support, while a platform like Calm offers daily preventative care. Adding a somatic modality like 9D Breathwork can then provide a powerful tool for processing stress and trauma that traditional talk therapy might not address. Customization Drives Engagement: One size does not fit all. Look for partners that allow you to tailor offerings to different employee demographics, job functions, and stress levels. As a study in the American Journal of Health Promotion noted, personalized wellness programs see higher participation rates and greater long-term success. Your Immediate Next Steps Transforming insight into action is the final, crucial step. Use this checklist to build momentum and make a confident, informed decision for your team. Survey Your Team (Again): Before you sign any contract, gather fresh, anonymous feedback. Action: Use a simple tool like Google Forms to ask, “What is the #1 thing impacting your well-being at work today?” and “If you had a $50 monthly wellness stipend, what would you spend it on?” This data provides immediate direction. Audit Your Current Offerings: What do you already have in place? An underutilized EAP? A basic health insurance plan? Identify the gaps that a new program needs to fill. Action: Create a simple two-column list: “What We Have” and “What We Need.” This visual gap analysis prevents overlap and ensures you’re investing where it matters most. Request Targeted Demos: Approach vendors with your specific needs. Instead of a generic overview, ask platforms like Spring Health or Personify Health to demonstrate exactly how they would address your top three employee challenges. Action: Provide your top challenge from the survey (e.g., burnout) to vendors beforehand and ask them to tailor their 30-minute demo to solving that specific problem. Pilot a Program: If possible, run a small-scale pilot with a specific department. For example, introduce a somatic tool like 9D Breathwork to a high-stress team, like your sales or customer support departments. Measure feedback and engagement before committing to a company-wide rollout. Research from the Journal of Occupational and Environmental Medicine confirms that pilot programs are effective for testing feasibility and ROI. Ultimately, investing in employee wellness is one of the most powerful investments you can make in your organization’s future. It’s a commitment to building a resilient, engaged, and thriving workforce capable of navigating any challenge. By choosing thoughtfully and integrating strategically, you create a culture where every employee feels seen, supported, and empowered to do their best work. Ready to add a powerful, science-backed somatic tool to your wellness ecosystem? 9D Breathwork offers transformative virtual and in-person experiences designed to release stress, process trauma, and unlock peak performance. Discover how our unique approach can complement your existing programs and provide a profound new level of support for your team at 9D Breathwork. Experience 9D Breathwork Join your first or next 9D journey here.\n\nWe have 500+ certified facilitators worldwide and monthly journeys online, so choose what works best for you! Try 9D Online Journey Related Blog Posts A Practical Guide To Sitting For Meditation For Beginners Learning to sit for meditation is about so much more than just crossing your legs and closing your eyes. It’s about setting up a physical foundation that allows your mind to settle. Getting your posture right—making it comfortable and aligned—is the first... Read More 8 Powerful Inner Child Healing Exercises for Deep Transformation in 2026 Within every adult lives the echo of the child they once were. This “inner child” is a wellspring of creativity, joy, and spontaneity, but it also holds the memories of unmet needs and unhealed emotional wounds from our formative years. These early... Read More Binaural Beats for Depression: An Evidence-Based Guide When you’re navigating the heavy fog of depression, any tool that offers a sliver of light without demanding a huge effort can feel like a godsend. The world can feel loud and overwhelming, both inside and out. That’s where something as simple... Read More Loading Posts The 7 Best Employee Wellness Programs to Boost ROI in 2026 Latest Blogs A Practical Guide To Sitting For Meditation For Beginners 8 Powerful Inner Child Healing Exercises for Deep Transformation in 2026 Binaural Beats for Depression: An Evidence-Based Guide Blog Posts by Categories Categories 9D Breathwork (3)\n\n9D Exercise (108)\n\nBreathwork Essentials (1)"
+      },
+      {
+        "id": 33635497,
+        "title": "How Spring Health Is Setting The Standard For AI In Mental Health",
+        "url": "https://www.forbes.com/video/4f6e5757-dd18-4d50-8ee9-ba693e532fe5/how-spring-health-is-setting-the-standard-for-ai-in-mental-health/",
+        "publisher": "Forbes",
+        "published_date": "2026-01-14T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5503,
+        "ai_summary": "Spring Health is open-sourcing a new safety standard for AI in mental healthcare, as the industry faces allegations of AI-induced tragedies. The company's CPO, Gijo Mathew, discussed the promises and perils of AI in mental health with Forbes editor Maggie McGrath.",
+        "word_count": 53,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Crisis Support, Suicide Prevention & Acute Behavioral Triage Platforms",
+            "code": "HLALAEAI",
+            "is_primary": true
+          },
+          {
+            "name": "Responsible AI Policy, Controls & Workflow Management",
+            "code": "HDAAAMAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Executive Commentary & Interviews",
+            "code": "LG05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000458",
+            "name": "mental health"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "622210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62322",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "maggie mcgrath",
+            "gijo mathew"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 10178672,
+        "full_text": "\n\n\n\n\n\nCan AI handle the complexities of human emotion? Gijo Mathew, Chief Product Officer at Spring Health, joins Forbes editor Maggie McGrath to discuss the \"promises and perils\" of AI in mental healthcare. As the industry grapples with allegations of AI-induced tragedies, Spring Health is leading the charge by open-sourcing a new safety standard."
+      },
+      {
+        "id": 33635479,
+        "title": "Prevent and Simplify Mental Health Leave and Accommodations",
+        "url": "https://www.springhealth.com/what-we-do/mental-health-leave-and-accommodations",
+        "publisher": "Spring Health",
+        "published_date": "2026-01-01T00:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0927,
+        "ai_summary": "Spring Health's platform aims to reduce costs and complexity of mental health leave by providing rapid access to evaluations, personalized care plans, and return-to-work support. It also offers real-time status tracking and proactive HR insights to prevent unnecessary leave and reduce administrative burden.",
+        "word_count": 328,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Redundancy & Layoff Support Services (RIF Planning & Communications)",
+            "code": "BPACAOAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001340",
+            "name": "mental wellbeing"
+          },
+          {
+            "code": "20001220",
+            "name": "general practice"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.8944,
+        "group_id": 10178290,
+        "full_text": "Home /\n\nOur solutions /\n\nMental Health Leave and Accommodations Prevent and Simplify Mental Health Leave and Accommodations Tackle the rising costs of mental health leave of absences with Spring Health's platform. Request a Demo\n\nAs mental health leave rises, so do costs and complexity. Managing mental health leave has become unsustainable. The increase in volume of documentation, evaluations, and complex cases is time-consuming and emotionally draining for already overburdened HR teams. Employees in crisis face delays and stalled recoveries. Without timely evaluations, personalized care plans, or return-to-work support, trust erodes and repeat leaves are more likely. Each leave’s impact can hurt productivity, morale, and your bottom line. The ripple effect of these disruptions affects team dynamics and leads to costly employee turnover.\n\nTurn to tech that cuts the cost of mental health leave Our technology-first approach reduces the costs associated with mental health leave by: ‍ Preventing unnecessary leave through rapid access to high-quality mental healthcare and providing HR with real-time data to address trends before they escalate.\n\nthrough rapid access to high-quality mental healthcare and providing HR with real-time data to address trends before they escalate. Streamlining the leave process with guided clinical evaluations, personalized care plans, and dedicated return-to-work support.\n\nwith guided clinical evaluations, personalized care plans, and dedicated return-to-work support. Reducing administrative pain points with self-scheduling, real-time status updates, and integrated support that reduces escalations and strengthens communications across all stakeholders. Request a Demo\n\nHow it works Fast, Accurate Evaluations Easy self-scheduling connects employees in need with evaluation-trained providers, resulting in accurate documentation and reduced back-and-forth. Real-Time Status Tracking Evaluation status updates are received as they happen, reducing confusion and eliminating unnecessary escalations. Personalized Recovery Plans Each evaluation includes a personalized care plan that matches the employee’s level of need, ensuring they receive the right support for recovery and a smooth return to work. Proactive HR Insights Organizational hot spots are identified early so HR can shift from time-consuming, reactive firefighting to strategic workforce management.\n\nDriving efficiency with leading absence management partners"
+      },
+      {
+        "id": 17503126,
+        "title": "The Future of Mental Healthcare Is Continuous Care",
+        "url": "https://www.springhealth.com/blog/the-future-of-mental-healthcare-is-continuous-care",
+        "publisher": "Spring Health",
+        "published_date": "2025-12-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health is promoting its 'Continuous Care' model, which utilizes AI-driven tools like Guided Intake and Summaries & Takeaways to support mental health patients between therapy sessions. The company also introduced VERA-MH, an open-source framework for evaluating the safety and ethics of AI in mental healthcare. This initiative aims to reduce friction in care delivery and improve patient engagement through proactive, technology-enabled support.",
+        "word_count": 1994,
+        "original_language": "EN",
+        "author": "Written Bygijo Mathewchief Product Officer",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Integrated Behavioral Health in Primary Care (Collaborative Care)",
+            "code": "HLAFACAO",
+            "is_primary": true
+          },
+          {
+            "name": "Care Coordination, Referral Management & Transitions-of-Care Pathways",
+            "code": "HLACAGAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6213",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "gijo mathew"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9225,
+        "group_id": 6742240,
+        "full_text": "Jump to section Where We Started: Building Toward a New Model of Care What Continuous Care Is (and What It Isn’t) What We Built in 2025 and What It Taught Us Responsible Innovation: The Spring Standard Why We Believe the Industry Needs Continuous Care I grew up in a family where most people worked in healthcare. I saw how they practiced, how manual and fragmented the work was, and how little support existed for mental health. Watching how far the field has come, and how far it still needs to go, has been fascinating to me. Today, access has expanded, virtual appointments are now routine, evidence-based care is expected, and employers see mental health not as a side benefit but as a core driver of productivity, retention, and overall well-being. Technology has reshaped the way people engage with care, and cultural stigma has steadily given way to openness and demand. But for all this progress, one thing hasn’t changed nearly enough: the structure of care itself. Mental health support is still delivered overwhelmingly as a series of discrete, episodic encounters. A person reaches out when something breaks, receives care for a period of time, and then slips back into the background of a fragmented system until the next crisis brings them back. It’s reactive by design, and costly, both emotionally and economically. As the industry moves into its next chapter, the question is no longer simply how to expand access or digitize existing workflows. Those shifts have already reshaped the landscape. The real opportunity is to rebuild the care experience itself. At Spring Health, we believe that the future is Continuous Care: a model where support surrounds the member, not the other way around. One where care is proactive rather than reactive, connected rather than episodic, and deeply personalized rather than one-size-fits-all. This model aims to deepen the therapeutic alliance with providers, ensuring members remain engaged and achieve significant progress before, during and in between their sessions. This belief guided our work throughout 2025. And this year, we took our biggest steps yet toward making Continuous Care a reality. Where We Started: Building Toward a New Model of Care When we began investing in AI years ago, the goal wasn’t to build technology for its own sake. It was to solve real human problems in the care journey. Healing doesn’t follow a weekly cadence. Between sessions, members often: Forget what they intended to discuss,\n\nLose momentum after a breakthrough, or\n\nDisengage when life becomes overwhelming Providers see these patterns every day, but without scalable tools, it’s nearly impossible to support every member between visits without increasing administrative or emotional burden. So we asked a simple but transformative question: What if care didn’t stop when the session ended? We never saw AI as a replacement for empathy or therapeutic skill. We saw it as a way to help members stay oriented to their goals, feel grounded before sessions, and hold onto insights after. Our early work focused on empathy, risk identification, and navigation to build the clinician-supervised, safety-first foundation needed for something bigger. That foundation set the stage for Continuous Care, a model that uses technology to integrate support before, during, and after every session. What Continuous Care Is (and What It Isn’t) Continuous Care doesn’t mean having a therapist on call 24/7. It’s not asynchronous therapy, and it’s certainly not a replacement for the therapeutic relationship. Instead, Continuous Care is about giving members the right kind of support between sessions to help them stay connected to their goals, build on the work they’re doing with their provider, and make steady, meaningful progress. It reinforces the therapeutic process rather than taking away from it. At its core, Continuous Care reduces the friction and uncertainty that so many people feel throughout their journey. It helps avoid that familiar sense of “starting over” each week, and it creates a more seamless, grounded experience of care. I like to think of Continuous Care as a way to better integrate the work more deliberately into everyday life to help people get better even faster. What We Built in 2025 and What It Taught Us This year, we expanded our member experience with features that start to bring our vision of Continuous Care to life: Guided Intake and Summaries & Takeaways. Together, these tools help members start therapy feeling more prepared and leave sessions with meaningful next steps, making progress easier to sustain. Guided Intake: Starting Sessions Strong In most mental healthcare delivery today, the first session is rarely where healing begins. It’s information gathering. Members spend much of that time retelling their story, answering the same questions they’ve discussed countless times before, and trying to remember what they wanted to say. Providers often describe first sessions as “administrative,” because they’re gathering history, clarifying goals, and piecing together context instead of getting into the work. This isn’t a small problem. Research shows that individuals often feel anxious before a first appointment, and many leave feeling like they barely scratched the surface. Some become so overwhelmed at the thought of starting therapy that they don’t show up at all. For providers, these early sessions are essential but can also be inefficient. They’re necessary to establish understanding, yet they can delay momentum. Guided Intake fundamentally changes the value of a first therapy appointment. Instead of walking into the first session cold, members have the time and space to reflect on what’s going on, what brought them to care, and what they hope to work on. Through a simple, conversational AI experience, they share their history and focus areas in a way that feels natural rather than clinical. They get a personalized summary of what they shared, and their provider receives that same information securely. After engaging in the experience, one member shared, “This is the first time I had to pre-fill what my situation was before seeing a therapist. I feel like this will save time for the first session because they already have a heads up on my situation.” Providers, in turn, enter the first session with a clearer, more complete picture of the member’s experience, allowing them to build rapport more quickly and begin the session with sharper focus. This is a small but powerful example of Continuous Care in action: technology removing friction, strengthening the therapeutic bond, and enabling providers to spend their time on what matters most. Summaries and Takeaways: Turning Sessions Into Lasting Progress In traditional care, a session ends and patients are left on their own to process everything they just explored: what clicked, what mattered, what they want to try next. By the time the next session comes around, much of that clarity fades. Life gets busy. Insights get lost. And providers often hear the familiar phrase: “I know we talked about something important last week, but I can’t quite remember…” This gap between sessions is one of the biggest drivers of stalled progress across the industry. Without structure or reminders, even highly motivated members struggle to translate in-session breakthroughs into real-life change. With Summaries and Takeaways, members receive a personalized recap of the themes they explored after each session, along with simple, actionable next steps aligned with their therapeutic goals. They can revisit what they discussed, reflect on how things are going, and stay grounded in the work they’re doing. Takeaways turn therapeutic guidance into bite-size actions: a grounding exercise to try before a stressful meeting, a small boundary-setting practice for the week, or a prompt to notice patterns or shifts in mood or behavior. The impact is clear: Members stay more engaged between sessions,\n\nTheir insight deepens as they revisit and reflect, and\n\nProgress accelerates because momentum isn’t lost Providers see members showing up more prepared, more reflective, and more connected to their goals. Together, these capabilities transform the time between sessions from unstructured downtime into an active, supported part of the healing journey. Responsible Innovation: The Spring Standard As we build toward a new model of mental healthcare, the responsibility that comes with it only grows. Continuous Care can’t work without technology, but it also can’t rely on technology that isn’t safe, clinically aligned, or transparent. The industry is moving fast, and not always thoughtfully, which makes the bar for responsible innovation higher than ever. As I’ve described before, our approach to AI is guided by five core principles to ensure it’s safe, ethical, and truly beneficial. These same principles can also help employers and health plans evaluate AI-powered solutions. 1. AI as an accelerator AI enhances—never replaces—human care. It helps members access the right support faster and empowers providers to deliver higher quality care with less friction. 2. Privacy and security are foundational Protecting member data is non-negotiable. Our AI operates within a secure, compliant infrastructure that meets the highest industry standards, including SOC 2, HITRUST, HIPAA, and GDPR, to maintain trust at every step. 3. Transparency and consent are built into care Trust is essential. Members and providers always have clear visibility into when and how AI is used, and they can opt out at any time. 4. Safety and equity by design AI must work for everyone. We rigorously test our models to ensure fairness, accuracy, and inclusivity across diverse populations, with oversight from our Internal AI Governance Board. 5. Continuous learning and improvement AI isn’t static. As mental health needs evolve, so does our technology—continuously improving to drive better outcomes while upholding transparency and ethical responsibility. As we apply these principles to Continuous Care, especially as AI begins supporting members between sessions, we also recognize the need for a clear, shared way to assess whether these technologies meet the clinical standards mental healthcare demands. Unlike other industries, mental health requires tools that can recognize nuance, uphold safety, and strengthen the therapeutic relationship rather than complicate it. That’s why we developed VERA-MH (Validation of Ethical and Responsible AI in Mental Health): the first open-source, clinically grounded evaluation framework built for mental healthcare. VERA-MH establishes rigorous criteria for safety, crisis awareness, transparency, and ethical use. Created in partnership with clinicians, ethicists, suicide-prevention experts, and technologists, it offers a transparent benchmark that helps ensure AI supports members safely and effectively, without replacing the provider relationship or introducing unintended risks. Why We Believe the Industry Needs Continuous Care The reality is that many people still wait too long to get the right care, struggle to stay connected between sessions, and often feel alone in the moments when support could make the biggest difference. Continuous Care is designed to change that. What we’re seeing so far is deeply encouraging: members are arriving more prepared, staying more engaged between sessions, and feeling more supported throughout their journey. Technology is helping them get more out of every session and strengthening the work they do with their provider. And this is only the beginning. Continuous Care is how we’ll remove even more barriers and build a mental healthcare experience that truly meets people where they are and helps them move where they want to go. ‍ About the Author About the Author Gijo Mathew Chief Product Officer, Spring Health Gijo Mathew is the Chief Product Officer at Spring Health, leading the vision, strategy, and execution of innovative mental health solutions. With a passion for leveraging technology to enhance access and outcomes, he has a proven track record of scaling high-growth companies and developing market-leading products. Previously, he served as CPO at VTS and Web.com and held leadership roles at CA Technologies (now Broadcom). Gijo is dedicated to fostering strong leadership and collaboration, ensuring teams innovate and thrive. Based in New York, he enjoys tackling big challenges and building solutions that drive meaningful impact. About the clinical reviewer Better support, better outcomes, stronger teams. Explore how Spring Health helps organizations reduce costs and improve lives. Book a demo Featured articles No items found. Therapy that fits your budget Get fast access to therapy, medication management, digital wellness tools, and more—all covered by your insurance. Learn more Featured articles No items found."
+      },
+      {
+        "id": 22265625,
+        "title": "Spring Health Publishes Largest Outcomes Study Demonstrating Measurable Clinical Improvements in Mental Health Care",
+        "url": "https://www.prnewswire.com/news-releases/spring-health-publishes-largest-outcomes-study-demonstrating-measurable-clinical-improvements-in-mental-health-care-302623647.html",
+        "publisher": "PR Newswire",
+        "published_date": "2025-11-24T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health published a peer-reviewed outcomes study demonstrating significant clinical improvements in mental health care for over 53,000 patients across the United States. The study highlights the effectiveness of Spring Health's personalized, data-driven model, which achieved remission for 61.7% of participants and high effect sizes for depression and anxiety. ",
+        "word_count": 477,
+        "original_language": "EN",
+        "author": "Spring Health",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Employer Wellness & Population Health Programs",
+            "code": "HLAEAAAH",
+            "is_primary": false
+          },
+          {
+            "name": "Quality Measurement, Reporting & Benchmarking (HEDIS/Stars/CQM)",
+            "code": "HLACAHAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": false
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "academic",
+          "label": "Academic"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "adam chekroud",
+            "dr. mill brown"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6178111,
+        "full_text": "NEW YORK, Nov. 24, 2025 /PRNewswire/ -- Spring Health, the leading global mental health solution for employers and health plans, announced today the publication of a peer-reviewed study in the Online Journal of Public Health Informatics (OJPHI)--the largest outcomes study of its kind in the behavioral health industry. The findings confirm that Spring Health provides notable clinical improvements at scale, exceeding gold-standard benchmarks for evidence-based mental health care. The study analyzed nearly 53,000 patients from over 500 US-based employers, revealing that 92.3% of participants reliably improved or recovered from depression or anxiety. Additionally, 61.7% reached remission, with symptoms dropping into the subclinical range. Effect sizes, which measure the strength of the relationship between assessment score changes and treatments, were very large–1.61 for depression and 1.82 for anxiety. These are more than twice the benchmark for standard psychotherapy (0.63 and 0.51, respectively). \"For years, employers and health plans have struggled to understand whether their mental health investments are effective,\" said Adam Chekroud, President and Co-Founder of Spring Health. \"This study provides clear evidence that our personalized, data-driven care, evidence-based methods, and unified technology platform work together to significantly and quickly improve clinical outcomes for individuals.\" The research demonstrates that Spring Health's measurement-based, precision-matched model delivered increasing clinical value as coverage grew 37-fold—from 260,000 to 9.6 million covered lives over 3.5 years. Anxiety and depression symptom improvement increased significantly compared to benchmarks as coverage expanded, underscoring the power of Spring's continuous data improvement feedback loop where every data point fuels smarter care and better results for the next member. \"This research validates the investments we've made to deliver a single unified platform across 100% of our providers and members globally,\" said Dr. Mill Brown, Chief Medical Officer at Spring Health. \"We're proud to be the only global mental health platform that enables measurement based care at scale across our entire network with full visibility of every care action taken across all appointments worldwide.\" Results remained consistent across racial, ethnic, age, and gender groups, indicating that Spring Health's model promotes equitable care delivery for diverse populations. The full study, \"Evidence-Based Mental Health at Scale: Benchmarking Retrospective Cohort Study of a Digital Employee Benefits Program for Depression and Anxiety ,\" is available in the Online Journal of Public Health Informatics. About Spring Health\n\nSpring Health is a complete global mental health solution for employers and health plans. By integrating products for members, providers, and customers, Spring Health delivers personalized care for every individual—from digital tools and meditation to coaching, therapy, and medication—ensuring the right care at the right time. Certified by JAMA Network Open and the Validation Institute for demonstrating net savings for customers, Spring Health equips business leaders with real-time insights and clinical expertise to support diverse organizational needs. Today, more than 20 million people worldwide have access to Spring Health. Learn more at www.springhealth.com . Media Contact:\n\npress@springhealth.com SOURCE Spring Health"
+      }
+    ],
+    "credits_consumed": 0.26
+  }
+}

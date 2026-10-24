@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000gqh&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:03.152Z",
+  "data": {
+    "total": 0,
+    "limit": 20,
+    "offset": 0,
+    "count": 0,
+    "data": [],
+    "credits_consumed": 0.1
+  }
+}

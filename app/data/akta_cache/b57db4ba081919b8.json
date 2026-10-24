@@ -1,0 +1,534 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000ees&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:14.598Z",
+  "data": {
+    "total": 4,
+    "limit": 20,
+    "offset": 0,
+    "count": 4,
+    "data": [
+      {
+        "id": 31716867,
+        "title": "Schrodinger (NASDAQ:SDGR) vs. Weave Communications (NYSE:WEAV) Head-To-Head Survey",
+        "url": "https://www.tickerreport.com/banking-finance/13538716/schrodinger-nasdaqsdgr-vs-weave-communications-nyseweav-head-to-head-survey.html",
+        "publisher": "Ticker Report",
+        "published_date": "2026-08-11T14:14:52",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9244,
+        "ai_summary": "MarketBeat conducted a comparative survey of Weave Communications and Schrodinger, evaluating their financial metrics, analyst ratings, and ownership structures. The analysis indicates that Weave Communications holds a stronger consensus rating with higher potential upside compared to Schrodinger, despite both companies reporting negative profitability. ",
+        "word_count": 830,
+        "original_language": "EN",
+        "author": "Shane Hupp",
+        "countries": [
+          "USA",
+          "CAN"
+        ],
+        "industries": [
+          {
+            "name": "Equity Long/Short — TMT Focus",
+            "code": "FSAHAAAJ",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Long/Short — Healthcare Focus",
+            "code": "FSAHAAAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Revenue & Growth Metrics",
+            "code": "FR02",
+            "is_primary": true
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ees",
+            "name": "Weave",
+            "website": "http://www.getweave.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000lh4",
+            "name": "Schrödinger",
+            "website": "http://www.schrodinger.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "69",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52394",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52591",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          },
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "lehi, utah",
+            "canada",
+            "united states",
+            "new york"
+          ],
+          "product": [
+            "weave payments",
+            "weave mobile app",
+            "team chat",
+            "text connect",
+            "weave communications",
+            "softphones",
+            "practice analytics",
+            "weave email marketing",
+            "weave reviews and respond assistant"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8713,
+        "group_id": 7721530,
+        "full_text": "Schrodinger (NASDAQ:SDGR) vs. Weave Communications (NYSE:WEAV) Head-To-Head Survey\n\nWeave Communications (NYSE:WEAV – Get Free Report) and Schrodinger (NASDAQ:SDGR – Get Free Report) are both small-cap healthcare companies, but which is the superior stock? We will compare the two businesses based on the strength of their analyst recommendations, valuation, profitability, institutional ownership, risk, dividends and earnings. Profitability This table compares Weave Communications and Schrodinger’s net margins, return on equity and return on assets. Net Margins Return on Equity Return on Assets Weave Communications -7.97% -21.37% -8.44% Schrodinger -20.98% -16.37% -8.19% Volatility & Risk Weave Communications has a beta of 1.67, suggesting that its stock price is 67% more volatile than the S&P 500. Comparatively, Schrodinger has a beta of 1.63, suggesting that its stock price is 63% more volatile than the S&P 500. Analyst Ratings This is a summary of current recommendations for Weave Communications and Schrodinger, as reported by MarketBeat. This is a summary of current recommendations for Weave Communications and Schrodinger, as reported by MarketBeat. Sell Ratings Hold Ratings Buy Ratings Strong Buy Ratings Rating Score Weave Communications 1 1 3 0 2.40 Schrodinger 1 4 4 0 2.33 Weave Communications currently has a consensus target price of $8.33, suggesting a potential upside of 60.41%. Schrodinger has a consensus target price of $20.25, suggesting a potential upside of 5.69%. Given Weave Communications’ stronger consensus rating and higher probable upside, analysts clearly believe Weave Communications is more favorable than Schrodinger. Institutional and Insider Ownership 86.8% of Weave Communications shares are held by institutional investors. Comparatively, 79.0% of Schrodinger shares are held by institutional investors. 16.4% of Weave Communications shares are held by company insiders. Comparatively, 10.1% of Schrodinger shares are held by company insiders. Strong institutional ownership is an indication that large money managers, hedge funds and endowments believe a company is poised for long-term growth. Valuation & Earnings This table compares Weave Communications and Schrodinger”s gross revenue, earnings per share (EPS) and valuation. Gross Revenue Price/Sales Ratio Net Income Earnings Per Share Price/Earnings Ratio Weave Communications $239.02 million 1.73 -$28.05 million ($0.25) -20.78 Schrodinger $255.87 million 5.53 -$103.26 million ($0.74) -25.89 Weave Communications has higher earnings, but lower revenue than Schrodinger. Schrodinger is trading at a lower price-to-earnings ratio than Weave Communications, indicating that it is currently the more affordable of the two stocks. Summary Weave Communications beats Schrodinger on 9 of the 14 factors compared between the two stocks. About Weave Communications (Get Free Report) Weave Communications, Inc. provides a customer experience and payments software platform in the United States and Canada. Its platform enables small and medium-sized healthcare businesses to maximize the value of their patient interactions and minimize the time and effort spent on manual or mundane tasks. The company's products include Unified Phone Number; Customized Phone System, a smarter phone system to identify whether incoming calls are from new or current patients, provide information at every call, and manages heavy call times; Softphones to make and receive calls from anywhere with an internet connection; Text Messaging to communicate with patients; Missed Call Text to take action in real time upon notification of a missed call; Missed Text Auto-Reply; Team Chat, a group messaging solution that helps practitioners and their staff communicate with each other from their work stations; and Weave Mobile App; It also offers Weave Reviews and Respond Assistant to request, collect, monitor, and respond to reviews; Weave Email Marketing and Email Assistant; Text Connect to interact with their existing and potential patients online directly through their websites; Weave Payments, a payment processing solution; Practice Analytics provides real-time data on patient retention, appointment scheduling, treatment acceptance rates, and revenue generation; and Call Intelligence. In addition, the company provides Digital Forms to collect patient information; Insurance Verification that provides patient insurance plan details; and Scheduling to send automatic scheduling reminders through text message. It serves customers in dental, optometry, veterinary, medical, plastic surgery, physical therapy, medical spa, and other medical specialty industries. The company was formerly known as Recall Solutions, LLC and changed its name to Weave Communications, Inc. in October 2015. Weave Communications, Inc. was founded in 2008 and is headquartered in Lehi, Utah. About Schrodinger (Get Free Report) Schrödinger, Inc., together with its subsidiaries, develops physics-based computational platform that enables discovery of novel molecules for drug development and materials applications. The company operates in two segments, Software and Drug Discovery. The Software segment is focused on licensing its software to transform molecular discovery for life sciences and materials science industries. The Drug Discovery segment focuses on building a portfolio of preclinical and clinical programs, internally and through collaborations. The company serves biopharmaceutical and industrial companies, academic institutions, and government laboratories worldwide. Schrödinger, Inc. was incorporated in 1990 and is based in New York, New York. Receive News & Ratings for Weave Communications Daily - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings for Weave Communications and related companies with MarketBeat.com's FREE daily email newsletter."
+      },
+      {
+        "id": 31687196,
+        "title": "Weave Communications Q2 Earnings Call Highlights",
+        "url": "https://www.tickerreport.com/banking-finance/13537957/weave-communications-q2-earnings-call-highlights.html",
+        "publisher": "Ticker Report",
+        "published_date": "2026-08-11T02:04:56",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Weave Communications reported a 15.5% increase in Q2 revenue to $67.5 million and improved profitability, despite a temporary shortfall in bookings due to a sales organization transition. The company also raised its full-year revenue outlook to $273-$275 million and its operating income forecast to $12-$14 million. The transition to a new sales structure was completed in August, with continued efforts to enhance sales productivity and efficiency.",
+        "word_count": 1071,
+        "original_language": "EN",
+        "author": "Ethan Ryder",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "SEO/SEM & Performance Marketing Tools",
+            "code": "BPAMALAM",
+            "is_primary": true
+          },
+          {
+            "name": "Creator / Affiliate / Ad Revenue Payouts",
+            "code": "FSAMAKAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": true
+          },
+          {
+            "name": "Guidance & Forecast Revisions",
+            "code": "FR05",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ees",
+            "name": "Weave",
+            "website": "http://www.getweave.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000178",
+            "name": "corporate earnings"
+          },
+          {
+            "code": "20001365",
+            "name": "business reporting and performance"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "53",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "315250",
+            "name": "Manufacturing"
+          },
+          {
+            "code": "3151",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "2080",
+            "name": "BEVERAGES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jason christiansen",
+            "brett white",
+            "white",
+            "christiansen"
+          ],
+          "location": [
+            "lehi, utah"
+          ],
+          "product": [
+            "dental",
+            "weave",
+            "athenaone"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.958,
+        "group_id": 6701861,
+        "full_text": "Weave Communications Q2 Earnings Call Highlights\n\nWeave Communications (NYSE:WEAV) reported second-quarter revenue growth and improved profitability, while management said a transition in its sales organization created a temporary bookings shortfall that prompted a revision to its full-year revenue outlook. Total revenue rose 15.5% year over year to $67.5 million in the second quarter, CEO Brett White said. Payments revenue grew at roughly twice the pace of total revenue, while the company added a record number of new locations on both a gross and net basis. Dental, Weave’s largest vertical, added more locations on a gross and net basis than in any of the preceding eight quarters. Weave’s non-GAAP operating income reached $3.2 million, compared with breakeven in the prior-year quarter, and operating margin improved to 4.7%. CFO Jason Christiansen said the company converted 34% of its year-over-year revenue growth into incremental operating income during the period. Weave’s non-GAAP operating income reached $3.2 million, compared with breakeven in the prior-year quarter, and operating margin improved to 4.7%. CFO Jason Christiansen said the company converted 34% of its year-over-year revenue growth into incremental operating income during the period. Profitability Improves as Sales Efficiency Rises Gross profit increased 16% year over year to $49 million, producing a gross margin of 72.6%, up 30 basis points from a year earlier. Subscription and payment-processing gross margin was 77.9%. Christiansen said customer-support costs declined as a percentage of revenue, aided by technology and AI adoption, product enhancements and self-service capabilities. Those improvements were partially offset by higher messaging usage fees, adjustments to certain vendor invoices and elevated credit-card fees associated with a larger group of customers paying annually in advance. Sales and marketing expense totaled $25.8 million, or 38% of revenue, improving by 160 basis points from the prior year and 240 basis points sequentially. General and administrative expense was $10 million, or 15% of revenue, while research and development expense also totaled $10 million, or 15% of revenue. The company ended the quarter with $78.5 million in cash and short-term investments, up $5.8 million sequentially. Cash provided by operating activities was $10.2 million, and free cash flow was $8.7 million. Weave said it generated positive free cash flow during the first half of 2026. Go-to-Market Changes Affect Outlook Management said it has been reorganizing its go-to-market organization to improve sales productivity and profitability. The company verticalized its inbound sales force during the first half of the year, assigning specialized sellers to key markets including dental and specialty medical. It also shifted outbound prospecting responsibilities toward a sales development representative, or SDR, model, allowing account executives to focus on demonstrations and closing sales. White said the changes produced positive early results, including record location additions and improved sales-and-marketing efficiency. However, the move created an adjustment period from May through July as lead generation shifted to SDRs and account executives changed their responsibilities. “It took time to calibrate the lead distribution with the appropriate execution, resulting in bookings slightly below our expectation, despite very strong demand,” White said. Christiansen said the effects of those bookings shortfalls will be more visible in revenue during the second half of the year. Weave accelerated the transition and completed the move to the revised outbound-sales structure in the first week of August. White said the outbound team is smaller following the changes, though some former sellers moved into SDR roles. For the full year, Weave now expects revenue of $273 million to $275 million. At the same time, it raised its non-GAAP operating-income outlook to $12 million to $14 million, reflecting expected operating-efficiency gains. For the third quarter, the company forecast revenue of $68.6 million to $69.6 million and operating income of $3 million to $4 million. AI Products, Payments and Healthcare Integrations White described Weave as an AI-powered patient engagement and payments platform for healthcare practices. The company said its tools are designed to help practices manage appointment scheduling, reduce administrative work and limit revenue leakage through payment and revenue-cycle workflows. Weave added 70% more AI-powered features to its platform over the past year, according to White. Custom AI interactions totaled 70 million during the second quarter, up 165% from a year earlier. Call Intelligence interactions increased 143%, with customers analyzing more than 14.5 million calls and identifying 810,000 unscheduled opportunities for staff follow-up. The company’s AI Receptionist can answer inbound calls and text messages, respond to common patient questions, and book, confirm, cancel and reschedule appointments. Weave introduced early access to voice capabilities for the product in May. White said certain AI features are sold as additional modules or as part of higher-priced product bundles. He also said increased functionality can improve customer retention and create additional payment-processing opportunities as more workflows lead to collecting patient balances. Payments volume growth accelerated in the first half of 2026 compared with the first half of the prior year, White said, though he did not provide a dollar figure for the volume. Specialty Medical Expansion Weave also expanded its relationship with athenahealth during the quarter, releasing a deeper integration with the athenaOne platform and joining athenahealth’s Marketplace. Management said the marketplace makes Weave’s offerings available to more than 160,000 specialty medical providers. White said Weave’s athenahealth integration advanced from what the company classifies as level one to level four. Christiansen said level one largely involves syncing basic patient-contact information, while level four provides read-and-write capabilities across multiple electronic health record tables. Management said deeper integrations can support higher average selling prices, better retention and lower customer-acquisition costs over time. Weave said it is earlier in specialty medical than in dental, optometry and veterinary markets, and has historically had fewer integrations in the medical market. Despite the sales-transition disruption, White said management has not seen weakening demand. He pointed to interest from dental support organizations seeking to standardize workflows across multiple practices, as well as momentum from the company’s partnership with the American Dental Association, which he said had become Weave’s second-most productive affiliate program within several months. About Weave Communications (NYSE:WEAV) Weave Communications is a technology company that provides integrated communications and customer management solutions tailored for small- to medium-sized local businesses. Headquartered in Lehi, Utah, the company developed a cloud-based platform that unifies voice calling, business texting, appointment reminders and payment processing within a single interface. The platform’s core offerings include a unified business phone system, two-way texting, automated appointment and recall reminders, secure payment acceptance and a basic customer relationship management module."
+      },
+      {
+        "id": 35670892,
+        "title": "Weave Raises $70 Million Round, Valuation Jumps by 3.2x in the Past 10 Months to $970 Million",
+        "url": "https://investors.getweave.com/news/news-details/2019/Weave-Raises-70-Million-Round-Valuation-Jumps-by-3-2x-in-the-Past-10-Months-to-970-Million-10-24-2019/default.aspx",
+        "publisher": "Getweave",
+        "published_date": "2026-07-09T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Weave closed a $70 million Series D round led by Tiger Global Management, with participation from existing investors. The funding brings its valuation to $970 million, a 3.2x increase over the past 10 months. The company will use the funds to expand products, grow internationally, and hire.",
+        "word_count": 542,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Venture Capital Fundraising Placement",
+            "code": "FSAEALAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ees",
+            "name": "Weave",
+            "website": "http://www.getweave.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005lw",
+            "name": "Crosslink Capital",
+            "website": "http://www.crosslinkcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000hu",
+            "name": "Tiger Global Management",
+            "website": "https://www.tigerglobal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000o84",
+            "name": "Lead Edge Capital",
+            "website": "https://leadedge.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00043wr",
+            "name": "Catalyst",
+            "website": "http://catalyst.org",
+            "is_primary": false
+          },
+          {
+            "uuid": "00005i8",
+            "name": "Pelion Venture Partners",
+            "website": "http://pelionvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003h",
+            "name": "Bessemer Venture Partners",
+            "website": "http://www.bvp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000378",
+            "name": "investments"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "55111",
+            "name": "Management of Companies and Enterprises"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6200",
+            "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+          },
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "brandon rodman",
+            "tyler newton",
+            "madi bullock"
+          ],
+          "location": [
+            "utah",
+            "u.s.",
+            "america"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 11615380,
+        "full_text": "LEHI, Utah, Oct. 24, 2019 /PRNewswire/ -- Weave, the leader in customer communication, today announced it has closed a $70 million series D funding round led by new Weave investor Tiger Global Management, with additional funding from current Weave investors including Catalyst, Bessemer, Crosslink, Pelion and LeadEdge.\nWeave's mission is to bring local businesses and the people they serve closer together. With an estimated 29 million small and medium businesses (SMB) in the U.S. alone, Weave's unique set of consolidated business tools and impressive growth year over year, the company is disrupting and improving the way businesses work and communicate.\n\"I'm extremely grateful to the thousands of customers who have helped Weave grow to where we are today. Our aim with this funding round is to exceed our customers' expectations at every touchpoint, investing heavily in the products we create, the markets we serve and the overall customer experience we provide,\" said Brandon Rodman, CEO at Weave. \"I am insanely proud of the spectacular team we've attracted here at Weave and the amazing products we deliver. We will continue to invest in our customers, our products and our people to build a solid, sustainable, and scalable business. We look forward to our next steps in this amazing journey.\"\nWith this round of funding, Weave plans to expand and enhance its current product offering, develop its international presence, grow its team, and continue to invest in the development of its employees.\n\"We've been investors in Weave since 2017. We particularly respect their extremely human leadership style,\" said Tyler Newton, partner at Catalyst Investors. \"Weave is a place where employees are given challenging work and opportunities to grow, and they are also supported by a leadership team who invests in their long term development so they can deliver their best work. Not to mention, Weave has some of the best retention numbers we've ever seen for an SMB SaaS company. We're continually impressed by their accelerated growth and results. Catalyst is proud to be a partner with Weave.\"\nWeave is one of the fastest-growing privately held companies in the U.S. The company doubled its revenue in 2018 and has increased its team at its Utah headquarters to approximately 550 employees, up from 300 at the beginning of the year. Weave's multiple accolades for its growth and values-driven culture include:\n- Fortune 100 Best Medium Workplaces 2019\n- 2019 Forbes Cloud 100\n- Inc. Best Workplaces 2019\n- Inc. 5000 2019 List of Fastest-Growing Private Companies in America\n- 2019 Glassdoor #7 Best Places to Work in the US\n- 2019 Glassdoor #4 CEO in the Country\nTo learn more about creating high-touch, personalized customer communication experiences, visit www.getweave.com/newsroom/. To join the team at Weave, visit weave.jobs.\nAbout Weave\nWeave is the premier customer communication platform for service-based businesses, helping to deliver personalized, relevant and timely customer experiences. From customer acquisition to retention, Weave provides communication software and hardware solutions for the entire customer journey. With over 13,000 customers, Weave was the first Utah company to join Y Combinator and has received several renowned awards, including the Fortune 100 Best Companies 2019, Forbes 2019 Cloud 100, the 2019 Inc. 5000 fastest-growing companies in America, Glassdoor's 2019 Best Places to Work and 2019 Top CEOs. To learn more, visit www.getweave.com/newsroom/.\nContact:\nMadi Bullock\nWeave\n+1 (801) 815-0329 cell\nmadi.bullock@getweave.com\nView original content to download multimedia:http://www.prnewswire.com/news-releases/weave-raises-70-million-round-valuation-jumps-by-3-2x-in-the-past-10-months-to-970-million-300944581.html\nSOURCE Weave"
+      },
+      {
+        "id": 20404010,
+        "title": "Weave gains ADA endorsement as exclusive patient engagement platform By Investing.com",
+        "url": "https://in.investing.com/news/company-news/weave-gains-ada-endorsement-as-exclusive-patient-engagement-platform-93CH-5289165",
+        "publisher": "Investing.com",
+        "published_date": "2026-03-13T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Weave (NYSE:WEAV), a customer experience platform for healthcare, was endorsed as the exclusive patient engagement platform by the American Dental Association (ADA). The endorsement is based on a vetting process, and ADA members who sign up will receive discounts and training for Weave’s platform. ",
+        "word_count": 580,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Fixed Prosthodontics (Crowns, Bridges, Veneers)",
+            "code": "HLABAFAA",
+            "is_primary": true
+          },
+          {
+            "name": "Individual & Family Dental Plans (Exchange/Off-Exchange)",
+            "code": "HLAEABAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          },
+          {
+            "name": "Compensation & Benefits",
+            "code": "WT03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ees",
+            "name": "Weave",
+            "website": "http://www.getweave.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20001163",
+            "name": "client relationship management"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "56142",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "david mcneil",
+            "dr. allen reavis"
+          ],
+          "location": [
+            "united states",
+            "lehi, utah"
+          ],
+          "product": [
+            "weav",
+            "applovin",
+            "evercommerce",
+            "weave",
+            "super micro computer",
+            "truelark"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 196953,
+        "full_text": "LEHI, Utah - Weave (NYSE:WEAV), a customer experience platform for healthcare businesses, announced today it has been selected as the exclusive patient engagement platform endorsed for American Dental Association members. The company, with a market capitalization of $374 million, has seen its stock decline 57% over the past year to $4.75, trading near its 52-week low. The endorsement follows a vetting process conducted by ADA Member Advantage to evaluate the effectiveness and value of Weave’s solutions, according to a press release statement. The designation is reserved for products and services that meet specific standards for dental practices. \"We are excited to launch this new relationship with Weave,\" said Dr. Allen Reavis, chair of the ADA Member Advantage board of directors. \"They have a deep understanding of dentistry and what happens in the front office of a dental practice.\" ADA members who sign up for Weave’s platform will receive discounts and enhanced training. The platform includes tools such as a phone system that displays patient information during calls, an AI-powered receptionist that follows up on missed calls, and insurance eligibility verification using robotic process automation. \"We’re honored to support ADA members with technology solutions designed to deliver meaningful results,\" said David McNeil, Chief Revenue Officer at Weave. The endorsement comes as analysts show growing confidence in the company’s trajectory, with three analysts recently revising earnings upwards and predicting profitability this year, according to InvestingPro data. The platform provider generated $239 million in revenue over the last twelve months with 17% growth. The platform integrates with practice management systems to handle scheduling, insurance verification, and payment collection. Weave serves nearly 40,000 customer locations and was named a 2025 Best Software Awards winner for healthcare software products by G2. The ADA represents 159,000 dentist members across the United States. The association’s Member Advantage program evaluates products and services before granting endorsements to ensure they meet industry standards. In other recent news, Weave Communications reported mixed fourth-quarter results, with its adjusted EBITDA guidance midpoint surpassing Wall Street expectations. Following these results, Stifel lowered its price target for Weave Communications to $9 from $11 but maintained a Buy rating. Piper Sandler also adjusted its outlook, reducing the price target to $8 from $12 while keeping an Overweight rating. This adjustment comes as Weave Communications experienced its second consecutive quarter of 17% year-over-year growth, primarily driven by a 35% increase in payments growth and record location additions in the specialty medical sector, alongside the acquisition of TrueLark. Meanwhile, EverCommerce has seen a change in analyst sentiment as Raymond James downgraded the company from Outperform to Market Perform. This decision was influenced by EverCommerce’s significant stock outperformance in recent months. Despite the downgrade, EverCommerce’s recent performance has been strong compared to sector benchmarks. These developments highlight ongoing shifts in analyst perspectives and company performance metrics. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.\n\nShould you be buying WEAV right now? ProPicks AI evaluates WEAV alongside thousands of other companies every month using 100+ financial metrics.\n\n\n\nUsing powerful AI to generate exciting stock ideas, it looks beyond popularity to assess fundamentals, momentum, and valuation. The AI has no bias—it simply identifies which stocks offer the best risk-reward based on current data with notable past winners that include Super Micro Computer (+185%) and AppLovin (+157%).\n\n\n\nWant to know if WEAV is currently featured in any ProPicks AI strategies, or if there are better opportunities in the same space? See Stocks"
+      }
+    ],
+    "credits_consumed": 0.14
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0007ijl&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:21.631Z",
+  "data": {
+    "total": 4,
+    "limit": 50,
+    "offset": 0,
+    "count": 4,
+    "data": [
+      {
+        "id": 21704548,
+        "title": "Artificiell intelligens i den globala tandvårdens tjänst: Helvetic Clinics med Diagnocat för diagnos utan skuggzoner.",
+        "url": "https://www.einpresswire.com/article/900199484/artificiell-intelligens-i-den-globala-tandv-rdens-tj-nst-helvetic-clinics-med-diagnocat-f-r-diagnos-utan-skuggzoner",
+        "publisher": "EIN Presswire",
+        "published_date": "2026-03-19T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Helvetic Clinics, a dental clinic in Budapest, Hungary, announced the integration of Diagnocat, an AI-powered 3D CBCT analysis solution, establishing what it calls a new standard of care combining computational precision with clinical expertise. The AI system identifies over 65 clinical indicators and converts complex imaging data into color-coded 3D visualizations, enabling patients to understand their diagnoses independently while functioning as an ethical safeguard against overtreatment. The clinic highlighted that this technology, marketed as delivering \"Top 1%\" dental care, is offered at costs 50–70% lower than equivalent treatment in Germany, Scandinavia, the United Kingdom, and Switzerland.",
+        "word_count": 666,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "HUN"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          },
+          {
+            "name": "Comprehensive Family Dentistry (Multi-Disciplinary In-Office General Care)",
+            "code": "HLABAAAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000mg1w",
+            "name": "Helvetic Clinics",
+            "website": "https://www.helvetic-clinics.eu",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007ijl",
+            "name": "Diagnocat",
+            "website": "http://diagnocat.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8093",
+            "name": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "pierre chaker",
+            "jean francois empain",
+            "dr gabor berkei"
+          ],
+          "location": [
+            "budapest",
+            "tyskland",
+            "skandinavien",
+            "hungary",
+            "storbritannien",
+            "schweiz"
+          ],
+          "product": [
+            "diagnocat"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.794,
+        "group_id": 1040659,
+        "full_text": "Artificiell intelligens i den globala tandvårdens tjänst: Helvetic Clinics med Diagnocat för diagnos utan skuggzoner.\n\nHelvetic Clinics, Best dental clinic in Hungary Dental Clinic Budapest Helvetic Clinics, anerkendt som en af de bedste tandlægeklinikker i verden og førende inden for tandrejser, annoncerer integrationen af Diagnocat Hos Helvetic Clinics ersätter AI inte kirurgens öga – den ger det en utökad vision för en diagnos utan kompromisser.” — Jean Francois EMPAIN BUDAPEST, BUDAPEST, HUNGARY, March 20, 2026 /EINPresswire.com/ -- Helvetic Clinics, som anses vara en av världens bästa tandkliniker och en ledande aktör inom dentalturism, meddelar att man integrerar Diagnocat – den ledande AI-lösningen för 3D-analys (CBCT). Denna implementering etablerar en ny vårdstandard: en kombination av AI:s beräkningskraft och klinisk expertis för en tanddiagnostik med absolut precision. Att göra det osynliga synligt: pedagogik genom bilder för patienten\n\nEn av de största utmaningarna inom avancerad tandvård är att patienten förstår diagnosen. En traditionell CT-skanning är ofta teknisk, svårtolkad och ogenomskinlig för en lekman. Tack vare Diagnocat omvandlar Helvetic Clinics dessa komplexa data till förenklade och färgkodade 3D-bilder.\n\nPatienten behöver inte längre bara lita på sin tandläkare: han eller hon kan själv se på skärmen exakt var problemen finns. Denna visuella transparens gör det möjligt att omedelbart förstå behovet av behandling och att godkänna behandlingsplanen med full insikt. Patienten behöver inte längre bara lita på sin tandläkare: han eller hon kan själv se på skärmen exakt var problemen finns. Denna visuella transparens gör det möjligt att omedelbart förstå behovet av behandling och att godkänna behandlingsplanen med full insikt.\n\nKombinationen AI & mänsklig expertis: ett skydd mot överbehandling AI fungerar som en “superradar” som kan analysera varje kubikmillimeter av bildmaterialet. Där det mänskliga ögat kan missa mikroskopiska lesioner i ett tidigt stadium, identifierar Diagnocat över 65 kliniska indikatorer. Denna precision gör det möjligt att förutse framtida patologier innan de blir kritiska, samtidigt som det fungerar som en etisk säkerhetsmekanism: AI tillhandahåller objektiva vetenskapliga bevis som motverkar överbehandling (onödiga extraktioner eller systematiska kronor) som kan förekomma i mindre noggranna kliniker. Dr Gabor Berkei, medicinsk chef: « Som en institution som rankas bland de bästa i världen är det vår plikt att använda de mest avancerade verktygen. Diagnocat synliggör mikroskopiska problem som är osynliga för blotta ögat. Genom att kombinera denna teknik med vår kliniska erfarenhet kan vi behandla med kirurgisk precision: vi räddar varje tand som kan räddas och säkrar patientens dentala framtid. » Pierre Chaker, medgrundare av Helvetic Clinics: « Vår “Swiss Managed”-vision innebär total transparens. En 3D-skanning är ofta svår att tolka för en patient; med AI blir bilden kristallklar. Patienten förstår äntligen sin diagnos, vilket stärker förtroendet. Vi erbjuder världsledande teknologi i Budapest, med kostnader som är 50 % till 70 % lägre än i Tyskland, Skandinavien, Storbritannien eller Schweiz. Det är teknologisk excellens i tjänst för strikt medicinsk etik. »\n\nVarför är detta tillvägagångssätt unikt? AI & mänsklig kompetens: algoritmens kraft kombinerad med världsledande specialisters omdöme.\n\nVisuell transparens: 3D-rapporter som är begripliga för alla, vilket gör diagnosen tydlig och delaktig.\n\nFörebyggande mikrodetection: identifiering av tidiga patologier för att undvika framtida behandlingar.\n\nGlobal standard & tillgänglighet: “Top 1%” av dental teknologi integrerad i vård till kontrollerade priser. Om Helvetic Clinics\n\nCertifierad enligt ISO 9001 och rankad som den bästa tandkliniken i Ungern av GCR, nämns Helvetic Clinics regelbundet som en av världens bästa tandkliniker. Genom att samla högt kvalificerade specialister, ett toppmodernt laboratorium och en integrerad hotellogistik i Budapest garanterar kliniken teknologisk excellens och etisk vård som är tillgänglig för alla. Helvetic Clinics – Budapest\n\nHelvetic Clinics anses allmänt vara en av de bästa tandklinikerna i Ungern, med mer än 3 000 Google-recensioner och ett genomsnittsbetyg nära 4,9 stjärnor. Kliniken är specialiserad på tandimplantat, helrehabilitering av bettet och avancerad digital tandvård. Legal Disclaimer: EIN Presswire provides this news content \"as is\" without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the author above."
+      },
+      {
+        "id": 21653404,
+        "title": "Helvetic Clinics tar i bruk Diagnocat AI: absolutt 3D-presisjon for tannmedisinske diagnoser uten blindsoner",
+        "url": "https://www.einpresswire.com/article/900253941/helvetic-clinics-tar-i-bruk-diagnocat-ai-absolutt-3d-presisjon-for-tannmedisinske-diagnoser-uten-blindsoner",
+        "publisher": "EIN Presswire",
+        "published_date": "2026-03-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Helvetic Clinics, a dental clinic in Budapest, Hungary, has integrated Diagnocat AI technology for 3D CBCT analysis, enabling color-coded visual diagnoses for patients and identifying over 65 clinical indicators from scan data. The AI system functions as a diagnostic safeguard to prevent over-treatment while maintaining that human clinical expertise remains central to the process. The clinic promotes this integration as part of its 'Swiss Managed' approach, offering treatments at 50–70% lower costs compared to Norway, Scandinavia, or Switzerland.",
+        "word_count": 628,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "HUN"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000mg1w",
+            "name": "Helvetic Clinics",
+            "website": "https://www.helvetic-clinics.eu",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007ijl",
+            "name": "Diagnocat",
+            "website": "http://diagnocat.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "pierre chaker",
+            "jean françois empain",
+            "dr. gabor berkei"
+          ],
+          "location": [
+            "budapest",
+            "norge",
+            "skandinavia",
+            "hungary",
+            "sveits",
+            "ungarn"
+          ],
+          "product": [
+            "diagnocat"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8294,
+        "group_id": 1040659,
+        "full_text": "Helvetic Clinics tar i bruk Diagnocat AI: absolutt 3D-presisjon for tannmedisinske diagnoser uten blindsoner\n\nHelvetic Clinics, Best dental clinic in Hungary Dental Clinic Budapest Helvetic Clinics & Diagnocat: Kunstig intelligens gjør 3D-skanninger om til tydelige og transparente diagnoser. En ny global standard for tillit – i Budapest. Hos Helvetic Clinics erstatter ikke kunstig intelligens kirurgens blikk – den gir det en utvidet presisjon for en kompromissløs diagnostikk.” — Jean François EMPAIN BUDAPEST, BUDAPEST, HUNGARY, March 18, 2026 /EINPresswire.com/ -- Helvetic Clinics, anerkjent som en av verdens ledende tannklinikker og en pioner innen tannreisetjenester, kunngjør i dag integreringen av Diagnocat. Dette er den ledende AI-teknologien for 3D-analyse (CBCT), og setter en helt ny standard for pasientsikkerhet: en perfekt allianse mellom kunstig intelligens og klinisk ekspertise for en feilfri diagnose. Gjør det usynlige synlig: En ny hverdag for pasienten\n\nEn av de største utfordringene ved avansert tannpleie er pasientens forståelse av diagnosen. Et vanlig CT-scan kan være teknisk, uklart og vanskelig å tolke for de fleste. Takket være Diagnocat forvandler Helvetic Clinics disse komplekse dataene til forenklede og fargekodede 3D-bilder. Nå trenger ikke pasienten lenger bare «stole på» tannlegen; de kan se med egne øyne på skjermen nøyaktig hvor utfordringene ligger. Denne visuelle åpenheten gjør det mulig å forstå behandlingsbehovet umiddelbart og bekrefte behandlingsplanen med full innsikt. AI og menneskelig ekspertise: Et vern mot overbehandling\n\nAI-en fungerer som en «super-radar» som skanner hver kubikkmillimeter av røntgenbildene. Der det menneskelige øyet kan overse en begynnende mikroskade, identifiserer Diagnocat over 65 kliniske indikatorer. Denne presisjonen gjør det mulig å forutse fremtidige problemer før de blir kritiske. Samtidig fungerer det som en etisk garantist: AI-en gir et objektivt vitenskapelig bevis som forhindrer overbehandling – som unødvendige trekking av tenner eller fyllinger – noe som dessverre forekommer hos mindre seriøse aktører. Dr. Gabor Berkei, Sjeflege: > «Som en institusjon rangert blant de beste i verden, er det vår plikt å bruke de mest avanserte verktøyene. Diagnocat kaster lys over mikro-problemer som er usynlige for det blotte øye. Ved å koble denne teknologien med vår kliniske erfaring, kan vi behandle med kirurgisk nøyaktighet: Vi redder hver tann som kan reddes og sikrer pasientens dentale fremtid.» Pierre Chaker, Medgründer av Helvetic Clinics: > «Vår 'Swiss Managed'-visjon krever total åpenhet. Et 3D-scan er ofte uforståelig for en pasient; med AI blir bildet krystallklart. Hos Helvetic Clinics erstatter ikke AI kirurgens øye – den gir det en utvidet vision for en diagnose uten kompromisser. Vi bringer verdens fremste teknologi til Budapest, med kostnader som er 50 % til 70 % lavere enn i Norge, Skandinavia eller Sveits.» Hvorfor er denne tilnærmingen unik?\n\nAI & Menneskelig talent: Kraften i algoritmer kombinert med vurderingsevnen til verdens fremste spesialister. Visuell åpenhet: 3D-rapporter som alle kan forstå, noe som gjør diagnosen klar og inkluderende. Forebyggende deteksjon: Identifisering av gryende patologier for å unngå fremtidige komplikasjoner. Global standard og tilgjengelighet: Toppsjiktet av dental teknologi integrert i behandlinger til rettferdige priser. Om Helvetic Clinics\n\nHelvetic Clinics er ISO 9001-sertifisert og rangert som den beste tannklinikken i Ungarn av GCR, og siteres jevnlig som en av de beste i verden. Ved å samle spesialister på høyt nivå, et toppmoderne laboratorium og integrert hotelllogistikk i Budapest, garanterer klinikken teknologisk forvinnelse og medisinsk etikk tilgjengelig for alle. Helvetic Clinics – Budapest Med over 3 000 Google-anmeldelser og et gjennomsnitt på 4,9 stjerner, er Helvetic Clinics et ledende senter for tannimplantater, full rekonstruksjon og avansert digital tannpleie. « Utvilsomt den beste tannklinikken i Ungarn » Legal Disclaimer: EIN Presswire provides this news content \"as is\" without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the author above."
+      },
+      {
+        "id": 19392303,
+        "title": "Transforming Oral Health through Prevention, Integrated Care",
+        "url": "https://mexicobusiness.news/health/news/transforming-oral-health-through-prevention-integrated-care",
+        "publisher": "Mexico Business News",
+        "published_date": "2026-02-13T09:29:31",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Dentalia, a Mexican dental services company founded 20 years ago by Federico Weber, has evolved from a clinic-centered model into an integrated dental platform serving approximately 1.5 million dental plan beneficiaries across 60 owned clinics and over 500 affiliated locations nationwide. The company reports corporate renewal rates exceeding 98% and is currently rolling out Diagnocat, an AI-powered diagnostic tool, as part of its technology integration strategy. Dentalia has outlined its 2028 \"1-2-3 Vision\" strategic roadmap, targeting growth through expanding its corporate client base, increasing patient recurrence to at least 60% of annual visits, and improving profitability through operational efficiency.",
+        "word_count": 1594,
+        "original_language": "EN",
+        "author": "Our Categories",
+        "countries": [
+          "MEX"
+        ],
+        "industries": [
+          {
+            "name": "General Dentistry Group Practices",
+            "code": "HLABAKAB",
+            "is_primary": true
+          },
+          {
+            "name": "Group Dental Plans (Employer-Sponsored)",
+            "code": "HLAEAIAG",
+            "is_primary": false
+          },
+          {
+            "name": "Dental Benefit Administration (DBA) & ASO/TPA for Dental",
+            "code": "HLAEAIAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Digital Transformation",
+            "code": "SD06",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0007ijl",
+            "name": "Diagnocat",
+            "website": "http://diagnocat.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0003gum",
+            "name": "Dentalia",
+            "website": "https://dentalia.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001229",
+            "name": "healthcare clinic"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "federico weber"
+          ],
+          "location": [
+            "mexico",
+            "latin america"
+          ],
+          "product": [
+            "diagnocat"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9015,
+        "group_id": 1741195,
+        "full_text": "Q: How is Dentalia transforming dental healthcare in Mexico, and what have been its main contributions to the field?\n\nA: Dentalia was founded 20 years ago by Federico Weber with the objective of transforming access to dental care in Mexico. At its inception, the company focused on a clinical care model built around physical dental clinics. The central question was how to deliver dental services that were both accessible and convenient while maintaining high quality standards. From the beginning, clinics were located in shopping centers, operated nearly year-round, and were designed to be financially accessible to a broad segment of the population. This model responded to significant structural challenges in Mexico. Culturally, the country has a limited preventive health mindset, and dental care utilization is particularly low. Dental visits among the Mexican population are among the least frequent in Latin America, with many individuals visiting a dentist only once every 8 to 10 years. Even among more engaged segments of the population, visits often occur only once every five years, far below the clinical recommendation of at least one annual visit, with two per year being optimal. At the same time, Mexico faces a shortage of dental professionals relative to its population. The density of dentists per 10,000 inhabitants is among the lowest in the region. With roughly 120,000 dentists nationwide, access to timely and preventive care remains a systemic challenge. Dentalia was created with these structural gaps in mind. Over time, the company evolved from a clinic-centered model into an integrated dental services platform that partners with multiple organizations such as insurance companies, brokers, and companies through corporate dental plans, designed to address prevention, continuity of care, and system-wide accessibility in a structurally underserved market. Q: How does Dentalia create value for companies through its corporate dental plan model?\n\nA: A core component of Dentalia’s integrated model is the provision of dental plans for employers, insurers, and assistance providers, built around what we define as “tangible benefits.” Unlike many traditional insurance products that are rarely used, our dental plans are designed to actively drive high utilization, particularly in preventive care. Our objective is to ensure that dental plan beneficiaries attend regular check-ups, receive timely diagnostics, and undergo preventive treatments such as cleanings and basic procedures that preserve long-term oral health. For companies, this translates into a prevention-driven benefit that employees actually use and value. After life and major medical insurance, dental plans consistently rank among the most appreciated complementary benefits. By promoting preventive dental care, organizations contribute to employee and insured individuals’ wellbeing, engagement, and productivity. Dentalia administers nearly 1.5 million dental plans directly from insurers and companies and supports several million additional beneficiaries through partnerships with assistance providers. One of the main challenges in this segment is lack of awareness, as many beneficiaries do not know their policies include dental coverage. To address this, we work closely with companies through health fairs and communication initiatives to encourage high utilization. Among corporate clients, utilization rates reach about 30%, which is high compared to other employee insurance benefits. Corporate renewal rates exceed 98%, reflecting long-term value creation and sustained trust. Q: How does Dentalia’s clinical care network complement this model and differentiate the patient experience?\n\nA: Dentalia operates about 60 clinics nationwide, supported by a network of over 500 affiliated clinics to ensure geographic coverage, including locations where we do not have a direct presence. Within our own clinics, we focus on delivering a differentiated patient experience built on four main principles: trust, technology, convenience, and clinical quality. Transparency is fundamental. One of the main barriers to dental visits is uncertainty around costs, so we provide clear and visible pricing to give patients certainty about what they will pay. Comprehensive diagnosis is another key element of our value proposition. We use advanced technology, including 360° radiography and intraoral scanners, allowing patients to clearly see and understand their oral health condition. This promotes informed decision-making and reinforces trust. Convenience is equally important. Our clinics operate extended hours, including weekends, and remain open nearly year-round to remove logistical barriers and make it easier for patients to prioritize their oral health. Finally, we ensure that our more than 600 clinicians are trained under standardized protocols and strict quality standards to guarantee consistent clinical excellence and high-quality dental treatments across our entire network. The integration of corporate plans with clinical care creates a virtuous cycle. Beneficiaries use their plans, access preventive and corrective care, improve their oral health, and return regularly. Employers, in turn, see a healthier and more engaged workforce. This positions Dentalia not merely as a network of clinics, but as a long-term partner in advancing preventive dental health in Mexico. Q: How can a greater focus on oral health among the Mexican population contribute to improvements in other areas of public health in the country?\n\nA: One of our key priorities is raising awareness that oral health is directly connected to overall health and wellbeing. Extensive clinical evidence links proper oral care with broader health outcomes and well-being. For example, poor occlusion can lead to digestive complications because food is not processed correctly. Some of the most impactful cases we see involve the early detection of serious diseases during routine dental check-ups, including oral cancer. A patient may come in for a standard cleaning or minor discomfort, and a comprehensive evaluation allows us to identify a much more serious condition at an early, treatable stage. This has a profound impact on individual health, potentially saving lives, while also benefiting the healthcare system, as preventive care is far more effective than treating advanced disease. Changing habits begins with knowledge. Visiting the dentist should not be a luxury; it is a fundamental part of maintaining overall health and building a preventive culture that helps avoid more serious conditions in the future. The challenge lies in fostering this awareness in a population where regular dental visits are not yet a habit. Q: How does Dentalia address the growing demand for aesthetic dental treatments within its broader clinical care model?\n\nA: Within our clinical care model, we operate as a comprehensive dental provider. This includes pediatric dentistry, periodontics, orthodontics, and maxillofacial surgery, among others. Our clinics are designed to provide complete dental care for patients of all ages and needs in one place. This also includes aesthetic treatments. While our approach always begins with a thorough clinical diagnosis, we fully support patients who wish to improve their self-confidence and are interested in cosmetic procedures such as teeth whitening or dental alignment. We work with leading international suppliers and high-quality materials, allowing us to offer treatment plans that integrate both clinical and aesthetic needs. Q: How does your integration of AI solutions such as Diagnocat enhance diagnostic accuracy and patient care across Dentalia’s clinics?\n\nA: Diagnocat is an AI-powered technology that Dentalia is currently rolling out to enhance the accuracy and clarity of dental diagnoses. The platform analyzes patients’ radiographic images and compares them against millions of cases, enabling the detection of conditions that may be difficult to identify with the human eye alone. Its ability to distinguish subtle variations in imaging supports more precise clinical evaluations. Diagnocat serves as a complementary diagnostic tool. Dentists conduct their clinical examination and initial assessment, which is then supported by AI analysis. This dual approach increases diagnostic certainty, strengthens patient trust, and helps ensure consistency in clinical quality. It also helps prevent both overdiagnosis and underdiagnosis by providing an additional layer of verification. Beyond clinical accuracy, the technology improves efficiency and patient experience. It assists clinicians in developing treatment plans more quickly and presents findings in a highly visual and easy-to-understand format, making it a valuable educational tool. Patients can clearly see highlighted areas of concern, which promotes understanding, awareness, and acceptance of treatment recommendations. Finally, Diagnocat integrates with Dentalia’s systems, supporting standardized records, follow-up, and continuity of care, while reinforcing a data-driven and preventive approach to oral health. Q: What are Dentalia’s priorities and main goals for 2026, and what would make the year a successful one?\n\nA: Dentalia has defined a 2028 strategic roadmap called the “1–2–3 Vision,” which will guide its 2026 efforts. The first pillar centers on consolidation as a fully integrated dental services organization, serving both patients and corporate clients through an exceptional, forward-looking care experience. This means operating as “One Dentalia” culturally and operationally. The second pillar is growth. The company aims to foster revenue growth by expanding its corporate client base, increasing the number of beneficiaries served, and driving higher patient recurrence. Having treated about 180,000 patients in 2025, Dentalia seeks to significantly increase that figure while ensuring that at least 60% of annual visits come from returning patients. While patient satisfaction remains strong, with a high sector NPS, recurrence is the most meaningful indicator of trust, continuity of care, and preventive behavior. The third pillar focuses on multiplying impact. Dentalia aims to achieve sustainable improvements in profitability through operational efficiency and the use of technology across the value chain, from appointment scheduling and reporting to training and diagnostics. At the same time, the company seeks to accelerate patients’ progress in their treatment plans and overall oral health outcomes by delivering dental treatments with Mexico’s top clinical talent. Ultimately, the ambition goes beyond corporate growth. The 1–2–3 Vision reflects the belief that scale, integration, and impact must advance together. By operating as one integrated dental platform and expanding access through prevention and technology, Dentalia aims to help shift oral health in Mexico from episodic treatment toward normalized prevention as a public-health standard, improving quality of life and reducing long-term health burdens at scale."
+      },
+      {
+        "id": 18678834,
+        "title": "Detection accuracy of an AI platform for dental treatment features on panoramic radiographs – tooth- and patient-level analyses",
+        "url": "https://www.nature.com/articles/s41598-025-32226-0",
+        "publisher": "Nature",
+        "published_date": "2025-12-15T00:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.1842,
+        "ai_summary": "A retrospective study evaluated the commercial AI platform Diagnocat (Diagnocat Inc., San Francisco) for detecting dental treatment features on panoramic radiographs using 147 patients with 4,148 teeth, finding high tooth-level accuracy (94.9–99.9%) for most features but a significantly lower patient-level \"perfect match\" accuracy of only 56.5% when requiring error-free full-mouth reports. The most common errors stemmed from fillings (57.3% of discrepancies) and endodontic treatments (19.5%), with posterior teeth showing higher error rates due to anatomical superimposition and structural overlap. The study concludes that while the AI platform is suitable as an assistive \"second reader\" tool, it is not yet reliable enough for autonomous diagnostic charting, and clinician oversight remains essential.",
+        "word_count": 4857,
+        "original_language": "EN",
+        "author": "Kazimierczak",
+        "countries": [
+          "POL",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          },
+          {
+            "name": "X-ray & Fluoroscopy Systems",
+            "code": "HLAHABAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0007ijl",
+            "name": "Diagnocat",
+            "website": "http://diagnocat.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "academic",
+          "label": "Academic"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "zadrożny",
+            "kazimierczak",
+            "uribe",
+            "turosz",
+            "uribe et al.",
+            "reader 1",
+            "reader 2"
+          ],
+          "location": [
+            "poland",
+            "europe",
+            "usa",
+            "san francisco",
+            "atlanta, ga",
+            "regions",
+            "belgium",
+            "germany",
+            "kortrijk",
+            "imola",
+            "italy",
+            "forchheim",
+            "ca"
+          ],
+          "product": [
+            "diagnocat™",
+            "wediagnostix",
+            "algin x-ray insights",
+            "chairside software",
+            "implants",
+            "diagnocat ai platform",
+            "diagnocat",
+            "relu",
+            "pearl",
+            "overjet",
+            "denti. ai",
+            "denti.ai",
+            "cs imaging software",
+            "ai software",
+            "hyperion x9 pro",
+            "barco coronis fusion 4mp mdcc-4430",
+            "orthodontic appliances",
+            "fillings",
+            "crowns",
+            "endodontic treatment"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 174057,
+        "full_text": "Abstract Artificial intelligence (AI) has shown promise in dental imaging, yet its reliability for comprehensive diagnostic charting from panoramic radiographs (PAN) remains uncertain. We evaluated the diagnostic performance of a commercial AI platform (Diagnocat™, San Francisco, USA) in detecting common dental treatment features on PAN images. In this retrospective study, 147 patients (4,148 teeth) were analyzed against the consensus of two experienced readers. Tooth-level performance was assessed for missing teeth, fillings, crowns, pontics, endodontic treatments, orthodontic appliances, and implants, using patient-clustered nonparametric bootstrapping used to account for within-patient correlations. At the tooth level, the AI achieved high diagnostic accuracy across features (94.9–99.9%), with nearly perfect results for missing teeth, crowns, pontics, and implants. However, under a stringent patient-level “perfect match” criterion requiring error-free full-mouth reports, the AI succeeded in only 56.5% of cases (95% CI, 48.4–64.2%). Errors were most often related to fillings (57.3%) and endodontic treatments (19.5%). These findings highlight a critical gap between high per-tooth accuracy and clinically meaningful patient-level performance. These findings underscore that while the AI performs strongly at the tooth level, its patient-level performance is insufficient for autonomous diagnostic charting.\n\nIntroduction The digital transformation of dental imaging—marked by the routine use of panoramic radiography (PAN) and the rapid adoption of cone-beam computed tomography (CBCT)—has enabled precise diagnostics and tailored treatment plans. However, this level of precision also requires clinicians to possess high diagnostic skills. Computer-aided diagnosis (CAD) is a rapidly developing field in medical imaging that facilitates the detection of diverse conditions. It has gained significant momentum in the past few years, following the broad introduction of artificial intelligence (AI). Deep learning (DL), a subdivision of AI, has been used for more than 10 years to match or surpass human performance in fundamental image analysis tasks such as classification, object detection, and segmentation1. The application of such systems in dental imaging has allowed the creation of commercially available chairside software, generating automated dental charts and structured reports2. PAN enables detailed visualization of the entire dentomaxillofacial region at a low radiation dose with a single exposition. However, their inherent two-dimensional (2D) projection, superimposition and geometric distortion can obscure subtle lesions and treatment-related findings3,4,5. In addition, research has indicated that examiners with greater experience achieve greater diagnostic accuracy than do their less experienced counterparts6. Despite this issue, owing to its wide availability and low cost, PAN remains the most frequently prescribed extraoral examination in dentistry7. Accurate identification of previous dental interventions, such as root canal fillings, posts and cores, crowns, implants, orthodontic braces and other restorative materials, is essential for documentation, treatment planning, follow-up and forensic identification. Bringing AI support to this task promises greater diagnostic consistency and workflow efficiency across imaging techniques8. Previous research has demonstrated the potential of DL algorithms to automatically detect and classify various dental restorations on PAN images with high accuracy9,10. While challenges remain, particularly with restorations having radiodensities similar to tooth structure or appearing as fine details, the potential for AI to enhance diagnostic consistency and efficiency is evident10. Diagnocat™ (Diagnocat Inc., San Francisco, USA) is a commercially available, widely used, cloud-based AI solution that provides automated detection and annotation of dental findings on CBCT images, periapical radiographs, and PAN images. Diagnocat™ is one of the most widely adopted AI platforms in Europe for panoramic, periapical, and CBCT imaging, and is currently used in several clinical centers and tele-radiology workflows. In Poland, Diagnocat is among the most frequently implemented CE-marked commercial systems, which makes its real-world reliability highly clinically relevant compared to other available systems (e.g., Algin X-ray Insights, WeDiagnostiX). In addition to simple feature detection, the automation of the diagnostic process significantly reduces the time required for radiographic interpretation, thereby enhancing clinical workflow efficiency11. Despite the promising findings related to the use of this AI platform in CBCT analysis12,13,14,15,16, the reliability of the program in evaluating PAN images remains markedly lower17,18,19,20. Moreover, the platform’s reliability has not been comprehensively established against an expert consensus on a large cohort of patients exceeding 100 subjects17,18,19,20. While previous work has assessed specific features, a comprehensive and rigorous evaluation of the platform’s ability to identify a wide array of common dental treatments simultaneously, which is crucial for automated charting, has not been fully established against an expert consensus. Furthermore, while previous work has assessed specific features at the tooth level, a critical gap exists in evaluating the platform’s ability to generate a completely accurate, full-mouth diagnostic report—a prerequisite for trustworthy automated charting. High tooth-level accuracy does not necessarily translate to perfect patient-level performance, as even a small error rate can lead to a high probability of at least one error on a full-mouth scan. Therefore, the aim of this study is twofold: first, to evaluate the tooth-level accuracy of the Diagnocat AI platform in detecting common dental treatment signs on PAN images, and second, to introduce a stringent patient-level analysis to assess its reliability for producing a completely error-free, full-mouth diagnosis. Results Patient characteristics A total of 147 patients with 4148 teeth were included in the final analysis. The mean age of the participants was 34.46 years (SD = 13.29), ranging from 11 to 70 years. The median age was 33 years (quartile range 24.5–43.5). Most of the patients were female (65.99%; n = 97), whereas 34.01% (n = 50) were male. STARD flow diagram of the study material is shown in Fig. 1. The study group characteristics can be found in Table 1. A summary of the findings is presented in Table 2. Table 1 Characteristics of the study group. Full size table Table 2 Summary of dental treatment findings. Full size table Fig. 1 STARD flow diagram of the study material. Full size image No indeterminate results were encountered. All AI and reference assessments were categorical and conclusive. There were no missing data for index or reference test outcomes after initial exclusions. Owing to the retrospective nature of the study, no adverse events were associated with performing the index or reference tests. Interreader agreement The initial agreement was found to be substantial to nearly perfect across most categories, including missing teeth (κ = 0.98), crowns (κ = 0.95), pontics (κ = 0.99), orthodontic appliances, implants (κ = 1.00), fillings (κ = 0.91), and endodontic treatments (κ = 0.89). Most discrepancies among the readers stemmed from minor errors in tooth numbering rather than from any disagreement regarding the presence of dental treatment features. Tooth-level detection accuracy The detection accuracy of the Diagnocat AI platform was evaluated on the basis of the following dental treatment signs: filling, missing teeth, orthodontic appliance, endodontics, crown, implants and pontic. Because all 14 implants were correctly diagnosed, each of the software’s diagnostic accuracy metrics (sensitivity, specificity, PPV, NPV, and overall accuracy) was 100%. However, owing to the limited sample size (n = 14), those results are not shown in the figures and tables. The diagnostic performance of the remaining assessed features is summarized in Table 3. Table 3 Detection accuracy metrics with 95% confidence intervals (CIs). Full size table A visual representation of the detection accuracy measures with corresponding 95% confidence intervals is provided in Fig. 2, clearly illustrating the high performance of the AI platform across the evaluated dental treatments. Fig. 2 Detection accuracy metrics with 95% confidence intervals (bars). Full size image Figures. 3 and 4 present sample misdiagnoses of endodontic treatment. Fig. 3 False positive diagnosis of endodontically treated tooth 15 caused by superimposition of bony structures (red arrow). Full size image Fig. 4 Sample false positive endodontic treatment diagnoses (orange arrows): A - tooth 27, 30-year-old male; B - tooth 46, 28-year-old male; C - tooth 35, 57-year-old female. D - sample of false negative endodontic treatment diagnosis (red arrow) - tooth 12, 52-year-old female. Full size image Anatomical distribution of AI errors Error distribution demonstrated a clear spatial pattern across the dentition. Posterior teeth—particularly maxillary molars (teeth 15, 16, 24, 26, 27) and mandibular molars (35, 36, 37, 47, 48)—showed the highest discrepancy counts (7–11 errors per tooth position), whereas anterior teeth exhibited near-zero error frequency (0–3 discrepancies). This pattern was visualized using a per-tooth heatmap (Fig. 5), which confirmed distinct “hot zones” of diagnostic difficulty in posterior regions. These findings are consistent with known PAN imaging limitations, including: superimposition of the zygomatic bones over maxillary molars,\n\noverlapping multi-rooted structures,\n\ncervical spine ghost shadows near mandibular molars,\n\nreduced contrast and anatomical noise in the posterior zones. In contrast, the anterior region benefited from clearer visualization and showed markedly fewer discrepancies. Fig. 5 Per-tooth discrepancies heatmap. Full size image Distribution of discrepancies A total of 307 individual tooth-level discrepancies were identified across the 122 incorrect patient cases. The distributions of these errors are presented in Table 4. The analysis revealed that errors related to fillings were by far the most significant contributors to patient-level failure, accounting for 57.3% of all discrepancies. The second most common cause was endodontic treatment, which was responsible for 19.5% of the discrepancies. Table 4 Frequency and type of discrepancy contributing to patient-level failures. Full size table Parsing multi-label annotations revealed systematic misclassification tendencies: Endodontics \\(\\leftrightarrow\\) Posts/cores : The most common qualitative error source, with radiopaque posts interpreted as root canal fillings and vice versa.\n\nFillings \\(\\leftrightarrow\\) Crowns : Metal-ceramic crowns with large cores were sometimes identified as extensive restorations rather than crowns.\n\nCrown \\(\\leftrightarrow\\) Pontic : Splinted or fused crowns occasionally triggered false-positive pontic detections.\n\nPosterior composite fillings: Low radiopacity contributed to false negatives. To quantify the impact of tooth location on diagnostic performance, an exploratory logistic regression model was fitted with error presence (yes/no) as the outcome and molar status as the main predictor. Molars were associated with significantly higher odds of AI error (OR = 2.12; 95% CI: 1.51–2.97; p < 0.001), supporting the anatomical findings above. This association likely reflects the combined effect of structural overlap, increased anatomical complexity, and projection-related artifacts. Patient-level accuracy results The AI system produced an exact per-patient treatment map in 56.5% (83/147) of the cases (95% CI, 48.4–64.2%). Allowing for minor discrepancies, 80.9% of patients had ≤ 1 error, and 87.8% had ≤ 2 errors per patient. The patient-level detection results are summarized in Table 5. Table 5 Detection accuracy in the detection of dental treatment signs at the patient level – “perfect-match”. Full size table The results of the basic “per-feature” detection accuracy analysis are summarized in Table 6. In a “per-feature”, patient-level analysis (features considered positive if present on ≥ 1 tooth), detection was highest for treatment-critical findings: missing teeth (sensitivity 100.0%, PPV 97.37%), implants (100/100%), and endodontic treatment (100/98.84%). The performance for fillings (100/99.29%) and crowns (91.3/100%) remained high, as did pontics and orthodontic appliances (both 100/100%). Table 6 Per-feature, patient-level performance. Full size table Discussion This study provides a dual-faceted evaluation of a commercial AI platform, revealing a significant disparity between its performance at the tooth level and the patient level. At the tooth level, the AI achieved a high overall accuracy of over 94.9% across all six categories, with nearly flawless performance in detecting missing teeth, crowns, and pontics. These findings are consistent with a rapidly expanding body of literature demonstrating that AI systems can rival or exceed human performance in discrete radiological tasks21,22,23,24,25,26,27. However, the central finding of this study is the AI’s substantially lower accuracy of 56.5% when evaluated under a stringent patient-level criterion, where a diagnosis is considered correct only if it is entirely free of errors across the full dentition. This discrepancy highlights a critical gap in the current validation of diagnostic AI tools in dentistry. While high-tooth-level metrics suggest reliability, they do not capture the cumulative probability of error across an entire patient case. A single missed finding or false positive can alter a treatment plan, making 100% accuracy the ultimate goal for autonomous charting. Our patient-level analysis demonstrated that even with high per-tooth accuracy, the likelihood of achieving a perfect full-mouth report is low. This suggests that most studies, which focus solely on tooth-level metrics, may present an overly optimistic view of the clinical readiness of these tools for fully autonomous use. The single-tooth assessments most commonly used to date should be supplanted by more holistic, patient-level evaluations to provide a more realistic measure of clinical utility. Our findings at the granular tooth level align with the rapidly expanding body of literature on the application of AI in various areas of dentistry, including periodontology, orthodontics, conservative dentistry, and dental radiology21,22,23,24,25,26,27. Owing to its high level of digitization and the nature of radiological assessments, dental radiology is the field most predisposed to the implementation of AI systems. This observation is consistent with the broader trend in traditional radiology, where medical imaging accounts for approximately 85% of FDA-approved AI programs (data from 2023)28. In the field of dentomaxillofacial radiology, several AI-based systems have been developed to analyze two-dimensional images—examples include Denti. Ai, Overjet, and Pearl. Several platforms, such as Diagnocat and Relu, are also capable of evaluating three-dimensional CBCT images. However, given the growing number of users, it is imperative to rigorously and scientifically verify the diagnostic reliability of these systems to safeguard the well-being of patients whose examinations are analyzed by these platforms worldwide. Although multiple commercial platforms exist, published diagnostic accuracy data remain limited, and none include dual-level accuracy assessment; therefore, our results offer unique comparative value. Two-dimensional (2D) radiographic imaging presents inherent limitations, including superimposition of anatomical structures, geometric distortion, anatomical noise, and restricted dimensionality29. Additional challenges, such as low contrast and poorly defined tooth margins, further impede diagnostic accuracy30. These limitations contribute to interobserver variability and necessitate cautious interpretation. These constraints equally affect PAN imaging and periapical radiography (PR), which often lack the resolution necessary for detailed assessments. Consequently, clinicians frequently prefer PRs or CBCT for detailed evaluations31,32. Nonetheless, PAN remains a widely used initial screening tool in dental practice because of its versatility, low cost and high availability. Error patterns indicated that anatomical noise in posterior regions, radiopaque restorative materials, and structural overlap were major contributors to inaccuracies of AI platform. These findings align with known limitations of panoramic imaging and highlight areas where targeted algorithmic retraining may significantly improve performance. Given the systematic nature of certain errors, retraining or fine-tuning algorithms using misclassified cases—particularly posterior teeth and complex restorative situations—could meaningfully improve accuracy. Future collaboration with industry partners may facilitate such refinements. Numerous studies have demonstrated that AI systems—especially those based on DL—achieve high accuracy, sensitivity, and specificity in identifying dental fillings, often rivaling or surpassing the performance of human clinicians19,33,34,35,36,37,38. For example, recent research reported F1 scores and accuracy rates above 90% for the detection of fillings and other restorations, with some models achieving near-perfect agreement with expert annotations34,37,38. However, some authors have shown that the diagnostic performance can vary depending on the type of filling (e.g., metal-based vs. resin-based) and the patient population (e.g., adults vs. pediatric patients)33,38,39. Although our study group included patients across a wide age range (11–70 years) and included both composite and amalgam restorations, the AI platform demonstrated excellent performance in detecting fillings, with a sensitivity of 91.2%. Although PANs provide a broad overview of the maxillofacial region, their ability to detect fine details is limited40. Nonetheless, they are reliable for evaluating parameters such as the number of remaining and root-filled teeth (19). In the present study, our results demonstrated almost perfect alignment between the readers’ consensus and the AI platform in detecting missing teeth (sensitivity = 99.1%). However, the AI platform showed lower detection accuracy in identifying endodontically treated teeth (sensitivity = 88.6%). This reduction in accuracy may be attributed to the inherent subtlety of radiographic indicators of root canal filling, which can be obscured by overlapping structures or variations in material density. Conversely, superimposition of bony structures can also mimic signs of root canal therapy (Fig. 3). These challenges affect both human observers and AI algorithms, making endodontic assessment particularly demanding. The slightly lower, although still clinically excellent, sensitivity for detecting endodontic treatments (88.6%) is also a recurring theme in similar studies on PAN images17,41. Kazimierczak et al.. reported a sensitivity of 90.7% for endodontically treated teeth17. However, the authors evaluated only 55 PAN images. In a 2022 study, Zadrożny et al.41. explored multiple correlations between the assessments of experienced readers and the Diagnocat AI platform with respect to various features in PAN images. They identified a high level of correlation for endodontic treatment (ICC = 0.948), missing teeth (ICC = 0.959), fillings (ICC = 0.92), and prosthetic materials such as crowns and posts (ICC = 0.968). The authors of both manuscripts concluded that the tested AI system can be beneficial for preliminary evaluation of PAN images, providing reliable results and recommending further diagnostic methods when more precise assessment is needed. In a recent study, Turosz et al.. investigated the diagnostic accuracy of AI software (CS imaging software, Carestream Dental LLC, Atlanta, GA, USA) in the analysis of PAN images42. The authors assessed the program’s accuracy in detecting the location of missing teeth, root canal fillings, endodontic lesions, dental crowns, pontics, implants, and implant abutment crowns. Their findings revealed high performance—exceeding 90% accuracy—in identifying missing teeth, root canal fillings, and implant abutment crowns. In contrast, the software demonstrated moderate sensitivity (94.57%) for detecting endodontic lesions and the lowest sensitivity (80.92%) for identifying pontics. Consistent with previous work by Zadrożny, the authors concluded that AI software can be a valuable tool in clinical practice for diagnosis and treatment planning, although additional verification by clinicians is advisable, particularly for tasks such as the identification of dental crowns. A comparable study conducted in 2022 evaluated the diagnostic reliability of the web-based AI platform Denti.AI using 300 PAN images33. The authors reported substantially lower accuracy in detecting crowns and fillings (89.53% and 56.95%, respectively) than did the previously cited methods and our own findings. The software exhibited particularly low sensitivity in identifying resin-based restorations (41.11%). Nevertheless, its performance in detecting implants and root canal treatments was similar to our results, with reported sensitivities of 100% and 91.9%, respectively. Despite the lower accuracy in detecting fillings, the authors concluded that the examined AI platform can improve overall diagnostic and treatment decisions by minimizing subjectivity and minimizing potential human error. A significant strength of the evaluated AI is its potential to reduce the diagnostic workload and minimize human error, especially for less experienced clinicians37,42,43. The incorporation of AI systems such as the tested platform into routine clinical workflows can streamline radiographic interpretation, particularly in high-volume practices. By automating the detection of previously performed treatments, AI tools reduce the time clinicians spend on repetitive charting tasks, enabling a more focused assessment of pathologies. Furthermore, cloud-based deployment, as exemplified by Diagnocat, facilitates integration with telehealth platforms and remote diagnostics. It enables clinicians to remotely access patients’ images and thus facilitate treatment planning. These advantages underscore the potential of AI to support more efficient, accessible, and patient-centered care in dentistry. However, successful implementation requires institutional commitment, appropriate clinician training, and clear guidelines for interpreting AI outputs within existing diagnostic protocols. Nevertheless, clinician oversight remains essential, particularly for ambiguous or complex cases, and further research is needed to improve AI performance for challenging cases and patient populations33,42,44. As AI becomes increasingly integrated into dental diagnostics, ethical and legal concerns must be addressed. These include ensuring data privacy, managing diagnostic accountability, and avoiding overreliance on automated outputs. Transparent reporting of algorithm limitations and continuous performance monitoring are essential to maintain patient safety and clinical trust. In cases where AI misses a clinically relevant finding, liability remains with the clinician, underscoring the need for transparent communication about AI involvement. Clear documentation in patient records—indicating whether AI assisted in diagnostic interpretation—may become necessary in future regulatory frameworks. Furthemore the frameworks must clearly define clinician responsibility when AI tools are used in diagnostic decision-making45,46. The results of our study position the AI platform as a powerful assistive tool or “second reader” rather than a replacement for a clinician. From a clinical workflow perspective, the platform is best positioned as a pre-screening or parallel ‘second reader’ tool. Clinicians should pay particular attention to features with higher error rates—especially fillings and endodontic treatments—where human verification remains essential. A practical implementation strategy may include AI-generated charting followed by clinician validation of flagged regions or discrepancies, which can improve efficiency without compromising diagnostic safety. The platform can effectively automate routine diagnostic tasks, enhance the efficiency of radiological interpretation, and reduce the risk of oversight for individual findings. However, its inability to consistently generate error-free, full-mouth reports means that clinician oversight remains essential. This nuanced role is critical for managing expectations and ensuring safe and effective integration into clinical workflows. As emphasized by Uribe et al.., continuous performance monitoring and real-world validation are essential for the sustainable implementation of any AI tool47. Despite these promising results, it is important to acknowledge the limitations of this study. One of the primary limitations of this study is the limited number of some of the dental conditions examined, such as implants and pontics, which limits our detection accuracy analyses. The perfect detection of implants and pontics must be interpreted cautiously because of the very small number of positive cases (n = 14 and n = 28, respectively). These estimates inherently carry wide confidence intervals, limiting the ability to draw definitive conclusions about real-world performance. The study was conducted at a single center using a single panoramic unit (Hyperion X9 Pro). The homogeneity of imaging parameters and the specific referral structure (primarily orthodontic and surgical patients) may introduce spectrum bias. Consequently, the AI’s performance may differ in general dentistry populations, mixed-device environments, or images of lower quality. Future studies should aim for a multicenter, prospective design with a consensus panel of multiple experts forming the gold standard to further validate these findings. Additionally, this study focused on treatment features; the AI’s efficacy in detecting carious lesions, periapical pathology, or periodontal disease was not assessed and warrants separate investigation. Another limitation is that intra-observer reliability was not assessed. Although both readers demonstrated substantial to near-perfect inter-observer agreement, repeat readings were not performed. The absence of intra-observer data may reduce the precision of the expert consensus used as the reference standard. This study demonstrated that the evaluated AI software achieves high reliability and accuracy for identifying individual dental treatments on PAN images at the tooth level, with performance comparable to that of experienced readers for discrete tasks. However, the novel and stringent patient-level analysis reveals a “perfect match” accuracy of only 56.5% for producing a completely error-free, full-mouth diagnosis. This critical finding underscores the distinction between a feature-detection tool and a fully autonomous diagnostic system. While the platform holds significant promise for optimizing clinical workflows and improving diagnostic consistency as an assistive tool or “second reader,” it is not yet reliable enough to replace the holistic, integrative assessment of a clinician for final diagnostic charting. Therefore, we conclude that the AI platform is a valuable supplement in dental diagnostics, but meticulous clinical oversight remains indispensable to ensure patient safety and guarantee comprehensive diagnostic accuracy. Materials and methods Study design and ethics approval This is a retrospective, single-center detection accuracy study that evaluates the performance of a commercial AI platform in identifying dental treatment features on PAN images. The study was written according to the Standards for Reporting of Diagnostic Accuracy Studies (STARD) 201548. The study protocol is available upon reasonable request from the corresponding author. Patients This retrospective detection accuracy study initially included 161 consecutive patients referred for PAN imaging at a single private dental center. Patients were referred for PAN imaging by orthodontists or dental surgeons between 01.2024 and 31.03.2025. The PAN serves as the initial imaging modality in surgical and orthodontic patients. The main exclusion criteria were overall poor image quality and the presence of mixed dentition (primary and permanent teeth). After the initial selection of patients, 2 patients were excluded because of poor image quality, and 12 patients were excluded because of the presence of primary teeth. The final analysis included 147 patients. Sample size and precision of estimates This study was designed as an estimation study. Our primary objective was to report point estimates and 95% confidence intervals (CIs) for diagnostic accuracy measures at both the tooth and patient levels. Tooth-level CIs were constructed via patient-clustered nonparametric bootstrapping (3,000 replicates). Patient-level proportions were summarized with nonparametric bootstrap CIs over patients (3,000 replicates). Interreader agreement was summarized with Cohen’s κ and its 95% CI. The achieved CI half-widths for common features (fillings, crowns, endodontic treatments, missing teeth) were within ± 5–10% points, indicating adequate precision for descriptive purposes. Owing to the small number of positive cases, rare features (e.g., pontics and implants) necessarily yield wider CIs. For future studies, ~ 400–450 patients would be required to achieve ≤ 10% point precision for rare features on the basis of observed prevalence and clustering. Image acquisition All the PAN images were acquired via a Hyperion X9 PRO (60–75 kVp, 5–10 mA; MyRay, Imola, Italy) machine. Patient identifiers were removed from all images, and images were coded to ensure blinded analysis. AI evaluation PAN images were uploaded to Diagnocat, a cloud-based AI platform (version 1.0. Diagnocat Ltd., San Francisco, CA, USA). The AI software automatically generated reports indicating the presence and location of various dental treatment signs, including the following: Orthodontic braces.\n\nProstheses (fixed and removable).\n\nDental implants.\n\nSigns of endodontic treatment (e.g., root canal fillings, posts).\n\nRestorations (e.g., crowns, fillings). For each identified dental treatment sign, the AI software marked the location and provided a confidence score (0–100%). The program’s threshold for positive diagnosis is a probability of more than 50% lesion/condition occurrence. The AI results for dental treatment sign detection were extracted into the spreadsheet. All the images were uploaded and the analyses were performed within a consistent 10-days interval (April 08–18, 2025) to ensure that no version changes occurred during the evaluation period. Multireader evaluation The PAN images were independently evaluated by two readers, Reader 1, a board-certified radiology specialist, and Reader 2, an orthodontist, both of which have over 10 years of experience in craniofacial image assessment. Reader calibration was performed on 5 images (patients with multiple restorations and mixed endodontic status). Agreement was not assessed. Calibration images were independent from the final study dataset. The reading sessions were conducted on dedicated workstations using syngo.via client ver. 8.9 (Siemens Healthineers, Forchheim, Germany) software. Images were evaluated using a Barco Coronis Fusion 4MP MDCC-4430 (Barco, Kortrijk, Belgium), certified for medical use. The reading environment was standardized with controlled lighting to minimize distractions. Readers assessed the presence or absence of the following dental treatment signs: Orthodontic braces.\n\nProstheses (fixed and removable).\n\nDental implants.\n\nSigns of endodontic treatment.\n\nRestorations.\n\nMissing teeth. Each PAN image was independently evaluated by two readers (Reader 1 and Reader 2) who were blinded to the AI results and each other’s findings. The results were recorded in separate spreadsheets. After the initial independent readings, the interreader reliability was calculated for each feature via Cohen’s kappa coefficient. Following this, the readers compared their findings. A third reading session was convened to review the specific case jointly and reach a final consensus on disagreements. This final consensus served as the reference standard for all subsequent analyses. Patient-level success criterion To assess the clinical significance of the results, patient-level analysis was conducted at two levels. 1. “Per feature” - the basic level, patient-level accuracy was defined by whether each treatment feature present in an individual was identified at least once anywhere in the dentition. At this level, minor errors—such as misnumbering or isolated diagnostic mistakes—did not alter the final diagnosis. 2. The “perfect match” approach was designed to assess the AI’s ability to produce a completely accurate, full-mouth diagnostic report—an ultimate requirement for autonomous clinical application. Patient diagnosis was classified as “correct” only if the set of all diagnostic codes for all 32 tooth positions in the AI dataset was perfectly identical to the corresponding set of codes in the reference standard dataset, following the rigorous harmonization protocol: ≤1 error and ≤ 2 errors per patient: number of symmetric-difference tokens ≤ 1 or ≤ 2 across the full mouth. Statistical evaluation The diagnostic performance of the Diagnocat AI platform was evaluated by comparing its findings to the consensus of the two human readers, which served as the reference standard. Performance metrics (sensitivity, specificity, PPV, NPV, accuracy) were computed for six tooth-level categories (missing teeth, fillings, crowns, pontics, endodontic treatment, orthodontic appliances). Because teeth within a patient are not independent, 95% confidence intervals were obtained via a patient-clustered nonparametric bootstrap: patients were resampled with replacement (n = 3,000 replicates), and all teeth belonging to the sampled patients were included within each replicate; percentile intervals were reported. Cells can contain multiple labels (e.g., ‘O, F’), which are parsed so that features can cooccur on a tooth. In a patient-level analysis, presence/absence per feature was defined as positive if the feature occurred on any tooth of the patient; 95% CIs used a nonparametric bootstrap over patients (n = 3,000 replicates). Additionally, an exact match analysis revealed a patient as correct only when the AI exactly matched the reference across all teeth for all six features; CIs for the proportion were obtained via 5,000 patient bootstraps. The interreader reliability was calculated for each feature via Cohen’s kappa coefficient. All the analyses were conducted in R software, version 4.5.1."
+      }
+    ],
+    "credits_consumed": 0.14
+  }
+}

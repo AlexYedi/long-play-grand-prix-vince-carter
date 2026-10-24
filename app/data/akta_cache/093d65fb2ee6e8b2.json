@@ -1,0 +1,927 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002dz&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:32.050Z",
+  "data": {
+    "total": 6,
+    "limit": 20,
+    "offset": 0,
+    "count": 6,
+    "data": [
+      {
+        "id": 33783745,
+        "title": "Pearl Launches Second Opinion 3D, Bringing FDA-Cleared CBCT Imaging AI to General Dentists for the First Time",
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+        "publisher": "FinancialContent Business Page",
+        "published_date": "2026-09-03T13:05:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada. The product adds embedded specialist radiology-report requests and automatic conversion of CBCT findings into insurance claim-ready documentation. AI-powered pathology detection is available in Canada and pending approval in additional markets.",
+        "word_count": 969,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "CAN"
+        ],
+        "industries": [
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": true
+          },
+          {
+            "name": "Cone Beam CT (CBCT) Imaging Centers",
+            "code": "HLABAIAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "ophir tanz",
+            "dr. todd yerondopoulos",
+            "nick garrison"
+          ],
+          "location": [
+            "canada",
+            "los angeles",
+            "us",
+            "pleasanton, ca",
+            "120 countries"
+          ],
+          "product": [
+            "second opinion 3d",
+            "pearl",
+            "cbct"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9371,
+        "group_id": 10324030,
+        "full_text": "Key Takeaways:\n\nPearl has launched Second Opinion 3D, making its FDA-cleared 3D imaging AI available to general dentists in the US and Canada.\n\nThe commercial release of the FDA cleared technology adds two workflow features built specifically for general dentists: an embedded specialist radiology-report request, and automatic conversion of CBCT findings into insurance claim-ready documentation.\n\nBuilt for chairside use rather than specialist image review, Second Opinion 3D is designed to help general dentists interpret CBCT scans and walk patients through what the AI finds in real time.\n\n\n\nLOS ANGELES, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Pearl today launched Second Opinion 3D, putting its FDA-cleared 3D imaging AI into general dentists' hands as a commercial product for the first time. General practices are adopting CBCT faster than the software built to support them: most viewers on the market were designed for specialist image review, not for a general dentist working through a normal patient appointment. Second Opinion 3D is Pearl's answer: a CBCT tool built around how general practices actually work, and integrated into the same Second Opinion interface providers already use for 2D imaging.\n\nThe launch builds on the FDA 510(k) clearance Pearl received last year , when it became the first dental AI company cleared by the FDA for both 2D and 3D radiologic image analysis. That clearance covered the underlying AI, which automatically identifies structures such as the mandible, maxillary complex, nasal space, airway, inferior alveolar nerve canal, and individual teeth in CBCT scans. Today's launch turns that clearance into a product: alongside general availability, Second Opinion 3D now lets providers request a report from a board-certified oral and maxillofacial radiologist without leaving the interface, and automatically converts 3D findings into insurance claim-ready documentation, two steps that previously required separate portals and manual staff work.\n\n“General dentists have invested in CBCT for years, but reading these scans well has traditionally required specialist-level training most practices don’t have. Second Opinion 3D helps every dentist do more with CBCT. That matters beyond the tooth being treated: CBCT is one of the more exciting imaging modalities we have because of what it can reveal about a patient's health beyond their mouth. By making CBCT more accessible and useful for dentists, we’re advancing a technology that has a role to play in bridging the gap between dental medicine and systemic health.\"\n\n— Ophir Tanz, CEO and Founder, Pearl\n\n\"What I really wanted was something that would scan every slice, flag anything worth a second look, and take me straight to it. That's exactly what it does. It's caught things I would've missed just focusing on the one area I came in to check. And when I'm sitting with a patient, I can isolate exactly what I'm looking at and show them, instead of trying to explain a blob on a screen. That changes how confident patients feel about the treatment plan we land on.\"\n\n— Dr. Todd Yerondopoulos, Enamel Creations, Pleasanton, CA\n\nWhat does this mean for general dentists?\n\nCBCT has moved from a specialist tool into everyday use in general practice, but the software built to support it hasn't kept pace, and the workflow around it hasn't either. Getting a specialist's opinion on a scan typically means exporting files and going through a separate referral process, and turning a 3D finding into something a payor will accept for a claim is manual work that falls to practice staff. Both add friction to a workflow that's already asking general dentists to interpret imaging outside their usual training.\n\n\n\n\n\n\n\nSecond Opinion 3D is Pearl's answer to that gap, now available as a full product rather than just a cleared technology. The AI automatically segments key anatomy and color-codes each for easy visualization, allowing users to remove or highlight specific anatomical structures. It presents anatomical structures in an interactive viewer with 3D rendering, zoom and rotation, opacity controls, length measurement. Second Opinion 3D also supports radiology-report requests and claim-ready documentation, and the ability to easily turn CBCT scans into claim-ready 2D images features mean providers no longer have to leave the software or hand work off to staff to get a second opinion or bill for what they found.\n\nHow does this compare to existing CBCT viewers?\n\nMost CBCT software was designed for technical image review, engineered for radiologists and specialists first, with general dentists and practice workflow as an afterthought. Second Opinion 3D is built the other way around. Where a traditional workflow requires downloading a scan and uploading it to a separate radiology portal, Second Opinion 3D keeps that request inside the same software. Where turning a 3D finding into claim documentation has meant manual rework by staff, Second Opinion 3D generates it automatically. And where most viewers assume the person reading the scan is a specialist, Second Opinion 3D is also built for the general dentist and the chairside conversation.\n\n\n\n\n\n\n\nWhat happens next?\n\nSecond Opinion 3D also includes AI-powered pathology detection, covering findings such as TMD, carotid artery calcifications, impactions, periapical radiolucency, and sinus radiopacities. These capabilities are currently available in Canada and pending regulatory approval in additional markets.\n\nFor multi-location practices and DSOs, Second Opinion 3D can standardize how CBCT is reviewed, documented, and communicated across locations and providers.\n\n\n\nAbout Pearl\n\nPearl is a dental AI company committed to enhancing how patient care is delivered. Founded in 2019 by a team with decades of experience developing successful, enterprise-grade computer vision solutions, Pearl introduced the first-ever FDA-cleared AI capable of reading and instantly identifying diseases in dental x-rays. With regulatory clearance in 120 countries, Pearl's AI assists dentists in making precise clinical decisions and effectively communicating with patients, thereby transforming the dental care experience worldwide. As dentistry's global AI leader, Pearl is committed to the ongoing innovation of robust, accessible AI tools that improve patient health outcomes and build greater trust in dental medicine. To request a demo, please visit hellopearl.com/demo .\n\nMedia Contact:\n\nNick Garrison\n\npr@hellopearl.com\n\nPhotos accompanying this announcement are available at:\n\nhttps://www.globenewswire.com/NewsRoom/AttachmentNg/2f4d8d49-3127-466c-b408-c822cb92323b\n\nhttps://www.globenewswire.com/NewsRoom/AttachmentNg/14e65a69-8e89-4e0b-85d1-43b5229cdaa4\n\nhttps://www.globenewswire.com/NewsRoom/AttachmentNg/3631a1c1-9838-429b-abb0-e9a05d09871a"
+      },
+      {
+        "id": 18292163,
+        "title": "FDA Clears Pearl’s Platform for AI-Assisted Pathology Detection on Panoramic Radiographs",
+        "url": "https://www.mpo-mag.com/breaking-news/fda-clears-pearls-platform-for-ai-assisted-pathology-detection-on-panoramic-radiographs/",
+        "publisher": "Mpo-mag",
+        "published_date": "2026-01-14T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Pearl has received U.S. Food and Drug Administration 510(k) clearance for its Second Opinion AI platform to detect dental pathologies including caries, periapical radiolucencies, and impacted third molars on panoramic radiographs. The clearance expands Pearl's radiologic AI technology to the most widely captured extraoral imaging modality in dentistry and is supported by clinical validation studies demonstrating improved detection rates across all study subgroups. The AI-assisted detection tool is now available to Second Opinion users in the United States and internationally across standalone software and integrated imaging and practice management systems.",
+        "word_count": 434,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Extraoral 2D Radiography Centers (Panoramic/Cephalometric)",
+            "code": "HLABAIAB",
+            "is_primary": true
+          },
+          {
+            "name": "AI Orchestration & Imaging Analytics Platforms (Model Management/Triage)",
+            "code": "HLACALAG",
+            "is_primary": false
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339116",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          },
+          {
+            "code": "8071",
+            "name": "SERVICES-MEDICAL LABORATORIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ophir tanz",
+            "michael barbella"
+          ],
+          "location": [
+            "europe",
+            "united states",
+            "u.k.",
+            "120 countries",
+            "u.s.",
+            "internationally"
+          ],
+          "product": [
+            "panoramic radiographs"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9971,
+        "group_id": 1864456,
+        "full_text": "By: Michael Barbella Managing Editor\n\n\n\nA dentist reviews a panoramic radiograph with support from Pearl’s Second Opinion AI. Photo: Business Wire.\n\nPearl has won U.S. Food and Drug Administration (FDA) 510(k) clearance for artificial intelligence (AI)-powered detection of dental pathologies on panoramic radiographs. The authorization expands Pearl’s clinically validated radiologic AI technology to the most widely captured extraoral imaging modality in dentistry, and is now available to Second Opinion users in the United States and internationally. SCROLL TO CONTINUE Pearl’s Second Opinion real-time chairside pathology detection platform is now cleared to identify and highlight suspected caries, periapical radiolucencies, and impacted third molars on panoramic radiographs. Panoramic radiographs present a broad anatomical view that can reveal a wide range of dental and maxillofacial conditions—but their complexity and anatomical distortion can make consistent and accurate pathology detection difficult. This latest FDA clearance validates the performance of Pearl’s radiologic AI applied to one of dentistry’s most diagnostically challenging imaging formats, according to the company. “Panoramic x-rays are increasingly popular because they capture the full mouth with lower radiation than a traditional full-mouth X-ray series, but they remain one of the hardest types of dental X-ray to read reliably,” Pearl Founder/CEO Ophir Tanz stated. “AI brings greater clarity and certainty to pano interpretation. Patients benefit as well: Diagnoses are easier to understand when findings are clearly highlighted and labeled. Although panoramic X-ray adoption in the U.S. still trails the U.K. and Europe, this FDA clearance affirms the strength of our technology and moves the industry closer to universal AI support across dental radiology.” The FDA clearance is supported by extensive clinical validation, including a standalone performance study and a fully crossed multi-reader, multi-case (MRMC) trial demonstrating that Second Opinion significantly improves detection of caries, periapical radiolucencies, and impacted third molars. Across all study subgroups—including gender, geography, and imaging device type—the AI maintained stable, unbiased performance. For current Second Opinion users in the United States and internationally, panoramic AI support is available both within Pearl’s standalone software and across dozens of imaging and practice management systems where Second Opinion is natively integrated to support seamless adoption within existing clinical workflows. Pearl is an AI-driven company committed to enhancing patient care in dentistry. Founded in 2019 by a team with decades of experience developing successful, enterprise-grade computer vision solutions, Pearl introduced the first FDA-cleared AI capable of reading and instantly identifying diseases in dental X-rays. With regulatory clearance in 120 countries, Pearl’s AI assists dentists in making precise clinical decisions and effectively communicating with patients, thereby transforming the dental care experience worldwide.\n\nKeep Up With Our Content. Subscribe To Medical Product Outsourcing Newsletters"
+      },
+      {
+        "id": 17711331,
+        "title": "Dental Digital X-ray Market Set to Transform Oral Care: Innovations, Growth Trends & Multi-Billion Dollar Opportunities 2026-2034 | Major Companies - Air Techniques Inc., Danaher Corporation, GE Healt",
+        "url": "https://www.openpr.com/news/4333915/dental-digital-x-ray-market-set-to-transform-oral-care",
+        "publisher": "openPR.com",
+        "published_date": "2026-01-02T08:25:11",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "DataM Intelligence published a market overview projecting the Dental Digital X-ray Market to grow at a 9% CAGR during 2024-2031, driven by rising dental awareness and technological advancements in digital imaging. Several companies made recent product and regulatory announcements: Planmeca launched its ProX GO handheld intraoral X-ray device in the U.S., Pearl received FDA 510(k) clearance for its Second Opinion AI platform, and Cube Click gained FDA approval for its Smile Dx caries detection system. Additional developments include DEXIS unveiling AI-driven endodontic tools at IDS 2025, while Vatech and DOF showcased enhanced imaging and photogrammetry-integrated scanners at the same event.",
+        "word_count": 3119,
+        "original_language": "EN",
+        "author": "Datam Intelligence Research",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Implant Planning & Surgical Guide Imaging Centers",
+            "code": "HLABAIAH",
+            "is_primary": true
+          },
+          {
+            "name": "AI Orchestration & Imaging Analytics Platforms (Model Management/Triage)",
+            "code": "HLACALAG",
+            "is_primary": false
+          },
+          {
+            "name": "Digital & AI-Enabled Diagnostics (algorithmic interpretation, decision support tied to assays)",
+            "code": "HLAAALAO",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000azz3",
+            "name": "DEXIS",
+            "website": "https://instrumentariumdental.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000ctew",
+            "name": "Vatech",
+            "website": "http://www.vatech.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0003qe1",
+            "name": "Planmeca",
+            "website": "http://www.planmeca.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000oaxg",
+            "name": "DOF",
+            "website": "https://doflab.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20001167",
+            "name": "medical equipment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "319",
+            "name": "Medical Health"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339116",
+            "name": "Manufacturing"
+          },
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3844",
+            "name": "X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "sai kiran",
+            "andreas knepper"
+          ],
+          "location": [
+            "japan",
+            "italy",
+            "china",
+            "brazil",
+            "germany",
+            "argentina",
+            "russia",
+            "india",
+            "colombia",
+            "saudi arabia",
+            "europe",
+            "france",
+            "australia",
+            "united states",
+            "south korea",
+            "canada",
+            "u.a.e.",
+            "south africa",
+            "spain",
+            "u.k.",
+            "mexico",
+            "indonesia",
+            "u.s.",
+            "south america",
+            "the netherlands",
+            "north america",
+            "middle east & africa",
+            "asia-pacific",
+            "european markets",
+            "asia pacific",
+            "us",
+            "region",
+            "new england"
+          ],
+          "product": [
+            "prox go",
+            "smile dx",
+            "cardiac holter monitor",
+            "hemodialysis catheters market",
+            "dental digital x-ray market",
+            "powder coating market",
+            "hemodialysis catheters",
+            "non-opioid pain treatment market"
+          ],
+          "event": [
+            "ids cologne",
+            "ids 2025 recap",
+            "ids 2025"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1850763,
+        "full_text": "Dental Digital X-ray Market Set to Transform Oral Care: Innovations, Growth Trends & Multi-Billion Dollar Opportunities 2026-2034 | Major Companies - Air Techniques Inc., Danaher Corporation, GE Healthcare, Dentsply Sirona Inc. Dental Digital X-ray Market Market Overview:\n\n\n\nThe Dental Digital X-ray Market is expected to grow at a CAGR of 9% during the forecasting period (2024-2031).\n\n\n\nThe Dental Digital X-ray Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to make informed decisions and stay ahead of the competition. Through a combination of qualitative and quantitative research methods, it offers comprehensive reports that help clients navigate complex market landscapes, drive strategic growth, and seize new opportunities in an ever-evolving global market.\n\n\n\nGet a Free Sample PDF Of This Report (Get Higher Priority for Corporate Email ID): https://datamintelligence.com/download-sample/dental-digital-x-ray-market?sz\n\n\n\nThe Dental Digital X-ray Market involves advanced imaging systems that capture high-resolution dental images digitally, replacing traditional film X-rays. It enables faster diagnosis, lower radiation exposure, and enhanced treatment planning. Key users include dental clinics, hospitals, and diagnostic centers. Growth is driven by rising dental awareness, technological advancements, and the demand for efficient, accurate, and patient-friendly imaging solutions.\n\n\n\nRecent Key Developments of United States:\n\n\n\nJanuary 2026: Planmeca ProX GO Rollout:\n\n\n\n✅ Planmeca launched sales of its ProX GO handheld intraoral X-ray device in the U.S., following its March 2025 debut, offering up to 300 images per charge with a 0.3 mm focal spot for portable diagnostics.​\n\n\n\nDecember 2025: Pearl AI Expansion:\n\n\n\n✅ Pearl received FDA 510(k) clearance for its Second Opinion platform to analyze panoramic radiographs, identifying caries, periapical radiolucencies, and impacted third molars. The AI improves diagnostic accuracy across bitewing, periapical, panoramic, and CBCT imaging, available in U.S. practices.​\n\n\n\nOctober 2025: Cube Click FDA Clearance:\n\n\n\n✅ Cube Click gained FDA approval for Smile Dx, an AI-powered platform detecting caries, root canals, and periodontal disease at the radiographic pixel level on digital X-rays. This enhances precision in U.S. dental practices by enabling early disease identification.​\n\n\n\nRecent Key Developments of Europe:\n\n\n\n✅ December 2025: DEXIS unveiled AI-driven endodontic tools and focus detection updates for intraoral X-rays at IDS 2025 recap, boosting 3D root canal visualization and diagnostic efficiency across European markets.\n\n\n\n✅ November 2025: Planmeca announced plans on November 30 for US launch of handheld intraoral X-ray device Planmeca ProX GO, debuted at IDS Cologne, emphasizing its relevance for European mobile dental applications with high image quality.\n\n\n\n✅ October 2025: Coverage of IDS 2025 highlights published on October 6 detailed breakthroughs like Vatech's enhanced imaging with cephalometric capabilities and automatic dose control for OP 3D LX, alongside DOF's photogrammetry-integrated intraoral scanners.​​​\n\n\n\nList of the Key Players in the Dental Digital X-ray Market:\n\n\n\nAir Techniques Inc.\n\nCarestream Health Inc.\n\nDanaher Corporation\n\nGE Healthcare\n\nLED Medical Diagnostics Inc.\n\nPlanmeca\n\nDentsply Sirona Inc\n\nValtech Co. Ltd\n\nYoshida Dental\n\nMidmark Corporation\n\n\n\nSpeak to Our Analyst and Get Customization in the report as per your requirements: https://datamintelligence.com/customize/dental-digital-x-ray-market?sz\n\n\n\nThis Report Covers:\n\n\n\n✔ Go-to-market Strategy.\n\n\n\n✔ Neutral perspective on the market performance.\n\n\n\n✔Development trends, competitive landscape analysis, supply side analysis, demand side analysis, year-on-year growth, competitive benchmarking, vendor identification, and other significant analysis, as well as development status.\n\n\n\n✔Customized regional/country reports as per request and country level analysis.\n\n\n\n✔ Potential & niche segments and regions exhibiting promising growth covered.\n\n\n\n✔ Analysis of Market Size (historical and forecast), Total Addressable Market (TAM), Serviceable Available Market (SAM), Serviceable Obtainable Market (SOM), Market Growth, Technological Trends, Market Share, Market Dynamics, Competitive Landscape and Major Players (Innovators, Start-ups, Laggard, and Pioneer).\n\n\n\nSegments Covered in the Dental Digital X-ray Market:\n\n\n\nBy Type: Intraoral X-rays (Bite-wing X-rays, Periapical X-rays, Occlusal X-rays), Extraoral X-rays (Panoramic X-rays, Dental Computed Tomography, Cephalometric Projections).\n\n\n\nBy Technology: Analog X-ray Systems, Digital X-ray Systems.\n\n\n\nBy Application: Diagnostic, Therapeutics, Forensic, Cosmetic.\n\n\n\nBy End-User: Dental Clinics & Hospitals, Forensic Laboratories, Dental Academic and Research Institutes.\n\n\n\nRegional Analysis:\n\n\n\n⇥ North America (U.S., Canada, Mexico)\n\n\n\n⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)\n\n\n\n⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)\n\n\n\n⇥ South America (Colombia, Brazil, Argentina, Rest of South America)\n\n\n\n⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)\n\n\n\nLooking For Full Report? Get it Here: https://www.datamintelligence.com/buy-now-page?report=dental-digital-x-ray-market\n\n\n\nChapter Outline\n\n\n\n⏩ Market Overview: It contains five chapters, as well as information about the research scope, major manufacturers covered, market segments, Dental Digital X-ray market segments, study objectives, and years considered.\n\n\n\n⏩ Market Landscape: The competition in the Global Dental Digital X-ray Market is evaluated here in terms of value, turnover, revenues, and market share by organization, as well as market rate, competitive landscape, and recent developments, transaction, growth, sale, and market shares of top companies.\n\n\n\n⏩ Companies Profiles: The Global Dental Digital X-ray market's leading players are studied based on sales, main products, gross profit margin, revenue, price, and growth production.\n\n\n\n⏩ Market Outlook by Region: The report goes through gross margin, sales, income, supply, market share, CAGR, and market size by region in this segment. North America, Europe, Asia Pacific, Middle East & Africa, and South America are among the regions and countries studied in depth in this study.\n\n\n\n⏩ Market Segments: It contains the deep research study which interprets how different end-user/application/type segments contribute to the Dental Digital X-ray Market.\n\n\n\n⏩ Market Forecast: Production Side: In this part of the report, the authors have focused on production and production value forecast, key producers forecast, and production and production value forecast by type.\n\n\n\n⏩ Research Findings: This section of the report showcases the findings and analysis of the report.\n\n\n\n⏩ Conclusion: This portion of the report is the last section of the report where the conclusion of the research study is provided.\n\n\n\nUnlock 360° Market Intelligence with DataM Subscription Services: https://www.datamintelligence.com/reports-subscription\n\n\n\nPeople Also Ask:\n\n\n\n◆ How big is the Dental Digital X-ray Market in 2025?\n\n◆ What is the projected growth rate of the Dental Digital X-ray Market through 2033?\n\n◆ Who are the key players in the Dental Digital X-ray Market?\n\n◆ Which region is expected to dominate the industry during the forecast period?\n\n\n\nContact Us -\n\nCompany Name: DataM Intelligence\n\nContact Person: Sai Kiran\n\nEmail: Sai.k@datamintelligence.com\n\nPhone: +1 877 441 4866\n\nWebsite: https://www.datamintelligence.com\n\n\n\nAbout Us -\n\nDataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.\n\nOur research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele.\n\n\n\nThis release was published on openPR.\n\nMarket Overview:The Dental Digital X-ray Market is expected to grow at a CAGR of 9% during the forecasting period (2024-2031).The Dental Digital X-ray Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to make informed decisions and stay ahead of the competition. Through a combination of qualitative and quantitative research methods, it offers comprehensive reports that help clients navigate complex market landscapes, drive strategic growth, and seize new opportunities in an ever-evolving global market.Get a Free Sample PDF Of This Report (Get Higher Priority for Corporate Email ID):The Dental Digital X-ray Market involves advanced imaging systems that capture high-resolution dental images digitally, replacing traditional film X-rays. It enables faster diagnosis, lower radiation exposure, and enhanced treatment planning. Key users include dental clinics, hospitals, and diagnostic centers. Growth is driven by rising dental awareness, technological advancements, and the demand for efficient, accurate, and patient-friendly imaging solutions.Recent Key Developments of United States:January 2026: Planmeca ProX GO Rollout:✅ Planmeca launched sales of its ProX GO handheld intraoral X-ray device in the U.S., following its March 2025 debut, offering up to 300 images per charge with a 0.3 mm focal spot for portable diagnostics.​December 2025: Pearl AI Expansion:✅ Pearl received FDA 510(k) clearance for its Second Opinion platform to analyze panoramic radiographs, identifying caries, periapical radiolucencies, and impacted third molars. The AI improves diagnostic accuracy across bitewing, periapical, panoramic, and CBCT imaging, available in U.S. practices.​October 2025: Cube Click FDA Clearance:✅ Cube Click gained FDA approval for Smile Dx, an AI-powered platform detecting caries, root canals, and periodontal disease at the radiographic pixel level on digital X-rays. This enhances precision in U.S. dental practices by enabling early disease identification.​Recent Key Developments of Europe:✅ December 2025: DEXIS unveiled AI-driven endodontic tools and focus detection updates for intraoral X-rays at IDS 2025 recap, boosting 3D root canal visualization and diagnostic efficiency across European markets.✅ November 2025: Planmeca announced plans on November 30 for US launch of handheld intraoral X-ray device Planmeca ProX GO, debuted at IDS Cologne, emphasizing its relevance for European mobile dental applications with high image quality.✅ October 2025: Coverage of IDS 2025 highlights published on October 6 detailed breakthroughs like Vatech's enhanced imaging with cephalometric capabilities and automatic dose control for OP 3D LX, alongside DOF's photogrammetry-integrated intraoral scanners.​​​List of the Key Players in the Dental Digital X-ray Market:Air Techniques Inc.Carestream Health Inc.Danaher CorporationGE HealthcareLED Medical Diagnostics Inc.PlanmecaDentsply Sirona IncValtech Co. LtdYoshida DentalMidmark CorporationSpeak to Our Analyst and Get Customization in the report as per your requirements:This Report Covers:✔ Go-to-market Strategy.✔ Neutral perspective on the market performance.✔Development trends, competitive landscape analysis, supply side analysis, demand side analysis, year-on-year growth, competitive benchmarking, vendor identification, and other significant analysis, as well as development status.✔Customized regional/country reports as per request and country level analysis.✔ Potential & niche segments and regions exhibiting promising growth covered.✔ Analysis of Market Size (historical and forecast), Total Addressable Market (TAM), Serviceable Available Market (SAM), Serviceable Obtainable Market (SOM), Market Growth, Technological Trends, Market Share, Market Dynamics, Competitive Landscape and Major Players (Innovators, Start-ups, Laggard, and Pioneer).Segments Covered in the Dental Digital X-ray Market:By Type: Intraoral X-rays (Bite-wing X-rays, Periapical X-rays, Occlusal X-rays), Extraoral X-rays (Panoramic X-rays, Dental Computed Tomography, Cephalometric Projections).By Technology: Analog X-ray Systems, Digital X-ray Systems.By Application: Diagnostic, Therapeutics, Forensic, Cosmetic.By End-User: Dental Clinics & Hospitals, Forensic Laboratories, Dental Academic and Research Institutes.Regional Analysis:⇥ North America (U.S., Canada, Mexico)⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)⇥ South America (Colombia, Brazil, Argentina, Rest of South America)⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)Looking For Full Report? Get it Here:Chapter Outline⏩ Market Overview: It contains five chapters, as well as information about the research scope, major manufacturers covered, market segments, Dental Digital X-ray market segments, study objectives, and years considered.⏩ Market Landscape: The competition in the Global Dental Digital X-ray Market is evaluated here in terms of value, turnover, revenues, and market share by organization, as well as market rate, competitive landscape, and recent developments, transaction, growth, sale, and market shares of top companies.⏩ Companies Profiles: The Global Dental Digital X-ray market's leading players are studied based on sales, main products, gross profit margin, revenue, price, and growth production.⏩ Market Outlook by Region: The report goes through gross margin, sales, income, supply, market share, CAGR, and market size by region in this segment. North America, Europe, Asia Pacific, Middle East & Africa, and South America are among the regions and countries studied in depth in this study.⏩ Market Segments: It contains the deep research study which interprets how different end-user/application/type segments contribute to the Dental Digital X-ray Market.⏩ Market Forecast: Production Side: In this part of the report, the authors have focused on production and production value forecast, key producers forecast, and production and production value forecast by type.⏩ Research Findings: This section of the report showcases the findings and analysis of the report.⏩ Conclusion: This portion of the report is the last section of the report where the conclusion of the research study is provided.Unlock 360° Market Intelligence with DataM Subscription Services:People Also Ask:◆ How big is the Dental Digital X-ray Market in 2025?◆ What is the projected growth rate of the Dental Digital X-ray Market through 2033?◆ Who are the key players in the Dental Digital X-ray Market?◆ Which region is expected to dominate the industry during the forecast period?Contact Us -Company Name: DataM IntelligenceContact Person: Sai KiranEmail: Sai.k@datamintelligence.comPhone: +1 877 441 4866Website:About Us -DataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.Our research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele. Permanent link to this press release: Copy Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Share Tweet Email You can edit or delete your press release Dental Digital X-ray Market Set to Transform Oral Care: Innovations, Growth Trends & Multi-Billion Dollar Opportunities 2026-2034 | Major Companies - Air Techniques Inc., Danaher Corporation, GE Healthcare, Dentsply Sirona Inc. here Delete press release Edit press release News-ID: 4333915 • Views: …\n\nNon-Opioid Pain Treatment Market Set to Soar: Innovative Therapies Redefining Pa … Market Overview: The Non-Opioid Pain Treatment Market is expected to grow at a CAGR of 8% during the forecast period (2024-2031). The Non-Opioid Pain Treatment Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to make informed decisions and stay ahead of the competition. Through a combination of qualitative and quantitative research … Powder Coating Market Soars: Emerging Trends, Surging Demand, and Future Growth … Market Overview: The Powder Coating Market is expected to grow at a CAGR of 6.0% during the forecast period (2024-2031). The Powder Coating Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to make informed decisions and stay ahead of the competition. Through a combination of qualitative and quantitative research methods, it … Hemodialysis Catheters Market Poised for Rapid Growth: Innovations, Demand Surge … Market Overview: The Hemodialysis Catheters Market is expected to grow at a CAGR of 4.66% during the forecast period 2024-2031. The Hemodialysis Catheters Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to make informed decisions and stay ahead of the competition. Through a combination of qualitative and quantitative research methods, it … Cardiac Holter Monitor Market is estimated to reach US$ 577 million by 2031 | Ma … Market Size and Growth: The Cardiac Holter Monitor Market size was valued US$ 411 million in 2022 and is estimated to reach US$ 577 million by 2031, growing at a CAGR of 5.4% during the forecast period (2024-2031). The Cardiac Holter Monitor Market report, published by DataM Intelligence, provides in-depth insights and analysis on key market trends, growth opportunities, and emerging challenges. Committed to delivering actionable intelligence, DataM Intelligence empowers businesses to … All 5 Releases\n\nDental Service Organizations Market at 17.60% CAGR with Key Contributions Heartl … The Dental Service Organizations (DSOs) market is experiencing significant growth and transformation, driven by evolving consumer demands and a shifting landscape in dental care delivery. As dental practices increasingly seek to enhance operational efficiency and improve patient outcomes, DSOs are emerging as strategic partners that provide comprehensive support services. These services often include administrative assistance, marketing, human resources, and procurement, allowing dental practitioners to focus primarily on patient care. The … Dental Service Organizations (DSO) Market Innovations and Key Players: Meadow De … 𝐌𝐚𝐫𝐤𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐑𝐞𝐜𝐞𝐧𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭𝐬 The Dental Service Organizations (DSO) Market is experiencing significant growth and transformation, playing an integral role in the evolution of dental care delivery. DSOs provide comprehensive management services to dental practices, allowing practitioners to focus on patient care while streamlining operations. With a growing emphasis on patient-centric care, the DSO model has become increasingly relevant, offering solutions that enhance operational efficiency and improve patient … Periodontal Dental Services Market Analysis by Top Key Players Coast Dental, Pac … A periodontal disease is an infection of the tissues in the mouth that results in detachment of teeth from the gums. The main cause of the disease is a bacterial infection that adversely affects the area just below the gum line in the sulcus, resulting in the breakdown of the tissues that support a tooth. In its initial stages, it is referred to as gingivitis, while in its advanced stage … Dental Services Market by Key Players : Apollo White Dental, Pacific Dental Serv … Dental services are provided by dentists or dental professionals, which include diagnosis, prevention, and treatment of dental disorders. These services are subjected to various disorders such as dental caries, tooth decay, and pyorrhea. Dental services mainly focus on the maintenance of healthy teeth, oral hygiene, and dental surgery. The key players that operate in this market include Apollo White Dental, Pacific Dental Services, DENTAL SERVICES GROUP, Gentle Dental of New England, … Periodontal Dental Services Market Size and Business Outlook Analysis 2025: Coas … Periodontal Dental Services Market 2018 delivers comprehensive overview of the global Industry along with the market elements such as drivers, trends, size, share, growth, challenges and restraints. Our analysts have done thorough analysis of all the major elements to define the future prospect of Global Periodontal Dental Services Market. The periodontal dental services market is characterized by the presence of several vendors. The vendors are increasingly competing against each other based … Global Dental Laboratory Workstations Market 2017- Dental Art , DentalEZ Group , … The Global Dental Laboratory Workstations Market 2017 examines the performance of the Dental Laboratory Workstations market, enclosing an in-depth judgment of the Dental Laboratory Workstations market state and the competitive landscape globally. This report analyzes the potential of Dental Laboratory Workstations market in the present as well as the future prospects from various angles in detail. The Global Dental Laboratory Workstations Market 2017 report includes Dental Laboratory Workstations industry volume, market …\n\nYour portal is fast, simple, and easy to use. Others may have more functions but they also demand more editing time, you have to preformat the text in order to achieve a good result etc. I think openPR is really fantastic!\n\nAndreas Knepper, wallmedien AG Your Press Release on Google News Press Release in German on openPR.de"
+      },
+      {
+        "id": 22051191,
+        "title": "Panoramic X-Rays Market set for steady growth to US$ 48.13 billion by 2033, led by North America 39% global market share",
+        "url": "https://www.einpresswire.com/article/876802872/panoramic-x-rays-market-set-for-steady-growth-to-us-48-13-billion-by-2033-led-by-north-america-39-global-market-share",
+        "publisher": "EIN Presswire",
+        "published_date": "2025-12-19T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The global panoramic X-ray market reached US$ 27.79 billion in 2024 and is projected to grow to US$ 48.13 billion by 2033, representing a compound annual growth rate of 5.6% during the forecast period. North America leads the market with approximately 39% global share, driven by advanced dental infrastructure and favorable reimbursement policies in the US and Canada. Key industry developments include Dentsply Sirona's September 2025 announcement of AI-powered 3D X-ray diagnosis features for its DS Core platform, Detection Technology's July 2025 expansion of its X-Panel series, and FDA clearances granted to Pearl Inc. and Yian Medical Technology in 2025.",
+        "word_count": 1842,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "CAN",
+          "CHN",
+          "IND",
+          "JPN",
+          "DEU",
+          "FRA",
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Extraoral 2D Radiography Centers (Panoramic/Cephalometric)",
+            "code": "HLABAIAB",
+            "is_primary": true
+          },
+          {
+            "name": "Radiology AI, CAD & Advanced Visualization Software",
+            "code": "HLAHABAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00s7rlp",
+            "name": "Yian Medical Technology (Haining)",
+            "website": "https://www.yian-medical.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000jt5",
+            "name": "Dentsply Sirona",
+            "website": "https://www.dentsplysirona.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0005hpf",
+            "name": "Detection Technology",
+            "website": "https://www.deetee.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "334517",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3844",
+            "name": "X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS"
+          },
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "north america",
+            "france",
+            "india",
+            "china",
+            "japan",
+            "germany",
+            "europe",
+            "asia pacific",
+            "u.s.",
+            "canada",
+            "the uk",
+            "us",
+            "united states",
+            "austin, tx"
+          ],
+          "product": [
+            "x-panel series",
+            "dentsply sirona",
+            "hasla dental cbct x-ray system",
+            "panoramic x-rays market",
+            "ds core diagnosis software",
+            "ds core platform",
+            "implants",
+            "dso/group practices",
+            "ds core",
+            "panoramic x-rays",
+            "datam subscription services",
+            "panoramic x-ray",
+            "orthodontic treatments",
+            "digital x-ray",
+            "cosmetic dental procedures"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9648,
+        "group_id": 5783082,
+        "full_text": "Panoramic X-Rays Market set for steady growth to US$ 48.13 billion by 2033, led by North America 39% global market share\n\nPanoramic X-Rays market is expanding with rising dental diagnostics, technology upgrades,preventive oral care demand, boosting adoption across clinics worldwide Future growth will be shaped by digital imaging, AI enablement, and cost-access balance; regions investing in dental infrastructure will lead, while pricing and reimbursement may limit pace.” — DataM Intelligence\n\n\n\nMarket growth is driven by the rising prevalence of dental disorders, increasing adoption of advanced diagnostic imaging in dental practices, and growing awareness regarding early detection of oral health complications. Additionally, advancements in digital panoramic X-ray technology, expanding usage in orthodontics, implant dentistry, and maxillofacial diagnostics, and improving access to dental healthcare services are further supporting market expansion.\n\n\n\nGet a Free Sample PDF Of This Report (Get Higher Priority for Corporate Email ID):-\n\n\n\nKey Industry Developments\n\n◽ September 2025: Dentsply Sirona announced the upcoming U.S. launch of AI-powered 3D X-ray diagnosis features on its DS Core platform, enhancing panoramic imaging accuracy for dental diagnostics and treatment planning.​\n\n\n\n◽ July 2025: Detection Technology expanded its X-Panel series with a new model offering larger field-of-view (FOV) for panoramic X-ray systems, addressing demand for versatile imaging in dental applications.\n\n\n\nKey FDA Approvals(2025):-\n\n◽ Dentsply Sirona's DS Core Diagnosis software received clearance on August 12 for its Panoramic Curve Proposal algorithm, achieving 98.81% success in CBCT panorama reconstruction without user modification. Pearl Inc. gained approval on November 14 (announced December 18) for AI analysis of panoramic radiographs in patients aged 16+, aiding detection of dental conditions. Yian Medical Technology's Hasla Dental CBCT X-ray System was cleared on June 27, supporting 2D panoramic, cephalometric, and 3D images with 100µm resolution.\n\n\n\nMarket Segmentation Analysis:-\n\nBy Product Type: Digital vs Analog\n\nDigital panoramic X-rays dominate with the largest market share in 2024, driven by lower radiation, instant imaging, and integration with diagnostic tools. Analog systems hold a smaller portion but are expected to grow due to cost-effectiveness in emerging markets.​\n\n\n\nBy End-User: Solo Practices Lead\n\nSolo practices captured the highest share in 2024, favored for versatility and comprehensive diagnostics in independent clinics. DSO/group practices follow with strong growth potential from high patient volumes and EHR integration, while hospitals and others contribute smaller segments.​\n\n\n\nBy Technology: Hybrid/3D Fastest Growing\n\nHybrid/3D-capable systems are projected for the fastest CAGR from 2025-2034, offering precise 3D views for complex cases like implants with reduced radiation. Traditional 2D variants maintain steady shares for routine panoramic needs.\n\n\n\nPurchase this report before year-end and unlock an exclusive 30% discount:\n\n\n\nGrowth Drivers:-\n\nRising prevalence of dental disorders\n\nIncreasing cases of periodontal diseases, tooth decay, oral cancers, and impacted teeth are boosting demand for advanced diagnostic imaging.\n\n\n\nGrowing geriatric population\n\nAging populations worldwide require more frequent dental checkups, restorative procedures, and oral diagnostics, driving panoramic X-ray adoption.\n\n\n\nAdvancement in digital radiography technology\n\nTransition from analog to digital panoramic systems, offering higher image clarity, lower radiation exposure, faster processing, and AI-based image enhancement, supports market expansion.\n\n\n\nIncreasing demand for early and accurate diagnosis\n\nHospitals and dental clinics are increasingly using panoramic imaging for comprehensive jaw, sinus, and dental structure evaluation to support preventive and corrective care.\n\n\n\nGrowth in cosmetic and orthodontic dentistry\n\nRising orthodontic treatments, implants, and cosmetic dental procedures significantly increase the need for panoramic scanning.\n\n\n\nImproving dental healthcare infrastructure\n\nGovernment initiatives, increasing number of dental clinics, and expanding insurance coverage for dental imaging fuel market growth.\n\n\n\nRegional Insights:-\n\nNorth America commands the largest share of the Panoramic X-Rays Market, estimated at around 39% in recent assessments, driven by advanced dental infrastructure, high adoption of digital imaging technologies, substantial R&D investments, and favorable reimbursement policies in the US and Canada.​\n\n\n\nEurope follows as the second-largest region, benefiting from stringent medical device regulations, rising adoption in countries like Germany, France, and the UK, and growing awareness of oral health diagnostics, though exact shares vary by report amid steady market expansion.​\n\n\n\nAsia Pacific ranks third in market share, yet exhibits the fastest growth potential with high CAGRs in nations such as China, India, and Japan, fueled by increasing healthcare investments, government subsidies for medical devices, dental tourism, and expanding geriatric populations.\n\n\n\nSpeak to Our Analyst and Get Customization in the report as per your requirements:\n\n\n\nKey Players:-\n\nCarestream Dental LLC., Planmeca Oy, Sirona Dental Systems GmbH, VATECH, Acteon, NEWTOM, Air Techniques, J. MORITA CORP., and Midmark Corporation, among others.\n\n\n\nKey Highlights (Top 5 Key Players):\n\nCarestream Dental LLC specializes in advanced digital imaging systems, including panoramic X-rays with TomoSharp technology for crystal-clear images and low radiation. Their solutions enhance dental diagnostics and workflows globally.​\n\n\n\nFinland-based Planmeca Oy leads with high-tech panoramic and 3D CBCT systems, integrating AI and cloud features for precise orthodontics and implantology. They emphasize innovation and global distribution.​\n\n\n\nDentsply Sirona, evolving from Sirona Dental Systems GmbH, dominates with extensive panoramic X-ray portfolios offering superior image quality and workflow efficiency for dental clinics worldwide.​\n\n\n\nVATECH excels in 2D and 3D panoramic X-ray technologies, providing high-resolution imaging for endodontics and oral surgery. Their systems prioritize user-friendly design and diagnostic accuracy.​\n\n\n\nActeon delivers integrated panoramic X-ray solutions with cephalometric capabilities, focusing on non-invasive diagnostics for periodontics and general dentistry across Europe and beyond.\n\n\n\nUnlock 360° Market Intelligence with DataM Subscription Services:\n\nPower your decisions with real-time competitor tracking, strategic forecasts, and global investment insights all in one place.\n\n\n\nConclusion:-\n\nThe Panoramic X-Rays market continues to grow driven by dental disease prevalence, orthodontic demand, digital imaging adoption, and expanding clinics worldwide. Advancements in high-resolution, low-dose technology and AI-enabled diagnostics improve accuracy and efficiency, while emerging markets, aging populations, and preventive care initiatives sustain long-term growth momentum globally ahead.\n\n\n\nRelated Reports:-\n\n1.\n\n2. AUSTIN, TX, UNITED STATES, December 19, 2025 / EINPresswire.com / -- Global Panoramic X-Rays Market reached US$ 27.79 billion in 2024 and is expected to reach US$ 48.13 billion by 2033, growing at a CAGR of 5.6 % during the forecast period of 2025-2033Market growth is driven by the rising prevalence of dental disorders, increasing adoption of advanced diagnostic imaging in dental practices, and growing awareness regarding early detection of oral health complications. Additionally, advancements in digital panoramic X-ray technology, expanding usage in orthodontics, implant dentistry, and maxillofacial diagnostics, and improving access to dental healthcare services are further supporting market expansion.Get a Free Sample PDF Of This Report (Get Higher Priority for Corporate Email ID):- https://www.datamintelligence.com/download-sample/panoramic-x-rays-market Key Industry Developments◽ September 2025: Dentsply Sirona announced the upcoming U.S. launch of AI-powered 3D X-ray diagnosis features on its DS Core platform, enhancing panoramic imaging accuracy for dental diagnostics and treatment planning.​◽ July 2025: Detection Technology expanded its X-Panel series with a new model offering larger field-of-view (FOV) for panoramic X-ray systems, addressing demand for versatile imaging in dental applications.Key FDA Approvals(2025):-◽ Dentsply Sirona's DS Core Diagnosis software received clearance on August 12 for its Panoramic Curve Proposal algorithm, achieving 98.81% success in CBCT panorama reconstruction without user modification. Pearl Inc. gained approval on November 14 (announced December 18) for AI analysis of panoramic radiographs in patients aged 16+, aiding detection of dental conditions. Yian Medical Technology's Hasla Dental CBCT X-ray System was cleared on June 27, supporting 2D panoramic, cephalometric, and 3D images with 100µm resolution.Market Segmentation Analysis:-By Product Type: Digital vs AnalogDigital panoramic X-rays dominate with the largest market share in 2024, driven by lower radiation, instant imaging, and integration with diagnostic tools. Analog systems hold a smaller portion but are expected to grow due to cost-effectiveness in emerging markets.​By End-User: Solo Practices LeadSolo practices captured the highest share in 2024, favored for versatility and comprehensive diagnostics in independent clinics. DSO/group practices follow with strong growth potential from high patient volumes and EHR integration, while hospitals and others contribute smaller segments.​By Technology: Hybrid/3D Fastest GrowingHybrid/3D-capable systems are projected for the fastest CAGR from 2025-2034, offering precise 3D views for complex cases like implants with reduced radiation. Traditional 2D variants maintain steady shares for routine panoramic needs.Purchase this report before year-end and unlock an exclusive 30% discount: https://www.datamintelligence.com/buy-now-page?report=panoramic-x-rays-market (Purchase 2 or more Reports and get 50% Discount)Growth Drivers:-Rising prevalence of dental disordersIncreasing cases of periodontal diseases, tooth decay, oral cancers, and impacted teeth are boosting demand for advanced diagnostic imaging.Growing geriatric populationAging populations worldwide require more frequent dental checkups, restorative procedures, and oral diagnostics, driving panoramic X-ray adoption.Advancement in digital radiography technologyTransition from analog to digital panoramic systems, offering higher image clarity, lower radiation exposure, faster processing, and AI-based image enhancement, supports market expansion.Increasing demand for early and accurate diagnosisHospitals and dental clinics are increasingly using panoramic imaging for comprehensive jaw, sinus, and dental structure evaluation to support preventive and corrective care.Growth in cosmetic and orthodontic dentistryRising orthodontic treatments, implants, and cosmetic dental procedures significantly increase the need for panoramic scanning.Improving dental healthcare infrastructureGovernment initiatives, increasing number of dental clinics, and expanding insurance coverage for dental imaging fuel market growth.Regional Insights:-North America commands the largest share of the Panoramic X-Rays Market, estimated at around 39% in recent assessments, driven by advanced dental infrastructure, high adoption of digital imaging technologies, substantial R&D investments, and favorable reimbursement policies in the US and Canada.​Europe follows as the second-largest region, benefiting from stringent medical device regulations, rising adoption in countries like Germany, France, and the UK, and growing awareness of oral health diagnostics, though exact shares vary by report amid steady market expansion.​Asia Pacific ranks third in market share, yet exhibits the fastest growth potential with high CAGRs in nations such as China, India, and Japan, fueled by increasing healthcare investments, government subsidies for medical devices, dental tourism, and expanding geriatric populations.Speak to Our Analyst and Get Customization in the report as per your requirements: https://www.datamintelligence.com/customize/panoramic-x-rays-market Key Players:-Carestream Dental LLC., Planmeca Oy, Sirona Dental Systems GmbH, VATECH, Acteon, NEWTOM, Air Techniques, J. MORITA CORP., and Midmark Corporation, among others.Key Highlights (Top 5 Key Players):Carestream Dental LLC specializes in advanced digital imaging systems, including panoramic X-rays with TomoSharp technology for crystal-clear images and low radiation. Their solutions enhance dental diagnostics and workflows globally.​Finland-based Planmeca Oy leads with high-tech panoramic and 3D CBCT systems, integrating AI and cloud features for precise orthodontics and implantology. They emphasize innovation and global distribution.​Dentsply Sirona, evolving from Sirona Dental Systems GmbH, dominates with extensive panoramic X-ray portfolios offering superior image quality and workflow efficiency for dental clinics worldwide.​VATECH excels in 2D and 3D panoramic X-ray technologies, providing high-resolution imaging for endodontics and oral surgery. Their systems prioritize user-friendly design and diagnostic accuracy.​Acteon delivers integrated panoramic X-ray solutions with cephalometric capabilities, focusing on non-invasive diagnostics for periodontics and general dentistry across Europe and beyond.Unlock 360° Market Intelligence with DataM Subscription Services: https://www.datamintelligence.com/reports-subscription Power your decisions with real-time competitor tracking, strategic forecasts, and global investment insights all in one place.Conclusion:-The Panoramic X-Rays market continues to grow driven by dental disease prevalence, orthodontic demand, digital imaging adoption, and expanding clinics worldwide. Advancements in high-resolution, low-dose technology and AI-enabled diagnostics improve accuracy and efficiency, while emerging markets, aging populations, and preventive care initiatives sustain long-term growth momentum globally ahead.Related Reports:-1. Intraoral Radiography Market 2. Digital X-ray Market Legal Disclaimer: EIN Presswire provides this news content \"as is\" without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the author above."
+      },
+      {
+        "id": 22087348,
+        "title": "Pearl Expands Dental AI Capabilities with FDA Clearance for Panoramic X-Rays",
+        "url": "https://www.businesswire.com/news/home/20251218983939/en/Pearl-Expands-Dental-AI-Capabilities-with-FDA-Clearance-for-Panoramic-X-Rays",
+        "publisher": "Business Wire Blog",
+        "published_date": "2025-12-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Pearl, a dental AI company, announced FDA 510(k) clearance for its Second Opinion platform to detect dental pathologies on panoramic radiographs, expanding its radiologic AI technology to this widely used extraoral imaging modality. The clearance is supported by clinical validation studies demonstrating improved detection of caries, periapical radiolucencies, and impacted third molars across diverse patient subgroups. Pearl positions this as a major advancement making panoramic x-ray interpretation more reliable, with the technology now available to U.S. and international users.",
+        "word_count": 526,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Extraoral 2D Radiography Centers (Panoramic/Cephalometric)",
+            "code": "HLABAIAB",
+            "is_primary": true
+          },
+          {
+            "name": "Radiology AI, CAD & Advanced Visualization Software",
+            "code": "HLAHABAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "319",
+            "name": "Medical Health"
+          },
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6215",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "8071",
+            "name": "SERVICES-MEDICAL LABORATORIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ophir tanz"
+          ],
+          "location": [
+            "europe",
+            "u.s.",
+            "los angeles",
+            "u.k.",
+            "120 countries"
+          ],
+          "product": [
+            "second opinion®"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9797,
+        "group_id": 5570566,
+        "full_text": "LOS ANGELES--(BUSINESS WIRE)--Pearl, the global leader in AI solutions for dentistry, today announced that the U.S. Food and Drug Administration (FDA) has granted 510(k) clearance for AI-powered detection of dental pathologies on panoramic radiographs. This latest clearance expands Pearl’s clinically validated radiologic AI technology to the most widely captured extraoral imaging modality in dentistry, and is now available to Second Opinion® users in the U.S. and internationally. This clearance marks another major advancement in the company’s mission to elevate diagnostic accuracy, consistency, and efficiency across the full spectrum of dental care. Pearl’s Second Opinion real-time chairside pathology detection platform is now FDA cleared to identify and highlight suspected caries, periapical radiolucencies, and impacted third molars on panoramic radiographs. Share Pearl’s Second Opinion real-time chairside pathology detection platform is now cleared to identify and highlight suspected caries, periapical radiolucencies, and impacted third molars on panoramic radiographs. Panoramic radiographs present a broad anatomical view that can reveal a wide range of dental and maxillofacial conditions—but their complexity and anatomical distortion can make consistent and accurate pathology detection difficult. This latest FDA clearance validates the performance of Pearl’s radiologic AI applied to one of dentistry’s most diagnostically challenging imaging formats. “Panoramic x-rays are increasingly popular because they capture the full mouth with lower radiation than a traditional full-mouth x-ray series, but they remain one of the hardest types of dental x-ray to read reliably,” said Ophir Tanz, founder and CEO of Pearl. “AI brings greater clarity and certainty to pano interpretation. Patients benefit as well: Diagnoses are easier to understand when findings are clearly highlighted and labeled. Although panoramic x-ray adoption in the U.S. still trails the U.K. and Europe, this FDA clearance affirms the strength of our technology and moves the industry closer to universal AI support across dental radiology.” The FDA clearance is supported by extensive clinical validation, including a standalone performance study and a fully crossed multi-reader, multi-case (MRMC) study demonstrating that Second Opinion significantly improves detection of caries, periapical radiolucencies, and impacted third molars. Across all study subgroups—including gender, geography, and imaging device type—the AI maintained stable, unbiased performance. With this clearance, Pearl strengthens its position as the most comprehensive FDA-cleared radiologic AI platform in dentistry, spanning bitewing, periapical, panoramic, and CBCT imaging. For current Second Opinion® users in the U.S. and internationally, panoramic AI support is available both within Pearl’s standalone software and across dozens of imaging and practice management systems where Second Opinion is natively integrated to support seamless adoption within existing clinical workflows. About Pearl Pearl is an AI-driven company committed to enhancing patient care in dentistry. Founded in 2019 by a team with decades of experience developing successful, enterprise-grade computer vision solutions, Pearl introduced the first-ever FDA-cleared AI capable of reading and instantly identifying diseases in dental x-rays. With regulatory clearance in 120 countries, Pearl's AI assists dentists in making precise clinical decisions and effectively communicating with patients, thereby transforming the dental care experience worldwide. As dentistry’s global AI leader, Pearl is committed to the ongoing innovation of robust, accessible AI tools that improve patient health outcomes and build greater trust in dental medicine. To request a demo, please visit hellopearl.com/getdemo"
+      },
+      {
+        "id": 21446130,
+        "title": "FDA Grants 510(k) Clearance for AI-Assisted Detection of Pathologies on Panoramic Dental Radiographs",
+        "url": "https://compendiumlive.com/news/?newsID=104373",
+        "publisher": "Compendiumlive",
+        "published_date": "2025-12-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Pearl has received FDA 510(k) clearance for its Second Opinion AI platform to assist in detecting dental pathologies on panoramic radiographs, expanding the company's previously validated radiologic AI technology to this imaging modality. The cleared functionality can identify suspected caries, periapical radiolucencies, and impacted third molars on panoramic images, which are the most commonly used extraoral radiographic format in dentistry despite being difficult to interpret reliably. The clearance is supported by clinical validation data including standalone and multi-reader, multi-case studies demonstrating improved detection performance.",
+        "word_count": 334,
+        "original_language": "EN",
+        "author": "Conexiant News Staff",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          },
+          {
+            "name": "Extraoral 2D Radiography Centers (Panoramic/Cephalometric)",
+            "code": "HLABAIAB",
+            "is_primary": false
+          },
+          {
+            "name": "AI Orchestration & Imaging Analytics Platforms (Model Management/Triage)",
+            "code": "HLACALAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62151",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ophir tanz"
+          ],
+          "location": [
+            "europe",
+            "u.k.",
+            "united states",
+            "u.s."
+          ],
+          "product": [
+            "second opinion®"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9684,
+        "group_id": 5651156,
+        "full_text": "Pearl has announced that the US Food and Drug Administration (FDA) has granted 510(k) clearance for the use of artificial intelligence to assist in the detection of dental pathologies on panoramic radiographs. The clearance extends the company’s previously validated radiologic AI technology to panoramic imaging, the most commonly used extraoral radiographic modality in dentistry. The cleared functionality is available to users of the Second Opinion® platform in the United States and internationally.\n\nWith this clearance, Second Opinion is authorized to identify and visually indicate suspected caries, periapical radiolucencies, and impacted third molars on panoramic radiographs. Panoramic imaging provides a comprehensive view of the maxillofacial region, but anatomical overlap and image distortion can make interpretation variable. The FDA’s decision reflects an evaluation of the system’s performance in this diagnostically complex imaging format.\n\n“Panoramic x-rays are increasingly popular because they capture the full mouth with lower radiation than a traditional full-mouth x-ray series, but they remain one of the hardest types of dental x-ray to read reliably,” said Ophir Tanz, founder and CEO of Pearl. “AI brings greater clarity and certainty to pano interpretation. Patients benefit as well: Diagnoses are easier to understand when findings are clearly highlighted and labeled. Although panoramic x-ray adoption in the U.S. still trails the U.K. and Europe, this FDA clearance affirms the strength of our technology and moves the industry closer to universal AI support across dental radiology.”\n\nThe clearance is supported by clinical validation data, including a standalone performance study and a fully crossed multi-reader, multi-case (MRMC) study. These evaluations demonstrated improved detection of the specified conditions when clinicians used the AI system. Performance consistency was observed across analyzed subgroups, including gender, geographic region, and imaging device type.\n\nThis authorization adds panoramic radiographs to the range of imaging modalities for which the platform has received FDA clearance, alongside bitewing, periapical, and cone-beam computed tomography (CBCT) images. Panoramic AI functionality is accessible through Pearl’s standalone software as well as through integrations with multiple imaging and practice management systems, allowing use within existing clinical workflows."
+      }
+    ],
+    "credits_consumed": 0.16
+  }
+}

@@ -1,0 +1,1278 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000b4d&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:53.143Z",
+  "data": {
+    "data": {
+      "uuid": "0000b4d",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "public",
+            "label": "Public"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2021
+          },
+          "total_funding_usd": 228700000
+        },
+        "funding_rounds": [
+          {
+            "id": 489698,
+            "date": {
+              "month": 7,
+              "year": 2021
+            },
+            "round": {
+              "code": "post_ipo_equity",
+              "label": "Post IPO Equity"
+            }
+          },
+          {
+            "id": 430821,
+            "date": {
+              "month": 11,
+              "year": 2019
+            },
+            "round": {
+              "code": "series_e",
+              "label": "Series E"
+            }
+          },
+          {
+            "id": 410767,
+            "date": {
+              "month": 6,
+              "year": 2017
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Poalim Equity",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0006u2r",
+            "website": "https://www.poalimequity.com"
+          },
+          {
+            "name": "Fidelity",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00002k3",
+            "website": "https://www.fidelity.com"
+          },
+          {
+            "name": "General Atlantic",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000004l",
+            "website": "http://www.generalatlantic.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 4 more funding rounds; 15 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Riskified provides an AI-powered ecommerce risk management platform that prevents online payment fraud, guarantees chargeback liability for approved orders, prevents policy abuse on refunds and returns, and secures customer accounts. Merchants integrate the platform into checkout flows to receive sub-second automated approve/decline decisions, with the company assuming full financial liability for any chargebacks on orders it approves under its performance-based transaction-fee model. The platform serves enterprise ecommerce merchants across retail, luxury fashion, travel, ticketing, digital goods, and marketplace verticals globally.",
+        "differentiator": "Riskified offers a chargeback guarantee model that shifts full financial liability for fraud chargebacks to Riskified, aligning incentives with merchant success. The platform processes billions of historical transactions across a global merchant network, providing unmatched fraud pattern intelligence. Sub-second real-time decisioning with 2-3X stronger fraud detection than baseline systems, along with explainable AI that provides context for every decision rather than blackbox outputs. The company pioneered AI-powered ecommerce fraud prevention in 2013 and now protects 3 of the top 10 largest ecommerce merchants globally.",
+        "functional_benefit": "Reduces total cost of fraud by up to 50%; increases sales approval rates by up to 20%; delivers sub-second fraud decisions; covers all chargeback liability under guarantee model; provides 2-3X stronger fraud and abuse detection; enables merchants to expand to new markets and verticals with confidence; reduces operational costs through automation; improves customer experience by eliminating false declines.",
+        "problem_solved": "Ecommerce fraud prevention, chargeback protection, false decline reduction, policy abuse detection, account takeover prevention, and merchant liability management. Riskified addresses the challenge that traditional fraud methods cannot adapt to the speed, scale, and sophistication of modern fraud and abuse, while merchants need to balance fraud prevention with customer experience and growth.",
+        "quantifiable_outcome": [
+          "Reduces total cost of fraud by as much as 50%",
+          "Increases sales approval rates by up to 20%",
+          "Achieves 2-3X stronger fraud and abuse detection vs baseline",
+          "Lorna Jane: 54% decrease in cost of fraud; virtually no chargebacks (<10 in 6 months)",
+          "Rue Gilt Groupe: 20% decrease in manually reviewed orders",
+          "Finish Line: 70% decrease in chargebacks",
+          "Skullcandy: 4x increase in approved revenue; 0.06% chargeback rate over 12 months",
+          "Global Luxury Brand: ~75% reduction in chargebacks; conversion from ~50% to 75-80%",
+          "Policy Protect: 20% average savings in refund and return costs; 54% reduction in non-fraud chargebacks; 2-5X faster customer response time",
+          "Dynamic Returns: 2X higher repurchase rate for customers with claims; +30 points increase in customer satisfaction",
+          "Dabble: 81% decrease in chargeback rate (from over 1% to 0.19%)",
+          "Reserhub: 93% transaction approval rate enabling LATAM expansion",
+          "Q1 2026: 7% YoY revenue growth to $88.3M; 370% increase in adjusted EBITDA to $6.2M"
+        ],
+        "product_overview": "Riskified operates as a platform-plus-modules architecture providing AI-powered ecommerce risk management solutions. The core Riskified Platform powers the product portfolio through shared machine learning intelligence, a global merchant network with over a billion historical transactions, and identity graph capabilities. The main products include: Chargeback Guarantee (core fraud prevention with financial guarantee), Adaptive Checkout (dynamic checkout optimization), Policy Protect (refund/promo/reseller abuse prevention), Account Secure (account takeover protection), and Dispute Resolve (automated chargeback management). Additional AI-powered modules include Riskified ARIA (AI Risk Analyst) for conversational fraud analysis, Identity Explore 2.0 for identity intelligence, Decision Studio for policy configuration, and Dynamic Returns for AI-driven return decisions. The ecosystem also includes AI Agent Intelligence for securing merchant AI shopping assistants in agentic commerce scenarios.",
+        "product_and_service": [
+          {
+            "category": "Core Product - Fraud Prevention",
+            "description": "Ecommerce fraud prevention solution that provides full chargeback protection, sub-second automated fraud decisions, and covers any chargebacks for approved orders, allowing merchants to sell anywhere with revenue predictability. Includes the Recover module which uses customer-centric flows to verify borderline orders, reducing false declines.",
+            "name": "Chargeback Guarantee",
+            "source": [
+              "https://www.riskified.com/chargeback-guarantee/"
+            ],
+            "url": "https://www.riskified.com/chargeback-guarantee/"
+          },
+          {
+            "category": "Core Product - Checkout Optimization",
+            "description": "AI-powered checkout optimization that dynamically adapts the shopping journey for each customer by intelligently segmenting orders to send good customers straight through checkout, screen out fraud, and identify where to request additional verification to prevent false declines.",
+            "name": "Adaptive Checkout",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "url": "https://www.riskified.com/adaptive-checkout/"
+          },
+          {
+            "category": "Core Product - Policy Abuse Prevention",
+            "description": "Policy abuse prevention solution that detects and prevents unprofitable ecommerce policy abuse affecting refunds, returns, promotions, and resellers. Uses machine learning to instantly sort good customers from bad actors while delivering faster, more flexible return experiences.",
+            "name": "Policy Protect",
+            "source": [
+              "https://www.riskified.com/policy-protect/"
+            ],
+            "url": "https://www.riskified.com/policy-protect/"
+          },
+          {
+            "category": "Core Product - Chargeback Management",
+            "description": "Chargeback management platform that automates dispute processes by collecting compelling evidence and managing chargeback disputes on behalf of merchants, reducing analyst time from 20-30 minutes per case to approximately 5 minutes.",
+            "name": "Dispute Resolve",
+            "source": [
+              "https://www.riskified.com/chargeback-guarantee/dispute-resolve/"
+            ],
+            "url": "https://www.riskified.com/chargeback-guarantee/dispute-resolve/"
+          },
+          {
+            "category": "Core Product - Account Security",
+            "description": "Account takeover protection solution that catches malicious login attempts by bots and humans, blocks fake accounts, and automates account recovery notifications, protecting customer information and bottom line.",
+            "name": "Account Secure",
+            "source": [
+              "https://www.riskified.com/account-secure/"
+            ],
+            "url": "https://www.riskified.com/account-secure/"
+          },
+          {
+            "category": "Platform",
+            "description": "AI-powered ecommerce risk management platform that powers all products (Chargeback Guarantee, Policy Protect, Account Secure, Adaptive Checkout, Dispute Resolve) with shared intelligence, machine learning models, and a global merchant network processing over a billion transactions.",
+            "name": "Riskified Platform",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "url": "https://www.riskified.com/platform-riskified/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Q1 2026 revenue, up 7% year-over-year",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$88.3 million"
+          },
+          {
+            "description": "Q4 2025 record quarterly revenue, highest since inception",
+            "source": [
+              "https://in.investing.com/news/earnings/riskified-beats-estimates-on-earnings-and-revenue-93CH-5271824"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$99.3 million"
+          },
+          {
+            "description": "Full-year 2026 guidance raised",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$376-384 million"
+          },
+          {
+            "description": "Trailing twelve-month revenue",
+            "source": [
+              "https://www.stocktitan.net/overview/RSKD/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$344.6 million"
+          },
+          {
+            "description": "Gross margin based on TTM data",
+            "source": [
+              "https://www.stocktitan.net/overview/RSKD/"
+            ],
+            "type": {
+              "code": "profitability",
+              "label": "Profitability"
+            },
+            "value": "51.7%"
+          },
+          {
+            "description": "Year-over-year increase in adjusted EBITDA to $6.2 million in Q1 2026",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ],
+            "type": {
+              "code": "profitability",
+              "label": "Profitability"
+            },
+            "value": "370%"
+          },
+          {
+            "description": "Approximate IPO proceeds raised",
+            "source": [
+              "https://www.stocktitan.net/news/RSKD/page-10.html"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "~$418 million"
+          },
+          {
+            "description": "Historical transactions analyzed across the merchant network",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "over a billion"
+          },
+          {
+            "description": "Transactions reviewed by Riskified since inception",
+            "source": [
+              "https://www.riskified.com/careers/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "hundreds of millions"
+          },
+          {
+            "description": "Largest ecommerce merchants globally use Riskified",
+            "source": [
+              "https://www.riskified.com/careers/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "3 of top 10"
+          },
+          {
+            "description": "Competitive win rate maintained",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "above 75%"
+          },
+          {
+            "description": "Net dollar retention in Q4 2025",
+            "source": [
+              "https://finance.yahoo.com/news/riskified-ltd-q4-2025-earnings-173453414.html"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "105%"
+          },
+          {
+            "description": "Potential reduction in total cost of fraud",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "50%"
+          },
+          {
+            "description": "Potential increase in sales approval rates",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "20%"
+          },
+          {
+            "description": "Stronger fraud and abuse detection vs baseline",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "technical_performance",
+              "label": "Technical Performance"
+            },
+            "value": "2-3X"
+          },
+          {
+            "description": "Real-time decision response time",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "technical_performance",
+              "label": "Technical Performance"
+            },
+            "value": "sub-second"
+          },
+          {
+            "description": "Merchant network spanning multiple continents",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "Global"
+          },
+          {
+            "description": "Cash and zero debt as of Q1 2026",
+            "source": [
+              "https://www.businesswire.com/news/home/20260513823271/en/Riskified-Reports-Strong-Start-to-2026-with-Accelerated-Gross-Profit-Growth"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "276.3 million"
+          },
+          {
+            "description": "Projected free cash flow growth of at least 20% for 2026",
+            "source": [
+              "https://finance.yahoo.com/news/riskified-ltd-q4-2025-earnings-173453414.html"
+            ],
+            "type": {
+              "code": "profitability",
+              "label": "Profitability"
+            },
+            "value": "~$40 million"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 7,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Riskified partnered with Outpayce from Amadeus to integrate its AI-powered fraud prevention suite and Chargeback Guarantee model into Outpayce's travel payments platform for airlines worldwide. Riskified becomes the first chargeback guarantee solution within Outpayce's ecosystem, offering airlines guaranteed approval rates while reducing fraud-related costs. A major Asia-Pacific international airline is scheduled to be the first merchant to go live with the integration in 2026.",
+            "name": "Outpayce (Amadeus)",
+            "source": [
+              "https://www.businesswire.com/news/home/20260331782202/en/Riskified-Partners-with-Outpayce-from-Amadeus-to-Enable-and-Secure-Payments-for-Airlines-and-Travel-Merchants-Worldwide"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0032q4r"
+          },
+          {
+            "announced_on": {
+              "day": 9,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Riskified announced a strategic partnership with Radial (North America's largest 3PL, rebranding as Paxon later in 2026) to integrate Riskified's AI-powered fraud detection platform into Radial's ecommerce fulfillment ecosystem. The partnership enables Radial's merchant clients—many using Shopify—to approve more legitimate orders, reduce payment fraud losses, and protect against refund and return abuse. Riskified assumes full financial liability for fraud chargebacks while Radial expands offerings with Policy Protect and Dispute Resolve solutions.",
+            "name": "Radial",
+            "source": [
+              "https://via.tt.se/pressmeddelande/4278672/radial-selects-riskified-to-power-payment-fraud-and-refundreturn-protection-for-merchant-client-portfolio?publisherId=259167&lang=en"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "00062gk"
+          },
+          {
+            "announced_on": {
+              "day": 13,
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Riskified joined forces with HUMAN Security to help merchants embrace trusted AI shopping agent commerce. The partnership addresses fraud risks introduced by AI shopping assistants and chatbots, combining Riskified's fraud intelligence with HUMAN's bot detection and human verification capabilities to protect AI-mediated transactions.",
+            "name": "HUMAN Security",
+            "source": [
+              "https://salestechstar.com/partner-management-channel-enablement/riskified-announces-expansion-of-ai-agent-intelligence-to-secure-native-merchant-ai-shopping-assistants/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000024a"
+          },
+          {
+            "announced_on": {
+              "day": 17,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Reserhub, a platform for bus and ground transportation companies across Latin America, selected Riskified as its strategic partner for ecommerce fraud protection and risk intelligence. By integrating Riskified's AI-powered platform, Reserhub achieved a 93% transaction approval rate and eliminated high false decline issues, enabling real-time approvals and expansion into new markets including Brazil.",
+            "name": "Reserhub",
+            "source": [
+              "https://salestechstar.com/predictive-ai-artificial-intelligence/reserhub-achieves-93-approval-rate-and-optimizes-customer-experience-with-riskified/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00rmwi6"
+          },
+          {
+            "announced_on": {
+              "day": 15,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Riskified announced an innovation partnership with Rue Gilt Groupe to integrate its real-time identity risk intelligence into RGG's customer service workflows. The identity clustering solution parses over 5 billion historical transactions to provide agents with risk scores that help fast-track trusted members while blocking serial abusers. Merchants using Riskified's Policy Protect have achieved up to 30% reduction in complaint rates.",
+            "name": "Rue Gilt Groupe",
+            "source": [
+              "https://www.businesswire.com/news/home/20260415885217/en/Rue-Gilt-Groupe-Integrates-Riskified-Identity-Intelligence-into-Its-Customer-Service-Experience"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000ovo"
+          },
+          {
+            "announced_on": {
+              "day": 9,
+              "month": 6,
+              "year": 2021
+            },
+            "description": "Riskified is a certified Shopify Plus partner with a seamless plug-and-play integration available through the Shopify App Store. Solutions help Shopify merchants prevent fraud, minimize policy abuse, and drive sustainable growth without technical debt or costly onboarding. The partnership expanded with Dispute Resolve for Shopify launch in March 2026.",
+            "name": "Shopify Plus",
+            "source": [
+              "https://www.riskified.com/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0029ioc"
+          },
+          {
+            "announced_on": {
+              "day": 1,
+              "month": 8,
+              "year": 2023
+            },
+            "description": "Riskified partners with commercetools to deliver Chargeback Guarantee at scale through preconfigured integrations. Merchants using commercetools can offload fraud liability, gain predictability, and grow revenue with Riskified's guaranteed approval rates.",
+            "name": "commercetools",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00000uy"
+          },
+          {
+            "announced_on": {
+              "day": 17,
+              "month": 8,
+              "year": 2023
+            },
+            "description": "Mastercard and Riskified new integration combines fraud insights to drive ecommerce revenue growth and profitability for global merchants. The partnership leverages Mastercard's fraud intelligence with Riskified's decisioning platform.",
+            "name": "Mastercard",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00004yg"
+          },
+          {
+            "announced_on": {
+              "day": 6,
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Riskified and Appriss Retail announced pioneering omnichannel returns fraud prevention solution. The partnership combines online abuse and fraud detection with in-store returns expertise, giving merchants a 360-degree view of customer behavior to protect revenue and close policy gaps.",
+            "name": "Appriss Retail",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "003vx1q"
+          },
+          {
+            "announced_on": {
+              "day": 6,
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Deloitte and Riskified partnered to help ecommerce merchants analyze their fraud exposure against industry benchmarks. Deloitte consultants leverage Riskified's data and insights to assess client fraud risk profiles.",
+            "name": "Deloitte",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "0000bae"
+          },
+          {
+            "announced_on": {
+              "day": 24,
+              "month": 3,
+              "year": 2021
+            },
+            "description": "Dentsu and Riskified established global strategic partnership to help retailers digitally transform their business. The partnership combines Riskified's fraud prevention with Dentsu's media and marketing capabilities.",
+            "name": "Dentsu",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "0002o1s"
+          },
+          {
+            "announced_on": {
+              "day": 2,
+              "month": 11,
+              "year": 2023
+            },
+            "description": "CellPoint Digital and Riskified partnered to enhance fraud protection for airlines and travel merchants with industry-leading payments solution. The partnership optimizes travel payment processes and safeguards against fraud risk.",
+            "name": "CellPoint Digital",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00004ek"
+          },
+          {
+            "announced_on": {
+              "day": 6,
+              "month": 5,
+              "year": 2021
+            },
+            "description": "Riskified and IATA announced strategic partnership for airline fraud prevention. The partnership addresses specific needs of airline industry including card-not-present fraud and payment optimization.",
+            "name": "IATA",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            }
+          },
+          {
+            "announced_on": {
+              "day": 12,
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Riskified partnered with Japanese fashion retailer Adastria's group company ST Co., Ltd. to enhance fraud detection and boost ecommerce sales in Japan. The partnership demonstrates Riskified's growing momentum in the Japanese market.",
+            "name": "Adastria / ST Co., Ltd.",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "003d5qq"
+          },
+          {
+            "announced_on": {
+              "day": 14,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "YTGATE Partners with Riskified to improve payment success and increase ecommerce approval rates for Japanese merchants. The partnership expands Riskified's distribution in the Japanese market.",
+            "name": "YTGATE",
+            "source": [
+              "https://www.riskified.com/press/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0000ogk"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Riskified partners with SB Payment Service to accelerate revenue growth for ecommerce merchants in Japan. The partnership enables Japanese merchants to access Riskified's fraud prevention solutions through SB Payment Service's platform.",
+            "name": "SB Payment Service",
+            "source": [
+              "https://www.riskified.com/press/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0007ai5"
+          },
+          {
+            "announced_on": {
+              "day": 27,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Paygent Partners with Riskified to deliver AI-powered fraud prevention to ecommerce merchants in Japan. The partnership enables Riskified to reach Japanese merchants through Paygent's payment platform.",
+            "name": "Paygent",
+            "source": [
+              "https://www.riskified.com/press/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "00q2zm3"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Brazilian ticketing leader Bilheteria Digital partners with Riskified to boost order approvals and reduce fraud. The partnership addresses ticketing fraud in the Brazilian market with Riskified's AI-powered fraud detection.",
+            "name": "Bilheteria Digital",
+            "source": [
+              "https://www.riskified.com/press/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "000ndm9"
+          },
+          {
+            "announced_on": {
+              "day": 14,
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Riskified achieved AWS Retail Competency and AWS Consumer Packaged Goods (CPG) Competency, demonstrating verified customer success and technical expertise. Riskified is also available on AWS Marketplace with AWS Accelerate Partner status.",
+            "name": "AWS",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            }
+          },
+          {
+            "announced_on": {
+              "day": 29,
+              "month": 11,
+              "year": 2022
+            },
+            "description": "Riskified announced platform integration with SAP Commerce Cloud, enabling SAP customers to access Riskified's fraud prevention and chargeback guarantee solutions through native SAP integration.",
+            "name": "SAP Commerce Cloud",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00004yy"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "day": 7,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Partnered with Outpayce (Amadeus) to integrate Riskified's AI fraud suite and chargeback guarantee into the global travel payments platform, becoming the first guarantee provider in the Outpayce ecosystem and securing a flagship Asia-Pacific airline launch in 2026.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260331782202/en/Riskified-Partners-with-Outpayce-from-Amadeus-to-Enable-and-Secure-Payments-for-Airlines-and-Travel-Merchants-Worldwide"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Launched next-generation AI suite at Ascend 2026 — Riskified ARIA (AI Risk Analyst), Identity Explore 2.0, and enhanced Decision Studio — embedding conversational AI and identity intelligence into the core platform to deepen product stickiness.",
+            "source": [
+              "https://seekingalpha.com/article/4905499-riskified-ltd-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Expanded AI Agent Intelligence to secure native merchant AI shopping assistants, positioning Riskified as a 'trust agent' for agentic commerce via AI Agent Identity Signals and Policy Builder, with HUMAN Security as a co-development partner.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260303742138/en/Riskified-Announces-Expansion-of-AI-Agent-Intelligence-to-Secure-Native-Merchant-AI-Shopping-Assistants"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 5,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Expanded the share repurchase program by an additional $75M on June 5, 2026, bringing total authorized buybacks to $450M with approximately $105.6M of capacity remaining after $344.4M already deployed under the prior $375M authorization.",
+            "source": [
+              "https://www.citybiz.co/article/856701/riskified-expands-share-buyback-program-with-additional-75-million-authorization/"
+            ],
+            "type": {
+              "code": "restructuring",
+              "label": "Restructuring"
+            }
+          },
+          {
+            "date": {
+              "day": 9,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Announced a strategic partnership with Radial (rebranding as Paxon), North America's largest 3PL, to embed Riskified's fraud decisioning, Policy Protect, and Dispute Resolve into Radial's ecommerce fulfillment ecosystem serving Shopify-led merchants.",
+            "source": [
+              "https://via.tt.se/pressmeddelande/4278672/radial-selects-riskified-to-power-payment-fraud-and-refundreturn-protection-for-merchant-client-portfolio?publisherId=259167&lang=en"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "day": 15,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Raised full-year 2026 revenue guidance to $376-384M and Adjusted EBITDA guidance to $28-34M alongside Q1 2026 results of $88.3M revenue (7% YoY) and $6.2M Adjusted EBITDA (370% YoY growth), signaling management confidence in margin inflection.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260513823271/en/Riskified-Reports-Strong-Start-to-2026-with-Accelerated-Gross-Profit-Growth"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "day": 5,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Riskified Ltd. received board approval on June 5, 2026 to expand its share repurchase program by an additional $75 million, increasing total available capacity for future repurchases to approximately $105.6 million pending completion of Israeli regulatory procedures. The company has already utilized roughly $344.4 million of its existing $375 million buyback authorization.",
+            "source": [
+              "https://www.citybiz.co/article/856701/riskified-expands-share-buyback-program-with-additional-75-million-authorization/"
+            ],
+            "title": "Share Repurchase Program Expansion",
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "day": 4,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Riskified Ltd. announced on June 4, 2026, that its Board of Directors authorized an additional $75 million for a share repurchase program, bringing total authorized repurchases to $450 million. Approximately $344.4 million of the existing $375 million authorization had already been utilized as of the announcement date.",
+            "source": [
+              "https://www.stocktitan.net/news/RSKD/riskified-announces-board-authorization-of-additional-75-million-wk3i2kg6doaw.html"
+            ],
+            "title": "Additional Share Repurchase Authorization",
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "day": 15,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Riskified Ltd. announced strong Q1 2026 financial results with 7% year-over-year revenue growth to $88.3 million and 13% growth in GAAP gross profit to $45.9 million, while Adjusted EBITDA surged 370% to $6.2 million. The ecommerce fraud and risk intelligence company raised its full-year revenue guidance to $376-384 million and Adjusted EBITDA guidance to $28-34 million.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260513823271/en/Riskified-Reports-Strong-Start-to-2026-with-Accelerated-Gross-Profit-Growth"
+            ],
+            "title": "Q1 2026 Earnings Results",
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Riskified (NYSE: RSKD) announced the appointment of Dr. Samer Haj-Yehia to its Board of Directors and Audit Committee, effective March 19, 2026, coinciding with the resignation of Aaron Mankovski after nearly a decade of service. Dr. Haj-Yehia brings expertise in fintech innovation and global capital markets, having previously served as Executive Group Chairman of Bank Leumi, Israel's largest bank, where he led a period of technological transformation and record profitability. Following these changes, the Board will continue to be composed of eight directors, six of whom qualify as independent under NYSE listing rules.",
+            "source": [
+              "https://www.citybiz.co/article/821872/riskified-appoints-dr-samer-haj-yehia-to-board/"
+            ],
+            "title": "Board Appointment of Dr. Samer Haj-Yehia",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "Aaron Mankovski resigned from the Riskified Board of Directors after nearly a decade of service, coinciding with the appointment of Dr. Samer Haj-Yehia effective March 19, 2026.",
+            "source": [
+              "https://www.citybiz.co/article/821872/riskified-appoints-dr-samer-haj-yehia-to-board/"
+            ],
+            "title": "Resignation of Aaron Mankovski from Board",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "Neta Givati Levi has been appointed Vice President Human Resources at Riskified, a global e-commerce risk intelligence company, in December 2025. She is responsible for leading riskified's global HR strategy and initiatives.",
+            "source": [
+              "https://hrtoday.in/neta-givati-levi-appointed-as-vice-president-human-resources-at-riskified/"
+            ],
+            "title": "VP HR Appointment of Neta Givati Levi",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Concentrated Japan push in 2026 via four channel partnerships (Paygent, SB Payment Service, YTGATE, Adastria/ST Co.), with localized customer wins including Lacoste achieving 90% authorization in Japan. Signals deliberate APAC distribution build-out beyond the Tel Aviv/NYC core.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "LATAM expansion evidenced by Reserhub partnership (Brazil, Feb 2026), Bilheteria Digital ticketing integration (Feb 2026), and dLocal payment integration. Combined with Reserhub achieving 93% transaction approval, this points to a serious regional build rather than opportunistic deals.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "AI Agent Intelligence (launched 2025-08, expanded 2026-03) and the Outpayce/Amadeus airline integration establish two entirely new product surfaces — agentic commerce trust and airline guarantee — that materially extend the addressable market beyond core card-not-present fraud.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "AWS Marketplace listing with AWS Accelerate Partner status, plus AWS Retail and CPG Competencies (Aug/Oct 2025), opens a cloud-procurement channel for mid-market merchants and institutionalizes co-sell motion with the dominant cloud platform.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Outpayce (Amadeus), Radial (Paxon), HUMAN Security, Appriss Retail, Mastercard, IATA, CellPoint Digital, and Comoto indicate a deliberate ecosystem buildout across payments orchestration, fulfillment, bot mitigation, and industry consortia — locking in distribution and category position simultaneously.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "$75M buyback expansion (June 2026) and previously deployed $344.4M of buybacks indicate management views the stock as undervalued and the balance sheet ($276.3M cash, zero debt) as supportive of continued capital return alongside organic investment.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Riskified (NYSE: RSKD) is a publicly traded AI-powered ecommerce fraud and risk intelligence company founded in 2013 and headquartered in Tel Aviv, Israel, with US headquarters in New York. The company pioneered AI-led ecommerce fraud prevention and now protects 3 of the top 10 largest ecommerce merchants globally, serving enterprise merchants across retail, luxury fashion, travel, ticketing, digital goods, and marketplaces. Riskified operates globally with offices in Israel, US, Europe, APAC, LATAM, and India, and reported Q1 2026 revenue of $88.3 million with trailing twelve-month revenue of $344.6 million and 51.7% gross margin. The company maintains above 75% competitive win rate and 105% net dollar retention, reflecting strong enterprise market positioning in the ecommerce fraud prevention category.",
+        "strengths": [
+          {
+            "details": "With the launch of AI Agent Intelligence (HUMAN partnership, AI Agent Identity Signals, AI Agent Policy Builder), Riskified is positioned as a 'trust agent' for AI-mediated shopping — a category that barely existed two years ago. As agentic commerce scales, every AI-driven transaction will need identity verification and policy controls, opening a TAM that is currently uncaptured and unbounded by traditional ecommerce GMV.",
+            "headline": "Agentic commerce creates greenfield fraud market",
+            "source": [
+              "https://www.businesswire.com/news/home/20260303742138/en/Riskified-Announces-Expansion-of-AI-Agent-Intelligence-to-Secure-Native-Merchant-AI-Shopping-Assistants"
+            ]
+          },
+          {
+            "details": "Riskified's billion-plus transaction dataset grows with every merchant onboarded, and Smart Linking identity clustering sharpens with each new node. As the merchant network expands across verticals and geographies (recent Outpayce airline deal, Japan expansion with Paygent/SB Payment Service/YTGATE), the marginal merchant adds disproportionately more predictive value, widening the moat against standalone competitors.",
+            "headline": "Network effects compound data moat with each new merchant",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "With Chargeback Guarantee as the wedge, Riskified is layering Policy Protect (refund abuse, 20% avg savings), Account Secure (ATO), Dispute Resolve (5-minute dispute prep vs 30), Dynamic Returns, and ARIA/Decision Studio. Each module deepens account penetration and increases switching costs, with policy abuse and ATO representing multi-billion-dollar adjacent markets that the existing merchant base is already pre-qualified to buy.",
+            "headline": "Platform upsell expands wallet share well beyond fraud",
+            "source": [
+              "https://www.riskified.com/policy-protect/"
+            ]
+          },
+          {
+            "details": "Adjusted EBITDA grew 370% YoY in Q1 2026 to $6.2M, with management guiding $28-34M for full-year 2026 (vs. prior years of consistent losses). Gross margin of 51.7% combined with largely fixed R&D and G&A infrastructure suggests significant incremental margins as revenue grows, with the platform increasingly self-funding its expansion.",
+            "headline": "Operating leverage path to profitability accelerating",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ]
+          },
+          {
+            "details": "Co-founder/CEO Eido Gal and CTO Assaf Feldman (former MIT Media Lab researcher) remain in place post-IPO, providing continuity and technical depth. Recent executive additions (CMO Jeff Otto from Marqeta, President Ravi Kumaraswami from SAP Ariba/Crownpeak) bring public-company scaling experience that should support the next leg of growth.",
+            "headline": "Founder-led execution with deep ML pedigree",
+            "source": [
+              "https://www.riskified.com/about/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Stripe Radar, Mastercard Fraud Intelligence, and Visa Cybersource increasingly bundle ML fraud detection into core processing at little or no incremental cost. As these incumbents extend capabilities, Riskified faces structural pressure on transaction-fee pricing and may be forced into a higher-cost sales motion against free or bundled alternatives, eroding the take-rate economics that drive the model.",
+            "headline": "Network-embedded fraud tools compress pricing power",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ]
+          },
+          {
+            "details": "Revenue growth decelerated to 7% YoY in Q1 2026 from materially higher historical rates. If this reflects saturation of the addressable ecommerce chargeback guarantee market rather than macro noise, the bull thesis of compounding merchant expansion breaks down, and incremental growth must come from much smaller adjacency markets where Riskified has less competitive advantage.",
+            "headline": "Slowing growth signals core market saturation",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ]
+          },
+          {
+            "details": "Under the chargeback guarantee, Riskified absorbs the full loss on approved orders that turn fraudulent. A coordinated attack exploiting a model blind spot, a major merchant data breach, or a sudden shift in fraud patterns (e.g., from synthetic identity AI) could trigger outsized losses in a single quarter, materially impacting earnings and capital reserves that support the guarantee.",
+            "headline": "Liability model creates tail risk during coordinated fraud events",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "The customer base is heavily weighted to fashion (Prada, Lorna Jane, Steve Madden, Aldo, Gymshark, Revolve), luxury (SSENSE, Miu Miu, Canada Goose), and travel (Booking.com, Agoda, Air Europa). In a consumer downturn, these categories see sharper declines in discretionary GMV — and since Riskified's revenue is a take-rate on approved GMV, the company's top line would contract faster than overall payment volumes.",
+            "headline": "Concentration in discretionary verticals amplifies cyclical exposure",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Riskified has utilized $344.4M of its $375M (and now expanded $450M) share repurchase authorization, depleting substantial cash on buybacks despite ongoing GAAP losses. While supportive of EPS in the near term, this level of capital return signals that management sees limited high-return organic reinvestment opportunities, raising the question of whether growth investments are being underfunded.",
+            "headline": "Aggressive buybacks signal lack of accretive reinvestment opportunities",
+            "source": [
+              "https://www.citybiz.co/article/856701/riskified-expands-share-buyback-program-with-additional-75-million-authorization/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Riskified's proprietary ML models are trained on more than one billion historical transactions across its global merchant network, with hundreds of features analyzed per transaction in sub-second response times. This scale of guaranteed-approval data is difficult for newer entrants to replicate and improves accuracy for every additional merchant onboarded.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Every new merchant and transaction strengthens fraud detection accuracy for the entire network. Cross-merchant identity clustering via Smart Linking and Identity Explore 2.0 turns the merchant base into a collective intelligence asset, with 3 of the top 10 largest global ecommerce merchants already onboarded.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "The chargeback guarantee model shifts full financial liability for fraud outcomes to Riskified, creating deep operational embedding in merchant checkout, customer service, and dispute workflows. Integration with Shopify, SAP, Salesforce, and Adobe Commerce creates technical switching friction in addition to commercial lock-in.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Riskified is embedded as a certified partner across the dominant ecommerce and payments stacks: Shopify Plus, SAP Commerce Cloud, Salesforce, Adobe Commerce, commercetools, AWS Marketplace, Stripe, Mastercard, and IATA. AWS Retail and CPG Competencies and Accelerate Partner status institutionalize this distribution at the platform level.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Proprietary explainable ML models, Smart Linking fraud-ring detection engine, and Identity Graph represent deep IP built over more than a decade. The above-75% competitive win rate and recognition via Juniper Research, MPE Awards, CNBC Top Fintech, and G2 Leader indicate durable brand authority in ecommerce risk.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Riskified reported a $33.8M operating loss and $27.6M net loss in 2025, with EBITDA of -$31.3M. While adjusted EBITDA turned modestly positive in Q1 2026, GAAP profitability remains elusive, and the company continues to burn cash on a reported basis.",
+            "headline": "Persistent GAAP unprofitability with ongoing operating losses and negative net income",
+            "source": [
+              "https://www.stocktitan.net/overview/RSKD/"
+            ]
+          },
+          {
+            "details": "Q1 2026 revenue grew only 7% year-over-year to $88.3M, well below historical growth rates. This deceleration, combined with prior years' slowing progression (from 2022's $261M to 2025's $344M), suggests competitive pressure or market maturity in core chargeback guarantee.",
+            "headline": "Slowing top-line growth signals potential saturation in core ecommerce fraud market",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ]
+          },
+          {
+            "details": "By absorbing full chargeback liability on approved orders, Riskified takes on significant financial risk. A coordinated fraud attack, large merchant breach, or shift in fraud patterns could trigger outsized losses that are not capped and would directly hit earnings and capital reserves.",
+            "headline": "Chargeback guarantee model creates balance sheet liability exposure during fraud surges",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Riskified competes against Stripe Radar (bundled with Stripe payment processing), Mastercard fraud intelligence, Visa Cybersource, Signifyd, Forter, Sift, Kount (Equifax), and Accertify (American Express). Network- and processor-owned competitors have structural advantages in data and pricing power.",
+            "headline": "Intense competition from well-capitalized incumbents and specialist peers",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Major customers are concentrated in fashion (Prada, Lorna Jane, Gymshark, Steve Madden, Aldo), luxury (SSENSE, Miu Miu, Canada Goose), and travel (Booking.com, Agoda, Air Europa). These categories face sharper swings during economic downturns, creating revenue volatility.",
+            "headline": "Heavy customer concentration in discretionary verticals exposes revenue to consumer cyclicality",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Major payment networks and processors are embedding AI fraud detection into their rails at no incremental cost. As ML-driven fraud decisioning becomes table stakes, Riskified's premium pricing and dedicated-platform value proposition face structural pricing pressure.",
+            "headline": "AI commoditization risk as fraud detection becomes a baseline payment feature",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Riskified assumes full financial liability for chargebacks on approved orders, only getting paid on orders that generate revenue. This liability-shift model creates deep switching costs, as merchants depend on Riskified's decisioning for operational workflows across checkout, customer service, and chargeback management.",
+            "headline": "Differentiated chargeback guarantee model aligns incentives and locks in merchant partnerships",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Riskified analyzes hundreds of millions of transactions across its global merchant network, with proprietary Smart Linking technology that detects fraud rings and emerging threats. Every new merchant improves detection accuracy for all network participants, generating strong data-driven competitive advantage.",
+            "headline": "Network effects built on over a billion historical transactions create compounding data advantage",
+            "source": [
+              "https://www.riskified.com/"
+            ]
+          },
+          {
+            "details": "Q1 2026 results showed $88.3M revenue (+7% YoY), 13% GAAP gross profit growth to $45.9M, and adjusted EBITDA of $6.2M (up 370%). Management raised full-year 2026 guidance to $376-384M revenue and $28-34M adjusted EBITDA, with projected free cash flow growth of at least 20%.",
+            "headline": "Improving profitability trajectory with adjusted EBITDA surging 370% YoY in Q1 2026",
+            "source": [
+              "https://es.tradingview.com/news/marketbeat:42dfa3450094b:0-riskified-q1-earnings-call-highlights/"
+            ]
+          },
+          {
+            "details": "Riskified protects Booking.com, Prada, Lorna Jane, Rue Gilt Groupe, Finish Line, Gametime, Skullcandy, Gymshark, and other major brands. Net dollar retention was 105% in Q4 2025 and competitive win rate remains above 75%, signaling strong customer loyalty and expansion.",
+            "headline": "Strong enterprise customer roster including 3 of top 10 global ecommerce merchants",
+            "source": [
+              "https://www.riskified.com/careers/"
+            ]
+          },
+          {
+            "details": "Riskified reported $276.3M in cash with zero debt as of Q1 2026. The Board has authorized aggressive share repurchases totaling $450M (with $344.4M already utilized), reflecting strong management confidence in cash generation and undervaluation.",
+            "headline": "Robust balance sheet with $276.3M cash and zero debt enables strategic flexibility",
+            "source": [
+              "https://www.businesswire.com/news/home/20260513823271/en/Riskified-Reports-Strong-Start-to-2026-with-Accelerated-Gross-Profit-Growth"
+            ]
+          },
+          {
+            "details": "Product portfolio has expanded from Chargeback Guarantee to Policy Protect (refund/return abuse), Account Secure (ATO prevention), Dispute Resolve (chargeback automation), and AI Agent Intelligence (securing AI shopping assistants). This creates upsell opportunities into the existing base and reaches new budget owners.",
+            "headline": "Platform expansion beyond core fraud unlocks new revenue vectors (policy abuse, returns, agentic commerce)",
+            "source": [
+              "https://www.riskified.com/policy-protect/"
+            ]
+          },
+          {
+            "details": "Riskified holds AWS Retail and CPG Competencies, is a certified Shopify Plus partner with native App Store listing, and has integrations with SAP Commerce Cloud, commercetools, Salesforce, and Adobe Commerce. Recent Outpayce (Amadeus) partnership opens airline vertical globally.",
+            "headline": "Strategic partnerships with major commerce platforms embed Riskified as default fraud solution",
+            "source": [
+              "https://www.riskified.com/partners/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Riskified serves a broad enterprise portfolio across fashion (Prada, Miu Miu, SSENSE, Canada Goose, Lacoste, Steve Madden, Aldo, Revolve, Gymshark, Finish Line), travel (Booking.com, Agoda, Air Europa, Spring Airlines, Hotelogical), ticketing (TicketNetwork, Gametime, Super.com, Bilheteria), and electronics/retail (Ring, Skullcandy, Costway), with 3 of the top 10 global ecommerce merchants onboarded. No single customer is disclosed as exceeding material concentration thresholds; however, the enterprise-only motion and reliance on anchor logos (Booking.com, Prada) imply that loss of any top-10 account would be material. Net dollar retention of 105% in Q4 2025 and an above-75% competitive win rate indicate healthy diversification and limited churn risk in the near term. The performance-based pricing on approved GMV means revenue scales with merchant volume, providing natural downside protection if anchor merchants decline non-linearly.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Signifyd is Riskified's closest direct competitor, offering a chargeback guarantee and fraud prevention platform specifically built for ecommerce merchants. Both companies pioneered the liability-shift model and compete head-to-head for enterprise retail and DTC customers across fashion, luxury, and electronics verticals.",
+            "name": "Signifyd",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002xb"
+          },
+          {
+            "description": "Forter provides an enterprise Trust Platform for ecommerce fraud prevention, offering real-time decisioning and a chargeback guarantee for online merchants. It competes directly with Riskified across fashion, travel, digital goods, and marketplaces, with comparable ML-based decisioning and similar customer profiles.",
+            "name": "Forter",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003id"
+          },
+          {
+            "description": "Sift operates a Digital Trust & Safety platform combining fraud detection, account takeover prevention, and content abuse prevention for online businesses. While Sift does not offer a chargeback guarantee, it directly competes with Riskified in ML-driven fraud decisioning for ecommerce and digital goods merchants.",
+            "name": "Sift",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a2a"
+          },
+          {
+            "description": "Kount, owned by Equifax, is an established ecommerce fraud and chargeback prevention platform serving merchants across verticals. As part of Equifax's broader identity and risk data portfolio, Kount competes with Riskified on ML-based decisioning and identity verification for enterprise merchants.",
+            "name": "Kount (Equifax)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000x38"
+          },
+          {
+            "description": "Accertify, an American Express company, provides fraud prevention, chargeback management, and dispute resolution solutions for enterprise merchants. Its parent company's network data gives it structural advantages analogous to Mastercard fraud intelligence, competing with Riskified in travel and large-enterprise segments.",
+            "name": "Accertify (American Express)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0003l7p"
+          },
+          {
+            "description": "Stripe Radar is a built-in ML fraud prevention product for merchants processing payments on Stripe, which Riskified actually integrates with as a channel partner. Radar's free or low-cost bundled pricing puts direct margin pressure on Riskified and represents the most significant structural competitive threat in the SMB and mid-market ecommerce segment.",
+            "name": "Stripe Radar",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "Feedzai is a financial crime, risk, and fraud prevention platform serving banks, payment providers, and merchants globally. It overlaps with Riskified in transaction monitoring and ML-based decisioning, particularly for financial services and payments, though it extends further into AML and account-level risk.",
+            "name": "Feedzai",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000004m"
+          },
+          {
+            "description": "Visa's Cybersource payment management platform includes Decision Manager, an ML-based fraud management solution used by large merchants globally. As a network-owned incumbent, Cybersource competes directly with Riskified for enterprise ecommerce fraud budgets, particularly for merchants already processing on Visa rails.",
+            "name": "Visa Cybersource",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00007cz"
+          },
+          {
+            "description": "Mastercard's fraud intelligence suite (including Ekata identity verification) provides network-level fraud signals and decisioning for merchants and issuers. Riskified already partners with Mastercard, but the network's ability to bundle fraud capabilities into core acceptance creates ongoing competitive pressure on standalone platforms.",
+            "name": "Mastercard Fraud Intelligence / Ekata",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00004yg"
+          },
+          {
+            "description": "DataVisor is an AI-powered fraud and AML platform using unsupervised ML to detect organized fraud attacks for financial institutions and large digital businesses. While more focused on financial services than ecommerce chargeback guarantee, it competes for the same enterprise fraud technology budget and ML-talent pool as Riskified.",
+            "name": "DataVisor",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00007a4"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

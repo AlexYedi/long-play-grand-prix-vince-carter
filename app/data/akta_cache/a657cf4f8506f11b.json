@@ -1,0 +1,622 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=000004k&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:24.319Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 39679911,
+        "title": "Prodal startup Američanům, teď se veze na vlně padelu. Půlku jeho nové aplikace získává za miliony Miton",
+        "url": "https://cc.cz/prodal-startup-americanum-ted-se-veze-na-vlne-padelu-pulku-jeho-nove-aplikace-ziskava-za-miliony-miton/",
+        "publisher": "CzechCrunch",
+        "published_date": "2026-10-01T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9795,
+        "ai_summary": "Investment group Miton is taking a 50% stake in padel app Ace, with founder Jiří Diblík leading development. Miton will invest millions, and the app, used by about 9,000 players, aims to expand into Europe. Diblík previously sold his mental health app VOS.health to Spring Health.",
+        "word_count": 756,
+        "original_language": "EN",
+        "author": "Ondřej Holzman",
+        "countries": [
+          "CZE"
+        ],
+        "industries": [],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Secondary Transactions",
+            "code": "CM07",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0007ao1",
+            "name": "MITON",
+            "website": "http://www.miton.cz",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          },
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7311",
+            "name": "SERVICES-ADVERTISING AGENCIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jiří diblík",
+            "tomáš hodboď"
+          ],
+          "location": [
+            "ameriky",
+            "slovensku",
+            "polsku",
+            "evropě",
+            "new yorku",
+            "německy mluvících zemích"
+          ],
+          "product": [
+            "fullclub",
+            "lively",
+            "donio",
+            "heureka",
+            "glami",
+            "spring health",
+            "vos.health",
+            "playtomic",
+            "padel",
+            "ace"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.858,
+        "group_id": 13398189,
+        "full_text": "Foto: Ace Jiří Diblík a Tomáš Hodboď vyvíjejí padelovou aplikaci Ace Sdílet Uložit 0 Baví vás články CzechCrunche? Vídejte je na Googlu častěji. Sledovat Upřednostnit Jiří Diblík už jednou svůj startup prodal do Ameriky, teď buduje další a znovu s investorem, který mu tehdy věřil jako první. Investiční skupina Miton se stává partnerem jeho padelové aplikace Ace a získává v ní poloviční podíl. Do projektu pošle řádově miliony korun, přesnou výši investice ani valuaci strany nezveřejnily. Partner Mitonu Tomáš Hodboď se do Ace zapojí naplno a má aplikaci dostat do zahraničí, osmadvacetiletý Diblík povede technickou a produktovou část. S Mitonem se Diblík potkává podruhé. Původem jablonecká investiční skupina byla v roce 2020 prvním investorem jeho aplikace pro duševní zdraví VOS.health, kterou vybudoval s Ondřejem Kopeckým a kterou podle zakladatelů využily přes čtyři miliony uživatelů. „Já do Ace přináším zkušenosti s budováním globálních B2C aplikací, Tomáš zkušenosti s budováním a škálováním úspěšných firem. S Mitonem mám skvělou zkušenost už z předchozího startupu,“ uvádí Diblík. VOS.health nakonec koupil newyorský jednorožec Spring Health, který má jako zákazníky spíše firmy, a tak po převzetí dvanáctičlenného českého týmu aplikaci pro běžné uživatele ukončil. Cena zveřejněná nebyla, podle zdrojů CzechCrunche šlo o jednotky milionů dolarů v hotovosti i akciích. „Někteří investoři na exitu vydělali, u jiných výsledek nenaplnil původní očekávání. Pro tým to ale dopadlo dobře,“ hodnotil Diblík prodej pro Forbes. Kopecký i většina týmu ve Spring Health v New Yorku pokračují, Diblík odešel po roce, ač měl vesting na tři roky. Dnes se věnuje vlastní skupině TBA (The Bold Apps) se spotřebitelskými aplikacemi. Hlavním tahounem je Lively, kterou založil s manželkou Bárou Diblíkovou, a celé portfolio má podle našeho červencového rozhovoru o životě po exitu přes deset milionů dolarů (přes 210 milionů korun) ročních opakovaných tržeb. Foto: Ace Česká padelová aplikace Ace Diblík, který se jako první Čech nechal kvůli podnikání zplnoletnit, tehdy říkal, že TBA si díky ziskovosti může dovolit růst bez externích peněz, strategického partnera ale nevylučoval. Ace, který do skupiny zařadil letos v únoru, je tak prvním projektem TBA, do něhož takového partnera pouští. Aplikace vznikla z Diblíkovy osobní potřeby. Padel sám aktivně hraje a na zápas jsou potřeba čtyři hráči podobné úrovně, které není vždy snadné najít. Aplikace Ace funguje jako vertikální sociální síť po vzoru Stravy pro běžce a cyklisty. Hráči v ní mají rating a historii zápasů a hledají soupeře či spoluhráče, místo aby se domlouvali přes WhatsApp. Podle Diblíka ji používá zhruba devět tisíc lidí, tedy víc než polovina z patnácti tisíc Čechů, kteří podle odhadů firmy hrají pravidelně. Součástí produktu se nově stane rezervační a klubový software FullClub, který Ace nabídne padelovým klubům zdarma. Kluby přes něj mohou spravovat kurty, turnaje, platby i komunitu bez licenčních poplatků. Nastartujte svou kariéru Více na CzechCrunch Jobs\n\n\n\n\n\n\n\nZa aplikaci neplatí ani hráči a Diblík a spol. zatím neřeší, kdy a jak začne vydělávat. „Řešíme to, jak postavit sociální síť pro hráče, a věříme, že v budoucnu dokážeme zdroj peněz najít. Facebook v prvních letech taky zásadně neřešil, na čem bude vydělávat. Láme se to ve chvíli, kdy máte síť s milionem uživatelů, kterým dokážete zobrazovat reklamu. Když dokážete obsadit kurty, které by jinak byly volné, můžete jim i klubům nabízet prémiové funkce,“ vysvětluje pro Forbes Diblík. Byznysovou stránku teď přebírá Hodboď, který je partnerem Mitonu od roku 2013. Od roku 2006 budoval cenový srovnávač Heureka, v jehož čele stál do května 2013. S Michalem Jirákem spoluzaložil módní vyhledávač Glami, kde byl rovněž generálním ředitelem, a podílel se na růstu platformy Donio. „Padel roste rychleji, než mu kdokoliv stíhá stavět infrastrukturu. Chci dát Ace několik let svého času, aby se z něj stala aplikace číslo jedna pro hráče padelu,“ popisuje Hodboď. Další firmu, kterou by pomohl budovat, Hodboď hledal poslední roky poté, co opustil vedení Glami. Podle něj už dnes na rozjetí takového projektu není potřeba velký tým. Většinu práce na vývoji obstarali AI agenti, jak prozradil pro Forbes. „Doba je taková, že během vývoje už nemusíme živit tým dvaceti programátorů,“ vysvětluje Hodboď. Posledního půl roku na Ace pracovali jen oni dva bez dalších nákladů a teprve ve chvíli, kdy si ověřili, že model funguje, přibrali programátora, grafika a business development manažera. S takto malou sestavou se Ace chystá za hranice. Prorazit chce v Evropě, nejdřív v Polsku či na Slovensku a následně v německy mluvících zemích. Firma má ambici dosáhnout globálně milionu aktivních uživatelů. Největší platformou na trhu je přitom španělský Playtomic, který má mít zhruba půldruhého milionu aktivních uživatelů měsíčně. Sám vydělává hlavně na transakcích a softwaru pro kluby, zčásti i na mírných poplatcích od hráčů."
+      },
+      {
+        "id": 35076013,
+        "title": "5 Behavioral Health VC Investors to Watch",
+        "url": "https://bhbusiness.com/2026/09/02/5-behavioral-health-vc-investors-to-watch/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-09-02T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.7603,
+        "ai_summary": "VC funding in behavioral health rebounded in 2026 after a 2024 low, with large rounds like Talkiatry's $210M Series D and Grow Therapy's $150M Series D. The article highlights five firms—GreyMatter, Goldman Sachs Alternatives, Kaiser, General Catalyst, and HealthQuest—backing tech-enabled providers and specialized services.",
+        "word_count": 1596,
+        "original_language": "EN",
+        "author": "Ashleigh Hollowell",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Healthcare & Life Sciences Growth Equity",
+            "code": "FSANACAB",
+            "is_primary": true
+          },
+          {
+            "name": "Sector-Focused Venture Capital (Vertical Specialists)",
+            "code": "FSANAAAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008k4n",
+            "name": "Flourish Health",
+            "website": "https://www.flourish.health",
+            "is_primary": false
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000tvj",
+            "name": "Mindoula Health",
+            "website": "http://www.mindoula.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00q39pd",
+            "name": "Salma Health",
+            "website": "https://www.salmahealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00syd8f",
+            "name": "Tenor Therapy",
+            "website": "https://tenortherapy.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000026s",
+            "name": "Grow Therapy",
+            "website": "https://growtherapy.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000ic2",
+            "name": "NOCD",
+            "website": "https://www.treatmyocd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0004u9r",
+            "name": "Rebound Health",
+            "website": "https://hellorebound.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000vxt",
+            "name": "Vanna Health",
+            "website": "https://www.vanna.health/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002cce",
+            "name": "Valera Health",
+            "website": "http://www.valerahealth.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000n5n",
+            "name": "AnswersNow",
+            "website": "https://getanswersnow.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008jf",
+            "name": "Better Life Partners",
+            "website": "https://www.betterlifepartners.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00009c2",
+            "name": "Groups Recover Together",
+            "website": "http://GroupsRecoverTogether.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003ga",
+            "name": "Click Therapeutics",
+            "website": "http://www.clicktherapeutics.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002i2",
+            "name": "Sword Health",
+            "website": "https://sword.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003zh",
+            "name": "Birches Health",
+            "website": "https://bircheshealth.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007flh",
+            "name": "Mindful Health Solutions",
+            "website": "https://mindfulhealthsolutions.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007dx",
+            "name": "InStride Health",
+            "website": "https://instride.health",
+            "is_primary": true
+          },
+          {
+            "uuid": "0099ljc",
+            "name": "Radial",
+            "website": "https://meetradial.co",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000aip",
+            "name": "Headspace",
+            "website": "https://www.headspace.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008xl",
+            "name": "Coral Care",
+            "website": "https://www.joincoralcare.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "109",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6222",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "cooper zelnick",
+            "virgilio bento"
+          ],
+          "location": [
+            "new england"
+          ],
+          "product": [
+            "townhome health",
+            "valera health",
+            "talkiatry",
+            "vanna health",
+            "anna health",
+            "pelago",
+            "willow health",
+            "coral care",
+            "kyan health",
+            "blackbird health",
+            "familywell",
+            "grow therapy",
+            "firsthand",
+            "era",
+            "manatee",
+            "autism",
+            "flourish health",
+            "nema",
+            "luna family",
+            "salma health",
+            "osmind",
+            "rippl",
+            "spravato",
+            "sondermind",
+            "instride health",
+            "alma",
+            "birches health",
+            "cortica",
+            "equip health",
+            "tenor therapy",
+            "cartwheel care",
+            "ophelia health",
+            "elemy",
+            "noto",
+            "headspace",
+            "eleanor health",
+            "amwell"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9907,
+        "group_id": 11297299,
+        "full_text": "This is an exclusive BHB+ story.\n\nVenture capital investments in behavioral health are emerging from a lull as firms recalibrated their priorities in 2024 and have since identified new strategic targets as the sector has matured.\n\nBehavioral health, and in particular digital mental health solutions, saw an influx of capital in 2021, driven by the pandemic, with funding peaking around $4.9 billion, according to Rock Health. After that, there was talk of VC capital “drying up” around early 2022. Since then, VC funding dipped to a low of $1.4 billion in 2024. But behavioral health venture capital funding has recently been reinvigorated by investor conviction, a wave of new mental health startups and large growth funding rounds that target specialized, high-acuity services.\n\nVC investments in behavioral health began the year with large capital rounds paid to platforms that target access and infrastructure, including a $210 million Series D round for Talkiatry, a $150 million Series D round for Grow Therapy, $80 million out of stealth for Salma Health and $40 million for AnswerNow’s telehealth applied behavioral analysis (ABA) services. All four of those mega fundraises took place during the first quarter of 2026.\n\nAdvertisement\n\nVC investments across behavioral health during the second quarter of 2026 looked a bit different, with more attention to specialty services and slightly smaller, though still noteworthy, capital raises, including deals like Click Therapeutics’ $50 million Series D and a $30 million round for Instride Health.\n\nNow that the market has matured past the COVID-induced telehealth arms race, venture capital funding is being prioritized for providers and solutions that have promising infrastructure and aim to improve access rather than merely investing in the promise of digital mental health.\n\nAcross all five VC firms that Behavioral Health Business is watching, one theme is clear: behavioral health is embracing technology, and the future belongs to strategic providers with scalable, tech-enabled, payer-aligned care models.\n\nAdvertisement\n\nGreyMatter Capital\n\nNoteworthy behavioral health investments:\n\nAnna Health\n\nBlackbird Health\n\nCoral Care\n\nEra\n\nFamilyWell\n\nfirsthand\n\nKyan Health\n\nFlourish\n\nLuna Family Autism\n\nManatee\n\nNema\n\nPelago\n\nTalkiatry\n\nTownHome Health\n\nValera Health\n\nVanna Health\n\nWillow Health\n\nWhy BHB is watching:\n\nSan Francisco-based GreyMatter Capital is a venture firm that invests solely in mental health founders. It has a swath of behavioral health providers and tech-enabled solutions in its investment portfolio, but a handful have raised significant capital to scale in the last year.\n\nIn February, virtual psychiatry provider Talkiatry raised a $210 million Series D round, which was almost the total of all the funding it had received up to that point, bringing its total funding to roughly $452 million. The company will use much of the new funding to bolster its AI capabilities.\n\nAnother one of GreyMatter’s portfolio companies, pediatric psychiatric care provider Flourish Health, raised $26 million for its Series A round in July. Its goal is to scale high-acuity psychiatric care for youth populations.\n\nSerious mental illness provider Vanna Health secured $17 million in a Series B round earlier this summer and will use the capital to enter new markets soon. The company also named a new CEO shortly before the fundraise. One of the new CEO’s goals is to deepen payer partnerships and wraparound services for patients.\n\nPediatric speech, occupational and physical therapy provider Coral Care, another GreyMatter investment, secured a $13 million Series A in February, and aims to connect families with therapists for in-home services. The company noted that with this funding, it will move to scale nationally.\n\nOther noteworthy developments among GreyMatter’s portfolio companies this year include the acquisition of Valera Health by Mindoula in July. Terms of the deal were not disclosed, but Mindoula noted the deal was a move to expand its collaborative care model with established psychiatric services.\n\nAnother one we’re watching in this portfolio is Pelago’s announcement that it will transition from being historically a substance use disorder (SUD) care provider and expand into general behavioral health. Its first move in this vein was a wellness support chatbot capable of escalating issues to Pelago’s in-house clinical team.\n\nGoldman Sachs Alternatives Growth Equity\n\nNoteworthy behavioral health investments:\n\nGrow Therapy\n\nWhy BHB is watching:\n\nGoldman Sachs Alternatives Growth Equity’s portfolio company Grow Therapy made headlines earlier this year when it secured a whopping $150 million Series D round in March 2026. That brought the digital mental health platform’s projected annual revenue to more than $1 billion. Prior to the large capital round, Grow Therapy made a strategic investment and acquired the AI scribe tool Tenor Therapy in February. The company’s last funding round prior to its Series D was an $88 million Series C in 2024. The new infusion of capital, coupled with its latest acquisition, positions it to make additional, scalable investments going forward in the sector.\n\nKaiser Permanente Ventures\n\nNoteworthy behavioral health investments:\n\nHeadspace\n\nGroups Recover Together\n\nMind 24-7\n\nNoto (formerly NOCD)\n\nWhy BHB is watching:\n\nKaiser Permanente Ventures made BHB’s list of VC firms to watch in 2025, as well, but for different reasons. This year, the firm’s portfolio companies Headspace, Groups Recover Together and NOCD all were part of significant, strategic transactions.\n\nVirtual mental health provider Headspace is set to be acquired by Sword Health in a cash deal reportedly valued at $300 million. The valuation is lower than some in the industry expected, particularly as many have had Headspace on their bingo cards as a company that could potentially IPO. The transaction comes just about one year after Headspace launched its direct-to-consumer therapy services. Sword Health, a New York City-based digital health provider, began making moves into behavioral health last summer and its valuation jumped to $4 billion. Sword Health’s CEO Virgilio Bento previously told HB that expanding capabilities into SMI care and growing its AI offerings, are part of its trajectory on its path toward a possible 2028 IPO.\n\nAddiction treatment provider Groups Recover Together, another investment in Kaiser’s portfolio, made its first-ever acquisition in March 2026 and hinted that more activity in that vein is likely on the horizon. Its purchase of Better Life Partners deepens its resources throughout New England and introduces new care model elements that will allow the company to expand into new territories. Better Life Partners had been a bit of a distressed asset, with a series of financial and operational issues. Still, it had two assets that Groups wanted: virtual responsive care and walk-in clinic capabilities, CEO Cooper Zelnick, told BHB. Those are likely to scale further across the company over time.\n\nVirtual OCD provider NOCD, another one of Kaiser’s portfolio companies, acquired trauma care provider Rebound Health earlier this year. Now the two entities operate under the new brand identity “Noto.” The transaction follows a market trend BHB has been keeping tabs on, where several new providers entering the market are entering niche areas of care and adding on, rather than starting broad and trying to narrow. The deal added trauma-focused care capabilities, which NOCD did not previously provide. An ongoing priority now for the newly formed company Noto is to continue to add new services for other complex behavioral health conditions.\n\nGeneral Catalyst\n\nNoteworthy behavioral health investments:\n\nRadial\n\nBirches Health\n\nOphelia Health\n\nCortica\n\nElemy\n\nCartwheel Care\n\nEleanor Health\n\nEquip Health\n\nInStride Health\n\nOsmind\n\nRippl\n\nSonderMind\n\nSpring Health\n\nWhy BHB is watching:\n\nGeneral Catalyst has long been a powerhouse investment firm known for backing successful healthcare companies with venture investments. Throughout 2026, several of its portfolio companies were part of sizable transactions or on the receiving end of large capital infusions.\n\nLate last year, General Catalyst led a $50 million funding round for New York City-based Radial, which provides clinic-based interventional psychiatry services like transcranial magnetic stimulation (TMS), Spravato, and neuromodulation treatments. Not only was the funding a vote of confidence from its investors, zooming out, interventional psychiatry is also on the rise across the industry as the latest hot commodity.\n\nFollowing the $50 million Series A round, Radial acquired Mindful Health Solutions, a larger and older outpatient operator, this August for an undisclosed amount. Mindful Health Solutions has similar interventional psychiatry offerings and this single deal exponentially multiplied Radial’s geographic footprint. Radial is less than one year into its hold period with General Catalyst and anticipates tailwinds from the boom in interventional psychiatry will propel it further.\n\nAlso, as part of General Catalyst’s massive investment portfolio, Spring Health disclosed its plans to acquire digital mental health platform Alma in January. The transaction took place amid a wave of digital health dealmaking that began in 2026. Digital mental health is an area that is likely to continue to see consolidation following the explosion of solutions out of the pandemic, which is starting to balance out. Spring’s move to buy Alma skyrocketed its revenue expectations to $1 billion in its first year following the close of the deal, with its valuation rising to between $6 billion and $7 billion.\n\nOther noteworthy developments among General Catalyst’s investments this year were also InStride Health’s $30 million Series C and Birches Health’s $20 million capital raise. Pediatric behavioral health provider InStride raised the capital at the beginning of 2026 and told BHB it plans to use it to expand into new markets. Birches Health’s funding came late in 2025, but has remained noteworthy in 2026, as both public and private audiences have renewed their attention on gambling addiction, which is one of its primary service lines. It’s likely there will be more expansion or consolidation in this area of behavioral and process addictions over time as concerns about gambling and social media rise.\n\nHealthQuest Capital\n\nNoteworthy behavioral health investments:\n\nAnswersNow\n\nWhy BHB is watching:\n\nVirtual autism therapy provider AnswersNow secured a $40 million Series B in January, marking its first fundraise since 2023. The company provides ABA care via telehealth with board-certified behavior analysts (BCBAs), which is typically a clinic-based service. AnswersNow executives said that following the new capital infusion, its focus will be on “aggressively” scaling its platform, eventually adding new service lines and expanding its use of AI. HealthQuest Capital successfully exited AmWell, another behavioral health company, in the past."
+      },
+      {
+        "id": 25290318,
+        "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out",
+        "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/",
+        "publisher": "Research2Guidance",
+        "published_date": "2026-05-22T13:57:02",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5395,
+        "ai_summary": "Mental health AI funding in 2026 is concentrating sharply on clinical infrastructure companies—psychiatry copilots, AI scribes, and payer-aligned platforms—while capital has largely dried up for consumer wellness apps such as meditation tools and generic chatbots. Record Q1 2026 digital health funding of $4 billion saw five rounds above $50M absorb roughly 74% of mental health capital, with major deals including Talkiatry's $210M Series D, Eleos Health's $60M Series C, and Spring Health's acquisition of Alma creating a mega-platform covering approximately 170 million covered lives. Kintsugi's shutdown in 2026 after raising roughly $28M for voice-based depression screening has become a cautionary case study, illustrating how ventures without a clear path to FDA clearance, reimbursement, and a workflow buyer cannot survive venture timelines.",
+        "word_count": 2380,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": false
+          },
+          {
+            "name": "Behavioral & Mental Health Virtual Care (EAP/Teletherapy)",
+            "code": "HLALADAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002f1",
+            "name": "Eleos Health",
+            "website": "https://www.eleos.health",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000osj",
+            "name": "Handspring Health",
+            "website": "https://www.handspringhealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000gr7",
+            "name": "Marble Health",
+            "website": "https://www.marblehealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008kh",
+            "name": "Affect",
+            "website": "https://www.affect.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000bhi",
+            "name": "Blossom Health",
+            "website": "https://www.joinblossomhealth.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000ef6",
+            "name": "Jimini Health",
+            "website": "https://jiminihealth.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6222",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "sarah hijazi"
+          ],
+          "location": [
+            "us",
+            "eu"
+          ],
+          "product": [
+            "wellness apps",
+            "brightside",
+            "meditation apps",
+            "journaling tools",
+            "kintsugi",
+            "digital therapeutics",
+            "companion bots",
+            "calm-clone",
+            "jimini",
+            "talkiatry"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 586882,
+        "full_text": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out Mental health funding hit record levels in 2026, but capital is concentrating sharply on a very specific shape of company. The pattern across the top-funded rounds is clear: psychiatry copilots, AI scribes, hybrid clinician–AI platforms, payer-aligned workflows, and proprietary clinical data. Generic LLM chatbots, standalone meditation apps, and pure voice-biomarker plays are being walked away from. This article maps where mental health AI capital is actually flowing, where it has stopped, and where the white space sits for founders and innovation partners. Where mental health capital is actually concentrating The numbers tell the story before the narrative does. Q1 2026 closed at a record $4 billion across digital health, with AI now treated as table stakes rather than a thesis [1]. Mental health led the flow once again — extending the trend from H1 2024, when behavioral health startups captured roughly $682M and topped every other clinical category [2]. The headline figure conceals a sharper truth: five rounds above $50M absorbed roughly 74% of all mental health capital in 2025–26 [3]. Investors are not spreading bets. They are concentrating them on a very specific kind of company. Five solution categories absorb the bulk of the capital: Psychiatry copilots and AI-enabled telepsychiatry — the top of the stack. Talkiatry’s $210M Series D led the Q1 cohort, alongside Blossom Health’s $20M raise for an AI copilot embedded in psychiatric workflows [4]. The thesis is straightforward: a chronic psychiatrist shortage, payer reimbursement on the visit side, and AI that extends each clinician’s effective panel without asking patients to trust an algorithm with their care. Rock Health captures the pattern as clinical authority paired with payer compatibility [5]. Licensed providers, real codes, software leverage. The cleanest investment shape in the market.\n\nTalkiatry’s led the Q1 cohort, alongside Blossom Health’s for an AI copilot embedded in psychiatric workflows [4]. The thesis is straightforward: a chronic psychiatrist shortage, payer reimbursement on the visit side, and AI that extends each clinician’s effective panel without asking patients to trust an algorithm with their care. Rock Health captures the pattern as [5]. Licensed providers, real codes, software leverage. The cleanest investment shape in the market. Clinical AI assistants — arguably the highest-conviction segment of the year. Eleos Health closed a $60M Series C on the back of 120+ enterprise customers, multimodal models trained on proprietary therapy-session data, and RCT evidence of faster notes and improved patient outcomes [6]. Psynk AI announced pilots inside a psychiatric hospital the same year [7]. Investors like this category because the ROI is mechanical: less time on notes, fewer compliance errors, more revenue per provider. There is no ambiguity about the buyer or the budget line.\n\nEleos Health closed a on the back of 120+ enterprise customers, multimodal models trained on proprietary therapy-session data, and RCT evidence of faster notes and improved patient outcomes [6]. Psynk AI announced pilots inside a psychiatric hospital the same year [7]. Investors like this category because the ROI is mechanical: less time on notes, fewer compliance errors, more revenue per provider. There is no ambiguity about the buyer or the budget line. Hybrid AI–therapist platforms — the third pillar. Jimini Health raised $17M to embed clinician-supervised AI assistants into therapy workflows, designed from inception to align with CMS and FDA frameworks [8]. Brightside and similar models that pair AI triage with human escalation are getting renewed attention. The pattern is consistent: human in the loop is now a precondition, not a feature .\n\nJimini Health raised to embed clinician-supervised AI assistants into therapy workflows, designed from inception to align with CMS and FDA frameworks [8]. Brightside and similar models that pair AI triage with human escalation are getting renewed attention. The pattern is consistent: . Employer and life-stage platforms — well-funded but crowded. Spring Health’s acquisition of Alma in May 2026 created a mega-platform spanning roughly 170 million covered lives , anchored by Spring’s JAMA-published 92% improvement rate among members [9]. Modern Health, Lyra, and Spring are absorbing share. Expect consolidation rather than new entrants in this category.\n\nSpring Health’s acquisition of Alma in May 2026 created a mega-platform spanning roughly , anchored by Spring’s JAMA-published 92% improvement rate among members [9]. Modern Health, Lyra, and Spring are absorbing share. Expect consolidation rather than new entrants in this category. Youth and specialized care — a quieter but resilient pocket. Handspring Health’s $12M Series A, Marble Health’s $15.5M, and Affect Therapeutics’ $26M Series B point to investor appetite for niche populations where the unmet need is acute and the patient pathway is well-defined. Where capital allocation has stopped Four categories that were funding magnets two years ago have moved from “promising” to “default no”: Generic LLM chatbots dressed as therapy — the most visible loser of 2026. The APA’s caution against using untested chatbots as therapy substitutes has crystallized into VC consensus [10]. Retention is poor, evidence is thin, and the regulatory surface is widening as state-level legislation tightens. Wrappers around public LLMs no longer survive diligence .\n\nThe APA’s caution against using untested chatbots as therapy substitutes has crystallized into VC consensus [10]. Retention is poor, evidence is thin, and the regulatory surface is widening as state-level legislation tightens. . Standalone meditation and mindfulness apps — commoditized. The Calm-clone segment has saturated, and without a clinical pathway or AI-driven personalization tied to measurable outcomes, the category has effectively been priced out of growth funding.\n\nThe Calm-clone segment has saturated, and without a clinical pathway or AI-driven personalization tied to measurable outcomes, the category has effectively been priced out of growth funding. Voice biomarkers and emotion-detection startups — from “promising” to “cautionary.” Kintsugi’s shutdown in 2026 — after raising roughly $28M for voice-based depression and anxiety screening — became the case study cited in nearly every diligence call [11]. The science is genuinely interesting; the path to FDA clearance, reimbursement, and a workflow buyer is too long for venture timelines. Pure diagnostics plays without a reimbursement hook are now a default no .\n\nKintsugi’s shutdown in 2026 — after raising roughly for voice-based depression and anxiety screening — became the case study cited in nearly every diligence call [11]. The science is genuinely interesting; the path to FDA clearance, reimbursement, and a workflow buyer is too long for venture timelines. . Low-engagement companion bots and journaling tools without clinical integration. If the product cannot tie into a payer, employer, or provider channel — and cannot produce a measurable health outcome — it is being treated as a feature, not a company. Two playbooks: Clinical infrastructure vs. consumer wellness The pattern across funded and unfunded companies in 2026 looks less like a single category in flux and more like two distinct playbooks moving in opposite directions. The clinical-infrastructure playbook — psychiatry copilots, AI scribes, hybrid therapy platforms, payer-aligned workflows — sells to clinics, hospitals, employers, or insurers. The consumer-wellness playbook — direct-to-consumer chatbots, meditation apps, journaling tools — sells to individuals through subscriptions and pricing pages. Capital is now flowing almost entirely into the first playbook, and walking away from the second. The divide is not stylistic. It is structural. Clinical-infrastructure companies operate inside reimbursable workflows; consumer-wellness companies fight for retention. Clinical-infrastructure companies have proprietary outcomes data; consumer-wellness companies have download numbers. Clinical-infrastructure companies treat regulation as a moat; consumer-wellness companies treat it as a tax. What the funded companies share Three traits show up in nearly every round above $20M in 2025–26: Proprietary data and clinical credibility. Eleos’s session corpus and RCT evidence, Spring’s JAMA publication, Jimini’s regulatory alignment — these are no longer nice-to-haves. They are the entry ticket. “We don’t invest in an app without evidence of efficacy” is now an explicit VC line [12].\n\nEleos’s session corpus and RCT evidence, Spring’s JAMA publication, Jimini’s regulatory alignment — these are no longer nice-to-haves. They are the entry ticket. is now an explicit VC line [12]. B2B or B2B2C economics. The winners sell to clinics, hospitals, employers, or insurers. Recurring contracts embedded in clinical workflow beat consumer subscription economics every time . Reimbursable workflows — digital therapeutics with CPT codes, prescriber-tied tools — carry the most weight.\n\nThe winners sell to clinics, hospitals, employers, or insurers. . Reimbursable workflows — digital therapeutics with CPT codes, prescriber-tied tools — carry the most weight. Defensibility through data, integration, or regulation. EHR locks, payer relationships, and proprietary outcomes data create real moats. Kintsugi’s regulatory hurdle became fatal; Jimini’s regulatory alignment became its moat. The same gate can stop you or protect you, depending on how early you engaged it. White space: Where AI in mental health is still underbuilt Three pockets stand out as underbuilt relative to their strategic importance — and these are the clearest entry points for founders and innovation partners targeting mental health in 2026–27: Measurement-based care infrastructure. Outcome tracking that plugs into clinician workflows, payer reporting, and employer dashboards. Almost every well-funded round in 2026 is built on top of measurable outcomes — but the measurement layer itself is still fragmented.\n\nOutcome tracking that plugs into clinician workflows, payer reporting, and employer dashboards. Almost every well-funded round in 2026 is built on top of measurable outcomes — but the measurement layer itself is still fragmented. AI-native care navigation for payers and employers. Triage and routing tools that move members from intake to the appropriate level of care — therapist, psychiatrist, digital intervention, crisis resource — inside a single workflow. Mature in primary care; underbuilt in behavioral health.\n\nTriage and routing tools that move members from intake to the appropriate level of care — therapist, psychiatrist, digital intervention, crisis resource — inside a single workflow. Mature in primary care; underbuilt in behavioral health. Specialized care for high-acuity and underserved populations. Severe mental illness, perinatal mental health, child and adolescent psychiatry, substance-use comorbidities. The Handspring–Marble–Affect cohort hints at the appetite; the supply side is still thin. Strategic signals for founders, investors, and incumbents For founders: The era of AI plus mental health equals a Series A is over. The era of AI as embedded clinical infrastructure has begun. Plan validation studies early. Engage regulators before they need to be engaged. Design for clinician and payer workflows from day one. If you cannot point to a reimbursable workflow or a measurable outcome by Series A, your round will not happen.\n\nThe era of AI plus mental health equals a Series A is over. The era of AI as embedded clinical infrastructure has begun. Plan validation studies early. Engage regulators before they need to be engaged. Design for clinician and payer workflows from day one. If you cannot point to a reimbursable workflow or a measurable outcome by Series A, your round will not happen. For investors: The category is consolidating, not contracting. Five rounds absorbed 74% of capital in 2025–26 — expect the next two years to keep concentrating on companies with proprietary data, regulatory alignment, and B2B economics. Voice-biomarker, generic-chatbot, and meditation-app theses are best treated as historical.\n\nThe category is consolidating, not contracting. Five rounds absorbed 74% of capital in 2025–26 — expect the next two years to keep concentrating on companies with proprietary data, regulatory alignment, and B2B economics. Voice-biomarker, generic-chatbot, and meditation-app theses are best treated as historical. For pharma, payers, and provider incumbents: Partnership pipelines into mental health AI startups have never been more strategically valuable. The pool of fundable companies has narrowed sharply, the survivors have proprietary clinical data, and the M&A window is opening. Spring’s acquisition of Alma is unlikely to be the last consolidation move of 2026. The 2026 reset is not subtle. Capital is flowing to companies that make mental health care more efficient, more evidence-based, and more accessible inside existing payment systems. It is walking away from companies that confuse engagement with outcomes. The next wave of mental health AI will not be defined by which app has the largest user base. It will be defined by which platforms become invisible inside the workflows that decide whether a member gets care, a clinician gets paid, and an outcome gets measured. R2GConnect open calls for HealthTech solution providers If you are building a mental health AI solution for clinics, payers, or employers, apply on R2GConnect.com and present your solution in front of decision-makers worldwide: Open Call: 2nd Generation AI-Based Mental Health Solutions — Apply on R2GConnect.com If you are a health plan, employer, or provider group looking to accelerate the integration of mental health AI tools, feel free to get in touch with us — we would be happy to discuss further. Sources [1] Rock Health — Q1 2026 Digital Health Funding Report; record $4B quarter; AI now treated as table stakes. [2] Rock Health — H1 2024 Digital Health Funding Report; mental health led at ~$682M. [3] PitchBook / CB Insights — Mental health funding analysis, 2025–26; five rounds >$50M ≈ 74% of category capital. [4] FierceHealthcare, STAT, MedCity News — Q1 2026 megadeal coverage: Talkiatry $210M Series D; Blossom Health $20M raise. [5] Rock Health — Analysis: psychiatry combines “clinical authority with payer compatibility,” 2025. [6] Eleos Health — Series C announcement, January 2025; $60M, 120+ customers, multimodal models, RCT outcomes data. [7] Psynk AI — Launch and psychiatric hospital pilot announcement, 2025. [8] Jimini Health — $17M seed round announcement, 2025; clinician-supervised AI, CMS/FDA-aligned design. [9] Spring Health — Acquisition of Alma, May 2026; JAMA Network Open study on member outcomes (~92% improvement). [10] American Psychological Association — Advisory on generic AI chatbots in mental health. [11] Multiple outlets — Kintsugi shutdown coverage, 2026; ~$28M raised; FDA and business-model hurdles cited. [12] R2G analysis — Aggregated VC commentary from HLTH, Venture news, and Rock Health, 2025–26. Sarah Hijazi\n\nEmail me Subscribe to our newsletter And receive information about market updates, new research information, and more... Follow us on LinkedIn Get and discuss market news on a frequent basis. Connect using Share Latest Articles AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out\n\nHealth Plan AI Adoption: Why EU Payers Trail the US — and Where the White Space Sits for HealthTech Vendors\n\nBest-in-Class Beyond the Pill Solutions: How Pharma Should Evaluate and Select BtP Vendor Partners\n\nWhy an IP Strategy Matters Before Fundraising or Exit\n\nDrug Companion Apps in Pharma: How to Choose the Right Vendor and Maximize ROI"
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

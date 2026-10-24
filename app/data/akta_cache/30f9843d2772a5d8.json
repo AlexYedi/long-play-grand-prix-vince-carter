@@ -1,0 +1,1028 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002dz&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:07:05.751Z",
+  "data": {
+    "data": {
+      "uuid": "00002dz",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2024
+          },
+          "total_funding_usd": 69000000
+        },
+        "funding_rounds": [
+          {
+            "id": 121724,
+            "date": {
+              "month": 7,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 386328,
+            "date": {
+              "month": 5,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_unknown",
+              "label": "Series Unknown"
+            }
+          },
+          {
+            "id": 15569072,
+            "date": {
+              "month": 1,
+              "year": 2023
+            },
+            "round": {
+              "code": "convertible_note",
+              "label": "Convertible note"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Alpha Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000056p",
+            "website": "https://alphapartners.com"
+          },
+          {
+            "name": "Left Lane Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00004a4",
+            "website": "https://www.leftlane.com"
+          },
+          {
+            "name": "Smash Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0004f8x",
+            "website": "https://smashcap.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 1 more funding rounds; 6 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "brand": [
+          {
+            "description": "FDA-cleared AI for real-time pathology detection on 2D dental X-rays",
+            "name": "Second Opinion",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "FDA-cleared AI for 3D CBCT imaging analysis",
+            "name": "Second Opinion 3D",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "AI-powered clinical performance and practice optimization platform",
+            "name": "Practice Intelligence",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "AI dental insurance verification software",
+            "name": "Precheck",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "AI-powered clinical calibration and team training tool",
+            "name": "Calibrate",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "Ambient voice AI for clinical notes and perio charting",
+            "name": "Voice",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "description": "Revenue cycle management platform for dental practices",
+            "name": "RCM",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          }
+        ],
+        "core_offering": "Pearl sells FDA-cleared dental AI software that automatically detects pathologies on dental X-rays and CBCT scans and powers practice analytics, insurance verification, clinical documentation, and revenue cycle management for dental practices, dental service organizations, and dental schools. Its products are delivered primarily as cloud-hosted, subscription-based AI embedded within existing dental imaging and practice management workflows.",
+        "differentiator": "Pearl is the only dental AI company with FDA clearance for both 2D and 3D radiologic analysis (intraoral, panoramic, and CBCT). It is the only dental imaging AI independently validated by a third party at 94% accuracy. Pearl has the world's largest dental radiograph dataset annotated by world-renowned dentists and radiologists, trained on 7+ million verified cases. The company has 26+ regulatory clearances across 120+ countries and 40+ native integrations with dental software ecosystems.",
+        "functional_benefit": "Pearl's AI tools enable clinicians to detect 37% more disease, achieve 94% diagnostic accuracy, and save 9-10+ minutes per patient visit. Practices report 30% higher treatment acceptance, $30K additional monthly production, and 2x more periodontal diagnoses. DSOs using Pearl have achieved $29.5M-$260M in new revenue and up to 30% EBITDA improvement. Pearl RCM saves 35 staff hours per week and reduces claim denials by 80%. Pearl Voice saves providers 60+ minutes per day on documentation. The platform integrates seamlessly into existing workflows with no new hardware required, typically going live within hours.",
+        "problem_solved": "Pearl solves the core problems of diagnostic inconsistency and missed disease in dentistry — clinicians missing early-stage caries, bone loss, and other pathologies due to fatigue, time pressure, or anatomical blind spots. It also addresses administrative inefficiency (insurance verification, claim denials, scheduling optimization), inconsistent clinical standards across multi-location DSOs, patient skepticism about treatment recommendations, and revenue leakage from undetected treatment opportunities.",
+        "quantifiable_outcome": [
+          "37% more disease detected on average by practices using Pearl",
+          "30% higher patient treatment acceptance rate",
+          "94% accuracy independently validated by third party",
+          "30% lift in case acceptance including +37% for scaling and root planing, +34% for crowns, +23% for root canals, +19% for fillings",
+          "Up to 35 staff hours saved per week with Pearl RCM; 80% fewer claim denials",
+          "$15,000-$30,000 more monthly production per practice on average",
+          "9+ minutes saved per patient visit",
+          "20+ hours saved per week in office workflow",
+          "$260M in new revenue generated for DSOs across pilot studies",
+          "$29.5M in uncovered dentistry identified for P4D DSO",
+          "$150K additional revenue in first 30 days for Rand Dentistry",
+          "2x more periodontal diagnoses with Pearl-enabled practices",
+          "35% increase in monthly diagnoses",
+          "44% more procedures diagnosed",
+          "Operator diagnostic accuracy improved from 82% to 98% with Pearl AI support",
+          "21% more treatment per patient for Onsite Dental DSO",
+          "13.5% more same-day restorative care"
+        ],
+        "product_overview": "Pearl offers a unified platform of AI-powered dental solutions comprising seven core products: Second Opinion (FDA-cleared AI for real-time 2D X-ray pathology detection), Second Opinion 3D (AI for 3D CBCT imaging analysis - the first dental AI with clearance for both 2D and 3D), Practice Intelligence (clinical performance and practice optimization analytics), Precheck (instant AI-powered insurance verification), Pearl RCM (revenue cycle management with embedded insurance intelligence), Calibrate (AI-powered clinical training and calibration), and Pearl Voice (ambient voice AI for clinical documentation). The platform serves 29,000+ dental practices across 120+ countries, integrates natively with 40+ imaging and practice management systems, and holds 26+ regulatory clearances including FDA, Health Canada, TGA, and EU MDR. The architecture is designed as a modular platform where Second Opinion and Practice Intelligence serve as the core clinical AI engine, with Precheck and RCM adding revenue cycle capabilities, Calibrate enabling enterprise training, and Voice adding ambient documentation.",
+        "product_and_service": [
+          {
+            "category": "Radiologic AI - 2D",
+            "description": "FDA-cleared AI that automatically analyzes 2D dental radiographs (bitewing, periapical, panoramic) and highlights up to 18 findings per image, including caries, bone loss, calculus, periapical radiolucencies, defective restoration margins, and impactions, with 94% independently validated accuracy. Used by dentists, DSOs, and dental schools for diagnostic support and patient communication.",
+            "name": "Second Opinion",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ],
+            "url": "https://hellopearl.com/products/second-opinion"
+          },
+          {
+            "category": "Radiologic AI - 3D / CBCT",
+            "description": "FDA-cleared AI for automated identification of key anatomical structures and pathology detection in 3D CBCT dental scans. The first and only dental AI with FDA clearance for simultaneous 2D and 3D radiologic analysis, supporting diagnostics and treatment planning across implantology, orthodontics, and oral surgery.",
+            "name": "Second Opinion 3D",
+            "source": [
+              "https://www.oralhealthgroup.com/dental-industry/u-s-based-company-becomes-first-to-receive-fda-approval-for-2d-and-3d-dental-ai-imaging-1003987068/"
+            ],
+            "url": "https://hellopearl.com/products/second-opinion-3d"
+          },
+          {
+            "category": "Practice Analytics",
+            "description": "AI-powered clinical performance and practice optimization platform that pairs radiologic AI with practice data to deliver insights on clinical quality, financial performance, appointment compliance, case acceptance, and per-provider production. Surfaces specific treatment opportunities, powers Morning Huddle reports, and enables AI-guided daily schedules.",
+            "name": "Practice Intelligence",
+            "source": [
+              "https://hellopearl.com/products/practice-intelligence"
+            ],
+            "url": "https://hellopearl.com/products/practice-intelligence"
+          },
+          {
+            "category": "Insurance Verification",
+            "description": "AI-powered dental insurance verification tool that automatically confirms benefits for scheduled patients up to 14 days in advance, with real-time eligibility results in under 10 seconds for 80%+ of checks. Provides tooth-specific treatment and benefits history and saves practices 20+ hours per week on administrative work.",
+            "name": "Precheck",
+            "source": [
+              "https://www.businesswire.com/news/home/20240620728934/en/Pearl-Launches-Groundbreaking-AI-Powered-Dental-Insurance-Verification"
+            ],
+            "url": "https://hellopearl.com/products/precheck"
+          },
+          {
+            "category": "Revenue Cycle Management",
+            "description": "Revenue cycle management platform that embeds insurance intelligence throughout the dental workflow, including eligibility verification, FDA-cleared radiologic AI for real-time x-ray quality assessment, and automated image selection for claims. Early adopters save up to 35 staff hours per week and reduce claim denials by up to 80%.",
+            "name": "Pearl RCM",
+            "source": [
+              "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+            ],
+            "url": "https://hellopearl.com/products/rcm"
+          },
+          {
+            "category": "Clinical Calibration and Training",
+            "description": "AI-powered clinical calibration and team training platform for dental organizations and universities that allows leadership to define diagnostic standards, benchmark providers and students against expert criteria, surface specific improvement areas, and document calibration for CODA-aligned accreditation.",
+            "name": "Calibrate",
+            "source": [
+              "https://hellopearl.com/products/calibrate"
+            ],
+            "url": "https://hellopearl.com/products/calibrate"
+          },
+          {
+            "category": "Ambient Clinical Documentation",
+            "description": "Ambient voice AI for clinical notes and periodontal charting that supports hands-free voice perio charting and automated SOAP note generation, saving providers 60+ minutes per day on documentation.",
+            "name": "Pearl Voice",
+            "source": [
+              "https://hellopearl.com/customers/dentists"
+            ],
+            "url": "https://hellopearl.com/products/voice"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Pearl's website states more than 29,000 practices have chosen Pearl, with 50,000+ clinicians using the platform globally across 120+ countries.",
+            "source": [
+              "https://hellopearl.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "29,000+ practices and 50,000+ clinicians worldwide"
+          },
+          {
+            "description": "Pearl raised $58 million in Series B funding in July 2024, led by Left Lane Capital with participation from Smash Capital, Alpha Partners, Craft Ventures, and Neotribe Ventures. This was described as the largest investment ever in dental AI at the time.",
+            "source": [
+              "https://hellopearl.com/news/pearl-raises-largest-ever-investment-in-dental-ai-with-58-million-round-b3967"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$58 million"
+          },
+          {
+            "description": "Across two independent pilot studies (one controlled, one longitudinal), Pearl powered consistent improvements in DSO performance, helping DSOs scale clearer presentations into $260M in new revenue. Individual DSO case studies report $29.5M in uncovered dentistry for P4D and $150K additional revenue in first 30 days for Rand Dentistry.",
+            "source": [
+              "https://hellopearl.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "$260 million in new revenue for DSOs"
+          },
+          {
+            "description": "Pearl's radiologic AI helps clinicians identify 37% more disease on average. Practices report 30% higher case acceptance and the only independently validated 94% accuracy rating in dental AI.",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "37% more disease detected; 30% treatment acceptance increase; 94% accuracy"
+          },
+          {
+            "description": "Pearl has regulatory clearance (FDA 510(k) and international equivalents) in 120+ countries, with 26+ total regulatory clearances. The platform is available globally.",
+            "source": [
+              "https://hellopearl.com/"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "120+ countries with regulatory clearance"
+          },
+          {
+            "description": "Pearl integrates natively with 40+ dental imaging and practice management systems including Open Dental, Dentrix, Eaglesoft, Carestream, Romexis, Curve, Oryx, Denticon, Tab32, Vatech, Apteryx, MiPACS, and many more.",
+            "source": [
+              "https://hellopearl.com/"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "40+ integrations"
+          },
+          {
+            "description": "Pearl serves more than 100 dental service organizations including Pacific Dental Services, Dental365, Coast Dental, PDS Health, P4D, Onsite Dental, Smile Brands, DECA Dental Group, and many others.",
+            "source": [
+              "https://hellopearl.com/customers/dsos"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "100+ DSOs"
+          },
+          {
+            "description": "Early adopters of Pearl RCM saved up to 35 staff hours per week and reduced claim denials by up to 80%. Practices using Pearl report $15,000-$30,000 more in monthly production on average.",
+            "source": [
+              "https://hellopearl.com/products/precheck"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "35 staff hours saved per week; 80% fewer claim denials; $30K additional monthly production"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 18,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Pearl partnered with ClearDent (dental practice management platform founded in Burnaby, Canada in 2002) to integrate Pearl's Second Opinion chairside radiologic dental AI disease detection software with ClearDent's imaging toolset via API. The partnership enables Canadian dental practitioners to access AI-powered pathology detection (caries, calculus, periapical radiolucency) through ClearDent's Developer Program. Joint educational initiatives, webinars, and events planned to advance AI adoption in Canadian clinical practice. Pearl's Second Opinion has regulatory clearance in Canada, USA, Australia, New Zealand, and Europe.",
+            "name": "ClearDent",
+            "source": [
+              "https://techcouver.com/2026/06/24/cleardent-pearl-accelerating-power-ai-dental/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0008hw3"
+          },
+          {
+            "announced_on": {
+              "day": 15,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Smile Brands (one of the largest U.S. providers of dental support services with 600 locations across 80 brands) selected Pearl as its exclusive dental AI partner following a rigorous multi-vendor evaluation. Completed an initial pilot demonstrating measurable improvements in clinician diagnosis presentations and an increase in same-day treatment acceptance rates. Rollout has begun to a significant number of offices with the goal of full deployment across Smile Brands' entire network.",
+            "name": "Smile Brands",
+            "source": [
+              "https://www.businesswire.com/news/home/20260615460469/en/Smile-Brands-Begins-Rollout-of-Pearl-for-Dental-AI-to-Advance-Its-Mission-of-Consistent-High-Quality-Dental-Care"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0008emo"
+          },
+          {
+            "announced_on": {
+              "day": 4,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "PDS Health (integrated healthcare support organization operating dental practices) selected Pearl as its enterprise AI partner to deploy real-time radiologic review and clinical intelligence tools across its network of more than 1,100 dental practices nationwide. Pearl's FDA-cleared AI platform is integrated into existing imaging workflows for chairside image review, visual indicators, and practice-level reporting across both traditional radiographic imaging and CBCT workflows.",
+            "name": "PDS Health",
+            "source": [
+              "https://www.dentistrytoday.com/pds-health-selects-pearl-as-ai-partner/"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "00pxngy"
+          },
+          {
+            "announced_on": {
+              "day": 24,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "DECA Dental Group selected Pearl as its exclusive dental AI partner following a successful pilot study that demonstrated measurable improvements in case acceptance rates through AI-visualized radiographs and generated early ROI. DECA deployed Pearl across its nearly 200 practices spanning nine U.S. states. Integration is directly into DECA's existing practice management software for real-time clinical insights and enterprise-wide visibility.",
+            "name": "DECA Dental Group",
+            "source": [
+              "https://www.businesswire.com/news/home/20260224941226/en/DECA-Dental-Group-Deploys-Pearl-Following-Pilot-Study"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0008zi5"
+          },
+          {
+            "announced_on": {
+              "day": 2,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Pearl partnered with education platform RipeGlobal to provide training programs for dental professionals on implementing AI in their practices. The partnership grants new and existing Pearl subscribers access to RipeGlobal's cloud-based platform for six months, offering on-demand courses, live workshops, and community learning focused on AI literacy, adoption strategies, and practice performance outcomes.",
+            "name": "RipeGlobal",
+            "source": [
+              "https://www.beckersdental.com/ai-teledentistry/pearl-partners-with-education-platform-to-advance-dental-ai-use/"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "000hyv7"
+          },
+          {
+            "announced_on": {
+              "day": 1,
+              "month": 4,
+              "year": 2023
+            },
+            "description": "Planmeca Oy partnered with Pearl in April 2023 to integrate Pearl's FDA-cleared AI algorithms into Planmeca's CBCT imaging workflows. This integration embeds Pearl's radiologic AI capabilities directly into Planmeca's dental imaging hardware and software ecosystem for enhanced diagnostic analysis.",
+            "name": "Planmeca",
+            "source": [
+              "https://www.openpr.com/news/4445263/leading-industry-participants-reinforce-their-presence-in"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0003qe1"
+          },
+          {
+            "announced_on": {
+              "day": 19,
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Pearl expanded its AI integration with Curve Dental to include Practice Intelligence alongside existing Second Opinion integration. Curve Dental is a cloud-based dental practice management platform. The expanded API integration allows Curve users to access Pearl's AI-powered analytics directly within their workflow. Pearl also integrated via Curve Dental's Developer Program for distribution to Canadian dental practices.",
+            "name": "Curve Dental",
+            "source": [
+              "https://www.businesswire.com/news/home/20250819919499/en/Pearl-Expands-AI-Integration-with-Curve-Dental-to-Include-Practice-Intelligence"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "announced_on": {
+              "day": 17,
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Pearl and Archy announced an integration partnership for dental artificial intelligence. Archy is a dental practice management platform. The integration embeds Pearl's AI capabilities into Archy's platform for joint customers.",
+            "name": "Archy",
+            "source": [
+              "https://www.dentalproductsreport.com/view/pearl-and-archy-announce-integration-partnership-for-dental-artificial-intelligence"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000d9o"
+          },
+          {
+            "announced_on": {
+              "day": 24,
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Planet DDS partnered with Pearl as part of its comprehensive and open API program for DSOs and dental partners. Pearl's AI solutions are integrated into Planet DDS's DentalOS platform (Denticon, Cloud 9, Apteryx, Legwork) to deliver integrated AI-powered clinical and administrative tools. Planet DDS serves over 13,000 dental practices.",
+            "name": "Planet DDS",
+            "source": [
+              "https://www.dentalproductsreport.com/view/planet-dds-launches-comprehensive-and-open-api-program-for-dsos-and-dental-partners"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0005yzu"
+          },
+          {
+            "announced_on": {
+              "day": 8,
+              "month": 7,
+              "year": 2024
+            },
+            "description": "tab32 (cloud-based dental practice management platform) partnered with Pearl to integrate Pearl's AI capabilities into its platform, upgrading tab32's offering with AI-powered clinical and administrative tools for dental practices.",
+            "name": "tab32",
+            "source": [
+              "https://www.businesswire.com/news/home/20240625675898/en/tab32-Cloud-Based-Dental-Practice-Management-Platform-Gets-AI-Upgrade-with-Pearl-Partnership"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0006x5c"
+          },
+          {
+            "announced_on": {
+              "day": 22,
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Pearl collaborated with Patterson Dental to advance dental AI. Patterson Dental is a major U.S. dental distributor and technology provider. A separate Canada-specific partnership was announced with Patterson Dental Canada in July 2024 to advance dental AI in Canadian dentistry.",
+            "name": "Patterson Dental",
+            "source": [
+              "https://www.zenopa.com/news/pearl-collaborates-with-patterson-dental-for-ai-advancement/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0007tmc"
+          },
+          {
+            "announced_on": {
+              "day": 11,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Coast Dental implemented Pearl's FDA-cleared AI platform across its 88-practice network as part of a broader DSO AI adoption strategy. Coast Dental is one of several DSOs investing in Pearl alongside PDS Health and others.",
+            "name": "Coast Dental",
+            "source": [
+              "http://ct.moreover.com/?a=58847269130&p=5fi&v=1&x=ysrYvWhBXSTO_wLn3WbhZA"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "003bzv1"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Pearl's AI Calibration Tool implementation at UCLA School of Dentistry was supported by an ADEA (American Dental Education Association) grant, demonstrating a strategic alignment with dental education standards and accreditation bodies.",
+            "name": "ADEA (American Dental Education Association)",
+            "source": [
+              "https://fortune.com/2026/04/25/ai-layoffs-transformation-mark-quinn-pearl-reskilling-workforce/"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000g2bk"
+          },
+          {
+            "announced_on": {
+              "day": 27,
+              "month": 5,
+              "year": 2025
+            },
+            "description": "UCLA School of Dentistry partnered with Pearl to implement Pearl's AI Calibration Tool with support from an ADEA grant. This partnership advances AI integration in dental education and supports student diagnostic training, faculty calibration, and CODA accreditation standards.",
+            "name": "UCLA School of Dentistry",
+            "source": [
+              "https://www.oralhealthgroup.com/dental-industry/u-s-based-company-becomes-first-to-receive-fda-approval-for-2d-and-3d-dental-ai-imaging-1003987068/"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000ns9o"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Raised a $58 million Series B led by Left Lane Capital with participation from Smash Capital, Alpha Partners, Craft Ventures, and Neotribe Ventures — described as the largest investment ever in dental AI.",
+            "source": [
+              "https://hellopearl.com/news/pearl-raises-largest-ever-investment-in-dental-ai-with-58-million-round-b3967"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2025
+            },
+            "description": "Received FDA 510(k) clearance for Second Opinion 3D, becoming the first dental AI company cleared for both 2D and 3D radiologic analysis (including CBCT imaging).",
+            "source": [
+              "https://www.oralhealthgroup.com/dental-industry/u-s-based-company-becomes-first-to-receive-fda-approval-for-2d-and-3d-dental-ai-imaging-1003987068/"
+            ],
+            "type": {
+              "code": "regulatory_action",
+              "label": "Regulatory Action"
+            }
+          },
+          {
+            "date": {
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Secured PDS Health as an enterprise AI partner, deploying Pearl's platform across 1,100+ dental practices nationwide.",
+            "source": [
+              "https://www.dentistrytoday.com/pds-health-selects-pearl-as-ai-partner/"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Selected by Smile Brands as its exclusive dental AI partner following a multi-vendor evaluation, with rollout initiated to 600 locations across 80 brands.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260615460469/en/Smile-Brands-Begins-Rollout-of-Pearl-for-Dental-AI-to-Advance-Its-Mission-of-Consistent-High-Quality-Dental-Care"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Won exclusive AI partnership with DECA Dental Group after a successful pilot, with deployment across nearly 200 practices spanning nine U.S. states.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260224941226/en/DECA-Dental-Group-Deploys-Pearl-Following-Pilot-Study"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence and AI-assisted claim preparation into the dental workflow.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "The 2026 ClearDent partnership and Curve Dental Developer Program integration, combined with stated regulatory clearance in Canada, USA, Australia, New Zealand, and Europe, signal deliberate international expansion beyond the U.S. enterprise core, with a VP of International Sales hire reinforcing this intent.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "2024 launch of Precheck (insurance verification), 2024 launch of Calibrate (clinical calibration/accreditation), 2026 launch of Pearl RCM (revenue cycle management), and Pearl Voice (ambient documentation) extend the platform vertically from pure diagnostic AI into the full dental revenue cycle and admin stack, materially expanding TAM per practice.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Direct academic sales motion into 8+ dental schools (UNC, UCLA, UPenn, MUSC, Pitt, Columbia, UNMC, Pacific, ECU) with ADEA grant alignment and Calibrate accreditation positioning represents a new institutional buyer segment that doubles as a future practitioner-pipeline acquisition channel.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Patterson Dental Channel partnership (July 2024), Planet DDS Denticon integration, RipeGlobal GTM partner, and ClearDent Canada reseller expand distribution beyond direct enterprise sales into channel/reseller/developer-program distribution.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "MDSAP certification covering US, Canada, Brazil, Australia, and Japan, plus EU MDR compliance and additional country-specific clearances cited across 120+ countries, indicate a sustained, well-funded multi-jurisdictional regulatory rollout underway.",
+            "type": {
+              "code": "regulatory_pursuit",
+              "label": "Regulatory Pursuit"
+            }
+          },
+          {
+            "description": "Hiring of dedicated Vice President of DSO Sales, Vice President of International Sales, and Executive Vice President of Business Development in 2024-2025 alongside the $58M Series B indicates aggressive commercial organization buildout targeting enterprise and global expansion.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "50m_100m",
+          "label": "$50M-$100M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Pearl is a Los Angeles-based, venture-backed dental AI company founded in 2019 that has established itself as a category leader in dental radiologic AI, serving more than 29,000 dental practices and 100+ dental service organizations across 120+ countries. The company holds 26+ regulatory clearances and is the first and only dental AI vendor with FDA 510(k) clearance for both 2D and 3D radiologic analysis, giving it a differentiated regulatory and clinical moat in the dental imaging AI market.",
+        "strengths": [
+          {
+            "details": "Pearl is the first and only company with FDA 510(k) clearance for both 2D and 3D dental radiologic AI. Each additional modality (panoramic in 2026) or jurisdiction (26+ clearances in 120+ countries) takes years for competitors to replicate via clinical validation, so the regulatory gap compounds with every new product expansion.",
+            "headline": "Regulatory lead compounds as FDA clearance moat widens",
+            "source": [
+              "https://www.oralhealthgroup.com/dental-industry/u-s-based-company-becomes-first-to-receive-fda-approval-for-2d-and-3d-dental-ai-imaging-1003987068/"
+            ]
+          },
+          {
+            "details": "DSOs are consolidating aggressively (Pearl already serves 100+ including PDS Health with 1,100+ practices, Smile Brands 600, DECA 200). Once Pearl is a vendor in a DSO's stack, expansion across newly acquired locations typically follows without a new sales cycle, driving enterprise ARPU growth on largely fixed sales infrastructure.",
+            "headline": "DSO consolidation creates an enterprise expansion flywheel",
+            "source": [
+              "https://hellopearl.com/customers/dsos"
+            ]
+          },
+          {
+            "details": "With Second Opinion already embedded in 29,000+ practices, attaching Precheck, Pearl RCM, Practice Intelligence, Calibrate, and Voice onto the same practice substantially increases ARR per practice—each product addresses a distinct workflow bottleneck (insurance verification, revenue cycle, training, documentation) on top of an already-trusted AI relationship.",
+            "headline": "Cross-sell from Second Opinion into full workflow multiplies per-practice ARR",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Pearl is integrated at 8+ major US dental schools (UNC, UCLA, Pittsburgh, Columbia, MUSC, UNMC, Pacific, ECU) including Calibrate for CODA-aligned accreditation. Students trained on Pearl's AI will expect it in their future practices, creating a multi-year pull-through adoption channel into private practice.",
+            "headline": "University channel seeds next-generation of AI-native dentists",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Documented outcomes include $260M new revenue generated for DSOs across pilot studies, $29.5M uncovered dentistry for P4D, and $150K additional revenue in first 30 days for Rand Dentistry, alongside 35 staff hours/week saved and 80% fewer claim denials via RCM. These quantified ROI figures support durable pricing power and expansion of wallet share versus commoditized alternatives.",
+            "headline": "Validated ROI economics create defensible value-based pricing",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Pearl's distribution depends on access to PMS/imaging platforms (Dentrix, Eaglesoft, Carestream, Romexis, Curve, Planet DDS, Patterson). If any of these owners decide to build or exclusive-bundle competing AI—particularly as they add API-first capabilities of their own—Pearl could be demoted from embedded partner to plug-in competitor, eroding both reach and pricing power.",
+            "headline": "Platform vendors could capture the AI layer",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Direct competitors Overjet, VideaHealth, and Diagnocat have raised comparable venture financing and are targeting the same enterprise DSO accounts. Intensifying competition for marquee DSOs could force price concessions, higher customer-acquisition costs, and faster product investment cycles that compress margins.",
+            "headline": "Well-capitalized rivals escalate pricing and feature wars",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Pearl's 'Book a Demo' / quote-based motion is optimized for enterprise DSOs but is heavy for the long tail of solo/small practices that make up the bulk of US dental clinics. Competitors with self-serve or per-seat transparent pricing could sweep this segment, capping Pearl's addressable expansion even as DSO wins continue.",
+            "headline": "Long-tail SMB market may under-penetrate versus transparent SaaS",
+            "source": [
+              "https://hellopearl.com/customers/dentists"
+            ]
+          },
+          {
+            "details": "Dental AI does not yet command separate insurance reimbursement in most markets, so ROI flows from higher case acceptance and operational savings. In a dental-spending downturn or a dental-benefit cutback, practice willingness to pay per-seat or per-location AI subscriptions could contract, slowing new-logo growth.",
+            "headline": "Reimbursement-independent ROI may weaken in macro downturn",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ]
+          },
+          {
+            "details": "As foundation vision and multimodal models improve, generic models could deliver 'adequate' dental pathology detection at materially lower cost, narrowing the gap with Pearl's 94% accuracy and weakening Pearl's pricing power and integration-fee economics over time.",
+            "headline": "General-purpose vision models erode specialty-data moat",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Pearl holds 26+ regulatory clearances across 120+ countries, including the first and only FDA 510(k) clearance for simultaneous 2D and 3D dental radiologic AI analysis. This regulatory depth (FDA, Health Canada, EU MDR, MDSAP, TGA, ISO 13485) creates a substantial multi-jurisdictional barrier to entry that takes competitors years to replicate.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "Pearl is trained on what it describes as the world's largest dental radiograph dataset, with 7+ million verified real-world cases annotated by world-renowned dentists and radiologists, yielding the only third-party validated 94% accuracy in dental imaging AI. The dataset grows continuously with every new deployment, reinforcing model superiority.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Native integrations with 40+ dental imaging and practice management platforms (Dentrix, Eaglesoft, Open Dental, Carestream, Romexis, Curve, Planet DDS, Patterson, tab32, axiUm) embed Pearl directly into clinical workflows, making it the path of least resistance for practices already invested in incumbent software stacks.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "With 29,000+ practices and 100+ DSOs deployed, Pearl is deeply embedded in clinical workflows with proprietary diagnostic history, calibration benchmarks, and operational data continuity; switching would require staff retraining and disruption of established clinical decision-making processes.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Registered trademarks across Second Opinion, Practice Intelligence, Precheck, Calibrate, Pearl RCM, and Pearl Voice, three-time Inc. Power Partner Award status, and a leading dental AI brand cited across dental media, market research, and conferences, reinforce defensibility beyond technology alone.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Pearl faces direct competition from Overjet, VideaHealth, Diagnocat, and Denti.AI in dental imaging AI, several of which have raised significant venture funding. Major incumbent imaging/PMS vendors (3Shape, Henry Schein One, Patterson) also have the distribution and capital to bundle competing AI, threatening Pearl's stand-alone positioning.",
+            "headline": "Competitive risk from well-funded dental AI rivals and incumbent imaging vendors",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Pearl's enterprise revenue is anchored in a relatively small number of multi-thousand-location DSOs (PDS Health, Smile Brands, DECA, P4D). Loss, downgrade, or competitive displacement at one or two of these flagship accounts could materially impact top-line growth and the company's reference-customer flywheel.",
+            "headline": "Customer concentration in large DSOs creates churn and contract-renewal risk",
+            "source": [
+              "https://hellopearl.com/customers/dsos"
+            ]
+          },
+          {
+            "details": "Pearl's reach is built on 40+ integrations with dental software ecosystems. If platform owners (Patterson, Henry Schein, Planet DDS, Curve, etc.) decide to build, acquire, or exclusive-bundle competing AI, Pearl's 'easy embed' distribution advantage could erode.",
+            "headline": "Distribution dependency on third-party imaging and PMS platforms",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "All Pearl products route prospects through 'Book a Demo' / 'Talk to Sales' with no published tiers or self-serve onboarding. This sales-assisted motion is well-suited to enterprise DSOs but may create friction and longer sales cycles for the long-tail of solo/small practices that competitors can convert via transparent SaaS pricing.",
+            "headline": "Quote-based opaque pricing may slow long-tail SMB adoption",
+            "source": [
+              "https://hellopearl.com/customers/dentists"
+            ]
+          },
+          {
+            "details": "Pearl maintains FDA, EU MDR, MDSAP, ISO 13485, SOC 2 Type II, HIPAA, and GDPR compliance across 120+ countries. Expanding into additional modalities or geographies requires costly clinical studies and regulatory submissions that drain R&D and create execution risk.",
+            "headline": "Regulatory and certification complexity across 26+ jurisdictions raises compliance costs",
+            "source": [
+              "https://hellopearl.com/customers/dentists"
+            ]
+          },
+          {
+            "details": "Rapid progress in general-purpose multimodal vision models could enable large tech entrants or imaging incumbents to field 'good enough' dental detection at low cost, compressing Pearl's accuracy-and-data moat over time.",
+            "headline": "Risk that foundation/general-purpose vision models commoditize specialty dental imaging AI",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Pearl was the first company to receive FDA 510(k) clearance for both 2D intraoral/panoramic X-ray and 3D CBCT analysis via its Second Opinion 3D platform in May 2025, creating a regulatory lead that cannot be matched without equivalent clinical validation and FDA submissions.",
+            "headline": "Only dental AI with FDA 510(k) clearance for both 2D and 3D radiologic analysis",
+            "source": [
+              "https://www.oralhealthgroup.com/dental-industry/u-s-based-company-becomes-first-to-receive-fda-approval-for-2d-and-3d-dental-ai-imaging-1003987068/"
+            ]
+          },
+          {
+            "details": "Per Pearl's website, more than 29,000 practices have chosen Pearl, with 50,000+ clinicians using the platform globally across 120+ countries, supported by 26+ regulatory clearances—a scale unmatched by competing dental AI vendors.",
+            "headline": "Largest installed base in dental AI with 29,000+ practices and 50,000+ clinicians across 120+ countries",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "A published third-party clinical study showed operator diagnostic accuracy improved from 82% to 98% when supported by Pearl, with practices identifying 37% more disease on average—the only independently validated 94% accuracy rating in dental AI.",
+            "headline": "Independently validated 94% diagnostic accuracy with published clinical evidence",
+            "source": [
+              "https://hellopearl.com/products/second-opinion"
+            ]
+          },
+          {
+            "details": "Pearl serves 100+ DSOs as customers including PDS Health (1,100+ practices), Smile Brands (600 locations across 80 brands), DECA Dental Group (200 practices in 9 states), Coast Dental (88 practices), and P4D, among others.",
+            "headline": "Enterprise DSO wins anchor recurring revenue base across the largest US dental networks",
+            "source": [
+              "https://hellopearl.com/customers/dsos"
+            ]
+          },
+          {
+            "details": "Pearl integrates natively with the most widely used dental imaging and practice management systems including Open Dental, Dentrix, Eaglesoft, Carestream, Romexis, Curve, Planet DDS, Tab32, Patterson, Apteryx, and MiPACS—an API-first distribution moat that makes Pearl the path of least resistance for practices already invested in those platforms.",
+            "headline": "40+ native integrations with dominant dental software platforms create ecosystem lock-in",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          },
+          {
+            "details": "Pearl raised $58 million in Series B funding in July 2024, led by Left Lane Capital with participation from Smash Capital, Alpha Partners, Craft Ventures, and Neotribe Ventures—explicitly described in source coverage as the largest investment ever in dental AI.",
+            "headline": "Largest single funding event ever in dental AI validates category leadership",
+            "source": [
+              "https://hellopearl.com/news/pearl-raises-largest-ever-investment-in-dental-ai-with-58-million-round-b3967"
+            ]
+          },
+          {
+            "details": "Pearl's seven product lines (Second Opinion, Second Opinion 3D, Practice Intelligence, Precheck, Pearl RCM, Calibrate, Pearl Voice) cover diagnostics, practice optimization, insurance verification, revenue cycle, training/calibration, and ambient documentation—moving beyond a point solution into a full workflow platform that compounds per-practice ARPU.",
+            "headline": "Multi-product platform expanding from diagnostic AI to full clinical and revenue-cycle workflow",
+            "source": [
+              "https://hellopearl.com/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer concentration is moderate. The book of business is anchored by a handful of very large DSO contracts that drive disproportionate revenue: PDS Health (1,100+ practices), Smile Brands (600 locations), DECA Dental (~200 practices across 9 states), Coast Dental (88 practices), plus P4D, Onsite Dental, Guardian Dentistry Partners, Sage Dental, Dental365, and Catalyst Dental Allies. While Pearl cites 100+ DSO customers and 29,000+ practices, the enterprise anchor contracts represent significant revenue concentration risk if any single flagship DSO churns or renegotiates. This is partially offset by the long tail of 28,000+ SMB practices acquired through 40+ embedded OEM channels, which are typically smaller, lower-touch contracts with diversified revenue contribution. Vertical segmentation (dental only) inherently limits addressable buyer diversification. Implication: revenue visibility from the long enterprise tail is high due to multi-year SaaS structures, but Pearl is structurally dependent on retaining and expanding within its top 5-10 DSO relationships — any material DSO loss would be a leading indicator.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Overjet is a US-based AI platform that provides FDA-cleared dental imaging AI for pathology detection and dental-insurance claims analysis, serving DSOs and insurance payers—the closest direct competitor to Pearl in dental diagnostic AI.",
+            "name": "Overjet",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002m5"
+          },
+          {
+            "description": "Curve Dental is a cloud-based dental practice management platform and a Pearl integration partner via its Developer Program—adjacent rather than competitive, but a stakeholder in the dental software ecosystem where Pearl distributes.",
+            "name": "Curve Dental",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "description": "Planmeca is a global dental imaging hardware and software OEM (Romexis platform) that in 2023 integrated Pearl's FDA-cleared AI directly into its dental imaging workflows—supplier/partner with potential to expand into broader AI offerings.",
+            "name": "Planmeca",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            },
+            "uuid": "0003qe1"
+          },
+          {
+            "description": "Patterson Dental is a major US dental distributor and technology provider (Eaglesoft, etc.) that has partnered with Pearl to advance dental AI—broad incumbent with distribution scale that enables or threatens Pearl's go-to-market depending on strategic direction.",
+            "name": "Patterson Dental",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0007tmc"
+          },
+          {
+            "description": "3Shape is a global dental technology company specializing in 3D scanning, CAD/CAM, and practice management software for dentists and labs—broad incumbent whose imaging and software ecosystem overlaps with Pearl's clinical AI distribution surface.",
+            "name": "3Shape",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005jgl"
+          },
+          {
+            "description": "Denti.AI develops AI for dental imaging analysis (charting, pathology, and voice-enabled clinical notes), targeting dental practices and software platforms with niche overlap to Pearl's diagnostic and Pearl Voice products.",
+            "name": "Denti.AI",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0005v2n"
+          },
+          {
+            "description": "Diagnocat is a dental imaging AI company offering 2D and 3D CBCT radiograph analysis and pathology detection for dentists and DSOs globally, overlapping directly with Pearl's Second Opinion and Second Opinion 3D product lines.",
+            "name": "Diagnocat",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0007ijl"
+          },
+          {
+            "description": "VideaHealth develops FDA-cleared dental imaging AI for caries and other pathology detection on dental X-rays, targeting DSOs and dental practices—directly competing with Pearl's Second Opinion capabilities.",
+            "name": "VideaHealth",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002z9"
+          },
+          {
+            "description": "Planet DDS is a cloud dental software provider (Denticon, Cloud 9, Apteryx, Legwork) serving 13,000+ practices via an open API program that includes Pearl—broader incumbent with reach Pearl leverages for distribution, but with potential to bundle competing AI.",
+            "name": "Planet DDS",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005yzu"
+          },
+          {
+            "description": "Henry Schein One is a large dental software and technology provider offering practice management, imaging, and patient-communication tools to dental practices—broad incumbent whose platforms Pearl integrates with and that could build competing AI capabilities.",
+            "name": "Henry Schein One",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0002mbt"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

@@ -1,0 +1,1518 @@
+{
+  "segment": "Dental software & dental AI (Gantrell's competitive set)",
+  "real_data": true,
+  "source": "akta.pro REST: news (SD01 launches, RC01 approvals, CM01 equity), company enrichment (funding_detail, product_offering, strategic_signal, financial_estimate, company_assessment), headcount-trends",
+  "fetched_at": "2026-10-24T18:06:57.440Z",
+  "window": {
+    "start": "2025-10-25",
+    "end": "2026-10-24"
+  },
+  "method": {
+    "tiers": "1 = new product line/market or regulatory clearance that unlocks one; 2 = major capability or distribution-expanding integration; 3 = minor feature/update (standard PMM launch tiering)",
+    "velocity": "weighted launch points per 90 days (T1=3, T2=2, T3=1)",
+    "grounding": "a classification is kept only if its evidence quote appears verbatim in the Akta title/summary",
+    "caveats": "Akta news lookback is 12 months on our plan; funding dates are month-level and trimmed to 3 rounds; pre/post-round velocity only where a round falls inside the window."
+  },
+  "segment_median_velocity": 3.7,
+  "top_tier1_launches": [
+    {
+      "company": "Pearl",
+      "id": "news:33783745",
+      "date": "2026-09-03",
+      "title": "Pearl Launches Second Opinion 3D, Bringing FDA-Cleared CBCT Imaging AI to General Dentists for the First Time",
+      "summary": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada. The product adds embedded specialist radiology-report requests and automatic conversion of CBCT findings into insurance claim-ready documentation. AI-powered pathology detection is available in Canada and pending approval in additional markets.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 33783745,
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+        "publisher": "FinancialContent Business Page"
+      },
+      "event_key": "Second Opinion 3D launch",
+      "tier": 1,
+      "evidence_quote": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada.",
+      "why_differentiated": "A new 3D product that opens the general dentist CBCT market, backed by Pearl's unique 2D and 3D FDA clearance.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 33783745,
+          "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+          "publisher": "FinancialContent Business Page"
+        }
+      ]
+    },
+    {
+      "company": "Planet DDS",
+      "id": "news:28172225",
+      "date": "2026-07-17",
+      "title": "Planet DDS Declares the Practice Management Era Over and Launches DentalOS®, the Dental Enterprise Platform for DSOs",
+      "summary": "Planet DDS launched DentalOS®, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups. The platform connects Denticon and Cloud 9 practice management systems on a single data layer, incorporating AI-powered enterprise tools including confirmation agents, clinical voice documentation, and revenue cycle management capabilities. The company, which already serves more than half of the largest 60 DSOs in North America across 14,500 practices, positions this launch as addressing the industry-wide shift from acquisition-driven growth to operational consolidation requiring enterprise-grade infrastructure.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 28172225,
+        "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+        "publisher": "Business Wire Blog"
+      },
+      "event_key": "DentalOS enterprise platform launch",
+      "tier": 1,
+      "evidence_quote": "Planet DDS launched DentalOS®, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups.",
+      "why_differentiated": "Unifies Denticon and Cloud 9 on a single data layer with AI tools, repositioning from PMS to enterprise platform and deepening switching costs for DSOs.",
+      "context_quote": "Unifying practice management, imaging, payments, patient engagement, financing (CareCredit), and AI agents on one platform",
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 28172225,
+          "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+          "publisher": "Business Wire Blog"
+        }
+      ]
+    },
+    {
+      "company": "Pearl",
+      "id": "move:5",
+      "date": "2026-05-01",
+      "title": "Product Launch: Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence a",
+      "summary": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence and AI-assisted claim preparation into the dental workflow.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "00002dz",
+        "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+      },
+      "event_key": "Pearl RCM launch",
+      "tier": 1,
+      "evidence_quote": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence",
+      "why_differentiated": "A new product line that moves Pearl into revenue cycle management, using its FDA-cleared imaging AI.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "00002dz",
+          "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25331053,
+          "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry",
+          "publisher": "Business Wire Blog"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25636032,
+          "url": "https://orthodonticproductsonline.com/practice-products/software/practice-management-software/pearl-launches-rcm-platform-for-dental-revenue-management/",
+          "publisher": "Orthodontic Products"
+        }
+      ]
+    },
+    {
+      "company": "Weave",
+      "id": "move:1",
+      "date": "2026-05-01",
+      "title": "Product Launch: Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platf",
+      "summary": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform, enabling 24/7 voice and text patient interactions with seamless staff handoff.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "0000ees",
+        "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+      },
+      "event_key": "Omnichannel AI Receptionist on Gemini",
+      "tier": 1,
+      "evidence_quote": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform",
+      "why_differentiated": "Voice+text AI receptionist drives the specialty medical expansion post-TrueLark and AI ARPU thesis.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "0000ees",
+          "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25223953,
+          "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html",
+          "publisher": "Stock Titan"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 35186073,
+          "url": "https://www.businesswire.com/news/home/20260528982874/en/Weave-Unveils-Enterprise-Grade-Omnichannel-AI-Receptionist-Built-with-Google-Clouds-Gemini-Enterprise-Agent-Platform-to-Transform-Healthcare-Front-Offices",
+          "publisher": "Business Wire Blog"
+        }
+      ]
+    },
+    {
+      "company": "Pearl",
+      "id": "news:33399738",
+      "date": "2026-04-13",
+      "title": "Pearl launches AI documentation tool",
+      "summary": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits and converts transcribed conversations into structured clinical notes, including SOAP notes and periodontal charts. The software includes over 30 procedure-specific templates and a voice dictation mode for perio charting.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 33399738,
+        "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+        "publisher": "DrBicuspid.com"
+      },
+      "event_key": "Pearl Voice launch",
+      "tier": 1,
+      "evidence_quote": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits",
+      "why_differentiated": "A new product line for documentation that can be cross-sold into Pearl's installed base and sits outside radiology.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 33399738,
+          "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+          "publisher": "DrBicuspid.com"
+        }
+      ]
+    },
+    {
+      "company": "Videa",
+      "id": "move:3",
+      "date": "2026-04-01",
+      "title": "Expansion: Rebranded from VideaHealth to Videa and expanded the platform from DSO-only to independent",
+      "summary": "Rebranded from VideaHealth to Videa and expanded the platform from DSO-only to independent private dental practices, materially expanding the addressable customer base.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "00002z9",
+        "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+      },
+      "event_key": "Rebrand and independent practice expansion",
+      "tier": 1,
+      "evidence_quote": "expanded the platform from DSO-only to independent private dental practices",
+      "why_differentiated": "Opens a new customer segment, independent practices, beyond enterprise DSOs, supported by the Henry Schein One embedded distribution.",
+      "context_quote": "As the April 2026 rebrand opens the independent-practice segment",
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "00002z9",
+          "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 22970396,
+          "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/",
+          "publisher": "Aijourn"
+        }
+      ]
+    },
+    {
+      "company": "Planet DDS",
+      "id": "move:3",
+      "date": "2026-02-01",
+      "title": "Product Launch: Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonom",
+      "summary": "Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonomous AI workers writing outcomes back to Denticon in real time, opening a usage-based revenue stream and operational automation wedge against front-desk labor shortages.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "0005yzu",
+        "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+      },
+      "event_key": "DentalOS AI Agents launch",
+      "tier": 1,
+      "evidence_quote": "Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonomous AI workers writing outcomes back to Denticon in real time",
+      "why_differentiated": "Usage-based autonomous agents writing back into the PMS open a new revenue line, leveraging the integrated platform and data base that point-solution rivals lack.",
+      "context_quote": "AI agents unlock large usage-based revenue expansion per customer",
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "0005yzu",
+          "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 21812087,
+          "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations",
+          "publisher": "Business Wire Blog"
+        }
+      ]
+    },
+    {
+      "company": "Videa",
+      "id": "move:4",
+      "date": "2026-01-01",
+      "title": "Product Launch: Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to",
+      "summary": "Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to 350+ payers, expanding the platform from diagnostics into the full revenue cycle workflow.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "00002z9",
+        "url": "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+      },
+      "event_key": "AutoVerify launch",
+      "tier": 1,
+      "evidence_quote": "Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to 350+ payers",
+      "why_differentiated": "A new RCM product line that expands the platform from diagnostics into eligibility verification with broad payer coverage.",
+      "context_quote": "eligibility verification (95%+ payer coverage)",
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "00002z9",
+          "url": "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+        }
+      ]
+    },
+    {
+      "company": "Pearl",
+      "id": "news:22087348",
+      "date": "2025-12-18",
+      "title": "Pearl Expands Dental AI Capabilities with FDA Clearance for Panoramic X-Rays",
+      "summary": "Pearl, a dental AI company, announced FDA 510(k) clearance for its Second Opinion platform to detect dental pathologies on panoramic radiographs, expanding its radiologic AI technology to this widely used extraoral imaging modality. The clearance is supported by clinical validation studies demonstrating improved detection of caries, periapical radiolucencies, and impacted third molars across diverse patient subgroups. Pearl positions this as a major advancement making panoramic x-ray interpretation more reliable, with the technology now available to U.S. and international users.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 22087348,
+        "url": "https://www.businesswire.com/news/home/20251218983939/en/Pearl-Expands-Dental-AI-Capabilities-with-FDA-Clearance-for-Panoramic-X-Rays",
+        "publisher": "Business Wire Blog"
+      },
+      "event_key": "Panoramic X-ray FDA clearance",
+      "tier": 1,
+      "evidence_quote": "announced FDA 510(k) clearance for its Second Opinion platform to detect dental pathologies on panoramic radiographs",
+      "why_differentiated": "A new imaging modality clearance that widens Pearl's 2D and 3D FDA lead, which competitors would need years to replicate.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 22087348,
+          "url": "https://www.businesswire.com/news/home/20251218983939/en/Pearl-Expands-Dental-AI-Capabilities-with-FDA-Clearance-for-Panoramic-X-Rays",
+          "publisher": "Business Wire Blog"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 21446130,
+          "url": "https://compendiumlive.com/news/?newsID=104373",
+          "publisher": "Compendiumlive"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 18292163,
+          "url": "https://www.mpo-mag.com/breaking-news/fda-clears-pearls-platform-for-ai-assisted-pathology-detection-on-panoramic-radiographs/",
+          "publisher": "Mpo-mag"
+        }
+      ]
+    },
+    {
+      "company": "Overjet",
+      "id": "news:21445932",
+      "date": "2025-12-16",
+      "title": "Overjet Announces New FDA Clearance for CBCT 3D Imaging",
+      "summary": "Overjet, a dental AI company based in San Mateo, California, has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, the company's 10th FDA clearance to date. The new AI-powered tool enables dental professionals to review and interpret 3D cone beam computed tomography images by automatically identifying, labeling, segmenting, and quantifying anatomical structures. Overjet is offering early access to CBCT Assist for clinics based in the United States.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 21445932,
+        "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging",
+        "publisher": "Overjet"
+      },
+      "event_key": "CBCT Assist FDA clearance",
+      "tier": 1,
+      "evidence_quote": "has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, the company's 10th FDA clearance to date",
+      "why_differentiated": "Clearance extends Overjet from 2D to 3D CBCT imaging, opening implant and surgical planning, and adds to its regulatory moat.",
+      "context_quote": "CBCT Assist received FDA 510(k) clearance in December 2025 — Overjet's 10th FDA clearance",
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 21445932,
+          "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging",
+          "publisher": "Overjet"
+        },
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "00002m5",
+          "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 17514310,
+          "url": "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/",
+          "publisher": "Orthodontic Products"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 21446326,
+          "url": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15774427/overjet-gets-fda-nod-for-cbct-assist",
+          "publisher": "DrBicuspid.com"
+        }
+      ]
+    },
+    {
+      "company": "Videa",
+      "id": "news:17235050",
+      "date": "2025-12-10",
+      "title": "VideaHealth Launches ClaimsAI to Eliminate Dental RCM Waste and Claim Denials",
+      "summary": "VideaHealth launched ClaimsAI, an AI-driven revenue cycle management solution designed to help dental organizations reduce claim denials and recover lost revenue. The platform automates the assembly of clinical attachments and narratives, addressing an estimated $15 billion in annual losses across the U.S. dental industry. Early user results indicate up to 90% faster claim submissions and significant reduction in accounts receivable backlogs. ",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 17235050,
+        "url": "https://www.videa.ai/news/videahealth-launches-claimsai-to-tackle-15-billion-in-dental-rcm-waste",
+        "publisher": "Videa"
+      },
+      "event_key": "ClaimsAI launch",
+      "tier": 1,
+      "evidence_quote": "VideaHealth launched ClaimsAI, an AI-driven revenue cycle management solution",
+      "why_differentiated": "Extends Videa from clinical AI into the roughly $15B dental RCM market, opening a new product line and wallet share.",
+      "context_quote": "addressing roughly $15B in dental RCM waste per company commentary",
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 17235050,
+          "url": "https://www.videa.ai/news/videahealth-launches-claimsai-to-tackle-15-billion-in-dental-rcm-waste",
+          "publisher": "Videa"
+        }
+      ]
+    },
+    {
+      "company": "Videa",
+      "id": "news:22394030",
+      "date": "2025-10-29",
+      "title": "VideaHealth Launches Voice Notes, the First Ambient AI Scribe Purpose-Built for Dentistry",
+      "summary": "VideaHealth, a Boston-based dental AI platform, announced the launch of Voice Notes, the first AI-powered ambient scribe designed specifically for dentistry that converts chairside conversations into clinical notes without disrupting workflow. The solution delivers measurable outcomes including over 10 hours of time saved per provider weekly, up to $117,000 in additional annual revenue per dentist, and 95% complete clinical notes on first pass. Voice Notes is HIPAA-compliant, marks VideaHealth's entry into ambient AI, and is available immediately as a standalone solution or integrated with VideaAI Clinical Assist.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 22394030,
+        "url": "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry",
+        "publisher": "Business Wire Blog"
+      },
+      "event_key": "Voice Notes launch",
+      "tier": 1,
+      "evidence_quote": "the first AI-powered ambient scribe designed specifically for dentistry",
+      "why_differentiated": "Marks Videa's entry into ambient AI as a new product line beyond X-ray diagnostics, extending the platform's multi-product account strategy.",
+      "context_quote": "Voice Notes, Voice Perio, Daily Dashboard, Insights, Clean Claims, AutoVerify, ClaimsAI, and the new Ambient Intelligence category",
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 22394030,
+          "url": "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry",
+          "publisher": "Business Wire Blog"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 17498838,
+          "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15770692/videahealth-launches-voice-notes",
+          "publisher": "DrBicuspid.com"
+        }
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "name": "Overjet",
+      "akta_id": "00002m5",
+      "category": "Dental AI",
+      "stage": "Series C",
+      "total_funding_usd": 155900000,
+      "last_funding": "2025-12-01",
+      "revenue_estimate": {
+        "code": "25m_50m",
+        "label": "$25M-$50M"
+      },
+      "valuation_estimate": {
+        "code": "1b_5b",
+        "label": "$1B-$5B"
+      },
+      "headcount": 363,
+      "headcount_growth_12m_pct": 23,
+      "candidates": 12,
+      "rejected_as_not_launch": 4,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 1,
+        "2": 3,
+        "3": 1
+      },
+      "velocity_pts_per_90d": 2.5,
+      "velocity_per_100_employees": 0.69,
+      "funding_window": {
+        "round": "Series Unknown",
+        "date": "2025-12-15",
+        "pre": 3.5,
+        "post": 2.3
+      },
+      "launches": [
+        {
+          "id": "move:4",
+          "date": "2025-12-02",
+          "title": "Acquisition: Acquired DentalBee for an undisclosed amount, expanding the platform's footprint beyond im",
+          "summary": "Acquired DentalBee for an undisclosed amount, expanding the platform's footprint beyond imaging and documentation into adjacent dental software workflows.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002m5",
+            "url": "https://www.overjet.com/"
+          },
+          "event_key": "DentalBee acquisition",
+          "tier": 2,
+          "evidence_quote": "Acquired DentalBee for an undisclosed amount, expanding the platform's footprint beyond imaging and documentation into adjacent dental software workflows.",
+          "why_differentiated": "Acquisition extends Overjet into adjacent workflows, consistent with its M&A roll-up strategy alongside American Dental Examiners, though details are undisclosed.",
+          "context_quote": "The acquired American Dental Examiners (June 2021) and DentalBee (December 2025) also signal an M&A roll-up strategy",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002m5",
+              "url": "https://www.overjet.com/"
+            }
+          ]
+        },
+        {
+          "id": "news:21445932",
+          "date": "2025-12-16",
+          "title": "Overjet Announces New FDA Clearance for CBCT 3D Imaging",
+          "summary": "Overjet, a dental AI company based in San Mateo, California, has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, the company's 10th FDA clearance to date. The new AI-powered tool enables dental professionals to review and interpret 3D cone beam computed tomography images by automatically identifying, labeling, segmenting, and quantifying anatomical structures. Overjet is offering early access to CBCT Assist for clinics based in the United States.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 21445932,
+            "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging",
+            "publisher": "Overjet"
+          },
+          "event_key": "CBCT Assist FDA clearance",
+          "tier": 1,
+          "evidence_quote": "has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, the company's 10th FDA clearance to date",
+          "why_differentiated": "Clearance extends Overjet from 2D to 3D CBCT imaging, opening implant and surgical planning, and adds to its regulatory moat.",
+          "context_quote": "CBCT Assist received FDA 510(k) clearance in December 2025 — Overjet's 10th FDA clearance",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21445932,
+              "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging",
+              "publisher": "Overjet"
+            },
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002m5",
+              "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 17514310,
+              "url": "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/",
+              "publisher": "Orthodontic Products"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21446326,
+              "url": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15774427/overjet-gets-fda-nod-for-cbct-assist",
+              "publisher": "DrBicuspid.com"
+            }
+          ]
+        },
+        {
+          "id": "move:5",
+          "date": "2026-01-29",
+          "title": "Partnership: Partnered with Spear Education to integrate Overjet's AI-assisted diagnostic tools into de",
+          "summary": "Partnered with Spear Education to integrate Overjet's AI-assisted diagnostic tools into dental school curricula and continuing education, opening the dental educator customer segment.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002m5",
+            "url": "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/"
+          },
+          "event_key": "Spear Education partnership",
+          "tier": 2,
+          "evidence_quote": "opening the dental educator customer segment",
+          "why_differentiated": "Embeds Overjet AI in dental curricula and continuing education, opening an educator segment and building ecosystem lock-in.",
+          "context_quote": "This network, combined with the Spear Education curriculum partnership, is converting the product from point solution into industry infrastructure.",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002m5",
+              "url": "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/"
+            }
+          ]
+        },
+        {
+          "id": "move:0",
+          "date": "2026-06-15",
+          "title": "Expansion: Expanded the Dental Care Alliance partnership so that DCA became the first DSO to deploy O",
+          "summary": "Expanded the Dental Care Alliance partnership so that DCA became the first DSO to deploy Overjet AI (Voice, IRIS, AI Revenue Cycle Management, and Vision) across all 400+ affiliated practices in 24 states, covering the entire patient journey.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002m5",
+            "url": "https://www.overjet.com/dca"
+          },
+          "event_key": "DCA full patient-journey rollout",
+          "tier": 2,
+          "evidence_quote": "DCA became the first DSO to deploy Overjet AI (Voice, IRIS, AI Revenue Cycle Management, and Vision) across all 400+ affiliated practices in 24 states",
+          "why_differentiated": "This is the third phase of a land-and-expand relationship, and it is the first full-stack enterprise deployment across a 400+ practice DSO. It is a template for replicating the model.",
+          "context_quote": "The Dental Care Alliance relationship began in 2022 and has expanded through three documented phases",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002m5",
+              "url": "https://www.overjet.com/dca"
+            }
+          ]
+        },
+        {
+          "id": "news:33399731",
+          "date": "2026-08-20",
+          "title": "Overjet adds hands-free hard-tissue and natural voice perio charting",
+          "summary": "Overjet launched hands-free hard-tissue and natural voice periodontal charting in Overjet Voice, letting providers complete exams via natural speech. The natural perio feature uses a model trained on over 50 million tokens with 98% accuracy, and both features are available now to all Voice subscribers at no extra cost.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 33399731,
+            "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15832604/overjet-adds-handsfree-hardtissue-and-natural-voice-perio-charting",
+            "publisher": "DrBicuspid.com"
+          },
+          "event_key": "Voice hands-free perio charting",
+          "tier": 3,
+          "evidence_quote": "Overjet launched hands-free hard-tissue and natural voice periodontal charting in Overjet Voice",
+          "why_differentiated": "Incremental features added to Overjet Voice at no extra cost. They deepen the voice product that drives per-dentist TAM expansion, but they are not a new line.",
+          "context_quote": "Overjet Voice claims ~5+ hours saved per provider per week",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 33399731,
+              "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15832604/overjet-adds-handsfree-hardtissue-and-natural-voice-perio-charting",
+              "publisher": "DrBicuspid.com"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 0.68
+    },
+    {
+      "name": "Pearl",
+      "akta_id": "00002dz",
+      "category": "Dental AI",
+      "stage": "Series B",
+      "total_funding_usd": 69000000,
+      "last_funding": "2024-07-01",
+      "revenue_estimate": {
+        "code": "50m_100m",
+        "label": "$50M-$100M"
+      },
+      "valuation_estimate": {
+        "code": "250m_500m",
+        "label": "$250M-$500M"
+      },
+      "headcount": 286,
+      "headcount_growth_12m_pct": 17,
+      "candidates": 29,
+      "rejected_as_not_launch": 17,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 4,
+        "2": 2,
+        "3": 1
+      },
+      "velocity_pts_per_90d": 4.2,
+      "velocity_per_100_employees": 1.47,
+      "funding_window": null,
+      "launches": [
+        {
+          "id": "news:15667676",
+          "date": "2025-11-18",
+          "title": "Pearl adds pediatric capabilities to AI platform",
+          "summary": "Pearl, a dental artificial intelligence company, has launched new pediatric capabilities for its AI platform, enhancing communication among dentists, parents, and children. This development follows the FDA's recent decision to restrict the use of ingestible fluoride products for children, marking an important change in pediatric dentistry. The new platform aims to address critical needs in this sector. ",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 15667676,
+            "url": "https://www.beckersdental.com/ai-teledentistry/pearl-adds-pediatric-capabilities-to-ai-platform/",
+            "publisher": "Beckersdental"
+          },
+          "event_key": "Second Opinion for Kids launch",
+          "tier": 2,
+          "evidence_quote": "Pearl, a dental artificial intelligence company, has launched new pediatric capabilities for its AI platform",
+          "why_differentiated": "It extends the Second Opinion product to a pediatric use case, building on Pearl's cleared radiologic AI base.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 15667676,
+              "url": "https://www.beckersdental.com/ai-teledentistry/pearl-adds-pediatric-capabilities-to-ai-platform/",
+              "publisher": "Beckersdental"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 17719485,
+              "url": "https://www.businesswire.com/news/home/20251118786646/en/Pearl-Expands-Pediatric-Capabilities-with-Second-Opinion-for-Kids",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:22087348",
+          "date": "2025-12-18",
+          "title": "Pearl Expands Dental AI Capabilities with FDA Clearance for Panoramic X-Rays",
+          "summary": "Pearl, a dental AI company, announced FDA 510(k) clearance for its Second Opinion platform to detect dental pathologies on panoramic radiographs, expanding its radiologic AI technology to this widely used extraoral imaging modality. The clearance is supported by clinical validation studies demonstrating improved detection of caries, periapical radiolucencies, and impacted third molars across diverse patient subgroups. Pearl positions this as a major advancement making panoramic x-ray interpretation more reliable, with the technology now available to U.S. and international users.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 22087348,
+            "url": "https://www.businesswire.com/news/home/20251218983939/en/Pearl-Expands-Dental-AI-Capabilities-with-FDA-Clearance-for-Panoramic-X-Rays",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "Panoramic X-ray FDA clearance",
+          "tier": 1,
+          "evidence_quote": "announced FDA 510(k) clearance for its Second Opinion platform to detect dental pathologies on panoramic radiographs",
+          "why_differentiated": "A new imaging modality clearance that widens Pearl's 2D and 3D FDA lead, which competitors would need years to replicate.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 22087348,
+              "url": "https://www.businesswire.com/news/home/20251218983939/en/Pearl-Expands-Dental-AI-Capabilities-with-FDA-Clearance-for-Panoramic-X-Rays",
+              "publisher": "Business Wire Blog"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21446130,
+              "url": "https://compendiumlive.com/news/?newsID=104373",
+              "publisher": "Compendiumlive"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 18292163,
+              "url": "https://www.mpo-mag.com/breaking-news/fda-clears-pearls-platform-for-ai-assisted-pathology-detection-on-panoramic-radiographs/",
+              "publisher": "Mpo-mag"
+            }
+          ]
+        },
+        {
+          "id": "news:33399738",
+          "date": "2026-04-13",
+          "title": "Pearl launches AI documentation tool",
+          "summary": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits and converts transcribed conversations into structured clinical notes, including SOAP notes and periodontal charts. The software includes over 30 procedure-specific templates and a voice dictation mode for perio charting.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 33399738,
+            "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+            "publisher": "DrBicuspid.com"
+          },
+          "event_key": "Pearl Voice launch",
+          "tier": 1,
+          "evidence_quote": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits",
+          "why_differentiated": "A new product line for documentation that can be cross-sold into Pearl's installed base and sits outside radiology.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 33399738,
+              "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+              "publisher": "DrBicuspid.com"
+            }
+          ]
+        },
+        {
+          "id": "news:31722652",
+          "date": "2026-04-30",
+          "title": "Pearl Brings Dental AI Natively into Dentrix Ascend",
+          "summary": "Pearl announced a native integration of its dental AI diagnostic solutions directly into Henry Schein One’s Dentrix Ascend cloud-based platform. This partnership allows clinicians to receive real-time pathology findings within the existing workflow, eliminating the need for separate logins or manual data export. The feature is scheduled to become available to all Dentrix Ascend users in the coming weeks. ",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 31722652,
+            "url": "https://www.businesswire.com/news/home/20260430573889/en/Pearl-Brings-Dental-AI-Natively-into-Dentrix-Ascend",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "Dentrix Ascend native integration",
+          "tier": 2,
+          "evidence_quote": "Pearl announced a native integration of its dental AI diagnostic solutions directly into Henry Schein One’s Dentrix Ascend cloud-based platform.",
+          "why_differentiated": "A native integration with a major practice management platform that widens distribution and deepens ecosystem lock-in.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 31722652,
+              "url": "https://www.businesswire.com/news/home/20260430573889/en/Pearl-Brings-Dental-AI-Natively-into-Dentrix-Ascend",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "move:5",
+          "date": "2026-05-01",
+          "title": "Product Launch: Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence a",
+          "summary": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence and AI-assisted claim preparation into the dental workflow.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002dz",
+            "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+          },
+          "event_key": "Pearl RCM launch",
+          "tier": 1,
+          "evidence_quote": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence",
+          "why_differentiated": "A new product line that moves Pearl into revenue cycle management, using its FDA-cleared imaging AI.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002dz",
+              "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 25331053,
+              "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry",
+              "publisher": "Business Wire Blog"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 25636032,
+              "url": "https://orthodonticproductsonline.com/practice-products/software/practice-management-software/pearl-launches-rcm-platform-for-dental-revenue-management/",
+              "publisher": "Orthodontic Products"
+            }
+          ]
+        },
+        {
+          "id": "news:26198859",
+          "date": "2026-06-18",
+          "title": "Pearl and ClearDent Partner to Expand Access to Dental AI Disease Detection in Canada",
+          "summary": "Pearl, a dental AI company, and ClearDent, a Canadian dental software provider, have announced a partnership to integrate Pearl's Second Opinion® AI disease detection software into ClearDent's practice management platform for distribution to Canadian dental practices. The API-based integration will allow Canadian dentists to access AI-assisted detection of conditions including caries, calculus, and periapical radiolucency within their existing clinical workflows. Pearl's Second Opinion® has regulatory clearance in Canada, the USA, Australia, New Zealand, and Europe.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 26198859,
+            "url": "https://www.businesswire.com/news/home/20260618684353/en/Pearl-and-ClearDent-Partner-to-Expand-Access-to-Dental-AI-Disease-Detection-in-Canada",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "ClearDent Canada integration",
+          "tier": 3,
+          "evidence_quote": "integrate Pearl's Second Opinion® AI disease detection software into ClearDent's practice management platform",
+          "why_differentiated": "An API-based integration with a regional Canadian PMS that adds incremental distribution, in line with Pearl's 40+ integrations.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 26198859,
+              "url": "https://www.businesswire.com/news/home/20260618684353/en/Pearl-and-ClearDent-Partner-to-Expand-Access-to-Dental-AI-Disease-Detection-in-Canada",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:33783745",
+          "date": "2026-09-03",
+          "title": "Pearl Launches Second Opinion 3D, Bringing FDA-Cleared CBCT Imaging AI to General Dentists for the First Time",
+          "summary": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada. The product adds embedded specialist radiology-report requests and automatic conversion of CBCT findings into insurance claim-ready documentation. AI-powered pathology detection is available in Canada and pending approval in additional markets.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 33783745,
+            "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+            "publisher": "FinancialContent Business Page"
+          },
+          "event_key": "Second Opinion 3D launch",
+          "tier": 1,
+          "evidence_quote": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada.",
+          "why_differentiated": "A new 3D product that opens the general dentist CBCT market, backed by Pearl's unique 2D and 3D FDA clearance.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 33783745,
+              "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+              "publisher": "FinancialContent Business Page"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 1.14
+    },
+    {
+      "name": "Videa",
+      "akta_id": "00002z9",
+      "category": "Dental AI",
+      "stage": "Series B",
+      "total_funding_usd": 66500000,
+      "last_funding": "2025-01-01",
+      "revenue_estimate": {
+        "code": "25m_50m",
+        "label": "$25M-$50M"
+      },
+      "valuation_estimate": {
+        "code": "250m_500m",
+        "label": "$250M-$500M"
+      },
+      "headcount": 184,
+      "headcount_growth_12m_pct": 29,
+      "candidates": 14,
+      "rejected_as_not_launch": 6,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 4,
+        "2": 2,
+        "3": 0
+      },
+      "velocity_pts_per_90d": 4,
+      "velocity_per_100_employees": 2.17,
+      "funding_window": null,
+      "launches": [
+        {
+          "id": "news:22394030",
+          "date": "2025-10-29",
+          "title": "VideaHealth Launches Voice Notes, the First Ambient AI Scribe Purpose-Built for Dentistry",
+          "summary": "VideaHealth, a Boston-based dental AI platform, announced the launch of Voice Notes, the first AI-powered ambient scribe designed specifically for dentistry that converts chairside conversations into clinical notes without disrupting workflow. The solution delivers measurable outcomes including over 10 hours of time saved per provider weekly, up to $117,000 in additional annual revenue per dentist, and 95% complete clinical notes on first pass. Voice Notes is HIPAA-compliant, marks VideaHealth's entry into ambient AI, and is available immediately as a standalone solution or integrated with VideaAI Clinical Assist.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 22394030,
+            "url": "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "Voice Notes launch",
+          "tier": 1,
+          "evidence_quote": "the first AI-powered ambient scribe designed specifically for dentistry",
+          "why_differentiated": "Marks Videa's entry into ambient AI as a new product line beyond X-ray diagnostics, extending the platform's multi-product account strategy.",
+          "context_quote": "Voice Notes, Voice Perio, Daily Dashboard, Insights, Clean Claims, AutoVerify, ClaimsAI, and the new Ambient Intelligence category",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 22394030,
+              "url": "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry",
+              "publisher": "Business Wire Blog"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 17498838,
+              "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15770692/videahealth-launches-voice-notes",
+              "publisher": "DrBicuspid.com"
+            }
+          ]
+        },
+        {
+          "id": "move:1",
+          "date": "2025-11-01",
+          "title": "Partnership: Established strategic integration partnership with Henry Schein One embedding Videa AI ins",
+          "summary": "Established strategic integration partnership with Henry Schein One embedding Videa AI inside Dentrix and Dentrix Ascend, enabling one-click AI activation across the dominant North American PMS installed base.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002z9",
+            "url": "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+          },
+          "event_key": "Henry Schein One Dentrix embedded partnership",
+          "tier": 2,
+          "evidence_quote": "enabling one-click AI activation across the dominant North American PMS installed base",
+          "why_differentiated": "Embedding in Dentrix and Dentrix Ascend gives Videa distribution across the largest PMS installed base, a core distribution moat.",
+          "context_quote": "Embedded inside Henry Schein One's Dentrix and Dentrix Ascend platforms",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002z9",
+              "url": "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            }
+          ]
+        },
+        {
+          "id": "news:17235050",
+          "date": "2025-12-10",
+          "title": "VideaHealth Launches ClaimsAI to Eliminate Dental RCM Waste and Claim Denials",
+          "summary": "VideaHealth launched ClaimsAI, an AI-driven revenue cycle management solution designed to help dental organizations reduce claim denials and recover lost revenue. The platform automates the assembly of clinical attachments and narratives, addressing an estimated $15 billion in annual losses across the U.S. dental industry. Early user results indicate up to 90% faster claim submissions and significant reduction in accounts receivable backlogs. ",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 17235050,
+            "url": "https://www.videa.ai/news/videahealth-launches-claimsai-to-tackle-15-billion-in-dental-rcm-waste",
+            "publisher": "Videa"
+          },
+          "event_key": "ClaimsAI launch",
+          "tier": 1,
+          "evidence_quote": "VideaHealth launched ClaimsAI, an AI-driven revenue cycle management solution",
+          "why_differentiated": "Extends Videa from clinical AI into the roughly $15B dental RCM market, opening a new product line and wallet share.",
+          "context_quote": "addressing roughly $15B in dental RCM waste per company commentary",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 17235050,
+              "url": "https://www.videa.ai/news/videahealth-launches-claimsai-to-tackle-15-billion-in-dental-rcm-waste",
+              "publisher": "Videa"
+            }
+          ]
+        },
+        {
+          "id": "move:4",
+          "date": "2026-01-01",
+          "title": "Product Launch: Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to",
+          "summary": "Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to 350+ payers, expanding the platform from diagnostics into the full revenue cycle workflow.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002z9",
+            "url": "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+          },
+          "event_key": "AutoVerify launch",
+          "tier": 1,
+          "evidence_quote": "Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to 350+ payers",
+          "why_differentiated": "A new RCM product line that expands the platform from diagnostics into eligibility verification with broad payer coverage.",
+          "context_quote": "eligibility verification (95%+ payer coverage)",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002z9",
+              "url": "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+            }
+          ]
+        },
+        {
+          "id": "move:3",
+          "date": "2026-04-01",
+          "title": "Expansion: Rebranded from VideaHealth to Videa and expanded the platform from DSO-only to independent",
+          "summary": "Rebranded from VideaHealth to Videa and expanded the platform from DSO-only to independent private dental practices, materially expanding the addressable customer base.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "00002z9",
+            "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+          },
+          "event_key": "Rebrand and independent practice expansion",
+          "tier": 1,
+          "evidence_quote": "expanded the platform from DSO-only to independent private dental practices",
+          "why_differentiated": "Opens a new customer segment, independent practices, beyond enterprise DSOs, supported by the Henry Schein One embedded distribution.",
+          "context_quote": "As the April 2026 rebrand opens the independent-practice segment",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "00002z9",
+              "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 22970396,
+              "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/",
+              "publisher": "Aijourn"
+            }
+          ]
+        },
+        {
+          "id": "news:35184114",
+          "date": "2026-05-12",
+          "title": "Videa Launches Ambient Intelligence, Extending Voice AI from Documentation to Practice Insights",
+          "summary": "Videa launched Ambient Intelligence, a conversational intelligence platform for dental practices to learn from patient-provider exchanges. The platform is live for select Voice Notes customers, with a waitlist opening May 12 and broader availability planned by end of 2026.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 35184114,
+            "url": "https://www.businesswire.com/news/home/20260512805114/en/Videa-Launches-Ambient-Intelligence-Extending-Voice-AI-from-Documentation-to-Practice-Insights",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "Ambient Intelligence launch",
+          "tier": 2,
+          "evidence_quote": "Videa launched Ambient Intelligence, a conversational intelligence platform for dental practices",
+          "why_differentiated": "Extends voice AI from documentation into practice insights, creating a new Ambient Intelligence category, though availability is limited for now.",
+          "context_quote": "the new Ambient Intelligence category",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 35184114,
+              "url": "https://www.businesswire.com/news/home/20260512805114/en/Videa-Launches-Ambient-Intelligence-Extending-Voice-AI-from-Documentation-to-Practice-Insights",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 1.08
+    },
+    {
+      "name": "CareStack",
+      "akta_id": "0000gqh",
+      "category": "Practice management",
+      "stage": "Series B",
+      "total_funding_usd": 74100000,
+      "last_funding": "2022-07-01",
+      "revenue_estimate": {
+        "code": "50m_100m",
+        "label": "$50M-$100M"
+      },
+      "valuation_estimate": {
+        "code": "250m_500m",
+        "label": "$250M-$500M"
+      },
+      "headcount": 766,
+      "headcount_growth_12m_pct": -10,
+      "candidates": 3,
+      "rejected_as_not_launch": 1,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 0,
+        "2": 0,
+        "3": 1
+      },
+      "velocity_pts_per_90d": 0.2,
+      "velocity_per_100_employees": 0.03,
+      "funding_window": null,
+      "launches": [
+        {
+          "id": "news:26487715",
+          "date": "2026-06-23",
+          "title": "CareStack and Alphaeon Patient Financing Announce New Integration to Help Practices Increase Case Acceptance, Improve Patient Access, and Accelerate Growth",
+          "summary": "CareStack and Alphaeon Patient Financing announced a new integration that embeds patient financing options directly within CareStack's cloud-based dental practice management platform. The integration aims to address rising patient financial responsibility as a barrier to treatment by enabling practices to present flexible payment options within their existing workflows. This partnership is designed to improve case acceptance rates, reduce administrative burden on staff, and support practice growth by making financing more accessible at the point of care.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 26487715,
+            "url": "https://aijourn.com/carestack-and-alphaeon-patient-financing-announce-new-integration-to-help-practices-increase-case-acceptance-improve-patient-access-and-accelerate-growth/",
+            "publisher": "Aijourn"
+          },
+          "event_key": "Alphaeon Patient Financing integration",
+          "tier": 3,
+          "evidence_quote": "a new integration that embeds patient financing options directly within CareStack's cloud-based dental practice management platform",
+          "why_differentiated": "Embedded patient financing is an incremental third-party integration. Many PMS peers already offer similar financing partners, and CareStack's native modules such as CS Pay are more differentiated.",
+          "context_quote": "Ecosystem Lock In: CareStack's seven-module Enhanced Growth Solutions suite",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 26487715,
+              "url": "https://aijourn.com/carestack-and-alphaeon-patient-financing-announce-new-integration-to-help-practices-increase-case-acceptance-improve-patient-access-and-accelerate-growth/",
+              "publisher": "Aijourn"
+            },
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0000gqh",
+              "url": "https://aijourn.com/carestack-and-alphaeon-patient-financing-announce-new-integration-to-help-practices-increase-case-acceptance-improve-patient-access-and-accelerate-growth/"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 0.05
+    },
+    {
+      "name": "Planet DDS",
+      "akta_id": "0005yzu",
+      "category": "Practice management",
+      "stage": "Private Equity",
+      "total_funding_usd": 200000,
+      "last_funding": "2022-06-01",
+      "revenue_estimate": {
+        "code": "100m_250m",
+        "label": "$100M-$250M"
+      },
+      "valuation_estimate": {
+        "code": "1b_5b",
+        "label": "$1B-$5B"
+      },
+      "headcount": 440,
+      "headcount_growth_12m_pct": 13,
+      "candidates": 12,
+      "rejected_as_not_launch": 4,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 2,
+        "2": 3,
+        "3": 1
+      },
+      "velocity_pts_per_90d": 3.2,
+      "velocity_per_100_employees": 0.73,
+      "funding_window": null,
+      "launches": [
+        {
+          "id": "news:22169443",
+          "date": "2025-11-18",
+          "title": "Planet DDS Unveils AutoEligibility, Bringing Real-Time Eligibility Data Directly into Denticon",
+          "summary": "Planet DDS launched AutoEligibility, a native integration with DentalXChange that automates insurance eligibility checks within Denticon, a cloud practice management platform, improving efficiency for dental practices. The tool helps reduce verification time from hours to minutes, prevents claim denials, and enhances revenue cycle management across multiple locations. ",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 22169443,
+            "url": "https://www.businesswire.com/news/home/20251118656411/en/Planet-DDS-Unveils-AutoEligibility-Bringing-Real-Time-Eligibility-Data-Directly-into-Denticon",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "AutoEligibility DentalXChange integration",
+          "tier": 3,
+          "evidence_quote": "Planet DDS launched AutoEligibility, a native integration with DentalXChange that automates insurance eligibility checks within Denticon",
+          "why_differentiated": "Incremental RCM integration with a third-party clearinghouse inside Denticon; useful but similar eligibility tools exist across peers, though it fits the 25+ integration ecosystem.",
+          "context_quote": "25+ third-party PMS/system integrations",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 22169443,
+              "url": "https://www.businesswire.com/news/home/20251118656411/en/Planet-DDS-Unveils-AutoEligibility-Bringing-Real-Time-Eligibility-Data-Directly-into-Denticon",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "move:3",
+          "date": "2026-02-01",
+          "title": "Product Launch: Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonom",
+          "summary": "Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonomous AI workers writing outcomes back to Denticon in real time, opening a usage-based revenue stream and operational automation wedge against front-desk labor shortages.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "0005yzu",
+            "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+          },
+          "event_key": "DentalOS AI Agents launch",
+          "tier": 1,
+          "evidence_quote": "Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonomous AI workers writing outcomes back to Denticon in real time",
+          "why_differentiated": "Usage-based autonomous agents writing back into the PMS open a new revenue line, leveraging the integrated platform and data base that point-solution rivals lack.",
+          "context_quote": "AI agents unlock large usage-based revenue expansion per customer",
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0005yzu",
+              "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21812087,
+              "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:21864150",
+          "date": "2026-02-03",
+          "title": "Planet DDS Introduces AI Voice Perio to Bring Consistent, Scalable Perio Charting to DSOs",
+          "summary": "Planet DDS announced the launch of AI Voice Perio, the first voice-powered periodontal charting system built directly into its Denticon practice management software, designed specifically for dental support organizations (DSOs) and multi-location dental groups. The system enables hygienists to capture periodontal measurements using voice commands in real-time during exams, eliminating manual data entry and ensuring consistent, standardized clinical data across all locations as organizations scale. The product is now available to Denticon customers, with Planet DDS planning to expand its AI-powered clinical capabilities throughout 2026.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 21864150,
+            "url": "https://www.businesswire.com/news/home/20260203004684/en/Planet-DDS-Introduces-AI-Voice-Perio-to-Bring-Consistent-Scalable-Perio-Charting-to-DSOs",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "AI Voice Perio launch",
+          "tier": 2,
+          "evidence_quote": "the first voice-powered periodontal charting system built directly into its Denticon practice management software",
+          "why_differentiated": "Native voice perio charting built for DSO standardization extends AI into clinical workflows, a capability beyond the front-desk agents and a step toward clinical AI expansion.",
+          "context_quote": "expand into clinical coordination and RCM",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21864150,
+              "url": "https://www.businesswire.com/news/home/20260203004684/en/Planet-DDS-Introduces-AI-Voice-Perio-to-Bring-Consistent-Scalable-Perio-Charting-to-DSOs",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:19510347",
+          "date": "2026-02-18",
+          "title": "Synchrony and Planet DDS Expand Strategic Partnership to Integrate CareCredit Across Leading Dental Practice Management Platforms",
+          "summary": "Synchrony has expanded its strategic partnership with Planet DDS to make CareCredit the preferred patient financing solution across all Planet DDS platforms, including Denticon for dental practices and Cloud 9 for orthodontic practices. The integration marks Synchrony's first entry into an orthodontic-specific practice management system, covering 2,500+ orthodontic practices and 15,000+ dental practices nationwide. The multi-year agreement builds on an existing partnership established in 2020, enabling practices to embed financing directly into their workflows and patients to prequalify without impacting their credit score.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 19510347,
+            "url": "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html",
+            "publisher": "PR Newswire"
+          },
+          "event_key": "Synchrony CareCredit expanded partnership",
+          "tier": 2,
+          "evidence_quote": "make CareCredit the preferred patient financing solution across all Planet DDS platforms, including Denticon for dental practices and Cloud 9 for orthodontic practices",
+          "why_differentiated": "Synchrony's first entry into an orthodontic-specific PMS, widening financing distribution across Planet DDS's dental and ortho base and reinforcing platform lock-in.",
+          "context_quote": "CareCredit expansion reaches 17,500 combined dental/ortho practices",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 19510347,
+              "url": "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html",
+              "publisher": "PR Newswire"
+            },
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0005yzu",
+              "url": "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html"
+            }
+          ]
+        },
+        {
+          "id": "news:28172225",
+          "date": "2026-07-17",
+          "title": "Planet DDS Declares the Practice Management Era Over and Launches DentalOS®, the Dental Enterprise Platform for DSOs",
+          "summary": "Planet DDS launched DentalOS®, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups. The platform connects Denticon and Cloud 9 practice management systems on a single data layer, incorporating AI-powered enterprise tools including confirmation agents, clinical voice documentation, and revenue cycle management capabilities. The company, which already serves more than half of the largest 60 DSOs in North America across 14,500 practices, positions this launch as addressing the industry-wide shift from acquisition-driven growth to operational consolidation requiring enterprise-grade infrastructure.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 28172225,
+            "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "DentalOS enterprise platform launch",
+          "tier": 1,
+          "evidence_quote": "Planet DDS launched DentalOS®, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups.",
+          "why_differentiated": "Unifies Denticon and Cloud 9 on a single data layer with AI tools, repositioning from PMS to enterprise platform and deepening switching costs for DSOs.",
+          "context_quote": "Unifying practice management, imaging, payments, patient engagement, financing (CareCredit), and AI agents on one platform",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 28172225,
+              "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:32444070",
+          "date": "2026-08-18",
+          "title": "Planet DDS Marks Mid-Year Growth with Expanded AI Agent Suite and New Platform Packaging",
+          "summary": "Planet DDS reported a 24.3% year-over-year ARR growth for its core Denticon solution, driven by significant enterprise wins including contracts with Coast Dental and Jefferson Dental. The company expanded its AI agent suite to address staffing shortages and introduced new modular add-on suites for its DentalOS platform to offer flexible pricing for dental service organizations. Additionally, Planet DDS highlighted its growing ecosystem of over 80 integration partners and recent industry recognitions, including an Inc. 5000 ranking. ",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 32444070,
+            "url": "https://www.businesswire.com/news/home/20260818000155/en/Planet-DDS-Marks-Mid-Year-Growth-with-Expanded-AI-Agent-Suite-and-New-Platform-Packaging",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "AI agent suite expansion and modular DentalOS packaging",
+          "tier": 2,
+          "evidence_quote": "The company expanded its AI agent suite to address staffing shortages and introduced new modular add-on suites for its DentalOS platform",
+          "why_differentiated": "Broader agent catalog and modular packaging extend the usage-based wedge and upsell paths on the existing platform.",
+          "context_quote": "expanding agent catalog (clinical coordination, RCM) extending the wedge",
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 32444070,
+              "url": "https://www.businesswire.com/news/home/20260818000155/en/Planet-DDS-Marks-Mid-Year-Growth-with-Expanded-AI-Agent-Suite-and-New-Platform-Packaging",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 0.86
+    },
+    {
+      "name": "Weave",
+      "akta_id": "0000ees",
+      "category": "Patient communication (public)",
+      "stage": "Public",
+      "total_funding_usd": 171800000,
+      "last_funding": "2021-06-01",
+      "revenue_estimate": {
+        "code": "250m_500m",
+        "label": "$250M-$500M"
+      },
+      "valuation_estimate": {
+        "code": "500m_1b",
+        "label": "$500M-$1B"
+      },
+      "headcount": 1203,
+      "headcount_growth_12m_pct": 6,
+      "candidates": 23,
+      "rejected_as_not_launch": 7,
+      "rejected_ungrounded": 0,
+      "tiers": {
+        "1": 1,
+        "2": 5,
+        "3": 2
+      },
+      "velocity_pts_per_90d": 3.7,
+      "velocity_per_100_employees": 0.31,
+      "funding_window": null,
+      "launches": [
+        {
+          "id": "move:3",
+          "date": "2026-02-01",
+          "title": "Product Launch: Launched Weave Insurance Eligibility (WIE), an RPA-powered solution achieving a 90% averag",
+          "summary": "Launched Weave Insurance Eligibility (WIE), an RPA-powered solution achieving a 90% average insurance verification rate for dental practices by automating payer-portal data retrieval.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "0000ees",
+            "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-rpa-powered-insurance-eligibility-dramatically-9dgb0c95kvee.html"
+          },
+          "event_key": "Weave Insurance Eligibility launch",
+          "tier": 2,
+          "evidence_quote": "Launched Weave Insurance Eligibility (WIE), an RPA-powered solution achieving a 90% average insurance verification rate",
+          "why_differentiated": "RPA-based payer-portal retrieval reaching 90% verification goes beyond conventional EDI clearinghouses, reinforcing the data/integration moat.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0000ees",
+              "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-rpa-powered-insurance-eligibility-dramatically-9dgb0c95kvee.html"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 19635237,
+              "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-rpa-powered-insurance-eligibility-dramatically-9dgb0c95kvee.html",
+              "publisher": "Stock Titan"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 21853086,
+              "url": "https://www.businesswire.com/news/home/20260218497977/en/Weave-Unveils-RPA-Powered-Insurance-Eligibility-Dramatically-Improving-Dental-Verification-Rates-and-Practice-Reimbursement-Accuracy",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:35178449",
+          "date": "2026-04-17",
+          "title": "Weave’s Latest Platform Enhancements Power Smarter Growth for Healthcare Practices",
+          "summary": "Weave released platform enhancements for healthcare practices, including AI-powered communication workflows and analytics. The company serves over 40,000 customer locations and processes over a billion patient interactions annually. The updates aim to capture missed calls and streamline operations.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 35178449,
+            "url": "https://www.businesswire.com/news/home/20260417125956/en/Weaves-Latest-Platform-Enhancements-Power-Smarter-Growth-for-Healthcare-Practices",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "April 2026 platform enhancements",
+          "tier": 3,
+          "evidence_quote": "Weave released platform enhancements for healthcare practices, including AI-powered communication workflows and analytics.",
+          "why_differentiated": "Vague incremental enhancements to existing platform without distinct new capability.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 35178449,
+              "url": "https://www.businesswire.com/news/home/20260417125956/en/Weaves-Latest-Platform-Enhancements-Power-Smarter-Growth-for-Healthcare-Practices",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:35179124",
+          "date": "2026-04-22",
+          "title": "Weave Call Intelligence Helps Address Rising Care Deferral as Patients Delay Procedures Over Concerns About Affordability",
+          "summary": "Weave announced enhancements to its Call Intelligence product, turning it into an AI-driven workflow engine for healthcare practices. The updates include prioritized follow-ups, PMS integrations, and expanded verticals, amid polling showing 66% of Americans worry about affording healthcare. The company aims to reduce missed follow-ups and improve scheduling conversion.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 35179124,
+            "url": "https://www.businesswire.com/news/home/20260422746257/en/Weave-Call-Intelligence-Helps-Address-Rising-Care-Deferral-as-Patients-Delay-Procedures-Over-Concerns-About-Affordability",
+            "publisher": "Business Wire Blog"
+          },
+          "event_key": "Call Intelligence workflow engine enhancements",
+          "tier": 3,
+          "evidence_quote": "Weave announced enhancements to its Call Intelligence product, turning it into an AI-driven workflow engine",
+          "why_differentiated": "Incremental enhancement with PMS integrations and verticals expansion on an existing product.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 35179124,
+              "url": "https://www.businesswire.com/news/home/20260422746257/en/Weave-Call-Intelligence-Helps-Address-Rising-Care-Deferral-as-Patients-Delay-Procedures-Over-Concerns-About-Affordability",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "move:1",
+          "date": "2026-05-01",
+          "title": "Product Launch: Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platf",
+          "summary": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform, enabling 24/7 voice and text patient interactions with seamless staff handoff.",
+          "source": {
+            "kind": "akta_strategic_signal",
+            "akta_company_id": "0000ees",
+            "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+          },
+          "event_key": "Omnichannel AI Receptionist on Gemini",
+          "tier": 1,
+          "evidence_quote": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform",
+          "why_differentiated": "Voice+text AI receptionist drives the specialty medical expansion post-TrueLark and AI ARPU thesis.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0000ees",
+              "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 25223953,
+              "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html",
+              "publisher": "Stock Titan"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 35186073,
+              "url": "https://www.businesswire.com/news/home/20260528982874/en/Weave-Unveils-Enterprise-Grade-Omnichannel-AI-Receptionist-Built-with-Google-Clouds-Gemini-Enterprise-Agent-Platform-to-Transform-Healthcare-Front-Offices",
+              "publisher": "Business Wire Blog"
+            }
+          ]
+        },
+        {
+          "id": "news:25823730",
+          "date": "2026-06-11",
+          "title": "Weave integrates with athenahealth Marketplace",
+          "summary": "Weave (NYSE: WEAV) announced an integration partnership with athenahealth through the athenahealth Marketplace program, connecting Weave's AI-powered patient engagement and payments platform with athenahealth's athenaOne EHR system. The integrated application helps healthcare practices address revenue leaks and workflow bottlenecks through automated features including missed call follow-ups, appointment reminders, two-way messaging, and integrated payments. Weave joins athenahealth's ecosystem serving over 160,000 providers.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 25823730,
+            "url": "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html",
+            "publisher": "Stock Titan"
+          },
+          "event_key": "athenahealth Marketplace integration",
+          "tier": 2,
+          "evidence_quote": "announced an integration partnership with athenahealth through the athenahealth Marketplace program",
+          "why_differentiated": "Opens distribution to 160,000+ providers, deepening ecosystem lock-in and specialty medical reach.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 25823730,
+              "url": "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html",
+              "publisher": "Stock Titan"
+            },
+            {
+              "kind": "akta_strategic_signal",
+              "akta_company_id": "0000ees",
+              "url": "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html"
+            }
+          ]
+        },
+        {
+          "id": "news:27570946",
+          "date": "2026-07-14",
+          "title": "Weave Expands Enterprise-Ready Platform to Deliver Greater Secur",
+          "summary": "Weave (NYSE: WEAV) announced new enterprise platform capabilities including single sign-on desktop authentication, expanded AI Receptionist functionality, and automated digital insurance collection to address security, scalability, and automation needs for its growing enterprise customer base. The updates respond to industry trends showing 47% of dental practices experiencing staffing shortages and 51% wanting automated insurance verification, with the platform now enabling remote insurance collection and eligibility verification workflows. The company serves over 40,000 customer locations and was named a 2026 Best Software Awards winner for healthcare software products by G2.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 27570946,
+            "url": "https://www.gurufocus.com/news/8958036/weave-expands-enterpriseready-platform-to-deliver-greater-security-aipowered-automation-and-streamlined-frontoffice-workflows",
+            "publisher": "Gurufocus"
+          },
+          "event_key": "July 2026 enterprise platform expansion",
+          "tier": 2,
+          "evidence_quote": "new enterprise platform capabilities including single sign-on desktop authentication, expanded AI Receptionist functionality, and automated digital insurance collection",
+          "why_differentiated": "Bundle of enterprise features strengthens multi-location/DSO switching costs, but incremental on existing products.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 27570946,
+              "url": "https://www.gurufocus.com/news/8958036/weave-expands-enterpriseready-platform-to-deliver-greater-security-aipowered-automation-and-streamlined-frontoffice-workflows",
+              "publisher": "Gurufocus"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 27567870,
+              "url": "https://www.investing.com/news/company-news/weave-launches-ai-receptionist-and-insurance-automation-tools-93CH-4791176",
+              "publisher": "Investing.com"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 27561607,
+              "url": "https://www.stocktitan.net/news/WEAV/weave-expands-enterprise-ready-platform-to-deliver-greater-security-izpl6jovl5qv.html",
+              "publisher": "Stock Titan"
+            }
+          ]
+        },
+        {
+          "id": "news:27797371",
+          "date": "2026-07-17",
+          "title": "Weave Launches Authorized Elation Health Integration",
+          "summary": "Weave (NYSE: WEAV) announced a new authorized integration with Elation Health that connects its AI-powered patient engagement and payments platform to Elation Health's clinical electronic health record system for independent primary care practices. The integration automatically syncs patient and appointment data between systems, eliminating manual CSV uploads and reducing administrative burden. A recent Weave survey found that 80% of healthcare staff spend at least 30 minutes per day on manual data entry, time the integration aims to redirect back to patient care.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 27797371,
+            "url": "https://www.stocktitan.net/news/WEAV/weave-launches-authorized-integration-with-elation-health-f0e6btd8t4nw.html",
+            "publisher": "Stock Titan"
+          },
+          "event_key": "Elation Health integration",
+          "tier": 2,
+          "evidence_quote": "announced a new authorized integration with Elation Health",
+          "why_differentiated": "Extends EHR integration depth into independent primary care, supporting specialty medical expansion beyond dental.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 27797371,
+              "url": "https://www.stocktitan.net/news/WEAV/weave-launches-authorized-integration-with-elation-health-f0e6btd8t4nw.html",
+              "publisher": "Stock Titan"
+            }
+          ]
+        },
+        {
+          "id": "news:40421949",
+          "date": "2026-10-12",
+          "title": "Weave and CareCredit Go Live with Integration That Places Patient Financing Inside the Front-Office Workflow",
+          "summary": "Weave announced the live availability of its CareCredit integration, placing patient financing inside the front-office workflow. The integration gives staff real-time visibility into a patient's financing options, and 43% of surveyed Weave payments customers said they would use Weave's payment services exclusively once CareCredit is added.",
+          "source": {
+            "kind": "akta_news",
+            "akta_news_id": 40421949,
+            "url": "https://finance.yahoo.com/healthcare/articles/weave-carecredit-live-integration-places-120000647.html",
+            "publisher": "Yahoo"
+          },
+          "event_key": "CareCredit integration live",
+          "tier": 2,
+          "evidence_quote": "announced the live availability of its CareCredit integration, placing patient financing inside the front-office workflow",
+          "why_differentiated": "Embeds financing in payments workflow, fueling the payments flywheel and retention.",
+          "context_quote": null,
+          "reports": [
+            {
+              "kind": "akta_news",
+              "akta_news_id": 40421949,
+              "url": "https://finance.yahoo.com/healthcare/articles/weave-carecredit-live-integration-places-120000647.html",
+              "publisher": "Yahoo"
+            },
+            {
+              "kind": "akta_news",
+              "akta_news_id": 40416072,
+              "url": "https://www.stocktitan.net/news/SYF/weave-and-care-credit-go-live-with-integration-that-places-patient-nbhqs43vb4m9.html",
+              "publisher": "Stock Titan"
+            }
+          ]
+        }
+      ],
+      "vs_segment_median": 1
+    }
+  ]
+}

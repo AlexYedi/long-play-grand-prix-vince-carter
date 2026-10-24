@@ -1,0 +1,122 @@
+{
+  "company_id": "C14",
+  "company": "Wrenfield Cover",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+  "revenue_type": null,
+  "fields": {
+    "monthly_revenue": {
+      "value": 55900,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 299,
+        "end": 358
+      },
+      "quote": "| Monthly revenue (fees + commission) | $47,300 | $55,900 |",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 182000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 395,
+        "end": 437
+      },
+      "quote": "| Net burn / month | $175,000 | $182,000 |",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 3400000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 438,
+        "end": 472
+      },
+      "quote": "| Cash | $3,950,000 | $3,400,000 |",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 473,
+        "end": 502
+      },
+      "quote": "| Runway (months) | 22 | 18 |",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 16,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 503,
+        "end": 521
+      },
+      "quote": "| FTEs | 15 | 16 |",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": null,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "key_highlight": {
+      "value": "Loss ratio improved to 54% on the renters book",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 535,
+        "end": 581
+      },
+      "quote": "loss ratio improved to 54% on the renters book",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Reinsurance treaty renews January 1 and market pricing is up",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C14_wrenfield_2026-10-13.txt",
+      "source_span": {
+        "start": 601,
+        "end": 676
+      },
+      "quote": "our reinsurance treaty renews January 1 and pricing is up across the market",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,441 @@
+{
+  "synthetic": true,
+  "period": "2026-Q3",
+  "note": "SYNTHETIC per-company reporting agreements. Targets are founder-stated goals (only C01, C07, C08, C09 have them in this demo).",
+  "agreements": [
+    {
+      "company_id": "C01",
+      "company": "Loomvale Systems",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": ">$1.5M run-rate",
+      "thesis_note": "Workflow SaaS for mid-market freight brokers; thesis: vertical software with repeatable team-led sales.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {
+        "monthly_revenue": 140000,
+        "customers": 50,
+        "runway_months": 18,
+        "founder_closed_pct": 40
+      }
+    },
+    {
+      "company_id": "C02",
+      "company": "Tidewright Labs",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Developer tools; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C03",
+      "company": "Ossmere Health",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Digital health; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C04",
+      "company": "Brackenfold",
+      "segment": "saas",
+      "stage": "Pre-seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "Climate analytics; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C05",
+      "company": "Quarrytone AI",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "AI infrastructure; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C06",
+      "company": "Murrelwick Robotics",
+      "segment": "deeptech_hardware",
+      "stage": "Seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "Robotics; standard deeptech_hardware agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "monthly_burn",
+        "cash",
+        "runway_months",
+        "headcount"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C07",
+      "company": "Gantrell Dental Cloud",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Vertical SaaS for dental groups; thesis: land single practices, expand into multi-location DSOs.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {
+        "monthly_revenue": 70000,
+        "customers": 95,
+        "runway_months": 12,
+        "founder_closed_pct": 50
+      }
+    },
+    {
+      "company_id": "C08",
+      "company": "Corvellum Pay",
+      "segment": "payments",
+      "stage": "Seed",
+      "size_band": ">$1.5M run-rate",
+      "thesis_note": "B2B payments; thesis: recurring take-rate revenue, one-time implementation fees reported separately.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {
+        "monthly_revenue": 200000,
+        "customers": 38,
+        "runway_months": 15
+      }
+    },
+    {
+      "company_id": "C09",
+      "company": "Stillmote Studios",
+      "segment": "services",
+      "stage": "Pre-seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Creator-tools studio; project revenue, not recurring. Thesis: services cash flow funds a product bet.",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct"
+      ],
+      "targets": {
+        "monthly_revenue": 90000,
+        "runway_months": 12
+      }
+    },
+    {
+      "company_id": "C10",
+      "company": "Vellstrom Data GmbH",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "Data infrastructure; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C11",
+      "company": "Kettleworn Commerce",
+      "segment": "consumer_commerce",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "E-commerce enablement; standard consumer_commerce agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C12",
+      "company": "Halcyra Security",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": ">$1.5M run-rate",
+      "thesis_note": "Cybersecurity; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C13",
+      "company": "Pebblequill Learning",
+      "segment": "saas",
+      "stage": "Pre-seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "Edtech; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C14",
+      "company": "Wrenfield Cover",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Insurtech; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C15",
+      "company": "Dunmarsh Grid",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Energy software; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C16",
+      "company": "Ashvane Legal",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Legal AI; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C17",
+      "company": "Velloway Mobility",
+      "segment": "saas",
+      "stage": "Pre-seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "Fleet software; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C18",
+      "company": "Thistlecrumb Foods",
+      "segment": "consumer_commerce",
+      "stage": "Seed",
+      "size_band": ">$1.5M run-rate",
+      "thesis_note": "Consumer packaged goods; standard consumer_commerce agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C19",
+      "company": "Marrowlight Bio",
+      "segment": "deeptech_hardware",
+      "stage": "Pre-seed",
+      "size_band": "pre_revenue",
+      "thesis_note": "Biotech tools; standard deeptech_hardware agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "monthly_burn",
+        "cash",
+        "runway_months",
+        "headcount"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C20",
+      "company": "Sorrel & Pike People",
+      "segment": "saas",
+      "stage": "Seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "HR software; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C21",
+      "company": "Lanternwick Agents",
+      "segment": "saas",
+      "stage": "Pre-seed",
+      "size_band": "<$500K run-rate",
+      "thesis_note": "AI agents; standard saas agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ],
+      "targets": {}
+    },
+    {
+      "company_id": "C22",
+      "company": "Cinderquay Games",
+      "segment": "consumer_commerce",
+      "stage": "Pre-seed",
+      "size_band": "$500K-$1.5M run-rate",
+      "thesis_note": "Gaming; standard consumer_commerce agreement.",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount"
+      ],
+      "targets": {}
+    }
+  ]
+}

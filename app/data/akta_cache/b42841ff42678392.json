@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002m5&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:18.459Z",
+  "data": {
+    "data": {
+      "uuid": "00002m5",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_c",
+            "label": "Series C"
+          },
+          "last_funding_date": {
+            "month": 12,
+            "year": 2025
+          },
+          "total_funding_usd": 155900000
+        },
+        "funding_rounds": [
+          {
+            "id": 2268883,
+            "date": {
+              "month": 12,
+              "year": 2025
+            },
+            "round": {
+              "code": "series_unknown",
+              "label": "Series Unknown"
+            }
+          },
+          {
+            "id": 33060,
+            "date": {
+              "month": 3,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          },
+          {
+            "id": 260876,
+            "date": {
+              "month": 12,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "American Dental Association",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0006dt1",
+            "website": "http://www.ada.org"
+          },
+          {
+            "name": "Harmonic Growth Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0002h2f",
+            "website": "https://www.harmonicgp.com"
+          },
+          {
+            "name": "March Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000086d",
+            "website": "http://www.marchcp.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 3 more funding rounds; 8 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}

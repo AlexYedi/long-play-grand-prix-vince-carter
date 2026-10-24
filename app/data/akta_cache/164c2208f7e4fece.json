@@ -1,0 +1,216 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002z9&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:57.030Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 14482612,
+        "title": "Dental Services Market Size to Hold USD 769.7 Billion in 2034",
+        "url": "https://www.towardshealthcare.com/insights/cosmetic-dentistry-driving-the-dental-services-market",
+        "publisher": "Towards Healthcare",
+        "published_date": "2025-11-01T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The global dental services market is projected to grow from USD 493 billion in 2025 to USD 769.7 billion by 2034, driven by increased oral health awareness and demand for cosmetic procedures. Key industry developments include VideaHealth securing $40 million in Series B funding and Royal Philips collaborating with Aspen Dental to expand access to oral care solutions. ",
+        "word_count": 2937,
+        "original_language": "EN",
+        "author": "Rohan Patil",
+        "countries": [
+          "USA",
+          "IND",
+          "JPN",
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Regional/Multi-Region DSO Platforms (Aggregators)",
+            "code": "HLABAKAK",
+            "is_primary": true
+          },
+          {
+            "name": "Mobile/On-Site Dental Imaging Services",
+            "code": "HLABAIAJ",
+            "is_primary": false
+          },
+          {
+            "name": "Oral Care Products (Toothpaste, Mouthwash, Dental Floss, Whitening)",
+            "code": "CRADAMAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000mf4",
+            "name": "Clove Dental",
+            "website": "http://www.clovedental.in",
+            "is_primary": false
+          },
+          {
+            "uuid": "0023rwn",
+            "name": "Kuraray Noritake",
+            "website": "https://www.kuraraynoritake.jp",
+            "is_primary": false
+          },
+          {
+            "uuid": "0009c1e",
+            "name": "Specialty Dental Brands",
+            "website": "https://specialtydentalbrands.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000frx",
+            "name": "Qatar Investment Authority",
+            "website": "http://www.qia.qa",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002s9u",
+            "name": "Oxford Finance LLC",
+            "website": "http://www.oxfordfinance.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000ao5o",
+            "name": "Aspen Dental",
+            "website": "https://careers.aspendental.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "000lxgn",
+            "name": "Global Dental Group",
+            "website": "https://www.globaldentalservices.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "tomáš nerád",
+            "fulton collins",
+            "rohan patil",
+            "aditi shivarkar"
+          ],
+          "location": [
+            "asia-pacific",
+            "u.k.",
+            "north america",
+            "u.s.",
+            "japan",
+            "latin america",
+            "india",
+            "asia pacific",
+            "europe",
+            "middle east & africa",
+            "u.s",
+            "hungary",
+            "uae",
+            "germany",
+            "poland",
+            "uk",
+            "france",
+            "brazil",
+            "spain",
+            "mexico",
+            "sweden",
+            "england",
+            "scotland",
+            "italy",
+            "denmark",
+            "norway",
+            "thailand",
+            "argentina",
+            "south africa",
+            "south korea",
+            "saudi arabia",
+            "china",
+            "us",
+            "kuwait",
+            "canada",
+            "middle east and africa",
+            "rural areas",
+            "regions"
+          ],
+          "product": [
+            "philips sonicare",
+            "pidilite wizdent",
+            "dental implants",
+            "kuraray",
+            "dental services",
+            "dental clinics",
+            "dentures",
+            "smart dental clinic",
+            "clove dental"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8866,
+        "group_id": 9017492,
+        "full_text": "We collect cookies to enhance your browsing experience Learn more X\n\nW3siaWQiOiIyMiIsInJlcG9ydF9pZCI6IjUwMjIiLCJjaGFydGlkIjoiRDg5Q0M2MTkyMCIsImJhckRpc3BsYXkiOiIxIiwieWVhcnMiOiIyMDIzLCAyMDI0LCAyMDI1LCAyMDI2LCAyMDI3LCAyMDI4LCAyMDI5LCAyMDMwLCAyMDMxLCAyMDMyLCAyMDMzLCAyMDM0IiwicmVwb3J0VGl0bGUiOiJEZW50YWwgU2VydmljZXMgTWFya2V0IFNpemUsIEJ5IFJlZ2lvbiwgMjAyMyAtIDIwMzQgKFVTRCBCaWxsaW9uKSIsImdyYXBoX3R5cGUiOiJTdGFja2VkIENoYXJ0IiwieWF4aXNUaXRsZSI6IlVTRCBCaWxsaW9uIiwiYmFyQ29sb3IiOiIiLCJub3J0aEFtZXJpY2EiOiI5LjEzLCA5LjYyLCAxMC4xNywgMTAuNzcsIDExLjQ0LCAxMi4xNywgMTIuOTgsIDEzLjg3LCAxNC44NSwgMTUuOTMsIDE3LjE1LCAxOC45MCIsImxhdGluQW1lcmljYSI6IjEuOTMsIDEuOTUsIDEuOTgsIDIuMDEsIDIuMDUsIDIuMDksIDIuMTQsIDIuMTksIDIuMjUsIDIuMzIsIDIuMzksIDIuNDUiLCJldXJvcGUiOiI3LjA2LCA3LjIzLCA3LjQyLCA3LjY0LCA3Ljg4LCA4LjE1LCA4LjQ1LCA4Ljc4LCA5LjE0LCA5LjU0LCA5Ljk5LCAxMC4zMCIsImFzaWFQYWNpZmljIjoiNS4zMiwgNS40NywgNS42NSwgNS44NSwgNi4wNywgNi4zMiwgNi41OSwgNi44OSwgNy4yMiwgNy41OCwgNy45OSwgOC4xOCIsIm1pZGRsZUVhc3RBIjoiMS4wOCwgMS4wOCwgMS4wOSwgMS4xMCwgMS4xMSwgMS4xMiwgMS4xMywgMS4xNSwgMS4xNiwgMS4xOCwgMS4yMCwgMS4yMyIsImJhcnNjcmlwdCI6IiA8ZGl2IGNsYXNzPVwidGV4dC1jZW50ZXJcIj48ZGl2IGNsYXNzPVwicG9zaXRpb24tcmVsYXRpdmUgcC00IG1iLTUgYmctd2hpdGUgZ3JhcGgtaW1nXCI+IDxkaXYgaWQ9XCI1MDIyRDg5Q0M2MTkyMFwiIGNsYXNzPVwiZ3JhcGhfY2hhcnRfdmlld1wiPiBTdGFja2VkIEdyYXBoIDAgPFwvZGl2PiA8XC9kaXY+PFwvZGl2PiAiLCJzdGF0dXMiOiJBY3RpdmUiLCJjcmVhdGVkX2F0IjoiMjAyNC0xMi0yNCAwNDoyNzoyMSIsInVwZGF0ZWRfYXQiOiIyMDI0LTEyLTI0IDA0OjI3OjIxIn1d\n\nDental Services Market Size to Hold USD 769.7 Billion in 2034 Download Sample Schedule a Meeting\n\nHome Insights Dental Cosmetic Dentistry Driving The Dental Services Market Dental Services Market Size Poised USD 769.7 Billion by 2034 According to market projections, the dental services sector is expected to grow from USD 493 billion in 2025 to USD 769.7 billion by 2034, seeing growth due to increased awareness of oral health, rising demand for cosmetic procedures, and advancements in dental technology. Trends include tele-dentistry, minimally invasive treatments, and a focus on preventive care, improving both patient experience and outcomes. Category: Dental Insight Code: 5022 Format: PDF / PPT / Excel Download Sample Table of Content Table of Content\n\nDental Services Market Size, Trends and Competitive Landscape The global dental services market is projected to reach USD 769.7 billion by 2034, growing from USD 493 billion in 2025, at a CAGR of 5.1% during the forecast period from 2025 to 2034, as increasing awareness of cosmetic dentistry. The rising incidences of dental disorders, growing research and development, and increasing awareness for oral care. Key Highlights North America dominated the global market share by 38.46% in 2025 .\n\n. Asia-Pacific is projected to host the fastest-growing market by 6.8% CAGR in the 2025 .\n\n. The U.S. dental services market is valued at US$ 166.5 billion in 2024, projected to hit US$ 254.7 billion by 2034, growing at a 4.4% CAGR .\n\n. By type, the dental implants segment held a dominant presence by in the dental services market in 2025.\n\nBy type, the cosmetic dentistry segment is anticipated to grow with the highest 7.8% CAGR in the market during the studied years.\n\nin the market during the studied years. By end-use, the dental clinics segment led the global market size by USD 377.8 billion in 2025 .\n\n. By end-use, the hospitals segment is projected to expand rapidly in the market in the coming years. Dental Services Market Overview The significant increase in demand for cosmetic operations has impacted every dentist in practice today in some way. Oxford Finance LLC, a specialty finance firm that provides senior debt to healthcare services and life sciences companies worldwide, announced the closing of a $107 million senior credit facility to a dental services organization, Specialty Dental Brands, focused on orthodontics, pediatric dentistry, and oral surgery. Cosmetic dentistry focuses on enhancing your smile's aesthetics and appearance. Veneers, dental bonding, and teeth whitening are common cosmetic dental procedures. The American Dental Association has not provided a precise definition of cosmetic dentistry, sometimes known as aesthetic dentistry (ADA). Dentists define it, nonetheless, as a dental technique that enhances a patient's smile and sense of self. Beautiful teeth and a powerful smile are important for a variety of reasons, including aesthetics and general health. Your oral health is impacted by a smile or lack thereof. Additionally, your sense of self-worth and how the outside world sees you both suffer. That is because a person's grin is typically the first thing that people notice about them. The growing public awareness of maintaining dental hygiene and dental aesthetics, coupled with the rise in dental problems, is what is driving the market's expansion. Approximately one-fourth of people in the U.K. have had cosmetic dental work done, according to the British Academy of cosmetic dentistry. According to the NCBI, oral health affects a person's social life as well as their dental look. It is not just the absence of oral disease or any dysfunction. According to a poll done in the U.K. in 2018, more women choose aesthetic operations as a result of motivational factors like self-esteem, life satisfaction, and self-related physical attractiveness. All these women have one thing in common: they were heavily exposed to the media. Dental Services Market Trends In January 2025, Pidilite Wizdent and Kuraray announced that it received CDSCO licenses for its comprehensive range of dental consumables. The consumables include composites, bonding agents, core build-up materials, luting cements, and glass ionomers.\n\nIn January 2025, VideaHealth announced the receipt of $40 million funding in a Series B round. The funding will be used to lead dentistry in the future by empowering clinicians and use AI to deliver exceptional care.\n\nIn October 2024, Royal Philips announced a collaboration with Aspen Dental to launch Philips Sonicare, sonic toothbrush brand, globally. The collaboration was made to offer clinically-proven Philips tools and resources to Aspen Dental’s patients, providing patients with a full-suite of at-home solutions and expanding access to comprehensive oral care. How Can AI Improve the Dental Services Market? Artificial intelligence (AI) and machine learning (ML) play an essential role in transforming the dental services, enhancing patient treatment outcomes. AI and ML can aid in screening and early detection of dental disorders, enabling dentists to take timely action. They can also analyze and interpret imaging data and reduce manual errors. This significantly reduces human intervention, leading to precision and accuracy in disease detection. AI and ML can also suggest treatment regimens for patients, providing tailored treatments. Thus, AI can assist dentists to make effective clinical decisions. Moreover, AI can streamline the administrative tasks and other complex workflows of a dental clinic or other dental businesses. This ultimately enhances patient experience and help dentists manage diverse patients simultaneously. Market Dynamics The Increase in the Geriatric Population & Trend Toward Cosmetic Dentistry Drive the Market Growth It is reported that around 10% of the global population are above 65 years, as of 2024, while the geriatric population will double to 2.1 billion by 2050, and their body show changes like tooth breaking, and tooth pain, and includes the mouth's bone structure and gum ridges. Nowadays people are more conscious about their beauty and they are investing more in beauty, the teeth are also an important part of beauty as it includes teeth whitening, and gum countering. Dentist demand will rise in the future as the world's population grows, as will the possibility that people will keep their teeth and require more care later in life. It is yet unclear whether fluoride success translates to later-life decay prevention, or whether the population’s taste and desire for age-defying treatments like aesthetic dental care will grow with time. A future workforce with a divided requirement for dental providers is a possibility. Digital Transformation in Dental Medicine Future of Dental Services One of the most important game-changers of the twenty-first century in terms of solving present and future challenges in dentistry and oral healthcare is the digital transformation in dental medicine, which is based on electronic health data. Personalized (dental) medicine, artificial intelligence (AI) and machine learning (ML), rapid prototyping (RP), augmented and virtual reality (AR/VR), personalized (dental) medicine, and telehealth are the estimated top five trends and innovations of this new digital era with the potential to significantly influence the course of dental research. Development of Technologically Advanced Solutions Opportunity for the Dental Services Market Cosmetic dentistry works on research and development and working on new dental devices and materials for superior results. With the dramatic growth in the demand for minimally invasive procedures, patient compliance has increased. To prevent or minimize blood loss and gum lifting during surgical procedures like teeth whitening, dental lasers are now used more regularly. Adhesive dentistry, which uses composite materials to strengthen teeth and enhance their appearance without compromising the tooth's structural integrity, is another area of dentistry that has gained attention. As a result, more people are utilizing these procedures. Thus, the focus on the Development of new and advanced technology and dental materials is expected to create new opportunities for cosmetic industry market players. Segmentation Outlook Dental Implants Segment Dominated By type, the dental implants segment held a dominant presence in the dental services market in 2024. Dental implants are small posts that replace damaged or missing teeth. They provide support for artificial teeth like crowns, bridges, and dentures. The increasing prevalence of dental disorders and the rising geriatric population potentiate the use of dental implants. It is estimated that around 5 million dental implants are placed globally every year. The advent of advanced technologies such as 3D printing favor manufacturing of dental implants, boosting the segment’s growth. Cosmetic Dentistry Segment: Fastest-Growing By type, the cosmetic dentistry segment is anticipated to grow with the highest 7.8% CAGR in the market during the studied years. The growing awareness for oral care and dental appearance fuel the segment’s growth. Several government and private organizations launch initiatives and awareness campaigns to help people focus on dental care. The growing research and development activities to develop novel products are likely to increase the growth of cosmetic dentistry in near future. Dental Clinics Segment Led in 2024 By end-use, the dental clinics segment led the global dental services market size by USD 377.8 billion in 2025. Dental clinics generally prioritize the most important types of care, from basic to emergency services. They also provide affordable services to patients. The segmental growth is attributed to favorable infrastructure, presence of trained professionals, and the availability of specialized equipment. The increasing number of dentists and dental clinics globally boost the segment’s growth. Favorable regulatory frameworks facilitate the development of dental clinics. Hospitals Segment: Fastest-Growing By end-use, the hospitals segment is projected to expand rapidly in the market in the coming years. Many people prefer visiting hospitals for their dental treatment owing to favorable reimbursement policies, presence of multidisciplinary experts, and suitable capital investments. Multi-specialty hospitals adopt specialized equipment related to dental practices and provide specialized care. Hospitals provide the support of central or core services that can help with diagnosis and treatment, as well as opportunities for dentistry practice to interact with other clinical and surgical specialties. Regional Insights North America Provides Lucrative Opportunities for the Dental Services Market Dental Services Market Size, By Region, 2023 - 2034 (USD Billion) Bar chart with 5 data series. View as data table, Dental Services Market Size, By Region, 2023 - 2034 (USD Billion) The chart has 1 X axis displaying categories. The chart has 1 Y axis displaying USD Billion. Data ranges from 1.08 to 41.06. Created with Highcharts 12.4.0 USD Billion Chart context menu Dental Services Market Size, By Region, 2023 - 2034 (USD Billion) 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 0 10 20 30 40 50 Highcharts.com\n\n\n\n\n\n\n\nNorth America Latin America Europe Asia Pacific Middle East & Africa End of interactive chart. In 2025, North America owned a share of 38.46% of the global market for dental services. This is linked to technical developments and a rise in the number of people choosing cosmetic dentistry operations. Additionally, factors including the region's high acceptance of and openness toward aesthetic procedures and rising appearance consciousness are likely to fuel market expansion. In 2024, approximately 3 million Americans had a dental implant. Furthermore, North America is anticipated to develop at the fastest rate during the forecast period. The key causes of this include things like high personal discretionary income. Additionally, important growth factors are the rising costs of healthcare, the accessibility of licensed specialists, the quality of the healthcare system, and the ease with which aesthetic services can be obtained. For Instance, In January 2025, VideaHealth, the leading dental AI company in the U.S, announced that it had secured USD 40 million in an oversubscribed Series B funding round. Following its launch in 2022, VideaHealth has established itself as a leader for dental service organizations through its advanced and innovative AI-powered software and established, impactful industry partnerships with a focus on expanding into new markets. U.S. Dental Services Market Growth The U.S. dental services market is valued at US$ 166.5 billion in 2024 and is expected to grow to US$ 172.6 billion in 2025. Looking ahead, the market is projected to reach around US$ 254.7 billion by 2034, expanding at a CAGR of 4.4% between 2025 and 2034. Favorable Government Support to Drive Asia-Pacific Asia-Pacific is projected to host the fastest-growing market in the coming years, reaching USD 163.4 billion in 2030. The rising prevalence of dental disorders and the increasing geriatric population drive the market. Favorable government support and increasing investments facilitate market growth. The Ministry of Health and Family Welfare, Government of India, launched the National Dental Register of National Dental Commission for dental education and administration in India, promoting more number of dentists. In January 2024, Fujitsu announced the launch of a large-scale health education initiative for its 70,000 employees in Japan to encourage employees to maintain and improve their oral and dental health.\n\nGrowing awareness for oral health along with increasing urbanization and rising disposable incomes fuels the demand for dental services in Asia-Pacific. For Instance, Qatar Investment Authority made an equity investment of USD 50 million in Global Dental Services, the parent company of Clove Dental, the largest tech-enabled dental platform of India. This investment will unlock significant growth opportunities for the group in its quest to expand across India by ensuring that more Indians have access to reliable, high-quality, and affordable dental care. Robust Demand for Dental Services in Europe Driving the Market Europe is a notable region in the dental services market growing at a 4.8% CAGR because of the increasing dental care awareness, advanced healthcare systems, and a robust demand for cosmetic dentistry. The market is also driven by an aging population in Europe and the growing necessity for aesthetic procedures. Several European countries, specifically Hungary and Poland become popular destinations for dental tourism by attracting patients seeking cost-effective dental care. Latest Announcement by Industry Leaders Tomáš Nerád, CEO of Diplomat, envisioned that the future of dentistry is digitalization. A smart dental clinic involves latest gadgets and creating an interconnected system where each component works in harmony to make the dentists’ job easier and more effective.\n\nIn May 2025, Fulton Collins, chief executive officer of Wellfit Technologies, Inc. healthcare announced its partnership with Careington International Corporation to acquire Careington’s Launch Loyalty dental membership plan business unit. The agreement provided continued servicing of Launch Loyalty customers by Careington® as the companies work together to integrate the plan technology of Wellfit offerings to improve customer and member experiences. Leading Players in the Dental Services Market Q & M Dental Group\n\nApollo White Dental\n\nCoast Dental\n\nAxiss Dental\n\nGentle Dental of New England\n\nAbano Healthcare Group\n\nSmile 360\n\nHealthway Medical Corporation Recent Developments In December 2024, First Response Healthcare announced the launch of its innovative Dentist At-Home Service to increase accessibility of oral care in UAE. The service enables dentists’ arrival at patient’s home within 45 minutes and provide expert dental treatments.\n\nIn September 2024, researchers from the University of Birmingham carried out research that dental professionals can detect the early signs of type 2 diabetes through routine screening of oral health. The funding from Haleon and NIHR will enable them to work with 50 dental practices across England and Scotland. Segments Covered in the Report By Type Dental Implants\n\nCosmetic Dentistry\n\nOrthodontics\n\nPeriodontics\n\nEndodontics\n\nLaser Dentistry\n\nDentures\n\nOral & Maxillofacial Surgery\n\nOthers By End-Use Dental Clinics\n\nHospitals By Region North America US Canada\n\nAsia Pacific China Japan India South Korea Thailand\n\nEurope Germany UK France Italy Spain Sweden Denmark Norway\n\nLatin America Brazil Mexico Argentina\n\nMiddle East and Africa (MEA) South Africa UAE Saudi Arabia Kuwait\n\nFAQ's What is the current size of the dental services market? The global dental services market size is expected to grow from USD 493 billion in 2025 to USD 769.7 billion by 2034, registering a CAGR of 5.1% throughout the forecast period. How is technology shaping the dental services market? Innovations like digital X-rays, CAD/CAM systems, AI-based diagnostics, and teledentistry are revolutionizing the dental field, improving accuracy, patient outcomes, and efficiency. What is the role of insurance in the dental services market? Dental insurance helps cover preventive, basic, and major dental procedures, reducing out-of-pocket expenses for patients. Coverage levels vary depending on the insurance plan. How do patients find the right dental service provider? Patients often rely on online reviews, recommendations from friends or family, insurance networks, and provider credentials to select a suitable dentist or clinic. What are the challenges facing the dental services market? Challenges include: The dental services market faces challenges like high treatment costs, limited access in rural areas, and a shortage of skilled professionals in some regions. Who are the major players in the dental services market? Leading players often include large dental service organizations (DSOs), independent practices, and chains. Examples may include Aspen Dental, Smile Brands, and Mydentist, as well as regional providers. Any Questions Download Sample Select User License to Buy Single Multi Corporate Global Deep Dive USD 4900 USD 3900 Single Region Region NA EU APAC LA MEA USD 3800 USD 3200 Databook USD 2700 USD 2100 Competitive Intelligence USD 2700 USD 2100 Cross-Sectional Analysis USD 7400 USD 5900 Global Deep Dive USD 5300 USD 4200 Single Region Region NA EU APAC LA MEA USD 4500 USD 3800 Databook USD 3000 USD 2400 Competitive Intelligence USD 3000 USD 2400 Cross-Sectional Analysis USD 8100 USD 6500 Global Deep Dive USD 9000 USD 5400 Single Region Region NA EU APAC LA MEA USD 7400 USD 4800 Databook USD 4200 USD 2800 Competitive Intelligence USD 4200 USD 2800 Cross-Sectional Analysis USD 9400 USD 7500 Immediate Delivery Available Proceed to Checkout\n\nMeet the Team Rohan Patil Principal Consultant Rohan Patil is a seasoned market research professional with over 5+ years of focused experience in the healthcare sector, bringing deep domain expertise, strategic foresight, and analytical precision to every project he undertakes. Learn more about Rohan Patil Aditi Shivarkar Reviewed By Aditi Shivarkar is a seasoned professional with over 14 years of experience in healthcare market research. As a content reviewer, Aditi ensures the quality and accuracy of all market insights and data presented by the research team. Learn more about Aditi Shivarkar"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

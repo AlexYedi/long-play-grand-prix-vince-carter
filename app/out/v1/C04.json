@@ -1,0 +1,125 @@
+{
+  "company_id": "C04",
+  "company": "Brackenfold",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 19800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 31,
+        "end": 53
+      },
+      "quote": "MRR 19.8K (Jun: 14.5K)",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 70000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 110,
+        "end": 126
+      },
+      "quote": "net burn ~70K/mo",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 1240000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 129,
+        "end": 154
+      },
+      "quote": "cash 1.24M, runway ~18 mo",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 129,
+        "end": 154
+      },
+      "quote": "cash 1.24M, runway ~18 mo",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 6,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 157,
+        "end": 180
+      },
+      "quote": "team 6 (hired first AE)",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 8,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 56,
+        "end": 107
+      },
+      "quote": "8 paying customers (+2: a utility co-op and a muni)",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "First multi-year contract: 3 years with the co-op",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 183,
+        "end": 237
+      },
+      "quote": "win: first multi-year contract, 3 years with the co-op",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Two pilots stalled waiting on state grant disbursement",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C04_brackenfold_2026-10-14.md",
+      "source_span": {
+        "start": 240,
+        "end": 301
+      },
+      "quote": "watch: two pilots stalled waiting on state grant disbursement",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,51 @@
+{"id":"C01","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":1698000,"prism":200,"ms":6731,"tokens":3577}
+{"id":"C02","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":1354800,"prism":200,"ms":7289,"tokens":3386}
+{"id":"C03","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":855000,"prism":200,"ms":7844,"tokens":3740}
+{"id":"C04","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":237600,"prism":200,"ms":6200,"tokens":3168}
+{"id":"C05","nFields":0,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":5985,"tokens":3018}
+{"id":"C06","nFields":0,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":"skip","ms":0,"tokens":0}
+{"id":"C07","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":633600,"prism":200,"ms":8983,"tokens":3945}
+{"id":"C08","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":2308800,"prism":200,"ms":10233,"tokens":4134}
+{"id":"C09","nFields":6,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":6395,"tokens":3475}
+{"id":"C10","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":462000,"prism":200,"ms":8401,"tokens":3600}
+{"id":"C11","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":1100400,"prism":200,"ms":8592,"tokens":3778}
+{"id":"C12","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":1970000,"prism":200,"ms":6779,"tokens":3540}
+{"id":"C13","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":289200,"prism":200,"ms":5186,"tokens":3139}
+{"id":"C14","nFields":6,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":9186,"tokens":3893}
+{"id":"C15","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":558000,"prism":200,"ms":5369,"tokens":3267}
+{"id":"C16","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":1311600,"prism":200,"ms":5898,"tokens":3321}
+{"id":"C17","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":259200,"prism":200,"ms":7067,"tokens":3297}
+{"id":"C18","nFields":6,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":10010,"tokens":3985}
+{"id":"C19","nFields":6,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":7756,"tokens":3578}
+{"id":"C20","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":841000,"prism":200,"ms":5859,"tokens":3390}
+{"id":"C21","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":328800,"prism":200,"ms":7795,"tokens":3560}
+{"id":"C22","nFields":6,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":null,"prism":200,"ms":6598,"tokens":3455}
+{"id":"C23","nFields":7,"rejected_ungrounded":[],"ungrounded_accepted":[],"arr":494400,"prism":200,"ms":6232,"tokens":3513}
+
+extractor-v2 run 2026-10-24T17-37-19-424Z: 23 inputs, 0 errors, ungrounded values accepted 0, rejected 0, tokens 77759
+Scoring /Users/sameoldexpressions/Documents/GitHub/long-play-grand-prix-vince-carter/app/out/v2
+against /Users/sameoldexpressions/Documents/GitHub/long-play-grand-prix-vince-carter/data-pack/answer_key/q3_2026_metrics.json  (22 companies, 176 cells: 156 reported, 20 null)
+
+Metric                             Predictions  Baseline    Delta
+-----------------------------------------------------------------
+Field accuracy (all cells)               98.9%     18.2%  +80.7pt
+  on reported fields                     98.7%     17.3%  +81.4pt
+  abstention (truth = null)             100.0%     25.0%  +75.0pt
+Flag precision                           87.5%    100.0%  -12.5pt
+Flag recall                              87.5%     12.5%  +75.0pt
+Flag F1                                  87.5%     22.2%  +65.3pt
+Traceback (span overlaps key)            97.8%      0.0%  +97.8pt
+
+Per field
+  monthly_revenue                       100.0%      4.5%
+  arr                                    95.5%     22.7%
+  monthly_burn                          100.0%      0.0%
+  cash                                  100.0%      0.0%
+  runway_months                         100.0%      4.5%
+  headcount                             100.0%     18.2%
+  customers                             100.0%      4.5%
+  revenue_type                           95.5%     90.9%
+
+Baseline = Q2 values carried forward unchanged. Read every number against it.
+
+v2 exit 0

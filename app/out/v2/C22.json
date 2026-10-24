@@ -1,0 +1,131 @@
+{
+  "company_id": "C22",
+  "company": "Cinderquay Games",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+  "revenue_type": "non_recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 44500,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 315,
+        "end": 322
+      },
+      "quote": "$44,500",
+      "confidence": 0.9,
+      "derivation": "September column of the in-app purchase revenue (month) row; in-app purchases are non-recurring monthly billings"
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 92000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 373,
+        "end": 380
+      },
+      "quote": "$92,000",
+      "confidence": 0.9,
+      "derivation": "September column of the Net burn row"
+    },
+    "cash": {
+      "value": 1220000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 401,
+        "end": 411
+      },
+      "quote": "$1,220,000",
+      "confidence": 0.9,
+      "derivation": "September column of the Cash row"
+    },
+    "runway_months": {
+      "value": 13,
+      "unit": "months",
+      "currency": null,
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 433,
+        "end": 442
+      },
+      "quote": "13 months",
+      "confidence": 0.9,
+      "derivation": "September column of the Runway row, as stated by the founder"
+    },
+    "headcount": {
+      "value": 10,
+      "unit": "count",
+      "currency": null,
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 457,
+        "end": 461
+      },
+      "quote": "| 10",
+      "confidence": 0.9,
+      "derivation": "September column of the Headcount row"
+    },
+    "customers": {
+      "value": 5250,
+      "unit": "count",
+      "currency": null,
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 346,
+        "end": 351
+      },
+      "quote": "5,250",
+      "confidence": 0.9,
+      "derivation": "Paying users in the September column; this is what the company counts as customers"
+    },
+    "key_highlight": {
+      "value": "September in-app purchase revenue rose to $44,500 from $31,000 in June, and paying users rose to 5,250.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 271,
+        "end": 322
+      },
+      "quote": "In-app purchase revenue (month) | $31,000 | $44,500",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "A platform fee change from one app store will cost about 3 points of margin.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C22_cinderquay_2026-10-20.txt",
+      "source_span": {
+        "start": 505,
+        "end": 587
+      },
+      "quote": "One app store's platform fee change from January will cost us ~3 points of margin.",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,135 @@
+{
+  "company_id": "C21",
+  "company": "Lanternwick Agents",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 27400,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 281,
+        "end": 291
+      },
+      "quote": "$27.4K MRR",
+      "confidence": 0.9,
+      "derivation": "Stated MRR at end of September: $27.4K = 27400"
+    },
+    "arr": {
+      "value": 328800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 281,
+        "end": 291
+      },
+      "quote": "$27.4K MRR",
+      "confidence": 0.9,
+      "derivation": "No ARR stated; 12 x 27400 = 328800"
+    },
+    "monthly_burn": {
+      "value": 95000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "September 2026",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 401,
+        "end": 408
+      },
+      "quote": "$95K/mo",
+      "confidence": 0.9,
+      "derivation": "Stated burn of $95K/mo = 95000"
+    },
+    "cash": {
+      "value": 1620000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 418,
+        "end": 424
+      },
+      "quote": "$1.62M",
+      "confidence": 0.9,
+      "derivation": "Stated cash $1.62M = 1620000"
+    },
+    "runway_months": {
+      "value": 17,
+      "unit": "months",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 434,
+        "end": 443
+      },
+      "quote": "17 months",
+      "confidence": 0.9,
+      "derivation": "Founder states 17 months at this burn"
+    },
+    "headcount": {
+      "value": 9,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 369,
+        "end": 380
+      },
+      "quote": "we're 9 now",
+      "confidence": 0.9,
+      "derivation": "Founder states team is 9"
+    },
+    "customers": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 318,
+        "end": 337
+      },
+      "quote": "11 paying customers",
+      "confidence": 0.9,
+      "derivation": "Stated 11 paying customers"
+    },
+    "key_highlight": {
+      "value": "MRR nearly tripled after self-serve launch, from $9.8K in June to $27.4K in September",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 211,
+        "end": 257
+      },
+      "quote": "MRR nearly tripled after the self-serve launch",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Model API costs are 38% of revenue and rising with usage",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C21_lanternwick_2026-10-11.txt",
+      "source_span": {
+        "start": 477,
+        "end": 533
+      },
+      "quote": "model API costs are 38% of revenue and rising with usage",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

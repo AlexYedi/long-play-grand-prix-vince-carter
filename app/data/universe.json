@@ -1,0 +1,461 @@
+{
+  "built_at": "2026-10-24T18:26:30.022Z",
+  "real_data": true,
+  "source": "akta.pro: list generation by investor uuid (portfolio), company_assessment.peers (competitor set)",
+  "funds": [
+    {
+      "name": "March Capital",
+      "akta_id": "000086d",
+      "portfolio_size_in_akta": 72,
+      "portcos": [
+        {
+          "akta_id": "00002m5",
+          "name": "Overjet",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Recurring SaaS contracts sold to DSOs, group practices, and individual dental offices. Pricing is quote-based, structured around deployment size (locations, providers), with multi-year enterprise agreements (e.g., Dental Care Alliance expansion across 400+ practices). Bundles Vision AI, IRIS, Voice, Insurance Verification, and ReviewPASS.",
+              "source": [
+                "https://www.overjet.com/"
+              ],
+              "title": "Enterprise SaaS subscriptions",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Provider Network Management, Recruiting, Provider Data Management, and Provider Portal products sold to dental insurance carriers. ADE (American Dental Examiners) acquisition in 2021 added licensed dental claims review services for utilization management.",
+              "source": [
+                "https://www.overjet.com/"
+              ],
+              "title": "Payer / Insurer solutions",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Deployment, integration, and training services accompanying enterprise rollouts (e.g., comprehensive training sessions and system integrations for DCA's 400-practice deployment).",
+              "source": [
+                "https://www.overjet.com/"
+              ],
+              "title": "Professional / implementation services",
+              "type": {
+                "code": "professional_services",
+                "label": "Professional Services"
+              }
+            },
+            {
+              "description": "ReviewPASS delivers real-time signals on whether claims bypass manual clinical review at participating payers; volume/transaction-based revenue from payer integrations covering 300+ procedures.",
+              "source": [
+                "https://www.overjet.com/blog/overjet-announces-dental-clarity-network-to-streamline-benefits-for-patients"
+              ],
+              "title": "Transactional claims / ReviewPASS processing",
+              "type": {
+                "code": "transaction_fee",
+                "label": "Transaction Fee"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "00002dz",
+              "name": "Pearl (Pearl AI)",
+              "peer_type": "Direct Peer",
+              "why": "Pearl is the closest direct competitor to Overjet, offering FDA-cleared AI for dental radiograph analysis and pathology detection. Both companies compete head-to-head for DSO and dental practice contracts, and Pearl is explicitly listed alongside Overjet as an interchangeable AI imaging vendor on Planet DDS's DentalOS platform."
+            },
+            {
+              "akta_id": "00002z9",
+              "name": "VideaHealth (Henry Schein)",
+              "peer_type": "Direct Peer",
+              "why": "VideaHealth is a dental AI imaging competitor that was acquired by Henry Schein in 2024, giving it distribution advantage through the largest dental distributor. It directly competes with Overjet's Vision AI for the same DSO and group practice customers, and is similarly positioned as a Planet DDS DentalOS integration partner."
+            },
+            {
+              "akta_id": "0005v2n",
+              "name": "Denti.AI",
+              "peer_type": "Emerging Player",
+              "why": "Denti.AI is an earlier-stage dental AI company offering image analysis for dental radiographs, voice charting, and insurance verification — overlapping with both Vision AI and Overjet Voice. It represents a smaller, more focused competitor in the same dental AI category."
+            },
+            {
+              "akta_id": "0005yzu",
+              "name": "Planet DDS (DentalOS)",
+              "peer_type": "Emerging Player",
+              "why": "Planet DDS provides Denticon, an AI-native DSO enterprise platform, and has integrated Overjet alongside Pearl and VideaHealth as AI imaging options. It is both a channel partner and an adjacent competitor in DSO workflow software, making it a key distribution dependency and a strategic threat if it builds competing AI capabilities."
+            }
+          ]
+        },
+        {
+          "akta_id": "00008iv",
+          "name": "Snorkel AI",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Expert-curated data development services delivered as ongoing programs. Includes ready-to-use Snorkel Data Series products and custom dataset development engagements. Revenue generated through project-based and recurring program contracts with enterprise clients.",
+              "source": [
+                "https://snorkel.ai/"
+              ],
+              "title": "Data-as-a-Service (DaaS)",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Sale of benchmark-grade datasets and environments from the Snorkel Data Series catalog. Programs include Terminal-Bench+, SWE-Bench+, Enterprise Agentic Environments, CUA-Bench+, and GDPval+ products refreshed quarterly.",
+              "source": [
+                "https://snorkel.ai/"
+              ],
+              "title": "Benchmark and Evaluation Products",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "End-to-end custom AI agent development services for specialized enterprise workflows. Covers scoping, development, deployment, and continuous iteration engagements.",
+              "source": [
+                "https://snorkel.ai/"
+              ],
+              "title": "Custom Agent Development",
+              "type": {
+                "code": "professional_services",
+                "label": "Professional Services"
+              }
+            },
+            {
+              "description": "Enterprise evaluation platform product for measuring and tuning specialized AI models. New product launched in 2025 as part of expanded platform offering.",
+              "source": [
+                "https://www.thesaasnews.com/news/snorkel-ai-raises-100-million-in-series-d"
+              ],
+              "title": "Snorkel Evaluate",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "0002azl",
+              "name": "Labelbox",
+              "peer_type": "Direct Peer",
+              "why": "Labelbox provides a data-centric AI platform for training data creation, labeling, and evaluation, sold to ML teams at enterprises. It competes directly with Snorkel Flow as a programmatic labeling and curation platform."
+            },
+            {
+              "akta_id": "00000di",
+              "name": "Scale AI",
+              "peer_type": "Direct Peer",
+              "why": "Scale AI is the leading AI data labeling and evaluation platform, serving frontier labs and enterprises with annotated training data and RLHF services. It directly competes with Snorkel across data labeling, evaluation, and expert-data offerings and is explicitly named as a competitor in Snorkel's market."
+            },
+            {
+              "akta_id": "0000qzl",
+              "name": "Surge AI",
+              "peer_type": "Direct Peer",
+              "why": "Surge AI is a data labeling platform purpose-built for frontier AI teams, focusing on expert-labeled datasets and evaluation. It targets the same frontier-lab and enterprise customers with a similar expert-driven labeling model."
+            },
+            {
+              "akta_id": "00002bj",
+              "name": "Sama",
+              "peer_type": "Direct Peer",
+              "why": "Sama delivers AI data annotation and model validation services with a focus on high-quality, human-labeled data for ML teams. It overlaps with Snorkel's expert-curated data development and evaluation services for enterprise AI deployments."
+            }
+          ]
+        },
+        {
+          "akta_id": "00003id",
+          "name": "Forter",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Enterprise SaaS revenue from merchants subscribing to Forter's Trust Platform, which unifies fraud management, payment optimization, dispute management, account protection, and abuse prevention into a single platform. Quote-based/enterprise contracts typical.",
+              "source": [
+                "https://www.forter.com/company/"
+              ],
+              "title": "SaaS Trust Platform Subscriptions",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Revenue from payment service providers (PSPs) embedding Forter's fraud decisioning into their platforms via a single integration. Includes optional chargeback guarantee backed by automated, real-time decisions.",
+              "source": [
+                "https://www.forter.com/forter-element/"
+              ],
+              "title": "Forter Element for PSPs (OEM/Embedded)",
+              "type": {
+                "code": "licensing_royalties",
+                "label": "Licensing Royalties"
+              }
+            },
+            {
+              "description": "Pricing tied to transaction volume, with the platform processing more than $400 billion in annual transaction value across merchants. ROI calculator helps merchants quantify value.",
+              "source": [
+                "https://www.forter.com/"
+              ],
+              "title": "Usage/Transaction-Based Pricing",
+              "type": {
+                "code": "usage_based",
+                "label": "Usage Based"
+              }
+            },
+            {
+              "description": "Sales via AWS Marketplace, including the AI Agents and Tools category where Forter's Trusted Agentic Commerce solution is listed. Eligible AWS customers can apply AWS committed spend (EDP).",
+              "source": [
+                "https://finance.yahoo.com/news/forter-partners-global-qsr-leader-140000435.html"
+              ],
+              "title": "AWS Marketplace Transactions",
+              "type": {
+                "code": "marketplace_commission",
+                "label": "Marketplace Commission"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "0002rlm",
+              "name": "Ravelin",
+              "peer_type": "Direct Peer",
+              "why": "Fraud, account takeover, and payment fraud prevention SaaS for online merchants, with growing footprint in Europe. Overlaps with Forter in payment fraud and account protection use cases."
+            },
+            {
+              "akta_id": "00002xb",
+              "name": "Signifyd",
+              "peer_type": "Direct Peer",
+              "why": "Enterprise fraud protection platform offering a 100% chargeback guarantee across the customer journey, serving many of the same enterprise retail and DTC customers as Forter."
+            },
+            {
+              "akta_id": "0003l7p",
+              "name": "Accertify",
+              "peer_type": "Direct Peer",
+              "why": "Enterprise fraud prevention and chargeback management platform serving airlines, travel, retail, and digital goods merchants. Direct overlap with Forter's enterprise travel and retail customer base."
+            },
+            {
+              "akta_id": "0000b4d",
+              "name": "Riskified",
+              "peer_type": "Direct Peer",
+              "why": "Publicly traded e-commerce fraud prevention SaaS platform using AI to approve/deny transactions for enterprise merchants. Directly comparable business model, customer base (apparel, luxury, travel, marketplaces), and chargeback-guarantee pricing to Forter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Left Lane Capital",
+      "akta_id": "00004a4",
+      "portfolio_size_in_akta": 93,
+      "portcos": [
+        {
+          "akta_id": "00002dz",
+          "name": "Pearl",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Pearl operates on a recurring SaaS subscription model, charging dental practices and DSOs for access to its AI-powered software suite (Second Opinion, Practice Intelligence, Precheck, Voice, Calibrate, RCM). Pricing is likely per-practice or per-seat, with enterprise pricing for multi-location DSOs. The company targets both individual dental practices (SMB/mid-market) and large dental service organizations (enterprise) through sales-assisted subscriptions.",
+              "source": [
+                "https://hellopearl.com/products/second-opinion"
+              ],
+              "title": "SaaS Subscriptions for Dental AI Software",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Pearl generates revenue through integrations with 40+ dental imaging and practice management platforms (Open Dental, Dentrix, Eaglesoft, Carestream, Curve, Romexis, etc.), potentially through API access fees, platform partnership agreements, or co-distribution revenue share arrangements embedded in the dental software ecosystem.",
+              "source": [
+                "https://hellopearl.com/"
+              ],
+              "title": "Platform and API Integration Fees",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "00002m5",
+              "name": "Overjet",
+              "peer_type": "Direct Peer",
+              "why": "Overjet is a US-based AI platform that provides FDA-cleared dental imaging AI for pathology detection and dental-insurance claims analysis, serving DSOs and insurance payers—the closest direct competitor to Pearl in dental diagnostic AI."
+            },
+            {
+              "akta_id": "0007ijl",
+              "name": "Diagnocat",
+              "peer_type": "Direct Peer",
+              "why": "Diagnocat is a dental imaging AI company offering 2D and 3D CBCT radiograph analysis and pathology detection for dentists and DSOs globally, overlapping directly with Pearl's Second Opinion and Second Opinion 3D product lines."
+            },
+            {
+              "akta_id": "00002z9",
+              "name": "VideaHealth",
+              "peer_type": "Direct Peer",
+              "why": "VideaHealth develops FDA-cleared dental imaging AI for caries and other pathology detection on dental X-rays, targeting DSOs and dental practices—directly competing with Pearl's Second Opinion capabilities."
+            },
+            {
+              "akta_id": "00049wa",
+              "name": "Curve Dental",
+              "peer_type": "Others",
+              "why": "Curve Dental is a cloud-based dental practice management platform and a Pearl integration partner via its Developer Program—adjacent rather than competitive, but a stakeholder in the dental software ecosystem where Pearl distributes."
+            }
+          ]
+        },
+        {
+          "akta_id": "0000lea",
+          "name": "GlossGenius",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Monthly/annual subscription fees for platform access across three tiers (Standard, Gold, Platinum). Pricing ranges from $24-148/month depending on tier and billing frequency. Includes core booking, scheduling, payments, marketing, and business management features.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Subscription Plans",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "2.6% flat payment processing rate with no hidden fees for Tap to Pay, card-on-file, or manual entry transactions. Revenue generated from transaction fees on every payment processed through the platform.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Payment Processing",
+              "type": {
+                "code": "transaction_fee",
+                "label": "Transaction Fee"
+              }
+            },
+            {
+              "description": "Sale of GlossGenius card readers and point-of-sale hardware through the GeniusShop e-commerce store.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Hardware Sales",
+              "type": {
+                "code": "hardware_sales",
+                "label": "Hardware Sales"
+              }
+            },
+            {
+              "description": "Merchants can create and sell memberships and packages to clients, generating recurring revenue for the platform through increased transaction volume.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Memberships & Packages",
+              "type": {
+                "code": "subscription_recurring",
+                "label": "Subscription Recurring"
+              }
+            },
+            {
+              "description": "Gift card sales that drive additional transaction volume through the platform.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Gift Cards",
+              "type": {
+                "code": "transaction_fee",
+                "label": "Transaction Fee"
+              }
+            },
+            {
+              "description": "Provides loans and financing options to merchants, generating revenue through interest or fees on capital advances.",
+              "source": [
+                "https://glossgenius.com/"
+              ],
+              "title": "Loans & Financing",
+              "type": {
+                "code": "managed_services",
+                "label": "Managed Services"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "000049s",
+              "name": "Vagaro",
+              "peer_type": "Direct Peer",
+              "why": "Vagaro is a direct vertical SaaS competitor offering booking, payments, marketing, and salon/spa management software to the same SMB beauty and wellness market GlossGenius targets, with comparable subscription tiers and a similar all-in-one value proposition."
+            },
+            {
+              "akta_id": "00004od",
+              "name": "Fresha",
+              "peer_type": "Direct Peer",
+              "why": "Fresha is a leading global salon and spa software platform that competes head-to-head with GlossGenius on booking, payments, and marketplace discovery. Like GlossGenius, Fresha emphasizes transparent flat-rate payment processing and serves solopreneurs and multi-location operators."
+            },
+            {
+              "akta_id": "00005dt",
+              "name": "Boulevard",
+              "peer_type": "Direct Peer",
+              "why": "Boulevard is a premium salon and spa software platform targeting upscale and multi-location operators, with a particular focus on medspa and self-care brands. It directly competes with GlossGenius in the Platinum/mid-market tier and on the medspa vertical."
+            },
+            {
+              "akta_id": "00007y4",
+              "name": "Mangomint",
+              "peer_type": "Direct Peer",
+              "why": "Mangomint is a modern salon and spa software platform emphasizing client experience and operational tools. It competes directly with GlossGenius in mid-market and multi-location salons and is frequently compared in GlossGenius's own competitive content."
+            }
+          ]
+        },
+        {
+          "akta_id": "00000so",
+          "name": "Talkiatry",
+          "product_category": null,
+          "business_model": [
+            {
+              "description": "Per-visit fees billed directly to commercial insurance payers on behalf of patients (in-network with 100+ insurers covering ~170M lives). Patients typically pay a copay (~$30 average). Talkiatry does not currently offer self-pay and does not accept Medicaid. This is the dominant revenue stream.",
+              "source": [
+                "https://www.talkiatry.com/insurance"
+              ],
+              "title": "Insurance-billed psychiatric and therapy visits",
+              "type": {
+                "code": "usage_based",
+                "label": "Usage Based"
+              }
+            },
+            {
+              "description": "B2B contracts and referral partnerships with health systems, payer organizations, and employers (e.g., AMGA strategic partnership, NYCBS oncology partnership) that generate referral volume and care-delivery revenue, plus institutional demand for psychiatric capacity.",
+              "source": [
+                "https://www.prnewswire.com/news-releases/amga-and-talkiatry-announce-strategic-partnership-to-expand-access-to-in-network-psychiatric-care-nationwide-302742785.html"
+              ],
+              "title": "Health system, payer, and employer partnerships",
+              "type": {
+                "code": "managed_services",
+                "label": "Managed Services"
+              }
+            }
+          ],
+          "peers": [
+            {
+              "akta_id": "0000a6x",
+              "name": "Cerebral",
+              "peer_type": "Direct Peer",
+              "why": "Cerebral is a direct competitor in online psychiatry and medication management for conditions such as anxiety, depression, and ADHD. It targets a similar commercially insured patient base with employed or contracted clinicians, overlapping directly with Talkiatry's core offering."
+            },
+            {
+              "akta_id": "00009oi",
+              "name": "Lyra Health",
+              "peer_type": "Direct Peer",
+              "why": "Lyra Health is a direct competitor providing in-network virtual therapy and psychiatry through employer and payer contracts. It uses a similar measurement-based care model and competes for the same enterprise customers and clinician talent as Talkiatry."
+            },
+            {
+              "akta_id": "000004k",
+              "name": "Spring Health",
+              "peer_type": "Direct Peer",
+              "why": "Spring Health provides employer-sponsored mental health benefits including therapy and psychiatry with measurement-based outcomes, competing head-to-head with Talkiatry in the payer/employer enterprise motion."
+            },
+            {
+              "akta_id": "0000aip",
+              "name": "Headspace Health",
+              "peer_type": "Direct Peer",
+              "why": "Headspace Health (the merger of Headspace and Ginger) delivers on-demand therapy, coaching, and psychiatry through employer and payer contracts, directly competing with Talkiatry for in-network virtual behavioral health volume."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

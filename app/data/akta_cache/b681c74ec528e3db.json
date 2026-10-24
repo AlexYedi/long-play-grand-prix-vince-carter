@@ -1,0 +1,838 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002bj&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:13.207Z",
+  "data": {
+    "total": 8,
+    "limit": 50,
+    "offset": 0,
+    "count": 8,
+    "data": [
+      {
+        "id": 35578782,
+        "title": "Sama to reveal case prototypes, PSUs and AIO coolers at Computex 2026",
+        "url": "https://www.kitguru.net/channel/generaltech/joao-silva/sama-to-reveal-case-prototypes-psus-and-aio-coolers-at-computex-2026/",
+        "publisher": "KitGuru",
+        "published_date": "2026-05-28T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9169,
+        "ai_summary": "Sama will showcase PC case prototypes, AIO liquid coolers, and power supplies at Computex 2026. The cases include the V80 and V70 with alternative layouts, while the Q80 and Q40 AIOs feature dual screens and rotating pump blocks. New PSUs like the P1650 and G850 comply with Intel ATX 3.1 and PCIe 5.1 standards.",
+        "word_count": 231,
+        "original_language": "EN",
+        "author": "João Silva",
+        "countries": [],
+        "industries": [
+          {
+            "name": "PC Cases, Chassis & Case Accessories",
+            "code": "HDACAGAG",
+            "is_primary": true
+          },
+          {
+            "name": "Cooling & Thermal Solutions (Air/Liquid, fans, thermal paste)",
+            "code": "HDACAGAF",
+            "is_primary": false
+          },
+          {
+            "name": "Power Supplies & Power Cables (PSUs)",
+            "code": "HDACAGAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000226",
+            "name": "computer and telecommunications hardware"
+          },
+          {
+            "code": "20001258",
+            "name": "consumer electronics"
+          },
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "601",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "3341",
+            "name": "Manufacturing"
+          },
+          {
+            "code": "334111",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3577",
+            "name": "COMPUTER PERIPHERAL EQUIPMENT, NEC"
+          },
+          {
+            "code": "3674",
+            "name": "SEMICONDUCTORS & RELATED DEVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "kitguru"
+          ],
+          "location": [],
+          "product": [
+            "g850",
+            "p1000",
+            "g1000",
+            "p1350",
+            "p1650",
+            "p1200",
+            "sama v70",
+            "sama v80",
+            "psus",
+            "q80",
+            "sama q40",
+            "power supplies",
+            "pc cases",
+            "aio liquid coolers"
+          ],
+          "event": [
+            "computex 2026"
+          ]
+        },
+        "newsworthiness_score": 0.8177,
+        "group_id": 275616,
+        "full_text": "Sama has announced its product showcase for Computex 2026, which takes place next week. At the event, they will preview the upcoming lineup of PC cases, as well as new AIO liquid coolers and power supplies.\n\nThe showcase includes two PC case prototypes designed around alternative internal layouts. The Sama V80 features a dual-curved tempered-glass front panel built into a floating chassis design with integrated ambient lighting, a built-in 60W fast-charging port, and an isolated internal airflow duct directed at the graphics card. The Sama V70 relies on a front-mounted power supply to clear up internal viewing angles, shifting away from a traditional box-shaped exterior.\n\nSama is also expanding its AIO liquid cooling lineup with the Q80. This one has a metal-finish enclosure and a dual-screen configuration with interchangeable 4-inch and 6-inch IPS display panels, letting users separate hardware-monitoring from desktop content. The Sama Q40 uses a motorised rotating outer ring on the pump block to produce three-dimensional physical motion, paired with a central customisable LCD and three pre-installed 28mm-thick cooling fans trimmed with side-facing ARGB infinity mirrors.\n\nAs for the PSUs, the lineup has been updated with a series of new models, including the P1650, P1350, P1200, P1000, G1000, and G850. The entire lineup complies with Intel ATX 3.1 and PCIe 5.1 standards, and feature a fully modular cable layout.\n\nKitGuru says: Interested in any of Sama's new hardware being shown at Computex 2026?"
+      },
+      {
+        "id": 35557326,
+        "title": "Sama launches S50 PC case with back-connect support and ARGB fans",
+        "url": "https://www.kitguru.net/components/cases/matthew-wilson/sama-launches-s50-pc-case-with-back-connect-support-and-argb-fans/",
+        "publisher": "KitGuru",
+        "published_date": "2026-05-19T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6284,
+        "ai_summary": "Sama launched the S50, a compact ATX case with four pre-installed 120mm ARGB PWM fans, priced at $110. It supports ATX, Micro-ATX, Mini-ITX, and back-connect motherboards, plus GPUs up to 410mm and CPUs up to 165mm. The case is available in black or white.",
+        "word_count": 398,
+        "original_language": "EN",
+        "author": "Matthew Wilson",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "PC Cases, Chassis & Case Accessories",
+            "code": "HDACAGAG",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000226",
+            "name": "computer and telecommunications hardware"
+          },
+          {
+            "code": "20001258",
+            "name": "consumer electronics"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "596",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "334111",
+            "name": "Manufacturing"
+          },
+          {
+            "code": "3341",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3571",
+            "name": "ELECTRONIC COMPUTERS"
+          },
+          {
+            "code": "3570",
+            "name": "COMPUTER & OFFICE EQUIPMENT"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "us"
+          ],
+          "product": [
+            "s50"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7075,
+        "group_id": 10177166,
+        "full_text": "Sama has introduced the S50, a compact ATX case that ships with four pre‑installed 120mm ARGB PWM fans, aiming to deliver strong airflow and lighting straight out of the box.\n\nThe S50 uses a front‑mounted PSU compartment to reduce overall footprint while maintaining hardware compatibility. It supports ATX, Micro‑ATX, Mini‑ITX, and back‑connect ATX/Micro‑ATX motherboards, along with graphics cards up to 410mm long, CPU coolers up to 165mm tall, and ATX power supplies up to 180mm long. For expanded cooling, the case accommodates up to 11 fans and a 360mm radiator at the top.\n\nIn the table below, you can see the full spec sheet for the case:\n\nModel S50 Dimensions (L) 475 x (W) 235 x (H) 426mm Color Black / White Material SPCC: 0.7 / 0.8 / 0.9mm\n\nTempered Glass: 4.0mm\n\nABS Motherboard Support ATX / Micro-ATX / Mini-ITX Back Connect Motherboard ATX / Micro-ATX Expansion Slot 7 Storage 4 x 2.5” SSD\n\n3 x 3.5″ HDD GPU Length Clearance 410mm (Max.) CPU Cooler Height Clearance 165mm (Max.) PSU ATX (Max. 180mm) Fan Support Front: 3 x 120mm\n\nTop: 3 x 120mm\n\nRear: 1 x 120mm\n\nBottom: 3 x 120mm\n\nSide: 1 x 120mm Radiator Support Top: 360 / 240 / 120mm\n\nRear: 120mm Pre-Installed Fans Front: 3 x 120mm ARGB PWM Fans\n\nTop: N/A\n\nRear: 1 x 120mm ARGB PWM Fan\n\nBottom: N/A\n\nSide: N/A Pre-Installed Fan Specs Speed: 700–1500 ±10% RPM\n\nAir Flow: 64.9 CFM\n\nAir Pressure: 1.65 mm-H₂O\n\nNoise: 26.8 dB(A) I/O Ports 1 x Power Button\n\n1 x LED Button\n\n1 x HD Audio\n\n2 x USB 3.0\n\n1 x USB 3.2 Gen 2×2 Type‑C Dust Filters 1 x Bottom\n\n1 x Right side panel\n\nAirflow is handled by the four included ARGB PWM fans, controlled through an integrated ARGB/PWM hub supporting up to six fans. Lighting can be managed via the front‑panel LED button or synced with motherboard software. As the case supports six fans in total, there is plenty of room for you to add extra cooling later on if needed.\n\nTo simplify building, the S50 features tool‑less quick‑release side, front and top panels. Behind the motherboard tray, you will find 47mm of cable‑management space, multiple tie‑down points and defined routing channels help keep wiring tidy. Storage is supported through a removable bracket that holds up to three 3.5‑inch HDDs or four 2.5‑inch SSDs.\n\nThe Sama S50 is available in the US now, in black or white colour options, priced at $110.\n\nKitGuru Says: Do you often look for pre-installed fans when shopping for a new PC case?"
+      },
+      {
+        "id": 35525067,
+        "title": "Es'hailSat expands channel offerings",
+        "url": "https://www.qatar-tribune.com/article/232965/latest-news/eshailsat-expands-channel-offerings",
+        "publisher": "Qatar Tribune ",
+        "published_date": "2026-05-06T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Es'hailSat added Sama Jordan TV to its video distribution lineup at the 26° East orbital position via the Es'hail-2 satellite. The move brings a leading regional news broadcaster to the satellite's footprint, which covers the Middle East and North Africa.",
+        "word_count": 188,
+        "original_language": "EN",
+        "author": "Qatar Tribune",
+        "countries": [
+          "QAT",
+          "JOR"
+        ],
+        "industries": [
+          {
+            "name": "Satellite Video & Media Distribution (DTH, Contribution/Distribution, Occasional Use)",
+            "code": "HDAIAJAG",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00061yu",
+            "name": "Es'hailSat",
+            "website": "http://www.eshailsat.qa",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000051",
+            "name": "television"
+          },
+          {
+            "code": "20000304",
+            "name": "media and entertainment industry"
+          },
+          {
+            "code": "20000309",
+            "name": "news agency"
+          },
+          {
+            "code": "20000144",
+            "name": "air and space accident and incident"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "116",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "516120",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "4833",
+            "name": "TELEVISION BROADCASTING STATIONS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rabea al awamleh",
+            "ali ahmed al kuwari"
+          ],
+          "location": [
+            "jordan",
+            "qatar",
+            "26° east",
+            "mena",
+            "middle east",
+            "north africa"
+          ],
+          "product": [
+            "es'hail-2"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 11548075,
+        "full_text": "DOHA: Es'hailSat, the Qatar Satellite Company, announced that it has expanded its channel offerings by incorporating Sama Jordan TV channel into its video distribution lineup at the 26° East orbital position, facilitated by the Es'hail-2 satellite.\n\n\"Es'hailSat is delighted to welcome Sama Jordan TV channel and bring on board one of the region's leading news broadcasters to our satellite hotspot,\" President and CEO of Es'hailSat Ali Ahmed Al Kuwari said.\n\n\"We believe that the reliability and expertise in providing satellite services by Es'hailSat aligns perfectly with Sama Jordan's vision to serve as a leading news broadcaster, providing comprehensive and reliable information to the country's public,\" he added.\n\nCEO of Sama Jordan TV, Rabea Al Awamleh, stated: \"We have chosen to broadcast via the Es'hailSat satellite due to its strategic importance at the orbital position of 26° East. This ensures that Sama Jordan TV will be alongside the majority of key channels in the region that also transmit through Es'hailSat.\"\n\nThe Es'hailSat satellite footprint strategically encompasses the Middle East and North Africa (MENA) region, optimising signal coverage and enabling significant viewership potential for the news broadcaster's channel from Jordan throughout this expansive area."
+      },
+      {
+        "id": 33488164,
+        "title": "Data Curation Capabilities and Enhanced 3D &amp; LiDAR Annotation Features",
+        "url": "https://bit.ly/3LH5Txm",
+        "publisher": "Bitly",
+        "published_date": "2026-01-01T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Sama announced new data curation and enhanced 3D and LiDAR annotation features for its ML platform. The features aim to improve model accuracy with less data, with 3D and LiDAR annotations producing up to 94-98% IOU. The company also highlights active learning and expert partnerships for quality rubrics and integrations.",
+        "word_count": 675,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "603",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "abraham lincoln",
+            "girish kulkarni"
+          ],
+          "location": [],
+          "product": [
+            "sama curate",
+            "sama annotate"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8076,
+        "group_id": 10206065,
+        "full_text": "Table of Contents Prioritize labels that will have the biggest impact on your model’s performance with Sama Curate Sama Curate can bring you better model accuracy with less data for higher ROI on your models. Sama Annotate: New and improved 3D and LiDAR features Sama delivers high-quality 3D and LiDAR labels at scale. Talk to an Expert Today, Sama is thrilled to announce a host of new offerings which will allow us to continue to power our customers’ ML models with unmatched accuracy, scale, and efficiency.This includes data curation and enhanced 3D and LiDAR annotation features. Here’s a rundown of what’s new. Prioritize labels that will have the biggest impact on your model’s performance with Sama Curate Many sources cite that 80% of a data scientist’s time is spent finding, cleaning, and organizing data. This is because the most effective ML engineers understand that this sort of preparatory work is key to accelerating the development of their models in the long run. “Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.” - Abraham Lincoln It’s also why Sama is excited to introduce our data curation solution. Sama Curate offers seamless integration with the Sama Data Annotation Platform to provide the highest degree of automation to cost-effectively select and label massive amounts of data quickly with accuracy. Sama Curate ensures every labeled asset adds value for better accuracy with less data — and a quicker, more cost-effective path to production. With Sama Curate, ML engineers can be more strategic in selecting the data they send for annotation. Powerful visualization tools empower them to understand the diversity of their data and quickly identify edge cases. State-of-the-art data curation approaches such as Active Learning provide a continuous feedback loop to ensure AI practitioners are always prioritizing the most high-value data for their models. Sama Curate can bring you better model accuracy with less data for higher ROI on your models. Sama Annotate: New and improved 3D and LiDAR features Safety prerequisites in the autonomous vehicles industry have created the need for redundant perception, with companies requiring a fully integrated sensor suite — including LiDAR, RADAR, and 360-degree cameras — to train their models. The resulting data is notoriously difficult and expensive to label, leading to steep costs and poor model performance in unpredictable conditions. For years, Sama has been working to solve these challenges for the world’s largest vehicle and parts manufacturers, and today we’re ready to launch our enhanced 3D and LiDAR annotation features. Sama provides unparalleled tools and expertise to deliver uncompromisingly high-quality ground truth annotations for your 3D and LiDAR data. Sama annotation experts leverage our ML-powered platform to deliver labels with unmatched accuracy and speed for your sensor fusion, semantic and instance segmentation, and object tracking use cases. State-of-the-art 3D and LiDAR annotation tools boost annotation efficiency and allow you to achieve high quality at scale, predictably producing up to 94-98% IOU.In addition to our ML-powered platform, Sama machine learning researchers and technical solutions teams partner with you to become experts on your data: they develop robust quality rubrics for your requirements, seamless integrations for your systems, and solve for edge cases that can otherwise slow your path to production. Sama delivers high-quality 3D and LiDAR labels at scale. “Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.”- Abraham Lincoln This adage may come from a by-gone era, but the sentiment holds true.At Sama, we have long believed that efficiency improvements early in the ML model development process — whether curating your data, iterating early and often, or selecting the right annotation partner — have significant positive compounding effects, resulting in better label quality and model performance.These are just a few of the many exciting new features Sama has been working on to help you “sharpen your axe” before you set out to build your ML models — to ultimately bring you cost savings, efficiency improvements, and quicker time to market. Author Girish Kulkarni"
+      },
+      {
+        "id": 18240967,
+        "title": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
+        "url": "https://www.vcstar.com/press-release/story/12341/sama-eliminates-repetitive-work-in-ai-data-labeling-with-launch-of-bulk-annotation/",
+        "publisher": "Ventura County Star",
+        "published_date": "2025-11-21T22:31:38",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Sama announced the launch of a new Bulk Annotation feature to improve AI data labeling efficiency and quality. The new tool significantly reduces manual effort and increases consistency during data annotation, with early pilots showing up to 80% faster results and a 25% reduction in inconsistencies. ",
+        "word_count": 783,
+        "original_language": "EN",
+        "author": ".Wp-Block-Post-Author-Name Box-Sizing Border-Box",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "51929",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "duncan curtis",
+            "karan vasdev"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9332,
+        "group_id": 5814187,
+        "full_text": "This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation Sama New data classification feature transforms how enterprises build high-quality training data, delivering up to 80% faster results and 25% improvement in consistency, without sacrificing quality Sama , delivering data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services, today announced a major advancement in how AI training data is created. The company’s new classification product with Bulk Annotation eliminates one of the industry’s most persistent inefficiencies: the need to manually label nearly identical items over and over again. Sama’s Bulk Annotation capabilities significantly reduce effort while increasing efficiency, accuracy and dataset consistency. Early pilots have shown to increase throughput up to 80% and reduce annotation inconsistencies as much as 25%, while maintaining Sama’s industry-leading quality standards. The repetitive process of data labeling is slow, expensive and prone to inconsistency, and it impacts every company building AI systems at scale. Whether categorizing thousands of product variants for e-commerce, validating outputs from large language models, or organizing vast document libraries, teams have traditionally needed to review and label each individual item, even when many items are essentially the same. Sama’s Bulk Annotation feature uses advanced machine learning techniques within the platform to identify groups of similar items, including duplicates, variants and near-matches, and present them together so annotators can classify entire groups at once. A single annotation is then applied across all related items, dramatically reducing wasted effort while improving the consistency of the final dataset. “As AI becomes mission-critical for more enterprises, the quality and efficiency of training data is now a competitive advantage,” said Duncan Curtis, SVP of AI product and technology at Sama. “Companies can’t afford to build AI on inconsistent data, but they also can’t afford to spend months on repetitive labeling work. Our Bulk Annotation feature solves both problems at once.” Unlike traditional annotation tools that simply speed up manual work, Sama’s solution rethinks the workflow entirely. The platform’s intelligence layer handles the complexity of grouping related items, so clients don’t need to prepare or restructure their data in advance. Quality assurance also becomes more efficient, with review teams able to validate at the group level rather than checking every individual item. This technology addresses a growing need across industries. Retailers managing catalogs with thousands of product variations can now annotate entire product families in one step. Companies deploying generative AI can validate model outputs more efficiently and consistently. Financial services and healthcare organizations dealing with complex documents benefit from faster classification even as their data requirements evolve. Bulk Annotation is designed to work whether data structures are stable or constantly changing, giving enterprises flexibility as their AI initiatives mature. “We created Bulk Annotation by listening to our workforce and clients,” said Karan Vasdev, product manager at Sama. “Following UX research and sampling from our R&D team that further validated frustrations we were hearing from both our annotators and our clients, we were able to design, build and deliver this new capability in under four months.” While other solutions rely on generic annotation tooling or fragmented labor pools, Sama integrates platform innovation with a managed, expert, in-house workforce. This alignment allows the company to optimize workflows end to end, achieving throughput and quality gains that are difficult to replicate elsewhere in the market. Bulk Annotation is available now to all Sama clients, and existing projects will be migrated seamlessly to the new version. About Sama Sama delivers data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services. By combining advanced platforms with expert human judgment, Sama helps some of the world’s largest companies, including 30% of the Fortune 50, move AI models from development to production with confidence. With thousands of skilled data professionals and industry-leading quality guarantees, Sama tackles the critical challenge that over 63% of AI models fail to reach production due to poor data quality. Founded in 2008, Sama has delivered more than 40 billion data points and created employment opportunities that have helped over 70,000 people lift themselves out of poverty. As a certified B Corporation, Sama is committed to advancing both technological innovation and social impact. Learn more at www.sama.com . Sama Media Contact: press@samasource.org SOURCE: Sama View the original press release on ACCESS Newswire Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media\n\nView More"
+      },
+      {
+        "id": 15753434,
+        "title": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
+        "url": "https://www.usatoday.com/press-release/story/19035/sama-eliminates-repetitive-work-in-ai-data-labeling-with-launch-of-bulk-annotation/",
+        "publisher": "USA TODAY",
+        "published_date": "2025-11-21T20:31:31",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Sama announced the launch of Bulk Annotation, a new data classification feature designed to streamline AI training data creation by allowing annotators to label groups of similar items simultaneously. Early pilots indicate this technology can increase throughput by up to 80% and reduce annotation inconsistencies by 25% while maintaining quality standards.",
+        "word_count": 796,
+        "original_language": "EN",
+        "author": ".Wp-Block-Post-Author-Name Box-Sizing Border-Box",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000748",
+            "name": "information science"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "616",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "duncan curtis",
+            "karan vasdev"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9535,
+        "group_id": 5814187,
+        "full_text": "This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. The placement of this content is part of a paid service. Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation Written by Sama New data classification feature transforms how enterprises build high-quality training data, delivering up to 80% faster results and 25% improvement in consistency, without sacrificing quality Sama , delivering data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services, today announced a major advancement in how AI training data is created. The company’s new classification product with Bulk Annotation eliminates one of the industry’s most persistent inefficiencies: the need to manually label nearly identical items over and over again. Sama’s Bulk Annotation capabilities significantly reduce effort while increasing efficiency, accuracy and dataset consistency. Early pilots have shown to increase throughput up to 80% and reduce annotation inconsistencies as much as 25%, while maintaining Sama’s industry-leading quality standards. The repetitive process of data labeling is slow, expensive and prone to inconsistency, and it impacts every company building AI systems at scale. Whether categorizing thousands of product variants for e-commerce, validating outputs from large language models, or organizing vast document libraries, teams have traditionally needed to review and label each individual item, even when many items are essentially the same. Sama’s Bulk Annotation feature uses advanced machine learning techniques within the platform to identify groups of similar items, including duplicates, variants and near-matches, and present them together so annotators can classify entire groups at once. A single annotation is then applied across all related items, dramatically reducing wasted effort while improving the consistency of the final dataset. “As AI becomes mission-critical for more enterprises, the quality and efficiency of training data is now a competitive advantage,” said Duncan Curtis, SVP of AI product and technology at Sama. “Companies can’t afford to build AI on inconsistent data, but they also can’t afford to spend months on repetitive labeling work. Our Bulk Annotation feature solves both problems at once.” Unlike traditional annotation tools that simply speed up manual work, Sama’s solution rethinks the workflow entirely. The platform’s intelligence layer handles the complexity of grouping related items, so clients don’t need to prepare or restructure their data in advance. Quality assurance also becomes more efficient, with review teams able to validate at the group level rather than checking every individual item. This technology addresses a growing need across industries. Retailers managing catalogs with thousands of product variations can now annotate entire product families in one step. Companies deploying generative AI can validate model outputs more efficiently and consistently. Financial services and healthcare organizations dealing with complex documents benefit from faster classification even as their data requirements evolve. Bulk Annotation is designed to work whether data structures are stable or constantly changing, giving enterprises flexibility as their AI initiatives mature. “We created Bulk Annotation by listening to our workforce and clients,” said Karan Vasdev, product manager at Sama. “Following UX research and sampling from our R&D team that further validated frustrations we were hearing from both our annotators and our clients, we were able to design, build and deliver this new capability in under four months.” While other solutions rely on generic annotation tooling or fragmented labor pools, Sama integrates platform innovation with a managed, expert, in-house workforce. This alignment allows the company to optimize workflows end to end, achieving throughput and quality gains that are difficult to replicate elsewhere in the market. Bulk Annotation is available now to all Sama clients, and existing projects will be migrated seamlessly to the new version. About Sama Sama delivers data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services. By combining advanced platforms with expert human judgment, Sama helps some of the world’s largest companies, including 30% of the Fortune 50, move AI models from development to production with confidence. With thousands of skilled data professionals and industry-leading quality guarantees, Sama tackles the critical challenge that over 63% of AI models fail to reach production due to poor data quality. Founded in 2008, Sama has delivered more than 40 billion data points and created employment opportunities that have helped over 70,000 people lift themselves out of poverty. As a certified B Corporation, Sama is committed to advancing both technological innovation and social impact. Learn more at www.sama.com . Sama Media Contact: press@samasource.org SOURCE: Sama View the original press release on ACCESS Newswire Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media\n\nView More"
+      },
+      {
+        "id": 18240972,
+        "title": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
+        "url": "https://www.sctimes.com/press-release/story/12398/sama-eliminates-repetitive-work-in-ai-data-labeling-with-launch-of-bulk-annotation/",
+        "publisher": "St. Cloud Times",
+        "published_date": "2025-11-21T19:52:13",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Sama announced the launch of its new data classification feature called Bulk Annotation, which significantly improves the efficiency and accuracy of AI data labeling. This feature uses machine learning to identify and annotate groups of similar items, increasing throughput and consistency, and reducing manual effort. ",
+        "word_count": 783,
+        "original_language": "EN",
+        "author": ".Wp-Block-Post-Author-Name Box-Sizing Border-Box",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Data Quality, Validation & Ground Truth Auditing",
+            "code": "HDAAALAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000748",
+            "name": "information science"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "519290",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "duncan curtis",
+            "karan vasdev"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9329,
+        "group_id": 5814187,
+        "full_text": "This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation Sama New data classification feature transforms how enterprises build high-quality training data, delivering up to 80% faster results and 25% improvement in consistency, without sacrificing quality Sama , delivering data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services, today announced a major advancement in how AI training data is created. The company’s new classification product with Bulk Annotation eliminates one of the industry’s most persistent inefficiencies: the need to manually label nearly identical items over and over again. Sama’s Bulk Annotation capabilities significantly reduce effort while increasing efficiency, accuracy and dataset consistency. Early pilots have shown to increase throughput up to 80% and reduce annotation inconsistencies as much as 25%, while maintaining Sama’s industry-leading quality standards. The repetitive process of data labeling is slow, expensive and prone to inconsistency, and it impacts every company building AI systems at scale. Whether categorizing thousands of product variants for e-commerce, validating outputs from large language models, or organizing vast document libraries, teams have traditionally needed to review and label each individual item, even when many items are essentially the same. Sama’s Bulk Annotation feature uses advanced machine learning techniques within the platform to identify groups of similar items, including duplicates, variants and near-matches, and present them together so annotators can classify entire groups at once. A single annotation is then applied across all related items, dramatically reducing wasted effort while improving the consistency of the final dataset. “As AI becomes mission-critical for more enterprises, the quality and efficiency of training data is now a competitive advantage,” said Duncan Curtis, SVP of AI product and technology at Sama. “Companies can’t afford to build AI on inconsistent data, but they also can’t afford to spend months on repetitive labeling work. Our Bulk Annotation feature solves both problems at once.” Unlike traditional annotation tools that simply speed up manual work, Sama’s solution rethinks the workflow entirely. The platform’s intelligence layer handles the complexity of grouping related items, so clients don’t need to prepare or restructure their data in advance. Quality assurance also becomes more efficient, with review teams able to validate at the group level rather than checking every individual item. This technology addresses a growing need across industries. Retailers managing catalogs with thousands of product variations can now annotate entire product families in one step. Companies deploying generative AI can validate model outputs more efficiently and consistently. Financial services and healthcare organizations dealing with complex documents benefit from faster classification even as their data requirements evolve. Bulk Annotation is designed to work whether data structures are stable or constantly changing, giving enterprises flexibility as their AI initiatives mature. “We created Bulk Annotation by listening to our workforce and clients,” said Karan Vasdev, product manager at Sama. “Following UX research and sampling from our R&D team that further validated frustrations we were hearing from both our annotators and our clients, we were able to design, build and deliver this new capability in under four months.” While other solutions rely on generic annotation tooling or fragmented labor pools, Sama integrates platform innovation with a managed, expert, in-house workforce. This alignment allows the company to optimize workflows end to end, achieving throughput and quality gains that are difficult to replicate elsewhere in the market. Bulk Annotation is available now to all Sama clients, and existing projects will be migrated seamlessly to the new version. About Sama Sama delivers data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services. By combining advanced platforms with expert human judgment, Sama helps some of the world’s largest companies, including 30% of the Fortune 50, move AI models from development to production with confidence. With thousands of skilled data professionals and industry-leading quality guarantees, Sama tackles the critical challenge that over 63% of AI models fail to reach production due to poor data quality. Founded in 2008, Sama has delivered more than 40 billion data points and created employment opportunities that have helped over 70,000 people lift themselves out of poverty. As a certified B Corporation, Sama is committed to advancing both technological innovation and social impact. Learn more at www.sama.com . Sama Media Contact: press@samasource.org SOURCE: Sama View the original press release on ACCESS Newswire Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media\n\nView More"
+      },
+      {
+        "id": 33633003,
+        "title": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation",
+        "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/sama-eliminates-repetitive-work-in-ai-data-labeling-with-launch-1103945",
+        "publisher": "ACCESS Newswire",
+        "published_date": "2025-11-19T08:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Sama launched Bulk Annotation, a data classification feature that groups similar items for single annotation. Early pilots show up to 80% faster throughput and 25% fewer inconsistencies. The feature is available now to all clients.",
+        "word_count": 701,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000748",
+            "name": "information science"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "duncan curtis",
+            "karan vasdev"
+          ],
+          "location": [
+            "san francisco, ca"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9256,
+        "group_id": 10177201,
+        "full_text": "Sama Eliminates Repetitive Work in AI Data Labeling with Launch of Bulk Annotation\nWednesday, 19 November 2025 08:00 AM\nCompany Update\nNew data classification feature transforms how enterprises build high-quality training data, delivering up to 80% faster results and 25% improvement in consistency, without sacrificing quality\nSAN FRANCISCO, CA / ACCESS Newswire / November 19, 2025 / Sama, delivering data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services, today announced a major advancement in how AI training data is created. The company's new classification product with Bulk Annotation eliminates one of the industry's most persistent inefficiencies: the need to manually label nearly identical items over and over again. Sama's Bulk Annotation capabilities significantly reduce effort while increasing efficiency, accuracy and dataset consistency. Early pilots have shown to increase throughput up to 80% and reduce annotation inconsistencies as much as 25%, while maintaining Sama's industry-leading quality standards.\nThe repetitive process of data labeling is slow, expensive and prone to inconsistency, and it impacts every company building AI systems at scale. Whether categorizing thousands of product variants for e-commerce, validating outputs from large language models, or organizing vast document libraries, teams have traditionally needed to review and label each individual item, even when many items are essentially the same.\nSama's Bulk Annotation feature uses advanced machine learning techniques within the platform to identify groups of similar items, including duplicates, variants and near-matches, and present them together so annotators can classify entire groups at once. A single annotation is then applied across all related items, dramatically reducing wasted effort while improving the consistency of the final dataset.\n\"As AI becomes mission-critical for more enterprises, the quality and efficiency of training data is now a competitive advantage,\" said Duncan Curtis, SVP of AI product and technology at Sama. \"Companies can't afford to build AI on inconsistent data, but they also can't afford to spend months on repetitive labeling work. Our Bulk Annotation feature solves both problems at once.\"\nUnlike traditional annotation tools that simply speed up manual work, Sama's solution rethinks the workflow entirely. The platform's intelligence layer handles the complexity of grouping related items, so clients don't need to prepare or restructure their data in advance. Quality assurance also becomes more efficient, with review teams able to validate at the group level rather than checking every individual item.\nThis technology addresses a growing need across industries. Retailers managing catalogs with thousands of product variations can now annotate entire product families in one step. Companies deploying generative AI can validate model outputs more efficiently and consistently. Financial services and healthcare organizations dealing with complex documents benefit from faster classification even as their data requirements evolve. Bulk Annotation is designed to work whether data structures are stable or constantly changing, giving enterprises flexibility as their AI initiatives mature.\n\"We created Bulk Annotation by listening to our workforce and clients,\" said Karan Vasdev, product manager at Sama. \"Following UX research and sampling from our R&D team that further validated frustrations we were hearing from both our annotators and our clients, we were able to design, build and deliver this new capability in under four months.\"\nWhile other solutions rely on generic annotation tooling or fragmented labor pools, Sama integrates platform innovation with a managed, expert, in-house workforce. This alignment allows the company to optimize workflows end to end, achieving throughput and quality gains that are difficult to replicate elsewhere in the market.\nBulk Annotation is available now to all Sama clients, and existing projects will be migrated seamlessly to the new version.\nAbout Sama\nSama delivers data certainty for enterprise AI through tech-enabled annotation, validation and evaluation services. By combining advanced platforms with expert human judgment, Sama helps some of the world's largest companies, including 30% of the Fortune 50, move AI models from development to production with confidence. With thousands of skilled data professionals and industry-leading quality guarantees, Sama tackles the critical challenge that over 63% of AI models fail to reach production due to poor data quality.\nFounded in 2008, Sama has delivered more than 40 billion data points and created employment opportunities that have helped over 70,000 people lift themselves out of poverty. As a certified B Corporation, Sama is committed to advancing both technological innovation and social impact. Learn more at www.sama.com.\nSama Media Contact:\nSOURCE: Sama"
+      }
+    ],
+    "credits_consumed": 0.18
+  }
+}

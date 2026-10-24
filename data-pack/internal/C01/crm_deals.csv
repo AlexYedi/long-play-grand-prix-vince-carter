@@ -1,0 +1,22 @@
+# SYNTHETIC internal-system export for the Halyard demo; fictional data, not a real company system.
+deal_id,stage,amount,closed_month,owner,owner_role
+C01-D001,closed_won,18000,2026-04,Mara Quillfeather,founder
+C01-D002,closed_won,14400,2026-04,Theo Brandt,ae
+C01-D003,closed_won,12000,2026-05,Ines Varga,ae
+C01-D004,closed_won,16800,2026-05,Theo Brandt,ae
+C01-D005,closed_won,21600,2026-06,Mara Quillfeather,founder
+C01-D006,closed_won,10800,2026-06,Ines Varga,ae
+C01-D007,closed_lost,12000,2026-06,Theo Brandt,ae
+C01-D008,closed_won,19200,2026-07,Theo Brandt,ae
+C01-D009,closed_won,14400,2026-07,Ines Varga,ae
+C01-D010,closed_won,24000,2026-07,Mara Quillfeather,founder
+C01-D011,closed_won,16800,2026-08,Kofi Mensah,ae
+C01-D012,closed_won,12000,2026-08,Ines Varga,ae
+C01-D013,closed_won,21600,2026-08,Theo Brandt,ae
+C01-D014,closed_won,18000,2026-09,Kofi Mensah,ae
+C01-D015,closed_won,9600,2026-09,Ines Varga,ae
+C01-D016,closed_won,14400,2026-09,Theo Brandt,ae
+C01-D017,closed_lost,9600,2026-09,Kofi Mensah,ae
+C01-D018,proposal,30000,2026-11,Mara Quillfeather,founder
+C01-D019,proposal,19200,2026-11,Theo Brandt,ae
+C01-D020,qualified,16800,2026-12,Kofi Mensah,ae

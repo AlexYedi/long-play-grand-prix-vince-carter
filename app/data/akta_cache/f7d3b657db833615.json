@@ -1,0 +1,123 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000gqh&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:59.160Z",
+  "data": {
+    "total": 1,
+    "limit": 50,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 26487715,
+        "title": "CareStack and Alphaeon Patient Financing Announce New Integration to Help Practices Increase Case Acceptance, Improve Patient Access, and Accelerate Growth",
+        "url": "https://aijourn.com/carestack-and-alphaeon-patient-financing-announce-new-integration-to-help-practices-increase-case-acceptance-improve-patient-access-and-accelerate-growth/",
+        "publisher": "Aijourn",
+        "published_date": "2026-06-23T16:30:44",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "CareStack and Alphaeon Patient Financing announced a new integration that embeds patient financing options directly within CareStack's cloud-based dental practice management platform. The integration aims to address rising patient financial responsibility as a barrier to treatment by enabling practices to present flexible payment options within their existing workflows. This partnership is designed to improve case acceptance rates, reduce administrative burden on staff, and support practice growth by making financing more accessible at the point of care.",
+        "word_count": 599,
+        "original_language": "EN",
+        "author": "Cision Pr Newswire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Patient Financial Engagement (Estimates, Billing Presentment, Payments)",
+            "code": "HLACAEAI",
+            "is_primary": true
+          },
+          {
+            "name": "Multi-Location & Enterprise Practice Operations",
+            "code": "HLACADAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00029yz",
+            "name": "Alphaeon",
+            "website": "https://www.alphaeon.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000gqh",
+            "name": "CareStack",
+            "website": "http://www.carestack.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62111",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "abhi krishna",
+            "thomas ervesun"
+          ],
+          "location": [
+            "newport beach, calif."
+          ],
+          "product": [
+            "carestack",
+            "alphaeon"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9645,
+        "group_id": 2504602,
+        "full_text": "New integration streamlines patient financing within CareStack’s practice management platform, making it easier for providers to help patients move forward with care. NEWPORT BEACH, Calif., June 23, 2026 /PRNewswire/ — CareStack, a leading cloud-based dental practice management platform, and Alphaeon Patient Financing, a premier patient financing solution designed for elective healthcare, today announced the launch of a new integration that helps practices seamlessly incorporate patient financing into their existing workflows.\n\n\n\nThe integration is designed to address one of the most significant challenges facing healthcare providers today: helping patients confidently move forward with treatment in an environment where patient financial responsibility continues to rise. “Financial concerns remain one of the biggest barriers between patients and treatment,” said Abhi Krishna, Chief Executive Officer of CareStack. “By integrating Alphaeon into CareStack, we’re helping practices make accessible financing part of the care journey, enabling more patients to move forward with recommended treatment, while improving case acceptance and practice growth for our customers.” By connecting CareStack’s comprehensive practice management capabilities with Alphaeon’s financing platform, providers can offer patients flexible payment options directly within their workflow, reducing financial friction, improving operational efficiency, and increasing treatment acceptance. “Patients are increasingly seeking flexible ways to pay for care, and providers need tools that make those conversations easier,” said Thomas Ervesun, Chief Executive Officer, Alphaeon. “By integrating Alphaeon directly within CareStack, we’re helping practices remove barriers that often stand between patients and treatment. Together, we’re creating a better experience for providers, staff, and the patients they serve.” Addressing a Growing Industry Challenge As deductibles, out-of-pocket expenses, and elective treatment costs continue to rise, financial concerns have become one of the leading reasons patients delay or decline recommended care. For practices, this often results in: Lower case acceptance rates\n\nDelayed treatment starts\n\nLost production opportunities\n\nIncreased pressure on front-office teams\n\nSlower revenue growth The new CareStack and Alphaeon integration helps practices proactively address these challenges by making financing more accessible, visible, and actionable at the point of care. Key Benefits of the Integration The integration enables practices to: Present financing options within existing workflows\n\nReduce administrative burden on clinical and front-office teams\n\nHelp patients make informed treatment decisions with confidence\n\nImprove treatment conversion and case acceptance rates\n\nIncrease revenue opportunities through higher treatment completion\n\nDeliver a more convenient and patient-friendly financial experience Supporting Practice Growth Through Better Financial Experiences The integration reflects a growing trend among leading healthcare organizations: recognizing that patient financing is no longer simply a payment solution, but a strategic growth tool. When patients have access to financing options that fit their needs, providers can help more patients move forward with treatment plans, improve patient satisfaction, and strengthen practice performance. With Alphaeon’s industry-leading provider support, competitive financing offers, and patient-first approach combined with CareStack’s modern cloud-based platform, practices now have a powerful solution to help drive both operational efficiency and practice growth. Availability The CareStack and Alphaeon integration is now available to eligible CareStack customers. To learn more about the integration and upcoming educational opportunities, visit myalphaeoncredit.com/carestack. About CareStack CareStack is a leading cloud-based dental practice management platform designed to simplify operations, improve patient engagement, and help dental organizations scale efficiently. Its all-in-one platform supports scheduling, clinical workflows, billing, analytics, patient communications, and more for practices of all sizes. About Alphaeon Alphaeon is a patient financing solution that helps patients access elective healthcare procedures and treatments through flexible payment options. Trusted by providers nationwide, Alphaeon helps practices improve patient affordability, increase treatment acceptance, and support long-term growth backed by a 24/7 provider-hotline answered in 60 seconds or less. Learn more about our provider solutions at myalphaeoncredit.com. View original content to download multimedia:https://www.prnewswire.com/news-releases/carestack-and-alphaeon-patient-financing-announce-new-integration-to-help-practices-increase-case-acceptance-improve-patient-access-and-accelerate-growth-302807767.html SOURCE Alphaeon Credit, Inc."
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

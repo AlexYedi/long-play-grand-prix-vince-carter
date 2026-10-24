@@ -1,0 +1,2906 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00000so&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:26.753Z",
+  "data": {
+    "total": 26,
+    "limit": 20,
+    "offset": 0,
+    "count": 20,
+    "data": [
+      {
+        "id": 35076013,
+        "title": "5 Behavioral Health VC Investors to Watch",
+        "url": "https://bhbusiness.com/2026/09/02/5-behavioral-health-vc-investors-to-watch/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-09-02T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.7603,
+        "ai_summary": "VC funding in behavioral health rebounded in 2026 after a 2024 low, with large rounds like Talkiatry's $210M Series D and Grow Therapy's $150M Series D. The article highlights five firms—GreyMatter, Goldman Sachs Alternatives, Kaiser, General Catalyst, and HealthQuest—backing tech-enabled providers and specialized services.",
+        "word_count": 1596,
+        "original_language": "EN",
+        "author": "Ashleigh Hollowell",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Healthcare & Life Sciences Growth Equity",
+            "code": "FSANACAB",
+            "is_primary": true
+          },
+          {
+            "name": "Sector-Focused Venture Capital (Vertical Specialists)",
+            "code": "FSANAAAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000n5n",
+            "name": "AnswersNow",
+            "website": "https://getanswersnow.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000vxt",
+            "name": "Vanna Health",
+            "website": "https://www.vanna.health/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002cce",
+            "name": "Valera Health",
+            "website": "http://www.valerahealth.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0004u9r",
+            "name": "Rebound Health",
+            "website": "https://hellorebound.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003zh",
+            "name": "Birches Health",
+            "website": "https://bircheshealth.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00009c2",
+            "name": "Groups Recover Together",
+            "website": "http://GroupsRecoverTogether.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008jf",
+            "name": "Better Life Partners",
+            "website": "https://www.betterlifepartners.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003ga",
+            "name": "Click Therapeutics",
+            "website": "http://www.clicktherapeutics.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000026s",
+            "name": "Grow Therapy",
+            "website": "https://growtherapy.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0099ljc",
+            "name": "Radial",
+            "website": "https://meetradial.co",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000aip",
+            "name": "Headspace",
+            "website": "https://www.headspace.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000tvj",
+            "name": "Mindoula Health",
+            "website": "http://www.mindoula.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002i2",
+            "name": "Sword Health",
+            "website": "https://sword.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007dx",
+            "name": "InStride Health",
+            "website": "https://instride.health",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007flh",
+            "name": "Mindful Health Solutions",
+            "website": "https://mindfulhealthsolutions.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00syd8f",
+            "name": "Tenor Therapy",
+            "website": "https://tenortherapy.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0008k4n",
+            "name": "Flourish Health",
+            "website": "https://www.flourish.health",
+            "is_primary": false
+          },
+          {
+            "uuid": "00q39pd",
+            "name": "Salma Health",
+            "website": "https://www.salmahealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008xl",
+            "name": "Coral Care",
+            "website": "https://www.joincoralcare.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000ic2",
+            "name": "NOCD",
+            "website": "https://www.treatmyocd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "109",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6222",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "cooper zelnick",
+            "virgilio bento"
+          ],
+          "location": [
+            "new england"
+          ],
+          "product": [
+            "townhome health",
+            "valera health",
+            "talkiatry",
+            "vanna health",
+            "anna health",
+            "pelago",
+            "willow health",
+            "coral care",
+            "kyan health",
+            "blackbird health",
+            "familywell",
+            "grow therapy",
+            "firsthand",
+            "era",
+            "manatee",
+            "autism",
+            "flourish health",
+            "nema",
+            "luna family",
+            "salma health",
+            "osmind",
+            "rippl",
+            "spravato",
+            "sondermind",
+            "instride health",
+            "alma",
+            "birches health",
+            "cortica",
+            "equip health",
+            "tenor therapy",
+            "cartwheel care",
+            "ophelia health",
+            "elemy",
+            "noto",
+            "headspace",
+            "eleanor health",
+            "amwell"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9907,
+        "group_id": 11297299,
+        "full_text": "This is an exclusive BHB+ story.\n\nVenture capital investments in behavioral health are emerging from a lull as firms recalibrated their priorities in 2024 and have since identified new strategic targets as the sector has matured.\n\nBehavioral health, and in particular digital mental health solutions, saw an influx of capital in 2021, driven by the pandemic, with funding peaking around $4.9 billion, according to Rock Health. After that, there was talk of VC capital “drying up” around early 2022. Since then, VC funding dipped to a low of $1.4 billion in 2024. But behavioral health venture capital funding has recently been reinvigorated by investor conviction, a wave of new mental health startups and large growth funding rounds that target specialized, high-acuity services.\n\nVC investments in behavioral health began the year with large capital rounds paid to platforms that target access and infrastructure, including a $210 million Series D round for Talkiatry, a $150 million Series D round for Grow Therapy, $80 million out of stealth for Salma Health and $40 million for AnswerNow’s telehealth applied behavioral analysis (ABA) services. All four of those mega fundraises took place during the first quarter of 2026.\n\nAdvertisement\n\nVC investments across behavioral health during the second quarter of 2026 looked a bit different, with more attention to specialty services and slightly smaller, though still noteworthy, capital raises, including deals like Click Therapeutics’ $50 million Series D and a $30 million round for Instride Health.\n\nNow that the market has matured past the COVID-induced telehealth arms race, venture capital funding is being prioritized for providers and solutions that have promising infrastructure and aim to improve access rather than merely investing in the promise of digital mental health.\n\nAcross all five VC firms that Behavioral Health Business is watching, one theme is clear: behavioral health is embracing technology, and the future belongs to strategic providers with scalable, tech-enabled, payer-aligned care models.\n\nAdvertisement\n\nGreyMatter Capital\n\nNoteworthy behavioral health investments:\n\nAnna Health\n\nBlackbird Health\n\nCoral Care\n\nEra\n\nFamilyWell\n\nfirsthand\n\nKyan Health\n\nFlourish\n\nLuna Family Autism\n\nManatee\n\nNema\n\nPelago\n\nTalkiatry\n\nTownHome Health\n\nValera Health\n\nVanna Health\n\nWillow Health\n\nWhy BHB is watching:\n\nSan Francisco-based GreyMatter Capital is a venture firm that invests solely in mental health founders. It has a swath of behavioral health providers and tech-enabled solutions in its investment portfolio, but a handful have raised significant capital to scale in the last year.\n\nIn February, virtual psychiatry provider Talkiatry raised a $210 million Series D round, which was almost the total of all the funding it had received up to that point, bringing its total funding to roughly $452 million. The company will use much of the new funding to bolster its AI capabilities.\n\nAnother one of GreyMatter’s portfolio companies, pediatric psychiatric care provider Flourish Health, raised $26 million for its Series A round in July. Its goal is to scale high-acuity psychiatric care for youth populations.\n\nSerious mental illness provider Vanna Health secured $17 million in a Series B round earlier this summer and will use the capital to enter new markets soon. The company also named a new CEO shortly before the fundraise. One of the new CEO’s goals is to deepen payer partnerships and wraparound services for patients.\n\nPediatric speech, occupational and physical therapy provider Coral Care, another GreyMatter investment, secured a $13 million Series A in February, and aims to connect families with therapists for in-home services. The company noted that with this funding, it will move to scale nationally.\n\nOther noteworthy developments among GreyMatter’s portfolio companies this year include the acquisition of Valera Health by Mindoula in July. Terms of the deal were not disclosed, but Mindoula noted the deal was a move to expand its collaborative care model with established psychiatric services.\n\nAnother one we’re watching in this portfolio is Pelago’s announcement that it will transition from being historically a substance use disorder (SUD) care provider and expand into general behavioral health. Its first move in this vein was a wellness support chatbot capable of escalating issues to Pelago’s in-house clinical team.\n\nGoldman Sachs Alternatives Growth Equity\n\nNoteworthy behavioral health investments:\n\nGrow Therapy\n\nWhy BHB is watching:\n\nGoldman Sachs Alternatives Growth Equity’s portfolio company Grow Therapy made headlines earlier this year when it secured a whopping $150 million Series D round in March 2026. That brought the digital mental health platform’s projected annual revenue to more than $1 billion. Prior to the large capital round, Grow Therapy made a strategic investment and acquired the AI scribe tool Tenor Therapy in February. The company’s last funding round prior to its Series D was an $88 million Series C in 2024. The new infusion of capital, coupled with its latest acquisition, positions it to make additional, scalable investments going forward in the sector.\n\nKaiser Permanente Ventures\n\nNoteworthy behavioral health investments:\n\nHeadspace\n\nGroups Recover Together\n\nMind 24-7\n\nNoto (formerly NOCD)\n\nWhy BHB is watching:\n\nKaiser Permanente Ventures made BHB’s list of VC firms to watch in 2025, as well, but for different reasons. This year, the firm’s portfolio companies Headspace, Groups Recover Together and NOCD all were part of significant, strategic transactions.\n\nVirtual mental health provider Headspace is set to be acquired by Sword Health in a cash deal reportedly valued at $300 million. The valuation is lower than some in the industry expected, particularly as many have had Headspace on their bingo cards as a company that could potentially IPO. The transaction comes just about one year after Headspace launched its direct-to-consumer therapy services. Sword Health, a New York City-based digital health provider, began making moves into behavioral health last summer and its valuation jumped to $4 billion. Sword Health’s CEO Virgilio Bento previously told HB that expanding capabilities into SMI care and growing its AI offerings, are part of its trajectory on its path toward a possible 2028 IPO.\n\nAddiction treatment provider Groups Recover Together, another investment in Kaiser’s portfolio, made its first-ever acquisition in March 2026 and hinted that more activity in that vein is likely on the horizon. Its purchase of Better Life Partners deepens its resources throughout New England and introduces new care model elements that will allow the company to expand into new territories. Better Life Partners had been a bit of a distressed asset, with a series of financial and operational issues. Still, it had two assets that Groups wanted: virtual responsive care and walk-in clinic capabilities, CEO Cooper Zelnick, told BHB. Those are likely to scale further across the company over time.\n\nVirtual OCD provider NOCD, another one of Kaiser’s portfolio companies, acquired trauma care provider Rebound Health earlier this year. Now the two entities operate under the new brand identity “Noto.” The transaction follows a market trend BHB has been keeping tabs on, where several new providers entering the market are entering niche areas of care and adding on, rather than starting broad and trying to narrow. The deal added trauma-focused care capabilities, which NOCD did not previously provide. An ongoing priority now for the newly formed company Noto is to continue to add new services for other complex behavioral health conditions.\n\nGeneral Catalyst\n\nNoteworthy behavioral health investments:\n\nRadial\n\nBirches Health\n\nOphelia Health\n\nCortica\n\nElemy\n\nCartwheel Care\n\nEleanor Health\n\nEquip Health\n\nInStride Health\n\nOsmind\n\nRippl\n\nSonderMind\n\nSpring Health\n\nWhy BHB is watching:\n\nGeneral Catalyst has long been a powerhouse investment firm known for backing successful healthcare companies with venture investments. Throughout 2026, several of its portfolio companies were part of sizable transactions or on the receiving end of large capital infusions.\n\nLate last year, General Catalyst led a $50 million funding round for New York City-based Radial, which provides clinic-based interventional psychiatry services like transcranial magnetic stimulation (TMS), Spravato, and neuromodulation treatments. Not only was the funding a vote of confidence from its investors, zooming out, interventional psychiatry is also on the rise across the industry as the latest hot commodity.\n\nFollowing the $50 million Series A round, Radial acquired Mindful Health Solutions, a larger and older outpatient operator, this August for an undisclosed amount. Mindful Health Solutions has similar interventional psychiatry offerings and this single deal exponentially multiplied Radial’s geographic footprint. Radial is less than one year into its hold period with General Catalyst and anticipates tailwinds from the boom in interventional psychiatry will propel it further.\n\nAlso, as part of General Catalyst’s massive investment portfolio, Spring Health disclosed its plans to acquire digital mental health platform Alma in January. The transaction took place amid a wave of digital health dealmaking that began in 2026. Digital mental health is an area that is likely to continue to see consolidation following the explosion of solutions out of the pandemic, which is starting to balance out. Spring’s move to buy Alma skyrocketed its revenue expectations to $1 billion in its first year following the close of the deal, with its valuation rising to between $6 billion and $7 billion.\n\nOther noteworthy developments among General Catalyst’s investments this year were also InStride Health’s $30 million Series C and Birches Health’s $20 million capital raise. Pediatric behavioral health provider InStride raised the capital at the beginning of 2026 and told BHB it plans to use it to expand into new markets. Birches Health’s funding came late in 2025, but has remained noteworthy in 2026, as both public and private audiences have renewed their attention on gambling addiction, which is one of its primary service lines. It’s likely there will be more expansion or consolidation in this area of behavioral and process addictions over time as concerns about gambling and social media rise.\n\nHealthQuest Capital\n\nNoteworthy behavioral health investments:\n\nAnswersNow\n\nWhy BHB is watching:\n\nVirtual autism therapy provider AnswersNow secured a $40 million Series B in January, marking its first fundraise since 2023. The company provides ABA care via telehealth with board-certified behavior analysts (BCBAs), which is typically a clinic-based service. AnswersNow executives said that following the new capital infusion, its focus will be on “aggressively” scaling its platform, eventually adding new service lines and expanding its use of AI. HealthQuest Capital successfully exited AmWell, another behavioral health company, in the past."
+      },
+      {
+        "id": 32823948,
+        "title": "Patience is not caution: The case for rethinking capital in youth mental health",
+        "url": "https://impactalpha.com/patience-is-not-caution-the-case-for-rethinking-capital-in-youth-mental-health/",
+        "publisher": "Impactalpha",
+        "published_date": "2026-08-18T11:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0224,
+        "ai_summary": "The article argues that the behavioral health sector's reliance on traditional venture capital creates a boom-bust cycle that harms early-stage youth mental health companies due to misaligned growth expectations and regulatory complexities. It advocates for patient capital models, citing examples like Talkiatry's large funding round and Flourish Health's strategic Series A, to allow time for clinical validation and operational stability. The author urges investors to adopt blended-capital approaches that prioritize long-term impact over rapid scaling. ",
+        "word_count": 1119,
+        "original_language": "EN",
+        "author": "Nathaan Demers",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Early-Stage Venture Capital (Series A/B)",
+            "code": "FSANAAAB",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health for Children & Adolescents (Youth Services)",
+            "code": "HLAFACAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00027n2",
+            "name": "Acumen America",
+            "website": "http://www.acumenamerica.org",
+            "is_primary": false
+          },
+          {
+            "uuid": "00031jd",
+            "name": "Hopelab",
+            "website": "https://hopelab.org",
+            "is_primary": false
+          },
+          {
+            "uuid": "0008k4n",
+            "name": "Flourish Health",
+            "website": "https://www.flourish.health",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "opinion",
+          "label": "Opinion"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001294",
+            "name": "crowdfunding"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000287",
+            "name": "personal finance and investment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "411",
+            "name": "Personal Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nathaan demers"
+          ],
+          "location": [
+            "united states"
+          ],
+          "product": [
+            "email copilot",
+            "ai assistant"
+          ],
+          "event": [
+            "covid"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9283925,
+        "full_text": "Patience is not caution: The case for rethinking capital in youth mental health\n\nWith rates of anxiety and depression among young people near all-time highs, there is no shortage of founders working within the youth mental health space. And they are not short on innovation, passion or capabilities. However, the funding boom-bust cycle in the behavioral health sector following the influx of investment capital during COVID leaves many companies struggling to secure funding that is aligned with the nuances of innovation in a highly regulated, fragmented behavioral healthcare system. In prior clinical roles, I have supported hundreds of young people coping with mental health challenges and families navigating care systems with long waitlists and countless access barriers. The challenges felt tangible, human and present. Now, working at Hopelab in an impact investing capacity, I see a different systemic barrier — the mismatch between how early-stage mental health companies grow and how they’re funded. That mismatch shapes whether young people have access to the supports they need or are left without them. Boom and bust The behavioral health funding environment tells a stark story. Venture capital deployment peaked at roughly $5 billion in 2021 at the height of COVID, up from approximately $2 billion in 2020. Since then, investments have returned to 2020 levels and, according to some reports, have contracted further. While the causes are many, a key factor is the growth expectations associated with venture capital, which can be misaligned with the realities of early-stage behavioral health companies. From lengthy payor contracting cycles to the complexities of scaling clinical operations across state lines, early-stage growth in this space is time and resource intensive. As a result, much of the capital deployed from 2023 through the present has concentrated on later-stage companies — specifically high-margin service providers such as psychiatry — that have cleared early-stage growing pains and are ready for massive scale. For example, the telepsychiatry provider Talkiatry raised a $210 million Series D in February 2026. While that shift has expanded access to services for many in need, the challenge lies in the constriction of capital for early-stage companies innovating in the space, especially those serving traditionally underserved populations. Seeking patient capital The boom-bust cycle has left many early-stage companies caught between a rock and a hard place: either accepting venture capital that pushes for rapid scale before their care models, compliance infrastructure and reimbursement pathways are stable, or endlessly seeking a rare funding source that tolerates slower, evidence-driven growth. As a result, many run out of time and are forced to close their doors before achieving lasting impact and commercial success. Venture timelines reward velocity, not validation, and in behavioral health, that imbalance often derails both mission and business. Not all sectors are created equal. Tech-first companies like the newest email copilot or AI assistant can grow as fast as consumer markets allow, unencumbered by regulatory oversight, clinical safeguards and complex reimbursement models. Mental health innovators cannot — and should not — because the regulations in place serve an important purpose. But the industry’s highly regulated nature, spanning HIPAA compliance, data governance, licensure requirements and clinical supervision, means responsible scaling takes longer in the early stages than in other sectors. Rushing risks eroding clinical outcomes and consumer trust, both of which are essential to long-term viability for youth-serving behavioral health companies. But how do we — as investors and funders — change this dynamic? Based on primary research and conversations with colleagues and organizations across the field, we propose an alternative path: aligning funding timelines with market realities through more patient capital. Laying the groundwork for growth Patient capital gives youth-serving behavioral health companies the room to go deep within specific markets rather than reaching for wide geographic scale too early, providing the runway needed to become venture ready. By initially focusing within a state or several states, companies can build on a smaller set of clinical and operating regulations and demonstrate clinical outcomes, operational efficiency and financial performance under real-world conditions. With roughly 30 million youth on Medicaid in the United States, the reality is that many states have enough market share to prove out these models. As companies mature in these select markets, they can improve operational efficiency and margins, prioritizing new states with large target populations, favorable reimbursement rates and analogous regulations. This approach builds staying power rather than hype, fostering trust among consumers and buyers — and, in time, making these companies ready for the growth expectations of traditional venture. For example, Flourish Health, a company serving youth and young adults on Medicaid living with severe and persistent mental illnesses, just announced a $26 million Series A. Its growth model involved going deep within a select few markets in the early stage, allowing for the fine-tuning of clinical and operational efficiency, while also allowing enough time for evidence generation. In line with this growth trajectory, the company sought a bridge round that Hopelab co-led with Acumen America, with the understanding that funding was to be used for depth in existing markets, as opposed to scale, an approach less aligned with the orientation of traditional venture funds. Doing so afforded the company additional time and focus to establish a strong foundation and achieve margin expansion within Medicaid populations, which then positioned it to raise a large Series A focused on scale. An ask for investors It’s worth being honest: Not all companies innovating in any space are a fit for traditional venture capital, and the behavioral health field is no exception. However, that does not mean they are weak businesses that should not exist. The caveat is that many require capital that understands the nuances of the space in the early stages, giving them the time to become venture-ready before meeting the growth expectations of traditional venture capital. This is not a call for caution; patient capital is often mistaken for playing it safe, when in fact it is the de-risking work — proving outcomes, stabilizing reimbursement and building trust — that venture-scale growth depends on. Our ask for fellow investors and funders is specific: Consider co-investing in, or helping to create, patient and blended-capital models that bring together grants, philanthropic capital and other nondilutive funding for early-stage behavioral health companies. These instruments provide the runway required to drive innovation and outcomes — and ultimately to determine whether the young people and families I saw in clinical practice will have access to the supports they need. Speed is not synonymous with success. In youth mental health innovation, patience is not caution; it is a prerequisite for lasting impact. Nathaan Demers is principal investor at Hopelab. Guest posts on ImpactAlpha represent the opinions of their authors and do not necessarily reflect the views of ImpactAlpha."
+      },
+      {
+        "id": 25290318,
+        "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out",
+        "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/",
+        "publisher": "Research2Guidance",
+        "published_date": "2026-05-22T13:57:02",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5395,
+        "ai_summary": "Mental health AI funding in 2026 is concentrating sharply on clinical infrastructure companies—psychiatry copilots, AI scribes, and payer-aligned platforms—while capital has largely dried up for consumer wellness apps such as meditation tools and generic chatbots. Record Q1 2026 digital health funding of $4 billion saw five rounds above $50M absorb roughly 74% of mental health capital, with major deals including Talkiatry's $210M Series D, Eleos Health's $60M Series C, and Spring Health's acquisition of Alma creating a mega-platform covering approximately 170 million covered lives. Kintsugi's shutdown in 2026 after raising roughly $28M for voice-based depression screening has become a cautionary case study, illustrating how ventures without a clear path to FDA clearance, reimbursement, and a workflow buyer cannot survive venture timelines.",
+        "word_count": 2380,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": false
+          },
+          {
+            "name": "Behavioral & Mental Health Virtual Care (EAP/Teletherapy)",
+            "code": "HLALADAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000ef6",
+            "name": "Jimini Health",
+            "website": "https://jiminihealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000bhi",
+            "name": "Blossom Health",
+            "website": "https://www.joinblossomhealth.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000gr7",
+            "name": "Marble Health",
+            "website": "https://www.marblehealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002f1",
+            "name": "Eleos Health",
+            "website": "https://www.eleos.health",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008kh",
+            "name": "Affect",
+            "website": "https://www.affect.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000osj",
+            "name": "Handspring Health",
+            "website": "https://www.handspringhealth.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6222",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "sarah hijazi"
+          ],
+          "location": [
+            "us",
+            "eu"
+          ],
+          "product": [
+            "wellness apps",
+            "brightside",
+            "meditation apps",
+            "journaling tools",
+            "kintsugi",
+            "digital therapeutics",
+            "companion bots",
+            "calm-clone",
+            "jimini",
+            "talkiatry"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 586882,
+        "full_text": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out Mental health funding hit record levels in 2026, but capital is concentrating sharply on a very specific shape of company. The pattern across the top-funded rounds is clear: psychiatry copilots, AI scribes, hybrid clinician–AI platforms, payer-aligned workflows, and proprietary clinical data. Generic LLM chatbots, standalone meditation apps, and pure voice-biomarker plays are being walked away from. This article maps where mental health AI capital is actually flowing, where it has stopped, and where the white space sits for founders and innovation partners. Where mental health capital is actually concentrating The numbers tell the story before the narrative does. Q1 2026 closed at a record $4 billion across digital health, with AI now treated as table stakes rather than a thesis [1]. Mental health led the flow once again — extending the trend from H1 2024, when behavioral health startups captured roughly $682M and topped every other clinical category [2]. The headline figure conceals a sharper truth: five rounds above $50M absorbed roughly 74% of all mental health capital in 2025–26 [3]. Investors are not spreading bets. They are concentrating them on a very specific kind of company. Five solution categories absorb the bulk of the capital: Psychiatry copilots and AI-enabled telepsychiatry — the top of the stack. Talkiatry’s $210M Series D led the Q1 cohort, alongside Blossom Health’s $20M raise for an AI copilot embedded in psychiatric workflows [4]. The thesis is straightforward: a chronic psychiatrist shortage, payer reimbursement on the visit side, and AI that extends each clinician’s effective panel without asking patients to trust an algorithm with their care. Rock Health captures the pattern as clinical authority paired with payer compatibility [5]. Licensed providers, real codes, software leverage. The cleanest investment shape in the market.\n\nTalkiatry’s led the Q1 cohort, alongside Blossom Health’s for an AI copilot embedded in psychiatric workflows [4]. The thesis is straightforward: a chronic psychiatrist shortage, payer reimbursement on the visit side, and AI that extends each clinician’s effective panel without asking patients to trust an algorithm with their care. Rock Health captures the pattern as [5]. Licensed providers, real codes, software leverage. The cleanest investment shape in the market. Clinical AI assistants — arguably the highest-conviction segment of the year. Eleos Health closed a $60M Series C on the back of 120+ enterprise customers, multimodal models trained on proprietary therapy-session data, and RCT evidence of faster notes and improved patient outcomes [6]. Psynk AI announced pilots inside a psychiatric hospital the same year [7]. Investors like this category because the ROI is mechanical: less time on notes, fewer compliance errors, more revenue per provider. There is no ambiguity about the buyer or the budget line.\n\nEleos Health closed a on the back of 120+ enterprise customers, multimodal models trained on proprietary therapy-session data, and RCT evidence of faster notes and improved patient outcomes [6]. Psynk AI announced pilots inside a psychiatric hospital the same year [7]. Investors like this category because the ROI is mechanical: less time on notes, fewer compliance errors, more revenue per provider. There is no ambiguity about the buyer or the budget line. Hybrid AI–therapist platforms — the third pillar. Jimini Health raised $17M to embed clinician-supervised AI assistants into therapy workflows, designed from inception to align with CMS and FDA frameworks [8]. Brightside and similar models that pair AI triage with human escalation are getting renewed attention. The pattern is consistent: human in the loop is now a precondition, not a feature .\n\nJimini Health raised to embed clinician-supervised AI assistants into therapy workflows, designed from inception to align with CMS and FDA frameworks [8]. Brightside and similar models that pair AI triage with human escalation are getting renewed attention. The pattern is consistent: . Employer and life-stage platforms — well-funded but crowded. Spring Health’s acquisition of Alma in May 2026 created a mega-platform spanning roughly 170 million covered lives , anchored by Spring’s JAMA-published 92% improvement rate among members [9]. Modern Health, Lyra, and Spring are absorbing share. Expect consolidation rather than new entrants in this category.\n\nSpring Health’s acquisition of Alma in May 2026 created a mega-platform spanning roughly , anchored by Spring’s JAMA-published 92% improvement rate among members [9]. Modern Health, Lyra, and Spring are absorbing share. Expect consolidation rather than new entrants in this category. Youth and specialized care — a quieter but resilient pocket. Handspring Health’s $12M Series A, Marble Health’s $15.5M, and Affect Therapeutics’ $26M Series B point to investor appetite for niche populations where the unmet need is acute and the patient pathway is well-defined. Where capital allocation has stopped Four categories that were funding magnets two years ago have moved from “promising” to “default no”: Generic LLM chatbots dressed as therapy — the most visible loser of 2026. The APA’s caution against using untested chatbots as therapy substitutes has crystallized into VC consensus [10]. Retention is poor, evidence is thin, and the regulatory surface is widening as state-level legislation tightens. Wrappers around public LLMs no longer survive diligence .\n\nThe APA’s caution against using untested chatbots as therapy substitutes has crystallized into VC consensus [10]. Retention is poor, evidence is thin, and the regulatory surface is widening as state-level legislation tightens. . Standalone meditation and mindfulness apps — commoditized. The Calm-clone segment has saturated, and without a clinical pathway or AI-driven personalization tied to measurable outcomes, the category has effectively been priced out of growth funding.\n\nThe Calm-clone segment has saturated, and without a clinical pathway or AI-driven personalization tied to measurable outcomes, the category has effectively been priced out of growth funding. Voice biomarkers and emotion-detection startups — from “promising” to “cautionary.” Kintsugi’s shutdown in 2026 — after raising roughly $28M for voice-based depression and anxiety screening — became the case study cited in nearly every diligence call [11]. The science is genuinely interesting; the path to FDA clearance, reimbursement, and a workflow buyer is too long for venture timelines. Pure diagnostics plays without a reimbursement hook are now a default no .\n\nKintsugi’s shutdown in 2026 — after raising roughly for voice-based depression and anxiety screening — became the case study cited in nearly every diligence call [11]. The science is genuinely interesting; the path to FDA clearance, reimbursement, and a workflow buyer is too long for venture timelines. . Low-engagement companion bots and journaling tools without clinical integration. If the product cannot tie into a payer, employer, or provider channel — and cannot produce a measurable health outcome — it is being treated as a feature, not a company. Two playbooks: Clinical infrastructure vs. consumer wellness The pattern across funded and unfunded companies in 2026 looks less like a single category in flux and more like two distinct playbooks moving in opposite directions. The clinical-infrastructure playbook — psychiatry copilots, AI scribes, hybrid therapy platforms, payer-aligned workflows — sells to clinics, hospitals, employers, or insurers. The consumer-wellness playbook — direct-to-consumer chatbots, meditation apps, journaling tools — sells to individuals through subscriptions and pricing pages. Capital is now flowing almost entirely into the first playbook, and walking away from the second. The divide is not stylistic. It is structural. Clinical-infrastructure companies operate inside reimbursable workflows; consumer-wellness companies fight for retention. Clinical-infrastructure companies have proprietary outcomes data; consumer-wellness companies have download numbers. Clinical-infrastructure companies treat regulation as a moat; consumer-wellness companies treat it as a tax. What the funded companies share Three traits show up in nearly every round above $20M in 2025–26: Proprietary data and clinical credibility. Eleos’s session corpus and RCT evidence, Spring’s JAMA publication, Jimini’s regulatory alignment — these are no longer nice-to-haves. They are the entry ticket. “We don’t invest in an app without evidence of efficacy” is now an explicit VC line [12].\n\nEleos’s session corpus and RCT evidence, Spring’s JAMA publication, Jimini’s regulatory alignment — these are no longer nice-to-haves. They are the entry ticket. is now an explicit VC line [12]. B2B or B2B2C economics. The winners sell to clinics, hospitals, employers, or insurers. Recurring contracts embedded in clinical workflow beat consumer subscription economics every time . Reimbursable workflows — digital therapeutics with CPT codes, prescriber-tied tools — carry the most weight.\n\nThe winners sell to clinics, hospitals, employers, or insurers. . Reimbursable workflows — digital therapeutics with CPT codes, prescriber-tied tools — carry the most weight. Defensibility through data, integration, or regulation. EHR locks, payer relationships, and proprietary outcomes data create real moats. Kintsugi’s regulatory hurdle became fatal; Jimini’s regulatory alignment became its moat. The same gate can stop you or protect you, depending on how early you engaged it. White space: Where AI in mental health is still underbuilt Three pockets stand out as underbuilt relative to their strategic importance — and these are the clearest entry points for founders and innovation partners targeting mental health in 2026–27: Measurement-based care infrastructure. Outcome tracking that plugs into clinician workflows, payer reporting, and employer dashboards. Almost every well-funded round in 2026 is built on top of measurable outcomes — but the measurement layer itself is still fragmented.\n\nOutcome tracking that plugs into clinician workflows, payer reporting, and employer dashboards. Almost every well-funded round in 2026 is built on top of measurable outcomes — but the measurement layer itself is still fragmented. AI-native care navigation for payers and employers. Triage and routing tools that move members from intake to the appropriate level of care — therapist, psychiatrist, digital intervention, crisis resource — inside a single workflow. Mature in primary care; underbuilt in behavioral health.\n\nTriage and routing tools that move members from intake to the appropriate level of care — therapist, psychiatrist, digital intervention, crisis resource — inside a single workflow. Mature in primary care; underbuilt in behavioral health. Specialized care for high-acuity and underserved populations. Severe mental illness, perinatal mental health, child and adolescent psychiatry, substance-use comorbidities. The Handspring–Marble–Affect cohort hints at the appetite; the supply side is still thin. Strategic signals for founders, investors, and incumbents For founders: The era of AI plus mental health equals a Series A is over. The era of AI as embedded clinical infrastructure has begun. Plan validation studies early. Engage regulators before they need to be engaged. Design for clinician and payer workflows from day one. If you cannot point to a reimbursable workflow or a measurable outcome by Series A, your round will not happen.\n\nThe era of AI plus mental health equals a Series A is over. The era of AI as embedded clinical infrastructure has begun. Plan validation studies early. Engage regulators before they need to be engaged. Design for clinician and payer workflows from day one. If you cannot point to a reimbursable workflow or a measurable outcome by Series A, your round will not happen. For investors: The category is consolidating, not contracting. Five rounds absorbed 74% of capital in 2025–26 — expect the next two years to keep concentrating on companies with proprietary data, regulatory alignment, and B2B economics. Voice-biomarker, generic-chatbot, and meditation-app theses are best treated as historical.\n\nThe category is consolidating, not contracting. Five rounds absorbed 74% of capital in 2025–26 — expect the next two years to keep concentrating on companies with proprietary data, regulatory alignment, and B2B economics. Voice-biomarker, generic-chatbot, and meditation-app theses are best treated as historical. For pharma, payers, and provider incumbents: Partnership pipelines into mental health AI startups have never been more strategically valuable. The pool of fundable companies has narrowed sharply, the survivors have proprietary clinical data, and the M&A window is opening. Spring’s acquisition of Alma is unlikely to be the last consolidation move of 2026. The 2026 reset is not subtle. Capital is flowing to companies that make mental health care more efficient, more evidence-based, and more accessible inside existing payment systems. It is walking away from companies that confuse engagement with outcomes. The next wave of mental health AI will not be defined by which app has the largest user base. It will be defined by which platforms become invisible inside the workflows that decide whether a member gets care, a clinician gets paid, and an outcome gets measured. R2GConnect open calls for HealthTech solution providers If you are building a mental health AI solution for clinics, payers, or employers, apply on R2GConnect.com and present your solution in front of decision-makers worldwide: Open Call: 2nd Generation AI-Based Mental Health Solutions — Apply on R2GConnect.com If you are a health plan, employer, or provider group looking to accelerate the integration of mental health AI tools, feel free to get in touch with us — we would be happy to discuss further. Sources [1] Rock Health — Q1 2026 Digital Health Funding Report; record $4B quarter; AI now treated as table stakes. [2] Rock Health — H1 2024 Digital Health Funding Report; mental health led at ~$682M. [3] PitchBook / CB Insights — Mental health funding analysis, 2025–26; five rounds >$50M ≈ 74% of category capital. [4] FierceHealthcare, STAT, MedCity News — Q1 2026 megadeal coverage: Talkiatry $210M Series D; Blossom Health $20M raise. [5] Rock Health — Analysis: psychiatry combines “clinical authority with payer compatibility,” 2025. [6] Eleos Health — Series C announcement, January 2025; $60M, 120+ customers, multimodal models, RCT outcomes data. [7] Psynk AI — Launch and psychiatric hospital pilot announcement, 2025. [8] Jimini Health — $17M seed round announcement, 2025; clinician-supervised AI, CMS/FDA-aligned design. [9] Spring Health — Acquisition of Alma, May 2026; JAMA Network Open study on member outcomes (~92% improvement). [10] American Psychological Association — Advisory on generic AI chatbots in mental health. [11] Multiple outlets — Kintsugi shutdown coverage, 2026; ~$28M raised; FDA and business-model hurdles cited. [12] R2G analysis — Aggregated VC commentary from HLTH, Venture news, and Rock Health, 2025–26. Sarah Hijazi\n\nEmail me Subscribe to our newsletter And receive information about market updates, new research information, and more... Follow us on LinkedIn Get and discuss market news on a frequent basis. Connect using Share Latest Articles AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race – and Wellness Apps Are Priced Out\n\nHealth Plan AI Adoption: Why EU Payers Trail the US — and Where the White Space Sits for HealthTech Vendors\n\nBest-in-Class Beyond the Pill Solutions: How Pharma Should Evaluate and Select BtP Vendor Partners\n\nWhy an IP Strategy Matters Before Fundraising or Exit\n\nDrug Companion Apps in Pharma: How to Choose the Right Vendor and Maximize ROI"
+      },
+      {
+        "id": 21684508,
+        "title": "Investors Want It All: Digital Behavioral Health Companies Dish on Fundraising Secret Sauce",
+        "url": "https://bhbusiness.com/2026/03/18/investors-want-it-all-digital-behavioral-health-companies-dish-on-the-secret-sauce-for-fundraising/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-03-18T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5271,
+        "ai_summary": "Early-stage investors in digital behavioral health have shifted their expectations, now demanding that startups demonstrate solid fundamentals, profitability (current or near-term), scale, and tech-driven differentiation rather than prioritizing speed of expansion. Three companies detailed their recent fundraising experiences: Avela Health raised approximately $10 million, AnswersNow secured $40 million in a Series B round, and Talkiatry closed a $210 million Series D led by Perceptive Advisors with Banc of California providing debt financing. Industry leaders note that investors have become more sophisticated and skeptical, focusing on unit economics, care quality, and long-term sustainability while also evaluating companies' approaches to AI integration in clinical and operational applications.",
+        "word_count": 1228,
+        "original_language": "EN",
+        "author": "Chris Larson",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Neurodevelopmental & Behavioral Therapy Platforms (ADHD/Autism/Behavioral Coaching)",
+            "code": "HLALAEAJ",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000n5n",
+            "name": "AnswersNow",
+            "website": "https://getanswersnow.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000881o",
+            "name": "Avela Health",
+            "website": "https://www.joinavela.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "interview",
+          "label": "Interview"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "523940",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jeff beck",
+            "robin mcintosh",
+            "robert krayn",
+            "krayn",
+            "beck",
+            "dr. georgia gaveras",
+            "mcintosh"
+          ],
+          "location": [
+            "california"
+          ],
+          "product": [
+            "speech therapy",
+            "psychiatry",
+            "occupational therapy",
+            "feeding specialists"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9205,
+        "group_id": 1051232,
+        "full_text": "Early-stage investors are demanding that digital behavioral health providers have it all, regardless of the organization’s level of development. In short, industry insiders expect digital behavioral health startups to have rock-solid fundamentals, profitability now or in the near term, some degree of scale and a compelling vision for differentiation with tech innovation. Investors have also become more sophisticated in assessing digital behavioral health. They have also become more skeptical of the space, with some investors expressing disappointment with the present results. On the other hand, that increased savvy and skepticism has helped providers and investors set more realistic expectations for what each wants in entrepreneurship in this slice of behavioral health. Advertisement “The conversations centered on unit economics, care quality, and long-term sustainability — not just speed of expansion,” Robin McIntosh, co-founder and CEO of Avela Health, told BHB. “That reflects where the broader market is today.” Avela Health is a digital autism diagnostics and therapy provider. Its services encompass caregiver support and coordinated services that include occupational therapy, speech therapy, psychiatry and feeding specialists. It recently raised about $10 million, including a simple agreement for future equity (SAFE) and $6.4 million that was later disclosed in public filings. “Investors understand that this space requires clinical depth, operational rigor, and economic sustainability. That level of sophistication wasn’t always present a few years ago,” McIntosh said. Advertisement Still, venture capitalists often bring prior expectations and assumptions about digital services that don’t necessarily fit with growing behavioral health companies. McIntosh said that there were some investors who asked for a plan for Avela Health to get to $100 million in revenue in three to five years. “That’s a fair question in many categories, but hyper-acceleration isn’t our objective,” McIntosh said. “We’re building in a complex health care space where responsible growth matters. “We chose partners who value durable, sustainable expansion.” With the increased familiarity, providers can also better gauge the investors they bring into their work. Jeff Beck, CEO of AnswersNow, a digital autism therapy provider, told BHB that it was able to, in part, distinguish between investors who would and would not be a good fit based on their level of awareness of the ABA space. “There have been times where I’ve met with an investor, and they say, ‘Explain to me how ABA works,'” Beck said. “And that’s how I know this is not going to work.” AnswersNow announced it raised $40 million as part of a Series B round in January. The company has developed its own software and, in addition to a geographic and payer partner expansion, is using about “half a million” hours of recorded virtual therapy to optimize and deeply personalize the most effective treatment for children with autism and their families. On the whole, Beck and AnswersNow largely pitched investors on a new vision for the delivery model for applied behavior analysis (ABA), the most widely used therapy in the autism space. Its digital-only, heavily parent-moderated model is profoundly different from most autism therapy providers. This kind of tech-forward, what’s-next approach is usually what venture capitalists look for. However, during the effort to raise the Series B round, Beck heard from multiple venture capitalists that they had overindexed and were overexposed to the digital health sector. In other cases, they presented a more bullish stance for in-person services for behavioral health care, a departure from the digital-focused past. With heightened investor demands, there are also more realistic expectations that companies will show additional results to some degree, Beck added. “I think investors, from my perspective at a digital health company, are looking for ways to change the way that health care is delivered while maintaining quality,” Jeff Beck, CEO of AnswersNow, a digital autism therapy provider, told BHB. “If you can do those two things, you’re going to get a lot of interest.” Focus on quality Robert Krayn, co-founder and CEO of digital psychiatry provider Talkiatry, told Behavioral Health Business that the key to both fundraising and payer relations is care quality. “They’re looking for scale. They’re looking for you to operate appropriately. But they’re also looking for good outcomes,” Krayn said. “I think we’ve seen investors pass on folks that have great financials, but they don’t see what they need to see clinically.” More and more, investors are bringing in “physician experts” into potential investment processes who have a “much, much deeper understanding” of health care than other staff. Overall, Krayn posits that digital health generally struggles to deliver impressive care outcomes. “Most people are not good at it. I’m not saying that they’re wrong,” Krayn said. “I’m saying that it has not been common to find people that do this well — it’s very, very hard.” This makes companies that can control quality at scale appealing. This was the key for Talkiatry’s latest funding round, Krayn said. In turn, the key to that is a W-2 employment model for Talkiatry’s psychiatry and therapist workforce. The company announced a $210 million Series D funding round, led by Perceptive Advisors. Banc of California provided a debt facility to the round. On the other end of the investment round spectrum, McIntosh and Avela Health shared a similar sentiment about quality. “What resonated with investors is that we operate with disciplined economics, strong clinical leadership, and were profitable when we raised this round,” McIntosh said. “That combination — clinical rigor plus financial sustainability — is not common in early-stage health care.” Providers setting their own course on AI With so much of every industry influenced by AI directly, or through the idea of AI, it may be surprising to learn that provider organizations ultimately set their own vision for AI use in their organizations. “I would say that we were volun-telling investors how we should think about AI,” Beck said. Beck said he looks at three segments for AI application in digital health: increasing individual employee capacity, improving operational efficiency/leverage and clinical enhancement. “We can truly individualize the care and the environment virtually,” Beck said, noting the company’s corpus of session recordings. Beck and Krayn said they see clinical applications insofar as they make clinicians’ lives easier. At Talkiatry, AI has helped the company to build a revenue cycle management apparatus that is disproportionately efficient compared to traditional models. AI has also eased the intake process and helps ID patients’ insurance coverage even if they don’t have their insurance card handy. Talkiatry offers tools for clinicians, such as AI scribes, but it doesn’t force clinicians to use them, Krayn said. Dr. Georgia Gaveras, co-founder and chief medical officer, told BHB that it looked to its clinicians to identify and test tools and filter learnings on best uses to the leadership team. “They want to be able to focus more on patient care — the direct practice of care,” Gaveras said. “We really wanted them to feel comfortable with how we were integrating things that they would use in their day-to-day work.” While the jury is still out on AI in digital mental health, it is clear that it will have a place in the digital behavioral health. Part of the present allure of digital health is its capacity to test the latest in digital tools. “Folks are really interested in digital health because it is a bit of a click ahead from an innovation perspective,” Beck said.\n\nCompanies featured in this article: AnswersNow, Avela Health, Talkiatry"
+      },
+      {
+        "id": 26803460,
+        "title": "The 11 Largest NYC Tech Startup Funding Rounds of February 2026",
+        "url": "https://alleywatch.com/2026/03/the-11-largest-nyc-tech-startup-funding-rounds-of-february-2026/",
+        "publisher": "AlleyWatch",
+        "published_date": "2026-03-02T11:27:15",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6519,
+        "ai_summary": "The article identifies the 11 largest NYC tech startup funding rounds in February 2026, ranging from $50 million to $385 million. The top three recipients were Vestwell ($385M Series E), Runway ($315M Series E), and Talkiatry ($210M Series D), with AI-related companies dominating the list. The analysis provides details on each company's founding team, business model, total funding history, and investor backing, highlighting capital flow trends in the NYC tech ecosystem.",
+        "word_count": 1180,
+        "original_language": "EN",
+        "author": "Reza Chowdhury",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Early-Stage Venture Capital (Pre-Seed/Seed)",
+            "code": "FSANAAAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Institutional Flows & Positioning",
+            "code": "MD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003yd",
+            "name": "Novig",
+            "website": "http://novig.co",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000tt",
+            "name": "Pepper",
+            "website": "https://www.usepepper.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000036m",
+            "name": "Basis",
+            "website": "https://www.getbasis.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000356",
+            "name": "Whop",
+            "website": "https://whop.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00009g4",
+            "name": "Alaffia Health",
+            "website": "https://www.alaffiahealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002mvy",
+            "name": "Garner Health",
+            "website": "https://www.garnerhealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e75",
+            "name": "Osmo",
+            "website": "https://osmo.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "000008l",
+            "name": "Free Games",
+            "website": "https://runway.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52591",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "525910",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "bowie cheung",
+            "chetan narain",
+            "ivana tesanovic",
+            "adun akanni",
+            "kelechi ukah",
+            "mitchell troyanovsky",
+            "tj ademiluyi",
+            "alex wiltschko",
+            "jacob fortinsky",
+            "james cadwallader",
+            "matt harpe",
+            "andy palmer",
+            "dylan babbs",
+            "jeff wilke",
+            "noam brown",
+            "amjad masad",
+            "jeff dean",
+            "eric wu",
+            "aaron levie",
+            "scott belsky",
+            "jack altman",
+            "kyle vogt",
+            "adam d’angelo",
+            "kris fredrickson",
+            "patrick collison",
+            "claire hughes johnson",
+            "clem delangue",
+            "nick reber",
+            "aaron schumm",
+            "cameron zoub",
+            "georgia gaveras",
+            "robert krayn",
+            "jack sharkey",
+            "steven schwartz",
+            "alejandro ortiz",
+            "anastasis germanidis",
+            "cristobal barrera",
+            "gautam kedia"
+          ],
+          "location": [
+            "nyc",
+            "new york",
+            "america"
+          ],
+          "product": [
+            "osmo",
+            "pepper",
+            "novig",
+            "alaffia health",
+            "profound",
+            "basis",
+            "garner health",
+            "talkiatry",
+            "whop",
+            "vestwell",
+            "runway",
+            "software"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9756,
+        "group_id": 1106211,
+        "full_text": "Armed with some data from our friends at CrunchBase, I broke down the largest NYC Startup funding rounds in New York for February 2026. This month’s analysis goes beyond the headline numbers to include detailed insights into each company’s founding team, business model, investor backing, and total funding history—providing a comprehensive view of where capital is flowing in the NYC tech ecosystem and the state of venture capital in NYC. 🚀 REACH NYC TECH LEADERS AlleyWatch is NYC’s leading source of tech and startup news, reaching the city’s most active founders, investors, and tech leaders. Learn More →\n\n11. Pepper $50.0M\n\nRound: Series C\n\nDescription: Pepper provides an AI-powered eCommerce platform for food distributors and suppliers to manage customer engagement and order workflows. Founded by Bowie Cheung, Chetan Narain, and Ivana Tesanovic in 2019, Pepper has now raised a total of $100.0M in total equity funding and is backed by Gaingels, BoxGroup, Index Ventures, Greylock, and ICONIQ Growth.\n\nInvestors in the round: Greylock, Harmony Partners, ICONIQ Growth, Index Ventures, Interplay, Lead Edge Capital\n\nIndustry: Artificial Intelligence (AI), E-Commerce, Food and Beverage, Wholesale\n\nFounders: Bowie Cheung, Chetan Narain, Ivana Tesanovic\n\nFounding year: 2019\n\nTotal equity funding raised: $100.0M\n\n10. Alaffia Health $55.0M\n\nRound: Series B\n\nDescription: Alaffia Health offers an AI platform that supports health plan claims operations by automating and improving clinical review workflows. Founded by Adun Akanni and TJ Ademiluyi in 2020, Alaffia Health has now raised a total of $71.6M in total equity funding and is backed by Plug and Play, FirstMark, 1984 Ventures, Tau Ventures, and Transformation Capital.\n\nInvestors in the round: FirstMark, Tau Ventures, Transformation Capital, Twine Ventures\n\nIndustry: Agentic AI, Artificial Intelligence (AI), Health Care, Machine Learning\n\nFounders: Adun Akanni, TJ Ademiluyi\n\nFounding year: 2020\n\nTotal equity funding raised: $71.6M\n\n9. Osmo $70.0M\n\nRound: Series B\n\nDescription: Osmo gives computers a sense of smell to improve the health and wellbeing of human life. Founded by Alex Wiltschko and Andy Palmer in 2022, Osmo has now raised a total of $130.0M in total equity funding and is backed by Valor Equity Partners, Alumni Ventures, Bill & Melinda Gates Foundation, Lux Capital, and Collaborative Fund.\n\nInvestors in the round: Alumni Ventures, Amplo, Atreides Management, Collaborative Fund, Lumina Partners, Patrick Collison, Two Sigma Ventures, Valor Equity Partners\n\nIndustry: Electronics, Hardware, Internet\n\nFounders: Alex Wiltschko, Andy Palmer\n\nFounding year: 2022\n\nTotal equity funding raised: $130.0M\n\n8. Novig $75.0M\n\nRound: Series B\n\nDescription: Novig is a sweepstakes-based sports prediction market in which users participate in peer-to-peer wagering on sporting events. Founded by Jacob Fortinsky and Kelechi Ukah in 2021, Novig has now raised a total of $99.9M in total equity funding and is backed by Edge Equity, Gaingels, Forerunner, Y Combinator, and Lux Capital.\n\nInvestors in the round: Edge Equity, Forerunner, Makers Fund, Multicoin Capital, NFX, Pantera Capital, Perceptive Ventures\n\nIndustry: Gambling, Mobile, Prediction Markets, Sports\n\nFounders: Jacob Fortinsky, Kelechi Ukah\n\nFounding year: 2021\n\nTotal equity funding raised: $99.9M\n\n7. Profound $96.0M\n\nRound: Series C\n\nDescription: Profound is an AI visibility and content optimization platform that helps brands optimize their visibility in generative AI search. Founded by Dylan Babbs and James Cadwallader in 2024, Profound has now raised a total of $154.5M in total equity funding and is backed by Lightspeed Venture Partners, Sequoia Capital, Khosla Ventures, South Park Commons, and Kleiner Perkins.\n\nInvestors in the round: Evantic Capital, Kleiner Perkins, Lightspeed Venture Partners, Saga Ventures, Sequoia Capital, South Park Commons\n\nIndustry: Analytics, Artificial Intelligence (AI), Generative AI, SEO\n\nFounders: Dylan Babbs, James Cadwallader\n\nFounding year: 2024\n\nTotal equity funding raised: $154.5M\n\n\n\nJoin thousands of NYC tech leaders who start their day with AlleyWatch Subscribe Now\n\n6. Basis $100.0M\n\nRound: Series B\n\nDescription: Basis provides an AI agent platform that automates accounting workflows for professionals. Founded by Matt Harpe and Mitchell Troyanovsky in 2023, Basis has now raised a total of $137.6M in total equity funding and is backed by Gautam Kedia, Accel, BoxGroup, Khosla Ventures, and Better Tomorrow Ventures.\n\nInvestors in the round: Aaron Levie, Accel, Adam D’Angelo, Amjad Masad, Avid Ventures, Better Tomorrow Ventures, BoxGroup, Claire Hughes Johnson, Clem Delangue, Eric Wu, Gautam Kedia, Google Ventures, Jack Altman, Jeff Dean, Jeff Wilke, Khosla Ventures, Kris Fredrickson, Kyle Vogt, Lloyd Blankfein, NFDG Ventures, Noam Brown, Scott Belsky\n\nIndustry: Accounting, Artificial Intelligence (AI), Information Technology\n\nFounders: Matt Harpe, Mitchell Troyanovsky\n\nFounding year: 2023\n\nTotal equity funding raised: $137.6M\n\n5. Garner Health $118.0M\n\nRound: Series D\n\nDescription: Garner Health is a healthcare technology company that connects employers and employees with high-performing medical providers. Founded by Nick Reber in 2019, Garner Health has now raised a total of $219.3M in total equity funding and is backed by BoxGroup, Thrive Capital, Kleiner Perkins, Founders Fund, and Maverick Ventures.\n\nInvestors in the round: Kaiser Permanente Ventures, Kleiner Perkins, Maverick Ventures, Mercy, Plus Capital, Redpoint\n\nIndustry: Big Data, Business Intelligence, Employee Benefits, Health Care, Software\n\nFounders: Nick Reber\n\nFounding year: 2019\n\nTotal equity funding raised: $219.3M\n\n4. Whop $200.0M\n\nRound: Venture\n\nDescription: Whop is a marketplace designed for entrepreneurs that facilitates the buying and selling of communities, courses, and software. Founded by Cameron Zoub, Jack Sharkey, and Steven Schwartz in 2021, Whop has now raised a total of $273.0M in total equity funding and is backed by Insight Partners, Bain Capital Ventures, A*, SignalFire, and Motley Fool Ventures.\n\nInvestors in the round: Tether Ventures\n\nIndustry: E-Commerce, Internet, Marketplace\n\nFounders: Cameron Zoub, Jack Sharkey, Steven Schwartz\n\nFounding year: 2021\n\nTotal equity funding raised: $273.0M 💡 CONNECT WITH NYC INNOVATORS Join NYC’s top tech companies in reaching AlleyWatch’s engaged audience of founders, investors, and decision-makers. Learn More →\n\n3. Talkiatry $210.0M\n\nRound: Series D\n\nDescription: Talkiatry provides virtual mental healthcare services covered by insurance, connecting patients with licensed psychiatrists. Founded by Georgia Gaveras and Robert Krayn in 2019, Talkiatry has now raised a total of $452.0M in total equity funding and is backed by Andreessen Horowitz, Left Lane Capital, Perceptive Advisors, Blisce, and GreyMatter.\n\nInvestors in the round: Andreessen Horowitz, Blisce, Left Lane Capital, Perceptive Advisors, Sofina\n\nIndustry: Health Care, Medical, Mental Health, mHealth, Wellness\n\nFounders: Georgia Gaveras, Robert Krayn\n\nFounding year: 2019\n\nTotal equity funding raised: $452.0M\n\n2. Runway $315.0M\n\nRound: Series E\n\nDescription: Runway offers generative AI tools for creating images, videos, and simulations, enabling new creative workflows through AI. Founded by Alejandro Ortiz, Anastasis Germanidis, and Cristobal Barrera in 2018, Runway has now raised a total of $859.5M in total equity funding and is backed by General Atlantic, NVIDIA, Madrona, Felicis, and Coatue.\n\nInvestors in the round: Adobe Ventures, AllianceBernstein, AMD Ventures, Emphatic Capital, Felicis, Fidelity, General Atlantic, Mirae Asset, NVIDIA, Premji Invest\n\nIndustry: Apps, Artificial Intelligence (AI), Foundational AI, Generative AI, Machine Learning, Software, Video Editing\n\nFounders: Alejandro Ortiz, Anastasis Germanidis, Cristobal Barrera\n\nFounding year: 2018\n\nTotal equity funding raised: $859.5M\n\n1. Vestwell $385.0M\n\nRound: Series E\n\nDescription: Vestwell is a digital savings platform that offers and manages a range of savings and retirement plans. Founded by Aaron Schumm in 2016, Vestwell has now raised a total of $623.8M in total equity funding and is backed by Blue Owl, Franklin Templeton, Lightspeed Venture Partners, Primary Venture Partners, and HarbourVest Partners.\n\nInvestors in the round: Blue Owl Capital Corporation, Franklin Templeton, HarbourVest Partners, Morgan Stanley, Neuberger Berman, Silver Lake Waterman, Sixth Street Growth, TIAA Ventures\n\nIndustry: Employee Benefits, Finance, Financial Services, FinTech, Retirement\n\nFounders: Aaron Schumm\n\nFounding year: 2016\n\nTotal equity funding raised: $623.8M\n\nAlleyWatch’s exclusive coverage of this round: Vestwell Raises $385M to Power Modern Savings Infrastructure Across America 📈 ENGAGE NYC DECISION MAKERS Connect with NYC’s tech ecosystem through AlleyWatch, the most trusted voice in local tech and startups. Learn More →"
+      },
+      {
+        "id": 19878292,
+        "title": "Top digital health funding: Talkiatry, SpendRule and Coral Care",
+        "url": "https://www.modernhealthcare.com/health-tech/mh-top-funding-talkiatry-spendrule-coral-care/",
+        "publisher": "Modernhealthcare",
+        "published_date": "2026-02-24T11:00:01",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Several digital health startups announced funding rounds this week, including Talkiatry, SpendRule, and Coral Care, with an autism care startup securing $45 million. RISA Labs and VieCure were also among the companies that disclosed recent funding activity. The article notes this represents positive development in the digital health funding landscape.",
+        "word_count": 26,
+        "original_language": "EN",
+        "author": "Modern Healthcare",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Population Health Outreach, Preventive Care & Screening Virtual Programs (Payer-Sponsored)",
+            "code": "HLALACAL",
+            "is_primary": true
+          },
+          {
+            "name": "Autism Diagnostic & Educational Assessment Services",
+            "code": "EDAKAKAA",
+            "is_primary": false
+          },
+          {
+            "name": "Infectious Disease & Immunization Program Funding",
+            "code": "HLAJALAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00pyk79",
+            "name": "SpendRule",
+            "website": "https://spendrule.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008xl",
+            "name": "Coral Care",
+            "website": "https://www.joincoralcare.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000nqa",
+            "name": "RISA Labs",
+            "website": "https://www.risalabs.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000ioq",
+            "name": "VieCure",
+            "website": "https://viecure.com/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000208",
+            "name": "research and development"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.8368,
+        "group_id": 2131395,
+        "full_text": "Health Tech Top digital health funding: Autism care startup lands $45M Positive Development, RISA Labs and VieCure were among those that announced funding rounds this week."
+      },
+      {
+        "id": 27179345,
+        "title": "Texas psychiatry covered by insurance - get treatment for anxiety today",
+        "url": "https://legionhealth.com/blog/legion-health-vs-remedy-psychiatry",
+        "publisher": "Legionhealth",
+        "published_date": "2026-02-19T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5084,
+        "ai_summary": "The article compares Legion Health and Remedy Psychiatry as of February 2026 and discusses Talkiatry's reviews and pricing from January 2026. ",
+        "word_count": 41,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Brand & Marketing Initiatives",
+            "code": "SD07",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000owf",
+            "name": "Legion Health",
+            "website": "https://legionhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "003g4oh",
+            "name": "Remedy Psychiatry",
+            "website": "https://remedypsychiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "622210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          },
+          {
+            "code": "8051",
+            "name": "SERVICES-SKILLED NURSING CARE FACILITIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "yash m. patel"
+          ],
+          "location": [
+            "texas"
+          ],
+          "product": [
+            "talkiatry"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.666,
+        "group_id": 6283857,
+        "full_text": "How It Works\n\nHow It Works\n\nFeb 19, 2026 Legion Health vs Remedy Psychiatry: Which is Better? (February 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Written by: Yash M. Patel Co-Founder & CEO, Legion Health"
+      },
+      {
+        "id": 27179868,
+        "title": "Mental Health Startup Talkiatry Raises $5 Million As Demand For Telepsychiatry Skyrockets — Relevance Ventures",
+        "url": "https://www.relevanceventures.com/perspectives/mental-health-startup-talkiatry-raises-5-million-as-demand-for-telepsychiatry-skyrockets",
+        "publisher": "Relevanceventures",
+        "published_date": "2026-02-16T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.7915,
+        "ai_summary": "Talkiatry, a mental health startup providing telepsychiatry services, has raised $5 million in Series A funding led by Sikwoo Capital Partners, with participation from Relevance Ventures and Dr. Richard Park. The company, which currently employs 16 clinicians and accepts insurance from major providers including UnitedHealthcare, Cigna, Humana, Anthem, and Aetna, plans to use the capital to expand operations and develop a proprietary technology platform to onboard more providers amid surging demand for mental health services. The funding reflects a broader trend of record investment in digital behavioral health startups, driven by a sharp rise in Americans reporting anxiety or depression symptoms from 11% in early 2019 to 36% by January 2021.",
+        "word_count": 899,
+        "original_language": "EN",
+        "author": "Relevance Ventures",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Public-Health Crises",
+            "code": "RK02",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000p3c",
+            "name": "Relevance Ventures (formerly Relevance Capital)",
+            "website": "http://www.relevanceventures.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "greg yap",
+            "robert krayn",
+            "cameron newton",
+            "dr. georgia gaveras",
+            "dr. richard park",
+            "yap",
+            "newton",
+            "krayn"
+          ],
+          "location": [
+            "new york city",
+            "u.s."
+          ],
+          "product": [
+            "telepsychiatry",
+            "talkiatry"
+          ],
+          "event": [
+            "covid-19"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1115284,
+        "full_text": "A year after Covid-19 arrived in the U.S., many are hitting a “pandemic wall.” But as the state of Americans’ mental health declines, the mental health market is heating up. Investors have taken note of skyrocketing demand for tele-mental health services and poured record investment into companies that are addressing rising depression and anxiety. Among the latest mental health startups to attract investors is Talkiatry, which today announced it has raised $5 million in Series A funding to expand its operations and develop a proprietary technology platform. The round was led by Sikwoo Capital Partners, with participation from Relevance Ventures and Dr. Richard Park, founder and former CEO of CityMD. Talkiatry offers telepsychiatry around the country and in-person visits at its New York City headquarters. The company employs its 16 clinicians—mostly psychiatrists—and plans to grow to 30 providers by the summer. Cofounders Robert Krayn and Dr. Georgia Gaveras say they will use the influx of capital, in part, to make sure they can efficiently onboard providers to accommodate growing demand to join the practice. “We’re looking to solve the provider’s problem [and] the insurance company’s problem,” Krayn said. “We think if we solve both of those we’ll ultimately solve the patient’s problem.” The problem for many patients during the pandemic has been deteriorating mental health. According to CDC data, 36% of Americans reported symptoms of anxiety or depression at the end of January 2021. In the first six months of 2019, that rate was 11%. “Americans are already experiencing a mental health crisis today, which will only get worse as mental health issues stemming from the extraordinary stress of living through a global pandemic go untreated,” said Park, who will join Talkiatry’s board of directors. “It’s hard to even quantify what effect the pandemic is going to have on mental health in this country,” said Cameron Newton, general partner at Relevance Ventures, who will also take a board seat. “I think most folks, and us included, realize and predict that it’s going to be a considerable problem going forward.” Widespread mental health needs have fueled growth for businesses like Talkiatry. “You've had people that had a tremendous amount of anxiety over the past year,” said Gaveras. “It's really created a huge demand in the system.” The Talkiatry team and its new investors see a silver lining in increased mental health burdens and demand for services: mental health may have finally lost its taboo. “Mental health has become something that more and more people are seeing as essential, not a luxury,” said Gaveras. Reducing Cost Barriers Through Insurance The cost of mental health care can put essential mental health services out of reach. Before the pandemic, 40% of adults with unmet mental health needs cited cost as the barrier to care. More recent data suggests one-quarter of adults are not getting treatment for symptoms of anxiety or depression. Patients who use mental health services tend to pay more out-of-pocket for out-of-network care, nearly $350 more than patients with diabetes. Higher out-of-pocket costs reflect the fact that many mental health providers do not accept insurance. For example, psychiatrists are less likely than other medical specialists to accept health insurance—55% compared to 89%, according to one study. Talkiatry takes a different approach; it accepts insurance. The company has negotiated favorable contracts with several large health insurers, including UnitedHealthcare, Cigna, Humana, Anthem, and Aetna. It also contracts with Medicare and TriCare, the health insurance program for active-duty and retired military service members and their families. These arrangements have allowed the company to operate profitably on a per patient basis. They also make it easier for patients who can’t afford to pay out-of-pocket to get care they need. “Talkiatry sits at the intersection of two great American problems: the shortage of mental health providers and the disconnect between insurers and patients,” Park said. Mental health provider shortages affect an estimated 120 million Americans and are projected to get worse by 2025. According to Greg Yap, partner at Menlo Ventures (which is not involved with Talkiatry), telehealth can improve access to care and give patients a better chance of finding a provider that meets their needs. “Virtual providers help to balance supply and demand by removing geographic constraints,” said Yap. Several of Talkiatry’s providers are credentialed to practice in multiple states, which allows them to see patients where provider shortages are more common. But according to Krayn, there are even “mental health deserts” in New York City. “I can’t tell you how many patients can’t find a psychiatrist who takes their insurance and has availability,” he said. “Even though we’ve got the highest concentration of psychiatrists in the country, there’s still a massive desert. How is that possible in today’s world?” Betting On Digital Behavioral Health Talkiatry’s funding reflects a broader trend: record investment in digital behavioral health startups. In the first half of 2020, 27 behavioral health companies raised $588 million, more than behavioral health startups raised in all of 2019, according to Rock Health. “We’re very bullish on the mental health space,” said Newton. Pandemic stresses may have spurred the growth in tele-mental health, but Yap believes it’s here to stay. “I think the most impactful digital mental health companies will provide holistic treatment that includes both therapy delivered through telemedicine and medication management,” Yap said. “One size does not fit all, and patients should get the best combination of treatment for them.”"
+      },
+      {
+        "id": 21771068,
+        "title": "Study shows screens cause mental health problems in children, Talkiatry raises $210M, Quizlet buys Coconote",
+        "url": "https://vator.tv/study-shows-screens-cause-mental-health-problems-in-children-talkiatry-raises-210m-quizlet-buys-coconote/",
+        "publisher": "VatorNews",
+        "published_date": "2026-02-13T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.4927,
+        "ai_summary": "This weekly roundup covers the top news, fundings, and IPOs across healthtech and edtech sectors, featuring multiple partnerships, acquisitions, and funding announcements. Notable transactions include Cognizant partnering with Palantir on AI integration in healthcare, Quizlet acquiring AI study tool Coconote, and Medtronic acquiring CathWorks for coronary artery disease treatment. The largest funding round was Talkiatry's $210 million Series D, followed by Solace Health's $130 million Series C and Garner Health's $118 million round, with dozens of smaller healthtech companies also raising capital across various stages.",
+        "word_count": 1545,
+        "original_language": "EN",
+        "author": "Steven Loeb All Author Posts",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "SaMD – Imaging & Signal Analysis (AI/ML)",
+            "code": "HLACANAG",
+            "is_primary": true
+          },
+          {
+            "name": "AI-Powered Tutoring & Study Assistant Platforms",
+            "code": "EDANAGAD",
+            "is_primary": false
+          },
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002mvy",
+            "name": "Garner Health",
+            "website": "https://www.garnerhealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000076n",
+            "name": "Medtronic",
+            "website": "https://www.medtronic.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00ua41r",
+            "name": "Solace Health",
+            "website": "https://www.solacehealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004u4",
+            "name": "Quizlet",
+            "website": "https://quizlet.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00006qc",
+            "name": "Cognizant",
+            "website": "https://www.cognizant.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00006ma",
+            "name": "Palantir Technologies",
+            "website": "http://www.palantir.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "596",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541714",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3845",
+            "name": "ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ashish kacholia",
+            "steven loeb",
+            "edmund wilson"
+          ],
+          "location": [
+            "st. louis",
+            "california",
+            "united states"
+          ],
+          "product": [
+            "coconote",
+            "eyejourney",
+            "ilien",
+            "owlet",
+            "cathworks",
+            "trizetto",
+            "somethings",
+            "lifeaz",
+            "splose",
+            "weight loss platform"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9952,
+        "group_id": 177930,
+        "full_text": "Healthtech and edtech are two of the fastest growing sectors, with the healthtech market size to reach $3.1 billion by 2033, while the global education technology market size is projected to reach $348.41 billion by 2030. Each week will do a roundup of the top news, fundings, and IPOs from these two sectors. Top News Cognizant partnered with Palantir to accelerate AI-driven modernization across healthcare and enterprise operations, with Cognizant leveraging Palantir Foundry and Palantir Artificial Intelligence Platform to advance AI integration within its TriZetto healthcare business\n\nQuizlet, a learning platform that provides engaging study tools to help people practice and master whatever they are learning, acquired Coconote, an AI note-taker and study coach AI News Rayner launched eyejourney, a personalized, AI-powered patient education platform designed to bring clarity, consistency, and confidence to every stage of ophthalmic care\n\nWolters Kluwer, an information services company specializing in software solutions and services for the healthcare and legal sectors, launched new features for iLien Borrower Analytics powered by Expert AI, including access to automated and expert assisted review options that consolidate public records and lien statuses into a single dashboard\n\nHighRes, a provider of laboratory automation and orchestration software, and Opentrons Labworks, a laboratory robotics company building the physical infrastructure for AI-driven autonomous science, partnered to co-develop and demonstrate an AI agent-to-agent laboratory workflow\n\nOwlet, a provider of smart infant monitoring, partnered with webAI, a private AI platform, to accelerate the development of secure, personalized, and data-driven intelligence across the Owlet product ecosystem\n\nMedtronic acquired CathWorks, a medical device company which aims to transform how coronary artery disease is diagnosed and treated\n\nWebster University, and Scale AI, a technology company that provides the high-quality data that powers the world’s AI models, and builds applications for enterprises and governments, partnered on a new technical writing program which will offer upskilling development opportunities to Scale AI employees in St. Louis\n\nClaremont Graduate University and Macnica, a supplier of semiconductor, electronic components, network equipment, software products, partnered to explore a strategic collaboration focused on human-centered artificial intelligence\n\nPoint Park University introduced artificial intelligence chatbots to accommodate high schoolers’ schedules, giving the answers to their questions on the application process, program offerings, and tuition\n\nHighRes, a provider of laboratory automation and orchestration software, and Opentrons Labworks, a laboratory robotics company building the physical infrastructure for AI-driven autonomous science, partnered to co-develop and demonstrate an AI agent-to-agent laboratory workflow\n\nQuizlet, a learning platform that provides engaging study tools to help people practice and master whatever they are learning, acquired Coconote, an AI note-taker and study coach Really big financings: Healthtech: Talkiatry, a full-stack provider group delivering in-network psychiatric care, raised $210 million in Series D financing led by Perceptive Advisors, with participation from Sofina and prior lead investors Andreessen Horowitz, blisce/, and Left Lane Capital, alongside a debt facility from Banc of California\n\nSolace Health, which connects patients with professional healthcare advocates, raised a $130 million Series C funding round led by IVP, with participation from existing investors Menlo Ventures, SignalFire, Torch Capital, Inspired Capital and RiverPark Ventures\n\nGarner Health, a digital platform that helps patients find the best healthcare providers using better data and smarter financial incentives, raised $118 million in a round led by Kleiner Perkins with participation from Redpoint, Maverick, Kaiser Permanente Ventures, Mercy, Plus Capital, and other existing investors\n\nILiAD Biotechnologies, a clinical stage biotech company focused on the prevention and treatment of disease caused by Bordetella pertussis, raised a $115 million Series B financing led by RA Capital Management with participation from new investors Janus Henderson Investors and BNP Paribas Asset Management Alts, as well as existing investors including a multi-national pharmaceutical company and AI Life Sciences\n\nDentalMonitoring, developer of an AI-powered software as a medical device for remote orthodontic monitoring, raised $100 million new investors, including Lazard Elaia Capital and ISALT, through its Fonds Stratégique des Transitions Big financings: Healthtech: OncoRes Medical, a medical device company dedicated to eliminating the physical, psychological and economic burdens associated with repeat operations following breast-conserving surgery, raised AUD $27 million from Brandon Capital Partners’ BB6 Fund, Morgans, Radar Ventures, Australian and international family offices, and The Table Club network\n\nNeurent Medical, developer of a minimally invasive solution to treat chronic rhinitis, raised $74 million in a round led by MVM Partners, with significant participation from Sofinnova Partners, and included continued support from existing investors EQT Life Sciences, Atlantic Bridge, Fountain Healthcare Partners and Enterprise Ireland\n\nAnterior, a clinician-led artificial intelligence platform for health plans, raised a $40 million funding round from NEA and Sequoia Capital, alongside new investors FPV and Kinnevik\n\nAerska, a biotechnology company using brain shuttle technology to develop RNA medicines for CNS diseases, raised a $39 million Series A financing led by EQT Dementia Fund and age1, with participation from Iaso Ventures, alongside existing investors\n\nSplose, AI-powered practice management software that exists to put time back into the hands of allied health professionals, raised AUD$46 in a round led by Spectrum Equity, with participation from Athletic Ventures\n\nAtlas Oncology Partners, a value-based oncology enablement platform supporting community oncology practices, raised a $28 million Series A financing led by Flare Capital Partners with significant participation from Rubicon Founders\n\nBig Health, a developer of digital treatments for the most pervasive mental health conditions, raised $23.7 million in a round co-led by .406 Ventures and AlleyCorp, with participation from CVS Health Ventures, Blue Venture Fund, Sandbox Clinical Ventures, Gilde Healthcare, and Supermoon Capital\n\nKainova Therapeutics, a company developing therapeutic innovation in immuno-oncology and inflammation, raised a C$32 million round led by Investissement Québec and supported by existing investors CTI Life Sciences, Panacea Venture, 3B Future Health Fund, Seventure Partners, Viva BioInnovator, Turenne Capital, Schroders Capital, adMare BioInnovations, and Seido Capital\n\nSomethings, a digital mental health platform designed for teens and young adults, raised a $19.2 million round led by Catalio Capital, with participation from existing investors General Catalyst and Tusk Ventures\n\nPandorum Technologies, a biotechnology company pioneering programmable regenerative medicine, raised $18 million in a Series B financing round led by Protons Corporate, with participation from Galentic Pharma, marquee investor Ashish Kacholia, Noblevast Advisory and Avinya Fund, Burman Family and others\n\nLifeaz, developer of easy-to-use, connected defibrillators for home and business use, raised a €13 million funding round from existing investor Mutuelles Impact, initiated by La Mutualité Française and managed by XAnge in partnership with Impactivist, as well as new investments from BNP Paribas, GO CAPITAL, and Mirova Not so big financings: Healthtech: Wisdom, a smart home company helping older adults live safely and independently, raised a $315,000 social-impact investment from the Richard King Mellon Foundation\n\nCircle Health, developer of an integrated preventive care platform, raised a €9 million seed round of equity and debt financing, led by Atlantic.vc, with participation from CRB Health Tech, Calm/Storm Ventures, and Kfund\n\nExact Imaging, a provider of high-resolution micro-ultrasound for urologic imaging, raised a $10 million financing round led by iGan Partners\n\nTEA AI, which develops consumer AI companions for health , raised $10 million a round led by Linear Capital and Eminence Ventures\n\nBerlin Heals Holding AG, a MedTech company focused on transformative therapies for heart failure, raised over $10 million from a combination of existing shareholders and new investors\n\nSecai, a health AI firm that focuses on bridging the gap between advanced technology and everyday clinical practice, raised $6.2 million in a Series A financing round from undisclosed investors\n\nNeupulse, a neurotherapeutics company focused on delivering innovative solutions to people with brain health conditions, like Tourette Syndrome, raised £3 million in a round led by Eos Advisory and the Midlands Engine Investment Fund II, with participation from existing and new investors\n\nOrthofuse, developer of 3D-printed implant systems, raised $3 million seed round led by a group of angel investors with participation from ACF investors, Cambridge Angels, and Empirical Ventures\n\nCURAPOD, developer of wearable, non-invasive pain management devices focused on musculoskeletal conditions, raised $2.2 million in a pre-Series A round led by V3 Ventures, 3i Partners, and Ideaspring Capital\n\nElevate Now, a clinical weight loss platform, raised Rs 18 crore in a seed funding round led by Physis Capital along with participation from Inflection Point Ventures and Titan Capital\n\nEntirety Biomedical, a medical device startup developing bioabsorbable implant systems with its Curasorb technology, raised a $1.2 million seed financing round led by NuFund Venture Group, with participation from Michigan Rise, Union Heritage, Revere Partners, Community Equity Partners, American Society of Plastic Surgeons, and Mass Medical Angels, among others\n\nNocomed, a provider of sustainability software for life sciences, raised €650,000 in seed funding from Barry Comerford, Edmund Wilson, and Enterprise Ireland Fund News Not-for-profit health insurer HBF Health launched a $25 million venture fund to back health-tech startups Policy and government The UK government set out to improve access to healthcare technology within the National Health Service through launch of the new National Healthtech Access Programme. The National Institute for Health and Care Excellence will incorporate health technologies into its appraisal programme – including medical devices, diagnostics and digital tools Random news A study from Nature Portfolio, involving over 50,000 children in the United States, showed children who spend four or more hours a day in front of screens are much more likely to develop mental health problems, including being 61% more likely to get depression. The study also found that anxiety levels went up by 45%, behavioral problems went up by 24%, and ADHD cases went up by 21%\n\nShare This Story, Choose Your Platform!\n\n\n\n\n\n\n\n\n\n\n\nSteven Loeb All Author Posts"
+      },
+      {
+        "id": 19396680,
+        "title": "Talkiatry Raises $210M to Expand Digital AI-Powered Psychiatry Practice",
+        "url": "https://bhbusiness.com/2026/02/12/talkiatry-raises-210m-to-expand-digital-ai-powered-psychiatry-practice/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-02-12T20:52:34",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, a virtual psychiatry provider, has raised $210 million in Series D funding led by Perceptive Advisors, bringing its total funding to $452 million. The company plans to expand its AI capabilities to strengthen its position as an in-network psychiatry partner for health systems, payers, and employers, currently operating in 45 states with over 800 psychiatrists. The funding comes amid a shifting landscape for digital mental health, where venture capital interest persists despite a 25% decline in telehealth visits for behavioral health since 2021.",
+        "word_count": 532,
+        "original_language": "EN",
+        "author": "Chris Larson",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          },
+          {
+            "name": "Consumer Behaviour & Spending",
+            "code": "MM05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "michael altman"
+          ],
+          "location": [
+            "united states",
+            "u.s.",
+            "45 states"
+          ],
+          "product": [],
+          "event": [
+            "covid"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1115284,
+        "full_text": "Virtual psychiatry provider Talkiatry has raised a $210 million Series D funding round, nearly matching the total funding it has raised across previous rounds. The move signals that venture capital sees a lane for the virtual delivery of high-level outpatient care in AI-powered work environments. The company will double down on its AI capabilities to be the “de facto in-network psychiatry partner for U.S. health systems, payers, and employers” as it further scales up. “Talkiatry has built a national full-stack provider group that sits on a proprietary AI-powered technology platform, giving it greater control over the quality and care being delivered at scale,” Michael Altman, head of strategy for lead investor Perceptive Advisors, said. “The company’s consistent results across outcomes, engagement, and patient experience position it as defining the next era of psychiatric care in the United States. Advertisement “Our investment supports that long-term vision.” Talkiatry leans on AI to automate its back office, support current and prospective patient engagement and enable alternative payer arrangements. The use of AI by clinicians leads to an 80% reduction in feelings of burnout, the company says. Perceptive Advisors led the round. The following firms also participated — Sofina, Andreessen Horowitz (a16z), blisce/ and Left Lane Capital. Banc of California provided a debt facility to the round. Advertisement Talkiatry employs more than 800 full-time psychiatrists. It operates in 45 states. It also has in-network arrangements with over 60 health plans. Including previous funding rounds tracked by Crunchbase, the round brings the company’s total funding to $452 million. The digital mental health segment of behavioral health is no stranger to big bets by the investor class for several years now. In 2024, Spring Health raised $100 million with a $3.3 billion valuation. Grow Therapy raised $88 million in its Series C. Cerebral, the digital mental health industry’s living cautionary tale, raised a $300 million Series C funding round in 2021. This round by Talkiatry is an aberration in the current digital mental health finding landscape. After an accelerated phase of investment jumping in at the opportunity COVID revealed, many learned harsh lessons about the dynamic world of digital mental health — the challenges of working with payers, the internal dynamics that keep therapists engaged, the difficulty of retaining patients ethically, to name a few. The funding dynamic today is also defined by smaller organizations staying relatively small while a handful of others grow at accelerated clips — creating a land of proverbial Davids and Goliaths. Despite the quickly tilting dynamic favoring a handful of scaled providers, so much venture capital has been pumped into the space that several enterprises are likely to float along for quite some time without a terminal exit. This has staved off the long-anticipated implosion of closures and consolidation predicted for this industry. The funding also comes during what might be a fundamental shift in mental health services consumer behavior. Since reaching a peak in 2021, the share of telehealth visits for behavioral health has dropped by 25%, according to Trilliant Health data. That’s not to say Americans aren’t consuming as much behavioral health. The amount of care consumed in behavioral health now eclipses that of primary care, according to the same data."
+      },
+      {
+        "id": 40919745,
+        "title": "Virtual psychiatry startup raises $210M to hire clinicians, expand tech",
+        "url": "https://www.crainsnewyork.com/health-pulse/talkiatry-raises-series-d-funding-round-hire-psychiatrists/",
+        "publisher": "Crain's New York Business",
+        "published_date": "2026-02-12T20:03:25",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry raised $210 million in a Series D round to hire more clinicians and expand its technology platform. The virtual psychiatry startup said it will use the funds to grow its clinical team and enhance its digital care offerings.",
+        "word_count": 62,
+        "original_language": "EN",
+        "author": "Byamanda D'Ambrosio",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "feature",
+          "label": "Feature"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000458",
+            "name": "mental health"
+          },
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000484",
+            "name": "private health care"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          },
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "kathy hochul"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9977,
+        "group_id": 982935,
+        "full_text": "Virtual psychiatry startup Talkiatry has raised $210 million in a Series D round to hire more clinicians and expand its technology platform, the company said Thursday.\nFeatured Stories\nAfter years as a political lightning rod, Scaffold Law reform gains traction\nGov. Kathy Hochul's administration has shown a willingness to explore reforming the state's Scaffold Law, a lightning rod issue that has been discussed for years."
+      },
+      {
+        "id": 19394592,
+        "title": "Talkiatry scores $210M to scale AI psychiatry",
+        "url": "https://www.mobihealthnews.com/news/talkiatry-scores-210m-scale-ai-psychiatry",
+        "publisher": "MobiHealthNews",
+        "published_date": "2026-02-12T15:57:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, a virtual mental healthcare platform employing over 800 psychiatrists, announced a $210 million Series D funding round led by Perceptive Advisors, with participation from Sofina, Andreessen Horowitz, blisce/, Left Lane Capital, and a debt facility from Banc of California. The New York-based company will use the funds to enhance its AI-powered technology platform and expand its national in-network psychiatric care services, which now covers patients through more than 100 insurers. This round brings Talkiatry's total raised capital to over $400 million, positioning it to scale its model of delivering virtual psychiatric care at scale.",
+        "word_count": 405,
+        "original_language": "EN",
+        "author": "Jessica Hagen",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health & Psychiatry Virtual Care (Payer Network)",
+            "code": "HLALACAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "michael altman"
+          ],
+          "location": [
+            "california",
+            "united states"
+          ],
+          "product": [
+            "betterhelp",
+            "talkiatry"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9732,
+        "group_id": 982935,
+        "full_text": "The funding will help the company scale its AI-powered, in-network virtual psychiatry platform, which employs more than 800 full-time psychiatrists.\n\nTalkiatry, a virtual mental healthcare platform that employs more than 800 full-time psychiatrists, announced an oversubscribed $210 million Series D funding round, bringing its total raise to more than $400 million.\n\nPerceptive Advisors led the round, with participation from Sofina and existing investors Andreessen Horowitz (a16z), blisce/ and Left Lane Capital. It also secured a debt facility from Banc of California.\n\nWHAT IT DOES\n\nTalkiatry is an AI-powered virtual health platform that privately employs psychiatrists. Its providers cover various conditions, such as anxiety, depression, insomnia, mood disorders, postpartum depression, children's mental health, bipolar disorder, OCD, PTSD and substance use disorder.\n\nThe company said it helps with back-office functions, patient engagement between visits, and helping health systems get patients into care. It also enables \"innovative payment models with payers.\"\n\nTalkiatry touts that it is an in-network psychiatric care provider through more than 100 insurers nationwide.\n\nThe New York-based company will use the funds to enhance its technology and scale its reach.\n\n\"Talkiatry has built a national full-stack provider group that sits on a proprietary AI-powered technology platform giving it greater control over the quality and care being delivered at scale,\" Michael Altman, head of strategy at Perceptive Advisors, said in a statement.\n\n\"The company's consistent results across outcomes, engagement, and patient experience position it as defining the next era of psychiatric care in the United States. Our investment supports that long-term vision.\"\n\nMARKET SNAPSHOT\n\nIn 2024, Talkitary secured $130 million in equity and debt financing, bringing its total raise to $245 million.\n\nThe equity round was led by Andreessen Horowitz (a16z), with participation from Perceptive Advisors, and debt financing was provided by Banc of California.\n\nThat same year, the company announced a referral collaboration with HCA Healthcare, enabling it to become part of HCA's network and for patients to be referred to Talkiatry psychiatrists when HCA Healthcare or community resources lack capacity.\n\nIt also partnered with Magellan Health in 2024, a collaboration that would help extend telepsychiatry services across California, and with the direct-to-consumer mental health therapy provider BetterHelp.\n\nIn 2023, Quest Behavioral Health, an administrator of mental health and substance use disorder benefits, partnered with Talkiatry to provide Quest members and their families with access to virtual psychiatric care.\n\nTalkiatry and NOCD partnered that year as well to improve access to therapists and psychiatric services for people suffering from OCD.\n\nIn 2021, Talkiatry completed a $37 million Series A round of funding."
+      },
+      {
+        "id": 35734953,
+        "title": "Talkiatry Raises $210M in Series D Funding",
+        "url": "https://www.finsmes.com/2026/02/talkiatry-raises-210m-in-series-d-funding.html",
+        "publisher": "FinSMEs",
+        "published_date": "2026-02-12T14:31:41",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, a NYC-based psychiatric care provider, raised $210M in Series D funding led by Perceptive Advisors. The round brings total funding to over $400M, with funds allocated to technology and expansion. The company employs over 800 psychiatrists and has delivered 3 million patient visits.",
+        "word_count": 161,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000484",
+            "name": "private health care"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000458",
+            "name": "mental health"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          },
+          {
+            "code": "8090",
+            "name": "SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "georgia gaveras",
+            "robert krayn"
+          ],
+          "location": [
+            "united states"
+          ],
+          "product": [
+            "acuity"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 982935,
+        "full_text": "Talkiatry, a NYC-based provider group delivering in-network psychiatric care, raised $210M in Series D funding.\n\nThe round was led by Perceptive Advisors, with participation from Sofina and prior lead investors Andreessen Horowitz (a16z), blisce/, and Left Lane Capital, alongside a debt facility from Banc of California.\n\nThe raise brought the total raise to date to over $400M.\n\nThe company intends to use the funds to support its continued investment in technology and the continued expansion across the acuity spectrum.\n\nLed by CEO Robert Krayn and Georgia Gaveras, Talkiatry is a provider group delivering in-network psychiatric care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 3 million patient visits to date. It serves as a psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes.\n\nThe company’s care model offers a proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members.\n\nFinSMEs\n\n12/02/2026"
+      },
+      {
+        "id": 27789797,
+        "title": "Talkiatry recruits $210M to scale psychiatry care",
+        "url": "https://www.axios.com/pro/health-tech-deals/2026/02/12/talkiatry-210m-psychiatry",
+        "publisher": "Axios",
+        "published_date": "2026-02-12T13:23:06",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Psychiatric provider Talkiatry raised $210 million in Series D funding led by Perceptive Advisors to scale its psychiatry care services. The company targets health systems and employers with a promise of fewer vendors, better outcomes, and lower costs amid exploding demand for in-network mental health care. This funding represents one of the larger recent investments in the mental health care sector.",
+        "word_count": 351,
+        "original_language": "EN",
+        "author": "Erin Brodwin Brock E.W. Turner",
+        "countries": [],
+        "industries": [],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "brock e.w. turner",
+            "erin brodwin",
+            "brendan lynch"
+          ],
+          "location": [],
+          "product": [
+            "bluesky",
+            "axios pro"
+          ],
+          "event": [
+            "axios live",
+            "the axios show"
+          ]
+        },
+        "newsworthiness_score": 0.9328,
+        "group_id": 1115284,
+        "full_text": "Manage your tracker preferences\n\nWe use cookies and similar tracking technologies to remember preferences, analyze traffic, and deliver ads. Using some kinds of trackers (like cross-site or behavioral advertising cookies) may be considered a “sale” or “sharing” of personal data under certain state laws. You can opt in or out of these trackers below.\n\nGlobal Privacy Control detected\n\nYour global privacy control preference has been honored. You have been automatically opted out of data use cases which adhere to global privacy control.\n\nTargeted advertising cookies and similar trackers\n\nOff\n\nGlobal Privacy Control Applied\n\nSetting this to “off” disables targeted advertising and related trackers in your current browser. To fully opt out, you must disable tracking on each browser and device you use. Clearing cookies may reset your preferences. Because we can't link your Axios subscriber account (email) to browser cookies, you may also want to update your settings in the Privacy Center to ensure your account is fully opted out. See our Privacy Policy for more on how we use personal data and your rights. Review our Privacy Policy at axios.com/legal for more on how we use personal data and your rights.\n\nSave\n\n[Privacy Center](https://privacy.axios.com)\n\n[Consent powered by Ethyca](https://www.ethyca.com/janus?utm_source=fides_consent&utm_medium=referral&utm_campaign=cmp_backlinks&utm_term=janus)\n\n[Skip to main content](#main-content)\n\n* [Axios Logo](https://www.axios.com/)\n* [Newsletters](https://www.axios.com/newsletters)\n* Axios LocalShow\n* [Axios Pro](https://www.axios.com/pro/all-deals)\n* [Axios Live](https://www.axios.com/events)\n* [The Axios Show](https://www.axios.com/the-axios-show)\n\nLogin\n\n[Deals Logo](/pro/all-deals)\n\nAll deals\n\n[Deals Logo](/pro/all-deals)\n\n[Subscribe](https://www.axios.com/pro/offer/deals)\n\n* [Axios Logo](https://www.axios.com/)\n* [Newsletters](https://www.axios.com/newsletters)\n* Axios LocalShow\n* [Axios Pro](https://www.axios.com/pro/all-deals)\n* [Axios Live](https://www.axios.com/events)\n* [The Axios Show](https://www.axios.com/the-axios-show)\n\nLogin\n\n[Deals Logo](/pro/all-deals)\n\nAll deals\n\n[Deals Logo](/pro/all-deals)\n\n[Subscribe](https://www.axios.com/pro/offer/deals)\n\nAxios Pro Exclusive Content\n\n# Talkiatry recruits $210M to scale psychiatry care\n\n* [Erin Brodwin,](https://www.axios.com/authors/ebrodwin)\n* [Brock E.W. Turner](https://www.axios.com/authors/brock.turner@axios.com)\n\nFeb 12, 2026\n\n* email (opens in new window)\n* sms (opens in new window)\n* facebook (opens in new window)\n\n  twitter (opens in new window)\n\n  linkedin (opens in new window)\n\n  bluesky (opens in new window)\n\nIllustration: Brendan Lynch/Axios\n\nExit Content Preview\n\nPsychiatric provider Talkiatry raised $210 million in Series D funding led by Perceptive Advisors.\n\n**Why it matters:** Demand for in-network mental health care is [exploding](https://www.husson.edu/online/blog/2025/11/demand-for-mental-health-therapists) — and Talkiatry promises health systems and employers fewer vendors, better outcomes, and lower costs.\n\n* email (opens in new window)\n* sms (opens in new window)\n* facebook (opens in new window)\n\n  twitter (opens in new window)\n\n  linkedin (opens in new window)\n\n  bluesky (opens in new window)\n\n##### What to read next"
+      },
+      {
+        "id": 19306177,
+        "title": "Talkiatry closes $210M series D to expand telepsychiatry services",
+        "url": "https://www.fiercehealthcare.com/health-tech/talkiatry-closes-210m-series-d-expand-telepsychiatry-services",
+        "publisher": "FierceHealthcare",
+        "published_date": "2026-02-12T06:54:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Telepsychiatry provider Talkiatry secured $210 million in Series D funding, led by Perceptive Advisors with participation from Sofina, Andreessen Horowitz, blisce/, and Left Lane Capital, alongside a debt facility from Banc of California, bringing its total raise to $400 million to date. The company, which claims to be the largest private employer of psychiatrists with over 800 full-time psychiatrists and network coverage for over 170 million lives, plans to use the funding to expand its technology platform and services across the full acuity spectrum from lower-acuity conditions like anxiety and depression to higher-acuity offerings like intensive outpatient support.",
+        "word_count": 662,
+        "original_language": "EN",
+        "author": "Heather Landi",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Serious Mental Illness (SMI) Telepsychiatry & Care Coordination Platforms",
+            "code": "HLALAEAH",
+            "is_primary": true
+          },
+          {
+            "name": "Outpatient Mental Health Clinics & Counseling Centers",
+            "code": "HLAFACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          },
+          {
+            "name": "Revenue & Growth Metrics",
+            "code": "FR02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001229",
+            "name": "healthcare clinic"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "georgia gaveras",
+            "robert krayn",
+            "michael altman"
+          ],
+          "location": [
+            "united states"
+          ],
+          "product": [
+            "talkiatry"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9604,
+        "group_id": 982935,
+        "full_text": "Telepsychiatry provider Talkiatry picked up $210 million in fresh funding to expand its offerings and build out its technology. Perceptive Advisors led the round, which the company said was oversubscribed. Brussels-based investor Sofina also participated along with prior lead investors Andreessen Horowitz (a16z), blisce/ and Left Lane Capital, alongside a debt facility from Banc of California. The company has raised $400 million to date. Talkiatry is not disclosing its valuation. Between 2021 and 2024, the company's revenue grew 1,745%, executives said. The company claims to be the largest private employer of psychiatrists and directly employs more than 800 full-time psychiatrists. Talkiatry is now in network with more than 100 insurers nationwide covering more than 170 million lives. The company has delivered 3 million patient visits to date. Talkiatry, which launched in 2020 and was named to Fierce Healthcare’s Fierce 15 in 2024, was co-founded by Robert Krayn and Georgia Gaveras. The New York City-based company's model partners with payer and provider networks as well as employers. It launched its Mindshare Partner Program in late 2023, and the company now works with more than a third of the country's top 20 health systems and more than 50 total systems to deliver in-network psychiatric care across their populations. The Mindshare Partner service allows healthcare providers to refer patients to the provider while working with their own electronic medical record systems and referral workflows. Talkiatry plans to use the fresh funding to build out its technology and expand its services across the acuity spectrum. Currently, Talkiatry provides psychiatry services for a range of mental health conditions including anxiety, depression, attention-deficit/hyperactivity disorder, bipolar disorder, mood disorder and post-traumatic stress disorder, among others. The company is looking to expand across the full acuity spectrum, building some capabilities in-house and partnering with specialized providers for others, according to a Talkiatry spokesperson. Talkiatry has extended its offerings to lower-acuity services like couples therapy. In the future, it may offer higher-acuity services like intensive outpatient support. Related Talkiatry closes $130M series C to expand telepsychiatry model The company is focused on tighter clinical integration and better care coordination as it grows, according to executives. “Talkiatry is setting the standard for how psychiatry is delivered and measured, with a proven national operating model centered on employed psychiatrists built upon a proprietary technology platform,” Krayn, who serves as CEO, said in a statement. “Health systems, payers, and employers continue to choose Talkiatry as their psychiatry partner of record to deliver consistent, superior outcomes across their patient populations. This funding supports expansion into more complex care and deeper partnerships as institutional demand grows.” Talkiatry built an artificial-intelligence-powered technology platform for its clinical operations to drive efficiency and outcomes. The tech manages care delivery, streamlines clinical operations and engages members, according to the company. The tech platform combined with a rigorous physician-led model allows the company to maintain the highest level of quality and consistency as it continues to scale and expand across the acuity spectrum, executives assert. Talkiatry touts its strong clinical outcomes with 87% of anxiety patients and 86% of depression patients reporting symptom improvement after just two visits, with 67% and 62%, respectively, reporting no longer having clinically significant symptoms. The company says its early dropout rates are 60% lower than industry benchmarks. These strong outcomes lead to cost savings for its partners, the company says, as its care model supports stronger continuity of care and dramatically reduces the likelihood of escalation into higher-cost settings. Cost of care reductions reach up to $700 per member per month, the company said. \"Talkiatry has built a national full-stack provider group that sits on a proprietary AI-powered technology platform giving it greater control over the quality and care being delivered at scale,” said Michael Altman, head of strategy at Perceptive Advisors, in a statement. “The company’s consistent results across outcomes, engagement, and patient experience position it as defining the next era of psychiatric care in the United States. Our investment supports that long-term vision.”"
+      },
+      {
+        "id": 22752492,
+        "title": "Exclusive | Telepsychiatry Company Talkiatry Raises $210 Million in Tech Buildout Push",
+        "url": "https://www.wsj.com/articles/telepsychiatry-company-talkiatry-raises-210-million-in-tech-buildout-push-bc37c1ed",
+        "publisher": "Wsj",
+        "published_date": "2026-02-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Healthcare investor Perceptive Advisors is leading a $210 million equity and debt investment in telepsychiatry company Talkiatry to support its expanded offerings and technology buildout. Earlier investors Andreessen Horowitz, Blisce/, Left Lane Capital, and newcomer Sofina also participated in the equity investment, while Banc of California provided the debt financing. The investment signals continued strong appetite from healthcare-focused investors for companies operating at the intersection of mental health services and digital health infrastructure.",
+        "word_count": 87,
+        "original_language": "EN",
+        "author": "Maria Armental",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Healthcare & Life Sciences Growth Equity",
+            "code": "FSANACAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "feature",
+          "label": "Feature"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000392",
+            "name": "loan market"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52394",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "robert krayn",
+            "dr. georgia gaveras",
+            "boël family",
+            "katy andrascik"
+          ],
+          "location": [
+            "california",
+            "belgian"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 955887,
+        "full_text": "Co-founders of telehealth company Talkiatry, Robert Krayn, left, also CEO, and Dr. Georgia Gaveras, also chief medical officer. Photo: Katy Andrascik\n\nHealthcare investor Perceptive Advisors is leading a $210 million equity and debt investment in Talkiatry to support the telepsychiatry company’s expanded offerings and technology buildout.\n\nEarlier investors Andreessen Horowitz, Blisce/, and Left Lane Capital also participated in the equity investment along with newcomer Sofina, a Belgian publicly traded investment company associated with the Boël family, a Belgian industrial and financial dynasty. Banc of California provided the debt financing."
+      },
+      {
+        "id": 21885629,
+        "title": "Talkiatry Announces $210M Series D Round",
+        "url": "https://vcnewsdaily.com/talkiatry/venture-capital-funding/ymkjlvlclv",
+        "publisher": "VC News Daily",
+        "published_date": "2026-02-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry announced a $210 million Series D financing round, led by Perceptive Advisors with participation from Sofina, Andreessen Horowitz, blisce/, Left Lane Capital, and a debt facility from Banc of California. The company, which has now raised over $400 million total, is a full-stack psychiatric care provider and the largest private employer of psychiatrists in the United States with over 800 full-time psychiatrists and 3 million patient visits delivered. The funding will support the company's next phase of growth as a nationally scaled in-network psychiatric care provider.",
+        "word_count": 177,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Outpatient Mental Health & Counseling Clinics",
+            "code": "HLAFABAC",
+            "is_primary": true
+          },
+          {
+            "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+            "code": "HDAAACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "georgia gaveras",
+            "robert krayn"
+          ],
+          "location": [
+            "united states",
+            "new york, ny"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 982935,
+        "full_text": "Talkiatry Announces $210M Series D Round Back to Home\n\nShare\n\nNEW YORK, NY, Talkiatry today announced $210 million in Series D financing to support the next phase of growth for its nationally scaled, full-stack provider group.\n\nThe oversubscribed round was led by Perceptive Advisors, with participation from Sofina and prior lead investors Andreessen Horowitz (a16z), blisce/, and Left Lane Capital, alongside a debt facility from Banc of California, bringing total raise to date to over $400 million.\n\n\n\nTalkiatry is a full-stack provider group delivering in-network psychiatric care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 3 million patient visits to date. Talkiatry serves as the preferred psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes. The company's care model is underpinned by proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members. Talkiatry was co-founded by Robert Krayn and Georgia Gaveras, DO.\n\n(c) by Massinvestor, Inc. For contact info, please check out our about page.\n\n\n\n\n\n"
+      },
+      {
+        "id": 21877945,
+        "title": "Talkiatry Raises $210M in Series D Funding for Psychiatry Growth",
+        "url": "https://www.linkedin.com/posts/talkiatry_talkiatry-raises-oversubscribed-210m-series-activity-7427736030876999681-9svU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEO7AVkBHp-vaCtv8s7p9Fs033tjw6Ra0bM",
+        "publisher": "LinkedIn",
+        "published_date": "2026-02-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8938,
+        "ai_summary": "Talkiatry has closed a $210 million Series D funding round, oversubscribed by investors, to expand its telepsychiatry services. The company has built the nation's largest full-stack psychiatry provider group with over 800 full-time psychiatrists and has delivered more than 3 million patient visits, partnering with health systems, payers, and employers nationwide. The funding will support continued growth of the company's psychiatric care platform.",
+        "word_count": 607,
+        "original_language": "EN",
+        "author": "Emma Vasquez",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Mental Health Therapist Marketplaces",
+            "code": "HLALALAJ",
+            "is_primary": true
+          },
+          {
+            "name": "Asynchronous Messaging & eVisit Platforms",
+            "code": "HLALAAAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000478",
+            "name": "therapy"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "georgia gaveras",
+            "robert krayn",
+            "sir francis galton"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9237,
+        "group_id": 982935,
+        "full_text": "This post about Talkiatry is a great example of how to use the natural movement of numbers to claim you did something ... when, in fact, what occurred was just a standard statistical outcome. The OP notes that patients who engaged with the company experienced improvement by the second visit in both depression and anxiety. The implication is that the treatment from the telemedicine platform is responsible for the change in severity of depression and anxiety. There is no way to determine if this is true, but there is a reason to suspect that it has nothing to do with the action taken by the telemedicine provider. There is a statistical concept called regression to the mean. This was discovered by Sir Francis Galton, the father of modern statistics. He originally termed it regression to mediocrity. Sir Francis wanted to prove that the children of a successful British royal families were more successful than their peers who came from less successful families. Much to his horror, he discovered that the opposite was true! The children of powerful houses were less likely to be successful than those of commoners. He went on to demonstrate that the children of tall parents are more likely to be shorter than their parents, and the children of short parents are more likely to be taller than their parents, on average. This is not because being short causes tall children, and it's not because being tall causes shortness in your offspring. It's because extreme values in any data set will become less extreme overtime, if random variation acts up upon them. If you flip a coin 10 times, and get 10 heads, which happens some of the time, you would be impressed. If you flip that same coin 10 more times, the likelihood is that the number would not be all heads again. It's more likely that you'd have a mixture of heads and tails that would approximate 50-50. Similarly, in any group of patients who are suffering from depression or anxiety, and you are seeking care, they are likely to have higher scores at baseline. They were suffering, and found care. Natural regression to the mean would mean that any measured value related to the severity of their symptoms would decrease over any subsequent period of time. That's what extreme values in a data set do. They regress to the mean. Thus, we should be careful when the claims are made about the outcome of a healthcare service leading to improvement, with no randomization, no comparison, and no control group. We can't know if the outcome was due to random chance, which is always acting on data scale, or due to an actual effect of the intervention in question. Thank you for attending my lecture on statistics here on LinkedIn. I have a link to my article on the topic in the comments. Separately, congratulations to talkiatry on their massive series D fundraise!\n\nLeft Lane Capital 31,044 followers 1mo Congratulations to the Talkiatry team on closing an oversubscribed $210M Series D. Talkiatry has built the nation’s largest full-stack psychiatry provider group, employing more than 800 full-time psychiatrists, delivering over 3 million patient visits, and partnering with leading health systems, payers, and employers nationwide. The company’s scale is matched by strong clinical and economic outcomes: 87% of anxiety patients and 86% of depression patients report symptom improvement after two visits, with dropout rates up to 60% lower than industry benchmarks. Congratulations to Robert Krayn, Georgia Gaveras, and the entire Talkiatry team! Read More: https://lnkd.in/e3eHuBtf Talkiatry closes $210M series D to expand telepsychiatry services fiercehealthcare.com\n\nLike Comment Share Copy\n\nLinkedIn\n\nFacebook\n\nX\n\nTo view or add a comment, sign in"
+      },
+      {
+        "id": 21839585,
+        "title": "Talkiatry raises $210 million, eyeing opportunity to use AI for engaging with patients",
+        "url": "https://www.statnews.com/2026/02/12/talkiatry-raises-210-million-eyes-ai-opportunity/?utm_campaign=rss",
+        "publisher": "STAT",
+        "published_date": "2026-02-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, a virtual psychiatry company, announced it raised $210 million in funding led by Perceptive Advisors, with participation from Sofina and Andreessen Horowitz, to expand its insurance-covered psychiatric services. The company employs 800 psychiatrists and contracts with insurers to serve as a referral partner for health systems providing psychiatric care. CEO Robert Krayn said the funding provides a financial cushion to maintain payroll for employed clinicians during potential revenue interruptions, citing the 2024 Change Healthcare ransomware attack as an example of such disruptions.",
+        "word_count": 236,
+        "original_language": "EN",
+        "author": "Mario Aguilar",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Serious Mental Illness (SMI) Telepsychiatry & Care Coordination Platforms",
+            "code": "HLALAEAH",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "6213",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "robert krayn",
+            "mario aguilar"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1115284,
+        "full_text": "Mario Aguilar covers technology in health care, including artificial intelligence, virtual reality, wearable devices, telehealth, and digital therapeutics. His stories explore how tech is changing the practice of health care and the business and policy challenges to realizing tech’s promise. He’s also the co-author of the free, twice weekly STAT Health Tech newsletter . You can reach Mario on Signal at mariojoze.13.\n\nTalkiatry, a virtual psychiatry company, announced Thursday it raised $210 million as it looks to build on its insurance-covered services in a critical and difficult-to-access chunk of mental health care.\n\nSince the Covid-19 pandemic, investors have fueled the rise of a number of large mental health tech companies. But Talkiatry’s focus on psychiatric conditions that require medication management stands out from other companies that focus on wellness, coaching, and therapy. Among Talkiatry’s strategic advantages is an employed workforce of 800 psychiatrists. The company contracts with insurers and serves as a referral partner for health systems whose patients need psychiatric care.\n\nAdvertisement\n\nCEO and co-founder Robert Krayn said the new funding, led by Perceptive Advisors, in part provides a cushion to ensure the company can keep meeting its payroll for all those employed clinicians if there are revenue interruptions. He cited as an example the 2024 ransomware attack on clearinghouse Change Healthcare that delayed payments to many providers. Talkiatry declined to comment on a new company valuation or its progress toward profitability. Other backers include Sofina and Andreessen Horowitz."
+      },
+      {
+        "id": 21837735,
+        "title": "Talkiatry Raises Oversubscribed $210M Series D to Expand Nation's Largest Full-Stack Psychiatry Provider",
+        "url": "https://www.vcaonline.com/news/2026021201/talkiatry-raises-oversubscribed-210m-series-d-to-expand-nation-s-largest-full-stack-psychiatry-provider/",
+        "publisher": "Venture Capital Access Online",
+        "published_date": "2026-02-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry announced a $210 million Series D funding round led by Perceptive Advisors, with participation from Sofina and existing investors Andreessen Horowitz, blisce/, and Left Lane Capital, bringing total capital raised to over $400 million. The company, which directly employs more than 800 psychiatrists and is in-network with over 100 insurers covering 170 million lives, will use the proceeds to expand its proprietary AI-powered technology platform and extend care across the acuity spectrum. The funding reflects growing institutional demand from health systems, payers, and employers seeking psychiatric care partnerships.",
+        "word_count": 791,
+        "original_language": "EN",
+        "author": "Access Intercomm",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Outpatient Mental Health & Counseling Clinics",
+            "code": "HLAFABAC",
+            "is_primary": true
+          },
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8093",
+            "name": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "michael altman",
+            "robert krayn",
+            "georgia gaveras"
+          ],
+          "location": [
+            "north america",
+            "united states",
+            "new york",
+            "u.s."
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9909,
+        "group_id": 982935,
+        "full_text": "Talkiatry Raises Oversubscribed $210M Series D to Expand Nation's Largest Full-Stack Psychiatry Provider Share This Article • With more than 800 full-time psychiatrists, Talkiatry strengthens its position as the de facto in-network psychiatry partner for U.S. health systems, payers, and employers\n\n\n\n• Talkiatry's clinical outcomes and cost savings lead the industry, with 87 percent of anxiety patients and 86 percent of depression patients reporting symptom improvement after just two visits, dropout rates 60 percent lower than industry benchmarks, and cost of care reductions reaching up to $700 per member per month\n\n\n\n• Series D capital will fuel Talkiatry's continued investment in industry-leading technology and support continued expansion across the acuity spectrum NEW YORK, February 12, 2026-- Talkiatry today announced $210 million in Series D financing to support the next phase of growth for its nationally scaled, full-stack provider group. The oversubscribed round was led by Perceptive Advisors, with participation from Sofina and prior lead investors Andreessen Horowitz (a16z), blisce/, and Left Lane Capital, alongside a debt facility from Banc of California, bringing total raise to date to over $400 million.\n\n\n\nAs the nation's largest private employer of psychiatrists, Talkiatry directly employs more than 800 full-time psychiatrists. The company has delivered 3 million patient visits to date and is in-network with more than 100 insurers nationwide covering over 170 million lives. Since the launch of its Mindshare Partner Program in late 2023, Talkiatry has established partnerships with more than a third of the country's top 20 health systems and 50+ total systems to deliver high-quality, in-network psychiatric care across their populations.\n\n\n\nPayers and health systems turn to Talkiatry because its care model produces superior outcomes across large patient populations. 87 percent of Talkiatry patients treated for anxiety and 86 percent treated for depression experience symptom reduction after two visits, with 67 percent and 62 percent respectively reporting no longer having clinically significant symptoms. Additionally, Talkiatry's early dropout rate is up to 60 percent lower than industry benchmarks, supporting stronger continuity of care and dramatically reducing the likelihood of escalation into higher-cost settings.\n\n\n\nTalkiatry's clinical operations are built on a proprietary AI-powered technology platform that drives efficiency and outcomes, automating back office functions, engaging patients between visits, supporting health systems in getting patients into care, and enabling innovative payment models with payers. As Talkiatry's patient population continues to grow, its technology platform combined with a rigorous physician-led model allows it to maintain the highest level of quality and consistency as it continues to scale and expand across the acuity spectrum.\n\n\n\n\"Talkiatry is setting the standard for how psychiatry is delivered and measured, with a proven national operating model centered on employed psychiatrists built upon a proprietary technology platform,\" said Robert Krayn, CEO and cofounder of Talkiatry. \"Health systems, payers, and employers continue to choose Talkiatry as their psychiatry partner of record to deliver consistent, superior outcomes across their patient populations. This funding supports expansion into more complex care and deeper partnerships as institutional demand grows.\"\n\n\n\nIn its most recent clinician satisfaction survey, 90 percent of psychiatrists said they would recommend Talkiatry as a place to practice. Talkiatry clinicians report 80 percent less burnout than the industry average, including less emotional exhaustion and a stronger sense of personal accomplishment. Talkiatry also reports therapeutic alliance ratings 22 percent higher than industry peers, with 92 percent of patients building a strong rapport with their clinicians.\n\n\n\n\"Talkiatry has built a national full-stack provider group that sits on a proprietary AI-powered technology platform giving it greater control over the quality and care being delivered at scale,\" said Michael Altman, Head of Strategy, Perceptive Advisors. \"The company's consistent results across outcomes, engagement, and patient experience position it as defining the next era of psychiatric care in the United States. Our investment supports that long-term vision.\"\n\n\n\nTreating conditions including anxiety, bipolar disorder, depression, postpartum depression, OCD, and PTSD, Talkiatry reports a 76 NPS rating, reflecting consistent patient satisfaction across its practice. Talkiatry was ranked among the fastest-growing companies in North America on the Deloitte Technology Fast 500™ in 2025, and is repeatedly recognized as one of the best companies to work for in the country by Fortune and Great Place to Work.\n\n\n\nAbout Talkiatry\n\n\n\nTalkiatry is a full-stack provider group delivering in-network psychiatric care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 3 million patient visits to date. Talkiatry serves as the preferred psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes. The company's care model is underpinned by proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members. Talkiatry was co-founded by Robert Krayn and Georgia Gaveras, DO.\n\n\n\nLearn more at talkiatry.com and follow us on LinkedIn, Facebook, and Instagram. Contact:\n\nMedia Contact\n\npress@talkiatry.com News Index"
+      }
+    ],
+    "credits_consumed": 0.3
+  }
+}

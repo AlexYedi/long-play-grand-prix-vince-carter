@@ -1,0 +1,802 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00000so&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:06.120Z",
+  "data": {
+    "total": 6,
+    "limit": 50,
+    "offset": 0,
+    "count": 6,
+    "data": [
+      {
+        "id": 35533906,
+        "title": "How Breathable Went From Concept to Live in 17 States in 6 Months",
+        "url": "https://bhbusiness.com/2026/05/11/how-breathable-went-from-concept-to-in-17-states-in-6-months/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-05-11T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Breathable, a virtual therapy provider, launched in 16 states and Washington D.C. in about six months. It uses technology to expand access without linearly adding clinicians, and its CEO Joseph Fournier said the company will win for patients in the future.",
+        "word_count": 855,
+        "original_language": "EN",
+        "author": "Chris Larson",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00pkpi1",
+            "name": "Evolve Telemedicine",
+            "website": "https://evolvetelemed.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "002tm8r",
+            "name": "E-volve",
+            "website": "https://e-volve.in/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000026s",
+            "name": "Grow Therapy",
+            "website": "https://growtherapy.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000170",
+            "name": "business information"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000478",
+            "name": "therapy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "6213",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "joseph fournier",
+            "shant atikian",
+            "fournier"
+          ],
+          "location": [
+            "washington d.c.",
+            "16 states",
+            "17 states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7967,
+        "group_id": 11552318,
+        "full_text": "Breathable, a fledgling virtual therapy provider, went from concept to launch to offering services in 16 states and Washington D.C. in about six months. While the barrier to entry in digital mental health is extremely low, the company had something of a leg up to help it clear that barrier and apparently take off running. Breathable CEO Joseph Fournier told BHB that his previous work as an attorney, as an executive at large health systems, and as the president of a separate telehealth company for more than three years helped him navigate many startup issues that other companies would get snagged on. “Not to say that we don’t still have things to learn — we understand the foundations of telehealth and of providing good service, and using tech to help provide it,” Fournier said. Advertisement Founded in September 2025, the company focuses on helping adults in midlife through menopause and andropause, supporting couples and treating teens and young adults. It also helps to capitalize on strategic insights and to get admin support from an established sister company. Fournier is also concurrently the CEO of virtual medical wellness provider E-Volve Company Inc. A representative of the company told BHB after the interview that “Breathable and Evolve are two separate and distinct companies, connected by common ownership and leadership. … Breathable does purchase some personnel and administrative services from Evolve for the time being.” Shant Atikian, chairman of Breathable, is also a founder of E-Volve Company and Dow Ridge Capital. Advertisement On top of support with hormonal changes, several patients of E-Volve Company, which operates as Evolve Telemedicine, asked for mental health services to help people going through fundamental changes to all aspects of their lives as their bodies changed during midlife. “We know that from caring for many menopausal patients or perimenopausal patients at Evolve … that there’s this quiet, insidious sense of disconnection from themselves and from others and from their personal identity as they go through this,” Fournier said. “We see the opportunity to support women in their whole experience from a mental health standpoint.” The company has built a corps of 1099 therapists and establishes fair-market rates in each state where it operates. Fournier interviews each therapist and checks their work and interest against the company’s standards, which include therapists having a clear interest in measurable care outcomes. As a conceptual key at the company, Fournier hopes to identify therapists that have high standards for themselves, understand the significance of care continuity and, in turn, understand the need for clients to have good patient and consumer experiences. This doubles as a provider retention strategy in a market where competition for therapists is fierce. In outpatient mental health, developing solid relationships with patients is one of the only roundly validated, predictive indicators of good care outcomes. Breathable focuses on technologies that enhance therapists’ capacity to see more patients, addressing one of the fundamental problems of all behavioral health — the massive supply-demand imbalance. “I’ve worked in healthcare for 20 years, and I know that there’s just a dearth of services available: even if we add more therapists every year, the demand continues to just outstrip supply,” Fournier said. “In my mind, companies like Breathable are going to win for patients in the future because we’re able to expand access without just linearly adding clinicians. “We use things like technology as an enabler so that our clinicians spend time treating their clients — that’s where they shine the most. They’re able to deliver outcomes instead of fragmented sessions with patients where the access is there, maybe, but the outcome isn’t necessarily there over the long term.” The use of technology is and will be vital to supporting young patients, Fournier said. “If I learn anything from watching my kids, it’s that we can’t medicalize adolescence. We have to support them on their journey, and they need people who understand them. They need a safe place to be and support that fits into their life, not the other way around,” Fournier said. “After spending so much time in healthcare over the years, I see that healthcare often expects for us to work around it, not for it to work around us.” Breathable enters the scene at a very interesting time for digital mental health companies. The massive flood of capital into digital healthcare has tapered off: mental health still remains an investor favorite in terms of top funding categories. The prevailing dynamic shows a hollowing out of the middle for funding. Previous data show that larger, more established companies in the space can command huge funding rounds, while the earlier-stage companies are struggling to get the attention of funders, creating a David and Goliath effect. Near the end of last year, interventional psychiatry startup Radio landed a $50 million Series A round. In February, digital psychiatry practice Talkiatry secured $210 million for its Series C. The big-dollar, late-series rounds — including Grow Therapy’s $150 million Series D —for both provider organizations and pure-play tech companies zeroed in on behavioral health has created something of a revival of investment in the space.\n\nCompanies featured in this article: Breathable"
+      },
+      {
+        "id": 29065645,
+        "title": "Talkiatry and New York Cancer & Blood Specialists Deliver Whole-Person Care To Oncology Patients, Supported by Talkiatry Connect",
+        "url": "https://www.prnewswire.com/news-releases/talkiatry-and-new-york-cancer--blood-specialists-deliver-whole-person-care-to-oncology-patients-supported-by-talkiatry-connect-302756778.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-04-29T13:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry and New York Cancer & Blood Specialists announced a partnership to strengthen whole-person support for cancer patients through streamlined psychiatric referrals and coordinated follow-up enabled by Talkiatry Connect. NYCBS is an early adopter of Talkiatry Connect, a provider-facing care coordination platform that embeds trackable psychiatry referrals and patient progress updates directly into oncology workflows within cloud-based EMRs. The partnership addresses a significant care gap, with over 40% of cancer patients reporting worsening mental health but only half receiving treatment for it, by enabling faster, more confident connections to behavioral health care.",
+        "word_count": 878,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Integrated Behavioral Health (Collaborative Care) Platforms",
+            "code": "HLALAEAC",
+            "is_primary": true
+          },
+          {
+            "name": "Oncology Telemedicine Platforms",
+            "code": "HLALAGAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008xuq",
+            "name": "New York Cancer and Blood Specialists",
+            "website": "https://www.nycancer.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001223",
+            "name": "oncology"
+          },
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "314",
+            "name": "Medical Health"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "maryann fragola",
+            "dr. jeff vacirca",
+            "dr. georgia gaveras",
+            "robert krayn",
+            "georgia gaveras"
+          ],
+          "location": [
+            "united states",
+            "new york",
+            "manhattan",
+            "queens",
+            "brooklyn",
+            "staten island",
+            "bronx",
+            "nassau",
+            "new york metropolitan area",
+            "upstate new york",
+            "suffolk"
+          ],
+          "product": [
+            "talkiatry connect"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9532,
+        "group_id": 4100907,
+        "full_text": "Partnership reflects a shared commitment to clinical excellence and innovation, pairing New York Cancer & Blood Specialists (NYCBS)'s multidisciplinary cancer treatment model with Talkiatry's clinician-led practice and technology-enabled coordination\n\n\n\n\n\nNYCBS is an early adopter of Talkiatry Connect, Talkiatry's provider-facing referral and care collaboration app, advancing integrated treatment by embedding trackable psychiatry referrals and updates on patient progress into oncology workflows\n\n\n\n\n\nTalkiatry Connect gives NYCBS clinicians an efficient pathway to extend services and strengthen continuity of care without putting additional burden on clinical operations NEW YORK, April 29, 2026 /PRNewswire/ -- Talkiatry, the leading full-stack provider group delivering in-network psychiatric care nationwide, and New York Cancer & Blood Specialists (NYCBS), an innovative leader in oncology care, today announced a partnership strengthening whole-person support for cancer patients through streamlined psychiatric referrals and coordinated follow-up enabled by Talkiatry Connect. By expanding access to high-quality behavioral health care for patients navigating complex medical treatment, NYCBS and Talkiatry enable closer alignment between oncology teams and psychiatric providers. Cancer patients face significant mental health challenges when undergoing treatment. Over 40% report worsening mental health, but only half receive care for it. Feelings of anxiety and depression are widespread, with 30% and 23% of patients experiencing symptoms, respectively. Behavioral health challenges persist even after treatment, with 33% of cancer survivors battling depression and 31% coping with anxiety. Mental health issues like emotional distress impact the effectiveness of certain immunotherapies, so it's crucial that cancer patients receive behavioral health care for both their physical and mental wellbeing. NYCBS uses Talkiatry Connect, a care coordination platform designed for specialty practices and healthcare organizations, to refer patients to Talkiatry's psychiatric care. Talkiatry Connect is a provider-facing extension that overlays within cloud-based EMRs, enabling NYCBS's clinicians to identify patients who can benefit from psychiatric care, securely send a referral, and track progress through key milestones. Talkiatry identifies potential fit using information already available in the chart, including diagnoses and insurance, streamlining decision-making for overburdened providers and enabling faster, more confident referrals to appropriate care. \"Cancer treatment puts an enormous emotional burden on patients that can weigh as heavy on the mind as it does on the body. This partnership demonstrates what modern specialty treatment should look like by providing a seamless continuum of care that's clinically rigorous and respects patient privacy,\" said Dr. Georgia Gaveras, Chief Medical Officer and Co-Founder of Talkiatry. \"By working closely with NYCBS's clinical and operational leadership, we're setting a new standard for how behavioral health can be integrated into specialty medicine.\" Talkiatry Connect enables NYCBS clinicians to refer patients to covered behavioral health care in a few clicks and track key milestones like referral receipt, completed assessments, and scheduled first visits. After visits, Talkiatry Connect shares a high-level overview of each patient's care plan, highlighting relevant diagnoses and medications while appropriately limiting sensitive details, to support whole-person care. \"Cancer treatment must go beyond addressing the physical manifestations of illness and also manage the mental health impact during what is often the most stressful time in a patient's life. Our partnership with Talkiatry enhances the entire patient experience, including survivorship and emotional support,\" said Dr. Jeff Vacirca, CEO, at New York Cancer & Blood Specialists. \"Partnering with a proven innovator like Talkiatry strengthens our ability to connect patients to the care they need in a way that's timely and aligned with how our teams already practice.\" The partnership reflects NYCBS and Talkiatry's shared investment in clinician-friendly technology that supports high-quality care and cross-specialty collaboration, while maintaining appropriate boundaries, visibility, and continuity between referring providers and psychiatric care teams. \"This partnership with Talkiatry reflects our ongoing commitment to integrated, patient-centered care,\" said MaryAnn Fragola, DNP, ANPc, ACHPN, Chief of Wellness Services at New York Cancer & Blood Specialists. \"By embedding access to psychiatric expertise alongside oncology services, we are reducing barriers and normalizing mental health support as an essential component of cancer care.\" About Talkiatry\n\nTalkiatry is a full-stack provider group delivering in-network psychiatric care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 3 million patient visits to date. Talkiatry serves as the preferred psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes. The company's care model is underpinned by proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members. Talkiatry was co-founded by Robert Krayn and Georgia Gaveras, DO. Learn more at talkiatry.com and follow us on LinkedIn, Facebook, and Instagram. About New York Cancer & Blood Specialists\n\nNew York Cancer & Blood Specialists (NYCBS) is a leading oncology practice in the New York Metropolitan area committed to providing world-class, patient-centered affordable care to patients with cancer and blood disorders in their own communities, close to family and friends. NYCBS has more than 30 locations and 35 hospital affiliations throughout Nassau and Suffolk counties, in the Bronx, Manhattan, Queens, Staten Island, Brooklyn, and Upstate New York. We offer a multidisciplinary and comprehensive approach to care that utilizes the most advanced imaging, state-of-the-art therapies, cutting-edge clinical trials, on-site pharmacies, and an in-house laboratory with a full range of pathology services. Advocating for and ensuring the health and well-being of our patients is and always will be our top priority. Media Contact\n\npress@talkiatry.com SOURCE Talkiatry"
+      },
+      {
+        "id": 21510633,
+        "title": "Talkiatry Launches Talkiatry Connect for Cloud-Based EMR Psychiatric Referrals",
+        "url": "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/",
+        "publisher": "HIT Consultant",
+        "published_date": "2026-04-09T15:11:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6401,
+        "ai_summary": "Talkiatry has launched Talkiatry Connect, a browser-based referral tool that embeds directly into cloud-based electronic medical record systems to streamline psychiatric referrals for primary care providers. The platform integrates with over 30 cloud-based EMRs and routes patients to Talkiatry's network of over 800 in-network psychiatrists, addressing workflow friction that commonly causes referrals to fail. The tool is already deployed at New York Cancer & Blood Specialists and is offered at no cost to partner providers.",
+        "word_count": 402,
+        "original_language": "EN",
+        "author": "Jasmine Pennic",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Virtual Care Team Collaboration & Provider-to-Provider Teleconsult Platforms (eConsults)",
+            "code": "HLALABAI",
+            "is_primary": false
+          },
+          {
+            "name": "Care Coordination, Referral Management & Transitions-of-Care Pathways",
+            "code": "HLACAGAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008xuq",
+            "name": "New York Cancer and Blood Specialists",
+            "website": "https://www.nycancer.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          },
+          {
+            "code": "20001229",
+            "name": "healthcare clinic"
+          },
+          {
+            "code": "20000478",
+            "name": "therapy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          },
+          {
+            "code": "8093",
+            "name": "SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "robert krayn"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "talkiatry connect"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8526,
+        "group_id": 5643960,
+        "full_text": "Talkiatry Launches Talkiatry Connect for Cloud-Based EMR Psychiatric Referrals\n\nWhat You Should Know The Launch: Talkiatry, the nation’s largest private employer of psychiatrists, has launched Talkiatry Connect, a new referral tool that embeds directly inside a provider’s existing cloud-based EMR.\n\nTalkiatry, the nation’s largest private employer of psychiatrists, has launched Talkiatry Connect, a new referral tool that embeds directly inside a provider’s existing cloud-based EMR. The Solution: Talkiatry Connect acts as a browser-based overlay (running on Chromium browsers) that integrates with over 30 cloud-based EMRs, including Athenahealth, eClinicalWorks, and Practice Fusion. A small icon alerts the provider if a patient might need psychiatric care, and a one-click panel auto-populates the referral directly from the chart. Bypassing the IT Bottleneck One of the most dangerous gaps in the American healthcare system exists in the three seconds it takes a primary care doctor to switch tabs on their computer monitor. When a physician realizes a patient is struggling with severe depression or anxiety, they know a psychiatric referral is necessary. But the actual mechanics of that referral are often a nightmare. The doctor has to minimize the Electronic Medical Record (EMR), open a separate web portal, log in, re-type the patient’s demographic information, and send the referral into a black hole. Often, the PCP never finds out if the patient actually received care. Because of this workflow friction—often called the “portal hop”—thousands of vulnerable patients quietly fall out of view. With patient consent, Talkiatry Connect feeds clinical summaries and progress updates back to the referring provider EMR without them ever leaving their workflow.Talkiatry Connect supports over 30 cloud-based EMRs (like Athenahealth and eClinicalWorks) natively. A small icon lives on the screen; if the provider clicks it, a panel slides out, auto-populates the referral using data already on the screen, and routes the patient directly to Talkiatry’s massive network of over 800 in-network psychiatrists. It takes days to deploy, requires practically zero technical lift from the hospital’s IT department, and is offered at no cost to the partner. “It’s been too hard for providers to do something that should be simple: refer a patient to a psychiatrist,” said Robert Krayn, CEO and co-founder of Talkiatry. “Talkiatry Connect changes that by keeping the entire referral inside the EMR.” Early Adoption Talkiatry Connect is already live at New York Cancer & Blood Specialists, where oncologists are using it to seamlessly coordinate psychiatric support for patients undergoing complex cancer treatments."
+      },
+      {
+        "id": 21489102,
+        "title": "Talkiatry Launches Talkiatry Connect, Making Psychiatric Referrals Faster and More Transparent for Referring Providers",
+        "url": "https://www.prnewswire.com/news-releases/talkiatry-launches-talkiatry-connect-making-psychiatric-referrals-faster-and-more-transparent-for-referring-providers-302737789.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-04-09T13:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, the nation's largest private employer of psychiatrists with over 800 psychiatrists and 3 million patient visits to date, has launched Talkiatry Connect, a referral product embedded within cloud-based electronic medical record systems that enables primary care providers and specialists to refer patients to psychiatry and track their care in real-time without leaving their workflow. The tool supports more than 30 cloud-based EMRs including Athenahealth, eClinicalWorks, Practice Fusion, and Elation, and can be deployed within days at no additional cost to partners. The product is already in use at New York Cancer & Blood Specialists, where care teams coordinate psychiatric support for patients undergoing complex oncology treatment.",
+        "word_count": 508,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Integrated Behavioral Health (Collaborative Care) Platforms",
+            "code": "HLALAEAC",
+            "is_primary": true
+          },
+          {
+            "name": "Virtual Care Team Collaboration & Provider-to-Provider Teleconsult Platforms (eConsults)",
+            "code": "HLALABAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008xuq",
+            "name": "New York Cancer and Blood Specialists",
+            "website": "https://www.nycancer.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "robert krayn",
+            "georgia gaveras"
+          ],
+          "location": [
+            "new york",
+            "united states",
+            "u.s."
+          ],
+          "product": [
+            "talkiatry connect"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9292,
+        "group_id": 1188502,
+        "full_text": "Talkiatry Connect embeds directly inside cloud-based EMRs to give referring providers a faster path to psychiatric referrals and real-time visibility into their patients' care.\n\nThe tool supports more than 30 cloud-based EMRs and deploys in days with no technical lift—at no additional cost to partners. NEW YORK, April 9, 2026 /PRNewswire/ -- Talkiatry, the nation's largest private employer of psychiatrists and the preferred in-network psychiatry partner for more than 50 U.S. health systems, today announced the launch of Talkiatry Connect, a referral product that sits inside cloud-based EMRs and makes it easier for primary care providers and specialists to refer patients to psychiatry and stay informed throughout their care. For health systems, referring patients to psychiatry today is harder than it should be. It often means leaving the chart, navigating a separate module or portal outside the EMR, and hoping for a follow-up that may never come. For busy providers managing full panels, that friction adds up and patients who need psychiatric care fall out of view. Talkiatry Connect addresses this directly. A small icon lives inside the provider's EMR and alerts them when a patient may benefit from psychiatric care. One click opens a panel to place a referral in seconds, with key information auto-populated from the chart—no new system, no portal-hopping. With patient consent, providers can also track the patient's progress and review clinical summaries after each visit, all without leaving their workflow. The result is less cognitive burden for physicians, stronger collaboration across care teams, and the kind of continuity that's increasingly critical in outcome-oriented care. The product supports more than 30 cloud-based EMRs, including Athenahealth, eClinicalWorks, Practice Fusion, and Elation, and runs on Chromium-based browsers. Practices can deploy it centrally and go from set up to launch within days without complex technical lift. \"It's been too hard for providers to do something that should be simple: refer a patient to a psychiatrist,\" said Robert Krayn, CEO and cofounder of Talkiatry. \"Talkiatry Connect changes that by keeping the entire referral inside the EMR and giving referring physicians real-time visibility into their patient's care. This sets a new standard for collaborative care between behavioral health and every other specialty.\" Talkiatry Connect is already in use at New York Cancer & Blood Specialists, where care teams coordinate psychiatric support for patients navigating complex oncology treatment. To learn more, watch a product demo, or request a personalized demo, visit [https://www.talkiatry.com/talkiatry-connect#get-in-touch]. About Talkiatry\n\nTalkiatry is a full-stack provider group delivering in-network psychiatric care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 3 million patient visits to date. Talkiatry serves as the preferred psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes. The company's care model is underpinned by proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members. Talkiatry was co-founded by Robert Krayn and Georgia Gaveras, DO. Learn more at talkiatry.com and follow us on LinkedIn, Facebook, and Instagram. Media Contact\n\npress@talkiatry.com SOURCE Talkiatry"
+      },
+      {
+        "id": 27179283,
+        "title": "Texas psychiatry covered by insurance - get treatment for anxiety today",
+        "url": "https://legionhealth.com/blog/klarity-health-reviews-pricing-alternatives",
+        "publisher": "Legionhealth",
+        "published_date": "2026-04-08T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.4388,
+        "ai_summary": "Legion Health is positioning itself as a primary alternative to Klarity Health for Texas residents seeking psychiatric care, specifically highlighting its inclusion of FDA-cleared QbCheck testing and direct insurance acceptance. The article contrasts Legion's structured, insurance-first model with Klarity's variable directory approach and other competitors like Talkiatry and Cerebral regarding access, pricing, and diagnostic methods.",
+        "word_count": 2258,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Mental Health Parity (MHPAEA) Compliance & Reporting",
+            "code": "HLAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000rtl",
+            "name": "Klarity Health",
+            "website": "https://www.helloklarity.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000owf",
+            "name": "Legion Health",
+            "website": "https://legionhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005gq",
+            "name": "Brightside Health",
+            "website": "https://www.brightside.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00059r8",
+            "name": "Done.",
+            "website": "https://donefirst.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000483",
+            "name": "health insurance"
+          },
+          {
+            "code": "20001198",
+            "name": "court-ordered psychiatric treatment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "399",
+            "name": "Personal Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "arthur macwaters"
+          ],
+          "location": [
+            "texas",
+            "u.s. states",
+            "forty states",
+            "43 states",
+            "multiple states",
+            "50 states"
+          ],
+          "product": [
+            "klarity health",
+            "talkiatry",
+            "legion health",
+            "cerebral",
+            "done",
+            "brightside health"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8554,
+        "group_id": 7830763,
+        "full_text": "Apr 8, 2026 Klarity Health Reviews, Pricing, and Alternatives (April 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Written by: Arthur MacWaters Founder, Legion Health\n\nReady to transform your health? Ready to transform your health? Unlock access to expert guidance and a weight care plan crafted just for you. Unlock access to expert guidance and a weight care plan crafted just for you. Get Started No headings found on page TLDR: Klarity connects you to independent providers who set their own fees and schedules\n\nNo objective ADHD testing is included in Klarity's evaluation process\n\nLegion Health offers FDA-cleared QbCheck testing at no cost for Texas adults\n\nMost Klarity alternatives require 2+ weeks for appointments versus days at Legion\n\nLegion Health accepts major Texas insurance with specialist copay pricing Get Started If you've been digging into Klarity Health reviews , the pattern is clear. Provider availability varies wildly by location, billing disputes show up frequently in BBB complaints, and the ADHD evaluations rely entirely on self-report without objective testing. For some patients, that's fine. For others, especially those with complex presentations or co-occurring conditions, it leaves too many gaps. This post breaks down how Klarity works, what you'll actually pay, and which alternatives offer more structured care with FDA-cleared testing included at no extra cost. What Is Klarity Health and How Does It Work? Klarity Health is a nationwide directory that connects users with independent, licensed medical professionals across psychiatry, mental health, primary care, and counseling. Instead of hiring clinicians directly, Klarity acts as a technology layer between patients and providers who run independent practices. The network includes 500+ licensed professionals serving adults 18 and older, with both online and in-person options available depending on the provider. Patients browse a directory filtered by state, insurance acceptance, ratings, and specialty to find a match. Pricing is pay-per-visit. Initial visits typically run $80 to $150, with follow-ups ranging from $59 to $150 per session, depending on the provider you choose. There are no subscription fees or membership costs, so you only pay when you book. How the model actually works Because providers set their own fees and operate independently, the experience can vary. A few things worth knowing before you book: Klarity connects you to a provider, but does not hire them or standardize how care is delivered after that point.\n\nQuality, communication style, and availability are determined by the individual clinician you select.\n\nIf your provider leaves the network, you would need to find and vet a new one through the directory again. Klarity makes the connection. What happens after that is largely between you and whoever you booked with. Why Consider Klarity Health Alternatives? Klarity works for a specific type of patient: someone comfortable doing their own provider research, happy with pay-per-visit pricing, and not in need of highly specialized care. For that use case, the directory model makes sense. But certain limitations push people toward alternatives. Inconsistent access and coverage Even though Klarity operates nationally, provider availability varies by location. In some areas, the directory thins out considerably, making it harder than expected to find someone accepting new patients. No objective ADHD testing Klarity providers rely on clinical interviews and self-report measures to diagnose ADHD. There are no objective tools, such as FDA-cleared testing, built into the process. For patients with complex presentations or overlapping conditions, that gap matters. Without objective data, the risk of missing the full picture and falling into a cycle of trial-and-error adjustments increases. Operational concerns from patients BBB filings for Klarity Health document recurring complaints about billing disputes, provider assignment mismatches, and slow or unresponsive customer support. Some patients report waiting several days for responses through the in-app chat. The independent variable Because each clinician runs their own practice, consistency is not guaranteed. Appointment availability, response time, and how treatment decisions are made can all vary depending on the provider you select. If that provider leaves the network, you start the search over. None of these is disqualifying on its own. But taken together, they explain why many patients start looking for something with more structure. Best Klarity Health Alternatives in April 2026 Klarity Health is primarily a medication management service, and there are several alternatives worth knowing about depending on what you need from care. Here is a breakdown of the strongest options available in 2026. Legion Health: Best Overall Alternative Legion Health is a virtual psychiatry clinic serving adults in Texas through an insurance‑first model focused on ADHD, anxiety, depression, and co‑occurring conditions. Care is delivered by psychiatric nurse practitioners and psychiatrists licensed in Texas via secure video visits. What they offer: FDA‑cleared QbCheck ADHD testing is included at no additional cost in every adult ADHD evaluation and measures attention, impulsivity, and activity.\n\nIntegrated treatment plans for ADHD with co‑occurring anxiety or depression, managed by one clinician instead of separate tracks.\n\nNew‑patient appointments are typically available within days, with major Texas commercial insurance accepted and a cash‑pay option for coverage changes. Best for: Texas adults who want objective ADHD testing, faster access to psychiatric care, and predictable insurance‑based billing with the option to pay cash if needed. Limitation: Only serves adults who are physically in Texas and does not provide ongoing talk therapy, so many patients pair it with a separate therapist. Bottom line: Legion Health is built for Texas adults who need structured ADHD and psychiatric care, combining free QbCheck testing, rapid scheduling, and insurance‑first pricing that Klarity’s provider marketplace cannot match. Talkiatry Talkiatry is a virtual‑first psychiatry group that offers psychiatrist‑led evaluations and medication management in many U.S. states, operating on an insurance‑only model. What they offer: 60‑minute initial evaluations and 30‑minute follow‑ups with psychiatrists and psychiatric clinicians.\n\nCoverage in more than forty states, making it accessible for many people outside Texas.\n\nIn‑network relationships with many major commercial insurers; visits are billed like specialist appointments. Best for: Patients outside Texas who have stable in‑network insurance and want psychiatrist‑led video visits and longer evaluations. Limitation: No central self‑pay path if insurance changes, and no built‑in objective ADHD testing such as QbCheck. Wait times for first visits often exceed two weeks. Bottom line: Talkiatry is strong for insured patients in its coverage states, while Legion Health offers similar psychiatry access in Texas, plus free objective ADHD testing and cash‑pay continuity. Done Done is a cash‑only subscription service focused on ADHD, offering virtual visits and stimulant prescribing in some states. It does not accept insurance and focuses on relatively straightforward ADHD cases. What they offer: Subscription pricing is typically around $ 299 upfront plus $ 79 per month, not including medication costs.\n\nADHD‑focused visits with options for stimulant prescriptions where policy and regulations allow.\n\nApp‑based communication with clinicians between visits as part of the subscription. Best for: Uninsured adults with relatively simple ADHD presentations who prefer a subscription model and do not have complex comorbidities. Limitation: No insurance acceptance, no objective ADHD testing, a narrow clinical scope, and a recent regulatory history related to stimulant oversight that some patients may find concerning. Bottom line: Done can fit some uninsured ADHD patients, but it does not match Legion Health’s combination of insurance coverage, QbCheck testing, and broader comorbid care for Texas adults. Cerebral Cerebral is a subscription‑based telehealth service that now focuses on anxiety, depression, insomnia, and non‑stimulant ADHD treatment after federal scrutiny of its past stimulant prescribing practices. What they offer: Monthly subscription plans that include medication management and, in some tiers, therapy and messaging.\n\nCoverage in many states with some major commercial insurers accepted alongside self‑pay plans.\n\nNon‑stimulant medication options for ADHD and mood conditions, plus app‑based follow‑up. Best for: Patients who want subscription‑style access to care for anxiety or depression and do not need stimulant prescriptions for ADHD. Limitation: Does not prescribe stimulants after recent enforcement actions and does not provide objective ADHD testing, which limits its usefulness for many adults with ADHD. Bottom line: Cerebral can work for non‑stimulant treatment of mood and some ADHD cases, but it is not a fit if you need stimulant options or objective testing like QbCheck. Brightside Health Brightside Health offers virtual psychiatry and therapy for anxiety and depression using measurement‑based care and tiered subscription plans. ADHD is not a central focus. What they offer: Data‑driven treatment plans for mild to moderate anxiety and depression, with regular symptom tracking.\n\nOptions for medication management, therapy, or combined plans with between‑visit messaging.\n\nInsurance acceptance with some plans, plus subscription pricing for self‑pay users. Best for: Adolescents and adults with relatively straightforward anxiety or depression who want coordinated therapy and medication through one service. Limitation: Not built around adult ADHD care, does not include objective ADHD testing, and is less suited for complex comorbid presentations. Bottom line: Brightside is a good fit for mood and anxiety care, while Texas adults with ADHD who need objective testing and integrated comorbid treatment are better served by Legion Health. Feature Comparison: Klarity Health vs Top Alternatives The table in the previous section covers wait times and access to stimulants. This one goes deeper into the details that tend to matter most when you're actually choosing a provider. Feature Klarity Health Legion Health Talkiatry Done Cerebral Brightside FDA-Cleared ADHD Testing No Yes (QbCheck, free) No No No No Avg. Wait Time 1-2 days Within days 2+ weeks Next day Variable Variable Insurance Accepted Yes (varies by provider) Yes (major Texas plans) Yes (no self-pay) No Yes Yes Self-Pay Option Yes Yes No Yes (required) Yes Yes Stimulant Prescriptions Yes Yes Yes Yes No Limited Geographic Coverage 50 states Texas only 43 states 50 states Multiple states Multiple states Pricing Model $80-$150+ per visit Specialist copay or cash-pay Insurance only $299 upfront + $79/mo Subscription Subscription A few things stand out here. Legion Health is the only option in this comparison that includes objective ADHD testing as part of the evaluation, using FDA-cleared QbCheck at no added cost. That matters because a written intake questionnaire and a clinician conversation, while useful, are inherently subjective. Done and Cerebral both carry regulatory histories worth reviewing before committing to either. Talkiatry works well if you have active insurance coverage, but it is not an option for anyone paying out of pocket. Klarity Health's pricing varies depending on which independent provider you see, so the cost you find advertised may not reflect what you actually pay. Why Legion Health Is the Best Klarity Health Alternative For Texas adults who have found Klarity's model fragmented, whether through billing gaps, rotating providers, or evaluations that felt incomplete, Legion Health takes a different approach. The clearest difference is objective testing. Every ADHD evaluation includes FDA-cleared QbCheck at no added cost, measuring attention, impulsivity, and activity levels with data that questionnaires alone cannot produce. This matters because ADHD frequently co-occurs with anxiety or depression, and a more complete picture helps clinicians make better treatment decisions. Access is structured instead of variable. New patient appointments are typically available within days, and follow-up timing is set by clinical need, not scheduling availability. Legion Health works directly with major Texas insurance plans, which means upfront coverage verification and fewer unexpected charges after visits. A cash-pay option keeps care continuous if coverage changes. Treatment plans are individualized and based on a thorough evaluation. Controlled substances are prescribed only when clinically appropriate and require careful evaluation and ongoing monitoring. Care is delivered by licensed psychiatric clinicians, not software. Final Thoughts on Klarity Health vs Other Options Klarity can work if you're comfortable searching through a directory and handling variability between providers, but it's not the only choice. Klarity alternatives like Legion Health offer objective testing, faster scheduling, and direct insurance billing without rotating through providers every few months. If you're in Texas and want care that feels built for adults with ADHD, you can check coverage and schedule in under five minutes. FAQs What should I look for when comparing Klarity Health alternatives? Start by asking whether the provider offers objective testing (like FDA-cleared QbCheck for ADHD), how they handle insurance billing, and whether you'll see the same clinician consistently or need to search the directory again if your provider leaves. When should I consider switching from Klarity Health? If you're experiencing billing surprises, struggling to find available providers in your area, or need a more structured ADHD evaluation with objective testing instead of self-report questionnaires alone, it may be time to look at alternatives. Why do some ADHD evaluations include objective testing and others don't? Self-report questionnaires and clinical interviews are subjective and can miss the full picture when ADHD overlaps with anxiety or depression. FDA-cleared tools like QbCheck objectively measure attention, impulsivity, and activity, providing clinicians with more complete data to guide treatment decisions. Can I use Legion Health if I don't have Texas insurance? Legion Health accepts major Texas commercial insurance plans and offers a cash-pay option for Texas adults, so you can receive care whether you're using insurance or paying out of pocket, as long as you're physically located in Texas. How legion health Can Help You If you’re in perimenopause or menopause and want guidance from clinicians who specialize in women’s midlife health, book a virtual visit with Legion Health today.\n\n\n\nHormonal changes are at the root of many symptoms women experience in the years before and after their periods stop.\n\n\n\nOur trained menopause specialists help you connect the dots and guide you toward safe, effective solutions.\n\n\n\nWhether you need personalized care or a prescription-based treatment plan to manage symptoms—including brain fog, hot flashes, sleep issues, mood swings, and weight gain—we’ve got you covered. Learn more here. Get Started We're honored to support thousands on their journeys. Here's what some have shared:"
+      },
+      {
+        "id": 19396680,
+        "title": "Talkiatry Raises $210M to Expand Digital AI-Powered Psychiatry Practice",
+        "url": "https://bhbusiness.com/2026/02/12/talkiatry-raises-210m-to-expand-digital-ai-powered-psychiatry-practice/",
+        "publisher": "Bhbusiness",
+        "published_date": "2026-02-12T20:52:34",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry, a virtual psychiatry provider, has raised $210 million in Series D funding led by Perceptive Advisors, bringing its total funding to $452 million. The company plans to expand its AI capabilities to strengthen its position as an in-network psychiatry partner for health systems, payers, and employers, currently operating in 45 states with over 800 psychiatrists. The funding comes amid a shifting landscape for digital mental health, where venture capital interest persists despite a 25% decline in telehealth visits for behavioral health since 2021.",
+        "word_count": 532,
+        "original_language": "EN",
+        "author": "Chris Larson",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          },
+          {
+            "name": "Consumer Behaviour & Spending",
+            "code": "MM05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002sg",
+            "name": "Perceptive Advisors",
+            "website": "http://www.perceptivelife.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000e13",
+            "name": "Blisce",
+            "website": "http://blisce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00055lv",
+            "name": "Sofina",
+            "website": "https://www.sofinagroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006a9a",
+            "name": "Banc of California",
+            "website": "http://www.bancofcal.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004a4",
+            "name": "Left Lane Capital",
+            "website": "https://www.leftlane.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "michael altman"
+          ],
+          "location": [
+            "united states",
+            "u.s.",
+            "45 states"
+          ],
+          "product": [],
+          "event": [
+            "covid"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1115284,
+        "full_text": "Virtual psychiatry provider Talkiatry has raised a $210 million Series D funding round, nearly matching the total funding it has raised across previous rounds. The move signals that venture capital sees a lane for the virtual delivery of high-level outpatient care in AI-powered work environments. The company will double down on its AI capabilities to be the “de facto in-network psychiatry partner for U.S. health systems, payers, and employers” as it further scales up. “Talkiatry has built a national full-stack provider group that sits on a proprietary AI-powered technology platform, giving it greater control over the quality and care being delivered at scale,” Michael Altman, head of strategy for lead investor Perceptive Advisors, said. “The company’s consistent results across outcomes, engagement, and patient experience position it as defining the next era of psychiatric care in the United States. Advertisement “Our investment supports that long-term vision.” Talkiatry leans on AI to automate its back office, support current and prospective patient engagement and enable alternative payer arrangements. The use of AI by clinicians leads to an 80% reduction in feelings of burnout, the company says. Perceptive Advisors led the round. The following firms also participated — Sofina, Andreessen Horowitz (a16z), blisce/ and Left Lane Capital. Banc of California provided a debt facility to the round. Advertisement Talkiatry employs more than 800 full-time psychiatrists. It operates in 45 states. It also has in-network arrangements with over 60 health plans. Including previous funding rounds tracked by Crunchbase, the round brings the company’s total funding to $452 million. The digital mental health segment of behavioral health is no stranger to big bets by the investor class for several years now. In 2024, Spring Health raised $100 million with a $3.3 billion valuation. Grow Therapy raised $88 million in its Series C. Cerebral, the digital mental health industry’s living cautionary tale, raised a $300 million Series C funding round in 2021. This round by Talkiatry is an aberration in the current digital mental health finding landscape. After an accelerated phase of investment jumping in at the opportunity COVID revealed, many learned harsh lessons about the dynamic world of digital mental health — the challenges of working with payers, the internal dynamics that keep therapists engaged, the difficulty of retaining patients ethically, to name a few. The funding dynamic today is also defined by smaller organizations staying relatively small while a handful of others grow at accelerated clips — creating a land of proverbial Davids and Goliaths. Despite the quickly tilting dynamic favoring a handful of scaled providers, so much venture capital has been pumped into the space that several enterprises are likely to float along for quite some time without a terminal exit. This has staved off the long-anticipated implosion of closures and consolidation predicted for this industry. The funding also comes during what might be a fundamental shift in mental health services consumer behavior. Since reaching a peak in 2021, the share of telehealth visits for behavioral health has dropped by 25%, according to Trilliant Health data. That’s not to say Americans aren’t consuming as much behavioral health. The amount of care consumed in behavioral health now eclipses that of primary care, according to the same data."
+      }
+    ],
+    "credits_consumed": 0.16
+  }
+}

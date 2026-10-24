@@ -1,0 +1,208 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0003l7p&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:19.829Z",
+  "data": {
+    "total": 2,
+    "limit": 20,
+    "offset": 0,
+    "count": 2,
+    "data": [
+      {
+        "id": 32986365,
+        "title": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance",
+        "url": "https://www.financialcontent.com/article/bizwire-2026-8-25-accertify-expands-fraud-prevention-capabilities-into-healthcare-with-hipaa-compliance",
+        "publisher": "FinancialContent Business Page",
+        "published_date": "2026-08-25T16:44:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify announced it has achieved HIPAA compliance, allowing healthcare organizations, HSA providers, pharmacies and healthcare-adjacent businesses to use its AI-powered Predictive Yes fraud prevention platform while safeguarding protected health information. The company cited healthcare fraud costing tens of billions annually and HSA assets near $174 billion at the end of 2025.",
+        "word_count": 499,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+            "code": "HLACAJAJ",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "andy mortland"
+          ],
+          "location": [],
+          "product": [
+            "hsa cards",
+            "hsa",
+            "health savings account"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9403451,
+        "full_text": "ⓘ This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or completeness.\n\nHIPAA compliance enables healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses to leverage Accertify's AI-powered fraud prevention platform while meeting rigorous privacy and security requirements\n\nAccertify, a leading fraud decisioning provider whose Predictive Yes Platform helps merchants say yes to more good customers, more revenue, and more growth, today announced it has achieved HIPAA compliance, expanding the company's ability to help healthcare organizations and healthcare-adjacent businesses combat payment fraud, account takeover, and other forms of digital healthcare fraud while safeguarding protected health information (PHI).\n\nHealthcare fraud costs the industry tens of billions of dollars annually and increasingly extends beyond traditional claims fraud into digital payments, account access, and ecommerce. At the same time, the Health Savings Account (HSA) market continues to expand rapidly, reaching nearly 42 million accounts holding approximately $174 billion in assets at the end of 2025, according to research from Devenir. As HSA cards become a more common payment method for healthcare purchases, they also present an increasingly attractive target for account takeover, stolen credentials, and payment fraud.\n\nAchieving HIPAA compliance expands Accertify's ability to help healthcare organizations apply enterprise-grade fraud prevention across digital payment journeys involving protected health information. The company can now support a broader range of healthcare and healthcare-adjacent organizations, including HSA issuers, pharmacies, insurers, and medical supply retailers, while meeting the privacy and security standards required to safeguard sensitive patient data.\n\n\"Healthcare organizations are rapidly digitizing the way consumers pay for care, prescriptions, and other qualified expenses,\" said Andy Mortland, Vice President of Product and Development at Accertify. \"As healthcare payments become more connected and HSA adoption continues to grow, fraudsters are following the money. Organizations need fraud prevention that protects consumers without creating friction at the moments that matter most.\"\n\nFor healthcare payment organizations, that balance between fraud prevention, privacy, and customer experience is becoming increasingly critical.\n\nAs healthcare organizations, pharmacies, and healthcare retailers continue expanding digital payment options, Accertify's Predictive Yes Platform helps them confidently approve legitimate healthcare purchases while detecting fraud across the customer journey, enabling organizations to protect consumers, preserve trust, and grow revenue without introducing unnecessary friction.\n\nAbout Accertify\n\nAccertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at accertify.com.\n\nView source version on businesswire.com: https://www.businesswire.com/news/home/20260825741854/en/"
+      },
+      {
+        "id": 32969884,
+        "title": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance",
+        "url": "https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-08-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify, a fraud decisioning provider based in Itasca, Illinois, announced it has achieved HIPAA compliance, allowing its AI-powered Predictive Yes Platform to serve healthcare organizations, HSA issuers, pharmacies and medical supply retailers. The company cites healthcare fraud costing tens of billions annually and HSA assets near $174 billion. No financial terms were disclosed.",
+        "word_count": 1338,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+            "code": "HLACAJAJ",
+            "is_primary": true
+          },
+          {
+            "name": "A2A Payment Initiation Service Providers (PISPs)",
+            "code": "FSAMAFAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52411",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "524114",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "andy mortland",
+            "tylor tourville t2 pr",
+            "tylor tourville"
+          ],
+          "location": [
+            "africa",
+            "middle east",
+            "itasca",
+            "itasca, ill."
+          ],
+          "product": [
+            "hsa cards",
+            "hsa",
+            "health savings account",
+            "software",
+            "supermarket"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9375127,
+        "full_text": "Aug 25, 2026 8:00 AM Eastern Daylight Time\n\n# **Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance**\n\nShare\n\n---\n\n*HIPAA compliance enables healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses to leverage Accertify's AI-powered fraud prevention platform while meeting rigorous privacy and security requirements*\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify, a leading fraud decisioning provider whose Predictive Yes Platform helps merchants say yes to more good customers, more revenue, and more growth, today announced it has achieved HIPAA compliance, expanding the company's ability to help healthcare organizations and healthcare-adjacent businesses combat payment fraud, account takeover, and other forms of digital healthcare fraud while safeguarding protected health information (PHI).\n\nHealthcare fraud costs the industry tens of billions of dollars annually and increasingly extends beyond traditional claims fraud into digital payments, account access, and ecommerce. At the same time, the Health Savings Account (HSA) market continues to expand rapidly, reaching nearly 42 million accounts holding approximately $174 billion in assets at the end of 2025, according to research from Devenir. As HSA cards become a more common payment method for healthcare purchases, they also present an increasingly attractive target for account takeover, stolen credentials, and payment fraud.\n\nAchieving HIPAA compliance expands Accertify's ability to help healthcare organizations apply enterprise-grade fraud prevention across digital payment journeys involving protected health information. The company can now support a broader range of healthcare and healthcare-adjacent organizations, including HSA issuers, pharmacies, insurers, and medical supply retailers, while meeting the privacy and security standards required to safeguard sensitive patient data.\n\n\"Healthcare organizations are rapidly digitizing the way consumers pay for care, prescriptions, and other qualified expenses,\" said Andy Mortland, Vice President of Product and Development at Accertify. \"As healthcare payments become more connected and HSA adoption continues to grow, fraudsters are following the money. Organizations need fraud prevention that protects consumers without creating friction at the moments that matter most.\"\n\nFor healthcare payment organizations, that balance between fraud prevention, privacy, and customer experience is becoming increasingly critical.\n\nAs healthcare organizations, pharmacies, and healthcare retailers continue expanding digital payment options, Accertify's Predictive Yes Platform helps them confidently approve legitimate healthcare purchases while detecting fraud across the customer journey, enabling organizations to protect consumers, preserve trust, and grow revenue without introducing unnecessary friction.\n\n**About Accertify**Accertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at [accertify.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Faccertify.com%2F&esheet=54593969&newsitemid=20260825741854&lan=en-US&anchor=accertify.com&index=1&md5=f3345eb400b4996ffe73f55fcbb9790b).\n\n## Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nIndustry:\n\n* [Software](/newsroom?industry=1000169)\n* [General Health](/newsroom?industry=1085807)\n* [Online Retail](/newsroom?industry=1050084)\n* [Professional Services](/newsroom?industry=1000150)\n* [Fintech](/newsroom?industry=1778659)\n* [Supermarket](/newsroom?industry=1000174)\n* [Technology](/newsroom?industry=1000178)\n* [Artificial Intelligence](/newsroom?industry=1778623)\n* [Security](/newsroom?industry=1050094)\n* [Retail](/newsroom?industry=1000162)\n* [Health Insurance](/newsroom?industry=1778633)\n* [Health](/newsroom?industry=1000088)\n\n### Accertify\n\n---\n\nRelease Summary\n\nAccertify announces it has achieved HIPAA compliance, expanding its ability to help healthcare-adjacent businesses combat payment fraud.\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance)\n\n---\n\n### Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nSocial Media Profiles\n\n[Accertify on LinkedIn](https://www.linkedin.com/company/accertify-inc-/)\n\n[Accertify on X](https://x.com/AccertifyInc)\n\nMore News From Accertify\n\nGet RSS Feed\n\n[## Accertify and Liminal Release First Empirical Study Proving Fraud-Cyber Convergence Works - and Defining How to Do It Right](/news/home/20260722695686/en/Accertify-and-Liminal-Release-First-Empirical-Study-Proving-Fraud-Cyber-Convergence-Works---and-Defining-How-to-Do-It-Right)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify releases landmark research proving fraud-cyber convergence improves business outcomes and identifies top-performing practices....\n\n[## Accertify's Q2 Global Air Travel Fraud Report Finds Fraud Pressure Intensifying Across Middle East and Africa](/news/home/20260715427770/en/Accertifys-Q2-Global-Air-Travel-Fraud-Report-Finds-Fraud-Pressure-Intensifying-Across-Middle-East-and-Africa)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify publishes Q2 analysis of nearly 133 million airline booking transactions examining how fraud pressure varies across global airline markets...\n\n[## Accertify Sets Bold Vision for “More Yes” – a New Era of AI-Powered Commerce Enablement](/news/home/20260528270619/en/Accertify-Sets-Bold-Vision-for-More-Yes-a-New-Era-of-AI-Powered-Commerce-Enablement)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify announces the Predictive Yes Platform to help businesses say \"yes\" to more customers, without getting burned by fraud....\n\n[Back to Newsroom](/newsroom)\n\n### Accertify\n\n---\n\nRelease Summary\n\nAccertify announces it has achieved HIPAA compliance, expanding its ability to help healthcare-adjacent businesses combat payment fraud.\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance)\n\n---\n\n### Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nSocial Media Profiles\n\n[Accertify on LinkedIn](https://www.linkedin.com/company/accertify-inc-/)\n\n[Accertify on X](https://x.com/AccertifyInc)\n\n## Wish your news had this kind of reach?\n\n[Sign Up](/sign-up/account)[Learn About Business Wire](/why-business-wire)\n\n### Privacy Preference Center\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.\n[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nStrictly Necessary Cookies\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Functional Cookies\n\nFunctional Cookies\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Performance Cookies\n\nPerformance Cookies\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Targeting Cookies\n\nTargeting Cookies\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Social Media Cookies\n\nSocial Media Cookies\n\nThese cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.\n\n[Cookies Details‎](javascript:void(0))\n\nConfirm My Choices\n\n[Back Button\n\nBack](javascript:void(0)) \n\n### Performance Cookies\n\nVendor Search Search Icon [Filter Icon](javascript:void(0))\n\n[Clear Filters](javascript:void(0))\n\nInformation storage and access\n\nApply\n\nConsent Leg.Interest\n\nAll Consent Allowed\n\nSelect All Vendors\n\nSelect All Vendors\n\nAll Consent Allowed\n\n* ### 33Across\n\n  #### host description\n\n  #### View Cookies\n\n  REPLACE-WITH-DYANMIC-HOST-ID\n\n  + Name\n\n    cookie name\n\n* ### 33Across\n\n  [View Privacy Notice](#)\n\n  3 Purposes\n\n  REPLACE-WITH-DYANMIC-VENDOR-ID\n\n  Arrow\n\n  Consent Purposes\n\n  Location Based Ads\n\n  Consent Allowed\n\n  Legitimate Interest Purposes\n\n  Personalize\n\n  [Require Opt-Out](#)\n\n  Special Purposes\n\n  Location Based Ads\n\n  Features\n\n  Location Based Ads\n\n  Special Features\n\n  Location Based Ads\n\nConfirm My Choices\n\nBy clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Cookie Policy](https://services.businesswire.com/cookie-policy)\n\nCookies Settings Accept All Cookies"
+      }
+    ],
+    "credits_consumed": 0.12
+  }
+}

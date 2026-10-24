@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002dz&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:37.289Z",
+  "data": {
+    "data": {
+      "uuid": "00002dz",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2024
+          },
+          "total_funding_usd": 69000000
+        },
+        "funding_rounds": [
+          {
+            "id": 121724,
+            "date": {
+              "month": 7,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 386328,
+            "date": {
+              "month": 5,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_unknown",
+              "label": "Series Unknown"
+            }
+          },
+          {
+            "id": 15569072,
+            "date": {
+              "month": 1,
+              "year": 2023
+            },
+            "round": {
+              "code": "convertible_note",
+              "label": "Convertible note"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Alpha Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000056p",
+            "website": "https://alphapartners.com"
+          },
+          {
+            "name": "Left Lane Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00004a4",
+            "website": "https://www.leftlane.com"
+          },
+          {
+            "name": "Smash Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0004f8x",
+            "website": "https://smashcap.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 1 more funding rounds; 6 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}

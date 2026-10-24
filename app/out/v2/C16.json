@@ -1,0 +1,130 @@
+{
+  "company_id": "C16",
+  "company": "Ashvane Legal",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 109300,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 170,
+        "end": 198
+      },
+      "quote": "$109,300 in MRR in September",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 1311600,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 170,
+        "end": 198
+      },
+      "quote": "$109,300 in MRR in September",
+      "confidence": 0.9,
+      "derivation": "12 x MRR of 109,300 = 1,311,600"
+    },
+    "monthly_burn": {
+      "value": 165000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 396,
+        "end": 402
+      },
+      "quote": "~$165K",
+      "confidence": 0.9,
+      "derivation": "Net burn ~$165K stated"
+    },
+    "cash": {
+      "value": 3130000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 30 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 433,
+        "end": 451
+      },
+      "quote": "$3.13M in the bank",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 19,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 458,
+        "end": 477
+      },
+      "quote": "19 months of runway",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 14,
+      "unit": "count",
+      "currency": null,
+      "period": "Sep 30 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 366,
+        "end": 381
+      },
+      "quote": "headcount is 14",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 45,
+      "unit": "count",
+      "currency": null,
+      "period": "Sep 30 2026",
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 234,
+        "end": 257
+      },
+      "quote": "45 law firms now paying",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "First 200+ lawyer firm signed a firmwide license",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 284,
+        "end": 336
+      },
+      "quote": "our first 200+ lawyer firm signed a firmwide license",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "A large research incumbent started bundling a competing drafting tool for free",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C16_ashvane_2026-10-08.txt",
+      "source_span": {
+        "start": 504,
+        "end": 582
+      },
+      "quote": "a large research incumbent started bundling a competing drafting tool for free",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

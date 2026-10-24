@@ -1,0 +1,135 @@
+{
+  "company_id": "C11",
+  "company": "Kettleworn Commerce",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 91700,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 220,
+        "end": 244
+      },
+      "quote": "Sept MRR landed at 91.7k",
+      "confidence": 0.9,
+      "derivation": "91.7k stated as September MRR"
+    },
+    "arr": {
+      "value": 1100400,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 220,
+        "end": 244
+      },
+      "quote": "Sept MRR landed at 91.7k",
+      "confidence": 0.9,
+      "derivation": "12 x 91,700 MRR; no ARR stated"
+    },
+    "monthly_burn": {
+      "value": 131000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 456,
+        "end": 494
+      },
+      "quote": "Net burn         129      130      131",
+      "confidence": 0.9,
+      "derivation": "Latest month (Sep) of the table, $K so 131 -> 131,000"
+    },
+    "cash": {
+      "value": 1650000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 246,
+        "end": 259
+      },
+      "quote": "cash is 1.65m",
+      "confidence": 0.9,
+      "derivation": "1.65m -> 1,650,000"
+    },
+    "runway_months": {
+      "value": 13,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 273,
+        "end": 292
+      },
+      "quote": "13 months of runway",
+      "confidence": 0.9,
+      "derivation": "Stated by founder"
+    },
+    "headcount": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 334,
+        "end": 344
+      },
+      "quote": "team of 11",
+      "confidence": 0.9,
+      "derivation": "Stated team size"
+    },
+    "customers": {
+      "value": 162,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 314,
+        "end": 332
+      },
+      "quote": "162 merchants live",
+      "confidence": 0.9,
+      "derivation": "Company counts merchants as customers"
+    },
+    "key_highlight": {
+      "value": "Returns module attached to 38% of new merchants",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 576,
+        "end": 627
+      },
+      "quote": "returns module now attached to 38% of new merchants",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Two largest merchants are piloting an in-house checkout build",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C11_kettleworn_2026-10-12.txt",
+      "source_span": {
+        "start": 639,
+        "end": 704
+      },
+      "quote": "our two largest merchants are piloting an in-house checkout build",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,637 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00008iv&sections=company_assessment%2Cfirmographic%2Cbusiness_model",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:26:35.534Z",
+  "data": {
+    "data": {
+      "uuid": "00008iv",
+      "company_assessment": {
+        "market_position": "Snorkel AI is a privately held frontier AI data lab founded in 2019 out of Stanford AI Lab and headquartered in Palo Alto, California. It positions itself as a research-led partner to frontier AI labs and large enterprises, supplying expert-curated training data, evaluation systems, and runnable environments for frontier models and agents. The company achieved unicorn status in 2021 at a $1 billion valuation and a $1.3 billion valuation in its May 2025 Series D, with ARR growing from $36.8M in 2024 to $148M in 2025. Customers and partners include Google, Microsoft, OpenAI, Anthropic, BNY, Harvey, Apple, Intel, and Stanford Medicine, and the company serves 30+ Fortune 500 attendees at its SnorkelCon user conference.",
+        "strengths": [
+          {
+            "details": "As foundation models saturate general web data, performance gains shift to high-quality, expert-curated domain data and RL environments. Snorkel's positioning as a 'frontier AI data lab' with products like GDPval+ (100+ occupations) and Terminal-Bench 2.0 puts it at the center of the next training-data cycle, where budgets are large and alternatives are scarce.",
+            "headline": "Specialized data is the bottleneck for frontier AI",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "Snorkel publishes and maintains category-defining benchmarks (Terminal-Bench, SWE-Bench+, BigLaw Bench, Continual Learning Bench, Agents' Last Exam). Owning the yardsticks for evaluating frontier models creates credibility and inbound demand from labs and enterprises that need to be measured against them, funneling prospects into the Snorkel Flow and DaaS offerings.",
+            "headline": "Benchmark authority compounds into commercial pull",
+            "source": [
+              "https://snorkel.ai/blog/2026-the-year-of-environments/"
+            ]
+          },
+          {
+            "details": "The Expert Data-as-a-Service platform pays domain experts (top earners $3,000+/week) and feeds them into a growing project pipeline. As more experts join, Snorkel can take on more concurrent enterprise engagements across more verticals, increasing delivery capacity without proportionally scaling internal headcount.",
+            "headline": "Expert network creates flywheel and moat",
+            "source": [
+              "https://snorkel.ai/expert-community/?_fvid=e4b5c36a-870a-4b15-f8e5-3b24874dd0a5"
+            ]
+          },
+          {
+            "details": "Strategic distribution via AWS Marketplace, Microsoft for Startups Pegasus, Azure integration, and Accenture Ventures' Project Spotlight gives Snorkel a low-cost channel into Fortune 500 regulated buyers. Each partnership compounds the existing enterprise sales motion and supports land-and-expand into financial services, healthcare, and legal verticals.",
+            "headline": "Hyperscaler and SI partnerships unlock distribution",
+            "source": [
+              "https://www.bigdatawire.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Customers like OpenAI, Google, Anthropic, and Microsoft are aggressively building internal data curation and evaluation teams as they scale. As these labs mature their internal tooling, the reliance on third-party data labs like Snorkel could decline, threatening the core revenue base that drove the 4x ARR jump to $148M.",
+            "headline": "Frontier labs could internalize data capabilities",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "A large portion of revenue (Expert DaaS, custom data development, custom agent builds) is delivered via human-expert labor and forward-deployed engineering rather than pure software. This services-heavy mix typically caps gross margins well below pure SaaS peers and makes the business harder to scale efficiently as headcount grows.",
+            "headline": "Services-heavy model limits margin scalability",
+            "source": [
+              "https://snorkel.ai/expert-community/?_fvid=e4b5c36a-870a-4b15-f8e5-3b24874dd0a5"
+            ]
+          },
+          {
+            "details": "Headcount expanded from 352 (2024) to ~776 (2026) before a 13% reduction in September 2025. This whipsaw in workforce planning, coinciding with the Series D raise, suggests capital efficiency and unit economics may be weaker than headline ARR growth implies, increasing execution risk on the path to profitability.",
+            "headline": "Layoffs after rapid hiring reveal miscalibrated growth",
+            "source": [
+              "https://aimmediahouse.com/ai-startups/snorkel-ai-cuts-13-of-workforce-to-focus-on-data-as-a-service-model"
+            ]
+          },
+          {
+            "details": "Revenue depends heavily on a small set of frontier AI labs and large enterprises (Apple, Google, Microsoft, OpenAI, Anthropic, BNY). Any pullback in frontier-model training budgets or enterprise AI spend could create disproportionate revenue shocks, especially given multi-year contract structures that may face renewal pressure.",
+            "headline": "Concentrated customer base in volatile frontier AI",
+            "source": [
+              "https://webrazzi.com/2021/08/10/yapay-zeka-snorkel-ai-85-milyon-dolar-yatirim"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Snorkel has accumulated a catalog of expert-curated, rubric-validated benchmark-grade datasets (Terminal-Bench 2.0, SWE-Bench+, CUA-Bench+, GDPval+, BigLaw Bench) and proprietary quality-control methodologies (calibrated expert signal, multi-layer verification). These assets are co-developed with frontier labs (OpenAI, Anthropic, Google, Microsoft) and are refreshed quarterly, creating a compounding lead that generic crowdsourced data pipelines cannot easily replicate.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Founded out of Stanford AI Lab with co-founders Alexander Ratner, Chris Re, Braden Hancock, Henry Ehrenberg, Paroma Varma, and Vincent Sunn Chen, plus Chief Scientist Fred Sala (PhD CS, UW-Madison, DARPA Young Faculty Award recipient 2024). The team carries deep relationships across frontier AI labs and academic institutions (Stanford, Berkeley, UW-Madison), and runs an Expert Community platform funneling thousands of paid domain experts into its pipeline.",
+            "type": {
+              "code": "talent_moat",
+              "label": "Talent Moat"
+            }
+          },
+          {
+            "details": "Proprietary methodology combining programmatic labeling, calibrated expert review, rubric-based evaluation, and programmatic verification. Active publication record across arXiv (Agents' Last Exam, RIFT taxonomy, RLVR, JudgmentBench, insurance underwriting benchmarking) builds thought leadership and shapes evaluation standards adopted by frontier labs.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Embedded distribution through Microsoft Azure (Microsoft for Startups Pegasus Program, Snorkel Flow integration), AWS Marketplace (ISV Accelerate Program), and Accenture Ventures' Project Spotlight providing access to enterprise client networks. Hyperscaler co-sell motions materially reduce customer acquisition friction in the enterprise tier.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "The Harbor open-source framework for RL environments and OpenEnv's transition to community governance (June 2026, with Meta-PyTorch, Nvidia, Microsoft, Hugging Face on the coordination committee) positions Snorkel as a standards-setter. Once third-party agents and labs build on these environments and benchmarks, switching costs rise.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "The Expert Community platform pays domain experts (top contributors earning over $3,000 weekly) and supplies both customer engagements and Snorkel's own benchmark catalog. The SARG reading group and SnorkelCon (30+ Fortune 500 attendees in 2024) compound researcher mindshare, but network effects are still maturing relative to mature two-sided platforms.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Snorkel cut 13% of headcount in September 2025 to focus on the Data-as-a-Service model, after roughly doubling the workforce from 352 to ~776 within roughly a year. Combined with the recent Series D raise, the layoff suggests prior hiring outpaced sustainable revenue scaling and that the operating model is being retooled mid-flight.",
+            "headline": "13% workforce reduction signals operational recalibration",
+            "source": [
+              "https://aimmediahouse.com/ai-startups/snorkel-ai-cuts-13-of-workforce-to-focus-on-data-as-a-service-model"
+            ]
+          },
+          {
+            "details": "Headline customers include OpenAI, Anthropic, Google, Microsoft, Apple, Intel, and BNY. Concentration among a small number of frontier-model developers creates revenue cliff risk if any major customer reduces external data spend or builds equivalent internal capabilities.",
+            "headline": "Heavy reliance on frontier AI labs as customers",
+            "source": [
+              "https://webrazzi.com/2021/08/10/yapay-zeka-snorkel-ai-85-milyon-dolar-yatirim"
+            ]
+          },
+          {
+            "details": "Scale AI is explicitly identified as a competitor with comparable frontier-lab offerings, and Amazon SageMaker Ground Truth plus Microsoft Azure tooling provide commoditized alternatives. Snorkel's premium positioning on expert-curated data must continually justify higher pricing against well-funded competitors.",
+            "headline": "Competition from Scale AI and hyperscalers is intense",
+            "source": [
+              "https://www.businessinsider.com/anthropic-improve-claude-code-snorkel-data-training-contractors-2026-6"
+            ]
+          },
+          {
+            "details": "Major revenue streams (Expert DaaS, custom data development, custom agent builds) are delivered through expert labor and forward-deployed engineering rather than pure self-serve software. This mix typically caps gross margins, limits operating leverage as the business scales, and slows the path to durable profitability.",
+            "headline": "Services-heavy revenue mix constrains software economics",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "Snorkel sells through discovery phases, pilots, and staged rollouts with custom scoping per customer, rather than a self-serve product. While this supports high-ACV enterprise deals, it caps how quickly revenue can scale without proportionally adding sales and delivery headcount.",
+            "headline": "Custom enterprise sales motion limits scalability",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "The leadership team is anchored by Stanford AI Lab alumni (CEO Alexander Ratner, co-founders Chris Re, Braden Hancock, Henry Ehrenberg, Paroma Varma, Chief Scientist Fred Sala). Departures of a few founders or senior researchers could weaken both research credibility and enterprise relationships that depend on the Stanford pedigree.",
+            "headline": "Key-person and Stanford talent concentration risk",
+            "source": [
+              "https://snorkel.ai/blog/chat-with-the-terminal-bench-team/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Revenue grew from $36.8M ARR in 2024 to $148M ARR in 2025, indicating strong product-market fit in enterprise and frontier AI data services.",
+            "headline": "ARR quadrupled year-over-year to $148M",
+            "source": [
+              "https://getlatka.com/companies/snorkel-ai"
+            ]
+          },
+          {
+            "details": "Customers include OpenAI, Anthropic, Google, Microsoft, Apple, Intel, Stanford Medicine, BNY, and Harvey, spanning frontier labs, regulated enterprises, and vertical AI specialists.",
+            "headline": "Frontier AI labs and Fortune 500 customers",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "Series D in May 2025 raised $100M at a $1.3B post-money valuation led by Addition, with Greylock, Lightspeed, BlackRock, and Accenture Ventures participating, bringing total funding to roughly $235M.",
+            "headline": "Unicorn valuation backed by top-tier investors",
+            "source": [
+              "https://www.businesswire.com/news/home/20250529083998/en/Snorkel-AI-Announces-%24100-Million-Series-D-and-Expanded-Platform-to-Power-Next-Phase-of-AI-with-Expert-Data"
+            ]
+          },
+          {
+            "details": "Founded in 2019 out of Stanford AI Lab by Alexander Ratner, Chris Re, Braden Hancock, Henry Ehrenberg, and Paroma Varma, with Chief Scientist Fred Sala holding a 2024 DARPA Young Faculty Award.",
+            "headline": "Stanford AI Lab research pedigree and founder credibility",
+            "source": [
+              "https://snorkel.ai/blog/chat-with-the-terminal-bench-team/"
+            ]
+          },
+          {
+            "details": "Snorkel maintains Terminal-Bench 2.0, SWE-Bench+, SlopCodeBench, BigLaw Bench (with Harvey), GDPval+, Continual Learning Bench (with UC Berkeley), and Agents' Last Exam (with Berkeley RDI), positioning it as a benchmark authority for frontier model evaluation.",
+            "headline": "Category-defining benchmarks create industry authority",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "details": "Strategic integrations with Microsoft Azure (Pegasus Program), AWS Marketplace (ISV Accelerate), and Accenture Ventures' Project Spotlight provide established channels into Fortune 500 and regulated buyers.",
+            "headline": "Hyperscaler and SI distribution partnerships",
+            "source": [
+              "https://www.bigdatawire.com/this-just-in/snorkel-ai-partners-with-microsoft-to-unlock-the-potential-of-enterprise-ai/"
+            ]
+          },
+          {
+            "details": "Snorkel holds SOC 2 Type 2 and HIPAA compliance, enabling deployments in financial services and healthcare where data handling requirements block many competitors.",
+            "headline": "Enterprise-grade compliance for regulated verticals",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Named enterprise customers span multiple industries and geographies — Apple, Intel, Google, Microsoft, OpenAI, Anthropic, Stanford Medicine, BNY, Harvey, and an unnamed global bank — indicating that no single customer dominates disclosed logos. However, the dual-segment focus on a small number of frontier AI labs (Google, OpenAI, Anthropic, Microsoft) plus a handful of marquee enterprise anchors (BNY, Harvey) creates meaningful concentration at the top of the customer pyramid even though revenue is not formally disclosed by customer. Engagement economics point to multi-year enterprise contracts and high-stakes specialized-agent work, which raises switching costs but also magnifies the revenue impact of any single anchor churn event. The DaaS catalog (Terminal-Bench 2.0, SWE-Bench+, GDPval+, BigLaw Bench) is sold across many buyers and broadens the long-tail base, partially offsetting lab-segment concentration.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Labelbox provides a data-centric AI platform for training data creation, labeling, and evaluation, sold to ML teams at enterprises. It competes directly with Snorkel Flow as a programmatic labeling and curation platform.",
+            "name": "Labelbox",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0002azl"
+          },
+          {
+            "description": "Scale AI is the leading AI data labeling and evaluation platform, serving frontier labs and enterprises with annotated training data and RLHF services. It directly competes with Snorkel across data labeling, evaluation, and expert-data offerings and is explicitly named as a competitor in Snorkel's market.",
+            "name": "Scale AI",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00000di"
+          },
+          {
+            "description": "Surge AI is a data labeling platform purpose-built for frontier AI teams, focusing on expert-labeled datasets and evaluation. It targets the same frontier-lab and enterprise customers with a similar expert-driven labeling model.",
+            "name": "Surge AI",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000qzl"
+          },
+          {
+            "description": "Appen is an established public data annotation vendor supplying labeled datasets for AI/ML at global scale. While less specialized in frontier model evaluation, it competes for enterprise AI training data budgets and large-scale labeling contracts.",
+            "name": "Appen",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0007efx"
+          },
+          {
+            "description": "TELUS International AI (formerly Lionbridge AI) provides large-scale multilingual data annotation and AI data services to enterprise customers. It overlaps with Snorkel's enterprise DaaS offerings but with a broader, less frontier-model-focused portfolio.",
+            "name": "TELUS International (Lionbridge AI)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00009oq"
+          },
+          {
+            "description": "Sama delivers AI data annotation and model validation services with a focus on high-quality, human-labeled data for ML teams. It overlaps with Snorkel's expert-curated data development and evaluation services for enterprise AI deployments.",
+            "name": "Sama",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002bj"
+          },
+          {
+            "description": "SuperAnnotate offers an end-to-end data annotation and management platform for ML teams building computer vision and LLM applications. It competes with Snorkel Flow on tooling for programmatic labeling and dataset management.",
+            "name": "SuperAnnotate",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00006fa"
+          },
+          {
+            "description": "Datasaur is an NLP-focused data labeling platform with LLM-assisted labeling workflows. It is an emerging alternative to Snorkel Flow for text-heavy enterprise labeling use cases.",
+            "name": "Datasaur",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0004bz5"
+          },
+          {
+            "description": "Weights & Biases provides experiment tracking, model evaluation, and dataset versioning tooling for ML teams. Its evaluation and dataset products partially overlap with Snorkel Evaluate and Snorkel's benchmark suite.",
+            "name": "Weights & Biases",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00000wx"
+          },
+          {
+            "description": "SageMaker Ground Truth is AWS's managed data labeling service integrated into the AWS ML stack. It offers a broad, commoditized alternative to Snorkel Flow for AWS-native customers and competes for the same enterprise training-data workloads.",
+            "name": "Amazon SageMaker Ground Truth",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00008qf"
+          }
+        ]
+      },
+      "firmographic": {
+        "name": "Snorkel AI",
+        "legal_name": "Snorkel AI, Inc.",
+        "website": "snorkel.ai",
+        "company_type": {
+          "code": "private",
+          "label": "Private"
+        },
+        "founded_year": 2019,
+        "company_description": "Snorkel AI is a privately held frontier AI data lab founded in 2019 out of Stanford AI Lab and headquartered in Palo Alto, California. The company builds expert-curated training datasets, benchmark-grade evaluation systems, and runnable RL environments for frontier AI labs and large enterprises, with a methodology rooted in programmatic data labeling, calibrated expert signal, rubric-based verification, and multi-layer quality pipelines. Its product surface centers on Snorkel Flow (the underlying AI Data Development Platform), complemented by Snorkel Evaluate for model evaluation and Snorkel Expert Data-as-a-Service, a two-sided platform that pays domain experts to contribute to AI projects. The Snorkel Data Series delivers curriculum-structured datasets (GDPval+, SWE-Bench+, CUA-Bench+, Enterprise Agentic Environments) refreshed quarterly, alongside benchmark assets such as Terminal-Bench 2.0, SlopCodeBench, Agents' Last Exam, Continual Learning Bench, and BigLaw Bench. Custom specialized-agent engagements and the open-source Harbor framework round out the offering.\n\nThe company monetizes primarily through subscription-style Data-as-a-Service and benchmark/evaluation programs, supplemented by professional services for custom agent development and enterprise AI deployments. Distribution combines direct enterprise sales (with discovery phases, pilots, and staged rollouts), AWS Marketplace and Microsoft Azure integrations, and Accenture co-sell motion for financial services. Snorkel's customer roster spans frontier AI labs (Google, Microsoft, OpenAI, Anthropic), financial institutions (BNY, an unnamed global bank), legal technology (Harvey), and large enterprises (Apple, Intel, Stanford Medicine), with 30 or more Fortune 500 attendees reported at the inaugural SnorkelCon in 2024.\n\nFinancially, Snorkel reported $148 million in ARR for 2025, up from $36.8 million in 2024, and closed a $100 million Series D in May 2025 at a $1.3 billion post-money valuation led by Addition. The company is venture-backed (Addition, BlackRock, Greylock, Lightspeed, Google Ventures, Accel, IQT, Accenture Ventures), holds SOC 2 Type 2 and HIPAA compliance, and after a 13% workforce reduction in September 2025 has re-centered around its Data-as-a-Service and specialized-agent businesses.",
+        "company_description_short": "Snorkel AI is a frontier AI data lab that builds expert-curated training datasets, rubric-based evaluation systems, and runnable RL environments for frontier AI labs and large regulated enterprises, sold via DaaS subscriptions, benchmark products, and custom agent engagements.",
+        "operating_status": {
+          "code": "operating",
+          "label": "Operating"
+        },
+        "ownership_category": {
+          "code": "venture_growth_investor_backed",
+          "label": "Venture Growth Investor Backed"
+        },
+        "headcount_range": "251-500",
+        "logo_url": "https://files.akta.pro/logos/00/00/8i/1af9c30c-4c8e-5624-a1ae-d4cf3100594b.png",
+        "akta_rank": 5913
+      },
+      "business_model": {
+        "gtm_motion": [
+          {
+            "description": "Enterprise-focused sales motion targeting frontier AI labs and large enterprises with specialized, high-stakes AI needs. Engagements involve discovery phases, pilots, and staged rollouts with dedicated expert and forward-deployed teams.",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "type": {
+              "code": "enterprise_field_sales",
+              "label": "Enterprise Field Sales"
+            }
+          },
+          {
+            "description": "Annual user conference SnorkelCon gathering Fortune 500 leaders, reading groups, research workshops, and sponsorship of industry conferences like NeurIPS to build brand awareness and customer relationships.",
+            "source": [
+              "https://newsroom.accenture.com/news/2025/accenture-invests-in-snorkel-ai-to-help-financial-services-firms-transform-data-into-ai-solutions"
+            ],
+            "type": {
+              "code": "event_driven",
+              "label": "Event Driven"
+            }
+          },
+          {
+            "description": "Direct sales engagement through website CTAs for talk to a data researcher or strategist, with custom project scoping and collaborative engagement model.",
+            "source": [
+              "https://snorkel.ai/talk-to-an-expert-ai-solutions/"
+            ],
+            "type": {
+              "code": "sales_led",
+              "label": "Sales Led"
+            }
+          }
+        ],
+        "revenue_model": [
+          {
+            "description": "Expert-curated data development services delivered as ongoing programs. Includes ready-to-use Snorkel Data Series products and custom dataset development engagements. Revenue generated through project-based and recurring program contracts with enterprise clients.",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "title": "Data-as-a-Service (DaaS)",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "Sale of benchmark-grade datasets and environments from the Snorkel Data Series catalog. Programs include Terminal-Bench+, SWE-Bench+, Enterprise Agentic Environments, CUA-Bench+, and GDPval+ products refreshed quarterly.",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "title": "Benchmark and Evaluation Products",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "End-to-end custom AI agent development services for specialized enterprise workflows. Covers scoping, development, deployment, and continuous iteration engagements.",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "title": "Custom Agent Development",
+            "type": {
+              "code": "professional_services",
+              "label": "Professional Services"
+            }
+          },
+          {
+            "description": "Enterprise evaluation platform product for measuring and tuning specialized AI models. New product launched in 2025 as part of expanded platform offering.",
+            "source": [
+              "https://www.thesaasnews.com/news/snorkel-ai-raises-100-million-in-series-d"
+            ],
+            "title": "Snorkel Evaluate",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          }
+        ],
+        "marketing_channels": [
+          {
+            "description": "Active publication of research on benchmarking, evaluation, and data-centric AI including Agents' Last Exam, Terminal-Bench, SlopCodeBench, and RIFT taxonomy",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Research Publications and Papers",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Regular blog posts covering research findings, product updates, and industry perspectives on AI development",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Snorkel Blog",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Inaugural user conference in 2024 gathering leaders from 30+ Fortune 500 companies for networking and knowledge sharing",
+            "source": [
+              "https://snorkel.ai/blog/snorkelcon-2024-recap/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "SnorkelCon Annual Conference",
+            "type": {
+              "code": "events_conferences",
+              "label": "Events/ conferences"
+            }
+          },
+          {
+            "description": "Snorkel AI Reading Group (SARG) forum for researchers and practitioners exploring frontier AI developments with author presentations",
+            "source": [
+              "https://snorkel.ai/reading-group/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Reading Group (SARG)",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          },
+          {
+            "description": "Active participation in NeurIPS, AI Engineer London, and other major AI conferences with workshops and sponsorship",
+            "source": [
+              "https://snorkel.ai/blog/2026-the-year-of-environments/"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Industry Conference Presence",
+            "type": {
+              "code": "events_conferences",
+              "label": "Events/ conferences"
+            }
+          },
+          {
+            "description": "Funding program for open-source AI research supporting benchmark development and community contribution",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Open Benchmarks Grants",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          },
+          {
+            "description": "Active presence on LinkedIn with CEO discussions and company updates through LinkedIn Live",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "LinkedIn and Social Media",
+            "type": {
+              "code": "organic_social",
+              "label": "Organic social"
+            }
+          },
+          {
+            "description": "Platform connecting domain experts with paid AI project opportunities, creating network effects and talent pipeline",
+            "source": [
+              "https://snorkel.ai/expert-community/?_fvid=e4b5c36a-870a-4b15-f8e5-3b24874dd0a5"
+            ],
+            "stage": {
+              "code": "bottom_of_funnel",
+              "label": "Bottom of Funnel"
+            },
+            "title": "Expert Community Program",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          }
+        ],
+        "distribution_channels": [
+          {
+            "description": "Custom engagement model with discovery phase, pilot programs, and staged rollouts. Dedicated expert and forward-deployed teams work alongside customer technical staff.",
+            "scope": "Global",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Direct Enterprise Sales",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          },
+          {
+            "description": "Snorkel Flow availability in AWS Marketplace as part of ISV Accelerate Program partnership",
+            "scope": "Global",
+            "source": [
+              "https://www.channelinsider.com/news-and-trends/us/snorkel-ai-joins-aws-isv-accelerate-program/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "AWS Marketplace",
+            "type": {
+              "code": "marketplace_app_store",
+              "label": "Marketplace/ app store"
+            }
+          },
+          {
+            "description": "Website CTAs for talk to a data researcher or strategist, sample data requests, and custom project scoping conversations",
+            "scope": "Global",
+            "source": [
+              "https://snorkel.ai/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Website Direct Engagement",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          }
+        ],
+        "cost_components": [
+          "Personnel",
+          "Technology or R&D",
+          "Marketing or Sales",
+          "Infrastructure",
+          "Operations"
+        ],
+        "pricing_details": [
+          {
+            "billing_cadence": {
+              "code": "multi_year_contract",
+              "label": "Multi-year contract"
+            },
+            "description": "Enterprise custom engagements",
+            "model": {
+              "code": "others",
+              "label": "Other"
+            },
+            "notes": "Custom project-based pricing determined through scoping conversations. Includes off-the-shelf Data Series products and bespoke custom builds.",
+            "source": [
+              "https://snorkel.ai/"
+            ]
+          },
+          {
+            "billing_cadence": {
+              "code": "pay_as_you_go",
+              "label": "Pay-as-you-go"
+            },
+            "description": "Expert Data-as-a-Service",
+            "model": {
+              "code": "others",
+              "label": "Other"
+            },
+            "notes": "Platform connects professionals with AI projects for paid contributions. Top experts earning over $3,000 weekly.",
+            "source": [
+              "https://snorkel.ai/expert-community/?_fvid=e4b5c36a-870a-4b15-f8e5-3b24874dd0a5"
+            ]
+          }
+        ],
+        "gtm_type": {
+          "code": "b2b",
+          "label": "B2B"
+        },
+        "offering_type": {
+          "code": "software",
+          "label": "Software"
+        }
+      }
+    },
+    "credits_consumed": 6
+  }
+}

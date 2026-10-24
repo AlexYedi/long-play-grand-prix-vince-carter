@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0005v2n&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:05.324Z",
+  "data": {
+    "total": 0,
+    "limit": 50,
+    "offset": 0,
+    "count": 0,
+    "data": [],
+    "credits_consumed": 0.1
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "synthetic": true,
+  "note": "SYNTHETIC reporting-agreement templates for the Halyard demo. A company's agreement = segment template + stage modifier + stated goals.",
+  "segments": {
+    "saas": {
+      "label": "Software (recurring)",
+      "revenue_basis": "MRR",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ]
+    },
+    "payments": {
+      "label": "Payments / fintech",
+      "revenue_basis": "MRR (net revenue; one-time fees excluded)",
+      "metrics": [
+        "monthly_revenue",
+        "arr",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct",
+        "product_velocity",
+        "founder_closed_pct"
+      ]
+    },
+    "services": {
+      "label": "Services / agency (non-recurring)",
+      "revenue_basis": "monthly billings; no ARR",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount",
+        "invoice_reconciliation_pct"
+      ]
+    },
+    "consumer_commerce": {
+      "label": "Marketplace / commerce / consumer",
+      "revenue_basis": "monthly revenue (GMV-derived or sales)",
+      "metrics": [
+        "monthly_revenue",
+        "customers",
+        "monthly_burn",
+        "runway_months",
+        "headcount"
+      ]
+    },
+    "deeptech_hardware": {
+      "label": "Deeptech / hardware / bio",
+      "revenue_basis": "monthly revenue if any; runway is the lead metric",
+      "metrics": [
+        "monthly_revenue",
+        "monthly_burn",
+        "cash",
+        "runway_months",
+        "headcount"
+      ]
+    }
+  },
+  "stage_modifiers": {
+    "Pre-seed": {
+      "runway_floor_months": 12,
+      "weighted": [
+        "runway_months",
+        "monthly_burn",
+        "product_velocity"
+      ]
+    },
+    "Seed": {
+      "runway_floor_months": 9,
+      "weighted": [
+        "monthly_revenue",
+        "customers",
+        "runway_months",
+        "founder_closed_pct"
+      ]
+    },
+    "Series A": {
+      "runway_floor_months": 12,
+      "weighted": [
+        "monthly_revenue",
+        "arr",
+        "founder_closed_pct",
+        "invoice_reconciliation_pct"
+      ]
+    }
+  }
+}

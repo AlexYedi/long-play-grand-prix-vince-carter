@@ -1,6 +1,6 @@
 # Provable LP Update: Deal Flow hackathon (2026-10-24)
 
-Read `docs/plan-v2.md` first; it wins over every other plan doc, and its **Solo plan** section wins over the rest of it. Rules and the submission checklist: `docs/event-rules-and-setup.md`. How to call each sponsor tool (tested): `docs/sponsor-tools.md`. Deadline: **Devpost by 15:45**, feature freeze 14:30.
+Read `docs/plan-v3.md` first; it wins over every other plan doc. `docs/plan-v2.md` still holds for sponsor-tool notes, rubric and evidence. Rules and the submission checklist: `docs/event-rules-and-setup.md`. How to call each sponsor tool (tested): `docs/sponsor-tools.md`. Deadline: **Devpost by 15:45**, feature freeze 14:30.
 
 **Team: Alex solo, with Claude Code as the engineer.** Claude builds `app/`; Alex owns interviews, the founder brief, the video, the Devpost text and any posts.
 

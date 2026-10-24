@@ -1,0 +1,1016 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=000004k&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:26.747Z",
+  "data": {
+    "data": {
+      "uuid": "000004k",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_e",
+            "label": "Series E"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2024
+          },
+          "total_funding_usd": 466500000
+        },
+        "funding_rounds": [
+          {
+            "id": 79412,
+            "date": {
+              "month": 7,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_e",
+              "label": "Series E"
+            }
+          },
+          {
+            "id": 468262,
+            "date": {
+              "month": 4,
+              "year": 2023
+            },
+            "round": {
+              "code": "series_d",
+              "label": "Series D"
+            }
+          },
+          {
+            "id": 449096,
+            "date": {
+              "month": 9,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Generation Investment Management",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00002qs",
+            "website": "http://www.generationim.com"
+          },
+          {
+            "name": "Kinnevik",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000ob7",
+            "website": "http://www.kinnevik.com"
+          },
+          {
+            "name": "Empede Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0007hoy",
+            "website": "https://www.empede.capital"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 4 more funding rounds; 20 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "brand": [
+          {
+            "description": "AI-led mental health experience launched in April 2026 for employer populations, backed by clinical evidence and a safety framework, operating within Spring Health's unified platform.",
+            "name": "Guide"
+          },
+          {
+            "description": "AI-driven electronic health record (EHR) system launched in September 2025, built specifically for mental healthcare providers.",
+            "name": "Compass",
+            "source": [
+              "https://www.globenewswire.com/news-release/2025/11/21/3192874/0/en/digital-transformation-in-healthcare-market-size-to-reach-usd-258-22-billion-by-2033-driven-by-technology-adoption-and-patient-centric-care-sns-insider.html"
+            ]
+          },
+          {
+            "description": "Member-facing mental health service offering from Spring Health for individuals and families, with related Spring Care Inc. legal entity name.",
+            "name": "Spring Care",
+            "source": [
+              "https://www.springhealth.com/"
+            ]
+          },
+          {
+            "description": "Personalized mental health support product offering launched by Spring Health, designed for every moment that matters across the care journey.",
+            "name": "Journeys",
+            "source": [
+              "https://www.springhealth.com/blog/guide-ai-experience"
+            ]
+          }
+        ],
+        "core_offering": "Spring Health sells an AI-native precision mental healthcare platform delivered primarily as a workplace mental health benefit to employers and health plans, replacing or augmenting traditional Employee Assistance Programs (EAPs). The platform connects covered members to a global provider network for therapy, coaching, medication management, and specialty care, orchestrated through precision matching, an AI-led continuous care experience (Guide), and a purpose-built mental health EHR (Compass), with member access available both via employer-sponsored contracts and direct self-serve registration.",
+        "differentiator": "AI-native, end-to-end mental health platform (versus traditional EAPs with 2-5% utilization); purpose-built mental health EHR (Compass) shared across the network; precision matching delivering sub-1-day time-to-first-session; outcomes-validated measurement-based care (92% clinical improvement, JAMA Network Open peer review); Ethical AI Framework with open-source VERA-MH safety benchmark; AI-led continuous care model that maintains context across providers and life changes.",
+        "functional_benefit": "Faster access to care (<1 day), higher engagement (95% provider continuity), measurable clinical outcomes (92% improvement), 15x utilization over traditional EAPs, demonstrable ROI in Year 1 (peer-reviewed 1.9x ROI / $1,070 net savings per participant), validated financial ROI via Validation Institute 2025 Study, integrated member/provider/HR-leader experience on a single platform.",
+        "problem_solved": "Fragmented, low-utilization mental health benefits (traditional EAPs go unused by 97-99% of employees); slow time-to-care; lack of measurable outcomes for employer benefits spend; discontinuity of care across jobs, insurance, and life stages; administrative overload for providers; inability to scale behavioral health access globally.",
+        "quantifiable_outcome": [
+          "<1 day to first appointment",
+          "95% of members continue with their recommended provider",
+          "92% of members improve clinically",
+          "15x increase in utilization vs. traditional EAP (Hearst case study)",
+          "1.9x ROI and $1,070 net savings per participant in Year 1 (JAMA Network Open study)",
+          "Validation Institute 2025 Study confirmed positive ROI for healthcare buyers",
+          "Up to 25% greater symptom improvement for members with greatest need via Guide (Spring Health study)",
+          "95% user satisfaction with AI tools; ~70% report feeling better after engaging with AI; 0 major safety concerns recorded",
+          "51,000 Highmark members enrolled Year 1; 78.5% first-time connection to behavioral health; depression remission in ~4 appointments, anxiety in ~5"
+        ],
+        "product_overview": "Spring Health operates a unified mental health platform, anchored by the Compass AI-driven EHR and the Guide AI-led experience, that delivers care to over 20 million covered lives globally. The platform is offered through modular packages tailored to distinct buyer segments: Spring Care for Individuals + Families (members), Spring Care for Managers + People Leaders (employers), Spring Health for Health Plans (payers), and an enhanced EAP (workplace benefit). On top of the core, Spring Health layers the Continuous Care model (guided intake, AI session summaries, 24/7 in-the-moment AI), Journeys personalized support, and specialty care programs including the Neurodiversity Program, Substance Use Disorder care, Therapy, Coaching, and Medication Management. Through the 2026 acquisition of Alma, Spring Health has added a clinician enablement and payer-relationship platform, and through the prior Bloom acquisition, self-guided CBT capabilities. VERA-MH is Spring Health's open-source AI safety framework used to benchmark AI chatbots in mental health risk scenarios.",
+        "product_and_service": [
+          {
+            "category": "Core platform",
+            "description": "Unified mental health and workplace wellness platform connecting members, providers, and organizations through Compass EHR, Guide AI, and a precision-matching provider network; supports over 20 million covered lives globally across employers and health plans.",
+            "name": "Spring Health Platform",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/"
+          },
+          {
+            "category": "Member-facing service",
+            "description": "Direct-to-member mental health benefit offering fast provider matching, care plan assessment, virtual and in-person therapy, coaching, medication management, and self-guided resources for individuals and their families.",
+            "name": "Spring Care for Individuals + Families (Spring Health for Members)",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springcare"
+          },
+          {
+            "category": "Employer-facing service",
+            "description": "Employer-sponsored offering delivering personalized mental health care to managers and people leaders, including engagement, outcomes, and ROI tracking through a single platform.",
+            "name": "Spring Care for Managers + People Leaders (Spring Health for Employers)",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springworks-for-employers"
+          },
+          {
+            "category": "Payer-facing service",
+            "description": "Payer solution providing mental health benefits to health plan members, integrating in-network provider matching, clinical outcomes measurement, and AI-enabled personalization.",
+            "name": "Spring Health for Health Plans",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/spring-health-for-payers"
+          },
+          {
+            "category": "AI-led experience",
+            "description": "AI-led mental health experience that maintains continuous care across providers, coverage changes, and life events, using AI to remember clinical context, personalize support, and guide members to the right next step between sessions.",
+            "name": "Guide — AI-Led Mental Health Experience",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-launches-guide-new-ai-experience-that-improves-mental-health-outcomes-302751086.html"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/guide"
+          },
+          {
+            "category": "Electronic Health Record (EHR)",
+            "description": "AI-driven electronic health record system built specifically for mental healthcare, used by every provider in Spring Health's network to make care more consistent, effective, and measurable; underlies the precision mental healthcare methodology.",
+            "name": "Compass — AI-Driven EHR for Mental Health",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/our-network"
+          },
+          {
+            "category": "Workplace benefit",
+            "description": "Spring Health's enhanced EAP for employers, providing fast, precise mental health provider matching, continuous care, measurement-based outcomes, and net positive ROI; replaces traditional low-utilization EAPs.",
+            "name": "Enhanced Employee Assistance Program (EAP)",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/eap"
+          },
+          {
+            "category": "Care model",
+            "description": "AI-powered care model featuring guided pre-appointment intake, AI session summaries, and 24/7 in-the-moment AI conversations for members between sessions; 95% member satisfaction and ~70% report feeling better.",
+            "name": "Continuous Care",
+            "source": [
+              "https://www.springhealth.com/blog/continuous-care-model-mental-healthcare"
+            ],
+            "url": "https://www.springhealth.com/blog/continuous-care-model-mental-healthcare"
+          },
+          {
+            "category": "Personalized support program",
+            "description": "Personalized mental health support feature within the Spring Health platform delivering tailored content and care pathways for each moment that matters to the member.",
+            "name": "Journeys — Personalized Mental Health Support",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "url": "https://www.springhealth.com/blog/introducing-journeys-personalized-mental-health-support"
+          },
+          {
+            "category": "Specialty care program",
+            "description": "Specialized care program for children with neurodivergent needs and their caregivers; no formal diagnosis required; leverages the Guide AI platform for care navigation and connects families with clinically appropriate in-network support.",
+            "name": "Neurodiversity Program",
+            "source": [
+              "https://www.prnewswire.com/news-releases/for-caregivers-of-neurodivergent-children-finding-the-right-care-is-a-full-time-job-302796162.html"
+            ],
+            "url": "https://www.springhealth.com/"
+          },
+          {
+            "category": "Clinical service",
+            "description": "Therapy services delivered virtually and in-person by licensed therapists (psychologists, LCSWs, LMFTs, LPCs) in Spring Health's provider network, accessed through quick matching and scheduled appointments.",
+            "name": "Therapy",
+            "source": [
+              "https://www.springhealth.com/reviews"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springcare"
+          },
+          {
+            "category": "Coaching service",
+            "description": "Goal-oriented, non-clinical mental health coaching for personal growth, stress management, habit building, and resilience; coaches help members define goals, create action plans, and stay accountable.",
+            "name": "Coaching",
+            "source": [
+              "https://www.springhealth.com/reviews"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springcare"
+          },
+          {
+            "category": "Clinical service",
+            "description": "Psychiatric medication prescribing, monitoring, and adjustment delivered by prescribers working in collaboration with therapists within the Spring Health platform.",
+            "name": "Medication Management",
+            "source": [
+              "https://www.springhealth.com/reviews"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springcare"
+          },
+          {
+            "category": "Specialty clinical service",
+            "description": "Advanced or focused treatment within the Spring Health platform for complex or severe mental health conditions including eating disorders, trauma, neurodivergence, women's health, and substance use disorder.",
+            "name": "Specialty Care",
+            "source": [
+              "https://www.springhealth.com/glossary"
+            ],
+            "url": "https://www.springhealth.com/what-we-do/springcare"
+          },
+          {
+            "category": "Industry safety framework",
+            "description": "Open-source, clinically grounded evaluation framework developed by Spring Health and an AI Council to benchmark how AI systems handle mental health crisis moments, starting with suicide risk; applied to commercial AI models to expose safety gaps.",
+            "name": "VERA-MH — Open-Source AI Safety Evaluation Framework",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-and-expert-council-release-vera-mh-the-first-open-source-evaluation-for-validating-ai-in-mental-health-302587009.html"
+            ],
+            "url": "https://www.springhealth.com/"
+          },
+          {
+            "category": "Provider enablement platform",
+            "description": "Membership-based platform for independent mental health clinicians, acquired by Spring Health in 2026 to add provider network, payer relationships, and clinician insurance infrastructure; operates as a unit within Spring Health.",
+            "name": "Alma Provider Enablement Platform",
+            "source": [
+              "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+            ],
+            "url": "https://www.springhealth.com/"
+          },
+          {
+            "category": "Self-guided digital therapy",
+            "description": "Self-guided therapy platform with Cognitive Behavioral Therapy technologies acquired by Spring Health in March 2024, bolstering the platform's self-guided and digital CBT offerings.",
+            "name": "Bloom Self-Guided Therapy",
+            "source": [
+              "https://www.openpr.com/news/4483122/key-factors-and-emerging-trends-shaping-the-online-couples"
+            ],
+            "url": "https://www.springhealth.com/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Combined Spring Health + Alma entity supports over 170 million lives globally across employer and health plan partnerships.",
+            "source": [
+              "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "170+ million lives (combined entity post-Alma)"
+          },
+          {
+            "description": "Spring Health itself supported more than 50 million people before the Alma combination, having grown at a compound annual rate exceeding 80% over the past three years.",
+            "source": [
+              "https://www.alleywatch.com/2026/01/spring_health_acquires_alma-price-mental-health/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "50 million covered lives (Spring Health pre-Alma)"
+          },
+          {
+            "description": "Spring Health's homepage states it is supporting over 20 million covered lives globally.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "20+ million covered lives (per company website)"
+          },
+          {
+            "description": "Latest publicly disclosed valuation following the $100M Series E led by Generation Investment Management; up from $2.5B at the 2023 Series D — a 32% jump in fifteen months.",
+            "source": [
+              "https://www.fiercehealthcare.com/health-tech/mental-health-benefits-company-spring-health-hits-33b-valuation-boosted-100m-series-e"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$3.3 billion (July 2024)"
+          },
+          {
+            "description": "Cumulative venture funding reported at the time of the Alma merger announcement; Spring Health has raised more than $470M in total venture funding per Fierce Healthcare reporting on the Series E.",
+            "source": [
+              "https://www.wsj.com/articles/spring-health-to-buy-alma-in-merger-of-mental-health-startups-3ce2e8b8?mod=pro_feat6_vc_pos2"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$415 million in venture capital raised (pre-Alma)"
+          },
+          {
+            "description": "Serves 450+ employer and health plan clients including Microsoft, Target, J.P. Morgan Chase, and Delta Airlines.",
+            "source": [
+              "https://www.fiercehealthcare.com/health-tech/mental-health-benefits-company-spring-health-hits-33b-valuation-boosted-100m-series-e"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "450+ employer and health plan clients (mid-2024)"
+          },
+          {
+            "description": "Combined Spring Health + Alma organization is projected to deliver nearly 10 million mental health visits in 2026.",
+            "source": [
+              "https://www.fiercehealthcare.com/health-tech/spring-health-buy-alma-move-boost-position-mental-health-market"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "Nearly 10 million mental health visits (combined, 2026 projected)"
+          },
+          {
+            "description": "Operational performance metric published on the company homepage for time-to-first-session.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "<1 day to first appointment"
+          },
+          {
+            "description": "Provider continuity outcome reported on company homepage.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "95% continue with recommended provider"
+          },
+          {
+            "description": "Clinical improvement outcome reported on company homepage, validated by JAMA Network Open peer-reviewed study and Validation Institute 2025 Study.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "92% improve clinically"
+          },
+          {
+            "description": "Hearst case study result published on company website.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "15x increase in utilization vs. traditional EAP (Hearst case study)"
+          },
+          {
+            "description": "Growth rate cited by Spring Health around the time of the Alma combination announcement.",
+            "source": [
+              "https://www.alleywatch.com/2026/01/spring_health_acquires_alma-price-mental-health/"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "~80% CAGR over the past three years"
+          },
+          {
+            "description": "Industry reporting projects the combined Spring Health + Alma entity to generate approximately $1 billion in revenue in its first year, with a $6-7B valuation.",
+            "source": [
+              "https://bhbusiness.com/2026/01/29/what-the-spring-health-alma-deal-means-for-the-future-of-digital-health-dealmaking/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "~$1 billion projected Year 1 revenue (combined, per BHB reporting)"
+          },
+          {
+            "description": "Spring Health announced the publication of the largest outcomes study in behavioral health, covering nearly 53,000 patients across over 500 US employers.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-publishes-largest-outcomes-study-demonstrating-measurable-clinical-improvements-in-mental-health-care-302623647.html"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "53,000 patients across 500+ US employers (largest outcomes study)"
+          },
+          {
+            "description": "Highmark + Spring Health mental well-being partnership enrolled 51,000 members in its first year, with 78.5% connecting to behavioral health services for the first time.",
+            "source": [
+              "https://www.fiercehealthcare.com/payers/look-inside-highmark-and-spring-healths-mental-well-being-partnership"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "51,000 members enrolled (Highmark partnership Year 1)"
+          },
+          {
+            "description": "Spring Health expanded its platform to be available in over 30 languages as part of its Series E growth plan.",
+            "source": [
+              "https://www.mobihealthnews.com/news/spring-health-garners-100m-bringing-its-valuation-33b"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "30+ languages supported"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 29,
+              "month": 1,
+              "year": 2026
+            },
+            "description": "Definitive agreement announced January 29, 2026; acquisition closed May 1, 2026 to create the 'first lifelong mental health platform.' Combines Spring Health's 50M covered lives and AI-enabled precision care with Alma's 120M+ lives through national and regional payer contracts and provider network. Combined entity projected to deliver nearly 10M mental health visits in 2026. April Koh remains Spring Health CEO; Harry Ritter continues as CEO of Alma operating within Spring Health.",
+            "name": "Alma",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-joins-forces-with-alma-expanding-access-to-precision-mental-health-care-302673454.html"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00038g8"
+          },
+          {
+            "announced_on": {
+              "month": 3,
+              "year": 2024
+            },
+            "description": "Spring Health acquired Bloom's self-guided therapy platform in March 2024 to bolster its offerings with advanced Cognitive Behavioral Therapy technologies.",
+            "name": "Bloom (Bloom's self-guided therapy platform)",
+            "source": [
+              "https://www.openpr.com/news/4483122/key-factors-and-emerging-trends-shaping-the-online-couples"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            }
+          },
+          {
+            "announced_on": {
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Featured sponsor and partner at Personify Health's Thrive Summit 2026 ('Be the Why'), March 16-19, 2026 in Phoenix, Arizona, alongside McKinsey and other ecosystem partners.",
+            "name": "Personify Health",
+            "source": [
+              "https://personifyhealth.com/press/personify-healths-thrive-summit-2026-challenges-leaders-to-be-the-why-in-shaping-the-future-of-employer-sponsored-health/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0002lbe"
+          },
+          {
+            "announced_on": {
+              "year": 2023
+            },
+            "description": "Mental well-being partnership with Highmark (a major health plan) launched ~2024; research published April 2026 showed strong outcomes (51,000 members enrolled Year 1, 78.5% first-time connection to behavioral health, depression remission in ~4 appointments, anxiety in ~5). Joint plans to expand AI capabilities.",
+            "name": "Highmark",
+            "source": [
+              "https://www.springhealth.com/news/celebrating-a-new-season-at-spring-health"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000428h"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Closed the acquisition of Alma, creating a combined entity supporting 170M+ lives and projected to deliver ~10M mental health visits in 2026, with reported combined valuation of $6-7B and projected Year 1 revenue near $1B.",
+            "source": [
+              "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Raised a $100M Series E led by Generation Investment Management at a $3.3B post-money valuation, a 32% step-up in 15 months, bringing total disclosed venture funding above $470M.",
+            "source": [
+              "https://www.fiercehealthcare.com/health-tech/mental-health-benefits-company-spring-health-hits-33b-valuation-boosted-100m-series-e"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Launched Guide, an AI-led mental health experience for employer populations that maintains continuous care context across providers and life events; backed by a Spring Health study showing up to 25% greater symptom improvement among highest-need members.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-launches-guide-new-ai-experience-that-improves-mental-health-outcomes-302751086.html"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 9,
+              "year": 2025
+            },
+            "description": "Launched Compass, an AI-driven electronic health record purpose-built for mental healthcare and used by every provider in the network, anchoring measurement-based care across the platform.",
+            "source": [
+              "https://www.globenewswire.com/news-release/2025/11/21/3192874/0/en/digital-transformation-in-healthcare-market-size-to-reach-usd-258-22-billion-by-2033-driven-by-technology-adoption-and-patient-centric-care-sns-insider.html"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 1,
+              "year": 2026
+            },
+            "description": "Announced definitive agreement to acquire Alma, adding 120M payer-covered lives, clinician membership infrastructure, and payer contracting capability to Spring Health's employer-led platform.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-joins-forces-with-alma-expanding-access-to-precision-mental-health-care-302673454.html"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Acquired VOS.health to extend digital mental health capabilities and broaden the European/international footprint.",
+            "source": [
+              "https://www.springhealth.com/"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Alma laid off 45 staffers as it reorganized its operations and customer experience roles amid its merger with Spring Health, which was announced at the end of January 2026 and expected to close in Q2 2026; the layoffs targeted lower-level roles in operations and customer experience, with new, more advanced positions being created to handle complex customer needs.",
+            "source": [
+              "https://bhbusiness.com/2026/04/02/alma-lays-off-45-staffers-as-it-works-through-merger-with-spring-health/"
+            ],
+            "title": "Alma Layoffs During Spring Health Merger",
+            "type": {
+              "code": "restructuring",
+              "label": "Restructuring"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Series E growth plan explicitly expanded the platform to over 30 languages, and the May 2026 Alma acquisition adds European and additional international payer relationships on top of the existing Spring Care Limited (Ireland) EU/UK entity, indicating active global footprint expansion.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "Specialty care programs have been launched or extended into substance use disorder, pediatric treatment, neurodiversity care (June 2026 Neurodiversity Program), eating disorders, trauma, and women's health, materially expanding the clinical surface area beyond core therapy/coaching.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "Three acquisitions completed in roughly two years — Bloom (March 2024, self-guided CBT), VOS.health (August 2025), and Alma (announced January 2026, closed May 2026) — indicate a deliberate inorganic growth strategy to acquire capability, payer relationships, and provider network.",
+            "type": {
+              "code": "m_and_a_signal",
+              "label": "M And A Signal"
+            }
+          },
+          {
+            "description": "Alma integration converts Spring Health from a primarily employer-led model into a dual employer-plus-payer platform; the Highmark partnership enrolled 51,000 members in Year 1 with 78.5% first-time behavioral health connections, validating the health plan channel.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Continuous Care model (May 2025), Journeys personalized support, Compass EHR (September 2025), VERA-MH framework (October 2025), and Guide (April 2026) collectively extend the platform from episodic therapy to AI-anchored lifelong care, indicating a meaningful new product-line expansion.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "The $100M Series E in July 2024 was explicitly earmarked for product development, technology investment, and specialty-care expansion; Spring Health has been cited alongside Headspace as a potential 2026 IPO candidate, suggesting continued capital-markets optionality.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        },
+        "valuation_estimate": {
+          "code": "5b_10b",
+          "label": "$5B-$10B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Spring Health (legal entity Spring Care, Inc.) is a global mental health company founded in 2016 in New York, valued at $3.3 billion as of its July 2024 Series E led by Generation Investment Management, and recognized by TIME as one of the 10 Most Influential Wellness Companies of 2026. The combined Spring Health + Alma entity covers over 170 million lives across 450+ employer and health plan clients (Microsoft, Target, Coca-Cola, BlackRock, Pfizer, Highmark, General Mills, J.P. Morgan Chase, Delta), operates in 30+ languages, and competes in the employer-sponsored mental health benefits and EAP replacement market against Lyra Health, Modern Health, and Headspace.",
+        "strengths": [
+          {
+            "details": "The combination of 53,000-patient peer-reviewed outcomes data, a purpose-built mental health EHR (Compass), and a deployed AI-led experience (Guide) creates a feedback loop where every interaction improves matching, summaries, and personalization. As outcomes data scales, Spring Health can credibly out-claim competitors on ROI — a key Fortune 500 procurement criterion.",
+            "headline": "AI-native platform with compounding data moat",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-publishes-largest-outcomes-study-demonstrating-measurable-clinical-improvements-in-mental-health-care-302623647.html"
+            ]
+          },
+          {
+            "details": "Alma brings 120M+ lives via payer relationships and a membership platform for independent mental health clinicians. Embedding Spring Health's AI and Compass into Alma's clinician base grows the supply side; deeper supply + outcomes data then improves member experience and employer renewals. Combined entity supports 170M+ lives — a category-leading distribution footprint.",
+            "headline": "Alma creates two-sided network effects in clinicians and payers",
+            "source": [
+              "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+            ]
+          },
+          {
+            "details": "Recent launches (Neurodiversity Program June 2026, substance use and pediatric treatment funded by Series E, Journeys personalized support) move Spring Health upmarket from generic therapy/coaching into higher-acuity, higher-revenue specialty care. The Continuous Care model (95% member satisfaction, ~70% report feeling better, zero major safety incidents) provides a tech-enabled operating model that scales these new services efficiently.",
+            "headline": "Specialty care expansion unlocks larger wallet per member",
+            "source": [
+              "https://www.prnewswire.com/news-releases/for-caregivers-of-neurodivergent-children-finding-the-right-care-is-a-full-time-job-302796162.html"
+            ]
+          },
+          {
+            "details": "Spring Health expanded its platform to 30+ languages as part of the Series E plan and operates a Spring Care Limited entity in Ireland for EU/UK processing. International enterprise buyers (e.g., global accounts like Microsoft, Pfizer, Coca-Cola) and the Alma payer footprint provide a clear path to expand U.S.-validated outcomes and PEPM pricing into Europe, APAC, and Latin America.",
+            "headline": "Global platform runway from 30+ language coverage",
+            "source": [
+              "https://www.mobihealthnews.com/news/spring-health-garners-100m-bringing-its-valuation-33b"
+            ]
+          },
+          {
+            "details": "TIME 10 Most Influential Wellness Companies of 2026, multiple Healthcare Technology Report Top 50/25 recognitions, and JAMA Network Open peer review together create a category-defining brand that lowers customer acquisition cost in a still-fragmented buyer market. As Spring Health is cited as a potential 2026 IPO candidate, public-market visibility would further entrench enterprise mindshare.",
+            "headline": "Brand and category leadership in workplace mental health",
+            "source": [
+              "https://time.com/article/2026/04/27/time100-companies-wellness/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Lyra Health and Modern Health (and Headspace Health) compete for the same employer RFPs with similar outcomes narratives; in a 'soft HR budget' environment (a scenario Spring Health's own content flags for 2026), buyers can play vendors against each other on PEPM price. Continuous downward pressure on price per covered life would directly hit the largest revenue stream.",
+            "headline": "Margin compression from a crowded buyer-side market",
+            "source": [
+              "https://www.springhealth.com/"
+            ]
+          },
+          {
+            "details": "Alma had to lay off 45 people during the merger reorganization, an early sign of cultural/operational friction. With four acquisitions in four years, integration complexity multiplies — duplicated back-office systems, overlapping provider relations, and divergent tech stacks could delay the projected ~$1B Year 1 revenue and dilute the 6-7B combined valuation.",
+            "headline": "Integration friction could cap combined-entity upside",
+            "source": [
+              "https://bhbusiness.com/2026/04/02/alma-lays-off-45-staffers-as-it-works-through-merger-with-spring-health/"
+            ]
+          },
+          {
+            "details": "Spring Health's Guide, Continuous Care, and Compass embed generative AI in clinical-adjacent workflows — including 24/7 in-the-moment conversations with members. VERA-MH itself documents that commercial AI models have meaningful gaps handling high-risk mental health moments. A public incident (regulator-flagged, employer-flagged, or media-covered) in a clinical context could trigger contract terminations, payer network removal, and regulatory action.",
+            "headline": "A single AI safety incident could undo years of trust",
+            "source": [
+              "https://www.prnewswire.com/news-releases/vera-mh-findings-highlight-gaps-in-how-ai-chatbots-respond-to-suicidal-ideation-302684585.html"
+            ]
+          },
+          {
+            "details": "Spring Health's <1-day time-to-first-session and 95% continuity require a high-quality, geographically diverse clinician network. National mental health clinician shortages, burnout, and reimbursement pressure can degrade supply in specialty areas (neurodiversity, eating disorders, substance use) precisely as Spring Health expands into them. Capacity bottlenecks in any one of these new verticals could delay the cross-sell thesis.",
+            "headline": "Provider supply limits the platform's promise",
+            "source": [
+              "https://www.prnewswire.com/news-releases/for-caregivers-of-neurodivergent-children-finding-the-right-care-is-a-full-time-job-302796162.html"
+            ]
+          },
+          {
+            "details": "Spring Health has been cited as a potential 2026 IPO candidate alongside Headspace, but standalone revenue and unit economics are not publicly disclosed. If the IPO is delayed — or required S-1 disclosures reveal lower margins, high customer concentration, or sub-scale net revenue retention — the private-market premium could compress, raising the cost of follow-on capital and pressuring the existing $3.3B standalone mark.",
+            "headline": "IPO timing and disclosures create near-term overhang",
+            "source": [
+              "https://bhbusiness.com/2025/12/09/pitchbook-headspace-spring-health-could-ipo-expect-admin-layoffs-in-healthcare/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Spring Health published the largest outcomes study in behavioral health covering nearly 53,000 patients across over 500 US employers, and its JAMA Network Open peer-reviewed study validates 1.9x ROI and $1,070 net savings per participant. This proprietary clinical-outcomes dataset underpins measurement-based care, AI training (Guide), and buyer-facing ROI validation that competitors lack.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Spring Health reaches $3.3B valuation via an enterprise B2B model anchored in payroll-deducted employer benefits, multi-year contracts, and a structured channel (brokers/consultants/providers) rather than direct-to-consumer. This captive-distribution model is reinforced by marquee logos (Microsoft, Target, Coca-Cola, BlackRock, Pfizer, General Mills, J.P. Morgan, Delta) and a dedicated partner program.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Multi-year employer and health-plan contracts, integration with HR/payroll/benefits systems (Workday), member-level clinical continuity through Compass EHR, and accumulated provider-network effects create meaningful friction to swap platforms once installed. Sub-1-day time-to-first-session and 95% provider continuity compound the stickiness for end users.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Compass EHR is used by every provider in the network, and Guide maintains persistent member context across providers, coverage changes, and life events. Combined with the 2026 Alma acquisition (120M payer-lives plus clinician enablement), the integrated member-provider-payer-platform loop creates cross-side lock-in.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "Two-sided platform: more employer contracts attract more providers to the network, and a deeper provider pool improves matching quality and clinical outcomes, which in turn drives demand from new employers and health plans. Alma's clinician membership base (serving 120M lives through payer relationships) substantially thickens the provider side.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "CARF accreditation plus HIPAA, HITRUST CSF, SOC 2 Type 2, GDPR, EU-U.S. Data Privacy Framework, CCPA, PIPL, and COPPA compliance create procurement-grade barriers, particularly for Fortune 500 employers and regulated health plans. The VERA-MH open-source safety framework positions Spring Health as an industry standard-setter.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "VERA-MH (first open-source clinically grounded AI safety framework for mental health), JAMA Network Open peer-reviewed ROI validation, Validation Institute 2025 Study validation, and TIME100 Most Influential Wellness Companies 2026 listing create reputational and clinical-credibility assets that newer entrants cannot replicate quickly.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "The vast majority of revenue runs through enterprise employer contracts and is structured as per-employee-per-month (PEPM) subscriptions. With healthcare cost inflation cited as a 2026 HR concern on Spring Health's own blog, a downturn in employer benefits spend — or push to switch back to traditional EAPs — could compress both new-logo wins and existing seat expansion.",
+            "headline": "Heavy exposure to employer benefits budgets in a tightening HR-spend environment",
+            "source": [
+              "https://www.springhealth.com/"
+            ]
+          },
+          {
+            "details": "Spring Health competes head-to-head with Lyra Health and Modern Health (and to a lesser extent Headspace Health) for the same Fortune 500 buyer, with active marketing on ROI, outcomes, and matching speed. Combined with new entrants in AI mental health (Cerebral, BetterHelp, Talkspace), the category has become a feature/price arms race that can compress deal economics.",
+            "headline": "Intense, well-capitalized competition in employer mental health",
+            "source": [
+              "https://www.springhealth.com/"
+            ]
+          },
+          {
+            "details": "Recent acquisitions include Bloom (March 2024), VOS.health (August 2025), and Alma (closed May 2026). The Alma deal alone combines two distinct operating models (employer-tech + clinician-membership). M&A integration was visible in Alma laying off 45 staffers during the merger reorganization — an early signal of cultural and operational friction.",
+            "headline": "Integration and execution risk from four acquisitions in four years",
+            "source": [
+              "https://bhbusiness.com/2026/04/02/alma-lays-off-45-staffers-as-it-works-through-merger-with-spring-health/"
+            ]
+          },
+          {
+            "details": "Spring Health has deployed generative AI for member intake, session summaries, and 24/7 in-the-moment conversations (Guide, Continuous Care). VERA-MH benchmarks show existing AI models have meaningful gaps handling suicidal ideation — and any high-profile safety incident in a clinical mental health product could attract regulatory scrutiny and loss of employer trust.",
+            "headline": "Material AI safety and reputational risk in a clinical context",
+            "source": [
+              "https://www.prnewswire.com/news-releases/vera-mh-findings-highlight-gaps-in-how-ai-chatbots-respond-to-suicidal-ideation-302684585.html"
+            ]
+          },
+          {
+            "details": "Spring Health's outcomes (95% continuity, <1 day to first session) depend on a deeply curated provider network and a purpose-built EHR (Compass). National clinician shortages, post-COVID burnout, and reimbursement pressure on in-network providers can degrade both capacity and member experience, especially in specialty care and non-English markets.",
+            "headline": "Provider supply and quality constraints could throttle growth",
+            "source": [
+              "https://www.springhealth.com/privacy-policy?resident"
+            ]
+          },
+          {
+            "details": "Headcount of 1,001-5,000 employees plus a global provider network implies substantial fixed operating costs. While the Series E press release explicitly mentions a 'profitability' lens for the 2023 Series D, standalone revenue and margin profile are not publicly disclosed, raising classic late-stage private-company execution risk on the path to an anticipated 2026 IPO.",
+            "headline": "High fixed-cost operating base ahead of demonstrated standalone profitability",
+            "source": [
+              "https://loom.ly/IfII_1Y"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Combined Spring Health + Alma entity supports over 170M lives globally across employer and health plan partnerships; Spring Health standalone supported 20M+ lives (homepage) growing from 5M+ at the 2023 Series D. Serves 450+ employer and health plan clients.",
+            "headline": "Scaled employer + payer footprint covering 170M+ lives post-Alma",
+            "source": [
+              "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+            ]
+          },
+          {
+            "details": "Named enterprise customers include Microsoft, Target, Coca-Cola, BlackRock, Pfizer, J.P. Morgan Chase, Delta Air Lines, General Mills, Duolingo, Hearst, Instacart, JB Hunt, Wawa, Kayak, Hershey, Bumble, and Fujifilm — covering technology, financial services, retail, pharma, CPG, and aviation.",
+            "headline": "Premium blue-chip customer base validates enterprise go-to-market",
+            "source": [
+              "https://www.springhealth.com/"
+            ]
+          },
+          {
+            "details": "Largest behavioral health outcomes study published — nearly 53,000 patients across 500+ US employers; 92% clinical improvement, 95% provider continuity, <1 day to first appointment, 1.9x ROI and $1,070 net savings per participant in Year 1 (JAMA Network Open, Validation Institute 2025 Study).",
+            "headline": "Clinically and financially validated outcomes peer-reviewed in JAMA",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-publishes-largest-outcomes-study-demonstrating-measurable-clinical-improvements-in-mental-health-care-302623647.html"
+            ]
+          },
+          {
+            "details": "Full-stack platform combines Guide (AI-led member experience), Compass (purpose-built mental health EHR, launched Sept 2025), VERA-MH (first open-source AI safety framework for mental health), and a precision matching engine delivering <1-day time-to-first-session. Studies show up to 25% greater symptom improvement for highest-need members using Guide.",
+            "headline": "Proprietary AI-native stack with a purpose-built mental health EHR",
+            "source": [
+              "https://www.prnewswire.com/news-releases/spring-health-launches-guide-new-ai-experience-that-improves-mental-health-outcomes-302751086.html"
+            ]
+          },
+          {
+            "details": "Spring Health grew at a compound annual rate exceeding 80% over the past three years, expanding from 5M+ covered lives (2023) to 50M+ standalone, with continuous funding-round valuation step-ups ($2B Series C 2021 → $2.5B Series D 2023 → $3.3B Series E 2024).",
+            "headline": "Hyper-growth trajectory: ~80% three-year CAGR pre-Alma",
+            "source": [
+              "https://www.alleywatch.com/2026/01/spring_health_acquires_alma-price-mental-health/"
+            ]
+          },
+          {
+            "details": "Holds SOC 2 Type 2, HITRUST CSF, HIPAA, GDPR, CCPA, EU-U.S. Data Privacy Framework, UK Extension, Swiss-U.S. DPF, CARF accreditation, and Validation Institute 2025 ROI validation — a multi-jurisdictional compliance posture that raises the bar for new entrants.",
+            "headline": "Compliance and accreditation moat for Fortune 500 procurement",
+            "source": [
+              "https://www.springhealth.com/privacy-policy?resident"
+            ]
+          },
+          {
+            "details": "Closed four acquisitions in ~4 years — Weldon (2022), Bloom (2024), VOS.health (2025), and Alma (2026) — each adding a discrete layer (self-guided CBT, provider enablement, AI capabilities, payer/population scale). Combined entity projected at ~$1B Year 1 revenue, with reported combined valuation of $6-7B.",
+            "headline": "Compelling M&A platform consolidating behavioral health infrastructure",
+            "source": [
+              "https://bhbusiness.com/2026/01/29/what-the-spring-health-alma-deal-means-for-the-future-of-digital-health-dealmaking/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Spring Health serves 450+ employer and health plan clients including Microsoft, Target, Coca-Cola, BlackRock, Pfizer, General Mills, J.P. Morgan, Delta, JB Hunt, Hearst, General Mills, Duolingo, Instacart, Wawa, Kayak, and Hershey. Revenue is contract-based per-employee-per-month across hundreds of buyers, with no single customer disclosed as exceeding a material share. The combined Spring Health + Alma entity supports over 170M covered lives across a broad employer and payer base, further diluting concentration. Marquee logos improve sales narrative but do not appear to dominate revenue mix; multi-year contracts provide revenue predictability, with churn risk low given switching costs (HR integration, clinical continuity).",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Closest direct competitor — Lyra sells an employer mental health benefit combining therapy, coaching, and AI-enabled care navigation to large enterprise buyers, overlapping directly with Spring Health's core GTM and customer base.",
+            "name": "Lyra Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00009oi"
+          },
+          {
+            "description": "Direct competitor offering an employer-paid global mental health platform spanning therapy, coaching, and digital programs to mid-market and enterprise customers — direct head-to-head in Spring Health's primary segment.",
+            "name": "Modern Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00008t4"
+          },
+          {
+            "description": "Formed from the Ginger + Headspace merger, Headspace Health offers employer and payer mental health benefits combining on-demand coaching, therapy, and a consumer wellness app — comparable buyer base, distribution model, and potential 2026 IPO peer.",
+            "name": "Headspace Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000aip"
+          },
+          {
+            "description": "Mental health and wellness platform selling employer B2B licenses and direct-to-consumer subscriptions; overlaps with Spring Health's wellness/meditation content side and competes for the same employee-benefits wallet.",
+            "name": "Calm",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00005h8"
+          },
+          {
+            "description": "Digital therapeutics company selling employer and health plan mental health products (Sleepio, Daylight) with outcomes-validated, measurement-based positioning closely mirroring Spring Health's ROI narrative.",
+            "name": "Big Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000cip"
+          },
+          {
+            "description": "Publicly traded online therapy provider selling to both consumers and enterprise/B2B buyers; competes with Spring Health in the employer mental health benefit market and on virtual therapy delivery.",
+            "name": "Talkspace",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00000cj"
+          },
+          {
+            "description": "Largest direct-to-consumer online therapy network (Teladoc-owned); serves a similar end-user base as Spring Health's members and increasingly competes for the same out-of-network behavioral health spend.",
+            "name": "BetterHelp",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00026oy"
+          },
+          {
+            "description": "Digital mental health company offering therapy and medication management online — overlaps with Spring Health's medication management and therapy services from a more consumer-leaning model.",
+            "name": "Cerebral",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a6x"
+          },
+          {
+            "description": "Mental health integration platform serving health plans and providers to coordinate behavioral and physical care; comparable buyer base (payers, ACOs) and outcomes-measurement focus to Spring Health's payer vertical.",
+            "name": "Quartet Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0003aut"
+          },
+          {
+            "description": "Digital mental health clinic offering therapist + psychiatrist + coaching programs sold to employers and health plans; an emerging player with meaningful but narrower product overlap in evidence-based digital therapy.",
+            "name": "Meru Health",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000csg"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

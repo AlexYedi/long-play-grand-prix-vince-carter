@@ -1,0 +1,1022 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0005yzu&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:07:20.993Z",
+  "data": {
+    "data": {
+      "uuid": "0005yzu",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "private_equity",
+            "label": "Private Equity"
+          },
+          "last_funding_date": {
+            "month": 6,
+            "year": 2022
+          },
+          "total_funding_usd": 200000
+        },
+        "funding_rounds": [
+          {
+            "id": 212934,
+            "date": {
+              "month": 6,
+              "year": 2022
+            },
+            "round": {
+              "code": "private_equity_round",
+              "label": "Private equity round"
+            }
+          },
+          {
+            "id": 407116,
+            "date": {
+              "month": 8,
+              "year": 2019
+            },
+            "round": {
+              "code": "private_equity_round",
+              "label": "Private equity round"
+            }
+          },
+          {
+            "id": 710017,
+            "date": {
+              "month": 7,
+              "year": 2019
+            },
+            "round": {
+              "code": "debt_funded",
+              "label": "Debt-Funded"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Aquiline Capital Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00002y3",
+            "website": "https://www.aquiline.com/"
+          },
+          {
+            "name": "Level Equity Management",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000025y",
+            "website": "http://www.levelequity.com"
+          },
+          {
+            "name": "Saratoga Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0005n91",
+            "website": "http://www.saratogapartners.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 1 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "brand": [
+          {
+            "description": "The company's cloud-based dental operating system platform that integrates practice management, imaging, and AI capabilities.",
+            "name": "DentalOS",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "description": "Cloud-based dental practice management system for dental groups and DSOs.",
+            "name": "Denticon",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "description": "Cloud-based orthodontic practice management software.",
+            "name": "Cloud 9",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "description": "Cloud-based dental imaging software with AI capabilities.",
+            "name": "Apteryx",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "description": "Integrated payment processing solution for dental practices.",
+            "name": "Planet DDS Pay",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "description": "Patient self-scheduling and digital forms platform.",
+            "name": "MyTooth",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          }
+        ],
+        "core_offering": "Planet DDS provides cloud-based dental practice management, imaging, patient engagement, and AI-powered workflow software through its DentalOS platform for dental service organizations (DSOs) and multi-location dental groups. Its core products include Denticon (general dentistry practice management), Cloud 9 (orthodontic practice management), Apteryx XVWeb (cloud dental imaging), Planet DDS Pay (integrated payment processing), and MyTooth (patient self-scheduling), augmented by autonomous AI Agents and voice-powered clinical charting.",
+        "differentiator": "Planet DDS differentiates through being the industry's only true AI-native dental platform (DentalOS) with integrated AI agents, proprietary cloud-based architecture built from the ground up (not cloud-washed legacy software), comprehensive product suite covering practice management, imaging, payments, and patient engagement in one platform, and extensive integration ecosystem with 100+ sensor integrations and 25+ third-party system connections.",
+        "functional_benefit": "Cloud-based accessibility from any device, anywhere; 40% average cost savings vs legacy systems; automated revenue cycle management reducing claim denials; AI-powered eligibility verification and claims processing; voice-enabled clinical charting reducing documentation burden; patient self-scheduling and digital forms eliminating front desk bottlenecks; integrated payment processing with automatic posting and simplified PCI compliance; centralized multi-location management and reporting; SOC 2 Type 2 and HIPAA compliance with enterprise-grade security; average valuation increase of $100,000+ for practices with updated infrastructure",
+        "problem_solved": "Planet DDS solves critical operational challenges facing dental organizations: staffing shortages causing missed confirmations and recall outreach ($150K+ revenue leakage per provider annually); fragmented technology ecosystems creating process debt and inefficiency; manual revenue cycle processes leading to claim denials and delayed payments; inconsistent data and workflows across multiple practice locations; legacy on-premise systems requiring expensive IT maintenance and creating security vulnerabilities; poor patient experience from phone-based scheduling and paper-based intake forms; rising costs and declining reimbursements squeezing practice margins",
+        "quantifiable_outcome": [
+          "40% average cost savings in total cost of ownership vs legacy systems",
+          "15-30% reduction in no-shows using AI Confirmation Agent",
+          "20-50% increase in appointment confirmations with AI agents",
+          "60-75% reduction in manual staff hours for outreach tasks",
+          "4x+ return on investment for AI agents",
+          "$150,000+ per provider per year revenue at risk from no-shows",
+          "30% increase in case acceptance with AI-powered X-ray analysis",
+          "$100,000+ valuation increase for practices with updated technical infrastructure",
+          "8 weeks average implementation time per location for DSO conversions"
+        ],
+        "product_overview": "Planet DDS offers DentalOS, a cloud-based dental operating system providing a platform-plus-modules architecture for dental service organizations (DSOs) and dental groups. The core platform includes Denticon (general dentistry practice management) and Cloud 9 (orthodontic practice management), supplemented by Apteryx XVWeb (cloud-based imaging with AI analysis), Planet DDS Pay (integrated payment processing), and MyTooth (patient self-scheduling and digital forms). The portfolio is unified under DentalOS with AI, the industry's first AI-native platform embedding autonomous AI agents, voice charting, predictive analytics, and process automation across revenue cycle, imaging, and patient engagement workflows. The company serves over 13,000 dental practices in North America.",
+        "product_and_service": [
+          {
+            "category": "Dental Practice Management Software",
+            "description": "Cloud-based dental practice management software for dental groups and DSOs, offering scheduling, patient communications, billing, revenue cycle management, clinical workflows, and centralized multi-location administration.",
+            "name": "Denticon",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ],
+            "url": "https://www.planetdds.com/denticon/"
+          },
+          {
+            "category": "Orthodontic Practice Management Software",
+            "description": "Fully cloud-based orthodontic practice management software for orthodontic practices, groups, and OSOs, offering scheduling, financial management, patient communication, two-way messaging, online booking, revenue cycle management, and integration with Denticon for multi-specialty practices.",
+            "name": "Cloud 9",
+            "source": [
+              "https://www.planetdds.com/cloud9/"
+            ],
+            "url": "https://www.planetdds.com/cloud9/"
+          },
+          {
+            "category": "Dental Imaging Software",
+            "description": "Device-agnostic cloud-based dental imaging solution with FDA-cleared AI analysis, supporting 2D/3D imaging, DICOM format, secure image sharing, and integration with virtually all imaging devices and practice management systems.",
+            "name": "Apteryx XVWeb",
+            "source": [
+              "https://www.planetdds.com/apteryx/"
+            ],
+            "url": "https://www.planetdds.com/apteryx/"
+          },
+          {
+            "category": "Payment Processing",
+            "description": "Integrated payment processing solution for Denticon and Cloud 9 that enables text-to-pay, mobile wallets (Apple Pay, Google Pay), automatic payment posting, optional surcharge capability, and simplified PCI compliance across multi-location practices.",
+            "name": "Planet DDS Pay",
+            "source": [
+              "https://www.planetdds.com/planet-dds-pay/"
+            ],
+            "url": "https://www.planetdds.com/planet-dds-pay/"
+          },
+          {
+            "category": "Patient Engagement Software",
+            "description": "Mobile-first patient engagement platform integrated directly with Denticon that supports digital forms, online scheduling, and centralized configuration across multi-location dental organizations without requiring an app download.",
+            "name": "MyTooth",
+            "source": [
+              "https://www.planetdds.com/mytooth/"
+            ],
+            "url": "https://www.planetdds.com/mytooth/"
+          },
+          {
+            "category": "AI-Native Dental Operating System",
+            "description": "Industry's first AI-native dental platform for enterprise DSOs and dental groups, embedding AI across revenue cycle, imaging, orthodontics, and patient engagement workflows with coordinated end-to-end automation and predictive analytics.",
+            "name": "DentalOS with AI",
+            "source": [
+              "https://www.planetdds.com/dentalos-with-ai/"
+            ],
+            "url": "https://www.planetdds.com/dentalos-with-ai/"
+          },
+          {
+            "category": "AI Workforce / Autonomous Agents",
+            "description": "AI-powered autonomous workers embedded within Denticon and Cloud 9 platforms. Currently includes Confirmation Agent (proactively calls patients to confirm appointments and handle reschedules) and Recall Agent (calls overdue patients and books appointments), with all outcomes writing back to the practice management system in real-time.",
+            "name": "DentalOS AI Agents",
+            "source": [
+              "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+            ],
+            "url": "https://www.planetdds.com/dentalos-ai-agents/"
+          },
+          {
+            "category": "AI Clinical Voice Documentation",
+            "description": "Voice-powered periodontal charting system built directly into Denticon that enables hygienists to capture periodontal measurements using voice commands in real-time during exams, eliminating manual data entry.",
+            "name": "AI Voice Perio",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203004684/en/Planet-DDS-Introduces-AI-Voice-Perio-to-Bring-Consistent-Scalable-Perio-Charting-to-DSOs"
+            ],
+            "url": "https://www.planetdds.com/ai-voice-perio-standardized-perio-data/"
+          },
+          {
+            "category": "AI Clinical Voice Documentation",
+            "description": "Hands-free restorative charting by voice for consistent, claim-ready documentation at scale, expanding voice-driven charting capabilities beyond periodontal exams to restorative exams in Denticon.",
+            "name": "AI Voice Restorative Charting",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ],
+            "url": "https://www.planetdds.com/ai-voice-restorative-charting/"
+          },
+          {
+            "category": "Patient Relationship Management",
+            "description": "Patient relationship management platform focused on patient engagement and practice marketing, offering marketing automation and communication tools for dental practices.",
+            "name": "Legwork",
+            "source": [
+              "https://www.legwork.com/legwork-joins-planet-dds"
+            ],
+            "url": "https://www.lwcrm.com/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Over 13,000 dental practices served across North America, including large DSOs and independent practices",
+            "source": [
+              "https://www.planetdds.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "13,000+ practices"
+          },
+          {
+            "description": "Over 14,500 practices using Denticon platform for practice management",
+            "source": [
+              "https://briefglance.com/articles/dental-intelligence-and-denticon-unite-to-streamline-practice-operations"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "14,500+ practices"
+          },
+          {
+            "description": "Following QSIDental acquisition from NextGen Healthcare in August 2022",
+            "source": [
+              "https://www.planetdds.com/newsroom/planet-dds-acquires-qsidental-from-nextgen-healthcare/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "10,000+ practices"
+          },
+          {
+            "description": "CareCredit integration reach through expanded partnership with Synchrony",
+            "source": [
+              "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "15,000 dental + 2,500 orthodontic practices"
+          },
+          {
+            "description": "AI partners onboarded to DentalOS including Overjet, Pearl, and VideaHealth for imaging",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "15 new AI partners"
+          },
+          {
+            "description": "Implementation team experience converting from over 60 different practice management systems",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "60+ different PMS systems"
+          },
+          {
+            "description": "Apteryx integrations with sensors and platforms including major manufacturers",
+            "source": [
+              "https://www.planetdds.com/apteryx/"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "100+ sensor/platform integrations"
+          },
+          {
+            "description": "Denticon integrations with third-party systems and tools",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "25+ integrations"
+          },
+          {
+            "description": "Global cloud-based dental practice management software market projected growth at 11.09% CAGR",
+            "source": [
+              "https://straitsresearch.com/report/cloud-based-dental-practice-management-software-market"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "USD 870.67 million (2025) to USD 2,243.51 million (2034)"
+          },
+          {
+            "description": "Global dental practice management software market growing at 9.7% CAGR, with cloud-based solutions holding highest market share",
+            "source": [
+              "https://www.openpr.com/news/4499876/dental-practice-management-software-market-size-poised-for-usd"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "USD 1.4 billion (2022) to USD 3.5 billion (2032)"
+          },
+          {
+            "description": "Average customer savings in total cost of ownership compared to legacy systems",
+            "source": [
+              "https://www.planetdds.com/"
+            ],
+            "type": {
+              "code": "cost_economics",
+              "label": "Cost Economics"
+            },
+            "value": "40%"
+          },
+          {
+            "description": "Revenue lost to no-shows when front desk is overwhelmed. AI agents designed to address this gap.",
+            "source": [
+              "https://www.planetdds.com/dentalos-ai-agents/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "$150,000+ per provider per year"
+          },
+          {
+            "description": "Average valuation increase for dental practices with updated technical infrastructure",
+            "source": [
+              "https://www.planetdds.com/"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$100,000+"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 18,
+              "month": 11,
+              "year": 2025
+            },
+            "description": "DentalXChange partnership enables AutoEligibility, a native integration within Denticon that automates insurance eligibility checks. This integration delivers real-time coverage details, saves time for dental teams, improves accuracy, reduces denials, and streamlines revenue cycle management across multiple locations.",
+            "name": "DentalXChange",
+            "source": [
+              "https://www.businesswire.com/news/home/20251118656411/en/Planet-DDS-Unveils-AutoEligibility-Bringing-Real-Time-Eligibility-Data-Directly-into-Denticon"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0039hzo"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 9,
+              "year": 2025
+            },
+            "description": "Pearl is one of three leading AI imaging vendors integrated with DentalOS, providing FDA-cleared AI X-ray analysis capabilities. Pearl's AI overlays help educate patients and increase case acceptance by up to 30% through real-time radiographic analysis.",
+            "name": "Pearl",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00002dz"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 9,
+              "year": 2025
+            },
+            "description": "Overjet is integrated as one of three leading AI imaging partners on DentalOS, providing AI-powered dental imaging analysis to improve diagnostic accuracy and patient communication for dental practices.",
+            "name": "Overjet",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00002m5"
+          },
+          {
+            "announced_on": {
+              "day": 25,
+              "month": 9,
+              "year": 2025
+            },
+            "description": "VideaHealth is integrated as one of three leading AI imaging partners on DentalOS, offering AI-powered diagnostic support for dental radiographs to enhance clinical decision-making and treatment planning.",
+            "name": "VideaHealth",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00002z9"
+          },
+          {
+            "announced_on": {
+              "day": 18,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Expanded multi-year partnership makes CareCredit the preferred patient financing solution across all Planet DDS platforms including Denticon and Cloud 9. This integration enables approximately 15,000 dental practices and 2,500 orthodontic practices to offer patient financing, with payments received within two business days. CareCredit becomes the default financing option rather than one of many choices.",
+            "name": "Synchrony Financial (CareCredit)",
+            "source": [
+              "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00005jj"
+          },
+          {
+            "announced_on": {
+              "day": 27,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Dental Intelligence Engagement Suite has been fully integrated with Denticon, enabling seamless data synchronization and automation of administrative tasks. The integration includes Payments, Online Scheduling, Digital Forms, and Appointment Reminders, designed to improve efficiency, patient engagement, and reduce no-shows for over 14,500 Denticon practices.",
+            "name": "Dental Intelligence",
+            "source": [
+              "https://www.globenewswire.com/news-release/2026/04/27/3281961/0/en/Dental-Intelligence-Engagement-Suite-Now-Integrates-with-Denticon.html"
+            ],
+            "strategic_tier": "Major",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000iyn"
+          },
+          {
+            "announced_on": {
+              "day": 5,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Clerri announced a direct integration with Planet DDS's Denticon practice management system, replacing middleware-based connections with a direct, secure data pipeline. The integration enables sub-second patient information and schedule synchronization, improved data security through point-to-point connection, and enhanced benefit visibility for dental practice staff.",
+            "name": "Clerri",
+            "source": [
+              "https://www.dentistrytoday.com/clerri-expands-practice-management-ecosystem-with-direct-integration-for-denticon-by-planet-dds/"
+            ],
+            "strategic_tier": "Major",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0043hdk"
+          },
+          {
+            "announced_on": {
+              "day": 22,
+              "month": 10,
+              "year": 2025
+            },
+            "description": "Vyne Dental announced integration with Planet DDS's Denticon practice management system to enhance interoperability in dental revenue management. The partnership aims to facilitate seamless data exchange and promote openness and security in dental software solutions.",
+            "name": "Vyne Dental",
+            "source": [
+              "https://www.prnewswire.com/news-releases/vyne-dental-expands-commitment-to-interoperability-with-denticon-integration-agreement-302591623.html"
+            ],
+            "strategic_tier": "Major",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0005sop"
+          },
+          {
+            "announced_on": {
+              "day": 24,
+              "month": 7,
+              "year": 2024
+            },
+            "description": "Weave partnership provides patient communication and engagement tools integrated with Cloud 9 orthodontic practice management, enabling two-way messaging, appointment reminders, and patient engagement features.",
+            "name": "Weave",
+            "source": [
+              "https://market.us/report/dental-charting-software-market/"
+            ],
+            "strategic_tier": "Major",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000ees"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 6,
+              "year": 2022
+            },
+            "description": "Recapitalized with Aquiline Capital Partners (lead) and Level Equity to fund organic growth and an aggressive acquisition roadmap, deepening PE backing for platform expansion.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/planet-dds-announces-significant-investment-from-aquiline-capital-partners-301558423.html"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "month": 1,
+              "year": 2023
+            },
+            "description": "Acquired Cloud 9 Software from Accel-KKR in January 2023, adding the only fully cloud-based orthodontic PMS and extending the platform into the OSO/orthodontic specialty segment.",
+            "source": [
+              "https://straitsresearch.com/report/dental-software-market"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 9,
+              "year": 2025
+            },
+            "description": "Launched DentalOS with AI in September 2025, repositioning the company as the first AI-native dental platform for enterprise DSOs with embedded AI across revenue cycle, imaging, orthodontics, and patient engagement workflows.",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Launched DentalOS AI Agents (Confirmation Agent, Recall Agent) in February 2026 as autonomous AI workers writing outcomes back to Denticon in real time, opening a usage-based revenue stream and operational automation wedge against front-desk labor shortages.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 18,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Expanded multi-year partnership with Synchrony Financial in February 2026 making CareCredit the default patient financing solution across Denticon and Cloud 9, embedding payment-side revenue and reaching approximately 15,000 dental and 2,500 orthodontic practices.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "day": 11,
+              "month": 8,
+              "year": 2022
+            },
+            "description": "Acquired QSIDental from NextGen Healthcare in August 2022, adding more than 10,000 practices and consolidating cloud-based PMS share against Dentrix and other legacy incumbents.",
+            "source": [
+              "https://www.planetdds.com/newsroom/planet-dds-acquires-qsidental-from-nextgen-healthcare/"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 6,
+              "year": 2022
+            },
+            "description": "Planet DDS, a provider of dental software in North America, announced a recapitalization agreement with Aquiline Capital Partners and Level Equity to support its growth. The investments aimed to accelerate product development and expand the company's market reach amid rapid organic growth and acquisitions.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/planet-dds-announces-significant-investment-from-aquiline-capital-partners-301558423.html"
+            ],
+            "title": "Recapitalization with Aquiline Capital Partners and Level Equity",
+            "type": {
+              "code": "going_private",
+              "label": "Going Private"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "DentalOS AI Agents launched February 2026 introduce a usage-based AI revenue layer ($0.25–$0.33/min) that expands wallet share inside the existing install base and converts one-time RCM savings into recurring per-minute ARPU.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Fifteen new AI partners onboarded in 2025 (Overjet, Pearl, VideaHealth, Dental Intelligence, Clerri, Vyne, DentalXChange) signal deliberate platformization, turning DentalOS into the integration hub for third-party AI and revenue-cycle vendors.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "Launchpad Program offers 80% savings on cloud management and imaging for emerging dental groups with 2+ locations and $3M–$25M revenue, signaling intent to capture the mid-market and convert smaller DSOs before they scale into enterprise tier.",
+            "type": {
+              "code": "new_pricing_model",
+              "label": "New Pricing Model"
+            }
+          },
+          {
+            "description": "Track record of three acquisitions in 14 months (Legwork Dec 2021, QSIDental Aug 2022, Cloud 9 Jan 2023) combined with PE dry powder from the 2022 recapitalization indicates continued inorganic appetite for adjacent point solutions in imaging, ortho, and patient engagement.",
+            "type": {
+              "code": "m_and_a_signal",
+              "label": "M And A Signal"
+            }
+          },
+          {
+            "description": "Self-serve/PLG motion with $100 free credits on AI Agents and self-service MyTooth onboarding suggests the company is layering product-led growth on top of enterprise sales to lower acquisition cost for SMBs and emerging groups.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Vertical specialization into OSOs (orthodontic support organizations) via Cloud 9 and the Synchrony/CareCredit ortho-first integration opens a second specialty vertical beyond general dentistry DSOs, materially expanding TAM within the same sales motion.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        },
+        "valuation_estimate": {
+          "code": "1b_5b",
+          "label": "$1B-$5B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Planet DDS is the leading provider of cloud-enabled dental practice management and dental imaging software in North America, serving over 13,000 dental practices across the U.S. Founded in 2003 and headquartered in Irvine, California, the company is privately held and PE-backed by Aquiline Capital Partners and Level Equity following a 2022 recapitalization. It serves dental service organizations (DSOs), orthodontic support organizations (OSOs), emerging dental groups, and independent practices, with notable customers including Dental Care Alliance, Sage Dental (140 locations), Coast Dental (88 locations), Smile Partners USA (120 locations), Jefferson Dental & Orthodontics (60+ locations), and Smile Brands. The company has pursued an aggressive acquisition strategy, acquiring Legwork (Dec 2021), QSIDental from NextGen Healthcare (Aug 2022), and Cloud 9 Software from Accel-KKR (Jan 2023).",
+        "strengths": [
+          {
+            "details": "AI Agents (Confirmation, Recall, upcoming RCM agents) are priced at $0.25-$0.33/min on usage-based billing, targeting the $150K+ per-provider annual revenue leakage from no-shows. Demonstrated outcomes of 15-30% no-show reduction and 4x+ ROI across 13,000+ practices suggest rapid adoption that can 2-3x revenue per existing customer within 24-36 months, with expanding agent catalog (clinical coordination, RCM) extending the wedge.",
+            "headline": "AI agents unlock large usage-based revenue expansion per customer",
+            "source": [
+              "https://www.planetdds.com/dentalos-with-ai/"
+            ]
+          },
+          {
+            "details": "Planet DDS has won flagship enterprise deals (Sage 140, Coast 88, Smile Partners 120, Jefferson 60+) by displacing Dentrix. As DSO consolidation continues, large groups standardize on a single platform, and Planet DDS's cloud-native architecture and proven multi-location conversion playbook (8 weeks per location, 60+ PMS migration experience) position it as the default choice, compounding ARR through upsell of additional modules.",
+            "headline": "DSO consolidation tailwind cements preferred platform status",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Unifying practice management, imaging, payments, patient engagement, financing (CareCredit), and AI agents on one platform - combined with deep integration to 100+ imaging sensors and 25+ third-party systems - generates significant workflow lock-in. Customer testimonials (e.g., 'we would never even consider going back') confirm stickiness, supporting NRR expansion and low gross churn.",
+            "headline": "Vertical integration creates durable switching cost moat",
+            "source": [
+              "https://www.planetdds.com/apteryx/"
+            ]
+          },
+          {
+            "details": "Daily operational and clinical data flowing from 13,000+ practices trains increasingly accurate predictive models for revenue cycle, recall prioritization, and clinical decision support - assets smaller competitors cannot replicate. This data moat deepens as DentalOS AI Agents expand into clinical coordination and RCM, widening the gap versus legacy PMS vendors.",
+            "headline": "Data network effects from 13,000+ practices compound AI advantage",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Cloud 9 acquisition (Jan 2023) gave Planet DDS the only fully cloud-based orthodontic PMS, opening the OSO segment with 2,500+ orthodontic practices already on platform. CareCredit expansion reaches 17,500 combined dental/ortho practices. Specialty adjacencies (oral surgery, pediatric, perio) represent further TAM expansion on existing platform infrastructure.",
+            "headline": "Adjacent segment expansion into orthodontics and specialty dentistry",
+            "source": [
+              "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Henry Schein One (backed by KKR/Blackstone) and Patterson Companies have meaningfully larger R&D budgets, distribution reach, and installed bases. As they roll out cloud and AI features to legacy Dentrix and Eaglesoft bases over the next 12-24 months, Planet DDS's AI differentiation compresses and customer displacement becomes harder, slowing new logo growth.",
+            "headline": "Incumbent AI counterattack from Dentrix and Eaglesoft",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Planet DDS's growth thesis depends on continued DSO consolidation and new DSO formation. If DSO roll-up activity slows due to higher interest rates, tighter dental financing, or reimbursement pressure, the pipeline of large enterprise deals that drive new ARR may compress, exposing the company to more competitive, slower-growth mid-market and SMB segments.",
+            "headline": "DSO market maturation could slow the growth engine",
+            "source": [
+              "https://www.planetdds.com/dentalos-with-ai/"
+            ]
+          },
+          {
+            "details": "With operations confined to the United States, total addressable market is limited to roughly 200K dental practices versus a global dental software TAM multiple times larger. Lack of international expansion roadmap means growth must come from share gains and ARPU expansion in a finite market, eventually requiring costly market entry investments.",
+            "headline": "Geographic ceiling caps long-term TAM at ~200K U.S. practices",
+            "source": [
+              "https://www.planetdds.com/newsroom/planet-dds-acquires-qsidental-from-nextgen-healthcare/"
+            ]
+          },
+          {
+            "details": "Denticon, Cloud 9, Apteryx, Legwork, and QSIDental each retain distinct codebases, user experiences, and brand identities despite the DentalOS vision. Fully unifying these platforms is a multi-year, capital-intensive undertaking; in the meantime, customers on older platforms experience slower feature parity, risking dissatisfaction and competitive defection.",
+            "headline": "Integration debt from multiple acquired platforms",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Aquiline Capital Partners and Level Equity recapitalized in June 2022, suggesting a likely liquidity event window in 2026-2029. A premature exit (secondary sale, dividend recap, or strategic sale at a cyclical valuation trough) could redirect management attention from product investment to exit optics, while also potentially introducing an unfriendly successor owner.",
+            "headline": "PE exit timing may not maximize long-term value",
+            "source": [
+              "https://www.prnewswire.com/news-releases/planet-dds-announces-significant-investment-from-aquiline-capital-partners-301558423.html"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Deep cross-product integration across Denticon/Cloud 9 practice management, Apteryx imaging, Planet DDS Pay payments, MyTooth engagement, and DentalOS AI creates substantial switching costs; the company has migrated customers from over 60 legacy PMS systems and runs 8-week per-location conversion programs, indicating workflow depth that is costly to unwind.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "100+ imaging sensor integrations (Carestream, Vatech, Sirona, Acteon, Tuxedo), 25+ third-party PMS/system integrations, and 15 onboarded AI partners (Overjet, Pearl, VideaHealth, Dental Intelligence, Clerri, Vyne, Weave) create a two-sided network effect where third parties build to Planet DDS standards rather than risk exclusion.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "Data aggregated from 13,000+ practices (14,500+ Denticon practices alone) across scheduling, clinical, imaging, and revenue cycle workflows provides training fuel for DentalOS AI models, predictive analytics, and cross-location benchmarking that new entrants cannot replicate.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "FDA-cleared AI imaging analysis (Apteryx), ISO 13485:2016/MDSAP medical device certification, SOC 2 Type 2, and HIPAA/HITECH compliance create regulatory-grade moats difficult for point-solution competitors to match, particularly for clinical-decision-support claims.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Dedicated enterprise field sales targeting DSO executives (CDOs, IT/Ops leaders) with consultative selling and structured multi-site rollouts, combined with ADSO industry participation and named-logo wins (Sage Dental 140 locations, Coast Dental 88 locations, Smile Partners USA 120 locations, Jefferson Dental 60+ locations), builds a defensible enterprise pipeline.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Henry Schein One's Dentrix and Patterson's Eaglesoft hold the dominant positions in dental PMS with decades of distribution, training networks, and installed bases across hundreds of thousands of practices. Planet DDS must continue displacing legacy systems to grow, and incumbents are actively modernizing with cloud and AI features of their own.",
+            "headline": "Intense competition from entrenched incumbents with massive installed bases",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Operating geographies are restricted to the United States with no disclosed international expansion. The U.S. dental practice market (~200K practices) is significantly smaller than global dental markets, and the company has not articulated a credible international growth path.",
+            "headline": "Heavy concentration in the North American dental market limits TAM expansion",
+            "source": [
+              "https://www.planetdds.com/newsroom/planet-dds-acquires-qsidental-from-nextgen-healthcare/"
+            ]
+          },
+          {
+            "details": "Completed three major acquisitions in ~14 months (Legwork Dec 2021, QSIDental Aug 2022, Cloud 9 Jan 2023) plus earlier Apteryx deal. Managing Denticon, Cloud 9, Apteryx, Legwork, and QSIDental as distinct sub-brands creates technical debt, fragmented user experiences, and slower time-to-unified DentalOS vision than a natively built competitor.",
+            "headline": "Acquisition-driven growth creates integration and platform unification risk",
+            "source": [
+              "https://www.planetdds.com/newsroom/planet-dds-acquires-qsidental-from-nextgen-healthcare/"
+            ]
+          },
+          {
+            "details": "Sales motion is heavily skewed toward enterprise DSOs and OSOs of 100+ locations. DSO market consolidation, buyout cycles, or a slowdown in DSO roll-up activity (a key sales driver) could compress new logo growth; smaller private practices remain a secondary segment with lower ACVs.",
+            "headline": "Customer concentration in DSOs exposes revenue to DSO consolidation dynamics",
+            "source": [
+              "https://www.planetdds.com/dentalos-with-ai/"
+            ]
+          },
+          {
+            "details": "DentalOS AI Agents and Apteryx AI imaging are positioned as key differentiators, but AI imaging vendors (Pearl, Overjet, VideaHealth) are integrated with the platform AND sell standalone; incumbents like Dentrix Ascend are rolling out AI features, eroding the moat within 12-24 months.",
+            "headline": "AI differentiation is at risk of commoditization as competitors add similar capabilities",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ]
+          },
+          {
+            "details": "Aquiline Capital Partners and Level Equity recapitalized in June 2022 and typically hold investments 4-7 years, implying a potential exit event (secondary sale, IPO, or strategic M&A) in the 2026-2029 window. PE exit timing may not align with maximum value creation, and management bandwidth may be diverted to exit preparation.",
+            "headline": "PE ownership timing could pressure strategic decisions",
+            "source": [
+              "https://www.prnewswire.com/news-releases/planet-dds-announces-significant-investment-from-aquiline-capital-partners-301558423.html"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Planet DDS serves over 13,000 dental practices via Denticon (14,500+ practices per platform data) plus 2,500+ orthodontic practices via Cloud 9, with 15,000+ dental practices reachable through the Synchrony CareCredit integration, giving it one of the largest footprints in dental software.",
+            "headline": "Industry-leading scale with 13,000+ practices served across North America",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "DentalOS with AI launched as the industry's first AI-native platform for enterprise DSOs, embedding AI across revenue cycle, imaging, orthodontics, and patient engagement. AI Agents (Confirmation, Recall) deliver 15-30% no-show reduction, 20-50% increase in confirmations, 60-75% reduction in manual outreach hours, and 4x+ ROI at $0.25-$0.33/min usage pricing.",
+            "headline": "First AI-native dental platform with autonomous AI agents delivering measurable ROI",
+            "source": [
+              "https://www.planetdds.com/dentalos-with-ai/"
+            ]
+          },
+          {
+            "details": "Single platform includes Denticon (general dentistry PMS), Cloud 9 (ortho PMS), Apteryx XVWeb (FDA-cleared AI imaging), Planet DDS Pay (payment processing), and MyTooth (patient engagement), backed by 100+ sensor integrations, 25+ third-party system integrations, and migration experience from 60+ legacy PMS systems.",
+            "headline": "Comprehensive integrated platform spans PM, imaging, payments, and engagement",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ]
+          },
+          {
+            "details": "Completed a recapitalization with Aquiline Capital Partners (lead) and Level Equity in June 2022, supporting an aggressive acquisition strategy (Legwork, QSIDental, Cloud 9) and product investment that has driven inclusion on the 2023 Deloitte Technology Fast 500 and 2025 Inc. 5000.",
+            "headline": "Backed by top-tier PE sponsors (Aquiline Capital Partners, Level Equity)",
+            "source": [
+              "https://www.prnewswire.com/news-releases/planet-dds-announces-significant-investment-from-aquiline-capital-partners-301558423.html"
+            ]
+          },
+          {
+            "details": "Major enterprise wins include Sage Dental (140 locations), Coast Dental (88 locations), Smile Partners USA (120 locations across multiple states), Jefferson Dental & Orthodontics (60+ locations), and Dental Care Alliance, demonstrating ability to displace legacy incumbents like Dentrix in large group settings.",
+            "headline": "Strong enterprise DSO win track record with marquee multi-location customers",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          },
+          {
+            "details": "Holds SOC 2 Type 2 (organization-wide), ISO 13485:2016 and MDSAP certification for Apteryx XVWeb medical device quality management, and full HIPAA, ARRA, and HITECH compliance, satisfying procurement requirements of large DSOs and institutional buyers.",
+            "headline": "Enterprise-grade compliance and security certifications across the portfolio",
+            "source": [
+              "https://www.planetdds.com/denticon/"
+            ]
+          },
+          {
+            "details": "Recognized as ADSO Innovation Award 2025 winner, G2 Momentum Leader and Highest User Adoption in Dental Practice Management (Spring 2025), Inc. 5000 Fastest Growing Private Companies 2025, and Deloitte Technology Fast 500 (2023), providing strong third-party validation.",
+            "headline": "Multiple industry awards validate market leadership position",
+            "source": [
+              "https://www.planetdds.com/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer base spans roughly 13,000–15,000 practices, materially reducing single-customer revenue risk; however, named enterprise DSOs are large by site count (Sage Dental 140, Smile Partners USA 120, Coast Dental 88, Jefferson Dental 60+) and represent meaningful ARR concentration in the top decile. Revenue is anchored to multi-year SaaS subscriptions plus usage-based AI consumption and transaction-fee payments, with no single logo disclosed as exceeding low double-digit revenue share. Net concentration risk is Moderate: enterprise logos elevate churn impact per account but the long tail of mid-market and emerging groups diversifies the base and aligns pricing to recurring, contractually sticky workflows.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Provider of Eaglesoft dental practice management software and a broad dental supply distribution network, directly competing with Denticon and Cloud 9 in the same North American dental practice and DSO segments.",
+            "name": "Patterson Dental",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0007tmc"
+          },
+          {
+            "description": "Largest dental practice management software provider with Dentrix and Dentrix Ascend, directly competing with Planet DDS's Denticon for the same dental groups and DSOs in North America. Backed by KKR and Blackstone with significantly larger distribution and R&D resources.",
+            "name": "Henry Schein One",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0002mbt"
+          },
+          {
+            "description": "Large ambulatory healthcare IT provider that sold its QSIDental division to Planet DDS in August 2022, exiting dental but illustrating the broader EHR/practice management competitive set Planet DDS benchmarks against.",
+            "name": "NextGen Healthcare",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000i11"
+          },
+          {
+            "description": "Cloud-based dental practice management platform targeting dental groups and DSOs with similar SaaS economics and enterprise focus, though at materially smaller scale than Planet DDS.",
+            "name": "tab32",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0006x5c"
+          },
+          {
+            "description": "Cloud-native dental practice management software serving dental practices and small DSOs, competing head-to-head with Denticon on the cloud-based dental PMS dimension and serving overlapping customer profiles.",
+            "name": "Curve Dental",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "description": "Patient communication and engagement platform integrated with Cloud 9 and used broadly across dental and medical practices, overlapping with Planet DDS's MyTooth patient engagement capabilities.",
+            "name": "Weave",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000ees"
+          },
+          {
+            "description": "Broad dental imaging and software provider offering CS WinOMS practice management alongside extensive imaging hardware, overlapping with Planet DDS's Apteryx imaging and Denticon PM in a wider dental technology portfolio.",
+            "name": "Carestream Dental",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005qp6"
+          },
+          {
+            "description": "Large healthcare technology platform offering EHR, practice management, and patient engagement across medical specialties with some dental exposure, representing the broader healthcare IT competitive set Planet DDS benchmarks against for enterprise deals.",
+            "name": "athenahealth",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005v89"
+          },
+          {
+            "description": "AI-powered dental imaging analysis company integrated with Planet DDS's DentalOS as a launch partner, but also a direct competitor in the AI dental imaging category that could expand to standalone offerings.",
+            "name": "Pearl",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00002dz"
+          },
+          {
+            "description": "Open-source dental practice management software with a strong following among independent and small-group practices in North America, providing a lower-cost alternative to Planet DDS offerings.",
+            "name": "Open Dental",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0007lfe"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

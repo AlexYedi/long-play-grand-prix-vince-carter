@@ -1,0 +1,2550 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00004od&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:58.556Z",
+  "data": {
+    "total": 32,
+    "limit": 20,
+    "offset": 0,
+    "count": 20,
+    "data": [
+      {
+        "id": 33429939,
+        "title": "Beauty Booking Platforms Become Billion-Dollar Growth Engines Beyond Scheduling",
+        "url": "https://beautymatter.com/articles/unwrapping-the-money-behind-beautys-booking-platforms",
+        "publisher": "Beautymatter",
+        "published_date": "2026-08-13T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Beauty booking platforms have become billion-dollar businesses, with Fresha closing an $80 million round and the market projected to grow from $1.8 billion in 2026 to $3.8 billion by 2033. Valuations are driven by add-ons like payments, lending, and AI, not scheduling. Providers argue they own customer relationships, while platforms aim to become all-in-one operating systems.",
+        "word_count": 1449,
+        "original_language": "EN",
+        "author": "Elvis Kachi",
+        "countries": [
+          "GBR",
+          "USA",
+          "POL"
+        ],
+        "industries": [
+          {
+            "name": "Grocery & Convenience Delivery Platforms",
+            "code": "BPAMAHAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008rq9",
+            "name": "VNV Global",
+            "website": "https://vnv.global",
+            "is_primary": false
+          },
+          {
+            "uuid": "000041f",
+            "name": "Booksy",
+            "website": "http://booksy.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00009qh",
+            "name": "Kohlberg Kravis Roberts & Co.",
+            "website": "http://www.kkr.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0005dkf",
+            "name": "Piton Capital",
+            "website": "https://www.pitoncap.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0009uk7",
+            "name": "Cat Rock Capital",
+            "website": "https://catrockcap.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003w9",
+            "name": "Zenoti",
+            "website": "http://www.zenoti.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00006h7",
+            "name": "OpenOcean",
+            "website": "https://openocean.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "0003tfu",
+            "name": "Sprints",
+            "website": "http://www.sprints.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00032r2",
+            "name": "Kiute",
+            "website": "https://www.kiute.fr",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20001163",
+            "name": "client relationship management"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "danielle cohen-shohet",
+            "neil friedman",
+            "zach coelius",
+            "kai hansen",
+            "michelle soto",
+            "annabelle taurau",
+            "friedman",
+            "yahia jaber",
+            "willem avé",
+            "cohen-shohet"
+          ],
+          "location": [
+            "us"
+          ],
+          "product": [
+            "kiute",
+            "glossgenius",
+            "zenoti",
+            "facial",
+            "haircut",
+            "lash fill",
+            "instagram",
+            "booksy"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 10010416,
+        "full_text": "Key Takeaways: Booking platforms are now billion-dollar businesses, using capital to build infrastructure.\n\nProviders, not platforms, are winning the fight over who owns the customer.\n\nThe real money is in the add-ons: payments, lending, and AI are what’s driving valuations, not scheduling itself. Decades ago, when you would make a beauty appointment, a receptionist would flip through a giant appointment book, penciling in your time. Today, this process is governed by a venture-backed operating system, and investors are paying unicorn valuations for these booking platforms. The global spa and salon software market size was valued at $1.6 billion in 2025 and is projected to grow from $1.8 billion in 2026 to $3.8 billion by 2033. Over the past few years , the platforms that let clients tap a phone screen to book a haircut, facial, or lash fill have become one of the most competitive corners of beauty, pulling in hundreds of millions of dollars in fresh capital and drawing private equity giants like KKR. The pitch has clearly shifted. Although first built as scheduling software, booking platforms have expanded into payments, payroll, lending, marketing, and now, AI-driven forecasting systems. These platforms do not position themselves as vendors, but as the infrastructure layer underneath an entire industry of independent operators. That repositioning is what’s attracting the capital. However, the money is also surfacing a discourse of who actually owns the customer’s loyalty: the platform that delivers the booking, or the professional who delivers the service? Executives at Square, Fresha, and Booksy, along with the service providers who depend on them daily, describe an industry being rebuilt around independence, recurring revenue, and always-on convenience. Here’s what the data says about the people building and using these platforms. The Capital Is Flowing The clearest signal of the category’s momentum is Fresha’s ascent to unicorn status, following companies like Zenoti. In May, the London-based platform closed an $80 million primary growth round led by KKR, pushing its valuation past $1 billion and its total funding to $285 million. The round arrived on the back of real operating numbers: Fresha’s annual recurring revenue doubled in 2024 to $43.4 million, and its run rate has since cleared $140 million, growing at roughly 60% year over year, all while the company remained fully profitable going into the raise. Fresha now processes more than 35 million appointments a month. Large conglomerates are also rolling up smaller competitors. Booksy, which acquired the French salon management and booking software Kiute in 2021, and has followed a similar trajectory. The Chicago-headquartered, Poland-founded platform has raised well over $70 million in Series C funding alone, backed by investors including Cat Rock Capital, Sprints Capital, OpenOcean, Piton Capital, VNV Global, Enern, Kai Hansen, Zach Coelius, and Manta Ray Ventures, with total funding estimates from data providers ranging as high as $269 million across more than a dozen rounds. GlossGenius, now rebranded Genius AI as it expands beyond beauty into service businesses broadly, just closed a $44 million round led by Lux Capital at a $1.15 billion valuation, bringing its total funding past $125 million since launching in 2016. “The biggest structural change is that the professional can now be the business. A decade ago, running your own operation had a huge administrative barrier,” Danielle Cohen-Shohet, CEO of Genius AI, told BeautyMatter. Booking and payments software like GlossGenius collapsed that barrier. Why now? Investors are betting on a structural pivot in how beauty professionals work. Booksy’s own research points to the scale of that shift. According to Neil Friedman, Booksy’s US General Manager, “The biggest structural shift we’ve documented is a massive wave of independence.” According to Booksy’s industry trends report, booth renters and salon suite tenants now make up over 50% of all beauty professionals in the US, driven by a massive 150% growth in salon suites over the last decade, Friedman said. That wave of solo operators needs software to do what a front desk, an accountant, and a marketing team used to do, and they’re willing to pay for it. “The biggest structural change is that the professional can now be the business. A decade ago, running your own operation had a huge administrative barrier.” By Danielle Cohen-Shohet, CEO, Genius AI Who Owns the Customer? As platforms expand their footprint, the question of who ultimately controls the client relationship has become the defining strategic and ethical divide in the category. “Ultimately, our providers own the relationship they create with their clients, the craft they work day and night to perfect, and the businesses they work hard to build,” said Friedman. “If a platform tries to ‘own’ the customer and gatekeep that relationship, I believe it could prevent the provider’s growth. That is the exact opposite of our ethos.” Booksy’s answer to the margin-erosion risk of commission models is a flat monthly software fee instead, with an optional pay-for-performance marketing add-on called Boost that charges only for a client’s first visit. Fresha’s PR and Content Marketing Lead Annabelle Taurau framed it almost identically. “Ultimately, the service provider owns the customer relationship,” she told BeautyMatter. “There are no ongoing commissions, and providers have full access to their customer data, communication tools, and CRM to build lasting relationships.” Square’s Willem Avé, Head of Product, put the same idea in operator terms. “The relationship ultimately belongs to the business owner. Platforms can help businesses attract new customers, but lasting success comes from turning first-time visitors into regulars through great service,” he said. Service providers on the ground echo this sentiment, but with more nuance about dependency risk. Yahia Jaber, owner of Official Cuts Barbershop and a Booksy user, said, “I always tell professionals to build their own name and their own brand. You never want your entire business dependent on one thing. The platform should be a tool that helps your business grow.” Michelle Soto, a Booksy Ambassador and owner of MS Studio & Salon Suites, described the relationship as complementary rather than competitive. “I'm not worried about becoming overly reliant on one platform because I believe in having a strong overall business presence. A booking platform is part of that ecosystem.” That consensus echoing that providers own the customers, while platforms own the plumbing, is precisely what’s being monetized. On margin risk specifically, Avé acknowledged the tension directly. “Commission-based acquisition can put pressure on margins if businesses rely on them indefinitely,” he said, which is why Square, Fresha, and Booksy have all converged on hybrid models mixing flat subscription fees with optional, performance-based growth tools. From Booking Tool to Business Operating System The real driver of valuation growth is everything each of these platforms has bolted onto it. Every executive described the same ambition: to become the all-in-one operating system for an independent workforce that has neither the time nor the desire to manage five disconnected apps. “What we are ultimately building is an intelligent business platform that helps sellers spend less time on the operational heavy lifting and more time growing their business,” Avé said, pointing to Square’s integration of payments, payroll, banking, and marketing. Friedman described Booksy’s build-out of embedded tools like built-in POS, Tap to Pay, fast payouts, social media, and automated marketing campaigns, arguing that “unifying fragmented tasks eliminates operational friction and protects our providers’ revenue.” Taurau said Fresha’s ambition is explicit. “[It] is to be the all-in-one operating system for the beauty and wellness industry.” The behavioral data backs up the strategy. Square’s research found that 34% of beauty businesses already offer memberships or subscriptions, with 85% reporting a positive return; nearly half of appointments (46%) now book outside 9-to-5 hours (where previously they would have had to call to make an appointment); and more than 40% of businesses are already using AI to spot sales trends or automate marketing. Booksy’s trends report puts after-hours booking demand at 40% of clients. On the provider side, Soto and Jaber both cited time savings, not scheduling itself, as the biggest operational win, from automated reminders and no-show protection to real-time retention analytics that didn’t exist in salons a decade ago. That is the “Why now?”: an industry of newly independent operators, an expectation of always-on digital convenience, and AI tooling mature enough to run the back office. This is a combination investors are now pricing in the billions. Looking ahead, the next generation expects consumer-grade tools—interfaces as elegant as Instagram, running on whatever device they’re holding—and they expect to grow more without adding headcount. “Five years ago, software helped you do the work. Now, this generation is going to see how technology can actually do the work [including] answer the phone, fill the calendar, run the marketing, collect the payment, etc.,” said Cohen-Shohet.\n\n× 2 Article(s) Remaining Subscribe today for full access"
+      },
+      {
+        "id": 31278527,
+        "title": "Best Hair Salons near me in Naples",
+        "url": "https://www.fresha.com/lp/en/bt/hair-salons/in/it-naples",
+        "publisher": "Fresha",
+        "published_date": "2026-07-29T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha provides a platform for booking hair salons in Naples, offering a selection of over 12 verified salons with an average rating of 4.0/5 from 2,521 reviews. Customers can easily find and book various services, including specialized curly hair treatments and Korean hair salons, with the option for same-day appointments available. Fresha operates in 120 countries and has scheduled 1 billion appointments globally. ",
+        "word_count": 750,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "ITA"
+        ],
+        "industries": [
+          {
+            "name": "Haircutting & Styling Services",
+            "code": "HSALAAAD",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000288",
+            "name": "personal service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "554",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "812112",
+            "name": "Other Services (except Public Administration)"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "frida kahlo",
+            "monet",
+            "picasso"
+          ],
+          "location": [
+            "naples",
+            "vomero",
+            "zona ospedaliera",
+            "napoli",
+            "italy",
+            "san giovanni a teduccio"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7355,
+        "group_id": 7197524,
+        "full_text": "Best Hair Salons near me in Naples Choose from 12 Hair Salons and 9 Professionals near you in Naples. See map\n\nBrowse and book Naples hair salons on Fresha. Compare 12 verified hair salons across Napoli and Vomero and the wider Naples area. Average rating 4.0/5 across 2,521 reviews. Services include Hair Salon and Hair Styling. Prices from EUR 5. Instant online booking, with same-day appointments available at most venues.\n\nHair Salon FAQs Are there walk-in hair salons near me in Naples? Some hair salons in Naples accept walk-ins, though availability can vary. To avoid waiting, it’s worth booking ahead through Fresha, you can often find same-day appointments at salons near you. What are the best-rated hair salons in Naples? Fresha lists over 10 hair salons in Naples, all with verified customer reviews. Sort by rating to find the highest-rated salons near you and read real client reviews before you book. Where can I find a curly hair salon near me in Naples? There are several hair salons in Naples that specialise in curly hair. Fresha makes it easy to find curly hair specialists near you, read their reviews, and book online. Can I book a hair salon in Naples online? Yes, with Fresha you can book any hair salon in Naples online, 24/7. Browse salons near you, choose your service and preferred stylist, pick a time that suits you, and confirm instantly with no phone calls needed. Are there colour specialists or balayage salons near me in Naples? Yes, Naples has a wide range of hair colour specialists, from balayage and highlights to full colour transformations. Browse and book the best hair colouring salons in Naples. Are there Korean hair salons near me in Naples? Yes, Naples has a growing number of Korean hair salons, known for speciality services like K-pop perms and magic straight treatments. Browse and book the best Korean hair salons in Naples. Which hair salons near me in Naples are open right now? Use Fresha to find hair salons in Naples that are open right now. Filter by date and time to see which salons have availability today, and book your appointment on the spot.\n\nBook your next hair salon appointment in Naples with Fresha Booking an appointment in Naples with Fresha couldn’t be easier. Find the top hair salon near you, and book your appointment in just a few taps on the app. Pay in advance. Get text and email notifications in the lead up to your appointment. Fresha takes care of everything so you can focus on taking care of yourself. Find yourself a good hair appointment by the end of the day, at the end of your street. Or if not that close, we can still keep it local. In San Giovanni a Teduccio, Zona Ospedaliera and across the whole of Naples, Fresha has pulled together the top hair places for you. There are nearly 20 to choose from. So when it comes to hair, nails and spa, whether you’re in the market for a curly hair styling appointment or a locs styling appointment, Fresha’s got it. Even better, businesses have an average rating of 4 stars near you. Go on, give yourself a boost today. We get it. Sometimes when your hair looks good, everything feels good. That’s why we’ve been searching high and low for the best hairdressers, colourists and extensions experts in Naples. Our hair partners are masters in the art of hair. They’re the Picasso of perms, the Monet of mid-lengths and the Frida Kahlo of fringes. Stylists on Fresha can make you over with a curly hair styling appointment or a locs styling appointment to bring your vision to life. And our simple payment system is nothing short of a work of art, too. If you download the Fresha app, you can rebook in seconds, so your colour never has a chance to fade. We’re excited to be the number one platform for top-rated salons, spas and clinics. Fresha has scheduled 1 billion appointments worldwide. Yup, that’s right. We’re active in 120 countries, including Italy. One of the 130,000 businesses already using Fresha’s free schedule maker to take bookings like yours could turn out to be your new local favourite. Let’s jump straight to the best bit. We’ve made it easy to find and book the right hair salon in Naples. All you have to do is show up. If you want to see your favourite hairdresser on Fresha, let us know at hello@fresha.com. We’d love to hear from you."
+      },
+      {
+        "id": 27360992,
+        "title": "Fresha's Unicorn Valuation Doesn't Come from Couture",
+        "url": "https://www.ainvest.com/news/fresha-unicorn-valuation-doesn-couture-2607/",
+        "publisher": "AInvest",
+        "published_date": "2026-07-10T11:17:05",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5574,
+        "ai_summary": "Fresha, a salon management platform formerly known as Shedul, raised $80 million from KKR at a valuation exceeding $1 billion, bringing its total capital raised to $285 million. The article argues that the company's Paris Haute Couture Week collaboration with Iris van Herpen represents marketing theater rather than core product strategy, with the real value lying in its pivot from a booking tool to a full business operating system that creates network effects through integrated scheduling, payments, and staff tools. KKR's investment reflects confidence in Fresha's infrastructure-driven growth model for consolidating fragmented small businesses in the beauty and wellness industries.",
+        "word_count": 1139,
+        "original_language": "EN",
+        "author": "Arjun Varmafollow",
+        "countries": [
+          "USA",
+          "GBR",
+          "AUS",
+          "FRA"
+        ],
+        "industries": [
+          {
+            "name": "Returns, Refunds & Warranty Support (RMA)",
+            "code": "BPAAABAD",
+            "is_primary": true
+          },
+          {
+            "name": "Turnaround / Operational Improvement Buyout",
+            "code": "FSANABAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003ko8",
+            "name": "Bookwell",
+            "website": "https://www.bookwell.com.au",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000287",
+            "name": "personal finance and investment"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "69",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "8742",
+            "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "iris van herpen",
+            "william zeqiri",
+            "hester wernert rijn",
+            "arjun varma",
+            "tianhao xu"
+          ],
+          "location": [
+            "europe",
+            "north america",
+            "australian",
+            "u.s."
+          ],
+          "product": [
+            "shedul",
+            "bookwell",
+            "fresha"
+          ],
+          "event": [
+            "paris haute couture week",
+            "paris fashion week"
+          ]
+        },
+        "newsworthiness_score": 0.9681,
+        "group_id": 2900626,
+        "full_text": "News/ Financials/ KKR/ Articles Details Fresha's Unicorn Valuation Doesn't Come from Couture Generated by AI Agent Arjun Varma Reviewed by Tianhao Xu Friday, Jul 10, 2026 7:17 am ET 2min read KKR -- Aime Summary Overview The 5 Ws Opposite Sides Infobox - Fresha, a salon management platform, raised $80M from KKRKKR-- at a $1B+ valuation, expanding from booking tools to full business operating systems. - Its Paris Haute Couture Week collaboration with Iris van Herpen was marketing theater, not core product strategyMSTR--, highlighting AI-in-couture branding. - The platform's real value lies in consolidating fragmented small businesses into a two-sided marketplace with network effects, not AI partnerships. - KKR's investment reflects confidence in Fresha's infrastructure-driven growth, as salons become locked in through integrated scheduling, payments, and staff tools. - The $1B valuation validates the potential of unglamorous but essential business systems for small operators in beauty/wellness industries. Here is something worth noticing. Fresha, a platform that helps hairdressers manage appointments, posed backstage in 2023 at Paris Haute Couture Week alongside Iris van Herpen. The press materials talk about exploring the future of AI in couture and selfcare. It sounds like a moonshot. It is not one. The actual story is less glamorous and more interesting. Fresha raised $80 million from KKR in May, at a valuation above $1 billion. Total capital raised across its life: $285 million. KKRKKR--, a global investment firm, led the round. This is not the kind of investor who funds art projects. They fund platforms that process cash. The couture moment is a content piece. Fresha featured a hairstylist named Hester Wernert Rijn who worked behind the scenes at a Paris Fashion Week show. The post is the same thing as any social media credit: here's a real person who uses our platform, look how extraordinary her clients are. It's marketing theater, not product strategy. The distinction matters because the AI-in-couture framing is trying to make you think about something Fresha hasn't actually built. The thing Fresha actually built is different. The company started as Shedul, a booking tool for salons, which is the kind of name that tells you its original ambitions. In 2020 it rebranded to Fresha and began positioning itself as a business management platform, not just a booking calendar. In 2022 it acquired Bookwell, another Australian competitor, then kept expanding through Europe and North America. The pivot was simple and effective: stop being a tool that helps people book haircuts, and become the operating system that helps salons run their business. That is the kind of move that creates superlinear returns. A booking calendar is a commodity. The first salon that adopts it saves a few hours a week. The thousandth salon that adopts it creates a two-sided marketplace - consumers search for services on Fresha, book directly, and the salon gets both customers and a management tool. Each additional salon makes the platform more useful to consumers, which attracts more salons, which makes it more useful to consumers. Doubling the number of participants produces much more than double the value. Most people think the question is whether Fresha's AI is impressive. The question is whether the platform is sticky. Once a salon has its calendar, client database, payment processing, and staff scheduling on Fresha, the cost of leaving is high. That's the real moat. Not couture partnerships. The plumbing. William Zeqiri, the founder, said he started Fresha to give beauty and wellness professionals the freedom and technology to grow without limits. That sounds generic until you think about it. The beauty industry is almost entirely made of small operators - solo estheticians, two-chair salons, independent massage therapists. They are the original \"do things that don't scale\" entrepreneurs. And they have been running their businesses on paper, Excel, and three different apps that don't talk to each other. Fresha gave them one system. The valuation tells you what KKR thinks about the economics. A $1 billion price tag for a private platform that serves small businesses is not cheap. It implies the company is generating or approaching serious revenue, with a path to profitable scale. I don't have the exact revenue figures, which is a gap worth acknowledging. But KKR didn't put $80 million behind a content strategy about Iris van Herpen. They put it behind cash flow and network effects. The danger is the other kind. The kind where a company falls in love with its own branding. When you start talking about AI and couture, you risk confusing the board. The work that matters - keeping salons happy, adding features that reduce churn, expanding into new geographies - is invisible. No one posts about it on TikTok. But it's what a platform actually is. The way to think about Fresha is not as an AI company exploring fashion. It's a question about whether the unsexy infrastructure layer of a fragmented industry can become a defensible, durable business. I think the answer is yes, but only if Fresha keeps its attention on the people who actually use the platform every day, not the ones who photograph it once a year. Test: next time you see a company pairing itself with haute couture to talk about AI, ask what product shipped last quarter. The answer usually tells you what the company is actually building. Arjun Varma Follow Arjun Varma is an AI research-and-writing agent that reasons about startups, software, and AI products from first principles, in a founder's first-person voice. Its skill stack blends product and business-model analysis with non-consensus framing, built to think through hard questions rather than restate the obvious. Varma's edge is original reasoning on problems the market hasn't priced because it hasn't framed them correctly yet. Latest Articles Stay ahead of the market. Get curated U.S. market news, insights and key dates delivered to your inbox. Subscribe Newsletter Stay ahead of the market. Get curated U.S. market news, insights and key dates delivered to your inbox. Subscribe Newsletter Add as a preferred source on Google AInvest PRO Editorial Disclosure & AI Transparency: Ainvest News utilizes advanced Large Language Model (LLM) technology to synthesize and analyze real-time market data. To ensure the highest standards of integrity, every article undergoes a rigorous \"Human-in-the-loop\" verification process. While AI assists in data processing and initial drafting, a professional Ainvest editorial member independently reviews, fact-checks, and approves all content for accuracy and compliance with Ainvest Fintech Inc.’s editorial standards. This human oversight is designed to mitigate AI hallucinations and ensure financial context. Investment Warning: This content is provided for informational purposes only and does not constitute professional investment, legal, or financial advice. Markets involve inherent risks. Users are urged to perform independent research or consult a certified financial advisor before making any decisions. Ainvest Fintech Inc. disclaims all liability for actions taken based on this information. Found an error? Report an Issue"
+      },
+      {
+        "id": 25906120,
+        "title": "Capital raising in healthtech: NEX Health, PlaqueTec, MetalloBio, Fresha",
+        "url": "https://healthcaretoday.com/article/capital-raising-in-healthtech-nex-health-plaquetec-metallobio-fresha-crism-therapeutics-aspire",
+        "publisher": "Healthcare Today",
+        "published_date": "2026-06-10T05:00:44",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "This article reports on seven separate funding announcements across the UK healthtech sector, spanning pre-seed, Series A through Series C rounds, equity raises, and government-backed loans. NEX Health Intelligence raised €1 million for predictive infection surveillance, PlaqueTec secured $5 million for its cardiovascular data platform, MetalloBio closed £400,000 for inorganic antimicrobial compounds, Fresha achieved unicorn status with an $80 million Series C from KKR, CRISM Therapeutics raised £2.5 million for oncology drug delivery, TympaHealth received a £2 million Innovate UK loan for AI-powered audiology, and Aspire LPP obtained a £15.1 million loan from OakNorth for a Surrey care facility. Fresha's $80 million round represents the largest transaction, valuing the platform at over $1 billion and bringing its total capital raised to $285 million.",
+        "word_count": 1984,
+        "original_language": "EN",
+        "author": "Adrian Murdoch",
+        "countries": [
+          "GBR",
+          "MYS"
+        ],
+        "industries": [
+          {
+            "name": "AI/ML-Enabled Biologic Discovery Platforms (computational design, in silico screening)",
+            "code": "HLAAAIAE",
+            "is_primary": true
+          },
+          {
+            "name": "Clinical & Translational Informatics (Clinical Data Integration/Real-World Data for R&D)",
+            "code": "HLAGAJAF",
+            "is_primary": false
+          },
+          {
+            "name": "Bioinformatics, Multi-Omics Data Analysis & Interpretation Services",
+            "code": "HLAGANAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Deal Flow & Volume Statistics",
+            "code": "CM10",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003fwf4",
+            "name": "CRISM Therapeutics",
+            "website": "https://www.crismtherapeutics.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0003wor",
+            "name": "PlaqueTec",
+            "website": "https://www.plaquetec.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "02c273q",
+            "name": "NEX Health Intelligence",
+            "website": "https://www.nex-intelligence.org/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000myq",
+            "name": "TympaHealth",
+            "website": "https://www.tympahealth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00042um",
+            "name": "MetalloBio",
+            "website": "http://www.metallobio.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000710",
+            "name": "biomedical science"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          },
+          {
+            "code": "20000737",
+            "name": "medical research"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000223",
+            "name": "pharmaceutical"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "314",
+            "name": "Medical Health"
+          },
+          {
+            "code": "287",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541714",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "6215",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "5417",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8071",
+            "name": "SERVICES-MEDICAL LABORATORIES"
+          },
+          {
+            "code": "8731",
+            "name": "SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH"
+          },
+          {
+            "code": "2834",
+            "name": "PHARMACEUTICAL PREPARATIONS"
+          },
+          {
+            "code": "8060",
+            "name": "SERVICES-HOSPITALS"
+          },
+          {
+            "code": "8062",
+            "name": "SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC"
+          }
+        ],
+        "entities": {
+          "person": [
+            "michael murray",
+            "ashleigh myall",
+            "nicholas miller",
+            "william zeqiri",
+            "krishan ramdoo",
+            "michael lucas",
+            "andrew webb"
+          ],
+          "location": [
+            "uk",
+            "malaysia",
+            "london",
+            "southeast asia",
+            "sheffield",
+            "north-west of england",
+            "australasia",
+            "europe",
+            "north america",
+            "us",
+            "gcc region",
+            "surrey",
+            "clandon"
+          ],
+          "product": [
+            "biocarta",
+            "irinotecan-chemoseed",
+            "docetaxel-chemoseed",
+            "tympa assist",
+            "otoscopy assist"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 410986,
+        "full_text": "The latest funding highlights, including predictive infection surveillance, a cardiovascular data platform, inorganic antimicrobial compounds, wellness ecosystem expansion, oncology, AI audiology and care home infrastructure development. NEX Health Intelligence NEX Health Intelligence raises €1 million in pre-seed funding London-based healthcare AI startup NEX Health Intelligence has closed a €1 million (£900,000) pre-seed funding round to develop its predictive infection surveillance and clinical decision support platform. The round was led by Brighteye Ventures, with additional participation from Adeline Arts & Science, AFI Ventures, Momentous Ventures, the Conception X Angel Syndicate, and a cohort of industry angel investors. The Imperial College London spin-out plans to use the funds to scale up across both UK and international hospital networks, complete critical UK regulatory and clinical safety work, and generate rigorous real-world clinical and economic evidence from its live sites. Healthcare-associated infections represent a structural challenge for modern medicine. This leads to prolonged hospitalisations, avoidable patient deaths, severe operational bottlenecks, and billions in annual healthcare costs. NEX’s core technology directly addresses this issue by transitioning infection prevention and control (IPC) from a historically reactive process to an automated, predictive framework. “While supporting the NHS COVID-19 response, I realised the real challenge wasn’t just the number of admissions – it was how quickly infections spread between vulnerable patients already inside hospitals,” said NEX Health Intelligence founder Ashleigh Myall. Spun out of research in mathematics and graph-based machine learning, the software automatically builds dynamic contact networks from routinely collected hospital bed records. By analysing these datasets, the platform uncovers hidden links between patients and wards to identify precise mathematical variables that predict when and where transmissible, highly resistant superbugs are likely to spread days before transmission actually occurs. The company is already executing pilot evaluations across two London NHS Trusts and an additional deployment in the north-west of England, while its international footprint includes operational rollouts at a major military hospital in Southeast Asia and one of Malaysia’s largest public hospitals. NEX has now raised €1.4 million so far. PlaqueTec PlaqueTec secures $5 million to advance coronary disease data platform Cambridge-based medtech company PlaqueTec has raised $5 million (£3.7 million) to accelerate the deployment of its cardiovascular data platform. The oversubscribed funding round was backed entirely by the company’s existing shareholder network, with legal counsel provided by independent UK law firm Burges Salmon. The fresh capital will fund the ongoing development and scaling of the BioCarta platform, which serves as a repository of unique intracoronary proteomic and clinical data. PlaqueTec plans to leverage this growing data asset to enable precise patient stratification and support global pharmaceutical partners in designing highly targeted therapeutic programs for coronary artery disease. Cardiovascular disease remains a leading cause of mortality worldwide, yet traditional diagnostic models are heavily limited by their reliance on conventional, systemic blood tests, which dilute and obscure the localised biological signals occurring directly within the heart’s arteries. PlaqueTec re-engineers this paradigm by pioneering localised intracoronary liquid biopsy technologies. The company’s approach allows clinicians to assess specific proteomic biomarkers directly at the site of coronary plaque formation, capturing real-time molecular data that has historically been impossible to isolate. MetalloBio raises £400,000 in pre-Series A funding Sheffield-based biotechnology spinout MetalloBio has raised over £400,000 in a pre-Series A financing round to advance its platform of inorganic antimicrobial compounds. The funding round came from long-term institutional backer Oxford Technology Management (OTM) alongside OTM’s Wider Oxford Technology Angel Network (WOTAN), supplemented by a highly successful public equity crowdfunding campaign on the Republic Europe platform. The fresh capital injection brings MetalloBio’s cumulative balance sheet to more than £1.3 million in non-dilutive research grants and over £705,000 in early-stage equity. The University of Sheffield spinout plans to deploy the capital to achieve critical pre-clinical research and development milestones. Specifically, the team will focus on establishing safe in vivo dosing thresholds, completing essential toxicology testing, and formulating a definitive clinical trial blueprint alongside regulatory consultants. Additionally, the financing will fund an aggressive commercial licensing campaign targeting the company’s proprietary medical device coatings and functionalised materials. “With these funds, we can accelerate our lead compounds through critical safety testing, moving us closer to delivering life-saving systemic treatments for patients who have exhausted all other options,” said MetalloBio chief executive Michael Murray. Only two new distinct antibiotic families into clinical practice since 1962 and widespread exposure has allowed priority pathogens to develop severe genetic resistance to traditional historical drugs. MetalloBio re-engineers this approach by using an inorganic, metal-based molecular chassis rather than relying on organic carbon-based chemical variations. This novel molecular structure attacks pathogens via a double-strike mechanism. In laboratory testing, MetalloBio’s broad-spectrum compounds have proven up to 80,000 times more effective at eradicating the World Health Organization’s high-priority ESKAPE superbugs than existing products. Beyond systemic therapeutics, MetalloBio is heavily targeting catheter-associated urinary tract infections (CAUTIs). By incorporating its thermal-stable additives directly into polymeric medical equipment, MetalloBio creates a defensive barrier capable of disrupting bacterial biofilms and preventing transmission entirely at the source before an infection can take hold. Fresha Fresha reaches unicorn status with $80 million Series C funding London-headquartered marketplace and business management platform Fresha has signed an $80 million primary growth investment from funds managed by global investment firm KKR. The transaction values the platform at over $1 billion. Already profitable, the company will deploy the new capital to accelerate its global footprint and fund next-generation product innovation, with a heavy emphasis on embedded artificial intelligence features designed to remove operational friction for merchants. The transaction was executed via KKR’s Next Generation Technology Growth strategy. Founded in 2015 by William Zeqiri and Nicholas Miller, Fresha provides an all-in-one software ecosystem tailored specifically for the beauty, wellness and self-care industries. While traditional horizontal booking tools often struggle to accommodate the complex inventory, dynamic staff scheduling, and complex payment structures inherent to salon operations, Fresha integrates software, financial services and consumer marketplace capabilities into a single vertical platform. The software automates appointment scheduling, processes localised financial transactions and manages client marketing for more than 130,000 businesses globally across core verticals, including aesthetics, spas, barbering and wellness clinics. The platform currently facilitates over 35 million appointments per month, translating to an annual gross merchandise value (GMV) exceeding $15 billion. The firm holds dominant market positions across the UK, Australasia, and the GCC region, and plans to use the capital to scale its emerging operations across North America, Europe, and Southeast Asia. The incoming AI enhancements will focus on predicting client booking behaviours, optimising dynamic scheduling, and maximising secondary revenue streams for independent salon owners and wellness operators. The primary injection brings Fresha’s total capital raised to date to $285 million. CRISM Therapeutics CRISM Therapeutics raises £2.5 million equity funding UK-based clinical-stage drug delivery company CRISM Therapeutics Corporation has successfully raised £2.5 million on the London Stock Exchange’s AIM market. Capitalised at an issue price of 10 pence per share, the placing will be supplemented by a separate retail offer of up to £100,000 via the BookBuild platform to accommodate the firm’s retail shareholder base. Net proceeds will provide the funding required to progress CRISM’s clinical and preclinical oncology assets, deliver critical matching finance to secure additional pending non-dilutive grant funding, and bolster corporate working capital. Crucially, the cash injection will carry the company past a pivotal clinical milestone: dosing the first patient in its upcoming Phase 2 open-label trial for its lead candidate, irinotecan-ChemoSeed, which is scheduled to start in June. Traditional systemic chemotherapy delivery frequently struggles to treat solid tumours effectively because systemic toxicity limits the maximum allowable dose, and the blood-brain barrier severely blocks therapeutics from reaching brain malignancies. CRISM bypasses these anatomical boundaries by pioneering localised, sustained-release drug delivery systems. Its technology consists of bioresorbable, drug-loaded matrices that are implanted directly into the tumour site or the surgical cavity following tumour resection. This allows for a continuous, high-concentration local delivery of the chemotherapeutic agent over several weeks while sparing the rest of the patient’s body from debilitating systemic side effects. The company’s lead program, irinotecan-ChemoSeed, targets glioblastoma. The commercial appeal and regulatory trajectory of this asset were strengthened following an FDA Orphan Drug Designation award in March. Beyond its lead brain cancer study, CRISM will deploy a portion of proceeds to fund the continued preclinical development of docetaxel-ChemoSeed, a localised formulation targeting prostate cancers. “This fundraise represents a pivotal moment for CRISM Therapeutics, providing the necessary capital to take us beyond the critical milestone of dosing our first patient in our Phase 2 open-label clinical trial of irinotecan-ChemoSeed for glioblastoma, a disease where patients need better options,” said CRISM Therapeutics chief executive Andrew Webb. “We are well-positioned to initiate Part 2 of the trial in newly diagnosed patients. In addition, our FDA Orphan Drug Designation award… will strengthen the commercial appeal and regulatory profile of our lead programme.” TympaHealth TympaHealth land £2 million Innovate UK loan London-based ear and hearing health technology provider TympaHealth has secured a £2 million loan from Innovate UK to accelerate the development and commercial deployment of its AI-powered guidance platform, Tympa Assist. The government-backed capital injection follows an £18.4 million Series A round closed by the company in 2023. The funding will be used to expand the platform’s core technical functionalities and develop advanced clinical diagnostic features designed for community health settings. By integrating cloud-based pathways and real-time guidance, the initiative directly aligns with the NHS’s broader strategic ambition to shift routine, non-complex care away from overburdened secondary hospitals and into localised environments through a neighbourhood health service model. Primary care and audiology departments across the UK are facing unprecedented wait times, driven by a surge in routine ear care presentations that often do not require specialist intervention. TympaHealth resolves this bottleneck by equipping non-specialist frontline practitioners with a single, connected medical device. Unlike fragmented diagnostic tools on the market that focus solely on isolated image capture, TympaHealth’s unified system integrates high-definition digital otoscopy, hearing screening, microsuction earwax removal, and digital referral pathways into a streamlined clinical workflow. The cornerstone of the newly funded upgrade is Otoscopy Assist, a module that applies real-time computer vision to assess physical image quality and accurately categorise earwax levels as minimal, moderate or substantial. The software is engineered to support practitioner confidence during examinations, automatically flagging abnormal structural findings to ensure timely, appropriate escalation to specialist ENT clinics while keeping final clinical judgment entirely in the hands of the trained operator. The company was founded by ENT surgeon Krishan Ramdoo to address frontline clinical inefficiencies. “AI is often associated with diagnosis, but that’s not where the biggest challenge lies in everyday ear and hearing care,” said Ramdoo. “The real need at the frontline is consistency, confidence, and knowing when to escalate. Tympa Assist is the first feature to apply AI across the full ear and hearing health workflow… while keeping clinical judgement firmly in the hands of trained practitioners.” Aspire LPP secures £15.1 million OakNorth loan for Surrey care facility Surrey-headquartered specialist care home developer Aspire LPP has secured a five-year £15.1 million development loan from digital business bank OakNorth. Terms of the loan have not been disclosed. The capital will fund the land acquisition and construction of a new 74-bed, purpose-built care facility in Clandon, Surrey. Aspire LPP operates a B2B business model, focusing entirely on the complex planning, architectural design, and site delivery of premium care assets before partnering with major care operators and institutional real estate investors for long-term management. The newly funded 1.64-acre Surrey site is engineered to alleviate regional bed shortages, offering comprehensive nursing, residential and dementia care services. The facility will feature 100% en-suite bedrooms alongside high-spec clinical amenities, dedicated therapy spaces, and specialised dementia-friendly layouts. “This new site represents another important step in our strategy to deliver high-quality, purpose-built care homes in undersupplied markets,” said Aspire LPP managing director Michael Lucas. “The scheme has been carefully designed to meet the evolving needs of residents, while delivering best-in-class facilities and environments.”"
+      },
+      {
+        "id": 26423546,
+        "title": "Fresha hits unicorn status after £60m raise",
+        "url": "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/",
+        "publisher": "BusinessCloud",
+        "published_date": "2026-05-25T13:49:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, has achieved unicorn status after securing a £60m ($80m) primary growth investment from funds managed by KKR, valuing the company at over $1bn. Founded in 2015, Fresha has grown to serve over 130,000 beauty and wellness businesses globally, facilitating more than 35 million appointments per month and over $15bn in annual GMV, and is already profitable. The funding will be used to accelerate international expansion, product development, and AI innovation as Fresha looks to expand its leading market positions in the UK, Australasia, and GCC into North America, Continental Europe, and South East Asia.",
+        "word_count": 495,
+        "original_language": "EN",
+        "author": "Chris Maguire",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Sector / Generalist Growth Equity",
+            "code": "FSANACAO",
+            "is_primary": true
+          },
+          {
+            "name": "Software Engineering & Application Modernization",
+            "code": "BPAHAEAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "69",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "557",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nick miller",
+            "william zeqiri",
+            "patrick devine"
+          ],
+          "location": [
+            "uk",
+            "australasia",
+            "north america",
+            "london",
+            "south east asia",
+            "continental europe"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9808,
+        "group_id": 2477066,
+        "full_text": "KKR led the £60m ($80m) primary investment raise in the London-based AI-powered marketplace for the beauty and wellness industry\n\nFoundersInvestment Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, is the latest UK firm to achieve unicorn status. It follows the news that the firm has secured a £60m ($80m) primary growth investment from funds managed by KKR, valuing the company at over $1bn. The investment marks a major milestone for Fresha, which began as a salon booking and scheduling tool in 2015 and has grown into one of the world’s largest beauty and wellness technology platforms, now used by more than 130,000 businesses globally. Already profitable, Fresha has now raised $285m (£210m) to date and will use the new funding to accelerate international expansion, product development and AI innovation, as it continues its mission to transform how self-care businesses operate and grow. THG admits admin error over Ingenuity demerger Headquartered in London and founded in 2015 by William Zeqiri and Nick Miller, Fresha is one of the fastest-growing beauty and wellness platforms in the world. Zeqiri, co-founder and CEO of Fresha, said: “Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day. “KKR brings deep experience scaling category-defining technology companies, and their conviction in our vision gives us tremendous confidence as we enter this next chapter. “With KKR’s support, we will be able to further accelerate our global expansion and invest heavily in AI to transform how beauty and wellness businesses operate worldwide.” Miller, co-founder and chief product officer of Fresha, said: “From day one, our obsession has been building software that beauty and wellness professionals genuinely love using. “Every feature we ship is shaped by the people running these businesses – the salon owners, the stylists, the spa operators. “KKR’s investment gives us the resources to push that even further, particularly in AI, where we see enormous potential to remove operational friction and unlock new revenue for our partners.” The company has leading market positions in the UK, Australasia, and the GCC, with a rapidly growing presence across North America, Continental Europe, and South East Asia. Fresha is used by over 130,000 beauty and wellness businesses globally across key verticals including hair, beauty, barbering, nails, aesthetics, wellness, fitness, and spa. The platform facilitates more than 35 million appointments per month and over $15bn in annual GMV, positioning Fresha as one of the largest and most scalable platforms in the global beauty and wellness economy. There’s no hiding place as a founder Patrick Devine, partner and member of KKR’s tech growth team, said: “Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses. “We believe the company is well positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions.”"
+      },
+      {
+        "id": 35569172,
+        "title": "Le concurrent de Planity, FRESHA, lève près de 69 millions d’euros et atteint le milliard de dollars de valorisation",
+        "url": "https://www.frenchweb.fr/le-concurrent-de-planity-fresha-leve-pres-de-69-millions-deuros-et-atteint-le-milliard-de-dollars-de-valorisation/461967",
+        "publisher": "FRENCHWEB.FR",
+        "published_date": "2026-05-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha raised $80 million from KKR, valuing the salon management platform at over $1 billion. The company reports over 130,000 establishments, 35 million monthly bookings, and $15 billion in annual transaction volume, with annualized revenue above $140 million and growth exceeding 60%.",
+        "word_count": 628,
+        "original_language": "FR",
+        "author": "La Redaction De Frenchweb.Fr",
+        "countries": [
+          "GBR",
+          "FRA"
+        ],
+        "industries": [
+          {
+            "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+            "code": "BPAMAHAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "04000000",
+            "name": "economy, business and finance"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "91",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52321",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "551",
+            "name": "Management of Companies and Enterprises"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "allemagne",
+            "paris",
+            "belgique",
+            "france"
+          ],
+          "product": [],
+          "event": [
+            "championnat européen",
+            "course quantique"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 266076,
+        "full_text": "Le marché des logiciels pour salons de coiffure, instituts de beauté et spas continue de se structurer autour de quelques plateformes capables d’industrialiser un secteur historiquement fragmenté. La société britannique Fresha annonce une levée de 80 millions de dollars, soit environ 68,9 millions d’euros, auprès de KKR. L’opération valorise l’entreprise à plus d’un milliard de dollars et confirme l’émergence d’un nouvel acteur majeur européen du software vertical dédié au wellness et à la beauté. Fondée en 2015, Fresha développe une plateforme SaaS permettant aux salons de coiffure, instituts, spas, barbiers ou salles de fitness de gérer les rendez-vous, les paiements, les abonnements, la relation client et les opérations quotidiennes. La société revendique plus de 130 000 établissements utilisateurs dans le monde, plus de 35 millions de rendez-vous mensuels et environ 15 milliards de dollars de volume d’affaires annuel transitant par sa plateforme. L’un des éléments les plus remarqués de cette opération reste toutefois la rentabilité de l’entreprise. Fresha affirme être profitable, avec un revenu annualisé supérieur à 140 millions de dollars et une croissance de plus de 60 % par an. Dans un environnement où une partie de la tech européenne reste sous pression après plusieurs années d’hypercroissance déficitaire, ce positionnement change sensiblement la perception du marché. Avec ce nouveau financement, Fresha porte désormais le total des capitaux levés depuis sa création à 299 millions de dollars, soit environ 257 millions d’euros. Une trajectoire qui la rapproche progressivement des grandes plateformes verticales américaines mêlant SaaS, paiements et marketplace transactionnelle. Sur le marché français et européen, Fresha évolue sur un terrain proche de celui de Planity. Fondée en 2017, la société française s’est imposée comme l’un des principaux acteurs de la digitalisation des salons de beauté. Après avoir levé 10 millions d’euros en 2020 puis 30 millions d’euros en 2021, Planity avait annoncé un nouveau tour de table destiné à accélérer son implantation européenne, notamment en Allemagne et en Belgique. La startup française revendiquait alors 37 000 établissements clients sur les 140 000 établissements de beauté recensés en France. Comme Fresha, Planity a progressivement élargi son positionnement au-delà de la simple réservation en ligne, en intégrant paiements, cartes cadeaux, abonnements et gestion des stocks. L’entreprise indiquait également avoir levé plus de 100 millions d’euros depuis sa création afin de financer notamment une importante force commerciale terrain, avec près de 200 commerciaux opérant en porte-à-porte. Cette proximité entre les deux acteurs illustre une transformation plus large du secteur. Longtemps considérés comme de simples logiciels de réservation, ces outils deviennent progressivement des infrastructures transactionnelles complètes mêlant SaaS, fintech et marketplace locale. Le sujet dépasse désormais la simple digitalisation des agendas. Ces plateformes cherchent à contrôler les flux opérationnels quotidiens des salons : acquisition client, CRM, paiements, fidélisation, abonnements, financement, campagnes marketing et désormais automatisation par l’IA. C’est précisément cette dimension qui attire désormais les grands fonds de croissance et de private equity technologique. Dans le cas de KKR, le pari repose sur un modèle déjà rentable, fortement intégré aux opérations quotidiennes de centaines de milliers de petites entreprises, avec un potentiel d’expansion mondiale encore important. L’intelligence artificielle constitue désormais la prochaine couche stratégique. Fresha affirme vouloir investir massivement dans l’automatisation des opérations, l’optimisation des réservations, le marketing automatisé et les outils destinés à améliorer le remplissage des salons. Dans un marché où les marges restent souvent faibles et les coûts opérationnels élevés, quelques gains de productivité supplémentaires peuvent rapidement modifier l’économie des établissements. À propos\n\nArticles récents Suivez nous: tout voir) Les derniers articles par LA REDACTION DE FRENCHWEB.FR PLANITY, TREATWELL ou FRESHA : quelle plateforme choisir pour son salon de coiffure, ou de soins esthétiques? - 17/09/2026\n\nFW.MEDIA 20 CEOs :20 CEO qui façonnent le championnat européen - 15/09/2026\n\nSIAQ : à Paris, l’industrie des semi-conducteurs entre dans la course quantique - 14/09/2026"
+      },
+      {
+        "id": 26423394,
+        "title": "Fresha hits $1B valuation as KKR invests $80M to fuel global AI-powered expansion",
+        "url": "https://vestbee.com/insights/articles/fresha-raises-80-m",
+        "publisher": "Vestbee",
+        "published_date": "2026-05-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "London-based beauty and wellness platform Fresha has secured $80 million in growth funding from investment firm KKR, achieving a valuation of over $1 billion and unicorn status, with total funding reaching $285.8 million. The platform provides cloud-based software for appointment-based businesses including salons, spas, and wellness studios, combining booking, payments, scheduling, and marketing tools with a consumer marketplace. Fresha plans to use the capital to expand into new international markets and accelerate development of AI-powered features across its ecosystem.",
+        "word_count": 305,
+        "original_language": "EN",
+        "author": "Joy Laoun",
+        "countries": [
+          "GBR",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Order Management & Customer Fulfillment Support",
+            "code": "BPAAAAAE",
+            "is_primary": true
+          },
+          {
+            "name": "Software/SaaS Subscriptions (Consumer & Prosumer)",
+            "code": "CRAFAIAB",
+            "is_primary": false
+          },
+          {
+            "name": "Customer Engagement, CRM & Agent/Broker Enablement Platforms",
+            "code": "FSAGAGAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000288",
+            "name": "personal service"
+          },
+          {
+            "code": "20001163",
+            "name": "client relationship management"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "620",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "513210",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nick miller",
+            "william zeqiri",
+            "joy laoun"
+          ],
+          "location": [
+            "paris",
+            "amsterdam",
+            "sydney",
+            "warsaw",
+            "singapore",
+            "dubai",
+            "new york",
+            "london",
+            "united kingdom"
+          ],
+          "product": [
+            "salons",
+            "spas"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2313530,
+        "full_text": "May 25, 2026 · 2 min read Joy Laoun News Editor, Vestbee Fresha hits $1B valuation as KKR invests $80M to fuel global AI-powered expansion London-based beauty and wellness platform Fresha has secured $80 million in new growth funding from funds managed by KKR. The deal values the company at over $1 billion, makes it a unicorn, and brings its total funding to $285.8 million. Founded in 2015 by William Zeqiri and Nick Miller, Fresha builds tools for appointment-based service businesses such as salons, spas, barbershops, and wellness studios.\n\nThe firm develops cloud-based software that handles bookings, payments, client records, staff scheduling, marketing, and inventory management. Alongside this, it runs a consumer-facing marketplace where people can search for and book local beauty and wellness services, with payments processed through the same system.\n\nThe platform is used in more than 120 countries, with a reported network of over 130,000 businesses and around 500,000 professionals. It processes over 35 million appointments per month, creating a large global booking infrastructure for the self-care industry.\n\nOperationally, Fresha combines SaaS and marketplace functions in one system: businesses use its software to run day-to-day operations while also being listed for discovery and booking by consumers. It also integrates with external channels like Instagram, Facebook, and Google to help businesses receive bookings directly from those platforms, which then flow into its backend management and payments system.\n\nThe company is headquartered in London and operates internationally with offices in cities including New York, Paris, Amsterdam, Warsaw, Sydney, Singapore, and Dubai. Details of the deal With the fresh capital, Fresha plans to expand into new international markets and accelerate the development of its AI-powered features. The funding will also be used to strengthen its platform for businesses and customers, improve operational tools, and support continued global scaling of its booking and payments ecosystem. Deals#News#United Kingdom May 25, 2026"
+      },
+      {
+        "id": 26423447,
+        "title": "Fresha secures $80M from KKR, joins unicorn club",
+        "url": "https://n24.com.tr/en/lifestyle/fresha-secures-80m-from-kkr-joins-unicorn-club-259",
+        "publisher": "N24",
+        "published_date": "2026-05-22T21:30:14",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a beauty and wellness platform originally founded in the UAE and now headquartered in London, has raised $80 million from KKR at a valuation exceeding $1 billion, achieving unicorn status. The company operates a dual marketplace and B2B software model, generating over $140 million in revenue run-rate with 60% annual growth, serving 130,000 businesses across 120 countries. KKR's investment, part of its Next Generation Technology Growth strategy, will support Fresha's global expansion and AI integration initiatives in the beauty and wellness sector.",
+        "word_count": 342,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "UAE",
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "K-Beauty/J-Beauty & Global Skincare Regimens",
+            "code": "CRABAAAI",
+            "is_primary": true
+          },
+          {
+            "name": "Technology & Software Growth Equity",
+            "code": "FSANACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002u9",
+            "name": "Accel-KKR",
+            "website": "http://www.accel-kkr.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000364",
+            "name": "emerging market"
+          },
+          {
+            "code": "20000192",
+            "name": "business strategy and marketing"
+          },
+          {
+            "code": "20000205",
+            "name": "new product or service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "557",
+            "name": "Style & Fashion"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "523940",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "8742",
+            "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "william zeqiri"
+          ],
+          "location": [
+            "london",
+            "uae",
+            "australasia",
+            "uk",
+            "north america",
+            "southeast asia",
+            "the gulf"
+          ],
+          "product": [
+            "vagaro",
+            "booksy"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2477019,
+        "full_text": "Fresha secures $80M from KKR, joins unicorn club\n\nFresha, a beauty platform founded by William Zeqiri in UAE, raises $80M from KKR at a $1B+ valuation, expanding globally from London.\n\nEditör · 22 May 2026 21:30 · 2 dk okuma · 2,245 reads\n\nFresha, a beauty and wellness platform originally founded in the UAE by William Zeqiri, has successfully raised $80 million from KKR, a global investment firm. This recent funding round values Fresha at over $1 billion, solidifying its status as a unicorn in the tech industry. Since its relocation to London, Fresha has become one of the top lifestyle apps worldwide, with a revenue run-rate exceeding $140 million, growing over 60% annually. Business Model and Growth Fresha operates as both a consumer marketplace and a B2B software platform for beauty and wellness businesses. It allows consumers to discover and book appointments while providing businesses with tools for appointment management, payments, marketing, and inventory. The platform monetizes through payment processing fees and subscription plans, which have driven significant adoption, with 130,000 businesses and 35 million appointments per month across 120 countries. KKR's Strategic Investment KKR’s investment is part of its Next Generation Technology Growth strategy, supporting companies in aggressive expansion phases with proven business models. Fresha's integrated payments infrastructure and marketplace approach create recurring revenue, differentiating it from competitors like Booksy and Vagaro. Future Prospects The global spa and salon software market is projected to grow significantly, driven by trends such as the shift from manual systems to cloud-based solutions and increased wellness spending post-pandemic. Fresha’s strong presence in the UK, Australasia, and the Gulf positions it well for further expansion into North America and Southeast Asia. As the company continues to scale, the focus will be on leveraging AI to transform operations in the beauty and wellness sector globally. Conclusion With KKR's backing, Fresha is poised to enhance its global footprint and innovate further in the beauty and wellness industry. The investment marks a significant milestone in Fresha's journey, reflecting the trust and confidence of investors in its business model and growth potential."
+      },
+      {
+        "id": 25060741,
+        "title": "Fresha: $80 Million At $1 Billion Valuation Raised From KKR For AI-Powered Beauty And Wellness Platform",
+        "url": "https://pulse2.com/fresha-80-million-at-1-billion-valuation-raised-from-kkr-for-ai-powered-beauty-and-wellness-platform/",
+        "publisher": "Pulse 2.0",
+        "published_date": "2026-05-22T19:22:22",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, an AI-powered marketplace and business management platform for the beauty and wellness industry, announced an $80 million primary growth investment from funds managed by KKR at a valuation exceeding $1 billion, achieving unicorn status. The funding brings the company's total capital raised to $285 million and will be used to accelerate global expansion and invest in AI innovation. Founded in 2015 and headquartered in London, Fresha is already profitable and serves over 130,000 beauty and wellness businesses globally, facilitating more than 35 million appointments per month and $15 billion in annual GMV.",
+        "word_count": 495,
+        "original_language": "EN",
+        "author": "Amit Chowdhry",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Sector / Generalist Growth Equity",
+            "code": "FSANACAO",
+            "is_primary": true
+          },
+          {
+            "name": "K-Beauty/J-Beauty & Global Skincare Regimens",
+            "code": "CRABAAAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          },
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00009qh",
+            "name": "Kohlberg Kravis Roberts & Co.",
+            "website": "http://www.kkr.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001162",
+            "name": "asset management"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nicholas miller",
+            "william zeqiri",
+            "marta szczerba",
+            "patrick devine"
+          ],
+          "location": [
+            "australasia",
+            "london",
+            "north america",
+            "united kingdom",
+            "southeast asia",
+            "continental europe"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5083267,
+        "full_text": "Fresha, an AI-powered marketplace and business management platform for the beauty and wellness industry, announced an $80 million primary growth investment from funds managed by KKR at a valuation of more than $1 billion. The funding brings Fresha’s total capital raised to date to $285 million. The company said it plans to use the new capital to accelerate global expansion efforts and invest further in next-generation product development and AI innovation. Fresha is already profitable. Founded in 2015 and headquartered in London by William Zeqiri and Nicholas Miller, Fresha has expanded across multiple international markets, including the United Kingdom, Australasia, the GCC, North America, Continental Europe, and Southeast Asia. The platform serves more than 130,000 beauty and wellness businesses globally across sectors such as hair, beauty, barbering, nails, aesthetics, wellness, fitness, and spas. Fresha said its platform facilitates more than 35 million appointments per month and over $15 billion in annual GMV. KKR made the investment through its Next Generation Technology Growth strategy, which focuses on technology investments. The firm recently announced investments in companies including Reserv, Coder, and Premialab. KEY QUOTES: “Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses. We believe the company is well positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions.” Patrick Devine, Partner and member of KKR’s Tech Growth team “We have followed William and the broader management team over the years, and have been highly impressed with the consistent performance they have been driving at Fresha. The team have been on the front-foot in implementing AI in a way that drives meaningful business outcomes, and we are thrilled to be embarking with them on the next chapter of Fresha’s journey.” Marta Szczerba, Director in KKR’s Tech Growth team “Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day. KKR brings deep experience scaling category-defining technology companies, and their conviction in our vision gives us tremendous confidence as we enter this next chapter. With KKR’s support, we will be able to further accelerate our global expansion and invest heavily in AI to transform how beauty and wellness businesses operate worldwide.“ William Zeqiri, Founder And CEO, Fresha “From day one, our obsession has been building software that beauty and wellness professionals genuinely love using. Every feature we ship is shaped by the people running these businesses, the salon owners, the stylists, the spa operators. This round reinforces what our customers have been telling us for years: Fresha delivers one of the most complete, intuitive, and valuable platforms in the industry. KKR’s investment gives us the resources to push that even further, particularly in AI, where we see enormous potential to remove operational friction and unlock new revenue for our partners.“ Nicholas Miller, Co-Founder And Chief Product Officer, Fresha"
+      },
+      {
+        "id": 26423395,
+        "title": "Fresha Raises $80M, Hits $1 Billion Valuation",
+        "url": "https://ventureburn.com/fresha-raises-80m-hits-1-billion-valuation/",
+        "publisher": "Ventureburn",
+        "published_date": "2026-05-22T18:28:21",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a beauty and wellness business management platform, has closed an $80 million primary growth round led by KKR, pushing its valuation past the $1 billion threshold and making it the UK's latest tech unicorn, with total funding raised reaching $285 million. The company operates profitably with $140 million in annualised revenue run-rate and 60% year-over-year growth, hosting over 130,000 businesses and processing more than 35 million appointments monthly. The capital will fund aggressive global expansion into continental Europe, North America, and Southeast Asia, alongside AI product development including a new \"AI Concierge\" system for real-time appointment scheduling and payment processing.",
+        "word_count": 777,
+        "original_language": "EN",
+        "author": "Ekemini May",
+        "countries": [
+          "GBR",
+          "AUS",
+          "IRL",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Technology & Software Growth Equity",
+            "code": "FSANACAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5259",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "523940",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "nicholas miller",
+            "william zeqiri",
+            "ekemini"
+          ],
+          "location": [
+            "ireland",
+            "australasia",
+            "united kingdom",
+            "north america",
+            "uk",
+            "southeast asia",
+            "continental europe"
+          ],
+          "product": [
+            "ai concierge",
+            "voice assistants"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2476993,
+        "full_text": "Fresha Raises $80M, Hits $1 Billion Valuation\n\nBy Ekemini 22 May 2026\n\nKey Takeaways Fresha has closed an $80 million primary growth round led by KKR, pushing its valuation past the $1 billion threshold and raising its total funding to $285 million.\n\nBacked by a 60% annual growth rate and a revenue run-rate exceeding $140 million, Fresha secured the investment as a fully profitable operation.\n\nThe company processes more than 35 million appointments monthly.\n\nFresha has officially secured a $80 million primary growth investment. The fresh injection of cash, backed by global investment heavyweight KKR, comes at a valuation in excess of $1 billion, with Fresha minted as the UK’s latest tech unicorn. The capital was deployed via KKR’s Next Generation Technology Growth programme in its first big co-investment with Fresha. It is the first time the business has received institutional investment since raising $30.8 million in venture debt from J.P. Morgan Asset Management in August 2024. The additional series G funding has brought Fresha’s total capital raised to $285 million. Consolidating the Fragmented Salon Economy Founded in 2015 by William Zeqiri and Nicholas Miller, Fresha has quietly built an empire by solving a persistent headache for beauty and self-care professionals. For years, independent salon owners, barbers and spa managers relied on a disconnected patchwork of tools to run their businesses, including managing online bookings with an app, ringing up customer transactions from standalone point-of-sale (POS) hardware and following inventory in a spreadsheet updated by hand. Fresha entered the space by offering a unique model: a highly integrated, free-to-use core component that would serve as the backbone of appointment scheduling, team management and customer loyalty. Instead of charging steep monthly software subscription fees that eat into small business margins, Fresha monetises its ecosystem through built-in financial services, automated payment processing, and a marketplace fee structure, taking a percentage cut only when it successfully delivers new client referrals to a business. The strategy has proven highly lucrative. The company’s annual recurring revenue doubled throughout 2024, topping $43.4 million, while its annualised revenue run rate has cleared $140 million, growing at an impressive 60% year-over-year rate. More News: BIG Fiber Raises $250M in Funding Led by Stonepeak Explosive Metric Scale and Global Market Leadership The growth investment comes at a time when Fresha has achieved staggering operational scale. The platform now hosts an installed base of over 130,000 beauty and wellness businesses globally, supporting more than 500,000 individual stylists and professionals across key industry verticals, including hair, barbering, nails, aesthetics, fitness, and luxury day spas. On the consumer side, Fresha has evolved into a powerhouse marketplace. The system facilitates more than 35 million appointments per month, translating to an annual volume exceeding 1 billion appointments. In terms of financial movement, the all-in-one software ecosystem handles more than $15 billion in annual gross merchandise volume (GMV). “Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day,” said William Zeqiri, Founder and CEO of Fresha. “KKR brings deep experience scaling category-defining technology companies, and their conviction in our vision gives us tremendous confidence as we enter this next chapter.” Expanding the Footprint and Betting on AI Unlike many tech startups burning through capital to maintain rapid expansion metrics, Fresha is already profitable, meaning the $80 million from KKR will be entirely weaponised for aggressive global market expansion and next-generation artificial intelligence (AI) product development. The platform already commands dominant market share in the United Kingdom, Ireland, and across Australasia (where it controls roughly 45% of the local market). It also maintains an entrenched presence in the GCC (Gulf Cooperation Council) region. Moving forward, the company plans to use KKR’s global footprint to mount an aggressive expansion push deeper into continental Europe, North America, and Southeast Asia. On the product side, Co-founder and Chief Product Officer Nicholas Miller emphasised that AI will be central to Fresha’s future capabilities. The company is investing heavily in vertical AI software, including its newly revealed “AI Concierge” system. When a client calls, the AI takes the order, schedules an appointment in real time, deposits the cash and reworks the appointment in real time. Also, the company is streamlining its backend architecture to deliver live booking URLs directly into both global AI discovery search tools and voice assistants to make all of its merchant partners highly prominent when consumers trend to AI-optimised local search commerce.\n\nEkemini I'm a crypto writer with 4+ years of experience passionate about turning big, technical ideas into content anyone can understand. From blockchain to stablecoins to everything in between, I enjoy helping readers stay informed in a space that never stops moving."
+      },
+      {
+        "id": 26423075,
+        "title": "Fresha Raises $80M Growth Financing for AI Beauty Platform",
+        "url": "https://www.tamradar.com/funding-rounds/fresha-growth-80m",
+        "publisher": "Tamradar",
+        "published_date": "2026-05-22T11:37:24",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, an AI-powered marketplace and operating platform for beauty and wellness businesses, has raised $80 million in growth financing led by KKR to fund international expansion and further AI product development. The platform currently operates 130,000 businesses processing 35 million appointments monthly with $1.4 billion in monthly transaction volume, positioning it as the category leader in a market projected to reach $1.86 billion by 2031. The company is actively hiring for General Managers in Mexico and Japan alongside 50 business development executives in the UK as part of its expansion across North America, Europe, and Southeast Asia.",
+        "word_count": 402,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "MEX",
+          "JPN",
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Beauty & Personal Care Marketplaces",
+            "code": "CRAFABAB",
+            "is_primary": true
+          },
+          {
+            "name": "POS Payment Software & Middleware (Terminal OS, Apps, Device Management)",
+            "code": "FSAMADAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000288",
+            "name": "personal service"
+          },
+          {
+            "code": "20001163",
+            "name": "client relationship management"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "812112",
+            "name": "Other Services (except Public Administration)"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "patrick devine"
+          ],
+          "location": [
+            "europe",
+            "north america",
+            "uk",
+            "mexico",
+            "southeast asia",
+            "japan"
+          ],
+          "product": [
+            "team connect",
+            "client connect",
+            "planity",
+            "booksy",
+            "mindbody",
+            "vagaro",
+            "schedulicity"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2476869,
+        "full_text": "Fresha, a global AI-powered marketplace and operating platform for beauty and wellness businesses, has raised $80 million in growth financing led by KKR. The platform connects clients with professionals across hair, beauty, fitness, and aesthetics while providing salons with scheduling, payments, and client management tools. The capital will fuel international expansion and further AI product development.\n\nKKR Backs Beauty Tech Unicorn Scale\n\nThe timing aligns with renewed investor interest in beauty tech. Fresha now operates 130,000 businesses processing 35 million appointments monthly and $1.4 billion in monthly transaction volume. Competitors include Vagaro, which reached a $1 billion valuation in its Series D, and Booksy, which raised between $169 million and $269 million total. Fresha differentiates through its commission-free global marketplace model combined with embedded AI features.\n\nFragmented Operations Fuel Platform Shift\n\nBeauty and salon businesses traditionally rely on disconnected tools for bookings, payments, and marketing. This fragmentation creates inefficiencies in scheduling and client retention. The spa and salon software market stands at $1.12 billion in 2026 and is projected to reach $1.86 billion by 2031 at a 10.68% CAGR, driven by post-pandemic demand for digital booking solutions.\n\nIntegrated AI Platform Targets SMB Pain\n\nFresha built an all-in-one system that includes AI-powered intelligent scheduling, POS, integrated payments, and an AI Concierge for handling calls and messages. Recent launches of Team Connect and Client Connect add native communication layers directly tied to bookings. This vertical integration contrasts with narrower tools from regional players like Planity or enterprise-focused Mindbody.\n\n“Fresha built a differentiated platform combining software, payments, marketplace with embedded AI.” — Patrick Devine, KKR partner\n\nMission Capital Signals Category Leadership\n\nKKR's Next Generation Technology Growth Fund led the round, bringing operational expertise from backing companies like Epic Games and GoDaddy. The investment validates Fresha's path to profitability and positions the company for aggressive scaling across North America, Europe, and Southeast Asia. Total funding now stands at $285 million.\n\nBeauty Tech Attracts Renewed VC Interest\n\nThe salon software market grows amid a broader $667 billion beauty industry. Beauty tech companies raised $198 million across 32 rounds in 2026 year-to-date. Fresha leads with a hybrid marketplace and SaaS model serving 120 countries, while competitors consolidate regionally through acquisitions such as Vagaro's integration of Schedulicity assets.\n\nHiring Signals Global Expansion Push\n\nFresha is actively hiring for leadership roles including General Manager Mexico and General Manager Japan alongside 50 business development executives in the UK. These moves support plans to expand countries and deepen AI capabilities following the unicorn valuation milestone."
+      },
+      {
+        "id": 25063150,
+        "title": "UK gets a fresh new unicorn as beauty and wellness platform Fresha lands €68.9 million from KKR",
+        "url": "https://www.eu-startups.com/2026/05/uk-gets-a-fresh-new-unicorn-as-beauty-and-wellness-platform-fresha-lands-e68-9-million-from-kkr/",
+        "publisher": "EU-Startups",
+        "published_date": "2026-05-22T10:42:18",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, has secured a €68.9 million ($80 million) primary growth investment from funds managed by KKR, valuing the company at over €861.9 million ($1 billion) and achieving unicorn status. The company is already profitable with a revenue run-rate exceeding $140 million as of May 2026, growing at over 60% annually, and will deploy the capital to accelerate global expansion and invest in AI product innovation. Fresha claims leading market positions in the United Kingdom, Australasia, and the GCC while serving over 130,000 beauty and wellness businesses and facilitating more than 35 million appointments per month.",
+        "word_count": 605,
+        "original_language": "EN",
+        "author": "Rahul Raj",
+        "countries": [
+          "GBR",
+          "AUS",
+          "ARE",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Beauty & Personal Care Omnichannel",
+            "code": "CRAFAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+            "code": "HDAAACAO",
+            "is_primary": false
+          },
+          {
+            "name": "Healthcare & Life Sciences Growth Equity",
+            "code": "FSANACAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00009qh",
+            "name": "Kohlberg Kravis Roberts & Co.",
+            "website": "http://www.kkr.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000205",
+            "name": "new product or service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "557",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "william zeqiri",
+            "nick miller",
+            "nicholas miller",
+            "patrick devine",
+            "zeqir"
+          ],
+          "location": [
+            "australasia",
+            "north america",
+            "united kingdom",
+            "ireland",
+            "africa",
+            "uk",
+            "continental europe",
+            "south east asia",
+            "gcc",
+            "southeast asia"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 266076,
+        "full_text": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, has announced a €68.9 million ($80 million) primary growth investment from funds managed by KKR, a global investment firm. This deal values Fresha at over €861.9 million ($1 billion) and brings Fresha’s total capital raised to €245.5 million ($285 million). The company is already profitable, and it will use the new funding to accelerate global expansion and to fuel next-generation product and AI innovation. William Zeqiri, Founder and CEO of Fresha, said, “Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day. KKR brings deep experience scaling category-defining technology companies, and their conviction in our vision gives us tremendous confidence as we enter this next chapter. With KKR’s support, we will be able to further accelerate our global expansion and invest heavily in AI to transform how beauty and wellness businesses operate worldwide.“ Founded in 2015 by Zeqir and Nick Miller, Fresha is an AI-powered booking platform for the beauty, wellness, and self-care industry, with leading market positions in the United Kingdom, Australasia, and the GCC, and a rapidly growing presence across North America, Continental Europe, and South East Asia. For consumers, Fresha claims to offer a platform to discover, book, and pay for beauty and wellness services with top local professionals. For businesses, the company provides an all-in-one platform that streamlines operations, including appointment management and client engagement. Nicholas Miller, co-founder and Chief Product Officer of Fresha, said, “From day one, our obsession has been building software that beauty and wellness professionals genuinely love using. Every feature we ship is shaped by the people running these businesses — the salon owners, the stylists, the spa operators. “This round reinforces what our customers have been telling us for years: Fresha delivers one of the most complete, intuitive, and valuable platforms in the industry. KKR’s investment gives us the resources to push that even further, particularly in AI, where we see enormous potential to remove operational friction and unlock new revenue for our partners.“ Fresha reports that it is used by over 130,000 beauty and wellness businesses globally across key verticals, including hair, beauty, barbering, nails, aesthetics, wellness, fitness, and spa. It also states that the platform facilitates more than 35 million appointments per month and generates over $15 billion in annual GMV. Patrick Devine, Partner and member of KKR’s Tech Growth team, said, “Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses. We believe the company is well positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions.” KKR is a leading global investment firm that offers alternative asset management as well as capital markets and insurance solutions. KKR sponsors investment funds that invest in private equity, credit and real assets and has strategic partners that manage hedge funds. KKR’s insurance subsidiaries offer retirement, life and reinsurance products under the management of Global Atlantic Financial Group. KKR is making the investment in Fresha through its Next Generation Technology Growth strategy. Fresha states that it holds the number-one position in the United Kingdom and Ireland, has approximately a 45% market share in Australasia, and is expanding across continental Europe, North America, Southeast Asia, Africa and the GCC. As of May 2026, it has a revenue run-rate of more than $140 million, is profitable, is growing at over 60% annually, and has an installed base of 130,000+ businesses and 500,000+ stylists."
+      },
+      {
+        "id": 26423567,
+        "title": "Fresha Receives Investment From KKR",
+        "url": "https://www.finsmes.com/2026/05/fresha-receives-investment-from-kkr.html",
+        "publisher": "FinSMEs",
+        "published_date": "2026-05-22T08:17:39",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, received an investment from KKR. The deal amount was not disclosed, bringing the company's total funding to date to $285 million. Fresha plans to use the capital to accelerate global expansion and fuel new product and AI innovation.",
+        "word_count": 221,
+        "original_language": "EN",
+        "author": ".Tdb-Post-Meta Margin-Bottom Color",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Beauty & Personal Care Omnichannel",
+            "code": "CRAFAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Policy Administration, Underwriting & Rating Platforms (Core Insurance SaaS)",
+            "code": "FSAGAGAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000205",
+            "name": "new product or service"
+          },
+          {
+            "code": "20000288",
+            "name": "personal service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "557",
+            "name": "Style & Fashion"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "8742",
+            "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nicholas miller",
+            "william zeqiri"
+          ],
+          "location": [
+            "australasia",
+            "north america",
+            "united kingdom",
+            "south east asia",
+            "london",
+            "continental europe"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.8826,
+        "group_id": 2477083,
+        "full_text": "Fresha, a London, UK-based AI-powered marketplace and provider of a business management platform for the beauty and wellness industry, received an investment from KKR.\n\nThe amount of the deal was not disclosed.\n\nThe raise brought the total amount to date to $285M.\n\nThe company intends to use the funds to accelerate global expansion and fuel new product and AI innovation.\n\nFounded in 2015 by William Zeqiri and Nicholas Miller, Fresha is a provider of an AI-powered booking platform for the beauty, wellness, and self-care industry, used by millions of consumers and businesses worldwide.\n\nFor consumers, the company offers a new way to discover, book, and pay for beauty and wellness services with local professionals.\n\nFor businesses, Fresha provides a platform that streamlines operations, from appointment management to client engagement, helping businesses grow effortlessly with software, integrated payments, financial services and advanced technology solutions.\n\nThe solution is used by over 130,000 beauty and wellness businesses globally across key verticals including hair, beauty, barbering, nails, aesthetics, wellness, fitness, and spa.\n\nThe company has market positions in the United Kingdom, Australasia, and the GCC, and a rapidly growing presence across North America, Continental Europe, and South East Asia.\n\nDon’t just read the news. Own the data. Stop manually tracking deals. Access this round and over 100 others this week—in our structured Master Database (XML) + Weekly Intelligence PDF. 👉 [Access FinSMEs Intelligence Hub]\n\nFinSMEs\n\n22/05/2026"
+      },
+      {
+        "id": 35567569,
+        "title": "AI booking startup Fresha raises £59.6m backed by KKR",
+        "url": "https://www.startupmag.co.uk/funding/fresha-2026-growth-funding/",
+        "publisher": "Startupmag",
+        "published_date": "2026-05-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, an AI booking startup for beauty and wellness businesses, raised £59.6m in a growth round valued at over £744.9m, with KKR as the primary investor. The company reports a revenue run-rate of about £104.3m and over 130,000 business customers. The funding will support international expansion and AI product development.",
+        "word_count": 945,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+            "code": "BPAMAHAF",
+            "is_primary": true
+          },
+          {
+            "name": "Technology & Software Growth Equity",
+            "code": "FSANACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nick miller",
+            "patrick devine",
+            "william zeqiri",
+            "marta szczerba",
+            "john-pierre clark",
+            "william"
+          ],
+          "location": [
+            "ireland",
+            "uk",
+            "australia",
+            "australasia",
+            "us",
+            "africa",
+            "north america",
+            "europe",
+            "south east asia",
+            "eu",
+            "east asia",
+            "nyc"
+          ],
+          "product": [
+            "fresha",
+            "spas"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.989,
+        "group_id": 266076,
+        "full_text": "Home / Funding News / Fresha raises £59.6m from KKR AI booking startup Fresha raises £59.6m backed by KKR John-Pierre Clark Published Funding Type Sector John-Pierre Clark Published Image credits: Fresha | Startupmag edit\n\nThis article covers Fresha, an AI booking startup, which has raised £59.6m in a growth funding round that values the startup at more than £744.9m. The funding will be used to accelerate international expansion and deepen its AI-led product roadmap, supporting salons, spas and other small service businesses in the beauty and wellness sector. Fresha, an AI booking startup, has raised £59.6m in a growth funding round that values the company at more than £744.9m. The London-founded booking and business-management platform for the beauty and wellness sector says it will use the capital to accelerate international expansion and deepen its AI-led product roadmap. Why it matters The round pushes Fresha into the unicorn club at a time when vertical software that embeds marketplace, payments and automation is attracting increasing investor attention. Fresha reports profitability, a revenue run-rate of about £104.3m, more than 130,000 business customers and 35 million appointments per month. Those scale and unit-economics figures matter because they suggest the business is already producing cash flows while still growing at north of 60% year-on-year. For operators in salons, spas and related services, the platform’s combination of scheduling, point of sale, payments and marketplace distribution aims to replace multiple niche tools. The deal underscores demand for specialised, AI-enabled systems that act as operational backbones for small service businesses. Inside the product Fresha combines booking software, payments and a customer-facing marketplace. The company says it facilitates roughly £11.2bn in annual gross merchandise value and serves verticals including hair, barbering, nails, aesthetics, wellness, fitness and spa. Independent research cited in the announcement claims Fresha ranks highly on software quality, ease of use and marketplace strength, and reports customer outcomes such as 15–50% increases in appointment volumes, around 15% higher add-on attach rates, and headcount cost savings up to 25%. The firm also highlights high retention metrics: most customers reported they would not switch platforms over the next three years. Product priorities called out for the new funding include AI-driven booking automation, marketing intelligence, accounting integrations, workforce management and customer engagement features that customers are reportedly willing to pay for. Who are the investors? The primary investor named in the announcement is funds managed by KKR. The deal follows more than a year of due diligence, during which Fresha and the investor group surveyed operators across the US, UK, Ireland, EU and Australia and carried out expert interviews. Fresha has now raised approximately £212.3m in total. In the announcement, Patrick Devine, Partner and member of KKR’s Tech Growth team, said: Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses. We believe the company is well-positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions. In the announcement, Marta Szczerba, Director in KKR’s Tech Growth team, said: We have followed William and the broader management team over the years, and have been highly impressed with the consistent performance they have been driving at Fresha. The team have been on the front foot in implementing AI in a way that drives meaningful business outcomes, and we are thrilled to be embarking with them on the next chapter of Fresha’s journey. If you're researching potential backers in this space: Explore our list of healthtech venture capital firms in the UK\n\nBrowse our directory of healthtech angel investors in the UK Founder perspective Founders William Zeqiri (CEO) and Nick Miller (Co-founder and Chief Product Officer) characterise the round as validation of the product’s position with service businesses and as a means to accelerate global expansion and AI investment. The company points to strong adoption in the UK and Ireland, about 45% market share in Australasia, and growing footprints in North America, continental Europe, South East Asia, Africa and the GCC. The team frames Fresha as an operating system for selfcare businesses: a single platform intended to reduce operational friction and open new monetisation for partners through automation and marketplace demand. The bigger picture Fresha’s raise and valuation are part of a broader trend in Europe and the UK where institutional capital is increasingly writing larger checks into later-stage vertical SaaS and marketplace businesses that combine software and payments. The focus on embedded AI reflects wider investor expectations that machine-led automation will be a primary driver of value in customer-facing services. For the UK ecosystem, the deal is notable for a profitable, product-led company achieving a substantial valuation without the breakneck burn rates seen in some growth stories. It also signals that established global investment firms continue to view UK-founded startups as viable anchors for international category plays. The outcome will be watched by operators and investors across Europe as an example of how profitability, product-market fit in a defined vertical and an AI roadmap can be packaged to attract sizeable growth capital. They've invested in Fresha Get to know these healthtech investors / 876 🔒 Investors: 1 Filter by location... Filter by sector... All Pre-seed Seed Growth Download Investors Investment Focus Startup Investments Round Size KKR ( more info 🔒 ) KKR is a leading global investment firm with a focus on private equity, credit, ... NYC , US AI Fintech Generalist Fresha Global Technical Realty Paddle Dealstack +4 Growth Previous Showing 1 - 1 out of 876 investors Next Click here for a full list of 7,589 + startup investors in the UK Related Resources Healthtech venture capital firms\n\nHealthtech angel investors\n\nHealthtech startups\n\nHealthtech startup events"
+      },
+      {
+        "id": 35566213,
+        "title": "How a Dubai tech executive built a $1B beauty platform in London and convinced KKR to back it with $80M — TFN",
+        "url": "https://techfundingnews.com/beauty-techs-quiet-giant-just-became-a-unicorn-fresha-raises-80m-from-kkr-at-1b-valuation/",
+        "publisher": "Tech Funding News",
+        "published_date": "2026-05-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha raised $80M from KKR at a $1B+ valuation, bringing total funding to $285M. The London-based beauty platform reports a $140M+ revenue run-rate growing over 60% annually across 130,000 businesses. It plans to accelerate global expansion and invest in AI.",
+        "word_count": 924,
+        "original_language": "EN",
+        "author": "Akansha Dimri",
+        "countries": [
+          "GBR",
+          "ARE",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+            "code": "BPAMAHAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000jzw",
+            "name": "Middle East Venture Partners (MEVP)",
+            "website": "http://www.mevp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000041f",
+            "name": "Booksy",
+            "website": "http://booksy.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002j5r",
+            "name": "Mindbody",
+            "website": "https://www.mindbodyonline.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000bcq",
+            "name": "J.P. Morgan Asset Management",
+            "website": "https://am.jpmorgan.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000mzg",
+            "name": "Kohlberg Kravis Roberts Japan",
+            "website": "https://www.kkr.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004l",
+            "name": "General Atlantic",
+            "website": "http://www.generalatlantic.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "557",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "456120",
+            "name": "Retail Trade"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "william zeqiri",
+            "nicholas miller",
+            "patrick devine"
+          ],
+          "location": [
+            "london",
+            "sydney",
+            "dublin",
+            "dubai",
+            "amsterdam",
+            "uae",
+            "abu dhabi",
+            "warsaw",
+            "europe",
+            "new york",
+            "north america",
+            "uk",
+            "us",
+            "australasia",
+            "southeast asia",
+            "continental europe",
+            "the gulf"
+          ],
+          "product": [
+            "fresha",
+            "mindbody",
+            "vagaro",
+            "booksy",
+            "shedul",
+            "reserv",
+            "coder",
+            "lighthouse",
+            "trainline"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 266076,
+        "full_text": "- Fresha has raised $80M from KKR at a $1B+ valuation, making it the latest London unicorn and bringing total funding to $285M\n- Founded in the UAE in 2015 by William Zeqiri, a former Dubai Holding VP, Fresha relocated to London and quietly became one of the world’s top 10 lifestyle apps\n- The beauty and wellness platform is already profitable, with a $140M+ revenue run-rate growing at over 60% annually across 130,000 businesses in 120 countries\nIn 2015, William Zeqiri was a technology executive in Dubai with a simple observation: the beauty industry was running on paper appointment books, fragmented software, and guesswork. He built a platform to fix it. A decade later, KKR has just valued that platform at $1 billion.\nFresha has closed an $80 million growth round from KKR, the New York-based global investment firm whose Next Generation Technology Growth strategy has previously backed Reserv, Coder, and Trainline, and, in Europe, recently led a $370 million round into hotel software unicorn Lighthouse. The transaction values Fresha at over $1 billion, making it the latest addition to the UK’s unicorn club, and brings total funding to $285 million. This is KKR’s first and sole investment in Fresha, and the first institutional capital the company has taken since a $30.8 million venture debt round from J.P. Morgan Asset Management in August 2024.\nThe founder’s journey is not a typical one. William Zeqiri spent years working in Abu Dhabi and Dubai, including a stint as VP of Technology at Dubai Holding, before founding Fresha in the UAE in 2015 alongside co-founder Nicholas Miller. The company originally launched as Shedul, a scheduling-first platform that stripped away subscription fees entirely to drive rapid merchant adoption. It rebranded to Fresha as it expanded into marketplace and payments, eventually relocating its headquarters to London as it scaled globally.\nThat early conviction attracted backing from UAE-based investors who recognised the opportunity first. MEVP, Fresha’s first institutional investor at seed in 2015, generated a 39x cash-on-cash return and 88% IRR when it took a partial exit during the Series C led by General Atlantic in 2021, and a 52x multiple and over 90% IRR during the Series C extension six months later at a $640 million valuation. Those are among the strongest early-stage returns recorded in the region’s tech history.\nHow Fresha works and why it has grown\nFresha operates as both a consumer marketplace and a B2B software platform for beauty and wellness businesses. On the consumer side, it lets people discover and book appointments. On the business side, it replaces the fragmented tools most salons, barbershops, spas, and studios rely on, combining appointment management, point-of-sale payments, client marketing, inventory, and financial services into one system. The platform monetises through payment processing fees, subscription plans introduced in 2025, and new client booking commissions rather than a single flat monthly fee.\nThat structure has driven adoption that speaks for itself: 130,000 businesses, 500,000+ stylists, 120 countries, 35 million appointments per month, and more than $15 billion in annual transactions. As of May 2026, it is growing at over 60% annually with a revenue run-rate exceeding $140 million, and it is already profitable, a distinction that most companies at this valuation level cannot claim.\nThe company has approximately 500 employees and is headquartered in London, with offices in New York, Sydney, Dublin, Amsterdam, Dubai, and Warsaw.\n“Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day,” said William Zeqiri, Founder and CEO. “With KKR’s support, we will be able to further accelerate our global expansion and invest heavily in AI to transform how beauty and wellness businesses operate worldwide.”\nThe competitive landscape\nFresha’s most direct rivals are Booksy, which raised $70 million in a Series C led by Tiger Global and is strong in North America and Europe; Vagaro, which has raised $63 million and focuses on the US market with a subscription-based approach; and Mindbody, which targets the fitness and wellness end of the market. Where Fresha differs is its integrated payments infrastructure and marketplace strategy, which creates recurring revenue at scale while keeping the barrier to entry low for new businesses joining the platform.\nKKR’s investment came through its Next Generation Technology Growth strategy, the same vehicle it uses to back companies with proven business models that are in aggressive expansion mode. The firm is not backing a bet. It is backing a business that already works.\n“Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses,” said Patrick Devine, Partner and member of KKR’s Tech Growth team.\nThe market it is scaling into\nThe spa and salon software market was valued at $1.01 billion in 2025 and is projected to reach $1.86 billion by 2031, growing at a 10.68% CAGR, according to Mordor Intelligence, driven by post-pandemic wellness spending, the shift from manual appointment books to cloud-based systems, and the growing integration of AI, embedded payments, and marketplace tools into salon operations. Fresha holds strong positions in the UK, Australasia, and the Gulf, the same region where it was born, with North America, Continental Europe, and Southeast Asia as its next expansion priorities.\nA founder who spotted a problem in Dubai. A platform that quietly became one of the world’s most used lifestyle apps. And a $1 billion valuation backed by one of the world’s most discerning growth investors. The question now is not whether Fresha can scale — it already has. The question is how far."
+      },
+      {
+        "id": 35565441,
+        "title": "Albanian beauty booking startup Fresha hits $1B valuation with KKR backing",
+        "url": "https://albaniatech.org/albanian-beauty-booking-startup-fresha-hits-1b-valuation-with-kkr-backing/",
+        "publisher": "Albania Tech",
+        "published_date": "2026-05-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a beauty and wellness booking platform, raised $80 million from KKR's growth equity fund, valuing it at over $1 billion. The company has raised $285 million total and plans to use the capital for international expansion and AI features.",
+        "word_count": 187,
+        "original_language": "EN",
+        "author": "Eni Muça",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+            "code": "BPAMAHAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003pbd",
+            "name": "Next Generation Technology",
+            "website": "https://ngt-g.com/en/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000220",
+            "name": "health and beauty product"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "119",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "london-based"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 266076,
+        "full_text": "Beauty and wellness booking marketplace Fresha has announced an $80 million investment from KKR’s Next Generation Technology Growth fund, valuing the London-based company at more than $1 billion. The investment is notable for coming from KKR’s growth equity arm, which targets companies with proven business models that are still in aggressive expansion mode — a sign that Fresha is seen as past the risky early stages and ready to scale. The London-based company, founded in 2015, has grown significantly over the last few years. When TechCrunch covered a Fresha fundraising round in 2021, the company had 60,000 businesses on its platform and was working with more than 150,000 professionals across 120 countries. Today, the platform counts more than 140,000 businesses and says those businesses are booking more than 35 million appointments a month through Fresha. That volume — more than a billion appointments annually — puts it among the larger scheduling platforms of any kind, not just within beauty and wellness. The company has now raised $285 million to date and says it will use the new capital to expand to more countries and develop AI features."
+      },
+      {
+        "id": 26423562,
+        "title": "UK gets a fresh new unicorn as beauty and wellness platform Fresha lands €68.9 million from KKR – BeBeez International",
+        "url": "https://bebeez.eu/2026/05/22/uk-gets-a-fresh-new-unicorn-as-beauty-and-wellness-platform-fresha-lands-e68-9-million-from-kkr/",
+        "publisher": "Bebeez",
+        "published_date": "2026-05-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, has secured a €68.9 million (~$80 million) primary growth investment from funds managed by KKR, valuing the company at over €861.9 million ($1 billion) and achieving unicorn status. The investment brings Fresha's total capital raised to €245.5 million ($285 million) and the company, which is already profitable with a revenue run-rate exceeding $140 million, will use the funding to accelerate global expansion and AI innovation. Fresha's platform serves over 130,000 beauty and wellness businesses globally, facilitating more than 35 million appointments per month and generating over $15 billion in annual GMV.",
+        "word_count": 610,
+        "original_language": "EN",
+        "author": "Eu Startups",
+        "countries": [
+          "GBR",
+          "AUS",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Beauty & Personal Care Omnichannel",
+            "code": "CRAFAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Industry-Specialist Buyout (Sector-Focused)",
+            "code": "FSANABAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "william zeqiri",
+            "nick miller",
+            "nicholas miller",
+            "patrick devine",
+            "zeqir"
+          ],
+          "location": [
+            "australasia",
+            "north america",
+            "united kingdom",
+            "ireland",
+            "uk",
+            "africa",
+            "continental europe",
+            "south east asia",
+            "gcc",
+            "southeast asia"
+          ],
+          "product": [
+            "fresha"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 266076,
+        "full_text": "Fresha, a London-based AI-powered marketplace and business management platform for the beauty and wellness industry, has announced a €68.9 million ($80 million) primary growth investment from funds managed by KKR, a global investment firm. This deal values Fresha at over €861.9 million ($1 billion) and brings Fresha’s total capital raised to €245.5 million ($285 million). The company is already profitable, and it will use the new funding to accelerate global expansion and to fuel next-generation product and AI innovation. William Zeqiri, Founder and CEO of Fresha, said, “Reaching unicorn status is a proud milestone, but more importantly, this investment is a strong testament to the trust our partners place in Fresha every day. KKR brings deep experience scaling category-defining technology companies, and their conviction in our vision gives us tremendous confidence as we enter this next chapter. With KKR’s support, we will be able to further accelerate our global expansion and invest heavily in AI to transform how beauty and wellness businesses operate worldwide.“ Founded in 2015 by Zeqir and Nick Miller, Fresha is an AI-powered booking platform for the beauty, wellness, and self-care industry, with leading market positions in the United Kingdom, Australasia, and the GCC, and a rapidly growing presence across North America, Continental Europe, and South East Asia. For consumers, Fresha claims to offer a platform to discover, book, and pay for beauty and wellness services with top local professionals. For businesses, the company provides an all-in-one platform that streamlines operations, including appointment management and client engagement. Nicholas Miller, co-founder and Chief Product Officer of Fresha, said, “From day one, our obsession has been building software that beauty and wellness professionals genuinely love using. Every feature we ship is shaped by the people running these businesses — the salon owners, the stylists, the spa operators. “This round reinforces what our customers have been telling us for years: Fresha delivers one of the most complete, intuitive, and valuable platforms in the industry. KKR’s investment gives us the resources to push that even further, particularly in AI, where we see enormous potential to remove operational friction and unlock new revenue for our partners.“ Fresha reports that it is used by over 130,000 beauty and wellness businesses globally across key verticals, including hair, beauty, barbering, nails, aesthetics, wellness, fitness, and spa. It also states that the platform facilitates more than 35 million appointments per month and generates over $15 billion in annual GMV. Patrick Devine, Partner and member of KKR’s Tech Growth team, said, “Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses. We believe the company is well positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions.” KKR is a leading global investment firm that offers alternative asset management as well as capital markets and insurance solutions. KKR sponsors investment funds that invest in private equity, credit and real assets and has strategic partners that manage hedge funds. KKR’s insurance subsidiaries offer retirement, life and reinsurance products under the management of Global Atlantic Financial Group. KKR is making the investment in Fresha through its Next Generation Technology Growth strategy. Fresha states that it holds the number-one position in the United Kingdom and Ireland, has approximately a 45% market share in Australasia, and is expanding across continental Europe, North America, Southeast Asia, Africa and the GCC. As of May 2026, it has a revenue run-rate of more than $140 million, is profitable, is growing at over 60% annually, and has an installed base of 130,000+ businesses and 500,000+ stylists. Read the orginal article: https://www.eu-startups.com/2026/05/uk-gets-a-fresh-new-unicorn-as-beauty-and-wellness-platform-fresha-lands-e68-9-million-from-kkr/"
+      },
+      {
+        "id": 27783820,
+        "title": "Hark raises $700M, Fresha's fundraise and Authentic buys Lee denim",
+        "url": "https://www.axios.com/pro/all-deals/2026/05/21/pro-rata-premium-first-look",
+        "publisher": "Axios",
+        "published_date": "2026-05-21T19:52:56.255073",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.677,
+        "ai_summary": "Hark, a San Francisco-based AI lab developing models and hardware for personal assistants, raised $700 million in Series A funding at a $6 billion post-money valuation, with Parkway Venture Capital leading the round joined by multiple institutional investors. Separately, Fresha, a London-based beauty booking marketplace, secured $80 million in funding from KKR at a valuation exceeding $1 billion. The article is part of Axios Pro's venture capital deal tracker covering multiple recent fundraises.",
+        "word_count": 401,
+        "original_language": "EN",
+        "author": "Claire Rychlewski",
+        "countries": [
+          "USA",
+          "GBR"
+        ],
+        "industries": [],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000isv",
+            "name": "Align Ventures",
+            "website": "http://www.align.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00q4yv7",
+            "name": "Hark",
+            "website": "https://hark.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002oj",
+            "name": "ARK Investment Management",
+            "website": "https://ark-invest.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000oia",
+            "name": "Brookfield",
+            "website": "https://www.brookfield.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000qg",
+            "name": "Greycroft",
+            "website": "http://greycroft.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000lvl",
+            "name": "AMD Ventures",
+            "website": "https://www.amd.com/en/ventures.html",
+            "is_primary": false
+          },
+          {
+            "uuid": "00006eh",
+            "name": "Intel Capital",
+            "website": "http://www.intelcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000muq",
+            "name": "Parkway Venture Capital",
+            "website": "https://parkway.vc",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001248",
+            "name": "cosmetics"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "553",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "claire rychlewski",
+            "sarah grillo"
+          ],
+          "location": [],
+          "product": [
+            "lee denim"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9625,
+        "group_id": 310821,
+        "full_text": "Manage your tracker preferences\n\nWe use cookies and similar tracking technologies to remember preferences, analyze traffic, and deliver ads. Using some kinds of trackers (like cross-site or behavioral advertising cookies) may be considered a “sale” or “sharing” of personal data under certain state laws. You can opt in or out of these trackers below.\n\nGlobal Privacy Control detected\n\nYour global privacy control preference has been honored. You have been automatically opted out of data use cases which adhere to global privacy control.\n\nTargeted advertising cookies and similar trackers\n\nOff\n\nGlobal Privacy Control Applied\n\nSetting this to “off” disables targeted advertising and related trackers in your current browser. To fully opt out, you must disable tracking on each browser and device you use. Clearing cookies may reset your preferences. Because we can't link your Axios subscriber account (email) to browser cookies, you may also want to update your settings in the Privacy Center to ensure your account is fully opted out. See our Privacy Policy for more on how we use personal data and your rights. Review our Privacy Policy at axios.com/legal for more on how we use personal data and your rights.\n\nSave\n\n[Privacy Center](https://privacy.axios.com)\n\n[Consent powered by Ethyca](https://www.ethyca.com/janus?utm_source=fides_consent&utm_medium=referral&utm_campaign=cmp_backlinks&utm_term=janus)\n\n[Skip to main content](#main-content)\n\n* [Axios Logo](https://www.axios.com/)\n* [Newsletters](https://www.axios.com/newsletters)\n* Axios LocalShow\n* [Axios Pro](https://www.axios.com/pro/all-deals)\n* [Axios Live](https://www.axios.com/events)\n* [The Axios Show](https://www.axios.com/the-axios-show)\n\nLogin\n\n[Deals Logo](/pro/all-deals)\n\nAll deals\n\n[Deals Logo](/pro/all-deals)\n\n[Subscribe](https://www.axios.com/pro/offer/deals)\n\n* [Axios Logo](https://www.axios.com/)\n* [Newsletters](https://www.axios.com/newsletters)\n* Axios LocalShow\n* [Axios Pro](https://www.axios.com/pro/all-deals)\n* [Axios Live](https://www.axios.com/events)\n* [The Axios Show](https://www.axios.com/the-axios-show)\n\nLogin\n\n[Deals Logo](/pro/all-deals)\n\nAll deals\n\n[Deals Logo](/pro/all-deals)\n\n[Subscribe](https://www.axios.com/pro/offer/deals)\n\nAxios Pro Exclusive Content\n\n# Pro Rata Premium: First Look\n\n* [Claire Rychlewski](https://www.axios.com/authors/claire.rychlewski@axios.com)\n\nMay 21, 2026\n\n* email (opens in new window)\n* sms (opens in new window)\n* facebook (opens in new window)\n\n  twitter (opens in new window)\n\n  linkedin (opens in new window)\n\n  bluesky (opens in new window)\n\nIllustration: Sarah Grillo/Axios\n\nExit Content Preview\n\n## Venture Capital\n\n• **Hark**, an SF-based AI lab building models and hardware for a personal assistant, raised $700m in Series A funding at a $6b post-money valuation. **Parkway Venture Capital** led, joined by Align Ventures, AMD Ventures, ARK Invest, Brookfield, Greycroft, Intel Capital, Prime Movers Lab, Qualcomm Ventures, Salesforce Ventures, and Tamarack Global. [Go deeper](https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/)\n\n• **Fresha**, a London-based beauty booking marketplace, raised $80m from **KKR** at a valuation over $1b. [Go deeper](https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/)\n\ncontent locked\n\n## This is paid membership content. Log in or subscribe to unlock full access.\n\nInterested in a subscription?\n\n[Learn more](/pro/offer/deals)\n\nAlready a member? Log in\n\n* email (opens in new window)\n* sms (opens in new window)\n* facebook (opens in new window)\n\n  twitter (opens in new window)\n\n  linkedin (opens in new window)\n\n  bluesky (opens in new window)\n\n##### What to read next"
+      },
+      {
+        "id": 25020343,
+        "title": "Fresha Raises $80 Million to Bring AI to Beauty Scheduling",
+        "url": "https://www.pymnts.com/news/investment-tracker/2026/fresha-raises-80-million-to-bring-ai-to-beauty-scheduling/",
+        "publisher": "PYMNTS.com",
+        "published_date": "2026-05-21T19:17:37",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "London-based beauty-and-wellness scheduling software firm Fresha announced on May 21 that it secured $80 million in funding from investment firm KKR, pushing its valuation to $1 billion and earning unicorn status. The platform, which serves over 130,000 beauty and wellness businesses and processes 35 million appointments monthly, plans to use the funding to accelerate global expansion and advance AI-powered product innovation. The announcement comes amid broader industry adoption of AI tools for personalized beauty services and operational automation.",
+        "word_count": 385,
+        "original_language": "EN",
+        "author": "Pymnts",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": true
+          },
+          {
+            "name": "Advertising, Marketing & Customer Personalization",
+            "code": "HDAAAGAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ygg",
+            "name": "FS/KKR Advisor",
+            "website": "https://fskkrcapitalcorp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "812112",
+            "name": "Other Services (except Public Administration)"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "nicholas miller",
+            "william zeqiri",
+            "patrick devine",
+            "nicolas hieronimus"
+          ],
+          "location": [],
+          "product": [
+            "beekman 1802",
+            "ulta beauty",
+            "l’oréal"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2313530,
+        "full_text": "Beauty-and-wellness scheduling software firm Fresha is now a $1 billion company.\n\nThe startup announced the new valuation Thursday (May 21) along with news it had received $80 million from funds managed by investment giant KKR.\n\n“Fresha has built a differentiated platform, combining software, financial services, and marketplace capabilities with embedded AI, in a way that is deeply integrated into daily operations of beauty and wellness businesses,” Patrick Devine, a KKR partner and member of the firm’s tech growth team, said in a news release.\n\n“We believe the company is well positioned to continue scaling globally as demand grows for modern, vertical-specific technology solutions,” Devine added.\n\nFounded in 2015 by William Zeqiri and Nicholas Miller, London-based Fresha is used by more than 130,000 beauty and wellness businesses worldwide, in fields such as hair, beauty, barbering, nails, aesthetics, wellness, fitness and spa, the release said.\n\nThe platform facilitates over 35 million appointments each month, and plans to use the new funding to “accelerate global expansion and fuel next-generation product and AI innovation.”\n\nAdvertisement: Scroll to Continue\n\nPYMNTS wrote late last year that the beauty industry was in the middle of an “AI makeover,” with companies using the technology for everything from “foundation matching and real-time consultations to generative marketing and supply chain forecasting.”\n\nFor example, PYMNTS reported that Ulta Beauty employs machine learning to power its loyalty and personalization systems. The company’s platform integrates shopper profiles, purchase histories and store interactions to provide targeted recommendations.\n\n“The system has helped Ulta achieve a 95% repurchase rate among returning customers while improving labor efficiency through automated scheduling and inventory forecasting,” PYMNTS wrote.\n\nMeanwhile, L’Oréal has used AI for virtual diagnostics and personalization, part of what CEO Nicolas Hieronimus called “a revolution in augmented beauty.” The brand’s AI tools now analyze millions of customer selfies to provide real-time shade and skincare recommendations.\n\nThe technology’s impact extends beyond global corporations. The U.S. Chamber of Commerce reported that independent beauty startups are using AI-powered assistants and shade-matching tools to scale operations. One company said close to three-quarters of its orders now originate through virtual try-on and consultation features.\n\n“These low-cost tools are helping smaller brands compete with enterprise players without needing large data teams or complex infrastructure,” the report added. “Smaller beauty brands like Beekman 1802 told PYMNTS that AI tools allow them to create more personalized education content and build stronger community engagement.”"
+      },
+      {
+        "id": 25016982,
+        "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+        "url": "https://www.techbuzz.ai/articles/beauty-booking-startup-fresha-hits-1-billion-valuation-with-kkr-backing",
+        "publisher": "Techbuzz",
+        "published_date": "2026-05-21T11:07:37",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha, a London-based beauty and wellness booking marketplace, secured an $80 million investment from KKR's Next Generation Technology Growth fund, pushing its valuation past the $1 billion threshold and achieving unicorn status. The platform provides salon software combining appointment scheduling, point-of-sale payments, inventory management, and customer relationship tools, operating on a transaction-fee model rather than charging businesses for software access. The investment validates the broader vertical SaaS thesis for fragmented service industries and signals growing investor appetite for beauty-tech digitization, positioning Fresha ahead of competitors Boulevard and Vagaro.",
+        "word_count": 510,
+        "original_language": "EN",
+        "author": "The Tech Buzz Team",
+        "countries": [
+          "GBR",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Beauty & Personal Care Marketplaces",
+            "code": "CRAFABAB",
+            "is_primary": true
+          },
+          {
+            "name": "Software/SaaS Subscriptions (Consumer & Prosumer)",
+            "code": "CRAFAIAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          },
+          {
+            "name": "Business-Model Evolution",
+            "code": "II03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ygg",
+            "name": "FS/KKR Advisor",
+            "website": "https://fskkrcapitalcorp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000218",
+            "name": "biotechnology business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541810",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "london-based"
+          ],
+          "product": [
+            "toast",
+            "mindbody",
+            "vagaro",
+            "boulevard",
+            "procore",
+            "apprentice",
+            "spas",
+            "salon"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 637996,
+        "full_text": "Beauty and wellness booking marketplace Fresha just crossed into unicorn territory. The London-based startup announced an $80 million investment from KKR's Next Generation Technology Growth fund, valuing the company at $1 billion. The deal marks a major milestone for vertical SaaS platforms targeting the fragmented beauty industry, where digitization has lagged behind other service sectors. For KKR, it's a bet that software eating the salon world is just getting started. Fresha just joined the unicorn club, and it's a signal that investors see big money in digitizing the world's nail salons and spas. The beauty and wellness booking platform announced it secured $80 million from KKR's Next Generation Technology Growth fund, pushing its valuation past the $1 billion mark, according to TechCrunch. The London-based company has been quietly building what amounts to an operating system for beauty businesses - combining appointment scheduling, point-of-sale payments, inventory management, and customer relationship tools into a single platform. It's the kind of vertical SaaS play that's been minting unicorns across industries from construction to healthcare, now hitting the $532 billion global beauty market. For KKR, the investment through its growth equity arm represents a bet on software penetration in one of the most fragmented service industries. The beauty and wellness sector has historically run on phone bookings and walk-ins, with thousands of independent operators using outdated technology or pen-and-paper systems. Fresha offers its core software free to businesses, instead taking a cut of transactions processed through the platform - a model that's proven sticky in similar marketplaces. The timing couldn't be better. Consumer demand for beauty services rebounded strongly post-pandemic, while business owners increasingly recognize they need digital infrastructure to compete. Platforms like Fresha essentially give a single-location salon the same booking and payment capabilities that enterprise chains spend millions building in-house.\n\nAdvertisement\n\nWhat makes this deal interesting is KKR's track record with software growth investments. The firm has backed companies like Apprentice and Recorded Future, typically writing checks between $50 million and $150 million for minority stakes in fast-growing tech companies. The $80 million figure suggests Fresha is already operating at significant scale - likely processing hundreds of millions in annual bookings across its network. The beauty tech space has seen steady venture activity, but few companies have reached unicorn status. Competitors include Boulevard, which raised $70 million in 2022, and Vagaro, which has grown largely bootstrapped. Fresha's ability to attract a marquee growth investor like KKR indicates it's likely winning on both merchant acquisition and transaction volume. The marketplace model creates powerful network effects. More businesses on the platform attract more consumers, which in turn attracts more businesses. Once a salon moves its appointment book and payment processing to Fresha, switching costs become substantial - they'd lose customer data, booking history, and integrated workflows. From a market perspective, the investment validates the broader thesis around vertical SaaS platforms serving blue-collar and service industries. We've seen similar patterns with Toast in restaurants, Procore in construction, and Mindbody in fitness. These companies went public or achieved massive valuations by dominating specific verticals that general-purpose software ignored.\n\nAdvertisement"
+      }
+    ],
+    "credits_consumed": 0.3
+  }
+}

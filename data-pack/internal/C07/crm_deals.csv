@@ -1,0 +1,22 @@
+# SYNTHETIC internal-system export for the Halyard demo; fictional data, not a real company system.
+deal_id,stage,amount,closed_month,owner,owner_role
+C07-D001,closed_won,14400,2026-04,Dana Gantrell,founder
+C07-D002,closed_won,9600,2026-04,Luis Ortega,ae
+C07-D003,closed_won,12000,2026-05,Dana Gantrell,founder
+C07-D004,closed_won,8400,2026-05,Priya Nand,ae
+C07-D005,closed_won,10800,2026-05,Luis Ortega,ae
+C07-D006,closed_won,16800,2026-06,Dana Gantrell,founder
+C07-D007,closed_won,7200,2026-06,Priya Nand,ae
+C07-D008,closed_won,6000,2026-06,Luis Ortega,ae
+C07-D009,closed_lost,9600,2026-06,Priya Nand,ae
+C07-D010,closed_won,12000,2026-07,Dana Gantrell,founder
+C07-D011,closed_won,4800,2026-08,Luis Ortega,ae
+C07-D012,closed_won,9600,2026-08,Dana Gantrell,founder
+C07-D013,closed_won,7200,2026-09,Dana Gantrell,founder
+C07-D014,closed_lost,8400,2026-07,Priya Nand,ae
+C07-D015,closed_lost,12000,2026-08,Luis Ortega,ae
+C07-D016,closed_lost,6000,2026-09,Priya Nand,ae
+C07-D017,trial,28800,2026-11,Dana Gantrell,founder
+C07-D018,trial,21600,2026-12,Dana Gantrell,founder
+C07-D019,trial,19200,2026-12,Dana Gantrell,founder
+C07-D020,qualified,4800,2026-12,Priya Nand,ae

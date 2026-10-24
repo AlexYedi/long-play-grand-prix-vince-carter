@@ -1,0 +1,1809 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=000049s&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:51.260Z",
+  "data": {
+    "total": 14,
+    "limit": 50,
+    "offset": 0,
+    "count": 14,
+    "data": [
+      {
+        "id": 34136312,
+        "title": "Vagaro Rolls Out Smarter Med Spa Software to Connect Treatment Data With Revenue",
+        "url": "https://talkmarkets.com/article/vagaro-rolls-out-smarter-med-spa-software-to-connect-treatment-data-with-revenue-571255",
+        "publisher": "TalkMarkets",
+        "published_date": "2026-09-08T14:12:08",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Vagaro rolled out upgraded medical spa software with enhanced SOAP Notes and Custom Fields to connect treatment data with revenue. The HIPAA-compliant features let providers capture before-and-after photos, tag products, and standardize patient records. Vagaro reports nearly 4 million appointments booked this year and plans to keep building med spa-specific tools.",
+        "word_count": 740,
+        "original_language": "EN",
+        "author": "Daphne Basset",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Multi-Location & Enterprise Practice Operations",
+            "code": "HLACADAG",
+            "is_primary": true
+          },
+          {
+            "name": "Patient Billing, Statements & Payment Processing",
+            "code": "HLACACAG",
+            "is_primary": false
+          },
+          {
+            "name": "Nursing, Clinical Notes & Documentation Workflow Tools",
+            "code": "HLACAAAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "323",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "fred helou",
+            "bailey ames"
+          ],
+          "location": [],
+          "product": [
+            "vagaro",
+            "custom fields"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9241,
+        "group_id": 10447338,
+        "full_text": "Vagaro Rolls Out Smarter Med Spa Software to Connect Treatment Data With Revenue Share:\n\nVagaro, a widely used platform for medical spa, beauty, wellness, and fitness businesses, has rolled out new medical spa software upgrades aimed at turning everyday treatment data into measurable business value. The rollout centers on stronger SOAP Notes and Custom Fields, both built to be HIPAA compliant while tightening up clinical workflows across the platform. \"Having access to all the information, transaction lists, and dashboards has helped us make critical business decisions throughout the quarters and years,\" said Bailey Ames, Co-Founder of Lash + Company, a leading med spa enterprise. As med spas scale up services, open new locations, and see growing patient volumes, documentation demands are climbing right along with them. Providers still need to move quickly without sacrificing accuracy or consistency. With nearly 4 million appointments booked through Vagaro so far this year, the company says it's building its updates directly around how providers actually work day to day. These latest changes tie together several stages of the patient journey — consultation, treatment documentation, product tracking, inventory, billing, and checkout — into one connected workflow, helping practices manage more information without sacrificing the patient experience. Upgraded SOAP Notes Bring More Depth to Treatment Documentation The revamped SOAP Notes give providers a more dynamic way to handle EMR charting. Practitioners can now capture before-and-after photos mid-treatment and use them to visually document procedures as they happen. Photos can be annotated to mark treatment areas, making it easier to flag injection points, laser zones, or spots needing follow-up. Providers can also tag products and quantities directly to specific areas in treatment images, creating a precise record of what was used where. That data flows back into Vagaro's core platform, sharpening clinical clarity and communication between team members. Because product assignments are tracked automatically and carried through to checkout, treatment documentation stays linked to billing and inventory in real time — helping practices cut down on missed charges and keep inventory numbers accurate. To speed things up further, the new SOAP Notes support reusable dot phrases, letting providers complete detailed notes faster while keeping documentation consistent across the practice. Custom Fields Strengthen Consistency in Patient Records Vagaro's Custom Fields feature has also been expanded, giving med spas more flexibility in how they capture and organize patient information. Practices can use it to collect details like allergies, medications, skin type, and treatment history right on intake and consultation forms, with everything stored directly in the patient profile. That standardization helps keep records consistent across providers and locations, which matters when patients see multiple practitioners over time. It also reduces the odds of important details slipping through the cracks and makes information easier to find and review later. Because Custom Fields can capture key details before an appointment even starts, providers spend less time gathering information during the visit itself — freeing them up to focus on treatment and the overall patient experience. Connecting the Treatment Room to the Business Side Together, the enhanced SOAP Notes and Custom Fields create a more unified workflow — linking patient intake and treatment documentation with product management, injectable tracking, inventory, digital consent forms, and checkout. That gives providers a fuller picture of each treatment and everything tied to it. For multi-location med spas, this can mean more operational consistency across sites; for smaller, independent practices, it's a way to streamline daily workflow without added complexity. Either way, the platform is designed to keep documentation accurate and HIPAA-compliant while supporting the everyday balance between patient care and business needs. \"These features are designed to reflect how med spas actually work,\" said Vagaro CEO Fred Helou. \"By connecting what happens in the treatment room directly to inventory and checkout, we're helping practices protect their patients, improve accuracy, save time, and operate more effectively.\" Vagaro says it plans to keep building out tools tailored specifically to med spas, serving everything from small independent practices to larger enterprise operations. The goal, according to the company, is to help providers deliver strong patient care while giving them the operational tools to grow. With clinical documentation now more tightly connected to business operations, med spas using Vagaro can track treatment information, products, inventory, and checkout through a single, connected system a shift that's likely to matter more as the industry keeps expanding.\n\nDiscover RevTech News for the latest updates on financial innovation and revenue-driven technology. Read related news - https://revtech-news.com/cyara-apac-names-ben-corser-for-regional-growth/\n\n"
+      },
+      {
+        "id": 34121644,
+        "title": "Vagaro Expands Medical Spa Software With New Documentation Tools",
+        "url": "https://talkmarkets.com/article/vagaro-expands-medical-spa-software-with-new-documentation-tools-594902",
+        "publisher": "TalkMarkets",
+        "published_date": "2026-09-08T08:41:20",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Vagaro expanded its medical spa software with enhanced SOAP Notes and Custom Fields, enabling visual treatment documentation and customizable patient data. The updates connect treatment records with inventory and billing, aiming to reduce revenue leakage and streamline workflows. The company says the platform supports practices from small to large.",
+        "word_count": 1074,
+        "original_language": "EN",
+        "author": "Digital Marketer",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Nursing, Clinical Notes & Documentation Workflow Tools",
+            "code": "HLACAAAG",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Billing & Coding Automation",
+            "code": "HLACACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "medical spa software",
+            "soap notes",
+            "products",
+            "packages"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8527,
+        "group_id": 10447338,
+        "full_text": "Vagaro Expands Medical Spa Software With New Documentation Tools Share:\n\nVagaro is expanding its platform for medical spas with new clinical documentation capabilities designed to connect patient care, treatment records, inventory, and billing more closely. The latest updates to its medical spa software introduce enhanced SOAP Notes and Custom Fields, giving providers more flexible ways to document treatments and manage important patient information. Vagaro Enhances Medical Spa Workflows Medical spas increasingly need technology that can support both clinical documentation and day-to-day business operations. Providers must maintain detailed treatment records while also managing products, inventory, appointments, payments, and patient relationships. Vagaro's latest updates address this challenge by creating a more connected workflow between treatment documentation and business operations. The company says the enhanced features are designed to help practices improve documentation accuracy, streamline clinical workflows, and reduce potential revenue leakage. The update focuses on two key capabilities: enhanced SOAP Notes and Custom Fields. Together, they give medical spas greater flexibility in documenting treatments and collecting patient information. Enhanced SOAP Notes Bring Visual Documentation to Treatments One of the most significant updates is the enhancement of Vagaro's SOAP Notes functionality. The feature allows providers to capture before-and-after photographs during appointments and annotate specific areas directly on the images. For aesthetic procedures, visual documentation can provide an additional layer of detail alongside written treatment notes. Providers can identify treatment areas, document procedures, and create a clearer record of the services performed. The system also allows practitioners to associate products and quantities with specific areas marked on treatment images. This can help teams maintain more detailed records of which products were used during a procedure and where they were applied. Connecting Treatment Records With Inventory and Billing Vagaro is also connecting treatment documentation more closely with inventory management and checkout. When products used during a treatment are recorded within the system, the information can flow into inventory tracking and checkout processes. This creates a more connected operational workflow and can help medical spas account for products used during appointments. The company says this integration can help reduce missed charges, improve inventory accuracy, and ensure products used during treatments are properly reflected in business transactions. For growing medical spas, connecting clinical and operational data can be particularly valuable. Instead of relying on separate processes for documenting procedures, tracking products, and processing payments, teams can manage more of the workflow within the same platform. Faster and More Consistent Clinical Note-Taking The updated SOAP Notes functionality also introduces reusable \"dot phrases.\" These shortcuts allow providers to reuse commonly needed language when preparing clinical documentation. By reducing repetitive typing, the feature can help providers complete notes more efficiently while maintaining greater consistency across patient records. This can be especially useful for practices where providers regularly document similar procedures or treatment protocols. Faster documentation can also reduce the administrative burden placed on practitioners, allowing them to spend more time interacting with patients and managing treatments. Custom Fields Give Medical Spas More Flexibility Alongside the SOAP Notes enhancements, Vagaro has introduced Custom Fields to give medical spas greater control over the patient information they collect and store. Medical practices can use customized fields to capture information such as allergies, medications, skin type, and treatment history. The information is stored within patient profiles, making it easier for providers and staff to access relevant details when needed. Custom Fields can also help standardize how information is collected across a practice. Instead of relying on inconsistent notes or separate documents, medical spas can establish structured fields that match their specific workflows. For practices operating across multiple providers or locations, standardized information collection can support greater consistency and continuity. Building a More Connected Patient Journey The latest features are designed to connect multiple stages of the medical spa workflow. Patient information can begin with intake and consultation, move into treatment documentation, and continue through product tracking, inventory management, and checkout. Vagaro's goal is to bring these activities together within a more unified platform. This approach can help medical spas reduce manual processes and improve visibility across their operations. Providers can access relevant patient information while business teams can gain better insight into products and services associated with treatments. Vagaro's existing medical spa platform also includes online booking, scheduling, electronic forms and consent, integrated payments, memberships, packages, reporting, and patient record capabilities. Supporting Medical Spas as They Grow The latest announcement comes as medical spas continue to expand their services, teams, and patient volumes. As practices grow, managing clinical documentation alongside business operations can become increasingly complex. Vagaro says its platform is designed to support medical spas ranging from smaller practices to larger businesses. Its current medical spa offering combines scheduling, EMR-related functionality, payments, marketing, inventory, and other business management tools in one platform. The company's focus on connecting clinical documentation with operational workflows reflects a broader shift in medical spa technology. Providers are looking for software that does more than manage appointments and payments; they also need tools that can support documentation, patient engagement, inventory, and revenue management. Turning Treatment Data Into Business Insights Treatment documentation contains valuable operational information for medical spas. When that information is connected with inventory and billing, businesses can gain a clearer understanding of how products and services affect revenue. Accurate product tracking can help practices monitor supplies and identify discrepancies. At the same time, better documentation can provide staff with more complete information about previous treatments and products used. Vagaro's expanded capabilities are therefore aimed at both sides of the medical spa business: improving the provider's workflow and helping owners manage the financial and operational aspects of their practices. Vagaro Strengthens Its Medical Spa Platform The launch of enhanced SOAP Notes and Custom Fields marks another step in Vagaro's expansion into medical spa technology. Rather than treating clinical documentation and business management as separate functions, the company is bringing more of these workflows together. With visual treatment documentation, customizable patient fields, product tracking, inventory connections, and checkout integration, the updated platform is designed to help medical spas manage more of their operations from a single system. As medical aesthetics businesses continue to grow, software that can connect patient care with operational and revenue processes could become increasingly important. Vagaro's latest updates position its platform to address these evolving needs while giving medical spas more tools to document treatments, manage patient information, and improve business efficiency. Discover RevTech News for the latest updates on financial innovation and revenue-driven technology. Read related news - https://revtech-news.com/bending-spoons-completes-airtable-acquisition/"
+      },
+      {
+        "id": 33955348,
+        "title": "Vagaro's New Med Spa Software Is Real. The Problem for Investors Is That the Company Isn't Public.",
+        "url": "https://www.ainvest.com/news/vagaro-med-spa-software-real-problem-investors-company-isn-public-2609/",
+        "publisher": "AInvest",
+        "published_date": "2026-09-05T09:42:59",
+        "sentiment": "Positive",
+        "sentiment_score": 0.7147,
+        "ai_summary": "Vagaro announced enhanced SOAP Notes and Custom Fields for its medical spa software, targeting HIPAA-compliant documentation and billing accuracy. The company, private and unlisted, serves over 100,000 businesses with estimated $66 million ARR. The med spa software market is projected to grow from $295 million in 2023 to $708 million by 2030.",
+        "word_count": 1167,
+        "original_language": "EN",
+        "author": "Isaac Lanefollow",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Clinical Coding Support (ICD/CPT/SNOMED) & Documentation Compliance Tools",
+            "code": "HLACAAAO",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Billing & Coding Automation",
+            "code": "HLACACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "fred helou"
+          ],
+          "location": [
+            "canada",
+            "australia",
+            "pleasanton, california",
+            "u.s.",
+            "the uk"
+          ],
+          "product": [
+            "botox",
+            "med spa software",
+            "fillers",
+            "medical spa software",
+            "custom fields",
+            "vagaro",
+            "mindbody"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8646,
+        "group_id": 10447338,
+        "full_text": "On September 4, Vagaro announced two new features for its medical spa software platform — enhanced SOAP Notes and Custom Fields — and called them a way to turn treatment data into revenue. The announcement sounds like the kind of product ramp that, in a public SaaS company, might move the stock. Vagaro isn't public. It is a private company that has not filed for an IPO, and ordinary retail investors have no ticker to buy.\n\nThat alone is the first thing to understand before treating this as an investment lead. But the second thing — why Vagaro is making this move at all, and what the market behind it looks like — is worth the attention. It reveals a real growth story in a niche that sits at the intersection of health care compliance, consumer beauty spending, and small-business software. Understanding it helps you read the sector more clearly, even if you can't own Vagaro itself.\n\nWhat Vagaro actually built\n\nThe announcement centers on two HIPAA-compliant features for the medical spa segment of its platform. SOAP Notes lets providers capture before-and-after photos and mark treatment areas — injection points, laser zones, areas of concern. Practitioners can assign products and quantities to those marked areas, and the data carries automatically through to checkout, inventory, and billing. The idea is to close the gap between what gets done in the treatment room and what gets charged and tracked at the register.\n\nCustom Fields lets med spas collect patient-specific data — allergies, medications, skin type, treatment history — through intake and consultation forms and store it in a central patient profile. Both features are designed to support consistency across providers and locations, reduce missed charges, and improve billing accuracy.\n\nVagaro said nearly 4 million med spa appointments were scheduled through its platform year-to-date as of the announcement.CEO Fred Helou framed the features as designed to reflect how med spas \"actually work,\" helping practices protect patients, improve accuracy, save time, and operate more effectively.\n\nFrom a product standpoint, this is a vertical play. Vagaro is trying to stitch together the two halves of a medical spa business: the clinical side with HIPAA documentation requirements, and the service-business side that lives on bookings, retention, and margins. Most platforms were built for one half or the other. A platform that handles both can lock in deeper adoption — and make switching more costly.\n\nThe market behind the move\n\nThe timing isn't arbitrary. The U.S. medical spa market was valued at roughly $7.4 billion in 2025 and is projected to grow at a mid-teen compound annual rate over the next decade, driven by rising demand for non-invasive aesthetic procedures like Botox, fillers, and laser treatments. The broader global market is estimated to exceed $25 billion.Medical spas operate profit margins of 20% to 25%, with top performers reaching close to 40%.\n\nWithin that industry, the medical spa management software segment is smaller but growing fast. Research firms estimate the market at around $295 million in 2023, projected to reach roughly $708 million by 2030 — more than doubling over seven years. As med spas professionalize and adopt compliance requirements, the software they use to run daily operations becomes more mission-critical.\n\nVagaro itself serves over 100,000 businesses across beauty, wellness, and fitness.Founded in 2009 and based in Pleasanton, California, it raised roughly $163 million in cumulative funding, and achieved a $1 billion unicorn valuation in 2021 when FTV Capital led a funding round.Estimates from private-market trackers put its annual recurring revenue around $66 million in 2024. The company operates in the U.S., Canada, Australia, and the UK.\n\nWhat investors can't ignore: Vagaro is private\n\nHere is where the story diverges from a typical stock research piece. Vagaro has no ticker symbol. It has not filed for an initial public offering. Shares are not available on public exchanges. Private market platforms like Hiive allow accredited investors to express interest in buying or selling shares, but these transactions are illiquid, subject to company approval, and not accessible to the average retail investor.\n\nThere is no public financial filing to examine, no earnings call to parse, no balance sheet to stress-test. The revenue estimates you'll find online — such as the $66 million ARR figure — come from third-party trackers, not company disclosures. The $1 billion to $2.5 billion valuation range cited by private-market databases is inferred from funding rounds and secondary activity, not from a market price.\n\nFor a retail investor, that means Vagaro itself is not an actionable investment. Any article that leads with a product announcement from a private company and doesn't address this constraint is skipping the first question you should ask: can I actually invest in this?\n\nWhat the sector tells you about publicly traded alternatives\n\nThe med spa software market is too niche to support many publicly traded pure-players. Vagaro's closest competitor by category is Mindbody — which went public in 2015, was taken private by Vista Equity Partners in 2019 for $1.9 billion, and reportedly plans a return to public markets. No public offering has materialized as of this writing.\n\nThat leaves investors looking at broader SaaS comparables in the business-software space — companies that serve appointment-based, service businesses more generally. The dynamics are instructive. Public SaaS multiples have compressed significantly across the board, creating a gap between private-market valuations and public-market pricing. The companies that command premiums in public markets are the ones showing revenue acceleration, expanding margins, and clear paths to free cash flow.\n\nThe question for any publicly traded name in this space is the same one that applies to Vagaro's strategy: does the platform's growth story have evidence behind it, in revenue acceleration, customer retention, margin expansion, and whether new product claims convert to measurable demand? Or is the company relying on narrative — that the med spa market is growing, therefore the software built for it must follow?\n\nThe investor takeaway\n\nVagaro's announcement is a genuine product expansion into a clinically regulated, fast-growing vertical. The features address a real operational gap in medical spa management — the friction between clinical documentation and billing — and the strategy of integrating both halves of the business makes sense.\n\nBut for the ordinary investor, the practical lesson is different. Product announcements from private companies tell you where the market is heading, not where you can invest. The med spa software market is growing, and the software layer within it is doubling in size over the next five years. That's a sector trend worth watching. Whether it translates into an investment opportunity depends on whether a company in this space goes public and whether, at that point, its growth, margins, and valuation support the multiple the market assigns.\n\nUntil then, the most useful thing you can do is pay attention to the dynamics — software adoption in professional services, the growing compliance burden on small health-adjacent businesses, and the competitive positioning of platforms that serve them. These are the variables that will matter when the next company in this space files for an IPO, and they may already be shaping the valuations of the publicly traded SaaS names you can own today."
+      },
+      {
+        "id": 25650949,
+        "title": "AI-Driven Platform Updates",
+        "url": "https://www.trendhunter.com/trends/the-yelp-assistant",
+        "publisher": "TrendHunter.com",
+        "published_date": "2026-04-22T10:05:04",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Yelp announced its Spring Product Release 2026, introducing over 35 AI-powered updates centered on the Yelp Assistant, a conversational tool enabling users to search, ask questions, and complete transactions like booking, ordering, or scheduling within a single interface. The update expands integrations with Vagaro, Zocdoc, and Calendly for bookings across beauty, wellness, healthcare, and service categories, while Menu Vision has been enhanced to overlay dish photos and details onto physical menus using a phone camera. The release reinforces Yelp's shift toward a more action-oriented, conversational user experience across the platform.",
+        "word_count": 344,
+        "original_language": "EN",
+        "author": "Amy Duong",
+        "countries": [],
+        "industries": [
+          {
+            "name": "POI, Local Listings & Business Directory Platforms",
+            "code": "BPAMANAD",
+            "is_primary": true
+          },
+          {
+            "name": "Tours, Activities & Experiences Booking Marketplaces",
+            "code": "THALAFAF",
+            "is_primary": false
+          },
+          {
+            "name": "Beauty & Personal Care Marketplaces",
+            "code": "CRAFABAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Digital Transformation",
+            "code": "SD06",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00006rw",
+            "name": "Calendly",
+            "website": "https://calendly.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002mqx",
+            "name": "Yelp",
+            "website": "https://yelp.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000snq",
+            "name": "Zocdoc",
+            "website": "http://www.zocdoc.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001182",
+            "name": "social media"
+          },
+          {
+            "code": "20000762",
+            "name": "identification technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "628",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "WQC6HR",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51929",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "amy duong"
+          ],
+          "location": [],
+          "product": [
+            "yelp assistant"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8084,
+        "group_id": 272532,
+        "full_text": "Yelp Spring Product Release 2026 Introduces the Yelp Assistant Amy Duong — April 22, 2026 — Tech Share on Facebook Share on Twitter Share on LinkedIn Share on Pinterest The Yelp Spring Product Release 2026 introduces more than 35 updates centered on AI-powered discovery and action within the platform. The headline feature is the Yelp Assistant, a conversational tool that allows users to search, ask questions, and complete actions like booking, ordering, or scheduling within a single interface. Built on Yelp’s dataset of reviews, photos, and business information, it delivers responses grounded in real user content while guiding users from discovery to transaction without leaving the app.\n\n\n\nThe update expands integrations with platforms including Vagaro, Zocdoc, and Calendly, enabling bookings across beauty, wellness, healthcare, and service categories. Menu Vision has also been enhanced to overlay dish photos and details onto physical menus using a phone camera, making dining decisions more visual.\n\n\n\nAdditional tools include advertiser-facing AI support features and improved scheduling capabilities, reinforcing a shift toward a more action-oriented, conversational user experience across the platform.\n\n\n\nImage Credit: Yelp Trend Themes Conversational Commerce Platforms — A single conversational interface that moves users from discovery to transaction within one app enables seamless commerce tied to real-world business listings. Integrated Booking Ecosystems — Expanded API integrations with scheduling and booking services allow unified appointment orchestration across beauty, wellness, and healthcare verticals. Augmented Menu Visualization — Overlaying dish photos and details onto physical menus with a camera creates richer, context-aware dining decisions that blend visual recognition with user-generated content. Industry Implications Local Services and Appointments — Providers of local services benefit from platforms that centralize bookings and client interactions, reshaping how appointments are sourced and confirmed. Restaurant and Dining Technology — Dining establishments stand to gain from enhanced visual menu tools that connect in-person experiences to online reviews and ordering workflows. Digital Advertising and Marketing — Advertisers and agencies can leverage advertiser-facing AI features to produce more contextually relevant promotions grounded in authentic user content. 5.2 Score Popularity Activity Freshness VIEW MORE STATS expand_more GET A CUSTOM REPORT SUBSCRIBE TO ADVISORY"
+      },
+      {
+        "id": 35490554,
+        "title": "Yelp Launches the New Yelp Assistant in Spring Release",
+        "url": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=174488",
+        "publisher": "CRM Magazine",
+        "published_date": "2026-04-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Yelp launched its Spring Product Release with over 35 new features, including the Yelp Assistant AI chatbot. The assistant works across all categories and integrates with Vagaro, Zocdoc, and Calendly for booking. It is accessible via a new Assistant tab on iOS and Android.",
+        "word_count": 518,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+            "code": "HDAAAFAC",
+            "is_primary": true
+          },
+          {
+            "name": "Local Search & Business Directories",
+            "code": "BPAMAAAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00006rw",
+            "name": "Calendly",
+            "website": "https://calendly.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002mqx",
+            "name": "Yelp",
+            "website": "https://yelp.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000snq",
+            "name": "Zocdoc",
+            "website": "http://www.zocdoc.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "628",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "W3CW2J",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "5132",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7310",
+            "name": "SERVICES-ADVERTISING"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "craig saldanha"
+          ],
+          "location": [
+            "ios",
+            "android"
+          ],
+          "product": [
+            "yelp assistant"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9435,
+        "group_id": 272532,
+        "full_text": "Yelp Launches the New Yelp Assistant in Spring Release\nYelp launched its Spring Product Release with more than 35 new features and updates, including the new Yelp Assistant, an AI-powered chatbot that delivers instant answers, reliable recommendations, and seamless booking in one conversation.\nNew integrations with Vagaro, Zocdoc and Calendly expand scheduling capabilities across more categories on Yelp, while enhancements to AI-powered Menu Vision make deciding what to order more visual and engaging. The release also introduces new tools for advertisers, including an AI-powered support chatbot and enhanced advertising tools.\n\"The new Yelp Assistant is our most significant AI product evolution yet as we reconceive Yelp around instant answers and seamless actions,\" said Craig Saldanha, chief product officer at Yelp, in a statement. \"The experiences and opinions from real people that power every recommendation are what sets Yelp Assistant apart, delivering trustworthy results that help consumers make confident decisions, faster. And for the first time, consumers can seamlessly move from discovery to action in a single conversation with new and enhanced integrations, from booking a table to ordering delivery or scheduling an appointment. As we transform Yelp with AI, this is only the beginning of a more conversational, personalized, and action-oriented Yelp experience.\"\nFirst introduced to help consumers hire services professionals and answer questions about individual businesses, Yelp Assistant now works across every category on Yelp and is accessible at the center of the app through a new \"Assistant\" tab on iOS and Android. Powered by hundreds of millions of reviews, photos and detailed business information from the Yelp community, Yelp Assistant can handle complex and highly specific requests and surfaces real user-generated content from first-hand experiences in answers to validate each recommendation.\nThe new integrations available through Yelp Assistant are now also accessible throughout the Yelp app and include the following:\n- Vagaro: Consumers can now book beauty and wellness appointments, such as haircuts, massages, and nail services.\n- Zocdoc: Consumers can go from finding to booking a doctor on Yelp.\n- Calendly: Service professionals can now connect their Calendly schedules to Yelp, allowing consumers to book consultations and appointments.\nAdditional features and updates from Yelp's 2026 Spring Product Release include the following:\n- Enhanced Menu Vision that now overlays photos of dishes, drinks, and desserts directly over text-based menus when viewed through diners' phone cameras. \"Popular\" badges call out standout items, and with one tap, consumers can read reviews about the item. Plus, expanded coverage and improved matching accuracy mean more items are recognized across more restaurants. Menu Vision is available on iOS and Android from business media galleries or directly from business pages under the menu section.\n- A more personalized and engaging home feed on iOS now surfaces more relevant, tailored content, more updates from people users follow, immersive full-screen videos and smarter nearby recommendations.\n- Smarter photo discovery with natural language search within business media galleries.\n- AI-powered chat support for advertisers that helps business owners get answers and resolve issues faster. Built with advanced large language models, the chatbot delivers conversational assistance across a wide range of support topics and provides intelligent real-time solutions.\n- New tools to help businesses manage leads and optimize their advertising."
+      },
+      {
+        "id": 35486611,
+        "title": "Yelp's AI Assistant Can Now Book Restaurants, Doctors, and More",
+        "url": "https://www.macrumors.com/2026/04/21/yelp-ai-assistant/",
+        "publisher": "MacRumors",
+        "published_date": "2026-04-21T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Yelp is expanding its AI Assistant chatbot to book restaurants, doctors, and other services, rolling out today. The assistant uses hundreds of millions of reviews and integrates Vagaro, Zocdoc, and Calendly. It also adds a personalization model for the iPhone and iPad feed and photo overlays for Menu Vision.",
+        "word_count": 227,
+        "original_language": "EN",
+        "author": "Juli Clover",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+            "code": "HDAAAFAC",
+            "is_primary": true
+          },
+          {
+            "name": "Travel, Hospitality & Local Discovery Recommendations",
+            "code": "HDAAAGAG",
+            "is_primary": false
+          },
+          {
+            "name": "Search, Discovery & Ranking Personalization",
+            "code": "HDAAAGAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00006rw",
+            "name": "Calendly",
+            "website": "https://calendly.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002mqx",
+            "name": "Yelp",
+            "website": "https://yelp.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000snq",
+            "name": "Zocdoc",
+            "website": "http://www.zocdoc.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001363",
+            "name": "taxi and ride-hailing"
+          },
+          {
+            "code": "20000558",
+            "name": "restaurant"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "627",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "7225",
+            "name": "Accommodation and Food Services"
+          },
+          {
+            "code": "72251",
+            "name": "Accommodation and Food Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "ipad",
+            "iphone",
+            "yelp assistant",
+            "vagaro",
+            "calendly",
+            "ai assistant",
+            "zocdoc",
+            "yelp app"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7603,
+        "group_id": 866964,
+        "full_text": "Yelp is introducing an expanded version of its Yelp Assistant, an agentic chatbot that is able to answer questions, suggest places to visit, and complete tasks like booking a restaurant reservation.\n\n\n\nAnswers rely on hundreds of millions of Yelp reviews sourced from real people, which Yelp says allows the assistant to address \"complex and highly specific requests.\" Yelp Assistant was previously available for hiring service professionals and getting answers to questions about businesses, but now it is available across all Yelp categories.\n\nUsers are able to ask specific questions when looking for a location, such as \"birthday dinner spots with vegan options and heated outdoor seating,\" or \"top-rated gyms with group classes and childcare.\"\n\nWith the AI Assistant, users can start out by asking questions to find a suitable location, and then make reservations, book appointments, place delivery orders, or get quotes in the same conversation. Yelp is adding new integrated services including Vagaro, Zocdoc, and Calendly.\n\nThere is a new AI-powered personalization model for the Yelp home feed on the iPhone and iPad , and it is able to surface more relevant content and improved recommendations.\n\nYelp is also updating its AI Menu Vision feature with support for photo overlays so users can see what popular dishes, drinks, and desserts look like.\n\nThe Yelp Assistant is rolling out today and it is accessible through a new Assistant tab in the Yelp app."
+      },
+      {
+        "id": 24316244,
+        "title": "Earn calmly while they relax: 10 best spa management software for hotels",
+        "url": "https://coaxsoft.com/blog/10-best-spa-management-software-for-hotels",
+        "publisher": "COAX Software",
+        "published_date": "2026-04-10T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5979,
+        "ai_summary": "This article is a comprehensive buying guide reviewing 10 spa management software platforms for hotel spas, including Book4Time, Zenoti, Mindbody, HOTELTIME, Trybe, Crqlar, Vagaro, Mangomint, Boulevard, and Anolla, covering their features, pricing models, target users, and key integrations. The article also discusses critical PMS integrations, implementation best practices, and positions custom software development as an alternative for hotels with complex requirements. COAX Software published the guide as promotional content for its custom development services.",
+        "word_count": 7798,
+        "original_language": "EN",
+        "author": "Go To Author Pageivan Verkaletscto",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Point-of-Sale (POS) & On-Property Commerce",
+            "code": "THALACAI",
+            "is_primary": true
+          },
+          {
+            "name": "Vacation Rental & Short-Stay Booking Engines",
+            "code": "THALADAB",
+            "is_primary": false
+          },
+          {
+            "name": "Customer Support, Case Management & Service Automation for TMCs",
+            "code": "THALAMAO",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0009kl8",
+            "name": "COAX Software",
+            "website": "https://coaxsoft.com/?utm_source=crunchbase&utm_medium=refferal&utm_campaign=directory",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003w9",
+            "name": "Zenoti",
+            "website": "http://www.zenoti.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002uwf",
+            "name": "Book4Time",
+            "website": "http://www.book4time.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0003eye",
+            "name": "Crqlar",
+            "website": "https://www.crqlar.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0008n5q",
+            "name": "Trybe",
+            "website": "https://try.be/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000gop7",
+            "name": "HotelTime Solutions",
+            "website": "https://www.hoteltime.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00005dt",
+            "name": "Boulevard",
+            "website": "https://joinblvd.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007y4",
+            "name": "Mangomint",
+            "website": "https://www.mangomint.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002j5r",
+            "name": "Mindbody",
+            "website": "https://www.mindbodyonline.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000333",
+            "name": "hotel and accommodation"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "671",
+            "name": "Travel"
+          },
+          {
+            "code": "668",
+            "name": "Travel"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "5615",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "maryna verbovska",
+            "samkange",
+            "ivan verkalets",
+            "mandelbaum",
+            "grigg",
+            "casillo"
+          ],
+          "location": [
+            "u.s.",
+            "european",
+            "iceland",
+            "eu"
+          ],
+          "product": [
+            "hoteltime",
+            "zenoti",
+            "trybe",
+            "mindbody",
+            "book4time",
+            "vagaro",
+            "mangomint",
+            "anolla",
+            "crqlar",
+            "boulevard",
+            "spa management software",
+            "coax software",
+            "hotel spa software",
+            "spa software",
+            "hotel spa management software",
+            "rooms",
+            "spa appointment software",
+            "software",
+            "spa booking software",
+            "wellness software",
+            "spa accounting software",
+            "spa reservation software",
+            "spa business management software",
+            "spa platform",
+            "booking engine",
+            "spa scheduling software",
+            "apple pay",
+            "gift cards",
+            "google pay",
+            "retail products",
+            "visbook",
+            "roomraccoon",
+            "anolla hotel spas",
+            "libero spa module",
+            "spa cloud software",
+            "mobile app",
+            "oracle opera",
+            "spa module",
+            "branded spa software app",
+            "payment processor",
+            "accounting tool",
+            "platform",
+            "payment gateway",
+            "spa software app",
+            "android",
+            "ios",
+            "mobile spa software",
+            "web platforms",
+            "off-the-shelf platforms",
+            "wellness platforms",
+            "booking widget",
+            "packaged software",
+            "off-the-shelf software",
+            "spa manager software",
+            "spa management system"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9394,
+        "group_id": 183927,
+        "full_text": "Go to author page Ivan Verkalets CTO, Co-Founder COAX Software Go to author page Maryna Verbovska Content writer Earn calmly while they relax: 10 best spa management software for hotels Published: Apr 10, 2026 Updated: Apr 10, 2026 0 min read Summarize: ChatGPT Perplexity Claude Grok Google AI Table of Contents What is spa management software?\n\nWhy hotels need spa management software\n\nKey features of spa management software\n\nCritical integrations for hotel spa systems\n\nBest hotel spa management software\n\nHow to choose the right spa software\n\nImplementation best practices\n\nFAQ Stay with us: COAX Linkedin button COAX Dribbble button At 1 am, your hotel’s guest decides they desperately need a hot stone massage in the morning. What are their next steps? Should they wait till the front desk opens to find out everything is booked? Meanwhile, the 9 am guest doesn’t show, costing you the business and your guest the self-care moment. They leave a negative review of your inefficient spa booking. Or maybe it’s time to get some good spa management software and let them book in a few taps, knowing availability in real-time? We compiled a list of the best options to choose from: Book4Time is the choice for luxury hotel chains needing deep PMS connectivity.\n\nis the choice for luxury hotel chains needing deep PMS connectivity. Zenoti works best for multi-location franchise operators running dozens of properties.\n\nworks best for multi-location franchise operators running dozens of properties. Mindbody suits hospitality and wellness businesses that want marketplace exposure.\n\nsuits hospitality and wellness businesses that want marketplace exposure. HOTELTIME gives hotel spas full scheduling functionality without the enterprise price.\n\ngives hotel spas full scheduling functionality without the enterprise price. Trybe fits boutique and multi-property hotels that want modern and simple UX.\n\nfits boutique and multi-property hotels that want modern and simple UX. Crqlar is the GDPR-native pick for independent European hotels wanting solid basics at a low monthly cost.\n\nis the GDPR-native pick for independent European hotels wanting solid basics at a low monthly cost. Vagaro serves well for independent spa and salon owners who need broad functionality at an accessible price.\n\nserves well for independent spa and salon owners who need broad functionality at an accessible price. Mangomint is built by spa owners for spa owners, and the interface reflects that.\n\nis built by spa owners for spa owners, and the interface reflects that. Boulevard serves larger independent spas where retention is a core revenue strategy.\n\nserves larger independent spas where retention is a core revenue strategy. Anolla is the AI-native option for wellness centers ready to automate guest communication.\n\nis the AI-native option for wellness centers ready to automate guest communication. Custom development wins when your workflows, integrations, or brand identity have outgrown any packaged tool. If you want to give zen to your guests and spa receptionists (and unite it with accounting, management, and marketing), this guide is for you. We cover the main users, features, and key integrations you need for your hotel spa software needs. Then, we review the top off-the-shelf tools and compare them to a fully custom roadmap (with some insider tips). ‍ What is spa management software? Spa management software is a purpose-built digital platform that handles the operational and business side of running a spa. It covers everything from booking appointments and tracking client histories to processing payments, managing staff schedules, and reporting revenue. Overall, it’s the nervous system of a spa business. Without it, everything runs on clipboards, spreadsheets, and memory, while with it, the whole operation connects. According to Samkange and his team, operations management in a spa context means transforming inputs such as staff, proprietary treatments, and physical facilities into measurable guest experiences. Spa management software is the tool that makes this transformation trackable, repeatable, and profitable. Market overview The global spa industry hit $18.1 billion in revenue in 2021, a 49% jump from the year before, with 173 million visits recorded in the U.S. alone. Globally, the market is on track to exceed $185 billion by 2030. The hotel spa software segment sits at the center of this growth. A 2025 CBRE Hotels analysis of 297 U.S. hotel spas found that spa revenue averaged $6,061 per available room, contributing 3.4% of total hotel revenue. At luxury properties, the share jumps to 4.2%. So if you’re still treating your spa returns as a side business, it’s time to rethink. Spa is a revenue line that hotel operators now manage as seriously as rooms or food and beverage. The spa business software market reflects that pressure. It’s projected to reach $2.92 billion by 2035, growing at a compound annual rate of 19.6%. However, challenges are still evident. For instance, 42% of small spa operators say upfront software costs are a genuine barrier, and 54% of SMEs using cloud-based systems report gaps in data compliance. There’s a massive demand, but the friction is big, as well. Core purpose The main purpose is clear: spa software exists to turn a complex, people-heavy operation into something one person can actually manage. Every hotel spa runs on a web of separate processes, services, and people. Therapists, rooms, products, bookings, guests, hotel systems, payroll. Hotel spa management software pulls all of that into a single place so nothing falls through the cracks and every decision is backed by real numbers. That one statement breaks down into four specific jobs the software does. Function What it solves Business result Scheduling and capacity Empty rooms, double bookings, therapist conflicts Higher room utilization, fewer errors, optimized labor Guest experience tracking Impersonal service, lost client preferences, zero continuity Repeat visits, stronger loyalty, personalized treatment Revenue management Underpriced packages, missed upsells, opaque retail performance Higher revenue per visit, better package design, and retail growth Operations and compliance Manual scheduling, inventory gaps, payroll complexity Reduced admin time, accurate stock levels, and clear cost reporting Scheduling and capacity control. Treatment rooms sit empty when bookings are mismanaged. Spa software systems optimize therapist availability, room assignments, and appointment flow in real time, reducing idle time and double-booking errors.\n\nTreatment rooms sit empty when bookings are mismanaged. Spa software systems optimize therapist availability, room assignments, and appointment flow in real time, reducing idle time and double-booking errors. Guest experience tracking. A returning guest should never have to explain their preferences twice. The software stores treatment histories, skin profiles, allergy notes, and past purchases so therapists can personalize every visit.\n\nA returning guest should never have to explain their preferences twice. The software stores treatment histories, skin profiles, allergy notes, and past purchases so therapists can personalize every visit. Revenue management. Pricing, packages, retail add-ons, memberships, gift cards. The software tracks what sells and what doesn't, surfaces upsell opportunities, and connects spa revenue to the broader hotel financial picture.\n\nPricing, packages, retail add-ons, memberships, gift cards. The software tracks what sells and what doesn't, surfaces upsell opportunities, and connects spa revenue to the broader hotel financial picture. Operations and compliance. Staff scheduling, payroll data, inventory levels, product usage logs. The system keeps daily operations running and gives managers a clear picture of where costs are going. Now that we know why you need such a type of solution for your business, let’s define who exactly benefits from using it daily. Key users: who uses this software day to day? The short answer is everyone who touches the spa operation, and that group is larger than most people assume. Mandelbaum and Grigg found that staffing structures in 297 hotels range from lean urban operations relying heavily on contract therapists (up to 17.9% of payroll at city hotels) to full resort spa teams with senior therapists, front-of-house hosts, retail staff, and dedicated spa managers. Each of these roles interacts with the software differently. Front desk and reception staff are the primary daily users of spa appointment software. They manage the booking flow: new reservations, cancellations, rebooking, check-ins, and waitlists. At a resort spa seeing hundreds of guests a week, this happens in real time across multiple channels: walk-in, phone, hotel concierge, and online booking. The software needs to be fast and impossible to break under pressure.\n\nThey manage the booking flow: new reservations, cancellations, rebooking, check-ins, and waitlists. At a resort spa seeing hundreds of guests a week, this happens in real time across multiple channels: walk-in, phone, hotel concierge, and online booking. The software needs to be fast and impossible to break under pressure. Spa directors and operations managers spend more time in reporting and staffing views. They track therapist utilization, monitor revenue by service type, and manage scheduling to balance labor costs against demand.\n\nThey track therapist utilization, monitor revenue by service type, and manage scheduling to balance labor costs against demand. Finance and back-office teams work primarily in spa accounting software, pulling reports on revenue per treatment room, cost of goods sold, retail margins, and labor as a percentage of revenue. In 2024, CBRE data showed that labor costs rose 3.9% while spa revenues grew only 1.4%. That kind of pressure makes accurate, real-time financial data non-negotiable. Therapists and treatment staff use the system indirectly, accessing client notes before appointments and logging treatment records after. Hotels like The Retreat at Blue Lagoon in Iceland or luxury urban properties expanding their local market reach (a trend Mandelbaum and Grigg highlight) need software that works for all of these users simultaneously, across different access levels and different daily realities. ‍ Why hotels need spa management software Hotels do not run spas the way standalone day spas do. The context is completely different, and that difference is exactly why generic wellness software falls short and purpose-built hotel spa software exists. Here is what makes the hotel spa environment uniquely demanding. Your spa is inside a larger operational machine. A hotel is a system. When a guest books a treatment through the front desk, that interaction needs to connect to therapist availability, room scheduling, and the final folio. When it does not connect, guests get double-booked, or charges appear on the wrong account. Samkange and colleagues describe that spa organizations need to operate as unified systems, combining various processes to deliver a complete customer experience. Revenue per visit depends on information you don’t have without the software. The average U.S. spa visit generates $104.50 in revenue. That number comes from upsells, retail add-ons, packages, and repeat bookings. All of those depend on knowing who your guest is, what they have had before, and what they are likely to want next. Without consolidated hotel data management, that knowledge disappears. With it, your team can surface the right offer at the right moment without guessing. Spa booking software solves the problem guests never tell you about. Guests do not complain about a clunky booking experience. They just do not come back. Spa booking software handles online reservations, cancellations, waitlists, and confirmation messages in a way that feels effortless from the guest side. More practically, it removes the phone call from the equation entirely for guests who will not make one. Staff and facility scheduling is a precision problem. Managing therapist availability, room turnovers, break times, and service durations manually across a busy hotel spa is not a scheduling challenge. It is a math problem that humans are not built to solve in real time. Hotel spas using software can monitor cleaning schedules and available time slots continuously, reducing wait times and eliminating gaps that kill upsell opportunities before they start. No-show losses are preventable. A spa treatment room being empty because a guest did not show up is pure lost revenue. There is no way to recover that hour. The room, the therapist, the time: all gone. No-show policies enforced through software, deposit requirements at booking, automated reminders, and waitlist filling turn what used to be an accepted loss into a recoverable one. Retail is a revenue line where most hotel spas underperform. Between 15% and 30% of spa service revenue can come from retail. Most hotel spas leave a significant portion of that on the table because there is no system tracking what was sold, what was recommended, what ran out, or what a returning guest bought last time. Inventory management inside your spa platform closes that gap without requiring a separate retail system. These benefits you get from hotel spa management software are a real reason to get one. If this breakdown helped you realize you need such a solution, let’s move to defining the functionality you need in it. ‍ Key features of spa management software Some systems handle bookings well but fall short on reporting. Others have strong staff management but no retail logic. The best spa business management software covers all of it in one place, without requiring you to stitch together five different tools. Here is what you should expect from a serious platform, and why each piece matters. Feature What it covers Online booking 24/7 self-service, multi-channel reservations, room and therapist assignment Client profiles Treatment history, preferences, allergies, targeted campaigns Staff scheduling Qualification-based assignment, real-time availability, guest provider choice Yield management Tiered pricing, demand forecasting, peak and off-peak optimization Inventory tracking Real-time stock levels, auto-adjustment per sale, low-stock alerts Communication Automated confirmations, reminders, post-visit follow-up, no-show reduction Loyalty programs Automatic point tracking, spend and visit history, redemption management Reporting and analytics Revenue per room, therapist utilization, labor ratios, custom dashboards Data security PCI compliance, encrypted profiles, role-based access, audit trails Client profiles and personalization. A guest who gets a female therapist because they requested one once, two visits ago, without asking again: that is what a client profile does. It stores booking history, treatment preferences, contact information, allergies, and notes. This is where hotel personalization strategies concretely connect to spa operations. Stored guest data lets you build targeted campaigns: a birthday offer tied to a past treatment, a package recommendation based on what someone books most, a re-engagement message timed to their usual visit frequency.\n\nA guest who gets a female therapist because they requested one once, two visits ago, without asking again: that is what a client profile does. It stores booking history, treatment preferences, contact information, allergies, and notes. This is where hotel personalization strategies concretely connect to spa operations. Stored guest data lets you build targeted campaigns: a birthday offer tied to a past treatment, a package recommendation based on what someone books most, a re-engagement message timed to their usual visit frequency. Online booking and self-service. Guests book at midnight. They book from their room. They book on their phone before the flight lands to get rid of the neck soreness. Online spa booking software that gives guests instant, around-the-clock access to your full service menu removes friction at the exact moment a guest is ready to spend. The practical benefit goes both ways. Fewer phone calls to reception, fewer front-desk bottlenecks, and a lower labor cost per booking. At the same time, spa reservation software prevents double-bookings, assigns the right therapist to the right room, and accounts for setup and turnover time between appointments automatically.\n\nGuests book at midnight. They book from their room. They book on their phone before the flight lands to get rid of the neck soreness. Online spa booking software that gives guests instant, around-the-clock access to your full service menu removes friction at the exact moment a guest is ready to spend. The practical benefit goes both ways. Fewer phone calls to reception, fewer front-desk bottlenecks, and a lower labor cost per booking. At the same time, spa reservation software prevents double-bookings, assigns the right therapist to the right room, and accounts for setup and turnover time between appointments automatically. Yield management and dynamic pricing. Hotels have used yield management for decades. Modern spa platforms now apply the same logic: tiered pricing based on demand, time of day, and booking lead time. High-demand slots hold their price. Low-demand slots become accessible to price-sensitive guests who fill your schedule and keep revenue moving. The goal is to maximize revenue per treatment room hour.\n\nHotels have used yield management for decades. Modern spa platforms now apply the same logic: tiered pricing based on demand, time of day, and booking lead time. High-demand slots hold their price. Low-demand slots become accessible to price-sensitive guests who fill your schedule and keep revenue moving. The goal is to maximize revenue per treatment room hour. Inventory management. Running out of a product mid-treatment is unprofessional. A good spa platform tracks inventory in real time, adjusts quantities automatically after each sale or return, and alerts you before a product runs low. The system can also flag recommended products at the point of sale so checkout staff can suggest retail items tied to the treatment just completed, without relying on memory.\n\nRunning out of a product mid-treatment is unprofessional. A good spa platform tracks inventory in real time, adjusts quantities automatically after each sale or return, and alerts you before a product runs low. The system can also flag recommended products at the point of sale so checkout staff can suggest retail items tied to the treatment just completed, without relying on memory. Staff scheduling and management. Spa staffing is complex. You have therapists who specialize in specific treatments, guests who request specific providers, and shift patterns that need to align with appointment start and end times without gaps or clashes. The best spa scheduling software lets you build staff schedules around actual bookings, assign services to therapists by qualification, and give guests the option to choose their provider at the time of booking. When integrated with your booking engine, the system updates availability in real time as appointments are confirmed, moved, or canceled.\n\nSpa staffing is complex. You have therapists who specialize in specific treatments, guests who request specific providers, and shift patterns that need to align with appointment start and end times without gaps or clashes. The best spa scheduling software lets you build staff schedules around actual bookings, assign services to therapists by qualification, and give guests the option to choose their provider at the time of booking. When integrated with your booking engine, the system updates availability in real time as appointments are confirmed, moved, or canceled. Communication and no-show reduction. Automated booking confirmations, pre-appointment reminders, and post-treatment follow-up emails are the simplest tools available to reduce that loss. Automated communication also keeps your spa visible between visits. Promotions, seasonal packages, loyalty updates, and event invitations can all go out through templated campaigns triggered by guest behavior.\n\nAutomated booking confirmations, pre-appointment reminders, and post-treatment follow-up emails are the simplest tools available to reduce that loss. Automated communication also keeps your spa visible between visits. Promotions, seasonal packages, loyalty updates, and event invitations can all go out through templated campaigns triggered by guest behavior. Loyalty programs. Repeat business is more profitable than acquisition. A loyalty feature built into your spa platform tracks visits, total spend, and referrals automatically, awarding points guests can redeem without any manual administration on your end. Loyalty tracking tells you who your highest-value guests are, what they respond to, and when they tend to book. This helps your marketing and scheduling operations greatly.\n\nRepeat business is more profitable than acquisition. A loyalty feature built into your spa platform tracks visits, total spend, and referrals automatically, awarding points guests can redeem without any manual administration on your end. Loyalty tracking tells you who your highest-value guests are, what they respond to, and when they tend to book. This helps your marketing and scheduling operations greatly. Reporting and analytics. Daily visibility into revenue per treatment room, therapist utilization, service mix, retail performance, and labor as a percentage of revenue is what separates reactive management from proactive management. Custom dashboards let different users see what they need. A spa director wants utilization and revenue by service type. A marketing manager wants the booking source and campaign performance. One platform should serve all three without requiring separate exports. These are the most important features of hotel spa software. With modern technologies like AI and machine learning, you can expand the advanced feature list. However, the key remains the same - communication, managing inventory and scheduling, income, loyalty, and seeing the right numbers and patterns. ‍ Critical integrations for hotel spa systems A spa platform that doesn’t link to the rest of your hotel is just an expensive calendar. The real value comes from what the software connects to. Here are the integrations that matter most. PMS as the foundation Your Property Management System holds the guest. Your spa system holds the appointment. Without a connection between the two, your staff manually transfers data between systems, charges get posted to the wrong folios, and returning guests introduce themselves every time they walk in. A PMS integration fixes all of that at once. When a guest checks in, their profile, stay history, VIP status, and preferences are already visible in your spa mobile software. When a treatment ends, the charge posts automatically to their room folio without anyone touching a keyboard. When a guest books a room online, they can reserve a massage in the same session. The most common connections link spa platforms with PMS systems like Oracle OPERA or Infor. What you get on the other side is a spa that knows who is coming before they arrive, bills accurately without manual intervention, and treats every interaction as a continuation of a relationship rather than a fresh transaction. POS to monetize every touchpoint A guest finishes a facial and wants to buy the serum the therapist used. A couple can book poolside massages and then order drinks during the session. A group buys gift cards at the front desk. Each of these is a separate transaction type, and without spa POS software connected to your hotel systems, each one creates a manual reconciliation problem. An integrated POS handles all of it in one place: Spa services, retail products, and add-ons post directly to the guest's room folio.\n\nInventory adjusts automatically with each sale, so stock levels stay accurate.\n\nRevenue data from the spa, restaurant, and retail rolls into unified hotel reporting.\n\nTablet-based mobile POS lets therapists process payments at the treatment table. The connection to your PMS ensures guest information stays synchronized across systems in real time. The practical result is fewer billing errors, faster guest checkout, and a retail operation that actually closes the loop between treatment and product sale. CRM to make the best use of guest data A guest who visited six months ago, booked a hot stone massage, left a strong satisfaction score, and has an anniversary coming up in three weeks is a warm lead. Without a CRM integration, that information lives in three separate systems, and nobody acts on it. With one, your spa manager software can trigger a personalized anniversary offer automatically. CRM platforms connect to spa systems to merge appointment history with room booking data, creating a complete picture of each guest's behavior, preferences, and spending. That data drives campaigns that are worth opening. Segmented promotions for romantic getaways, flash sales to in-house guests during slow spa hours, automated birthday treatments, and post-visit satisfaction surveys all run without manual setup once the integration is live. Payment gateways and accounting tools Spa revenue that does not reconcile cleanly with your accounting system creates month-end problems. Integrating payment gateways and accounting tools with your spa platform means every transaction, including tips, refunds, gift card redemptions, and retail sales, flows into your financial records automatically. On the payment side, gateways like Stripe, Adyen, and Authorize.net handle credit and debit cards, mobile wallets including Apple Pay and Google Pay, and tokenized card-on-file charges for guests who prefer to settle everything at checkout. On the accounting side, synchronization with tools like QuickBooks or Xero means your spa accounting software data matches your general ledger without manual exports. PCI compliance also gets simpler because tokenization keeps raw card data out of your systems entirely. For high-volume hotel spas where retail, services, and room charges all move simultaneously, this integration is what keeps financial reporting clean and audit-ready. Online booking engines for big revenues Most spa revenue decisions happen before a guest walks in. They browse your service menu on your website, compare packages, and decide whether to book or move on. If your booking engine is slow, unclear, or disconnected from real-time availability, you lose that guest to indecision. An integrated online booking engine connects your spa availability directly to your hotel website, mobile app, and in-room tablet. When a therapist takes a sick day or a treatment room goes offline for maintenance, availability updates instantly across every channel. Guests can book during room reservation, before arrival, or mid-stay. Upsells happen in the booking flow rather than at the front desk. Platforms like Book4Time, RoomRaccoon, and VisBook all offer this type of connection with major hotel systems, and are easy to sync with spa cloud software. This way, you can link spa scheduling with hotel occupancy data so pricing and availability always reflect what is actually happening on the property. ‍ Best hotel spa management software Spa software is not one category. It splits into two camps: enterprise platforms built for resort chains, and lightweight tools built for independent operators. Knowing which camp your property falls into cuts your shortlist in half before you read a single feature list. Let’s review the most popular and efficient platforms in the market today. Tool Best for Pricing Book4Time Luxury hotels, resort chains $7–$9 per room per month Zenoti Multi-location franchises Custom quote Mindbody Mid-size wellness centers From $99 per month HOTELTIME Hotel resorts, any size $1–$3 per room per month Trybe Boutique and luxury hotels $5–$7 per room per month Crqlar Independent European hotels €3 per room per month Vagaro Independent spas and studios From $23.99 per month Mangomint Day spas, salons, small studios From $165 per month Boulevard Larger independent spas focused on retention From $158 per month Anolla Hotel spas, wellness centers, boutique spas Free plan available, paid features scale by usage Book4Time is the top spa software, most widely used for luxury hotels and resorts worldwide. It covers appointment scheduling, POS, retail inventory, payroll, guest CRM, dynamic pricing, and multi-location management in one system. It supports 15+ languages and integrates directly with major PMS systems, including Oracle Opera and Salesforce. The pricing ranges from $7 to $9 per room per month, with no trial but a demo available. Its key strengths are deep PMS integration, strong reporting and BI, as well as dynamic yield management. However, the steep learning curve and customization require configuration time. Zenoti is a cloud platform used by over 22,000 businesses in 50 countries, built specifically for multi-location spa and salon franchises. It handles scheduling, payroll, inventory, automated marketing, electronic intake forms, and contactless check-in. Its drag-and-drop calendar and native iOS and Android apps make it accessible to front desk teams and managers alike. The price is custom, fitting multi-location franchises, medspas, and large resorts. With cross-location gift card redemption, membership recurring billing, and a strong spa software app, Zenoti might be overkill for single-location spas. Mindbody is one of the most recognized platforms in the wellness industry, connecting businesses to a marketplace of over 3 million active users. It covers scheduling, POS, client management, staff tools, AI-powered features, and branded mobile apps. It works well for fitness-forward wellness businesses and mid-size hotel spas that want marketplace exposure alongside their core booking system. HOTELTIME's Libero SPA module is one of the best spa management software for wellness environments, handling reservations, guest interactions, treatment scheduling, and direct PMS integration in one system. It supports multi-property operations and reduces administrative load through automation. At $1 to $3 per room per month, it is one of the most cost-efficient options for hotel spas on this list. It boasts a strong multi-location mode, but the reporting customization is limited. TRYBE is a modern spa, wellness, and activity management platform built for hotels that want a clean booking experience paired with solid operational tools. It covers online booking, scheduling, membership management, integrated POS, real-time reporting, and guest profile management across any device. It is particularly well-suited for multi-property hotel operators who need a scalable, PMS-connected solution without enterprise-level complexity. Crqlar is an Austrian-built hotel operations platform with one of the best spa booking software options built in, together with guest profile management. The spa module handles treatment packages, staff scheduling, facility management, website booking widgets, credit card no-show protection, and direct room billing through PMS connections. The pricing is €3 per room per month, with a free trial as an option. It’s GDPR compliant, EU-based, and offers a customizable website widget. This said, it has a smaller feature set than enterprise tools. Vagaro is a widely adopted platform for spa and salon owners, used by over 220,000 professionals across the wellness industry. It covers scheduling, client management, POS, inventory, payroll, email and text marketing, and a consumer marketplace that drives client discovery. Its AI-powered tools help with content creation and client communication without requiring any technical background. The pricing starts from $23.99 per month, which isn’t much for a huge user community. However, it has no PMS integration for hotel use, and marketing tools have limited options. Mangomint is a popular hotel spa software for ease of use, built by a team of wellness center owners who designed it around daily operational reality. It handles appointment scheduling, staff management, payroll, retail POS, inventory, and automated SMS and email marketing from a single interface. It is built for small to mid-size independent businesses and does not offer PMS connectivity for hotel environments. With pricing starting from $165 per month, higher on the list than some other options, it also has no direct hotel PMS integration. Boulevard is built for larger appointment-based businesses that treat client retention as a core operation. Covers scheduling, POS, online booking, reporting, two-way messaging, and a built-in email marketing suite. Uses Precision Scheduling technology to fill the most valuable calendar gaps first. HIPAA compliant but lacks full EMR features. The mobile app has reliability issues, and the 12-month contract is a real commitment before you know if the platform suits your team day to day. Anolla is an AI-powered spa booking platform for wellness centers. Covers treatment scheduling, sauna and pool zone management, therapist shift planning, package builder, gift card management, membership clubs, and dynamic pricing. The AI assistant handles up to 79.3% of recurring guest inquiries in 25 languages around the clock. Integrates with payment systems and accommodation platforms. Pricing is usage-based and scales with the number of bookable rooms, zones, and specialists, with a free plan available for getting started. With so many different spa management software options at your disposal, you might feel lost for what to pick to get the best results. Now, let’s build the right algorithm to go through to make the right decision. ‍ How to choose the right spa software Choosing spa software is not about finding the most feature-rich tool. It is about finding the one that fits how your team actually works. User-friendly interface. If your front desk staff needs a week of training to book a massage, the software is wrong for you. The best platforms take most team members under 30 minutes to learn. Look for clean calendars, logical navigation, and a mobile view that works without pinching and zooming. A tool your team avoids using is a tool that costs you money.\n\nIf your front desk staff needs a week of training to book a massage, the software is wrong for you. The best platforms take most team members under 30 minutes to learn. Look for clean calendars, logical navigation, and a mobile view that works without pinching and zooming. A tool your team avoids using is a tool that costs you money. The right features for your operation. A large resort spa and a boutique day spa do not need the same software. Before reading any spa management software reviews, write down the three to five things that cause the most friction in your current workflow. That list is your filter. If a platform does not solve those specific problems, its other features do not matter. Common priorities include treatment room scheduling, therapist shift planning, package and membership management, retail inventory, and spa software pricing that scales with your room count rather than your revenue. Integration with your existing systems. Spa software that cannot connect to your PMS, accounting tool, or payment processor creates more work, not less. You end up with duplicate data entry, reconciliation errors, and reporting gaps. Before committing to any platform, ask the vendor for a list of native integrations and test the connection with your actual PMS in a demo environment, not just a slide deck.\n\nSpa software that cannot connect to your PMS, accounting tool, or payment processor creates more work, not less. You end up with duplicate data entry, reconciliation errors, and reporting gaps. Before committing to any platform, ask the vendor for a list of native integrations and test the connection with your actual PMS in a demo environment, not just a slide deck. Scalability. The software that works for your current two-room spa may break down when you add a second location or a fitness center. Ask vendors directly how pricing and functionality change as you grow. Some platforms charge per room, others per staff member, and others per booking volume. Read the fine print before you sign. When checking review sites, filter for businesses similar to yours in size and type. A five-star resort review tells you nothing about whether it works for a 10-room boutique hotel spa. Look for reviews that mention implementation time, support response speed, and what broke during peak season. Those details matter more than the overall star rating. Why is choosing a custom solution a great decision? Off-the-shelf spa software for small businesses works well up to a point. You get a familiar interface, a fixed feature set, and a monthly bill. But the moment your operation grows beyond what the vendor anticipated, you start working around the software instead of with it. However, in practice, your PMS uses custom room-billing logic that the spa platform does not support. Your membership tiers do not map to the four preset loyalty levels in the system. Your therapists work split shifts across two buildings, and the scheduling view cannot reflect that. You submit a feature request and get told it is on the roadmap for next year. These are the normal frictions of running a real hospitality operation through a tool built for the average customer. Fit . Every workflow, pricing rule, and reporting is built to match your operation. There is no field repurposed for something it was not designed for, and no feature you pay for but never use. Spa management software comparison across off-the-shelf tools always comes down to which platform fits best. With a custom build, fit is the starting point.\n\n. Every workflow, pricing rule, and reporting is built to match your operation. There is no field repurposed for something it was not designed for, and no feature you pay for but never use. Spa management software comparison across off-the-shelf tools always comes down to which platform fits best. With a custom build, fit is the starting point. Integration . This is where packaged software most often falls short for hotels. Your spa platform needs to talk to your PMS, your payment gateway, your accounting system, your CRM, and possibly your room automation or access control infrastructure. Off-the-shelf tools connect to what their vendor chose to. A custom platform connects to whatever your hotel actually uses, built exactly to the specs those systems require.\n\n. This is where packaged software most often falls short for hotels. Your spa platform needs to talk to your PMS, your payment gateway, your accounting system, your CRM, and possibly your room automation or access control infrastructure. Off-the-shelf tools connect to what their vendor chose to. A custom platform connects to whatever your hotel actually uses, built exactly to the specs those systems require. The guest-facing experience. A branded spa software app looks and feels like your property, not like a white-labeled booking widget with your logo dropped in. Guests booking a treatment at a five-star resort should not land on a generic scheduling screen. The booking flow, the confirmation email, the pre-arrival intake form, and the post-visit follow-up should all feel like the same brand. Custom development makes that possible.\n\nA branded spa software app looks and feels like your property, not like a white-labeled booking widget with your logo dropped in. Guests booking a treatment at a five-star resort should not land on a generic scheduling screen. The booking flow, the confirmation email, the pre-arrival intake form, and the post-visit follow-up should all feel like the same brand. Custom development makes that possible. Data and analytics. Off-the-shelf platforms give you the reports that the vendor decided to build. Custom spa management software tools give you the data your business actually needs to make decisions. That means connecting spa revenue to room revenue, tracking therapist productivity against treatment margin, forecasting occupancy by day part and season, and feeding that data into whatever BI or AI tools your management team already uses.\n\nOff-the-shelf platforms give you the reports that the vendor decided to build. Custom spa management software tools give you the data your business actually needs to make decisions. That means connecting spa revenue to room revenue, tracking therapist productivity against treatment margin, forecasting occupancy by day part and season, and feeding that data into whatever BI or AI tools your management team already uses. Scalability on your terms. When you add a location, a service category, or a partnership with a wellness brand, a custom platform adapts as your team builds what you need next. With off-the-shelf software, you wait for the vendor roadmap. Sometimes what you need ships in six months. Sometimes it never ships at all.\n\nWhen you add a location, a service category, or a partnership with a wellness brand, a custom platform adapts as your team builds what you need next. With off-the-shelf software, you wait for the vendor roadmap. Sometimes what you need ships in six months. Sometimes it never ships at all. Cost over time. The upfront cost of custom development is higher. That is true and worth saying directly. But the monthly per-room or per-user fees of packaged software compound over the years. Add the cost of workarounds, manual processes, and staff time spent fighting a tool that does not quite fit, and the economics shift. For operations above a certain scale, a custom build becomes the more efficient long-term investment. So, if your spa runs a standard operation and the tools on this list cover your needs, use them. If your hotel has complex integration requirements, a strong brand identity that extends to digital touchpoints, or workflows that no packaged tool handles cleanly, custom development is not an extravagance. It is the practical choice, and we are just the team to fulfill it. COAX is a full-cycle development company that builds hotel spa software and wellness platforms from the ground up. That means product strategy, UX design, backend architecture, API integrations, and post-launch support under one roof. There will be no gaps between what was promised and what gets built. We have direct experience with custom software development for hotels, including PMS integrations, multi-property management systems, and revenue analytics layers that connect spa, restaurant, and room data into one environment. On the technical side, COAX builds mobile spa software for both iOS and Android alongside web platforms, with AI-driven features including booking pattern analysis, dynamic pricing logic, personalized treatment recommendations, and occupancy forecasting. If your current software cannot do what your operation actually needs and you want a development partner who knows how to get your scaling off the limits, that is the conversation worth having. ‍ Implementation best practices Your development and integration of hotel spa management software should consider the specifics of this business model. You’re not implementing a standalone solution for a spa center: with a broader hotel ecosystem, your roadmap should consider several nuances. Based on COAX’s experience, here’s how to do this successfully. Start with data migration. The first thing that breaks during a rollout is data. Client profiles, membership records, gift card balances, and booking history all need to move cleanly before you go live. Define your existing data structure before you touch the new platform. If the vendor offers assisted migration, use it. If not, run a parallel period where both systems are active until you confirm nothing was lost.\n\nThe first thing that breaks during a rollout is data. Client profiles, membership records, gift card balances, and booking history all need to move cleanly before you go live. Define your existing data structure before you touch the new platform. If the vendor offers assisted migration, use it. If not, run a parallel period where both systems are active until you confirm nothing was lost. Train in phases, not all at once. Front desk staff, therapists, and managers use management software for spa operations differently. Train each group separately on the workflows they actually touch. A therapist needs to know how to read their schedule and access treatment notes. A front desk team member needs to process bookings, payments, and walk-ins.\n\nFront desk staff, therapists, and managers use management software for spa operations differently. Train each group separately on the workflows they actually touch. A therapist needs to know how to read their schedule and access treatment notes. A front desk team member needs to process bookings, payments, and walk-ins. Test during the low season. Go live when your booking volume is low. Never launch a new spa management system heading into a peak weekend, a holiday campaign, or a membership renewal cycle. You will find configuration errors, integration gaps, and edge cases during the first two weeks that no amount of pre-launch testing predicted.\n\nGo live when your booking volume is low. Never launch a new spa management system heading into a peak weekend, a holiday campaign, or a membership renewal cycle. You will find configuration errors, integration gaps, and edge cases during the first two weeks that no amount of pre-launch testing predicted. Run your integrations before anything else. PMS connectivity is the highest-risk point in any hotel spa software implementation. Test room billing, guest profile sync, and folio reconciliation with real transactions before your team starts using the system in production. A broken PMS link discovered on day one of a busy weekend is a recoverable problem. Discovered after three weeks of incorrect billing, it is a finance team headache.\n\nPMS connectivity is the highest-risk point in any hotel spa software implementation. Test room billing, guest profile sync, and folio reconciliation with real transactions before your team starts using the system in production. A broken PMS link discovered on day one of a busy weekend is a recoverable problem. Discovered after three weeks of incorrect billing, it is a finance team headache. Set your pricing and availability rules in advance. Dynamic pricing, blackout dates, therapist-specific availability, and treatment duration buffers all need to be configured before the first booking goes through. Getting these rules wrong means double bookings, underpriced treatments, and scheduling gaps that your team then manages manually, which defeats the purpose of the software.\n\nDynamic pricing, blackout dates, therapist-specific availability, and treatment duration buffers all need to be configured before the first booking goes through. Getting these rules wrong means double bookings, underpriced treatments, and scheduling gaps that your team then manages manually, which defeats the purpose of the software. Define who owns the system. Every spa manager software needs one internal owner. Not a committee. One person who knows the configuration, fields support questions from the team, and communicates with the vendor. Without that person, small issues sit unresolved, workarounds multiply, and the platform drifts from how it was set up to how people have learned to work around it.\n\nEvery spa manager software needs one internal owner. Not a committee. One person who knows the configuration, fields support questions from the team, and communicates with the vendor. Without that person, small issues sit unresolved, workarounds multiply, and the platform drifts from how it was set up to how people have learned to work around it. Measure from week one. Set three to five baseline metrics before you go live: booking conversion rate, no-show rate, average treatment value, therapist utilization, and revenue per available treatment hour. Measure them in your old system if possible. Then track the same numbers in the new platform from day one. Without a baseline, you cannot know whether the software is actually improving your operation or just changing how the same problems look. COAX has spent 16 years building software for travel, transport, and hospitality, which means the team has seen exactly where online spa management software projects go wrong in production. Broken PMS connections, payment reconciliation failures, data loss during migration, mobile booking flows that work in testing and fail under load. When you bring a complex integration challenge, you are talking to engineers who have built the same connection before and know where the failure points are. On the technical side, COAX covers the full build: hospitality connectivity architecture, custom API integrations, mobile and web development, automation logic, and analytics layers that turn operational data into decisions. ‍ FAQ What is spa software in terms of technical architecture? At its core, spa management software runs on a client-server model: a cloud-hosted backend manages data storage, business logic, and API connections, while the frontend delivers the booking interface across web and mobile. Modern platforms layer on IoT sensors, ML-based scheduling engines, and real-time PMS sync. As Casillo and team note, the architecture typically spans acquisition, processing, inference, and application modules. Why implement spa software for a small business? Spa software for small businesses removes the admin burden that kills revenue. Platforms like Anolla report reducing manual administration by over 40%. A 5% increase in guest retention raises profit by 25 to 95%. Also, automated confirmations, waitlists, and dynamic pricing fill gaps your front desk misses. The operational cost of not automating compounds faster than most small operators expect. What are the security requirements for spa software systems? Spa management systems handling guest data must meet these baseline requirements: AES-256 encryption for stored data.\n\nTLS protocol for all data transfers.\n\nRole-based access control.\n\nGDPR compliance for EU operations.\n\nHIPAA compliance where medical data is involved.\n\nAnonymized client identifiers.\n\nRegular penetration testing.\n\nNDA coverage with all third-party vendors. How does COAX develop secure and efficient hotel spa software? Our team is 90% mid and senior level, ISO 9001 and ISO 27001 certified, and runs every project under NDA. You get one team from strategy through post-launch support, no handoffs between agencies, no gaps between what was scoped and what gets delivered. If your spa operation has outgrown what packaged software can handle, that is the talk worth starting. Published April 10, 2026 Last updated April 10, 2026"
+      },
+      {
+        "id": 29463375,
+        "title": "Salon POS System: Top 5 Software Picks for 2026",
+        "url": "https://www.joinblvd.com/blog/best-pos-systems-for-salons",
+        "publisher": "Joinblvd",
+        "published_date": "2026-02-13T13:45:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "This article is a comprehensive buyer's guide comparing five salon POS (Point-of-Sale) software systems for 2026: Boulevard, Vagaro, Mangomint, Fresha, and Square, evaluating each on features, pricing, and suitability for different salon sizes. Boulevard is positioned as the recommended all-in-one platform for premium salons, with pricing starting at $158/month/location for annual payments, while competitors range from $19.95/month (Fresha) to $175/month (Mangomint). The guide includes feature comparisons, selection criteria, and an FAQ section, written by Skya Jones, a medspa education manager at Boulevard, whose employer is prominently featured as the top choice.",
+        "word_count": 2086,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Point-of-Sale (POS) & On-Property Commerce",
+            "code": "THALACAI",
+            "is_primary": true
+          },
+          {
+            "name": "POS Payment Software & Middleware (Terminal OS, Apps, Device Management)",
+            "code": "FSAMADAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005dt",
+            "name": "Boulevard",
+            "website": "https://joinblvd.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000068h",
+            "name": "Square",
+            "website": "https://squareup.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007y4",
+            "name": "Mangomint",
+            "website": "https://www.mangomint.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20000288",
+            "name": "personal service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "812112",
+            "name": "Other Services (except Public Administration)"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "skya jones",
+            "skya"
+          ],
+          "location": [
+            "home"
+          ],
+          "product": [
+            "salon pos system",
+            "salon pos software",
+            "ipads",
+            "pos software",
+            "retail products",
+            "software",
+            "boulevard",
+            "vagaro",
+            "mangomint",
+            "pos system",
+            "pos systems",
+            "pos tools",
+            "fresha",
+            "square"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.822,
+        "group_id": 4320948,
+        "full_text": "Salon POS System: Top 5 Software Picks for 2026 Table of Contents\n\n\n\n\n\n\n\n\n\nBoulevard Blog Salon • Best Practice Salon POS System: Top 5 Software Picks for 2026 Best Salon POS Systems: Top 5 Software Picks for 2026 Table of Contents What Is a Salon POS System?\n\nFeatures To Look for in a Salon POS System\n\nHow To Choose the Best Salon POS System\n\n5 Best Salon POS Systems\n\nWhy Boulevard Is the Best Salon POS System\n\nFAQ Ready to join Boulevard? Get a Demo Feb.13.2026 UPDATED . Jun.25.2026 BY Skya Jones Modern salons need point-of-sale (POS) systems that handle it all. The right system can seriously up your game by improving client interactions and boosting revenue . The best salon POS system does more than process payments. Modern salon POS software helps businesses manage appointments, client profiles, inventory, reporting, and retail sales from one platform When it’s easy to buy the products as they check out and book appointments from home, clients are more likely to rebook again and again. In this guide, we’ll give you the inside scoop on POS software, like what it can actually do for your salon and which are the best POS systems for salons in 2026. What Is a Salon POS System? Salon POS systems are central hubs for the front desk. These software-forward systems support the client experience as much as the salon’s checkout process. They combine software with hardware like iPads and card readers so your clients can easily pay for their visit (and any retail products they’re picking up). A salon POS system is purpose-built for beauty businesses and helps manage payments, appointments, inventory, and client relationships from a single platform. A POS system handles most of your salon’s financial tasks in one place, processing payments, calculating tips and loyalty discounts, and managing retail and reporting programs. Some even make it easy to integrate with other software that tracks staff hours and performance, leading to less manual work on your end. Features To Look for in a Salon POS System Shopping for salon POS software gets a lot easier when you know what to look for. Every self-care business is unique, but here are a few features that most teams need. When comparing salon POS software, prioritize tools that improve both client experiences and day-to-day operations. Fast and flexible checkout: POS software should make paying fast and convenient for everyone, offering things like mobile payment options and easy-to-follow on-screen prompts.\n\nIntegrated payments and tipping: Your POS system should support multiple payment options, like mobile wallets and cards on file, so no one has to dig through their wallet for the one method you accept. Look for software that automatically calculates tips at set percentages (like 15%, 20%, and 25%) and applies loyalty rewards and discount codes, too.\n\nReporting and sales insights: Good salon POS software doesn’t stop working for you once the client has paid. It’ll also include high-level details like retail trends and retention data . These insights can help you adjust your strategies (such as scheduling a full-team workshop to perfect the latest TikTok hairstyle trend) and stay on top of your revenue flow before rent’s due.\n\nClient profiles and purchase history: Choose tools that let you personalize the salon experience. Client profiles store information like their birthdays for special discounts and notes from their past sessions to help your stylists provide better service from moment one.\n\nRetail and inventory management: Keep track of backbar inventory and retail products directly in your POS system. Your software should send an alert when you’re running low and automate order purchasing so you never have to run out of a dye color mid-service. How To Choose the Best Salon POS System Before you start researching and selecting a POS system , you need a game plan. There are lots of software solutions for spas out there, so knowing what you need ahead of time can side-step information overload. These tips will help you stay organized and focus on your salon’s long-term goals. The right POS system for a beauty salon should support your current workflows while giving you room to grow. Define Your Salon’s POS Needs Choosing software starts with taking stock of your needs, so assess your current POS processes. What does the checkout process look like? Where does it slow down? Are there features that overlap with your other software solutions or things you’d like to collapse into one program? Make a list of your wants and needs, then reference it during your search to narrow down your options. Evaluate Ease of Use for Your Staff Your chosen POS software should make your employees’ lives easier. Ideally, they’ll be able to pick it up in their first few days without tons of hands-on training. Part of this onboarding process includes the software company’s customer service, too. A program with a strong team behind it will help you set everything up and get questions answered along the way. Check How the POS Connects To Booking and Scheduling The best POS tools integrate with scheduling systems you already use. Appointment reminders, automated calendar syncing, and easy rebooking options can reduce no-shows and double-booking. This way, your front desk team can schedule clients for a touch-up or a fresh cut in six weeks while they’re still standing at the counter, so they’re more likely to keep coming back . Compare Pricing and Total Cost Price is always important to consider, especially if you're just getting established or planning your next location. But comparing upfront costs is only the first step. You also need to compare how different software options impact your long-term overhead. Some systems may seem affordable at first, but consider how they’ll impact your overhead over time. Study the fine print: Are there high processing fees? Are their long-term contracts undercut by unreasonable cancellation penalties? POS systems that don’t integrate well with other software means paying for more subscriptions every month, too. Plan for Growth and Scalability You shouldn't have to adjust your business goals around your software or do a massive overhaul every time you outgrow your current system, no matter how big your salon gets. So make sure your beauty salon’s POS has the flexibility to scale with your growing salon. It should be able to manage more locations and team members without glitching, process more complex loyalty and membership programs, and have the wiggle room to add new workflows as tech evolves. 5 Best Salon POS Systems Every POS system has its strengths, but not all of them are going to be the right fit for your needs. The best salon POS systems vary based on your budget, team size, and operational needs. We’ve gathered details on five of the best POS systems for salons so you can cut the noise and find software that works for you. 1. Boulevard Boulevard is an all-in-one platform designed for premium salon management and client experiences. It is one of the best salon POS software solutions for growing salons that want scheduling, payments, reporting, and client management in one place. It’s an ideal choice for established and growing salons looking to streamline every workflow while maximizing their income. It integrates with over a dozen other common apps and web services while bringing everything else in-house. Some of Boulevard’s best features include: Flexible payment methods\n\nRole-based permissions and staff management\n\nOrganized client profiles and inventory tracking\n\nMulti-location management and reporting tools\n\nCross-device compatibility\n\nPrecise scheduling and self-booking portals\n\nIntegrated loyalty programs and marketing campaigns Pricing starts at $158/month/location for salons paying annually. 2. Vagaro Vagaro is a POS platform that’s generally used by independent stylists and small salons that also offer fitness and wellness classes. It includes a website builder and a marketplace where users can find salons in their area. Its notable features include: Hybrid salon and fitness POS management\n\nOnline booking and scheduling\n\nClient discovery marketplace\n\nCalendar synchronization\n\nVagaro-branded hardware that’s automatically compatible with their software For one stylist at one location, Vagaro starts at $23.99/month. Pricing scales with the number of stylists—with seven or more, you’ll pay $83.99/month. However, if you run more than one location, you’ll need to reach out to their support team for more information about their enterprise pricing. Vagaro also offers a 30-day free trial. 3. Mangomint Mangomint’s POS system is known for its simple interface, designed for independent salons and boutique spas looking for software without any frills. It’s mainly a POS software, but offers some lightweight marketing tools, booking portals, and client data storage options. Here are some of Mangomint’s main features: Self-checkout and tip prompts\n\nScheduling and staff management\n\nVirtual waiting rooms\n\nTwo-way text-based client communication\n\nRemote payments\n\nPricing starts at $175/month for small teams and includes a free trial. 4. Fresha Fresha is a low-price POS software with a focus on flexible scheduling and data privacy. It’s a budget-conscious option known for its app-based marketplace, similar to Vagaro. Fresha includes room for extensive client notes, making it a better option for medspas and boutiques that offer medically focused or detail-oriented services than traditional salons. This POS system’s core functions include: HIPAA compliance to protect client data\n\nCentralized client app\n\nAutomated appointment reminders\n\nUp-front payment options\n\nGlobal currency support\n\nPricing starts at $19.95/month for a single provider, or $14.95/stylist/month for teams, with a seven-day free trial. If your salon has over 20 team members, you’ll need to reach out to Fresha’s support team for enterprise pricing details. 5. Square Square is a general business platform used by businesses of all kinds. Its salon-specific POS software includes marketing campaigns, scheduling apps, and multiple payment options, with a focus on the client experience. Since it’s a widespread software solution, clients are likely to be familiar with Square—but there are fewer UI customizations you can use to personalize the look to match your brand identity. Some of the major features of this POS system include: No-fee tier for solo stylists\n\nEnterprise-level scaling capabilities\n\nColor-coded staff scheduling and commission tracking\n\nInventory management Square offers a free plan for single salons, with only a few basic features. Richer experiences start at $49/month/location. Why Boulevard Is the Best Salon POS System The right POS system can reshape your salon’s client experience. With faster checkout, accurate tipping, and easy rebooking, your salon can keep the relaxing vibes going after clients walk out the door. Modern salons need modern software to stay on top of their schedules and keep their clients happy. Boulevard is an all-in-one platform that simplifies checkouts for self-care businesses of all sizes and supports you as you grow. Whether you’re looking at client profile management or financial reporting, bring everything together with our advanced software solution. Check out Boulevard's Salon Software to learn more. FAQ Does a salon POS system need to integrate with scheduling software? A POS system can stand on its own, but it can improve daily workflows when it’s integrated with scheduling tools. Adding appointment booking and calendars to your POS system can boost your client retention because it’s easier for front desk staff to book a client’s next appointment in the moment. Can a salon POS system track tips and commissions? Yes, and they should! Strong POS software can automatically calculate tips and offer set percentages that make it easier for clients to pick an appropriate amount. It can also track commissions for a more accurate picture of your finances. When should a salon consider upgrading its POS system? It might be time to upgrade if there are lines forming at your front desk due to error messages and lag, or if it isn’t compatible with the latest hardware and payment methods. Feeling like it’s time to update your other hardware and software systems is also an indicator that it’s time to look into a new POS system—or an all-in-one choice like Boulevard . What is the best salon POS system? Boulevard, Vagaro, Mangomint, Fresha, and Square are among the best salon POS systems available today. The right option depends on your salon's size, goals, and operational needs. Skya Jones Sr. Medspa Education Manger Skya Jones is an industry expert and consultant who serves as one of the in-house medspa experts at Boulevard. In this role, she collaborates closely with Boulevard’s team and their customers to help deliver exceptional, memorable client experiences. With nearly a decade of experience in the medical spa industry, Skya is deeply passionate about leadership and education, and is dedicated to empowering businesses to thrive. Prior to joining Boulevard, she successfully managed and provided consulting services to a range of medical spas and retail beauty businesses. Learn More Facebook\n\nX\n\nLinkedIn\n\nEmail\n\nCopy Link We're ready for you. See what's possible with a personalized demo. Get a Demo Get a Demo"
+      },
+      {
+        "id": 21933841,
+        "title": "Best Value Software Platforms for Med Spa Management: Features and Pricing Compared",
+        "url": "https://www.healthcareittoday.com/2026/01/29/best-value-software-platforms-for-med-spa-management-features-and-pricing-compared/",
+        "publisher": "Healthcare IT Today",
+        "published_date": "2026-01-29T15:00:44",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The article reviews various med spa management software platforms, highlighting their features, pricing, and strategic benefits for different practice sizes and priorities. The platforms discussed include Meevo, AestheticsPro, Mangomint, and Vagaro, each tailored to specific user needs. ",
+        "word_count": 831,
+        "original_language": "EN",
+        "author": "Guest Author",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Medical Spas (Medi-Spas)",
+            "code": "HSALAFAB",
+            "is_primary": true
+          },
+          {
+            "name": "Appointment Scheduling, Waitlist & Patient Flow Communications",
+            "code": "HLACAEAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Pricing & Commercial Strategy",
+            "code": "SD10",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00007y4",
+            "name": "Mangomint",
+            "website": "https://www.mangomint.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0006428",
+            "name": "Meevo",
+            "website": "https://www.meevo.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0006dnl",
+            "name": "AestheticsPro",
+            "website": "https://www.aestheticspro.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20000288",
+            "name": "personal service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "323",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "mangomint",
+            "vagaro",
+            "meevo",
+            "aestheticspro"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7684,
+        "group_id": 971076,
+        "full_text": "The following is a guest article by Meevo. Running a med spa business requires more than providing quality beauty treatments. It involves juggling complex schedules, tracking inventory, promoting services and securing patient records. The right platform should help boost client experience and revenue growth. Discover the best value software for med spa management to help you make a confident decision for your practice. 1. Meevo Meevo is an all-in-one solution that offers the best value software for med spa management. It integrates powerful operational tools, marketing automation and client management into a single, AI-driven system. The platform combines clinical functionalities with marketing, retail and multilocation management tools, eliminating the need to subscribe to multiple software systems. Many clients have mentioned that Meevo has helped their companies thrive, resulting in higher prebook rates and profits. Features Pricing ● Unlimited emails ● Up to 5,000 email contacts ● Unlimited users and storage ● Six hours of one-on-one custom training ● AI-powered dashboard that provides real-time business insights ● Real-time metrics and KPIs ● Marketing suite ● Online booking ● Up to five professionals: $139 per month ● Up to 10 professionals: $179 per month ● Up to 25 professionals: $419 per month ● Enterprise: Custom quote 2. AestheticsPro AestheticsPro is a HIPAA-compliant platform with telemedicine, scheduling, electronic medical records, client management, merchant services and marketing features. It focuses on providing detailed clinical documentation and practice management solutions in a secure, cloud-based environment. For med spas that prioritize compliant charting, consent forms and treatment documentation, AestheticsPro provides comprehensive tools at a reasonable price. Features Pricing ● Advanced medical photo solutions ● Client management ● Telemedicine ● E-prescribe ● Point-of-sale ● Staff management ● E-records management and form creator ● Pro-One: $85 per month for one user ● Pro-Plus: $160 per month for two users, plus an additional $85 per month for another user ● Executive: $285 per month, unlimited users ● Enterprise: $350 per month, unlimited users 3. Mangomint Mangomint helps med spas create a seamless client experience with automation tools and customizable charting features. The HIPAA-compliant software platform streamlines virtual appointments, membership management, appointment scheduling and note-taking. Its clean interface and smart solutions save significant administrative time, reducing staff workload and minimizing booking errors. Mangomint is a good choice if you prioritize a polished internal and client-facing experience. Features Pricing ● Calendar and scheduling ● Client management ● Online booking ● Retail and inventory ● Staff management ● Gift cards and packages ● Reporting ● Memberships and discounts ● Payment solutions ● Setup and onboarding ● Essentials: $165 per month for two to 10 service providers ● Standard: $245 per month for up to 20 service providers ● Unlimited: $375 per month for large businesses 4. Vagaro Vagaro is a popular software platform for small med spas and solo practitioners. It offers a sleek user interface, bringing faster load times and better calendar management tools. With a low monthly starting cost, it is an excellent entry point for new or budget-conscious businesses. Subscribing means only paying for what you need, making it a cost-effective choice. Features Pricing ● A la carte add-ons, like HIPAA-compliant forms ● Online booking ● Customer tracking ● Mobile apps ● Marketplace ● Notifications ● AI-powered tools ● Livestream The price starts at $23.99 per month for one user. Use the interactive calculator on the website to determine the exact cost based on your required number of users. Criteria for Choosing the Best Value Software Platforms The following factors were considered in finalizing the top software platforms that offer the best value for med spa professionals. Industry specialization: The platforms are specifically designed for medical spas and have a strong user base.\n\nThe platforms are specifically designed for medical spas and have a strong user base. Features: These companies provide all the essential functionalities required to run a modern med spa, including appointment scheduling, client management and point-of-sale.\n\nThese companies provide all the essential functionalities required to run a modern med spa, including appointment scheduling, client management and point-of-sale. User trust: Med spa professionals show a preference for these four brands, consistently receiving positive feedback.\n\nMed spa professionals show a preference for these four brands, consistently receiving positive feedback. Cost-effectiveness: The companies offer the best value in terms of the features provided, affordability and efficiency. What Is the Best Value Software for Med Spa Management? Here’s a quick breakdown of the leading software platforms for med spas. Company Best For Meevo Professionals seeking an all-in-one growth platform AestheticsPro Med spas that prioritize deep clinical documentation Mangomint High-end practices focused on a premium client experience Vagaro New, solo or budget-conscious owners needing a scalable solution Finding the Best Value Software for Med Spa Management The right software platform helps solve your unique business challenges. It is a strategic investment to enhance your practice’s efficiency, profitability and scalability. Explore your options, request multiple quotes and choose a provider you think will help you reach long-term success. Meevo is a proud sponsor of Healthcare Scene."
+      },
+      {
+        "id": 18302343,
+        "title": "Salon Point of Sale (POS) Software Global Analysis Report 2025: $1.54 Bn Market Trends, Competitive Landscape, Strategies, and Opportunities, 2019-2024, 2024-2029F, 2034F",
+        "url": "https://www.globenewswire.com/news-release/2026/01/14/3218923/28124/en/Salon-Point-of-Sale-POS-Software-Global-Analysis-Report-2025-1-54-Bn-Market-Trends-Competitive-Landscape-Strategies-and-Opportunities-2019-2024-2024-2029F-2034F.html",
+        "publisher": "GlobeNewswire",
+        "published_date": "2026-01-14T15:51:45",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "ResearchAndMarkets.com released its Salon Point of Sale (POS) Software Global Market Report 2025, projecting the market to grow from $0.78 billion in 2024 to $1.54 billion by 2029 at a compound annual growth rate of 14.5%. The report identifies key growth drivers including digital payment adoption, cloud-based solutions, AI-driven analytics, and mobile-first POS applications, while noting North America as the largest market in 2024 with Asia-Pacific positioned as the fastest-growing region. Notable strategic developments include Vagaro Inc.'s acquisition of Schedulicity Inc. in January 2025 and EPOS Now's March 2025 launch of an offline payment feature.",
+        "word_count": 598,
+        "original_language": "EN",
+        "author": "Research",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "POS Payment Software & Middleware (Terminal OS, Apps, Device Management)",
+            "code": "FSAMADAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008cp",
+            "name": "Epos Now",
+            "website": "https://www.eposnow.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003w9",
+            "name": "Zenoti",
+            "website": "http://www.zenoti.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000xab",
+            "name": "Schedulicity",
+            "website": "http://www.schedulicity.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qvf",
+            "name": "Phorest",
+            "website": "http://www.phorest.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002j5r",
+            "name": "Mindbody",
+            "website": "https://www.mindbodyonline.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000r98",
+            "name": "Lightspeed Commerce",
+            "website": "http://www.lightspeedhq.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00007yq",
+            "name": "Helcim",
+            "website": "https://www.helcim.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000azji",
+            "name": "DaySmart Software",
+            "website": "http://www.daysmart.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000288",
+            "name": "personal service"
+          },
+          {
+            "code": "20000192",
+            "name": "business strategy and marketing"
+          },
+          {
+            "code": "20000344",
+            "name": "economy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "114",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "5734",
+            "name": "RETAIL-COMPUTER & COMPUTER SOFTWARE STORES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "asia-pacific",
+            "north america",
+            "uk",
+            "dublin"
+          ],
+          "product": [
+            "phorest salon software",
+            "rosy salon software",
+            "salontouch studio",
+            "salon point of sale (pos) software",
+            "subscription-based models",
+            "customization and integration services",
+            "online booking platforms",
+            "salonplus",
+            "hair salons",
+            "zolmi\n\nsalontracker ltd.",
+            "fixed pos systems",
+            "daysmart software inc.",
+            "integrated software solutions",
+            "high-security environments",
+            "salon pos software",
+            "mobile pos systems",
+            "cloud-based solutions"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1838706,
+        "full_text": "Share\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDublin, Jan. 14, 2026 (GLOBE NEWSWIRE) -- The \"Salon Point of Sale (POS) Software Global Market Report 2025\" has been added to ResearchAndMarkets.com's offering.\n\n\n\nThe salon point of sale (POS) software market is on a robust growth trajectory, expanding from $0.78 billion in 2024 to a projected $1.54 billion by 2029. This growth is attributed to the widespread adoption of digital payment methods, the demand for customer loyalty programs, and the increasing penetration of cloud-based solutions across the industry. The market is set to experience a compound annual growth rate (CAGR) of 14.8% from 2024 to 2025, slowing slightly to a CAGR of 14.5% till 2029. Key factors contributing to this expansion include consumer preference for cashless transactions and subscription-based models, alongside the adoption of integrated software solutions and the rise of e-commerce and online booking platforms. Industry trends point to advancements in cloud deployment, artificial intelligence-driven analytics, mobile-first POS applications, and omni-channel management systems as pivotal growth drivers. The demand for integrated payment solutions significantly boosts market development. These solutions facilitate seamless connections between payment systems and business management software, enhancing transaction efficiency and reducing operational complexities. UK Finance Limited's report from July 2024 highlights this trend with the UK witnessing 18.3 billion contactless payments in 2023. This uptick underscores the shift towards integrated payment solutions, streamlining operations for enhanced customer experiences. Leading companies are innovating to enhance software usability and resilience, vital for efficiency and uninterrupted operations. For example, EPOS Now launched an offline payment feature in March 2025, enabling transactions without internet, beneficial for service-based businesses including salons. This innovation ensures business continuity and customer satisfaction by maintaining transaction capabilities even during connectivity disruptions. Strategic movements in the market include Vagaro Inc.'s acquisition of Schedulicity Inc. in January 2025 to expand its market presence and enhance service offerings. This acquisition aims to integrate Schedulicity's scheduling platform into Vagaro's existing suite, offering more comprehensive business tools. Key players in this market include Lightspeed Commerce Inc., Mindbody Inc., Zenoti Inc., and Fresha, indicating a competitive landscape brimming with innovation and strategic alliances. Regional dynamics reveal North America as the largest market in 2024, with Asia-Pacific poised as the fastest-growing region. However, the market faces challenges from global trade tensions and tariffs affecting sourcing strategies and pricing. This volatile environment drives companies to adapt supply chain strategies and implement data-driven forecasting to mitigate cost impacts and maintain competitiveness. The salon POS software market report provides detailed insights, including market size, regional shares, competitive analysis, and strategic recommendations to navigate current and future industry landscapes effectively. Market Scope: Markets Covered by Type: Cloud-Based; On-Premise\n\nApplication: Large Enterprises; Small and Medium Enterprises (SMEs)\n\nEnd-User: Hair Salons; Beauty Salons; Spas; Nail Salons; Barber Shops; Other Personal Care Centers Subsegments: Cloud-Based Salon POS Software: SMEs; Large Enterprises; Mobile POS; Subscription-Based Models\n\nOn-Premise Salon POS Software: Fixed POS Systems; Mobile POS Systems; Customization and Integration Services; High-Security Environments Key Attributes:\n\n\n\nReport Attribute Details No. of Pages 250 Forecast Period 2025 - 2029 Estimated Market Value (USD) in 2025 $0.89 Billion Forecasted Market Value (USD) by 2029 $1.54 Billion Compound Annual Growth Rate 14.5% Regions Covered Global\n\nCompanies Featured Lightspeed Commerce Inc.\n\nBooksy Group Corp.\n\nMindbody Inc.\n\nZenoti Inc.\n\nVagaro Inc.\n\nHelcim Inc.\n\nFresha\n\nEpos Now Ltd.\n\nPhorest Salon Software\n\nDaySmart Software Inc.\n\nWellyx\n\nSalonBiz Inc.\n\nSimplyBook.me Ltd.\n\nSalonTouch Studio\n\nSalonPlus\n\nMangomint Inc.\n\nMillennium Systems International LLC\n\nRosy Salon Software\n\nClover Network LLC\n\nZolmi\n\nSalonTracker Ltd. For more information about this report visit https://www.researchandmarkets.com/r/gukfpw About ResearchAndMarkets.com\n\nResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends. Attachment Salon Point of Sale (POS) Software Market\n\n"
+      },
+      {
+        "id": 22275911,
+        "title": "Vagaro Launches Free Tool to Help Business Owners Assess Business Health",
+        "url": "https://www.businesswire.com/news/home/20251124293673/en/Vagaro-Launches-Free-Tool-to-Help-Business-Owners-Assess-Business-Health",
+        "publisher": "Business Wire Blog",
+        "published_date": "2025-11-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Vagaro announced the launch of its free Business Health Check tool, a self-assessment designed to help business owners in beauty, wellness, and fitness measure their business strength and identify growth opportunities. The tool delivers a score based on five key performance areas: service diversification, customer retention, recurring revenue, pricing flexibility, and technology adoption. The tool is now available for free to any business owner looking to evaluate and optimize their business model.",
+        "word_count": 678,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Self-Service BI & Data Visualization",
+            "code": "HDAEAMAA",
+            "is_primary": true
+          },
+          {
+            "name": "Dashboarding & KPI/Performance Management",
+            "code": "HDAEAMAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Executive Commentary & Interviews",
+            "code": "LG05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "73",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "60",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "53",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541613",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "8742",
+            "name": "SERVICES-MANAGEMENT CONSULTING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "fred helou",
+            "charity hudnall"
+          ],
+          "location": [
+            "san francisco"
+          ],
+          "product": [
+            "e-prescribe",
+            "business health check tool",
+            "podcast"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9726,
+        "group_id": 5342830,
+        "full_text": "Vagaro Launches Free Tool to Help Business Owners Assess Business Health\n\nShare\n\nPowered by Vagaro’s industry insights, the free assessment helps beauty, wellness, and fitness professionals benchmark performance and uncover opportunities for growth.\n\nSAN FRANCISCO--(BUSINESS WIRE)--Vagaro, the leading software for businesses in beauty, wellness, and fitness, today announced the launch of its Business Health Check tool, a free assessment tool designed to help business owners measure the strength and resiliency of their business. Vagaro officially launched a free Business Health Check tool to help business owners benchmark performance and uncover opportunities for growth. Share The Business Health Check tool delivers a simple score based on five key areas that drive long-term success: service diversification, customer retention, recurring revenue, pricing flexibility, and technology adoption. Users receive an instant report with personalized recommendations to identify strengths and uncover opportunities for improvement. This new tool reflects Vagaro’s ongoing investment in practical resources that empower service providers and business owners across industries. Beyond software, Vagaro is dedicated to helping entrepreneurs not only manage their day-to-day operations, but also build businesses that are resilient, scalable, and prepared for the future. “Small business owners pour their heart into their work, but too often they’re left guessing about what’s working and what isn’t,” said Fred Helou, CEO of Vagaro. “The Business Health Check tool gives them clarity and points them in the direction of growth.” Developed from Vagaro’s data insights and industry expertise, the Business Health Check offers business owners a way to benchmark their performance and uncover untapped opportunities. \"Our goal is to give service providers more than just tools; we want to give them confidence. With this new tool, professionals can quickly see what’s working in their business and discover opportunities to grow, so they can focus on what they love doing most,” said Charity Hudnall, CMO of Vagaro. With actionable tips included in every report, service providers can immediately take steps to strengthen and grow their businesses. The tool is free to use and available now to any business owner looking to evaluate and optimize their business model. About Vagaro Vagaro is the leading salon, spa, and fitness software, serving hundreds of thousands of professionals worldwide. Vagaro simplifies business management, credit card and payment processing, and makes it easy for businesses to grow their clientele on a modern consumer marketplace. Vagaro’s à-la-carte options and affordable pricing provide a unique level of scalability, making it suitable for businesses of all sizes—from solopreneurs to enterprise franchises. Simple, innovative, and reliable, Vagaro empowers beauty and wellness professionals to excel in a digital age. Visit Vagaro to learn more.\n\nMore News From Vagaro\n\nGet RSS Feed\n\nVagaro CEO, Fred Helou, Launches New Podcast: You Know What I Mean SAN FRANCISCO--( BUSINESS WIRE )--Fred Helou, CEO of Vagaro, the leading software for businesses in beauty, fitness, and wellness, has announced the launch of his new podcast, You Know What I Mean, a show born from his unintentional catchphrase and designed to spark real, unfiltered conversations. In each episode, Fred invites guests from all walks of life; entrepreneurs, industry leaders, creatives, and beyond, for honest dialogue about business, leadership, and the human experiences that connec...\n\nVagaro Launches E-Prescribe to Streamline Prescription Management for Medspas SAN FRANCISCO--( BUSINESS WIRE )--Vagaro, the leading software for businesses in beauty, wellness, and fitness, recently announced the launch of E-Prescribe, a new integration designed to modernize and simplify how medspas and other providers manage prescriptions. Developed in partnership with ScriptSure, the feature enables practitioners to electronically send prescriptions to any retail or mail-order pharmacy within the Surescripts network. The integration eliminates the inefficiencies of faxes...\n\nVagaro Research Shows 90% of Service Professionals Face High Stress & Burnout SAN FRANCISCO--( BUSINESS WIRE )--New data from the 2025 Vagaro Vantage Report reveals higher levels of stress and other mental health concerns in professionals across self-care industries. According to research by Vagaro, the leading software for beauty and wellness businesses, an overwhelming 90% of professionals surveyed reported experiencing moderate to high stress over the past year, a wake-up call for an industry built on care and service. Top contributors to elevated stress levels include:..."
+      },
+      {
+        "id": 22530479,
+        "title": "Liberis launches BNPL solution in partnership with Vagaro",
+        "url": "https://thepaypers.com/payments/news/liberis-launches-bnpl-solution-in-partnership-with-vagaro",
+        "publisher": "The Paypers",
+        "published_date": "2025-10-27T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Liberis has launched its first Buy Now, Pay Later (BNPL) financing product in the US through a partnership with business management platform Vagaro, integrating Pay with Liberis as Capital for Hardware into Vagaro's checkout experience. The offering enables SMEs in beauty, wellness, and fitness sectors to finance hardware and point-of-sale equipment purchases ranging from USD 500 to USD 10,000, with initial rollout capped at USD 3,000 and payments auto-deducted as a percentage of future revenue. Expansion into additional markets is planned for 2026.",
+        "word_count": 271,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Merchant-Integrated BNPL (Online Checkout)",
+            "code": "FSAKACAA",
+            "is_primary": true
+          },
+          {
+            "name": "Merchant Cash Advance (MCA) & Revenue-Based Financing",
+            "code": "FSAKAGAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ai7",
+            "name": "Liberis",
+            "website": "https://www.liberis.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000393",
+            "name": "loans and lending"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "60",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "66",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52222",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52231",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6153",
+            "name": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "us"
+          ],
+          "product": [
+            "vagaro capital"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.847,
+        "group_id": 5199711,
+        "full_text": "Liberis has launched its first Buy Now, Pay Later (BNPL) financing product in the US through a partnership with business management platform Vagaro. The initiative aims to expand small business access to financing options directly within the checkout experience. Through this collaboration, Vagaro will integrate Pay with Liberis as Capital for Hardware, allowing small and medium-sized enterprises (SMEs) to finance purchases such as hardware or point-of-sale equipment. Funding will range from USD 500 up to USD 10,000, though the initial rollout is limited to USD 3,000. Payments will be automatically deducted as a set percentage of future revenue, with no penalties for early repayment. Funds are disbursed directly to Vagaro, ensuring a streamlined transaction process for merchants. Addressing financing barriers in niche service sectors The embedded financing tool was developed jointly by Liberis and Vagaro to address specific funding challenges faced by small companies in the beauty, wellness, and fitness sectors. Representatives from Liberis noted that businesses in these industries often struggle with fragmented access to financing and require solutions tailored to their revenue cycles. By embedding the BNPL function within Vagaro’s platform, merchants can manage repayments and access financial information directly through their dashboard. The new offering also connects to Vagaro’s other funding solutions powered by Liberis, including Vagaro Capital. Vagaro officials said the collaboration with Liberis was designed to simplify financing for merchants and reduce barriers to obtaining growth-related funding. The company highlighted that the joint product represents an effort to prioritise merchant needs and improve access to capital. Pay with Liberis is currently available to Vagaro customers in the US, with expansion into additional markets planned for 2026."
+      },
+      {
+        "id": 13601150,
+        "title": "Liberis Launches Its First Buy Now, Pay Later Product, Pay With Liberis, Alongside Vagaro",
+        "url": "https://finance.yahoo.com/news/liberis-launches-first-buy-now-133000660.html",
+        "publisher": "Yahoo",
+        "published_date": "2025-10-27T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Liberis launched its U.S. Buy Now, Pay Later product Pay with Liberis, with Vagaro as the first partner. The product offers financing from $500 to $10,000, initially capped at $3,000, integrated into Vagaro's checkout. Expansion into other markets is planned for 2026.",
+        "word_count": 642,
+        "original_language": "EN",
+        "author": "Business Wire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Merchant-Integrated BNPL (Online Checkout)",
+            "code": "FSAKACAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ai7",
+            "name": "Liberis",
+            "website": "https://www.liberis.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001370",
+            "name": "financial service"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "66",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "63",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "52",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52222",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "522220",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "522291",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6153",
+            "name": "SHORT-TERM BUSINESS CREDIT INSTITUTIONS"
+          },
+          {
+            "code": "6159",
+            "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rob fairfield",
+            "kerry melchior"
+          ],
+          "location": [
+            "u.s.",
+            "london",
+            "atlanta"
+          ],
+          "product": [
+            "pay with liberis",
+            "vagaro capital",
+            "buy now, pay later product"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9924,
+        "group_id": 5199711,
+        "full_text": "Buy Now, Pay Later product offers finance at check-out, providing funding at the point of need for beauty, health, and wellness SMBs. ATLANTA & LONDON, October 27, 2025--(BUSINESS WIRE)--Liberis, a leading global embedded finance provider, has today announced the U.S. launch of its new Buy Now, Pay Later product, Pay with Liberis. Vagaro, a leading business management platform for the beauty, wellness, and fitness industries, is the first of Liberis’ strategic partners to adopt the new product – which will be offered to their customers as Capital for Hardware. Vagaro’s users can now purchase products or services at checkout and pay through a fixed percentage of future revenue, solving one of SMBs most persistent challenges. This launch establishes Liberis at the forefront of embedded finance innovation, with Liberis and Vagaro collaborating closely on the creation of Pay with Liberis to ensure it was suitable to solve the financing pain points of Vagaro’s users. \"Small businesses must navigate a fragmented financing landscape, and businesses within the beauty, health and wellness industries face specific funding issues that require specialised support\" says Rob Fairfield, CEO of Liberis. \"With Pay with Liberis, we are now able to offer seamless embedded finance offerings that are not only hand-crafted solutions, but actually accelerate growth, as we lead the way in building definitive funding ecosystems.\" Bespoke offerings for beauty, health and wellness SMBs: Within Vagaro’s platform, Pay with Liberis will be offered to customers as Capital for Hardware, and will offer financing for SMBs from $500 and up to $10,000, although Vagaro’s initial rollout will be capped at $3,000. Pay with Liberis is integrated seamlessly into Vagaro’s checkout process, with merchants able to finance hardware and similar purchases at checkout with funds disbursed directly to Vagaro. Customers can benefit immensely from this integration, with payments automatically split from daily revenue, and no early payment penalties. This product also serves as a gateway to Vagaro’s other financial offerings powered by Liberis, such as Vagaro Capital. Pay with Liberis expands SMB access to growth enabling tools, such as marketing spend and POS hardware, all whilst customers can track repayments and download statements via their dashboard. \"When accessing financial services, we want to help our merchants achieve success and remove some of the obstacles they face,\" says Kerry Melchior, COO of Vagaro. \"Collaborating closely with Liberis on Capital for Hardware, we have been able to prioritise our customers’ needs and reinforce our commitment to supporting our merchant community.\"\n\nStory Continues\n\nPay with Liberis is now live in the U.S. with plans for expansion into other markets over the course of 2026. About Liberis Liberis is on a mission to unleash the power of small businesses all over the world - delivering the financial products they need to grow through a network of global partners. At its core, Liberis is a technology-driven company, bridging the gap between finance and small businesses. They use data and insights to help partners understand their customers' real time needs and tech to offer tailor-made financial products. Empowering small businesses to grow and keep their independent spirit alive is central to their vision. Since 2007, Liberis has funded over 50,000 small businesses with over $3bn - but they believe there is much more to be done. Learn more about Liberis by visiting: https://www.liberis.com/ About Vagaro Vagaro is the leading salon, spa, and fitness software, serving hundreds of thousands of professionals worldwide. Vagaro simplifies business management, credit card and payment processing, and makes it easy for businesses to grow their clientele on a modern consumer marketplace. Vagaro's a-la-carte options and affordable pricing provide a unique level of scalability, making it suitable for businesses of all sizes, from the solopreneur to enterprise franchises. Simple, innovative, and reliable, Vagaro empowers beauty and wellness professionals to excel in a digital age. Visit Vagaro to learn more. View source version on businesswire.com: https://www.businesswire.com/news/home/20251027478778/en/ Contacts katie.moxom@cognitomedia.com"
+      },
+      {
+        "id": 13585608,
+        "title": "Liberis Launches Its First Buy Now, Pay Later Product, Pay With Liberis, Alongside Vagaro",
+        "url": "https://www.businesswire.com/news/home/20251027478778/en/Liberis-Launches-Its-First-Buy-Now-Pay-Later-Product-Pay-With-Liberis-Alongside-Vagaro",
+        "publisher": "Business Wire Blog",
+        "published_date": "2025-10-27T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Liberis launched its first Buy Now, Pay Later product, Pay with Liberis, for Vagaro customers in the U.S. The product offers financing from $500 to $10,000, with an initial rollout capped at $3,000, and payments are split from daily revenue. Expansion into other markets is planned over 2026.",
+        "word_count": 1385,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Vertical-Specific BNPL (e.g., Healthcare, Travel, Home Improvement)",
+            "code": "FSAKACAK",
+            "is_primary": true
+          },
+          {
+            "name": "BNPL & Consumer Travel Financing",
+            "code": "THALAHAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ai7",
+            "name": "Liberis",
+            "website": "https://www.liberis.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000393",
+            "name": "loans and lending"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "66",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "5222",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6163",
+            "name": "LOAN BROKERS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rob fairfield",
+            "kerry melchior"
+          ],
+          "location": [
+            "london",
+            "u.s.",
+            "atlanta"
+          ],
+          "product": [
+            "pay with liberis",
+            "liberis capital",
+            "vagaro capital",
+            "liberis capital platform"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5199711,
+        "full_text": "Liberis Launches Its First Buy Now, Pay Later Product, Pay With Liberis, Alongside Vagaro Share Buy Now, Pay Later product offers finance at check-out, providing funding at the point of need for beauty, health, and wellness SMBs. ATLANTA & LONDON--(BUSINESS WIRE)--Liberis, a leading global embedded finance provider, has today announced the U.S. launch of its new Buy Now, Pay Later product, Pay with Liberis. Vagaro, a leading business management platform for the beauty, wellness, and fitness industries, is the first of Liberis’ strategic partners to adopt the new product – which will be offered to their customers as Capital for Hardware. Vagaro’s users can now purchase products or services at checkout and pay through a fixed percentage of future revenue, solving one of SMBs most persistent challenges. This launch establishes Liberis at the forefront of embedded finance innovation, with Liberis and Vagaro collaborating closely on the creation of Pay with Liberis to ensure it was suitable to solve the financing pain points of Vagaro’s users. “Small businesses must navigate a fragmented financing landscape, and businesses within the beauty, health and wellness industries face specific funding issues that require specialised support” says Rob Fairfield, CEO of Liberis. “With Pay with Liberis, we are now able to offer seamless embedded finance offerings that are not only hand-crafted solutions, but actually accelerate growth, as we lead the way in building definitive funding ecosystems.\" Bespoke offerings for beauty, health and wellness SMBs: Within Vagaro’s platform, Pay with Liberis will be offered to customers as Capital for Hardware, and will offer financing for SMBs from $500 and up to $10,000, although Vagaro’s initial rollout will be capped at $3,000. Pay with Liberis is integrated seamlessly into Vagaro’s checkout process, with merchants able to finance hardware and similar purchases at checkout with funds disbursed directly to Vagaro. Customers can benefit immensely from this integration, with payments automatically split from daily revenue, and no early payment penalties. This product also serves as a gateway to Vagaro’s other financial offerings powered by Liberis, such as Vagaro Capital. Pay with Liberis expands SMB access to growth enabling tools, such as marketing spend and POS hardware, all whilst customers can track repayments and download statements via their dashboard. “When accessing financial services, we want to help our merchants achieve success and remove some of the obstacles they face,” says Kerry Melchior, COO of Vagaro. “Collaborating closely with Liberis on Capital for Hardware, we have been able to prioritise our customers’ needs and reinforce our commitment to supporting our merchant community.” Pay with Liberis is now live in the U.S. with plans for expansion into other markets over the course of 2026. About Liberis Liberis is on a mission to unleash the power of small businesses all over the world - delivering the financial products they need to grow through a network of global partners. At its core, Liberis is a technology-driven company, bridging the gap between finance and small businesses. They use data and insights to help partners understand their customers' real time needs and tech to offer tailor-made financial products. Empowering small businesses to grow and keep their independent spirit alive is central to their vision. Since 2007, Liberis has funded over 50,000 small businesses with over $3bn - but they believe there is much more to be done. Learn more about Liberis by visiting: https://www.liberis.com/ About Vagaro Vagaro is the leading salon, spa, and fitness software, serving hundreds of thousands of professionals worldwide. Vagaro simplifies business management, credit card and payment processing, and makes it easy for businesses to grow their clientele on a modern consumer marketplace. Vagaro's a-la-carte options and affordable pricing provide a unique level of scalability, making it suitable for businesses of all sizes, from the solopreneur to enterprise franchises. Simple, innovative, and reliable, Vagaro empowers beauty and wellness professionals to excel in a digital age. Visit Vagaro to learn more. Liberis Release Versions English More News From Liberis Get RSS Feed Liberis Ends the SMB Funding Maze with New AI-Powered Capital Platform LONDON--( BUSINESS WIRE )--Liberis, a leading global embedded finance provider, today launched the Liberis Capital Platform, an AI-powered solution engineered to solve the most persistent challenge for small businesses: navigating a broken and fragmented funding landscape. The platform provides a single, intelligent ecosystem where businesses can access a suite of five financial products, receiving real-time, personalized recommendations that guide them from their first day of trading to major ex... Back to Newsroom Liberis Release Versions English Wish your news had this kind of reach? Sign Up Learn About Business Wire\n\nDo Not Sell My Personal Information When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link. More information Allow All Manage Consent Preferences Strictly Necessary Cookies Always Active Strictly Necessary Cookies These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Cookies Details‎ Performance Cookies Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Cookies Details‎ Social Media Cookies Social Media Cookies These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools. Cookies Details‎ Targeting Cookies Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Cookies Details‎ Confirm My Choices Back Button Back Performance Cookies Vendor Search Search Icon Filter Icon Clear Filters Information storage and access Apply Consent Leg.Interest All Consent Allowed Select All Vendors Select All Vendors All Consent Allowed 33Across host description View Cookies REPLACE-WITH-DYANMIC-HOST-ID Name cookie name\n\n33Across View Privacy Notice 3 Purposes REPLACE-WITH-DYANMIC-VENDOR-ID Arrow Consent Purposes Location Based Ads Consent Allowed Legitimate Interest Purposes Personalize Require Opt-Out Special Purposes Location Based Ads Features Location Based Ads Special Features Location Based Ads Confirm My Choices This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.Cookie Policy Do Not Sell My Personal Information Accept Cookies"
+      }
+    ],
+    "credits_consumed": 0.24
+  }
+}

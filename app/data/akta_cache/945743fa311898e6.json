@@ -1,0 +1,1316 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002z9&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:39.382Z",
+  "data": {
+    "total": 11,
+    "limit": 50,
+    "offset": 0,
+    "count": 11,
+    "data": [
+      {
+        "id": 31712356,
+        "title": "Videa Achieves Top 100 Ranking on Inc. 5000 List for Second Consecutive Year",
+        "url": "https://www.businesswire.com/news/home/20260811314030/en/Videa-Achieves-Top-100-Ranking-on-Inc.-5000-List-for-Second-Consecutive-Year",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-08-11T12:05:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Videa was ranked No. 75 on the Inc. 5000 list for the second year, recognizing its rapid growth as a dental AI platform. The company expanded its platform with new AI capabilities and increased adoption across dental organizations. ",
+        "word_count": 1475,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Clear Aligner Orthodontics",
+            "code": "HLABABAD",
+            "is_primary": true
+          },
+          {
+            "name": "Oral & Maxillofacial Surgery Group Practices",
+            "code": "HLABAKAE",
+            "is_primary": false
+          },
+          {
+            "name": "Plastics / Cosmetic & Dermatologic Surgery Centers",
+            "code": "HLAFAIAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "florian hillen",
+            "cecilia diaz anthonybarnum public relations",
+            "cecilia diaz"
+          ],
+          "location": [
+            "boston",
+            "america",
+            "u.s.",
+            "texas",
+            "dallas",
+            "north america"
+          ],
+          "product": [
+            "videa",
+            "voice",
+            "autoverify",
+            "123d",
+            "videahealth"
+          ],
+          "event": [
+            "inc. 5000 conference & gala"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6777741,
+        "full_text": "Aug 11, 2026 8:05 AM Eastern Daylight Time\n\n# **Videa Achieves Top 100 Ranking on Inc. 5000 List for Second Consecutive Year**\n\nShare\n\n---\n\n*Recognition follows a year of platform expansion, new ambient AI capabilities and growing adoption across DSOs and private practices*\n\nBOSTON--([BUSINESS WIRE](https://www.businesswire.com))--[Videa](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fvidea.ai%2F&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=Videa&index=1&md5=a2bb3e9ebd6d1f8bbf0430c26db765e3), the most adopted dental AI platform, today announced it has been ranked No. 75 on the Inc. 5000 list, the annual ranking of the fastest-growing private companies in America. The recognition marks Videa’s second consecutive year among the top 2% of all companies honored.\n\nVidea’s growth reflects the company’s expanding role across the dental industry. Over the past year, the company broadened its platform with the introduction of [AutoVerify](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fvidea.ai%2Fplatform%2Fauto-verify&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=AutoVerify&index=2&md5=c11e21e5ab8bf60cd10cb1e14fcbdfa0) for insurance eligibility verification, [Voice](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fvidea.ai%2Fplatform%2Fvoice&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=Voice&index=3&md5=b77f90e9b49d96611c1a4d8aecee88fa), which captures chairside conversations and perio findings and turns them into chart-ready documentation and [Ambient Intelligence](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Finfo.videa.ai%2Fambient-ai-waitlist%3Futm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3D2026-pr-ambientai-vp%26utm_term%3Dmay-2026%26utm_content%3Dpr%26_gl%3D1*pc13xa*_gcl_au*MTc4ODUzMDI0NS4xNzgzNjEwNTMz*_ga*MzYxNTc0MDUzLjE3ODM2MTA1MzM.*_ga_FT74G56YBJ*czE3ODYwNDE3MjUkbzkkZzEkdDE3ODYwNDE4NDAkajUkbDAkaDA.*_ga_XTC0GCYNL3*czE3ODYwNDE3MjUkbzkkZzEkdDE3ODYwNDE4NDAkajUkbDAkaDA.&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=Ambient+Intelligence&index=4&md5=f7e3189494434c74d94ea6e6b7e681c2), which surfaces key insights from those patient-provider interactions. The company also continued to grow its presence across leading dental organizations, including 123D, Emergency Dental and Specialty Dental Brands. Videa has also advanced its support for independent practices, bringing capabilities developed for complex dental organizations to teams across a wider range of practice sizes.\n\nTogether, these developments reflect Videa’s broader vision of AI as an operating layer for the dental practices, bringing diagnostics, documentation, patient communication, practice insights, insurance verification, and claims support together within a single platform. By connecting these critical workflows, Videa helps practices of all sizes to move faster, reduce errors, and spend more time focused on patients.\n\n“A second consecutive top 100 placement is a meaningful milestone for Videa and a credit to the team behind our growth,” said Florian Hillen, founder and CEO of Videa. “It reflects a bigger shift in dentistry: AI is becoming core infrastructure for how practices operate, and the breadth of our platform gives Videa the unique opportunity to lead that transition.”\n\nThis year’s Inc. 5000 recognizes a new class of companies redefining what growth looks like. From AI and advanced manufacturing to healthcare, consumer products, and professional services, these businesses are expanding their impact, creating jobs and proving that entrepreneurial ambition continues to fuel the U.S. economy. Among the 5,000 companies on the list, the median three-year revenue growth rate was 130%, and those companies have collectively added more than 627,208 jobs to the U.S. economy over the past three years.\n\nInc. will celebrate the honorees at the 2026 [Inc. 5000 Conference & Gala](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fevents.inc.com%2F2026incconference&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=Inc.+5000+Conference+%26amp%3B+Gala&index=5&md5=0c6ffe48879745c31294dae4f82802b9), taking place October 14–16 in Dallas, Texas and the top 500 will be listed in the Fall issue of *Inc.* Magazine. For the full Inc. 5000 list, honoree company profiles, and a searchable database by industry and location, please visit: [www.inc.com/inc5000](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.inc.com%2Finc5000&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=www.inc.com%2Finc5000&index=6&md5=f5faff08872c89cab35ee6673f8d80e5).\n\n**About Videa**\n\nVidea is transforming dentistry with AI-powered solutions that reduce complexity across the dental workflow and help practices elevate care standards, improve productivity, and drive real business value. Videa, a complete Dental AI platform, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by over 90,000 clinicians across more than 100 leading DSOs, Videa’s FDA-cleared AI analyzes over 50 million patients annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, Videa is advancing the future of dental care through responsible and real-world AI. Learn more at [videa.ai](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fvidea.ai%2F&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=videa.ai&index=7&md5=9a2ae900e9031ef2716a2cff5c90f51e) and follow us on [LinkedIn](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fvideahealth&esheet=54586962&newsitemid=20260811314030&lan=en-US&anchor=LinkedIn&index=8&md5=6017589c18a903e664870a418e3b0c5b).\n\n## Contacts\n\n**Media Contact**  \nCecilia Diaz\n  \nanthonyBarnum Public Relations\n  \n[cecilia.diaz@anthonybarnum.com](mailto:cecilia.diaz@anthonybarnum.com)\n\nIndustry:\n\n* [VoIP](/newsroom?industry=1085818)\n* [Software](/newsroom?industry=1000169)\n* [General Health](/newsroom?industry=1085807)\n* [Professional Services](/newsroom?industry=1000150)\n* [Data Management](/newsroom?industry=1000056)\n* [Technology](/newsroom?industry=1000178)\n* [Small Business](/newsroom?industry=1085813)\n* [Artificial Intelligence](/newsroom?industry=1778623)\n* [Dental](/newsroom?industry=1000058)\n* [Audio/Video](/newsroom?industry=1050090)\n* [Practice Management](/newsroom?industry=1085810)\n* [Health](/newsroom?industry=1000088)\n\n### Videa\n\n---\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260811314030/en/Videa-Achieves-Top-100-Ranking-on-Inc.-5000-List-for-Second-Consecutive-Year)\n\n---\n\n### Contacts\n\n**Media Contact**  \nCecilia Diaz\n  \nanthonyBarnum Public Relations\n  \n[cecilia.diaz@anthonybarnum.com](mailto:cecilia.diaz@anthonybarnum.com)\n\nMore News From Videa\n\nGet RSS Feed\n\n[## Specialty Dental Brands Selects Videa to Advance AI-assisted Care and Parent Communication Across its Pediatric Network](/news/home/20260714140517/en/Specialty-Dental-Brands-Selects-Videa-to-Advance-AI-assisted-Care-and-Parent-Communication-Across-its-Pediatric-Network)\n\nBOSTON--([BUSINESS WIRE](https://www.businesswire.com))--Videa, the most adopted dental AI platform, today announced that Specialty Dental Brands (SDB) has selected Videa as its dental AI platform. The partnership marks one of the first large-scale AI deployments focused on pediatric dental care, designed to enhance parent education, improve provider communication, and support more coordinated specialty care across SDB’s growing network.“Our providers are constantly balancing clinical efficiency with the need to create thought...\n\n[## Videa Launches Ambient Intelligence, Extending Voice AI from Documentation to Practice Insights](/news/home/20260512805114/en/Videa-Launches-Ambient-Intelligence-Extending-Voice-AI-from-Documentation-to-Practice-Insights)\n\nBOSTON--([BUSINESS WIRE](https://www.businesswire.com))--Videa, the most adopted dental AI platform, today announced Ambient Intelligence, a new category of conversational intelligence designed to help practices learn from patient-provider exchanges during care. Built on Videa’s broader AI platform spanning imaging, clinical workflows, and voice solutions, Ambient Intelligence transforms conversations into actionable insights that improve care quality, practice performance, and operational efficiency. Ambient Intelligence is...\n\n[## VideaHealth Unveils Rebrand and Expands The Most Adopted Dental AI Platform to Private Practices](/news/home/20260421054670/en/VideaHealth-Unveils-Rebrand-and-Expands-The-Most-Adopted-Dental-AI-Platform-to-Private-Practices)\n\nBOSTON--([BUSINESS WIRE](https://www.businesswire.com))--VideaHealth, the leading dental AI platform, today announced its rebrand to Videa and the expansion of its award-winning AI platform to private dental practices. Trusted by 90,000 clinicians in North America and 8 of the 10 largest dental service organizations, the new brand and vision reflect the company’s mission to reduce daily complexity, support diagnostics and patient education, and give clinicians across all practices more time for patient connection and care. “A...\n\n[Back to Newsroom](/newsroom)\n\n### Videa\n\n---\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260811314030/en/Videa-Achieves-Top-100-Ranking-on-Inc.-5000-List-for-Second-Consecutive-Year)\n\n---\n\n### Contacts\n\n**Media Contact**  \nCecilia Diaz\n  \nanthonyBarnum Public Relations\n  \n[cecilia.diaz@anthonybarnum.com](mailto:cecilia.diaz@anthonybarnum.com)\n\n## Wish your news had this kind of reach?\n\n[Sign Up](/sign-up/account)[Learn About Business Wire](/why-business-wire)\n\n### Privacy Preference Center\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.\n[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nStrictly Necessary Cookies\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Functional Cookies\n\nFunctional Cookies\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Performance Cookies\n\nPerformance Cookies\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Targeting Cookies\n\nTargeting Cookies\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Social Media Cookies\n\nSocial Media Cookies\n\nThese cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.\n\n[Cookies Details‎](javascript:void(0))\n\nConfirm My Choices\n\n[Back Button\n\nBack](javascript:void(0)) \n\n### Performance Cookies\n\nVendor Search Search Icon [Filter Icon](javascript:void(0))\n\n[Clear Filters](javascript:void(0))\n\nInformation storage and access\n\nApply\n\nConsent Leg.Interest\n\nAll Consent Allowed\n\nSelect All Vendors\n\nSelect All Vendors\n\nAll Consent Allowed\n\n* ### 33Across\n\n  #### host description\n\n  #### View Cookies\n\n  REPLACE-WITH-DYANMIC-HOST-ID\n\n  + Name\n\n    cookie name\n\n* ### 33Across\n\n  [View Privacy Notice](#)\n\n  3 Purposes\n\n  REPLACE-WITH-DYANMIC-VENDOR-ID\n\n  Arrow\n\n  Consent Purposes\n\n  Location Based Ads\n\n  Consent Allowed\n\n  Legitimate Interest Purposes\n\n  Personalize\n\n  [Require Opt-Out](#)\n\n  Special Purposes\n\n  Location Based Ads\n\n  Features\n\n  Location Based Ads\n\n  Special Features\n\n  Location Based Ads\n\nConfirm My Choices\n\nBy clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Cookie Policy](https://services.businesswire.com/cookie-policy)\n\nCookies Settings Accept All Cookies"
+      },
+      {
+        "id": 35184114,
+        "title": "Videa Launches Ambient Intelligence, Extending Voice AI from Documentation to Practice Insights",
+        "url": "https://www.businesswire.com/news/home/20260512805114/en/Videa-Launches-Ambient-Intelligence-Extending-Voice-AI-from-Documentation-to-Practice-Insights",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-05-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Videa launched Ambient Intelligence, a conversational intelligence platform for dental practices to learn from patient-provider exchanges. The platform is live for select Voice Notes customers, with a waitlist opening May 12 and broader availability planned by end of 2026.",
+        "word_count": 590,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Conversational AI Platforms (chat/voice bots, orchestration)",
+            "code": "HDAAAFAC",
+            "is_primary": true
+          },
+          {
+            "name": "Audio & Speech Analytics (call analytics, QA, insights)",
+            "code": "HDAAAFAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "5047",
+            "name": "WHOLESALE-MEDICAL, DENTAL & HOSPITAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "florian hillen",
+            "cecilia diaz",
+            "chris salierno"
+          ],
+          "location": [
+            "boston"
+          ],
+          "product": [
+            "voice notes",
+            "opendental",
+            "ambient intelligence",
+            "dentrix core",
+            "dentrix ascend",
+            "videa",
+            "voice perio"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9568,
+        "group_id": 11375489,
+        "full_text": "Videa Launches Ambient Intelligence, Extending Voice AI from Documentation to Practice Insights\nVidea Launches Ambient Intelligence, Extending Voice AI from Documentation to Practice Insights\nNew category of conversational intelligence builds on Videa’s integrated AI platform and advances leadership in voice AI for dentistry\nBOSTON--(BUSINESS WIRE)--Videa, the most adopted dental AI platform, today announced Ambient Intelligence, a new category of conversational intelligence designed to help practices learn from patient-provider exchanges during care. Built on Videa’s broader AI platform spanning imaging, clinical workflows, and voice solutions, Ambient Intelligence transforms conversations into actionable insights that improve care quality, practice performance, and operational efficiency. Ambient Intelligence is built specifically for dental practices and designed to help teams better understand patterns across discussions, case presentations, and other patient interactions. The platform helps practices gain a clearer understanding of what resonates with patients, where communication may be breaking down, and how teams can better respond to common concerns and fears.\n“Imagine a dental practice where each conversation helps make the next appointment more impactful: providers get sharper with every case, and the entire team has more context to support the patient the best way possible and deliver better care,” said Florian Hillen, founder and CEO of Videa. “That is the opportunity we see with Ambient Intelligence. Voice in dentistry can do much more than document a visit. It can help practices learn from everyday interactions and turn those moments into insight that improves care.”\nThe initial focus for Ambient Intelligence is helping practices understand which approaches are helping patients move forward with care, including how providers explain treatment options and how patients respond. Over time, the same conversational layer is expected to unlock a wider range of practice intelligence, including:\n- Where patients need more clarity to understand diagnoses, treatment options, and next steps\n- How providers explain findings, recommendations, risks, benefits, and expected outcomes\n- Opportunities to improve patient clarity, confidence, and follow-through\n- Variations in treatment conversations across providers, locations, or visit types\n“The value of Ambient Intelligence comes down to two things: conversion and hospitality,” said Dr. Chris Salierno, Chief Dental Officer at Tend. “Whether it is coaching a provider on ways to connect better with patients or identifying patterns that impact case acceptance, nothing else gives us that window into the room. It is invaluable.”\nIn the first six months following the launch of Voice Notes, Videa has generated 30,000 notes from over 22,500 hours of recorded audio across hundreds of practices, reflecting growing demand for voice technology across the dental practice.\nAs part of this expansion in voice, Voice Perio is now available for practices using Dentrix Core, Dentrix Ascend, and OpenDental, allowing hygienists to document pocket depths, bleeding, recession and mobility hands-free. Together with Voice Notes, that availability extends Videa’s voice capabilities across more of the dental practice.\nAmbient Intelligence is live today for select Voice Notes customers, with a waitlist opening May 12 and broader availability planned by the end of 2026.\nAbout Videa\nVidea is transforming dentistry with AI-powered solutions that reduce complexity across the dental workflow and help practices elevate care standards, improve productivity, and drive real business value. Videa, a complete Dental AI platform, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by over 90,000 clinicians across more than 60 leading DSOs, Videa’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, Videa is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai and follow us on LinkedIn.\nContacts\nMedia Contact\nCecilia Diaz\nanthonyBarnum Public Relations\ncecilia.diaz@anthonybarnum.com"
+      },
+      {
+        "id": 24064522,
+        "title": "Dentrix Ascend adds AI voice workflow with AWS",
+        "url": "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html",
+        "publisher": "Stock Titan",
+        "published_date": "2026-04-30T10:30:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Henry Schein One has launched its Next Generation Clinical Workflow for the Dentrix Ascend platform, a voice-driven, AI-enabled system developed in collaboration with AWS that integrates imaging, charting, diagnostics, and treatment planning into a single continuous workflow for dental practices. The platform is deployed across more than 100,000 global locations, including approximately 90% of the top dental service organizations, and processes over 120 million claims annually. Key features include real-time AI review of radiographs, ambient voice-generated clinical notes, hands-free periodontal charting, and integrated AI diagnostic detection powered by Videa.",
+        "word_count": 874,
+        "original_language": "EN",
+        "author": "Stock Titan",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Nursing, Clinical Notes & Documentation Workflow Tools",
+            "code": "HLACAAAG",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Digital Transformation",
+            "code": "SD06",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0002mbt",
+            "name": "Henry Schein One",
+            "website": "http://www.henryscheinone.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008qf",
+            "name": "Amazon Web Services",
+            "website": "https://s3.eu-west-1.amazonaws.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr. lou graham",
+            "dr. aj acierno",
+            "dr. ryan hungate",
+            "adam beeson"
+          ],
+          "location": [
+            "utah",
+            "american fork",
+            "global locations"
+          ],
+          "product": [
+            "dentrix ascend",
+            "voice perio",
+            "videa",
+            "detect ai",
+            "henry schein one"
+          ],
+          "event": [
+            "thrivelive"
+          ]
+        },
+        "newsworthiness_score": 0.9696,
+        "group_id": 798122,
+        "full_text": "Dentrix Ascend Introduces Next Generation Clinical Workflow Built with AWS\n\n04/30/2026 - 10:30 AM\n\nVoice and AI bring charting, imaging, and treatment planning into a single, continuous workflow, helping practices move faster at the chairside and complete more within a single patient visit.\n\nAMERICAN FORK, Utah --(BUSINESS WIRE)-- Henry Schein One, the global leader in dental technology, today announced the launch of its Next Generation Clinical Workflow, a voice-driven, AI-enabled advancement embedded within the Dentrix Ascend platform that transforms how dentistry is delivered at the chairside. The Next Generation Clinical Workflow represents the next step in Henry Schein One’s ongoing collaboration with Amazon Web Services (AWS) to bring generative AI into everyday clinical workflows.\n\nThe Next Generation Clinical Workflow brings imaging, charting, diagnostics, and treatment planning into a single, continuous experience. Clinicians can capture data, navigate the system, and complete documentation using voice and AI without breaking focus or leaving the patient. AI-enabled capabilities within the workflow are intended as a detection aid to support dentists and healthcare providers, used alongside clinical findings and practitioner judgment in making final diagnostic and treatment decisions. By enabling doctors to stay in a single pair of gloves, the technology helps improve efficiency and patient engagement during exams and treatment.\n\nHenry Schein One’s dental technology platforms support more than 100,000 global locations, including approximately 90% of the top DSOs, processing over 120 million claims annually. With more than 191 million eligibility checks and 22 million completed digital forms, the scale of structured clinical and operational data inside the platform enables AI to work in real workflows, not in isolation.\n\nAt its core is a simple idea: when clinical workflows work better, practices perform better.\n\n“For too long, clinicians have had to adapt to software instead of software adapting to how clinicians work,” said Dr. Ryan Hungate, Chief Clinical and Strategy Officer, Henry Schein One. “With Next Generation Clinical Workflow, we’re embedding intelligence directly into the flow of care, connecting what happens chairside to the operational and financial outcomes that follow.”\n\nThe Next Generation Clinical Workflow today includes:\n\nImage Verify: Real-time AI review of radiographs helps support image quality, staff training, and cleaner claims through stronger documentation.\n\nReal-time AI review of radiographs helps support image quality, staff training, and cleaner claims through stronger documentation. Voice Notes: Automatically captures and generates structured clinical notes from ambient chairside conversations, saving charting time while supporting clinical accuracy.\n\nAutomatically captures and generates structured clinical notes from ambient chairside conversations, saving charting time while supporting clinical accuracy. Voice Perio: Enables hands-free periodontal charting through voice, helping clinicians to document findings quickly and accurately without breaking clinical flow.\n\nEnables hands-free periodontal charting through voice, helping clinicians to document findings quickly and accurately without breaking clinical flow. Detect AI: Through integrated third-party AI diagnostic capabilities powered by Videa, clinicians can surface potential areas of concern as a detection aid to support diagnosis, used alongside clinical judgment and other patient findings.\n\nLooking ahead, Henry Schein One’s vision for the Next Generation Clinical Workflow includes expanding intelligence deeper into the clinical experience through capabilities such as AI-powered image magnification to help better see areas for clinician review, disease progression analysis using heat mapping to highlight changes over time, voice charting that converts spoken findings into structured chart entries in real time, voice command for hands-free navigation across imaging, charting, and workflows, and AI treatment planning coaching to support more effective treatment conversations and help improve case acceptance.\n\nTogether, these innovations point toward a more connected clinical experience where intelligence supports clinicians at every step of care, helping improve consistency, efficiency, and practice performance.\n\nFor DSOs, consistency and scalability are critical across multi-location environments where variation can impact both care and performance.\n\n“When clinical data, imaging, and AI are fully integrated into one platform, it creates a more standardized and efficient experience across locations,” said Dr. AJ Acierno, Chief Clinical Officer, Smile Brands. “That consistency supports better patient outcomes while driving operational performance at scale.”\n\nBy connecting insights directly to structured documentation and treatment planning, the workflow helps reduce downstream friction, supporting cleaner claims, faster approvals, and more predictable performance.\n\n“What stands out in this next phase of Dentrix Ascend is not just the dedication to innovation, but the velocity at which meaningful capabilities are reaching clinicians and their teams,” said Dr. Lou Graham, Founder, Catapult Education. “When clinical technology is embedded into everyday workflow in practical ways, it has the potential to improve both the provider and patient experience.”\n\nThe launch marks another step in Henry Schein One’s broader vision to bring connected, AI-powered workflows into every layer of practice performance.\n\nTo learn more and see a live demo, join Henry Schein One at booth #300 at THRIVELIVE, Henry Schein’s premier annual dental education event.\n\nAbout Henry Schein One\n\nHenry Schein One is the global leader in dental technology, delivering integrated solutions that connect practice operations, clinical workflows, and patient experience. Dentrix Ascend is its cloud-based platform built to help practices grow with less complexity. With more than 100,000 global locations on the platform, Henry Schein One provides the infrastructure, the data foundation, the pre-built AI agents, and the open build layer that dental AI runs on. Henry Schein One, LLC, is a joint venture between Henry Schein, Inc. (Nasdaq: HSIC) and Internet Brands.\n\nView source version on businesswire.com: https://www.businesswire.com/news/home/20260429373021/en/\n\nMedia Contact:\n\nAdam Beeson\n\nSr. Manager of Communications, Henry Schein One\n\nAdam.Beeson@henryscheinone.com\n\nSource: Henry Schein One"
+      },
+      {
+        "id": 22970396,
+        "title": "VideaHealth Unveils Rebrand and Expands The Most Adopted Dental AI Platform to Private Practices",
+        "url": "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/",
+        "publisher": "Aijourn",
+        "published_date": "2026-04-21T12:15:30",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "VideaHealth announced its rebrand to Videa and the expansion of its dental AI platform to independent private dental practices, after years of serving larger dental service organizations. The platform, used by 90,000 clinicians and eight of North America's 10 largest DSOs, offers AI-powered clinical support, automated documentation, and practice management tools. The company reports measurable outcomes including a 20% higher case acceptance rate, 1-2 hours saved per clinician daily, and a 50% reduction in insurance claim denials.",
+        "word_count": 601,
+        "original_language": "EN",
+        "author": "Business Wire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Support Services Organizations (Non-Clinical MSO/Back-Office Platforms)",
+            "code": "HLABAKAN",
+            "is_primary": true
+          },
+          {
+            "name": "Preventive & Routine General Dentistry (Exams/Cleanings/Sealants/Fluoride)",
+            "code": "HLABAAAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Brand & Marketing Initiatives",
+            "code": "SD07",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "florian hillen",
+            "cecilia diaz"
+          ],
+          "location": [
+            "boston",
+            "north america"
+          ],
+          "product": [
+            "videa",
+            "videahealth"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 868879,
+        "full_text": "Used by 90,000 clinicians and trusted by eight of North America’s 10 largest DSOs, Videa extends its award-winning AI solution to independent dental practices. BOSTON–(BUSINESS WIRE)–VideaHealth, the leading dental AI platform, today announced its rebrand to Videa and the expansion of its award-winning AI platform to private dental practices. Trusted by 90,000 clinicians in North America and 8 of the 10 largest dental service organizations, the new brand and vision reflect the company’s mission to reduce daily complexity, support diagnostics and patient education, and give clinicians across all practices more time for patient connection and care.\n\n“After years of supporting upper mid‑market and enterprise dental groups, we’re excited to bring the capabilities we’ve built to independent practice owners,” said Florian Hillen, founder and CEO of Videa. “We stay close to the challenges practices face every day, anticipating what’s next so we can continue delivering impactful innovation. Our goal is to remove the daily complexity that gets in the way of great care and help teams focus more fully on dentistry.” The rebrand brings Videa’s commitment to making everyday dentistry easier to the forefront. Instead of adding more tools to an already crowded workflow, Videa is designed to reduce friction chairside and create clarity at the point of care. From diagnostics and documentation to insurance verification and claims submission, Videa supports the real-world needs of dental practices. Built on the company’s core pillars of practical simplicity, seamless connection, and continuous innovation, Videa brings together AI-powered clinical support, automated documentation, ambient intelligence, and real-time practice insights into a single, connected experience. The result is a modern, intuitive platform and workflow that supports better care, more time for patients, and stronger performance across the practice. As part of the rebrand launch, Hillen will share a short video message outlining the company’s evolution and its expanded support for independent practices: Meet Videa | Florian Hillen, CEO and Founder Across both small and group practices, dental teams benefit from Videa’s capabilities, including: 20% higher case acceptance rate and stronger diagnostic confidence, supported by Clinical Assist ’s visual findings\n\nsupported by visual findings 1-2 hours saved per clinician per day through automated, chart-ready documentation from Voice Notes\n\nthrough automated, chart-ready documentation from Smoother daily operations with Daily Dashboard , helping teams start the day organized, informed, and ready for care opportunities\n\nwith helping teams start the day organized, informed, and ready for care opportunities Real-time visibility into performance trends with Insights , helping practices strengthen care consistency\n\nwith , helping practices strengthen care consistency Faster, more reliable insurance checks with AutoVerify , providing clear eligibility insights\n\nwith , providing clear eligibility insights 50% reduction in denials as Clean Claims automatically attaches the right documentation and narratives to each submission “With this expansion, Videa is giving practices of every size the support needed to reduce complexity across the day and deliver better care. We’re excited to see practices across the country benefit from a simpler, more connected workflow,” continued Hillen. About Videa Videa is transforming dentistry with AI-powered solutions that reduce complexity across the dental workflow and help practices elevate care standards, improve productivity, and drive real business value. Videa, a complete Dental AI platform, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by over 90,000 clinicians across more than 60 leading DSOs, Videa’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, Videa is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai and follow us on LinkedIn. Contacts Media Contact\n\nCecilia Diaz\n\n\n\nanthonyBarnum Public Relations\n\n\n\ncecilia.diaz@anthonybarnum.com"
+      },
+      {
+        "id": 35178757,
+        "title": "VideaHealth Unveils Rebrand and Expands The Most Adopted Dental AI Platform to Private Practices",
+        "url": "https://www.businesswire.com/news/home/20260421054670/en/VideaHealth-Unveils-Rebrand-and-Expands-The-Most-Adopted-Dental-AI-Platform-to-Private-Practices",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-04-21T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "VideaHealth rebranded to Videa and expanded its dental AI platform to private practices. The platform is used by 90,000 clinicians and trusted by eight of North America's 10 largest DSOs. It offers AI-powered diagnostics, automated documentation, and insurance verification.",
+        "word_count": 582,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "SaMD – Imaging & Signal Analysis (AI/ML)",
+            "code": "HLACANAG",
+            "is_primary": true
+          },
+          {
+            "name": "Multi-Specialty DSOs (General + Specialty Networks)",
+            "code": "HLABAKAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Brand & Marketing Initiatives",
+            "code": "SD07",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Geographic Expansion",
+            "code": "SD03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "593",
+            "name": "Style & Fashion"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "286",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "florian hillen",
+            "cecilia diaz"
+          ],
+          "location": [
+            "boston",
+            "north america"
+          ],
+          "product": [
+            "videa",
+            "videahealth",
+            "clinical assist"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9967,
+        "group_id": 868879,
+        "full_text": "VideaHealth Unveils Rebrand and Expands The Most Adopted Dental AI Platform to Private Practices\nVideaHealth Unveils Rebrand and Expands The Most Adopted Dental AI Platform to Private Practices\nUsed by 90,000 clinicians and trusted by eight of North America’s 10 largest DSOs, Videa extends its award-winning AI solution to independent dental practices.\nBOSTON--(BUSINESS WIRE)--VideaHealth, the leading dental AI platform, today announced its rebrand to Videa and the expansion of its award-winning AI platform to private dental practices. Trusted by 90,000 clinicians in North America and 8 of the 10 largest dental service organizations, the new brand and vision reflect the company’s mission to reduce daily complexity, support diagnostics and patient education, and give clinicians across all practices more time for patient connection and care.\n“After years of supporting upper mid‑market and enterprise dental groups, we're excited to bring the capabilities we’ve built to independent practice owners,” said Florian Hillen, founder and CEO of Videa. “We stay close to the challenges practices face every day, anticipating what’s next so we can continue delivering impactful innovation. Our goal is to remove the daily complexity that gets in the way of great care and help teams focus more fully on dentistry.”\nThe rebrand brings Videa’s commitment to making everyday dentistry easier to the forefront. Instead of adding more tools to an already crowded workflow, Videa is designed to reduce friction chairside and create clarity at the point of care. From diagnostics and documentation to insurance verification and claims submission, Videa supports the real-world needs of dental practices.\nBuilt on the company’s core pillars of practical simplicity, seamless connection, and continuous innovation, Videa brings together AI-powered clinical support, automated documentation, ambient intelligence, and real-time practice insights into a single, connected experience. The result is a modern, intuitive platform and workflow that supports better care, more time for patients, and stronger performance across the practice.\nAs part of the rebrand launch, Hillen will share a short video message outlining the company’s evolution and its expanded support for independent practices:\nMeet Videa | Florian Hillen, CEO and Founder\nAcross both small and group practices, dental teams benefit from Videa’s capabilities, including:\n- 20% higher case acceptance rate and stronger diagnostic confidence, supported by Clinical Assist’s visual findings\n- 1-2 hours saved per clinician per day through automated, chart-ready documentation from Voice Notes\n- Smoother daily operations with Daily Dashboard, helping teams start the day organized, informed, and ready for care opportunities\n- Real-time visibility into performance trends with Insights, helping practices strengthen care consistency\n- Faster, more reliable insurance checks with AutoVerify, providing clear eligibility insights\n- 50% reduction in denials as Clean Claims automatically attaches the right documentation and narratives to each submission\n“With this expansion, Videa is giving practices of every size the support needed to reduce complexity across the day and deliver better care. We’re excited to see practices across the country benefit from a simpler, more connected workflow,” continued Hillen.\nAbout Videa\nVidea is transforming dentistry with AI-powered solutions that reduce complexity across the dental workflow and help practices elevate care standards, improve productivity, and drive real business value. Videa, a complete Dental AI platform, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by over 90,000 clinicians across more than 60 leading DSOs, Videa’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, Videa is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai and follow us on LinkedIn.\nContacts\nMedia Contact\nCecilia Diaz\nanthonyBarnum Public Relations\ncecilia.diaz@anthonybarnum.com"
+      },
+      {
+        "id": 21415671,
+        "title": "Dental AI Guides, Tools & Webinars",
+        "url": "https://www.videa.ai/resources",
+        "publisher": "Videa",
+        "published_date": "2026-04-01T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.4873,
+        "ai_summary": "A blog post published on October 8, 2024, summarizes a VideaHealth webinar featuring Dr. Cindy Roark of Sage Dental, highlighting that over 60% of recommended dental treatments go unaccepted by patients. The article describes how AI tools, including colored X-rays, intraoral photos, and AI-generated printouts from VideaHealth's VideaAI platform, help patients visualize dental issues and increase treatment acceptance rates. The post positions AI as a solution for improving patient communication and trust in dental practices.",
+        "word_count": 146,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "General Dentistry Group Practices",
+            "code": "HLABAKAB",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          },
+          {
+            "name": "Software as a Medical Device (SaMD) – Clinical Decision & Diagnostic Software",
+            "code": "HLACANAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Talent-Market Dynamics",
+            "code": "WT05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "blog_post",
+          "label": "Blog post"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339114",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr. cindy roark"
+          ],
+          "location": [],
+          "product": [
+            "videaai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7334,
+        "group_id": 5654115,
+        "full_text": "Blog October 8, 2024\n\nWhy Patients Say No to Dental Treatment and How AI Can Help: Insights from Dr. Cindy Roark of Sage Dental\n\nDental patients often refuse recommended treatments, with over 60% of cases going unaccepted. This blog, based on a VideaHealth webinar with Dr. Cindy Roark, explores how artificial intelligence (AI) can change that by enhancing patient understanding and trust. Dr. Roark explains how AI tools, such as colored X-rays and integrated intraoral photos, help patients visualize dental issues more clearly, making it easier for them to grasp the urgency of treatment. AI-generated printouts also allow patients to take home easy-to-understand summaries, aiding discussions with loved ones and increasing the likelihood of acceptance. AI is revolutionizing case presentations by simplifying communication, building trust, and improving patient outcomes. With solutions like VideaAI, dentists can more effectively engage patients, leading to higher acceptance rates and better overall care."
+      },
+      {
+        "id": 17235050,
+        "title": "VideaHealth Launches ClaimsAI to Eliminate Dental RCM Waste and Claim Denials",
+        "url": "https://www.videa.ai/news/videahealth-launches-claimsai-to-tackle-15-billion-in-dental-rcm-waste",
+        "publisher": "Videa",
+        "published_date": "2025-12-10T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "VideaHealth launched ClaimsAI, an AI-driven revenue cycle management solution designed to help dental organizations reduce claim denials and recover lost revenue. The platform automates the assembly of clinical attachments and narratives, addressing an estimated $15 billion in annual losses across the U.S. dental industry. Early user results indicate up to 90% faster claim submissions and significant reduction in accounts receivable backlogs. ",
+        "word_count": 719,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Claims Management, Scrubbing & Clearinghouse",
+            "code": "HLACACAB",
+            "is_primary": true
+          },
+          {
+            "name": "Prosthodontic & Restorative Group Practices",
+            "code": "HLABAKAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "593",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dan pay",
+            "florian hillen"
+          ],
+          "location": [
+            "boston",
+            "north america",
+            "u.s.",
+            "mass."
+          ],
+          "product": [
+            "claimsai",
+            "videaai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9704,
+        "group_id": 8719477,
+        "full_text": "Back to all news\n\nAI-driven solution enables DSOs, multi-location, and solo practices to reduce claim denials, revenue leakage, and labor costs through intelligent automation. Boston, Mass., July 30, 2025 – VideaHealth, the dental AI platform trusted by 8 of the 10 largest DSOs and over 50,000 dental professionals across North America, today announced the launch of ClaimsAI, an AI-driven revenue cycle management (RCM) solution designed to help dental organizations recover revenue lost to denials, documentation gaps, and administrative inefficiencies. The solution helps address an estimated $15 billion in annual losses across the U.S. dental industry. Early Results from ClaimsAI Users: Up to 90% faster claim submissions : Automatically assembles comprehensive claim attachments by selecting the most clinically relevant images and generating tailored narratives, enabling staff to submit claims significantly faster.\n\n: Automatically assembles comprehensive claim attachments by selecting the most clinically relevant images and generating tailored narratives, enabling staff to submit claims significantly faster. Thousands of dollars recovered per month, per location : More accurate, complete attachments reduce denials and downgrades, improving clean claim rates and recovering substantial revenue at scale.\n\n: More accurate, complete attachments reduce denials and downgrades, improving clean claim rates and recovering substantial revenue at scale. Three-week A/R backlog cleared: Practices have resolved weeks of aged claims in just three weeks by using auto-generated attachments to address documentation gaps and payer requirements. Key Features Include: Automated Attachment Generator : AI automatically selects the optimal clinical images.\n\n: AI automatically selects the optimal clinical images. Narrative Engine : Auto-generates treatment-specific narratives in real time to support claims.\n\n: Auto-generates treatment-specific narratives in real time to support claims. Integration with existing RCM workflows : Works seamlessly with leading practice management and imaging systems, eliminating manual uploads.\n\n: Works seamlessly with leading practice management and imaging systems, eliminating manual uploads. One-click onboarding for ClinicalAI users: Practices can activate ClaimsAI instantly with no additional data migration or setup. \"ClaimsAI eliminates the tradeoff between speed and accuracy that practices have long struggled with,\" said Florian Hillen, CEO of VideaHealth. \"With just one click, practices can activate a solution that delivers fully supported claims in minutes. That's a transformative leap forward for DSOs, multi-location groups, and solo practices looking to scale smarter, recover revenue faster, and reduce the administrative burden on their teams.\" Manual attachment preparation has long been one of the most inefficient and error-prone tasks in dental RCM. Non-clinical staff, often undertrained and understaffed, must interpret notes, select the right images, and assemble narratives. This process frequently results in delays, denials, and costly rework. ClaimsAI automates that workflow. Built on the trusted VideaAI platform, it combines advanced image analysis with practice management system integration to unify the clinical and financial sides of the claims process. “In recent conversations with RCM executives at leading DSOs, one theme that stood out is the growing need for automation, standardization, and efficiency in revenue cycle management, especially as organizations scale. DSOs are telling us that tools like ours don’t just improve their clean claim rates, they introduce a level of process consistency they haven’t experienced before,” said Dan Pay, VP of Strategic Partnerships at VideaHealth, former executive at Change Healthcare and Optum. “These benefits are emerging as a key enabler for growth, allowing DSOs to scale their operations without a corresponding increase in overhead.\" ClaimsAI is part of the broader VideaAI platform, VideaHealth’s comprehensive dental AI assistant that spans clinical diagnostic aids, workflow optimization, and analytics. By integrating diagnostic insights with revenue cycle automation, the VideaAI platform enables dental practices to elevate care standards, enhance operational productivity, and drive measurable business value across both clinical and financial operations. Discover how ClaimsAI is redefining dental revenue cycle performance at www.videa.ai/claims-ai. Or, if you’d like to see it in action, book a personalized demo. View Press Release About VideaHealth\n\nVideaHealth is transforming dentistry with AI-powered solutions that help practices elevate care standards, improve productivity, and drive real business value. VideaAI, a comprehensive Dental AI Assistant, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by more than 50,000 clinicians across 50+ leading DSOs, VideaHealth’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, VideaHealth is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai."
+      },
+      {
+        "id": 14482850,
+        "title": "4 Powerful Ways Videahealt's Embedded Dental AI is Transforming Dental Practices",
+        "url": "https://www.videa.ai/blog-posts/4-powerful-ways-embedded-ai-is-transforming-dental-practices",
+        "publisher": "Videa",
+        "published_date": "2025-11-24T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9276,
+        "ai_summary": "VideaHealth promotes its embedded dental AI technology, specifically Dentrix Detect AI, as a solution that integrates directly into imaging systems to enhance diagnostic accuracy and workflow efficiency. The company claims the technology improves case acceptance rates by providing clear visual aids for patient education and reduces clinical variability among providers.",
+        "word_count": 739,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "3D Facial & Photogrammetry Imaging Studios",
+            "code": "HLABAIAD",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0008ijx",
+            "name": "Dentrix",
+            "website": "https://www.dentrix.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "dentists",
+            "patients"
+          ],
+          "location": [],
+          "product": [
+            "dentrix",
+            "videahealth"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8764,
+        "group_id": 9017593,
+        "full_text": "Why Dentists Hesitate to Adopt AI—And Why That's Changing Artificial Intelligence (AI) is revolutionizing industries, and dentistry is no exception. From detecting early-stage cavities to improving case acceptance, AI is redefining how dentists diagnose and communicate with patients. But despite its proven benefits, some dentists remain hesitant to adopt AI in their daily workflows. The Top AI Concerns Among Dental Professionals: Will AI disrupt my workflow?\n\nCan I trust AI for accurate diagnoses?\n\nWill my team actually use it? The truth? AI adoption doesn't have to be complex. When AI is seamlessly embedded into your imaging system, it enhances diagnostics, streamlines workflows, and improves case acceptance—all without extra steps or disruption. What to Expect When You Implement Embedded AI If you're considering AI for your practice, here are four game-changing benefits you can expect: Simplified Patient Education – AI-powered visuals increase patient trust and case acceptance.\n\nSeamless Workflow Integration – Embedded AI eliminates extra steps, ensuring higher adoption.\n\nHigher Case Acceptance & Revenue – Clear AI-enhanced images lead to stronger treatment commitment.\n\nImproved Diagnostic Consistency – Standardized AI detections enhance provider confidence and accuracy. Let's explore how these four outcomes can transform your dental practice. 1. Simplifying Patient Education with AI-Powered Visuals The challenge with traditional X-rays is that, to patients, they often look like confusing gray blobs. Even when dentists explain their findings, patients may not fully grasp the problem, leading to doubts about the recommended treatment. AI addresses this head-on by highlighting areas of concern—such as early-stage cavities, bone loss, or periapical lesions—directly on diagnostic images using colorful bounding boxes and clear annotations. These AI-powered visuals act as a bridge, turning complex dental issues into easy-to-understand visual lessons. Why This Matters: Patients trust what they can see, leading to faster case acceptance.\n\nFewer second opinions—AI-backed visuals provide compelling, objective support.\n\nMore informed patients, resulting in stronger engagement and proactive care. 2. Streamlined Workflows with Embedded AI New tools and technology often end up as \"dust\"—unused and forgotten—if they disrupt existing workflows, require multiple logins, or demand a steep learning curve. The key to successful AI adoption in dentistry is seamless workflow integration. With embedded AI, dental professionals no longer need to toggle between multiple platforms or introduce extra steps into their already packed schedules. AI is now available directly within the imaging systems they already use, making it effortless to incorporate into daily diagnostics. Why This Matters for Adoption: Higher usability = higher adoption—When AI is built into familiar workflows, it gets used more often.\n\nNo extra steps, just better diagnostics—AI-powered insights appear naturally in the clinical process.\n\nMore confident diagnoses—AI provides consistent support without slowing down care. By keeping AI embedded where dentists already work, practices can maximize its benefits without adding complexity, improving both efficiency and case acceptance. 3. Boosting Case Acceptance and Practice Growth At its core, Dental AI is designed to enhance treatment conversation. Making diagnoses clearer helps remove one of the biggest barriers to case acceptance: patient uncertainty. Why This Matters for Practice Growth: More patients commit to treatment when they can visually confirm the diagnosis.\n\nHigher ROI and practice profitability—Fewer lost opportunities mean steady revenue growth.\n\nImproved patient engagement, leading to stronger long-term retention. This isn't just anecdotal evidence—AI-backed providers have been shown better case acceptance and practice profitability. 4. Improved Diagnostics and Clinical Consistency Diagnostic variability exists not only between providers but also within a single clinician's assessments over time. Fatigue, experience, and subjective judgment can lead to inconsistencies, impacting patient outcomes and trust. AI enhances clinical consistency by standardizing detections of conditions like caries and bone loss, reducing variability in diagnoses. A study by VideaHealth found that AI reduced performance variation among clinicians by 35% and improved the detection of previously missed pathologies by 24%. Why This Matters for Consistency: Standardized Assessments: Minimizes subjective discrepancies.\n\nEnhanced Detection Rates: Improves accuracy in identifying pathologies.\n\nElevated Patient Trust: Strengthens confidence in treatment recommendations. With AI-driven diagnostics, dental practices can deliver more reliable, consistent, and accurate care, improving both provider confidence and patient outcomes. An AI Solution at Your Fingertips—Seamless, Fast, and Proven Dentrix Detect AI, powered by VideaHealth, empowers dentists to enhance diagnostics, simplify patient education, and boost case acceptance—all without disrupting your existing workflow. Turn it on in under 5 minutes—no IT headaches, no downtime.\n\nSeamlessly embedded within Dentrix and Dentrix Ascend—no extra logins.\n\nProven to increase case acceptance and drive measurable ROI. See the impact for yourself. Schedule a demo today and experience how AI can transform your practice—starting now. ‍\n\nBack to all articles"
+      },
+      {
+        "id": 18334523,
+        "title": "Orthodontic Imaging and AI: A Look at DS Core Diagnose",
+        "url": "https://orthodonticproductsonline.com/practice-products/software/imaging-software/orthodontic-imaging-and-ai-a-look-at-ds-core-diagnose/",
+        "publisher": "Orthodontic Products",
+        "published_date": "2025-11-14T20:55:20",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Dentsply Sirona has launched DS Core Diagnose, an AI-powered diagnostic platform integrated into its cloud-based DS Core ecosystem, offering orthodontists tools such as AI-generated anatomical visualizations and panoramic curve proposals. The platform centralizes patient data including CBCT scans, panoramic images, intraoral scans, and clinical documents, enabling practitioners to review and diagnose from any internet-connected device while improving patient communication and case acceptance. Dentsply Sirona plans to continue expanding DS Core with quarterly feature updates and is positioning the platform as the clinical operating system for dental practices through partnerships with third-party companies including Pearl and Videa.",
+        "word_count": 1499,
+        "original_language": "EN",
+        "author": "Alison Werner",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Comprehensive Orthodontic Clinics",
+            "code": "HLABABAA",
+            "is_primary": true
+          },
+          {
+            "name": "Extraoral 2D Radiography Centers (Panoramic/Cephalometric)",
+            "code": "HLABAIAB",
+            "is_primary": false
+          },
+          {
+            "name": "Imaging Interoperability & Standards Enablement (DICOM/HL7/FHIR/IHE)",
+            "code": "HLACALAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000cdgc",
+            "name": "SureSmile",
+            "website": "https://www.suresmile.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000jt5",
+            "name": "Dentsply Sirona",
+            "website": "https://www.dentsplysirona.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          },
+          {
+            "code": "20001167",
+            "name": "medical equipment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "615",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62131",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3844",
+            "name": "X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jill uhryniak",
+            "max milz",
+            "milz",
+            "uhryniak"
+          ],
+          "location": [],
+          "product": [
+            "orthophos",
+            "axeos",
+            "ds core diagnose",
+            "ds core",
+            "suresmile aligner",
+            "dentsply sirona",
+            "third-party labs",
+            "suresmile",
+            "primescan 2",
+            "planmeca",
+            "morita",
+            "primescan",
+            "3shape",
+            "pearl",
+            "videa",
+            "carestream"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7844,
+        "group_id": 5796402,
+        "full_text": "Orthodontic Imaging and AI: A Look at DS Core Diagnose\n\nWith Dentsply Sirona’s recent launch of DS Core Diagnose, orthodontists now have access to AI-powered diagnostic tools integrated into the company’s cloud-based platform, DS Core. The system centralizes patient data—such as CBCT scans, panoramic images, intraoral scans, and clinical documents—into a single, secure environment accessible from any device. DS Core Diagnose builds on this foundation, offering features like AI-generated anatomical visualizations and panoramic curve proposals to support diagnosis and patient communication. To learn more about how this technology fits into the orthodontic workflow, Orthodontic Products spoke with Jill Uhryniak, group vice president orthodontics and aligner solutions at Dentsply Sirona, and Max Milz, group vice president, connected technology solutions. In this interview, they discuss how DS Core integrates with imaging systems like Orthophos and Axeos, how AI is being applied in clinical contexts, and what orthodontic practices can expect from DS Core as the platform continues to evolve. Dentsply Sirona’s Orthophos Orthodontic Products: Can you provide an overview of Dentsply Sirona’s current imaging systems—like Orthophos and Axeos—and explain how they connect with and enhance the DS Core platform? Max Milz: Orthophos and Axeos are two of the most trusted systems in our extraoral X-ray portfolio, and they’ve been very well received by orthodontic practices worldwide. Both are designed to capture high-resolution 3D CBCT, panoramic, and cephalometric images, while keeping radiation exposure as low as reasonably achievable for both adults and children. Orthophos provides volumes up to 11 by 10 centimeters, which fits most orthodontic and dentoalveolar cases. Axeos takes it a step further with volumes up to 17 by 13 centimeters, which is ideal when you want to visualize condyles, the airway, or larger areas of anatomy for more comprehensive treatment planning. Now, when it comes to DS Core, it’s really the platform that supercharges what these devices can do. DS Core connects all the imaging directly to a cloud environment and stores them securely, so every scan is instantly available from anywhere for diagnostics, patient communication, and collaboration. Rather than the imaging systems enhancing DS Core, it’s DS Core that supercharges the imaging experience and makes it easier to get the most out of the data you capture. Dentsply Sirona’s Axeos OP: For orthodontists already using Dentsply Sirona imaging systems, what does the DS Core platform offer that wasn’t available through previous software solutions? Jill Uhryniak: For orthodontists who are already using Dentsply Sirona imaging, DS Core offers something very different from traditional software. It’s a single, cloud-based space where every piece of patient media lives together: CBCT and panoramic scans, ceph images, intraoral scans, photos, and documents. That means no more jumping between programs or searching through folders. Sharing images with a referring doctor or a colleague is just a matter of a few clicks, without the hassle of USB drives or large email attachments. It also makes communicating with patients more effective. Being able to share 3D images and treatment proposals for patients to look at from home is a great way to build trust and increase case acceptance. And because DS Core integrates services like SureSmile Aligner or third-party labs, it brings everything under one roof. OP: How does the new DS Core Diagnose feature change the way orthodontists can access and use CBCT and panoramic imaging data in daily practice? Uhryniak: DS Core Diagnose takes this a step further by transforming how orthodontists can access and use imaging data every day. It lets you review and diagnose 2D and 3D images from any internet-connected screen, whether you’re in the practice, at home, or on the go. That flexibility alone makes a big difference for busy practitioners or those with multiple locations. What really stands out is how it helps with patient communication. The system leverages AI capabilities to automatically create visualizations of teeth, bone, and nerve canals, so patients can see their diagnosis. You can combine these images with intraoral scans and add annotations, creating a single digital canvas that makes treatment plans easier to explain and easier for patients to understand. A good example could be an impacted canine: with DS Core Diagnose, you can show a patient and family members precisely where the tooth is positioned and how it relates to surrounding structures, helping them clearly see and understand the situation and the need for treatment. OP: What specific AI capabilities in DS Core Diagnose are most relevant for orthodontic diagnosis and treatment planning? Milz: We like to describe our approach as “assisted intelligence,” because the AI is there to support clinical decisions, not replace them—and the ultimate intelligence is always the clinician, the AI is only the assistant. Right now, we’re using AI to generate aligner treatment outcome simulations based on intraoral scans, and many of our customers tell us this has become an important part of patient education and case acceptance. Seeing a realistic preview of how their smile could change helps patients feel confident about starting treatment. Through our SureSmile technology, we were the first to bring CBCT data together with root morphology and surrounding bone anatomy into digital orthodontic treatment planning. This allows orthodontists to see not just how crowns move, but how the entire tooth and its root interact with the supporting bone throughout treatment. That level of insight is a significant clinical advantage, helping to protect root integrity, support periodontal health, and give greater confidence when planning complex movements. We believe that including CBCT data as part of routine digital orthodontic planning should become the standard of care, because it leads to safer, more predictable tooth movement and a more efficient planning process than crown-only approaches. OP: Can you walk us through how a typical orthodontic practice might integrate DS Core into their existing workflow? Milz: Bringing DS Core into orthodontic practice is straightforward. One of the biggest benefits is how easily it supports collaboration with your referral network. Instead of mailing DVDs, USB sticks, or relying on email attachments, you can share scans and images with a single click through an encrypted link. DS Core is also designed to work with equipment from different manufacturers, including Planmeca, Morita, and Carestream, so it’s convenient even for practitioners who are planning to upgrade to Dentsply Sirona X-rays. Just as importantly, DS Core connects to third-party dental labs, allowing you to effectively send CBCT data, intraoral scans, and case files directly to lab partners, helping make appliance fabrication more convenient. Getting started is as simple as creating an online email account. You just set up your DS Core account, and your team can begin uploading, sharing, and collaborating almost immediately. There’s no complicated installation or IT overhaul. If you’re using SureSmile, you’ll also appreciate how DS Core streamlines the process of submitting aligner cases and running AI-driven outcome simulations. Altogether, it helps make day-to-day operations more efficient, strengthens collaboration with both your referral network and lab partners, and delivers a smoother, more engaging experience for patients. OP: What kinds of device access or interoperability does DS Core support for practices with mixed technology environments? Milz: We know many practices have a mix of equipment, and DS Core was built with that in mind. Whether you’re scanning with Primescan, 3Shape, or taking X-ray images with Dentsply Sirona, Planmeca, Morita, or Carestream devices, all of your data can be stored and accessed in DS Core. This means you could start most of your digital workflows in one place while helping you stay compliant with your local data privacy and patient data protection standards and regulations. Through partnerships in the 2D AI X-ray space with leading players such as Pearl and Videa, which directly integrate with DS Core, we are already covering further areas. OP: How is Dentsply Sirona planning to further expand DS Core’s capabilities, particularly for orthodontic applications, in the next 12 to 18 months? Uhryniak: At Dentsply Sirona, connected dentistry is our goal. This includes integrating more orthodontic applications into our DS Core ecosystem. We look forward to the continued partnership with our customers to develop products and services that deliver exceptional orthodontic outcomes for their patients. Milz: Beyond orthodontics, we will continue to integrate all types of clinical workflows into DS Core so it really becomes the “clinical operating system” of a dental practice. This also means cloud-driven equipment like the Primescan 2, which serves as an archetype for other future devices, clinical applications from diagnosis to treatment planning and manufacturing, and of course technical services. As we have demonstrated since the launch of the basic version of DS Core in May 2022, we keep adding new functionalities at least every quarter—and these are immediately available to all subscribers. We will continue on this path, and there are some exciting features planned for 2026 and beyond. DS Core is also designed for third-party integrations, in fact there is a standardized interface, or API, that third parties can access through our website open.dscore.com. That’s what connected dentistry is really about: overcoming silos and, quite literally, connections. OP Photos: Dentsply Sirona"
+      },
+      {
+        "id": 17498838,
+        "title": "VideaHealth launches Voice Notes",
+        "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15770692/videahealth-launches-voice-notes",
+        "publisher": "DrBicuspid.com",
+        "published_date": "2025-11-04T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.6669,
+        "ai_summary": "VideaHealth has introduced Voice Notes, an AI-powered tool for dental practices that converts chairside conversations into clinical notes. This solution utilizes the VideaAI platform to streamline the note-taking process by filtering noise and organizing relevant information. The launch features advanced capabilities like multispeaker smart ambient mode and customizable templates. ",
+        "word_count": 57,
+        "original_language": "EN",
+        "author": "Drbicuspid.Com Staff Writersnov",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Digital Prosthodontics & CAD/CAM Restorations (Chairside/Clinic-Based)",
+            "code": "HLABAFAH",
+            "is_primary": true
+          },
+          {
+            "name": "Contact Center Speech AI (agent assist, IVR automation)",
+            "code": "HDAAAFAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "voice notes"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.6141,
+        "group_id": 6729149,
+        "full_text": "VideaHealth has launched Voice Notes, an AI-powered ambient scribe for dental practices. The solution is designed to automatically convert chairside conversations into complete and compliant clinical notes. Using the VideaAI platform, Voice Notes is designed to obtain relevant details, filter out noise, and organize notes. Features include multispeaker smart ambient mode, quick dictation mode, and customizable templates."
+      },
+      {
+        "id": 22394030,
+        "title": "VideaHealth Launches Voice Notes, the First Ambient AI Scribe Purpose-Built for Dentistry",
+        "url": "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry",
+        "publisher": "Business Wire Blog",
+        "published_date": "2025-10-29T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "VideaHealth, a Boston-based dental AI platform, announced the launch of Voice Notes, the first AI-powered ambient scribe designed specifically for dentistry that converts chairside conversations into clinical notes without disrupting workflow. The solution delivers measurable outcomes including over 10 hours of time saved per provider weekly, up to $117,000 in additional annual revenue per dentist, and 95% complete clinical notes on first pass. Voice Notes is HIPAA-compliant, marks VideaHealth's entry into ambient AI, and is available immediately as a standalone solution or integrated with VideaAI Clinical Assist.",
+        "word_count": 769,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "3D Facial & Photogrammetry Imaging Studios",
+            "code": "HLABAIAD",
+            "is_primary": true
+          },
+          {
+            "name": "Audio & Speech Analytics (call analytics, QA, insights)",
+            "code": "HDAAAFAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002z9",
+            "name": "Videa",
+            "website": "https://videa.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "florian hillen"
+          ],
+          "location": [
+            "boston"
+          ],
+          "product": [
+            "voice notes",
+            "videaai clinical assist",
+            "videaai",
+            "videa.ai",
+            "pms",
+            "fda-cleared clinical assist",
+            "videahealth",
+            "videa"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9941,
+        "group_id": 6165207,
+        "full_text": "VideaHealth Launches Voice Notes, the First Ambient AI Scribe Purpose-Built for Dentistry\n\nShare\n\nIndustry-first platform turns dental conversations into clinical intelligence, saving more than 10 hours per provider weekly and boosting annual revenue by up to $117,000\n\nBOSTON--(BUSINESS WIRE)--VideaHealth, the leading dental AI platform, today announced the launch of Voice Notes, the first AI-powered ambient scribe created specifically for dentistry. The solution eliminates one of the industry’s most persistent pain points, manual charting and documentation, by turning chairside conversations into chart-ready clinical notes in seconds without disrupting how dentists work. Built on the VideaAI platform trained on more than one billion dental images, Voice Notes expands clinical intelligence from visual diagnosis to conversational documentation. It introduces a new standard of intelligent, connected dental workflows. “Every hour spent writing clinical notes, whether during appointments or late at night, is time pulled away from patient care and a leading cause of burnout,” said Florian Hillen, CEO and founder of VideaHealth. “That burden has been accepted as part of the job for too long, even as dentistry becomes more data-driven and demanding. Voice Notes pioneers a new level of intelligence in dentistry, automating documentation through ambient AI, ultimately strengthening clinical records and restoring the patient connection at the heart of dentistry.” Ambient AI Built for Real Dentistry Voice Notes is purpose-built for the operatory. It captures clinically relevant details through ambient listening; filters out irrelevant information; and organizes them by complaint, findings, assessment, and treatment plan. The result is complete, compliant documentation that can be written back to the PMS in seconds. Smart Ambient Mode captures multi-speaker dialogue between provider and patient.\n\ncaptures multi-speaker dialogue between provider and patient. Quick Dictation Mode captures the provider’s free-flowing speech.\n\ncaptures the provider’s free-flowing speech. Custom Templates seamlessly adapt to each provider’s preferred note style, with flexible formats that can be configured by specialty, provider, or location.\n\nseamlessly adapt to each provider’s preferred note style, with flexible formats that can be configured by specialty, provider, or location. PMS Integration allows one-click review after the appointment or a batch review and upload at the end of the day. Measurable Impact for Providers and Practices Voice Notes delivers measurable outcomes for clinicians and DSOs: 10+ hours saved per provider each week by eliminating manual note entry.\n\nby eliminating manual note entry. Up to $117,000 in additional annual revenue per dentist through greater clinical efficiency.\n\nthrough greater clinical efficiency. 95% complete clinical notes on the first pass , lowering compliance risk.\n\n, lowering compliance risk. Improved patient experience through more face-to-face connections and less screen time. A Secure, Clinician-Controlled Experience Voice Notes is HIPAA-compliant and includes click-to-activate consent, recording, and PHI encryption. Providers maintain full control when the system listens, ensuring defensible documentation and patient privacy. The First Step into Ambient AI Voice Notes marks VideaHealth’s entry into ambient AI, paving the way for continued innovation to automate time-consuming and error-prone tasks across the dental workflow. “This launch is the first step in building an intelligent dental ecosystem that links diagnosis, documentation, and delivery in one continuous workflow,” Hillen added. “There are clear synergies between our FDA-cleared Clinical Assist and Voice Notes, which together lay the groundwork for more comprehensive, connected documentation. It’s another way we’re helping clinicians create stronger, evidence-based records for insurance and audits without adding extra steps to their day.” Voice Notes is available immediately as a standalone solution or as part of VideaAI Clinical Assist for integrated imaging and documentation. For more information, visit videa.ai. About VideaHealth VideaHealth is transforming dentistry with AI-powered solutions that help practices elevate care standards, improve productivity, and drive real business value. VideaAI, a comprehensive Dental AI Assistant, supports every aspect of dental care, from diagnostics and workflows to analytics and revenue optimization. Used by more than 50,000 clinicians across 50+ leading DSOs, VideaHealth’s FDA-cleared AI analyzes over 500 million X-rays annually, delivering trusted insights that power consistent, high-quality care. Headquartered in Boston and backed by leading investors, VideaHealth is advancing the future of dental care through responsible and real-world AI. Learn more at videa.ai and follow us on LinkedIn.\n\nVideaHealth Release Versions English Social Media Profiles VideaHealth on LinkedIn\n\nMore News From VideaHealth\n\nGet RSS Feed\n\nEmergency Dental of America Deploys Videa Voice Notes to Streamline Clinical Documentation Across Their Network BOSTON--( BUSINESS WIRE )--VideaHealth, the leading dental AI platform, today announces that Emergency Dental of America has deployed Videa across its network of 22 practices following a successful pilot. The rollout brings ambient clinical documentation to one of dentistry's most demanding care settings, where providers often have limited time between patients to complete notes. Emergency Dental of America operates a high-volume, same-day care model that requires efficient clinical handoffs and..."
+      }
+    ],
+    "credits_consumed": 0.21
+  }
+}

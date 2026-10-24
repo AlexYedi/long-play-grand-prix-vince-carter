@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/headcount-trends?company=0000a6x",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:53.457Z",
+  "data": {
+    "data": {
+      "uuid": "0000a6x"
+    },
+    "credits_consumed": 0
+  }
+}

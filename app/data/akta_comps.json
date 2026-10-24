@@ -1,0 +1,267 @@
+{
+  "available": true,
+  "real_data": true,
+  "segment": "Dental software & dental AI (Gantrell's competitive set)",
+  "note": "Real companies, Akta data (partial funding view on subscription). Gantrell is synthetic.",
+  "comps": [
+    {
+      "name": "Overjet",
+      "last_round": "Series C",
+      "date": "2025-12-01",
+      "amount": 155900000,
+      "akta_id": "00002m5",
+      "url": "akta.pro company 00002m5",
+      "launch_velocity": 2.5,
+      "vs_median": 0.68,
+      "tiers": {
+        "1": 1,
+        "2": 3,
+        "3": 1
+      },
+      "headcount": 363,
+      "funding_window": {
+        "round": "Series Unknown",
+        "date": "2025-12-15",
+        "pre": 3.5,
+        "post": 2.3
+      }
+    },
+    {
+      "name": "Pearl",
+      "last_round": "Series B",
+      "date": "2024-07-01",
+      "amount": 69000000,
+      "akta_id": "00002dz",
+      "url": "akta.pro company 00002dz",
+      "launch_velocity": 4.2,
+      "vs_median": 1.14,
+      "tiers": {
+        "1": 4,
+        "2": 2,
+        "3": 1
+      },
+      "headcount": 286,
+      "funding_window": null
+    },
+    {
+      "name": "Videa",
+      "last_round": "Series B",
+      "date": "2025-01-01",
+      "amount": 66500000,
+      "akta_id": "00002z9",
+      "url": "akta.pro company 00002z9",
+      "launch_velocity": 4,
+      "vs_median": 1.08,
+      "tiers": {
+        "1": 4,
+        "2": 2,
+        "3": 0
+      },
+      "headcount": 184,
+      "funding_window": null
+    },
+    {
+      "name": "CareStack",
+      "last_round": "Series B",
+      "date": "2022-07-01",
+      "amount": 74100000,
+      "akta_id": "0000gqh",
+      "url": "akta.pro company 0000gqh",
+      "launch_velocity": 0.2,
+      "vs_median": 0.05,
+      "tiers": {
+        "1": 0,
+        "2": 0,
+        "3": 1
+      },
+      "headcount": 766,
+      "funding_window": null
+    },
+    {
+      "name": "Planet DDS",
+      "last_round": "Private Equity",
+      "date": "2022-06-01",
+      "amount": 200000,
+      "akta_id": "0005yzu",
+      "url": "akta.pro company 0005yzu",
+      "launch_velocity": 3.2,
+      "vs_median": 0.86,
+      "tiers": {
+        "1": 2,
+        "2": 3,
+        "3": 1
+      },
+      "headcount": 440,
+      "funding_window": null
+    },
+    {
+      "name": "Weave",
+      "last_round": "Public",
+      "date": "2021-06-01",
+      "amount": 171800000,
+      "akta_id": "0000ees",
+      "url": "akta.pro company 0000ees",
+      "launch_velocity": 3.7,
+      "vs_median": 1,
+      "tiers": {
+        "1": 1,
+        "2": 5,
+        "3": 2
+      },
+      "headcount": 1203,
+      "funding_window": null
+    }
+  ],
+  "top_tier1_launches": [
+    {
+      "company": "Pearl",
+      "id": "news:33783745",
+      "date": "2026-09-03",
+      "title": "Pearl Launches Second Opinion 3D, Bringing FDA-Cleared CBCT Imaging AI to General Dentists for the First Time",
+      "summary": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada. The product adds embedded specialist radiology-report requests and automatic conversion of CBCT findings into insurance claim-ready documentation. AI-powered pathology detection is available in Canada and pending approval in additional markets.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 33783745,
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+        "publisher": "FinancialContent Business Page"
+      },
+      "event_key": "Second Opinion 3D launch",
+      "tier": 1,
+      "evidence_quote": "Pearl launched Second Opinion 3D, making its FDA-cleared CBCT imaging AI available to general dentists in the US and Canada.",
+      "why_differentiated": "A new 3D product that opens the general dentist CBCT market, backed by Pearl's unique 2D and 3D FDA clearance.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 33783745,
+          "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+          "publisher": "FinancialContent Business Page"
+        }
+      ]
+    },
+    {
+      "company": "Planet DDS",
+      "id": "news:28172225",
+      "date": "2026-07-17",
+      "title": "Planet DDS Declares the Practice Management Era Over and Launches DentalOS\u00ae, the Dental Enterprise Platform for DSOs",
+      "summary": "Planet DDS launched DentalOS\u00ae, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups. The platform connects Denticon and Cloud 9 practice management systems on a single data layer, incorporating AI-powered enterprise tools including confirmation agents, clinical voice documentation, and revenue cycle management capabilities. The company, which already serves more than half of the largest 60 DSOs in North America across 14,500 practices, positions this launch as addressing the industry-wide shift from acquisition-driven growth to operational consolidation requiring enterprise-grade infrastructure.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 28172225,
+        "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+        "publisher": "Business Wire Blog"
+      },
+      "event_key": "DentalOS enterprise platform launch",
+      "tier": 1,
+      "evidence_quote": "Planet DDS launched DentalOS\u00ae, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups.",
+      "why_differentiated": "Unifies Denticon and Cloud 9 on a single data layer with AI tools, repositioning from PMS to enterprise platform and deepening switching costs for DSOs.",
+      "context_quote": "Unifying practice management, imaging, payments, patient engagement, financing (CareCredit), and AI agents on one platform",
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 28172225,
+          "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+          "publisher": "Business Wire Blog"
+        }
+      ]
+    },
+    {
+      "company": "Pearl",
+      "id": "move:5",
+      "date": "2026-05-01",
+      "title": "Product Launch: Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence a",
+      "summary": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence and AI-assisted claim preparation into the dental workflow.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "00002dz",
+        "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+      },
+      "event_key": "Pearl RCM launch",
+      "tier": 1,
+      "evidence_quote": "Launched Pearl RCM, a revenue cycle management platform embedding insurance intelligence",
+      "why_differentiated": "A new product line that moves Pearl into revenue cycle management, using its FDA-cleared imaging AI.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "00002dz",
+          "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25331053,
+          "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry",
+          "publisher": "Business Wire Blog"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25636032,
+          "url": "https://orthodonticproductsonline.com/practice-products/software/practice-management-software/pearl-launches-rcm-platform-for-dental-revenue-management/",
+          "publisher": "Orthodontic Products"
+        }
+      ]
+    },
+    {
+      "company": "Weave",
+      "id": "move:1",
+      "date": "2026-05-01",
+      "title": "Product Launch: Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platf",
+      "summary": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform, enabling 24/7 voice and text patient interactions with seamless staff handoff.",
+      "source": {
+        "kind": "akta_strategic_signal",
+        "akta_company_id": "0000ees",
+        "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+      },
+      "event_key": "Omnichannel AI Receptionist on Gemini",
+      "tier": 1,
+      "evidence_quote": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform",
+      "why_differentiated": "Voice+text AI receptionist drives the specialty medical expansion post-TrueLark and AI ARPU thesis.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_strategic_signal",
+          "akta_company_id": "0000ees",
+          "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 25223953,
+          "url": "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html",
+          "publisher": "Stock Titan"
+        },
+        {
+          "kind": "akta_news",
+          "akta_news_id": 35186073,
+          "url": "https://www.businesswire.com/news/home/20260528982874/en/Weave-Unveils-Enterprise-Grade-Omnichannel-AI-Receptionist-Built-with-Google-Clouds-Gemini-Enterprise-Agent-Platform-to-Transform-Healthcare-Front-Offices",
+          "publisher": "Business Wire Blog"
+        }
+      ]
+    },
+    {
+      "company": "Pearl",
+      "id": "news:33399738",
+      "date": "2026-04-13",
+      "title": "Pearl launches AI documentation tool",
+      "summary": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits and converts transcribed conversations into structured clinical notes, including SOAP notes and periodontal charts. The software includes over 30 procedure-specific templates and a voice dictation mode for perio charting.",
+      "source": {
+        "kind": "akta_news",
+        "akta_news_id": 33399738,
+        "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+        "publisher": "DrBicuspid.com"
+      },
+      "event_key": "Pearl Voice launch",
+      "tier": 1,
+      "evidence_quote": "Pearl, a dental AI company, released Pearl Voice, an ambient tool that listens during patient visits",
+      "why_differentiated": "A new product line for documentation that can be cross-sold into Pearl's installed base and sits outside radiology.",
+      "context_quote": null,
+      "reports": [
+        {
+          "kind": "akta_news",
+          "akta_news_id": 33399738,
+          "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15821773/pearl-launches-ai-documentation-tool",
+          "publisher": "DrBicuspid.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "company_id": "C02",
+  "company": "Tidewright Labs",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 112900,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 241,
+        "end": 271
+      },
+      "quote": "MRR\t$101,200\t$106,750\t$112,900",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 150000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 297,
+        "end": 332
+      },
+      "quote": "Net burn\t$148,000\t$151,000\t$150,000",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 2665000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 333,
+        "end": 377
+      },
+      "quote": "Ending cash\t$2,965,000\t$2,814,000\t$2,665,000",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 397,
+        "end": 417
+      },
+      "quote": "Runway (mo)\t20\t19\t18",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 13,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 378,
+        "end": 396
+      },
+      "quote": "Headcount\t12\t13\t13",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 268,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 272,
+        "end": 296
+      },
+      "quote": "Paying teams\t239\t251\t268",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Launched the Enterprise tier and signed the first 3 enterprise contracts",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 436,
+        "end": 511
+      },
+      "quote": "we launched the Enterprise tier and signed our first 3 enterprise contracts",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Free-to-paid conversion fell from 4.1% to 3.4% after a competitor launched a free tier",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C02_tidewright_2026-10-09.txt",
+      "source_span": {
+        "start": 524,
+        "end": 606
+      },
+      "quote": "free-to-paid conversion slipped from 4.1% to 3.4% after the competitor's free tier",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

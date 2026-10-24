@@ -1,0 +1,128 @@
+{
+  "company_id": "C08",
+  "company": "Corvellum Pay",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 192400,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 482,
+        "end": 511
+      },
+      "quote": "| MRR | $168,000 | $192,400 |",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 2500000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 206,
+        "end": 249
+      },
+      "quote": "MRR crossed $210K in September (~$2.5M ARR)",
+      "confidence": 0.9
+    },
+    "monthly_burn": {
+      "value": 245000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 512,
+        "end": 551
+      },
+      "quote": "| Net burn / mo | $230,000 | $245,000 |",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 3900000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 552,
+        "end": 577
+      },
+      "quote": "| Cash | $4.60M | $3.9M |",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 16,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 578,
+        "end": 603
+      },
+      "quote": "| Runway (mo) | 20 | 16 |",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 25,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 604,
+        "end": 627
+      },
+      "quote": "| Headcount | 22 | 25 |",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 39,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 628,
+        "end": 651
+      },
+      "quote": "| Customers | 34 | 39 |",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Record $61M monthly payment volume in September, and first two construction-supply distributors went live on embedded payables",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 254,
+        "end": 388
+      },
+      "quote": "payment volume hit a record $61M for the month. We went live with our first two construction-supply distributors on embedded payables.",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Sponsor bank renegotiation slipped to Q1 and the bank is asking for a higher reserve",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 736,
+        "end": 822
+      },
+      "quote": "our sponsor bank renegotiation slipped to Q1 and they are asking for a higher reserve.",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

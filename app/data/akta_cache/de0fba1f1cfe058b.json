@@ -1,0 +1,1220 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002xb&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:19.833Z",
+  "data": {
+    "data": {
+      "uuid": "00002xb",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_e",
+            "label": "Series E"
+          },
+          "last_funding_date": {
+            "month": 4,
+            "year": 2021
+          },
+          "total_funding_usd": 409000000
+        },
+        "funding_rounds": [
+          {
+            "id": 355150,
+            "date": {
+              "month": 4,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_e",
+              "label": "Series E"
+            }
+          },
+          {
+            "id": 245525,
+            "date": {
+              "month": 5,
+              "year": 2018
+            },
+            "round": {
+              "code": "series_d",
+              "label": "Series D"
+            }
+          },
+          {
+            "id": 256913,
+            "date": {
+              "month": 5,
+              "year": 2017
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "CPP Investments",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000oov",
+            "website": "https://www.cppinvestments.com"
+          },
+          {
+            "name": "FIS",
+            "type": {
+              "code": "public",
+              "label": "Public"
+            },
+            "uuid": "00007wj",
+            "website": "http://www.fisglobal.com"
+          },
+          {
+            "name": "Neuberger Berman",
+            "type": {
+              "code": "delisted",
+              "label": "Delisted"
+            },
+            "uuid": "00003bc",
+            "website": "http://www.nb.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 4 more funding rounds; 18 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Signifyd operates an AI-powered Commerce Protection Platform that provides ecommerce merchants and payment providers with real-time fraud decisioning, chargeback liability shifting, authorization rate optimization, account takeover defense, return fraud detection, and instant refund decisions. The platform is anchored by the Signifyd Commerce Network, an identity-and-intent data graph spanning thousands of global retailers and issuing banks, and is paired with a 100% financial guarantee on approved orders for merchant and payment-provider customers.",
+        "differentiator": "1) The Signifyd Commerce Network — an identity and intent database covering 98% of online shoppers, with 80% email, 80% IP, 75% phone, 77% address, and 75% device ID coverage; 2) 100% financial guarantee against fraud (and optionally all) chargebacks that fully shifts liability from merchant to Signifyd; 3) Self-learning AI models that update every few weeks rather than taking up to 7 months like competitors; 4) Transparency via Agent Console, Decision Center, and Insights Reporting so merchants can audit decisions; 5) Coverage of 25% of all U.S. credit transactions through ARO partnerships with 5 of the top 10 card issuers; 6) End-to-end coverage across login, checkout, fulfillment, return, refund, and dispute touchpoints in one platform.",
+        "functional_benefit": "Approve 5-9% more orders on average; eliminate manual review; reduce chargebacks by up to 93%; achieve 99%+ approval rates; recover revenue automatically via Chargeback Recovery (wins 50% more disputes than industry average); lower customer contact rate via Instant Refunds; expand cross-border with pre-built global identity intelligence.",
+        "problem_solved": "Ecommerce fraud prevention, chargeback liability elimination, false decline reduction, return fraud and abuse, authorization rate optimization, account takeover protection, cross-border fraud expansion, and friction-free customer experience automation for online retailers.",
+        "quantifiable_outcome": [
+          "Approve 5-9% more orders on average",
+          "Hot Topic: 99%+ approval rate and $10M revenue uplift",
+          "Cymbiotika: 93% fewer chargebacks, $1.2M savings, 98% approval rate",
+          "Ferguson Home: 98.5% approval rate, $0 fraud loss",
+          "Signifyd wins 50% more chargeback disputes than industry average",
+          "Customers reduced manual returns inspections by up to 58%",
+          "Instant refunds portion rose from 35% to 50% of customers",
+          "Customers enhanced approvals by 99% and reduced chargebacks by up to 93%"
+        ],
+        "product_overview": "Signifyd offers a single Commerce Protection Platform sold as a platform-plus-modules architecture in two editions. The merchant edition (\"Fearless Conversions\") bundles Account Protection, Authorization Rate Optimization, Guaranteed Fraud Protection, Complete Chargeback Protection, Chargeback Recovery, Return Abuse Prevention, Return Insights and Instant Refunds (rolled up under the \"Intelligent Returns\" initiative launched September 2025) into one decisioning pipeline. The payment-provider edition (\"Fearless Payments / Payment Optimization Platform\") packages Automated Risk Decisioning, Dynamic Exemption Management, Authorization Rate Optimization, Guaranteed Chargeback Protection and Chargeback Recovery for PSPs. Both editions are backed by the shared Signifyd Commerce Network identity-and-intent graph and exposed through Agent Console, Decision Center, Insights Reporting and Onboarding Hub modules, with channel-specific bundles such as Shopify Chargeback Protection by Signifyd.",
+        "product_and_service": [
+          {
+            "category": "Core platform",
+            "description": "End-to-end commerce protection platform for merchants, unifying Account Protection, Authorization Rate Optimization, Guaranteed Fraud Protection, Complete Chargeback Protection, Chargeback Recovery, Return Abuse Prevention, Return Insights and Instant Refunds behind a single identity-and-intent graph.",
+            "name": "Commerce Protection Platform (Fearless Conversions)",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/fearless-conversions/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Real-time approve/deny decisioning for ecommerce orders that analyzes 25,000+ features from the Signifyd Commerce Network and reimburses merchants for fraud chargebacks on every approved order within 48 hours.",
+            "name": "Guaranteed Fraud Protection",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/guaranteed-fraud-protection/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Shifts full chargeback liability (fraud and non-fraud) to Signifyd, reimburses merchants for chargebacks on approved orders, and automatically challenges abusive claims.",
+            "name": "Complete Chargeback Protection",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/complete-chargeback-protection/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Automated chargeback representment service that uses Signifyd Commerce Network intent intelligence and merchant-specific data to dispute fraudulent and abusive claims.",
+            "name": "Chargeback Recovery",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/chargeback-recovery-for-merchants/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Account-takeover defense that monitors consumer behavior across the Signifyd Commerce Network from login to checkout to detect anomalies and stop ATO attempts in real time, backed by a 100% financial guarantee against ATO chargebacks.",
+            "name": "Account Protection",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/account-protection/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Pre-authorization fraud filtering using Signifyd Commerce Network data and direct issuer connections (Capital One, Discover, Synchrony, others) to improve bank authorization rates and reduce false declines.",
+            "name": "Authorization Rate Optimization (ARO)",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/authorization-rate-optimization/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Ecommerce return analytics platform that unifies return data across systems, applies AI-powered anomaly detection, and segments returns by customer, product/category and location to surface SKU-level return-rate trends and fraud/abuse patterns.",
+            "name": "Return Insights",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/return-insights/"
+          },
+          {
+            "category": "Add-on / module",
+            "description": "Machine-learning-powered solution that approves low-risk refunds in real time and prevents return fraud/abuse, offered in two risk models (Recommendation and Guarantee) and designed to integrate with any RMA system.",
+            "name": "Instant Refunds",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "url": "https://www.signifyd.com/instant-refunds/"
+          },
+          {
+            "category": "Product initiative / bundle",
+            "description": "Bundle initiative combining ML-powered return fraud detection, Instant Refunds and Return Abuse Prevention to help retailers tackle the growing returns challenge.",
+            "name": "Intelligent Returns",
+            "source": [
+              "https://aijourn.com/signifyd-launches-intelligent-returns-to-help-retailers-tackle-the-growing-returns-challenge/"
+            ]
+          },
+          {
+            "category": "Channel-specific bundle",
+            "description": "Shopify-specific bundle combining Signifyd's guaranteed fraud protection with Shopify's commerce flow so Shopify merchants can approve more orders and reduce chargebacks.",
+            "name": "Shopify Chargeback Protection by Signifyd",
+            "source": [
+              "https://www.signifyd.com/shopify-chargeback-protection/"
+            ],
+            "url": "https://www.signifyd.com/shopify-chargeback-protection/"
+          },
+          {
+            "category": "Core platform (payment providers)",
+            "description": "Platform built for payment providers that bundles Automated Risk Decisioning, Dynamic Exemption Management (Transaction Risk Analysis for EEA SCA), Authorization Rate Optimization, Guaranteed Chargeback Protection and Chargeback Recovery, with self-serve Console, Decision Center, Insights Reporting and Onboarding Hub.",
+            "name": "Payment Optimization Platform (Fearless Payments)",
+            "source": [
+              "https://www.signifyd.com/fearless-payments/"
+            ],
+            "url": "https://www.signifyd.com/fearless-payments/"
+          },
+          {
+            "category": "Data / insights product",
+            "description": "Ecommerce data and insights hub offering actionable reports on ecommerce performance, fraud and returns trends derived from the Signifyd Commerce Network.",
+            "name": "Pulse Data Hub",
+            "source": [
+              "https://www.signifyd.com/blog/"
+            ]
+          },
+          {
+            "category": "Research / insight publication",
+            "description": "Annual research publication analyzing macroeconomic trends, ecommerce growth, agentic commerce, returns and consumer abuse, with vertical breakdowns for the U.S., EMEA and LATAM.",
+            "name": "State of Commerce Report",
+            "source": [
+              "https://www.signifyd.com/ecommerce-trends-2025/"
+            ],
+            "url": "https://www.signifyd.com/ecommerce-trends-report/"
+          },
+          {
+            "category": "Platform release",
+            "description": "Product release strengthening the customer journey, delivering total transparency and future-proofing the Signifyd platform for the autonomous economy.",
+            "name": "Spark Winter 2026 Release",
+            "source": [
+              "https://www.signifyd.com/"
+            ]
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Tracxn reports total funding of $394 million over seven funding rounds; largest round $205 million in April 2021.",
+            "source": [
+              "https://tracxn.com/d/companies/signifyd/__eu3gGDFcgzbkQ0RVUowPUrybmzMVrJqQhp5X-bQ9dPg/funding-and-investors"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$394 million across 7 rounds"
+          },
+          {
+            "description": "Signifyd valuation as of April 2021 per Tracxn.",
+            "source": [
+              "https://tracxn.com/d/companies/signifyd/__eu3gGDFcgzbkQ0RVUowPUrybmzMVrJqQhp5X-bQ9dPg/funding-and-investors"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$1.34 billion"
+          },
+          {
+            "description": "Getlatka reports Signifyd 2024 ARR of $292.8 million.",
+            "source": [
+              "https://getlatka.com/companies/signifyd"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$292.8M ARR (2024)"
+          },
+          {
+            "description": "Getlatka reports a $1.3B valuation alongside the ARR figure.",
+            "source": [
+              "https://getlatka.com/companies/signifyd"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$1.3 billion valuation"
+          },
+          {
+            "description": "Pricing page states \"Trusted by 6000+ global brands delivering ROI with Signifyd.\"",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "6000+ global brands"
+          },
+          {
+            "description": "Signifyd serves 100+ countries; Signifyd Commerce Network covers global transactions.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "100+ countries"
+          },
+          {
+            "description": "Signifyd instantly recognizes 98% of online shoppers via its Commerce Network identity database.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "98%"
+          },
+          {
+            "description": "25% of all U.S. credit transactions are covered by Signifyd via ARO partnerships with 5 of top 10 card issuers.",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "25% of all U.S. credit transactions"
+          },
+          {
+            "description": "About page states 500+ company employees.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "headcount",
+              "label": "Headcount"
+            },
+            "value": "500+ employees"
+          },
+          {
+            "description": "Signifyd observed sales increase by 7% YoY in 2024.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "+7% YoY (2024)"
+          },
+          {
+            "description": "Fraud pressure (risky orders) increased by 20% YoY in 2024.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "+20% YoY fraud pressure (2024)"
+          },
+          {
+            "description": "Consumer abuse increased 23% YoY in 2024.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "+23% YoY consumer abuse (2024)"
+          },
+          {
+            "description": "Digital Commerce 360 Leading Vendors to the Top 1000 Retailers: Signifyd named the #1 payment security/fraud prevention solution for five consecutive years.",
+            "source": [
+              "https://www.signifyd.com/blog/digital-commerce-360/"
+            ],
+            "type": {
+              "code": "brand_reputation",
+              "label": "Brand Reputation"
+            },
+            "value": "#1 for five years in a row"
+          },
+          {
+            "description": "Commerce Network coverage across identity attributes.",
+            "source": [
+              "https://www.signifyd.com/fearless-conversions/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "80% Email, 80% IP, 75% Phone, 77% Address, 75% Device ID coverage"
+          }
+        ],
+        "partnership": [
+          {
+            "description": "Adobe Commerce is one of Signifyd's flagship ecommerce platform partners, with pre-built integration. Adobe Commerce empowers thousands of retailers and brands with ecommerce platforms and flexible cloud solutions, enabling Signifyd's Guaranteed Fraud Protection and broader Commerce Protection Platform to be deployed to Adobe Commerce merchants.",
+            "name": "Adobe Commerce",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Flagship Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "000layr"
+          },
+          {
+            "description": "Salesforce Commerce Cloud (SFCC) is a top-tier ecommerce platform partner for Signifyd. Signifyd offers pre-built plugins for SFCC allowing merchants to deploy Guaranteed Fraud Protection and Chargeback Recovery directly within their Salesforce storefront.",
+            "name": "Salesforce Commerce Cloud",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Flagship Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00006ej"
+          },
+          {
+            "description": "Shopify Plus is a flagship platform partner. Signifyd offers a dedicated \"Shopify Chargeback Protection by Signifyd\" co-branded offering, integrated via the Shopify App Store. Shopify Plus customers making $1M-500M grow an average 126% YoY on the platform.",
+            "name": "Shopify Plus",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Flagship Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0029ioc"
+          },
+          {
+            "description": "BigCommerce is a core ecommerce platform partner with pre-built Signifyd integration. BigCommerce provides enterprise ecommerce capabilities for fast-growing brands.",
+            "name": "BigCommerce",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00008cq"
+          },
+          {
+            "description": "commercetools is a core ecommerce platform partner, billed as the world's leading commerce solution built on modern MACH principles. Signifyd integrates with commercetools to extend fraud protection to composable commerce implementations.",
+            "name": "commercetools",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00000uy"
+          },
+          {
+            "description": "Miami-based full-service ecommerce solutions agency since 1999, serving startup B2C to enterprise B2B clients. Implementation partner that helps deploy Signifyd into merchant tech stacks.",
+            "name": "Absolute Web",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Si Partner",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "0005tea"
+          },
+          {
+            "description": "25-year digital commerce veteran and customer-centric Commerce Service Provider dedicated to growth-oriented mid-market and enterprise branded manufacturers and merchants in B2C and B2B.",
+            "name": "Guidance",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Si Partner",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "0006ng3"
+          },
+          {
+            "description": "World's largest independent Shopify design and development partner. Deploys Signifyd for Shopify merchants.",
+            "name": "Domaine",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Si Partner",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "00klw3i"
+          },
+          {
+            "description": "Global digital agency that fashion, beauty and lifestyle brands trust to create transformative commerce experiences. Headquartered in New York, Los Angeles and London.",
+            "name": "Corra",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Si Partner",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "028v3qv"
+          },
+          {
+            "description": "Global company focused on business transformation, enabling clients to anticipate trends and connect with consumers across digital and physical touchpoints.",
+            "name": "Valtech",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Si Partner",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "0006yd1"
+          },
+          {
+            "description": "Industry-leading payments technology company powering omni-commerce across the globe. Signifyd partners with Worldpay to provide best-in-class decisioning and liability shift on all CNP payments.",
+            "name": "Worldpay",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Flagship Financial Institution Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0002694"
+          },
+          {
+            "description": "PayKings payments enablement platform offers 150+ Global Processor Connections to merchants, working with Signifyd to enable fraud decisioning and guarantee.",
+            "name": "PayKings",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Financial Institution Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "000ahae"
+          },
+          {
+            "description": "Since 1996, Authorize.Net has been a preferred payment gateway serving over 440,000 merchants; partners with Signifyd for fraud decisioning and chargeback protection.",
+            "name": "Authorize.net",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Financial Institution Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0005jli"
+          },
+          {
+            "description": "Leading payment technology and services provider across North America and Europe. Partners with Signifyd to offer decisioning and liability shift on CNP payments.",
+            "name": "EVO Payments",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Financial Institution Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0003xmv"
+          },
+          {
+            "description": "Top consumer-rated buy now, pay later solution splitting payments into 4 over 6 weeks. Partners with Signifyd to extend fraud decisioning to BNPL transactions.",
+            "name": "Sezzle",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ],
+            "strategic_tier": "Core Financial Institution Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0000auf"
+          },
+          {
+            "description": "Signifyd has partnered with 5 of the top 10 credit card issuers and issuer processors; Capital One is one of the named partners enabling ARO. 25% of all U.S. credit transactions are covered by Signifyd.",
+            "name": "Capital One",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ],
+            "strategic_tier": "Flagship Issuer Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "00005yq"
+          },
+          {
+            "description": "Discover is one of the top 10 credit card issuers partnering with Signifyd for ARO, providing pre-authorization fraud intelligence to lift authorization rates.",
+            "name": "Discover",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ],
+            "strategic_tier": "Flagship Issuer Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "0004wve"
+          },
+          {
+            "description": "Synchrony is among the named issuer partners for Signifyd's ARO program; contributes to coverage of 25% of all U.S. credit transactions.",
+            "name": "Synchrony",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ],
+            "strategic_tier": "Flagship Issuer Partner",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "00005jj"
+          },
+          {
+            "description": "Adyen is a payment integration partner — Signifyd connects to Adyen to automatically receive chargeback data and offer fraud decisioning and guarantee to Adyen merchants.",
+            "name": "Adyen",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Payment Integration",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00004v8"
+          },
+          {
+            "description": "Stripe is a payment integration partner that enables Signifyd to receive chargeback data automatically and offer fraud decisioning and guarantee to Stripe merchants.",
+            "name": "Stripe",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Payment Integration",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "PayPal is a payment integration partner — Signifyd connects to PayPal to receive chargeback data and offer fraud decisioning/guarantee to PayPal merchants.",
+            "name": "PayPal",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Payment Integration",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00000r6"
+          },
+          {
+            "description": "Square is a payment integration partner; Signifyd receives chargeback data and delivers fraud decisioning and guarantee to Square merchants.",
+            "name": "Square",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Payment Integration",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "000068h"
+          },
+          {
+            "description": "WorldPay (distinct from Worldpay the reseller partner) is listed as a payment integration for chargeback data ingestion and fraud decisioning.",
+            "name": "WorldPay",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Payment Integration",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0002694"
+          },
+          {
+            "description": "NetSuite is a pre-built order integration that supports Signifyd's automated fulfillment connection and back-office automation.",
+            "name": "NetSuite",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Integration Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0003hpn"
+          },
+          {
+            "description": "Vtex is a pre-built order integration; Signifyd provides plug-and-play deployment to Vtex merchants.",
+            "name": "Vtex",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ],
+            "strategic_tier": "Core Platform Partner",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00009af"
+          },
+          {
+            "announced_on": {
+              "day": 16,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Swap and Signifyd partnered (announced 2025-02-16) to empower brands with secure, seamless global commerce. The partnership helps fintechs go international by combining Swap's cross-border payments infrastructure with Signifyd's Guaranteed Fraud Protection, Chargeback Recovery, and identity network.",
+            "name": "Swap",
+            "source": [
+              "https://www.businesswire.com/news/home/20250213225905/en/Swap-and-Signifyd-Partner-to-Empower-Brands-With-Secure-Seamless-Global-Commerce"
+            ],
+            "strategic_tier": "Flagship Strategic Partner",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00007od"
+          },
+          {
+            "announced_on": {
+              "day": 31,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "SHIFT Communications added Signifyd (along with Exol, Leia Inc., and Symbotic) to its B2B technology PR client roster in March 2026. SHIFT supports Signifyd with multichannel PR programs aimed at strengthening industry positioning and visibility for AI-driven fraud protection.",
+            "name": "SHIFT Communications",
+            "source": [
+              "https://www.globenewswire.com/news-release/2026/03/31/3265662/0/en/SHIFT-Communications-Adds-AI-Centric-Growth-Stage-Companies-to-B2B-Technology-PR-Client-Roster.html"
+            ],
+            "strategic_tier": "Core Pr Partner",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "00078ue"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 9,
+              "year": 2025
+            },
+            "description": "Launched Intelligent Returns, a new product initiative bundling ML-powered return fraud detection, Instant Refunds, and Return Abuse Prevention, expanding the platform from order-time decisions into the post-purchase returns lifecycle.",
+            "source": [
+              "https://aijourn.com/signifyd-launches-intelligent-returns-to-help-retailers-tackle-the-growing-returns-challenge/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 16,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Announced a strategic partnership with Swap to combine cross-border payments infrastructure with Signifyd's Guaranteed Fraud Protection, Chargeback Recovery, and identity network for international ecommerce expansion.",
+            "source": [
+              "https://www.businesswire.com/news/home/20250213225905/en/Swap-and-Signifyd-Partner-to-Empower-Brands-With-Secure-Seamless-Global-Commerce"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "day": 15,
+              "month": 4,
+              "year": 2021
+            },
+            "description": "Closed a $205 million Series 3 round led by Blue Owl Capital Corporation (with CPP Investments, FIS, Neuberger Berman participating) at a $1.34 billion post-money valuation, the largest funding event in company history and a milestone that put the company at unicorn-plus scale.",
+            "source": [
+              "https://tracxn.com/d/companies/signifyd/__eu3gGDFcgzbkQ0RVUowPUrybmzMVrJqQhp5X-bQ9dPg/funding-and-investors"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "description": "Released Spark Winter 2026, positioning the platform for the \"autonomous economy\" by tracking agentic AI conversions and providing transparency tools for AI-initiated transactions.",
+            "source": [
+              "https://www.signifyd.com/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 31,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Engaged SHIFT Communications as PR partner to amplify AI-driven positioning, joining a roster that includes Exol, Leia Inc., and Symbotic.",
+            "source": [
+              "https://www.globenewswire.com/news-release/2026/03/31/3265662/0/en/SHIFT-Communications-Adds-AI-Centric-Growth-Stage-Companies-to-B2B-Technology-PR-Client-Roster.html"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Operationalized LATAM regional headquarters in Mexico City and a sales presence in São Paulo under General Manager LATAM Christian Leon, extending the field-sales footprint beyond the U.S., U.K., and EMEA into Latin America.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "description": "Signifyd's company is headquartered in San Jose, CA, with locations in Denver, New York, Mexico City, São Paulo, Belfast, London and Budapest, serving 100+ countries with 500+ company employees.",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ],
+            "title": "Global geographic expansion with multiple office locations",
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Operationalized LATAM HQ in Mexico City and São Paulo sales office under a dedicated General Manager, indicating a deliberate move from opportunistic LATAM presence to a region-specific go-to-market. Observed 2025-onward.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "Launched Intelligent Returns (Sept 2025) and Return Insights as a new product line extending the platform beyond order-time fraud decisions into post-purchase returns analytics, opening an adjacent revenue surface estimated to be a multi-billion-dollar addressable category given industry return volumes.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Spark Winter 2026 release explicitly positions the platform for the \"autonomous economy\" with agentic commerce tracking, signaling expansion into AI-shopping-agent use cases that did not exist as a category in prior years.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Fearless Payments white-label program extends reach into PSP/gateway/issuer merchant portfolios not directly addressable by Signifyd's own sales force, with named partners including Worldpay, PayKings, Authorize.net, EVO Payments, Sezzle, Capital One, Discover, and Synchrony.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Co-branded Shopify Chargeback Protection by Signifyd product launched as a channel-specific bundle, deepening platform-level partnership economics with Shopify Plus beyond a standard integration.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "Hired a Chief AI Officer (Swami Vaithanathasamy) and continues to publish research on generative AI applications in fraud and agentic commerce, signaling strategic investment in AI talent and capability expansion.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          },
+          {
+            "description": "European vertical solutions (SCA Dynamic Exemption Management) and Swap partnership (Feb 2025) indicate continued investment in cross-border commerce infrastructure, expanding addressable market beyond North American ecommerce.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        },
+        "valuation_estimate": {
+          "code": "1b_5b",
+          "label": "$1B-$5B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Signifyd is a privately held, venture-backed provider of an enterprise-grade commerce protection platform for ecommerce merchants and payment service providers, headquartered in San Jose, California with offices in Denver, New York, Seattle, London (EMEA HQ), Belfast (Global R&D), Budapest, Mexico City, and São Paulo. Founded by ex-PayPal executives Mike Liberty and Raj Ramanand, Signifyd serves 6,000+ global brands across 100+ countries, was named the #1 payment security/fraud prevention solution by Digital Commerce 360 for five consecutive years (2022–2026), and reached $292.8M in ARR in 2024 with $394M in cumulative funding across seven rounds and a $1.34B valuation in April 2021.",
+        "strengths": [
+          {
+            "details": "Signifyd instantly recognizes 98% of online shoppers and aggregates identity/intent data from 6,000+ global brands. Each new merchant enriches the network's fraud signal, improving decision accuracy for all participants. This data flywheel should compound: as more merchants join (especially via Fearless Payments white-label and Shopify bundle), Signifyd's competitive moat against non-network incumbents deepens.",
+            "headline": "Commerce Network flywheel compounds at scale",
+            "source": [
+              "https://www.signifyd.com/fearless-conversions/"
+            ]
+          },
+          {
+            "details": "With direct ARO integrations covering 25% of all U.S. credit transactions and partnerships with Capital One, Discover, and Synchrony, Signifyd is positioned to become the default fraud-decisioning layer between issuers and merchants. As card-not-present volumes grow and issuers face rising chargeback costs, Signifyd's embedded distribution should translate recurring transaction-based pricing into compounding revenue.",
+            "headline": "Issuer partnerships unlock embedded distribution",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ]
+          },
+          {
+            "details": "The September 2025 Intelligent Returns launch and Return Abuse Prevention capabilities extend Signifyd from a $292.8M ARR fraud-decisioning business into the adjacent, larger returns-management market. The same Commerce Network data that drives fraud detection now powers refund/return decisions, allowing Signifyd to monetize a previously unserved touchpoint with the same merchants.",
+            "headline": "Returns expansion unlocks larger TAM",
+            "source": [
+              "https://aijourn.com/signifyd-launches-intelligent-returns-to-help-retailers-tackle-the-growing-returns-challenge/"
+            ]
+          },
+          {
+            "details": "As AI shopping agents increasingly initiate transactions on behalf of consumers, fraud/identity verification between agents and merchants becomes mission-critical. Signifyd's Spark Winter 2026 positioning around the \"autonomous economy\" and its existing identity graph give it a first-mover advantage in agentic commerce risk-decisioning, a category that does not yet exist as a defined market.",
+            "headline": "Agentic commerce tailwind ahead",
+            "source": [
+              "https://www.signifyd.com/"
+            ]
+          },
+          {
+            "details": "Continued 20%+ YoY growth in fraud pressure and consumer abuse in 2024 signals that merchants' willingness to pay for guaranteed protection is rising structurally. Combined with a five-year #1 ranking in Digital Commerce 360, Signifyd should be able to capture outsized share of incremental fraud-management wallet as enterprise retailers consolidate vendors.",
+            "headline": "Rising fraud tailwinds drive vendor consolidation",
+            "source": [
+              "https://www.signifyd.com/blog/digital-commerce-360/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Stripe, PayPal, Visa (CyberSource), Mastercard (NuData/Ekata), and Adyen are all investing heavily in native fraud-decisioning capabilities embedded directly into their rails. As these processors move \"up the stack,\" Signifyd's value proposition could be partially disintermediated by free or low-cost in-house alternatives, compressing its pricing power with the very PSPs and platforms that anchor its distribution.",
+            "headline": "Incumbent rails threaten disintermediation",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          },
+          {
+            "details": "The 100% financial guarantee model means Signifyd reimburses merchants for chargebacks on approved orders. In periods of sharp fraud spikes or novel attack vectors, chargeback losses flow directly to Signifyd's P&L rather than being capped, exposing the company to nonlinear downside if its models miss new fraud patterns or if return abuse scales faster than its detection capabilities.",
+            "headline": "Balance-sheet exposure under guarantee model",
+            "source": [
+              "https://www.signifyd.com/guaranteed-fraud-protection/"
+            ]
+          },
+          {
+            "details": "Signifyd observed +20% YoY fraud pressure and +23% YoY consumer abuse in 2024, while ARR grew only ~7% YoY. This widening gap between fraud pressure and revenue growth suggests attackers are innovating faster than the platform is scaling revenue, which can compress margins under the outcome-based pricing model.",
+            "headline": "Fraud arms race outpacing monetization",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          },
+          {
+            "details": "Signifyd serves marquee customers including Walmart, Lowe's, Samsung, and Lenovo, but does not disclose revenue concentration. Loss or renegotiation of a small number of top enterprise contracts — which carry multi-year outcome-based pricing — could disproportionately impact ARR and force commercial concessions.",
+            "headline": "Concentrated enterprise customer base",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          },
+          {
+            "details": "The Intelligent Returns and ARO expansions push Signifyd into returns management and issuer-side payment optimization, both of which are contested by specialized incumbents and require sustained R&D and partnership investment. If these adjacencies fail to gain traction, growth reverts to a slower-growing core fraud-decisioning business at a time when ARR growth already appears muted.",
+            "headline": "Adjacency expansion may dilute focus",
+            "source": [
+              "https://www.signifyd.com/ecommerce-trends-report/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "The Signifyd Commerce Network aggregates identity and intent intelligence from thousands of global ecommerce retailers and issuing banks; coverage extends to 98% of online shoppers and 25% of all U.S. credit transactions. Each new merchant and issuer integration increases the accuracy of fraud detection for the entire base, producing a classic data-driven network effect.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "Proprietary dataset built over more than a decade spanning 25,000+ features per order across email, IP, phone, address, device ID, behavior, and cross-merchant signals. Coverage of 80% email, 80% IP, 75% phone, 77% address, and 75% device ID is not replicable without equivalent transaction volume.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "The 100% financial guarantee against fraud (and optionally non-fraud) chargebacks is technically and balance-sheet intensive, requiring both underwriting capability and ML precision. Signifyd claims 50% better dispute win rates and 93% chargeback reductions, validated by named customer outcomes.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Decision Center, Agent Console, and Insights Reporting create workflow lock-in through merchant-specific custom policies, trained analyst teams, and embedded integrations with PSPs and ecommerce platforms. Migration cost extends beyond contracts to operational retooling.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Pre-built integrations across all major ecommerce platforms (Shopify Plus, BigCommerce, Adobe Commerce, Salesforce Commerce Cloud, commercetools, Vtex, Miva) plus PSPs (Adyen, Stripe, PayPal, Square, Worldpay) and 5 of top 10 card issuers (Capital One, Discover, Synchrony) create a structural reach advantage competitors must replicate one integration at a time.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "The Fearless Payments white-label program binds PSPs, gateways, and issuers into multi-year reseller relationships; the Fearless Payments platform is also exposed through a co-branded Shopify Chargeback Protection bundle. Embedding into partner stacks raises replacement friction.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Signifyd's 100% financial guarantee means the company reimburses merchants for chargebacks on orders it approved. Sharp spikes in fraud or novel attack vectors flow directly to Signifyd's P&L, exposing the firm to nonlinear downside risk if models degrade.",
+            "headline": "Chargeback guarantee creates direct balance-sheet liability",
+            "source": [
+              "https://www.signifyd.com/guaranteed-fraud-protection/"
+            ]
+          },
+          {
+            "details": "Signifyd's reach depends on continued cooperation from Shopify, BigCommerce, Adobe Commerce, Salesforce Commerce Cloud, commercetools, and payment processors (Adyen, Stripe, PayPal). Platform owners have incentives to internalize fraud and could disintermediate Signifyd.",
+            "headline": "Heavy reliance on third-party platforms and PSPs for distribution",
+            "source": [
+              "https://www.signifyd.com/partnerships/"
+            ]
+          },
+          {
+            "details": "CyberSource (Visa), Accertify (American Express), Stripe Radar, and PayPal's native fraud tools all compete with Signifyd and benefit from being bundled with payment processing, which Signifyd does not control.",
+            "headline": "Competitive pressure from card-network-owned incumbents is intensifying",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          },
+          {
+            "details": "Signifyd reported sales up only 7% YoY in 2024, while fraud pressure rose 20% YoY and consumer abuse rose 23% YoY. The widening gap suggests attackers are innovating faster than Signifyd is converting new risk into incremental revenue, which can compress margins under outcome-based pricing.",
+            "headline": "Revenue growth (7% YoY in 2024) appears modest relative to rising fraud pressure",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          },
+          {
+            "details": "Generative AI makes phishing, synthetic identity creation, and account-takeover attacks dramatically easier. Signifyd's models must continuously retrain (every few weeks per company claims) to keep pace, raising R&D intensity and the risk of a high-profile miss.",
+            "headline": "Generative AI lowers the bar for sophisticated fraud attacks",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Signifyd reached $292.8M in ARR in 2024 (per Getlatka), representing a substantial revenue base for a private fraud-prevention vendor. Combined with 7% YoY sales growth in 2024, the company has demonstrated sustained commercial traction.",
+            "headline": "$292.8M ARR with consistent growth at meaningful scale",
+            "source": [
+              "https://getlatka.com/companies/signifyd"
+            ]
+          },
+          {
+            "details": "The Signifyd Commerce Network instantly recognizes 98% of online shoppers and aggregates identity/intent data from 6,000+ global brands across 100+ countries, with 80% email, 80% IP, 75% phone, 77% address, and 75% device-ID coverage. This scale is extremely difficult for new entrants to replicate.",
+            "headline": "Commerce Network delivers powerful data network effects",
+            "source": [
+              "https://www.signifyd.com/fearless-conversions/"
+            ]
+          },
+          {
+            "details": "Signifyd has been named the #1 payment security / fraud prevention solution in the Digital Commerce 360 Leading Vendors report for five consecutive years (2022-2026), reinforcing its status as the top-of-mind brand for enterprise ecommerce fraud prevention.",
+            "headline": "Five-year #1 ranking in Digital Commerce 360 validates market leadership",
+            "source": [
+              "https://www.signifyd.com/blog/digital-commerce-360/"
+            ]
+          },
+          {
+            "details": "Signifyd provides a 100% financial guarantee against fraud chargebacks (and optional non-fraud chargebacks) on every approved order, fully shifting liability from the merchant. This outcome-based model requires underwriting capability that few competitors can match.",
+            "headline": "100% financial guarantee is a unique differentiator requiring both technical and balance-sheet capability",
+            "source": [
+              "https://www.signifyd.com/guaranteed-fraud-protection/"
+            ]
+          },
+          {
+            "details": "Through Authorization Rate Optimization (ARO) partnerships with Capital One, Discover, Synchrony, and others, Signifyd's fraud intelligence covers 25% of all U.S. credit transactions. This issuer-level reach is exceptionally difficult to replicate.",
+            "headline": "Embedded distribution through 5 of top 10 U.S. card issuers",
+            "source": [
+              "https://www.signifyd.com/authorization-rate-optimization/"
+            ]
+          },
+          {
+            "details": "Signifyd serves Hot Topic, Philips, Lenovo, Samsung, Mango, Build-A-Bear, Rodan + Fields, Walmart, Lowe's, Abercrombie & Fitch, and more — including a Customer Advisory Board with senior fraud executives from Walmart, Lowe's, and Abercrombie & Fitch.",
+            "headline": "Marquee enterprise customer roster spans top global brands",
+            "source": [
+              "https://www.signifyd.com/pricing/"
+            ]
+          },
+          {
+            "details": "Co-founders Rajesh Ramanand (CEO) and Mike Liberty (Chief Risk Officer) both came from PayPal and continue to lead Signifyd, providing continuity and deep domain expertise in payments fraud.",
+            "headline": "Founders with deep PayPal fraud pedigree still lead the company",
+            "source": [
+              "https://www.signifyd.com/about/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Signifyd reports 6,000+ global brands as customers and serves merchants across at least 10 named verticals (fashion, electronics, home goods, sporting goods, grocery, auto parts, airlines, QSR, beauty, jewelry), spanning enterprise, mid-market, and SMB tiers. Named enterprise logos include Walmart, Samsung, Lenovo, Philips, Lowe's, Abercrombie & Fitch, Arbonne, Hot Topic, Mango, and Build-A-Bear, alongside a long tail of mid-market and SMB brands (Cymbiotika, Carbon38, UrbanStems, BTO Sports, etc.). Transaction-based percentage-of-order pricing scales with merchant GMV rather than seat count, so large enterprise merchants likely contribute disproportionately to revenue but no single customer is publicly disclosed as a majority of revenue. The combination of 6,000+ customer count, vertical breadth, and tier diversification places concentration risk in the Moderate band with no critical single-customer dependency.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Riskified is the closest direct competitor to Signifyd, offering a chargeback-guarantee fraud-prevention platform for ecommerce merchants with a similarly outcome-based pricing model and AI-driven decisioning. Both compete head-to-head for enterprise retailers.",
+            "name": "Riskified",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000b4d"
+          },
+          {
+            "description": "Stripe Radar is Stripe's native AI fraud-prevention product, included with Stripe payments and increasingly capable of handling ecommerce fraud at scale. While integrated with Signifyd today, Stripe could disintermediate third-party fraud vendors over time for SMB and mid-market merchants.",
+            "name": "Stripe Radar",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "SEON provides digital fraud-prevention and AML compliance using digital footprint and device-intelligence data. It targets fintechs and digital-native merchants, overlapping with Signifyd's account-protection and authorization-rate-optimization use cases but with a different core identity approach.",
+            "name": "SEON",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "000004x"
+          },
+          {
+            "description": "Sift provides a digital trust & safety platform combining fraud, content abuse, and account-takeover protection with a large global data network. It competes with Signifyd's Account Protection and broader commerce protection modules.",
+            "name": "Sift",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a2a"
+          },
+          {
+            "description": "Forter provides an identity-based, real-time fraud-prevention platform with a Trusted Identity Network and decision guarantee for ecommerce. It competes directly with Signifyd's Guaranteed Fraud Protection for enterprise merchants and PSPs.",
+            "name": "Forter",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003id"
+          },
+          {
+            "description": "CyberSource is Visa's enterprise payment-management platform with Decision Manager, an integrated fraud-prevention offering for large merchants. As a broad incumbent owned by a card network, it competes with Signifyd at the high end and bundles fraud into payment processing.",
+            "name": "CyberSource (Visa)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "000a27b"
+          },
+          {
+            "description": "NoFraud is a guaranteed fraud-prevention platform for SMB and mid-market ecommerce merchants, offering real-time decisioning and chargeback liability shift. It competes with Signifyd in the lower end of the market and via Shopify/bigcommerce channels.",
+            "name": "NoFraud",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "02ln791"
+          },
+          {
+            "description": "Accertify is a fraud-prevention and chargeback-management platform acquired by American Express. It serves enterprise merchants globally and is listed as an integration partner for Signifyd, indicating competing but partially adjacent offerings.",
+            "name": "Accertify (American Express)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0003l7p"
+          },
+          {
+            "description": "Kount is an established ecommerce fraud-prevention platform owned by Equifax, offering AI-driven decisioning, chargeback mitigation, and identity verification. It targets the same enterprise merchant base as Signifyd.",
+            "name": "Kount (Equifax)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000x38"
+          },
+          {
+            "description": "ClearSale offers a chargeback-guarantee fraud-protection solution for ecommerce with a hybrid AI + manual review model, directly competing with Signifyd's Guaranteed Fraud Protection, especially in mid-market and LATAM.",
+            "name": "ClearSale",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0006qto"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

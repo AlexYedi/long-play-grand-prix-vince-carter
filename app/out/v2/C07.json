@@ -1,0 +1,148 @@
+{
+  "company_id": "C07",
+  "company": "Gantrell Dental Cloud",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 52800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 490,
+        "end": 496
+      },
+      "quote": "$52.8K",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 633600,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 490,
+        "end": 496
+      },
+      "quote": "$52.8K",
+      "confidence": 0.9,
+      "derivation": "12 x MRR of 52,800; no ARR stated by founder"
+    },
+    "monthly_burn": {
+      "value": 68000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 731,
+        "end": 741
+      },
+      "quote": "$68K/month",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 290000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "2026-09-30",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 902,
+        "end": 907
+      },
+      "quote": "$290K",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 4,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 909,
+        "end": 918
+      },
+      "quote": "~4 months",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 659,
+        "end": 671
+      },
+      "quote": "steady at 11",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 74,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 553,
+        "end": 565
+      },
+      "quote": "74 practices",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Shipped imaging integration requested by largest DSO; three multi-location DSOs in late-stage trials, biggest Q4 pipeline yet",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 403,
+        "end": 453
+      },
+      "quote": "three multi-location DSOs are in late-stage trials",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Short runway (~4 months at current burn); exploring options including a bridge",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 909,
+        "end": 969
+      },
+      "quote": "~4 months at current burn. Exploring options incl. a bridge.",
+      "confidence": 0.9
+    }
+  },
+  "flags": [
+    {
+      "flag": "revenue_decline",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 472,
+        "end": 534
+      },
+      "quote": "September MRR was $52.8K as we cleaned up some legacy accounts"
+    },
+    {
+      "flag": "low_runway",
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 909,
+        "end": 918
+      },
+      "quote": "~4 months"
+    }
+  ]
+}

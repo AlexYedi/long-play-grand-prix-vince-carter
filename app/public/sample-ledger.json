@@ -1,0 +1,816 @@
+{
+  "period": "2026-Q3",
+  "generated_at": "2026-10-24T17:39:29.249Z",
+  "synthetic": true,
+  "input_source": "SAMPLE: built from data-pack answer key (placeholder until app/reconcile.mjs writes app/out/ledger.json)",
+  "fund": {
+    "nav_usd": 32577000,
+    "tvpi": 1.31,
+    "dpi": 0.04,
+    "net_irr": 11.5,
+    "prior": {
+      "nav_usd": 29762000,
+      "tvpi": 1.21,
+      "dpi": 0.05,
+      "net_irr": 8.9
+    }
+  },
+  "segments": [
+    {
+      "segment": "SaaS",
+      "company_ids": [
+        "C07",
+        "C01"
+      ],
+      "summary": {
+        "n": 2,
+        "red": 4,
+        "amber": 0
+      }
+    },
+    {
+      "segment": "Payments",
+      "company_ids": [
+        "C08"
+      ],
+      "summary": {
+        "n": 1,
+        "red": 0,
+        "amber": 1
+      }
+    },
+    {
+      "segment": "Services",
+      "company_ids": [
+        "C09"
+      ],
+      "summary": {
+        "n": 1,
+        "red": 0,
+        "amber": 2
+      }
+    }
+  ],
+  "companies": [
+    {
+      "company_id": "C07",
+      "company": "Gantrell Dental Cloud",
+      "sector": "Vertical SaaS (dental)",
+      "segment": "SaaS",
+      "stage": "Seed",
+      "update_status": "received",
+      "framework": {
+        "metrics": [
+          "monthly_revenue",
+          "arr",
+          "customers",
+          "monthly_burn",
+          "cash",
+          "runway_months",
+          "headcount"
+        ],
+        "targets": {
+          "monthly_revenue": 65000,
+          "customers": 85,
+          "runway_months": 12
+        }
+      },
+      "metrics": [
+        {
+          "key": "monthly_revenue",
+          "label": "Monthly revenue",
+          "value": 52800,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 61000,
+          "delta_pct": -13.4,
+          "target": 65000,
+          "status": "off_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              490,
+              496
+            ],
+            "quote": "$52.8K"
+          }
+        },
+        {
+          "key": "arr",
+          "label": "ARR",
+          "value": 633600,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 732000,
+          "delta_pct": -13.4,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              490,
+              496
+            ],
+            "quote": "$52.8K"
+          },
+          "derivation": "12 x monthly_revenue (ARR not stated)"
+        },
+        {
+          "key": "customers",
+          "label": "Customers",
+          "value": 74,
+          "unit": "count",
+          "currency": null,
+          "prior": 87,
+          "delta_pct": -14.9,
+          "target": 85,
+          "status": "off_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              553,
+              565
+            ],
+            "quote": "74 practices"
+          }
+        },
+        {
+          "key": "monthly_burn",
+          "label": "Net burn / mo",
+          "value": 68000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 55000,
+          "delta_pct": 23.6,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              731,
+              741
+            ],
+            "quote": "$68K/month"
+          }
+        },
+        {
+          "key": "cash",
+          "label": "Cash",
+          "value": 290000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 494000,
+          "delta_pct": -41.3,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              902,
+              907
+            ],
+            "quote": "$290K"
+          }
+        },
+        {
+          "key": "runway_months",
+          "label": "Runway",
+          "value": 4,
+          "unit": "months",
+          "currency": null,
+          "prior": 9,
+          "delta_pct": -55.6,
+          "target": 12,
+          "status": "off_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              909,
+              918
+            ],
+            "quote": "~4 months"
+          }
+        },
+        {
+          "key": "headcount",
+          "label": "Headcount",
+          "value": 11,
+          "unit": "people",
+          "currency": null,
+          "prior": 11,
+          "delta_pct": 0,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              669,
+              671
+            ],
+            "quote": "11"
+          }
+        }
+      ],
+      "mark": {
+        "q2_usd": 1650000,
+        "q3_usd": 1650000,
+        "method_q3": "Last round (post-money)",
+        "change_pct": 0,
+        "reason": null
+      },
+      "flags": [
+        {
+          "flag": "low_runway",
+          "severity": "red",
+          "reason": "low runway",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              909,
+              918
+            ],
+            "quote": "~4 months"
+          }
+        },
+        {
+          "flag": "revenue_decline",
+          "severity": "red",
+          "reason": "revenue decline",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              500,
+              534
+            ],
+            "quote": "we cleaned up some legacy accounts"
+          }
+        },
+        {
+          "flag": "unexplained_mark",
+          "severity": "red",
+          "reason": "Mark held at $1.65M while MRR fell 13% and runway is ~4 months",
+          "source": null
+        },
+        {
+          "flag": "founder_dependency",
+          "severity": "red",
+          "reason": "Founder-closed share of won $ rose from 50.7% (Q2) to 85.7% (Q3); all 3 open trials are founder-owned",
+          "source": {
+            "kind": "system",
+            "file": "internal/C07/crm_deals.csv",
+            "row_ids": [
+              "C07-D010",
+              "C07-D011",
+              "C07-D012",
+              "C07-D013"
+            ],
+            "formula": "sum(amount | owner_role=founder) / sum(amount), stage=closed_won, closed_month in 2026-07..09"
+          }
+        }
+      ],
+      "claims": [
+        {
+          "claim": "the Q4 pipeline is the biggest it has ever been",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+            "span": [
+              354,
+              401
+            ],
+            "quote": "the Q4 pipeline is the biggest it has ever been"
+          },
+          "check": "Open pipeline in CRM (stage trial/qualified) vs. a prior-quarter snapshot",
+          "verdict": "unverifiable",
+          "evidence": "CRM has no Q2 pipeline snapshot. Open pipeline today: 3 trials, $69.6K, all founder-owned, plus 1 qualified ($4.8K)",
+          "evidence_source": {
+            "kind": "system",
+            "file": "internal/C07/crm_deals.csv",
+            "row_ids": [
+              "C07-D017",
+              "C07-D018",
+              "C07-D019",
+              "C07-D020"
+            ],
+            "formula": "sum(amount) where stage in (trial, qualified)"
+          }
+        }
+      ]
+    },
+    {
+      "company_id": "C01",
+      "company": "Loomvale Systems",
+      "sector": "Logistics software",
+      "segment": "SaaS",
+      "stage": "Seed",
+      "update_status": "received",
+      "framework": {
+        "metrics": [
+          "monthly_revenue",
+          "arr",
+          "customers",
+          "monthly_burn",
+          "cash",
+          "runway_months",
+          "headcount"
+        ],
+        "targets": {
+          "monthly_revenue": 130000,
+          "customers": 50,
+          "runway_months": 18
+        }
+      },
+      "metrics": [
+        {
+          "key": "monthly_revenue",
+          "label": "Monthly revenue",
+          "value": 141500,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 118000,
+          "delta_pct": 19.9,
+          "target": 130000,
+          "status": "on_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              552,
+              559
+            ],
+            "quote": "$141.5K"
+          }
+        },
+        {
+          "key": "arr",
+          "label": "ARR",
+          "value": 1698000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 1416000,
+          "delta_pct": 19.9,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              602,
+              609
+            ],
+            "quote": "$1.698M"
+          }
+        },
+        {
+          "key": "customers",
+          "label": "Customers",
+          "value": 52,
+          "unit": "count",
+          "currency": null,
+          "prior": 41,
+          "delta_pct": 26.8,
+          "target": 50,
+          "status": "on_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              655,
+              674
+            ],
+            "quote": "52 paying customers"
+          }
+        },
+        {
+          "key": "monthly_burn",
+          "label": "Net burn / mo",
+          "value": 172000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 165000,
+          "delta_pct": 4.2,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              409,
+              414
+            ],
+            "quote": "$172K"
+          }
+        },
+        {
+          "key": "cash",
+          "label": "Cash",
+          "value": 8390000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 2900000,
+          "delta_pct": 189.3,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              367,
+              373
+            ],
+            "quote": "$8.39M"
+          }
+        },
+        {
+          "key": "runway_months",
+          "label": "Runway",
+          "value": 48,
+          "unit": "months",
+          "currency": null,
+          "prior": 18,
+          "delta_pct": 166.7,
+          "target": 18,
+          "status": "on_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              464,
+              473
+            ],
+            "quote": "48 months"
+          }
+        },
+        {
+          "key": "headcount",
+          "label": "Headcount",
+          "value": 19,
+          "unit": "people",
+          "currency": null,
+          "prior": 14,
+          "delta_pct": 35.7,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+            "span": [
+              684,
+              693
+            ],
+            "quote": "19 people"
+          }
+        }
+      ],
+      "mark": {
+        "q2_usd": 1500000,
+        "q3_usd": 3150000,
+        "method_q3": "Last round (post-money)",
+        "change_pct": 110,
+        "reason": "Priced round: Last round (post-money)"
+      },
+      "flags": [],
+      "claims": []
+    },
+    {
+      "company_id": "C08",
+      "company": "Corvellum Pay",
+      "sector": "Fintech (B2B payments)",
+      "segment": "Payments",
+      "stage": "Seed",
+      "update_status": "received",
+      "framework": {
+        "metrics": [
+          "monthly_revenue",
+          "customers",
+          "monthly_burn",
+          "cash",
+          "runway_months"
+        ],
+        "targets": {
+          "monthly_revenue": 200000,
+          "runway_months": 18
+        }
+      },
+      "metrics": [
+        {
+          "key": "monthly_revenue",
+          "label": "Monthly revenue",
+          "value": 192400,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 168000,
+          "delta_pct": 14.5,
+          "target": 200000,
+          "status": "off_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              501,
+              509
+            ],
+            "quote": "$192,400"
+          }
+        },
+        {
+          "key": "customers",
+          "label": "Customers",
+          "value": 39,
+          "unit": "count",
+          "currency": null,
+          "prior": 34,
+          "delta_pct": 14.7,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              647,
+              649
+            ],
+            "quote": "39"
+          }
+        },
+        {
+          "key": "monthly_burn",
+          "label": "Net burn / mo",
+          "value": 245000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 230000,
+          "delta_pct": 6.5,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              541,
+              549
+            ],
+            "quote": "$245,000"
+          }
+        },
+        {
+          "key": "cash",
+          "label": "Cash",
+          "value": 3900000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 4600000,
+          "delta_pct": -15.2,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              570,
+              575
+            ],
+            "quote": "$3.9M"
+          }
+        },
+        {
+          "key": "runway_months",
+          "label": "Runway",
+          "value": 16,
+          "unit": "months",
+          "currency": null,
+          "prior": 20,
+          "delta_pct": -20,
+          "target": 18,
+          "status": "off_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              491,
+              493
+            ],
+            "quote": "16"
+          }
+        }
+      ],
+      "mark": {
+        "q2_usd": 2700000,
+        "q3_usd": 2700000,
+        "method_q3": "Last round (post-money)",
+        "change_pct": 0,
+        "reason": null
+      },
+      "flags": [
+        {
+          "flag": "conflicting_figures",
+          "severity": "amber",
+          "reason": "conflicting figures",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+            "span": [
+              206,
+              223
+            ],
+            "quote": "MRR crossed $210K"
+          }
+        }
+      ],
+      "claims": []
+    },
+    {
+      "company_id": "C09",
+      "company": "Stillmote Studios",
+      "sector": "Creator tools",
+      "segment": "Services",
+      "stage": "Pre-seed",
+      "update_status": "received",
+      "framework": {
+        "metrics": [
+          "monthly_revenue",
+          "monthly_burn",
+          "cash",
+          "runway_months",
+          "headcount"
+        ],
+        "targets": {
+          "runway_months": 12
+        }
+      },
+      "metrics": [
+        {
+          "key": "monthly_revenue",
+          "label": "Monthly revenue",
+          "value": 100000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 78000,
+          "delta_pct": 28.2,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              423,
+              428
+            ],
+            "quote": "$100K"
+          }
+        },
+        {
+          "key": "monthly_burn",
+          "label": "Net burn / mo",
+          "value": 52000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 45000,
+          "delta_pct": 15.6,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              550,
+              554
+            ],
+            "quote": "$52K"
+          }
+        },
+        {
+          "key": "cash",
+          "label": "Cash",
+          "value": 745000,
+          "unit": "usd",
+          "currency": "USD",
+          "prior": 880000,
+          "delta_pct": -15.3,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              562,
+              567
+            ],
+            "quote": "$745K"
+          }
+        },
+        {
+          "key": "runway_months",
+          "label": "Runway",
+          "value": 14,
+          "unit": "months",
+          "currency": null,
+          "prior": 20,
+          "delta_pct": -30,
+          "target": 12,
+          "status": "on_track",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              577,
+              586
+            ],
+            "quote": "14 months"
+          }
+        },
+        {
+          "key": "headcount",
+          "label": "Headcount",
+          "value": 8,
+          "unit": "people",
+          "currency": null,
+          "prior": 7,
+          "delta_pct": 14.3,
+          "target": null,
+          "status": "no_target",
+          "verified": "founder_quote",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              503,
+              504
+            ],
+            "quote": "8"
+          }
+        }
+      ],
+      "mark": {
+        "q2_usd": 500000,
+        "q3_usd": 500000,
+        "method_q3": "Cost",
+        "change_pct": 0,
+        "reason": null
+      },
+      "flags": [
+        {
+          "flag": "non_recurring_arr",
+          "severity": "amber",
+          "reason": "non recurring arr",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              179,
+              189
+            ],
+            "quote": "ARR: $1.2M"
+          }
+        },
+        {
+          "flag": "arr_claim_on_project_revenue",
+          "severity": "amber",
+          "reason": "Deck states \"ARR: $1.2M\" but 100% of revenue is one-off projects; ARR not applicable",
+          "source": {
+            "kind": "founder_text",
+            "file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+            "span": [
+              179,
+              213
+            ],
+            "quote": "ARR: $1.2M (September, annualized)"
+          }
+        }
+      ],
+      "claims": []
+    }
+  ]
+}

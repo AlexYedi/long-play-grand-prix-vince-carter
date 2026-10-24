@@ -1,0 +1,347 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/headcount-trends?company=00003id",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:19.047Z",
+  "data": {
+    "data": {
+      "uuid": "00003id",
+      "linkedin_username": "forter",
+      "linkedin_official_name": "Forter",
+      "linkedin_id": "5071248",
+      "total_employees": 717,
+      "growth_periods": [
+        {
+          "month_difference": 6,
+          "change_percentage": 2
+        },
+        {
+          "month_difference": 12,
+          "change_percentage": -1
+        },
+        {
+          "month_difference": 24,
+          "change_percentage": 5
+        }
+      ],
+      "headcount_monthly": [
+        {
+          "employee_count": 685,
+          "date": "2024-10-01"
+        },
+        {
+          "employee_count": 703,
+          "date": "2024-11-01"
+        },
+        {
+          "employee_count": 702,
+          "date": "2024-12-01"
+        },
+        {
+          "employee_count": 714,
+          "date": "2025-01-01"
+        },
+        {
+          "employee_count": 728,
+          "date": "2025-02-01"
+        },
+        {
+          "employee_count": 737,
+          "date": "2025-03-01"
+        },
+        {
+          "employee_count": 755,
+          "date": "2025-04-01"
+        },
+        {
+          "employee_count": 758,
+          "date": "2025-05-01"
+        },
+        {
+          "employee_count": 765,
+          "date": "2025-06-01"
+        },
+        {
+          "employee_count": 767,
+          "date": "2025-07-01"
+        },
+        {
+          "employee_count": 761,
+          "date": "2025-08-01"
+        },
+        {
+          "employee_count": 743,
+          "date": "2025-09-01"
+        },
+        {
+          "employee_count": 726,
+          "date": "2025-10-01"
+        },
+        {
+          "employee_count": 715,
+          "date": "2025-11-01"
+        },
+        {
+          "employee_count": 702,
+          "date": "2025-12-01"
+        },
+        {
+          "employee_count": 699,
+          "date": "2026-01-01"
+        },
+        {
+          "employee_count": 698,
+          "date": "2026-02-01"
+        },
+        {
+          "employee_count": 697,
+          "date": "2026-03-01"
+        },
+        {
+          "employee_count": 705,
+          "date": "2026-04-01"
+        },
+        {
+          "employee_count": 702,
+          "date": "2026-05-01"
+        },
+        {
+          "employee_count": 709,
+          "date": "2026-06-01"
+        },
+        {
+          "employee_count": 715,
+          "date": "2026-07-01"
+        },
+        {
+          "employee_count": 715,
+          "date": "2026-08-01"
+        },
+        {
+          "employee_count": 719,
+          "date": "2026-09-01"
+        },
+        {
+          "employee_count": 717,
+          "date": "2026-10-01"
+        }
+      ],
+      "date": "2026-10-01",
+      "headcount_by_function": [
+        {
+          "name": "Engineering",
+          "employee_count": 145,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 12
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -2
+            }
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "employee_count": 94,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": null
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -3
+            }
+          ]
+        },
+        {
+          "name": "Sales",
+          "employee_count": 83,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 3
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -9
+            }
+          ]
+        },
+        {
+          "name": "Business Development",
+          "employee_count": 43,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": -14
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -22
+            }
+          ]
+        },
+        {
+          "name": "Operations",
+          "employee_count": 43,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": null
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 13
+            }
+          ]
+        },
+        {
+          "name": "Support",
+          "employee_count": 41,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": null
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -10
+            }
+          ]
+        },
+        {
+          "name": "Research",
+          "employee_count": 45,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": null
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -10
+            }
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "employee_count": 30,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": -9
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -9
+            }
+          ]
+        },
+        {
+          "name": "Finance",
+          "employee_count": 29,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": -3
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -6
+            }
+          ]
+        },
+        {
+          "name": "Consulting",
+          "employee_count": 24,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 20
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 4
+            }
+          ]
+        },
+        {
+          "name": "Accounting",
+          "employee_count": 21,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 24
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 24
+            }
+          ]
+        },
+        {
+          "name": "Product Management",
+          "employee_count": 22,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": null
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 22
+            }
+          ]
+        },
+        {
+          "name": "Marketing",
+          "employee_count": 22,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 29
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -21
+            }
+          ]
+        },
+        {
+          "name": "Administrative",
+          "employee_count": 13,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 8
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 30
+            }
+          ]
+        },
+        {
+          "name": "Entrepreneurship",
+          "employee_count": 13,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 8
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": null
+            }
+          ]
+        }
+      ]
+    },
+    "credits_consumed": 2.5
+  }
+}

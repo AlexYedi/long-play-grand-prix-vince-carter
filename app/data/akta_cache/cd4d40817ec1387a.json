@@ -1,0 +1,148 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002xb&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:17.833Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 18495026,
+        "title": "Best Tools for Detecting Payment Fraud Across Channels",
+        "url": "https://www.fraud.net/resources/best-tools-for-detecting-payment-fraud",
+        "publisher": "FraudNet",
+        "published_date": "2025-11-30T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.7446,
+        "ai_summary": "This article provides a strategic comparison of five leading B2B payment fraud detection platforms: FraudNet, DataVisor, Signifyd, Sift, and SEON, analyzing their machine learning capabilities, compliance features, data orchestration, and real-time monitoring functionalities. The guide evaluates each platform's target industries, primary use cases, recent updates, and setup considerations to help enterprise finance, compliance, and digital transformation leaders select appropriate solutions. Each platform targets distinct market segments, with FraudNet and DataVisor serving enterprise financial institutions, Signifyd and Sift focusing on e-commerce merchants, and SEON designed for fintechs and fast-growing businesses.",
+        "word_count": 1944,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Risk, Fraud & 3DS Orchestration for Payments",
+            "code": "FSAGABAL",
+            "is_primary": true
+          },
+          {
+            "name": "Identity Verification & Digital ID (IDV, eIDAS, biometrics)",
+            "code": "FSAGAFAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": false
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004x",
+            "name": "SEON",
+            "website": "https://seon.io",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007a4",
+            "name": "DataVisor",
+            "website": "http://www.datavisor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a2a",
+            "name": "Sift",
+            "website": "http://sift.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "85",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522320",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "fraudnet",
+            "signifyd",
+            "datavisor",
+            "seon",
+            "sift platform",
+            "signifyd platform",
+            "seon platform",
+            "netsuite"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9906,
+        "group_id": 5788554,
+        "full_text": "Summary B2B payment fraud continues to grow in complexity, outpacing many traditional prevention methods and posing significant risks for organizations across industries. As digital transformation accelerates and payment volumes rise, sophisticated threats such as invoice fraud, business email compromise, and account takeover require more than manual checks or static rules. Modern fraud detection platforms have emerged as essential tools - offering real-time monitoring, adaptive machine learning, and seamless compliance automation - to help businesses safeguard their financial operations.\n\nThis guide delivers a clear, strategic comparison of the leading solutions for B2B payment fraud detection. Drawing on the most recent advancements in the field, we present an objective analysis of each platform’s core features, unique strengths, and practical considerations. Whether you manage enterprise finance, oversee compliance, or drive digital transformation, our aim is to equip you with transparent insights so you can make informed decisions and confidently protect your organization from evolving payment fraud risks.\n\nPlatform ML Capabilities Compliance Features Data Orchestration Real-Time Case Management Industry Focus FraudNet Multi-layered ML, Graph Neural Networks Unified Fraud, AML, Risk Management Seamless ERP and payment system integration Blocks suspicious payments instantly Enterprise B2B, Finance, E-commerce DataVisor Unsupervised ML Automated regulatory reporting Hyper-scalable real-time processing Real-time transaction monitoring Large-scale financial systems Signifyd Automated risk decisions Limited AML compliance Plug-and-play integrations Automated payment approvals E-commerce merchants Sift Adaptive ML No built-in AML Custom rule creation via API Unified dashboard for investigations Digital payments, Marketplaces, E-commerce SEON Customizable ML models Real-time AML screening API-driven, modular platform Rapid deployment Fintech, Fast-growing businesses\n\n1. FraudNet Platform Summary:\n\nFraudNet is a comprehensive platform built to secure the entire B2B payment lifecycle. It combines advanced machine learning, entity-centric risk assessment, and a global anti-fraud intelligence network to proactively identify and block emerging threats. Designed for enterprise B2B, finance, and e-commerce organizations, FraudNet delivers unified fraud, AML, and risk management in a scalable, modular solution.\n\nKey Benefits: Proactively detects and blocks sophisticated B2B payment fraud, including invoice manipulation and business email compromise.\n\nReduces false positives, protecting partner relationships and streamlining investigations.\n\nAutomates vendor onboarding and continuous entity screening for KYV and KYB compliance.\n\nSeamlessly integrates with ERP and payment systems for a unified risk view.\n\nCore Features: Multi-layered machine learning and graph neural networks for adaptive risk scoring.\n\nNo-code rules engine for rapid response to new fraud tactics.\n\nGlobal anti-fraud intelligence network for proactive threat sharing.\n\nEntity screening and monitoring to prevent onboarding of fraudulent vendors and detect account takeovers.\n\nPrimary Use Cases: Preventing invoice and payment fraud by flagging suspicious invoices and payment detail changes.\n\nAutomating secure vendor onboarding and ongoing entity verification.\n\nDetecting insider threats by monitoring internal user behavior and transactions.\n\nRecent Updates:\n\nFraudNet has recently launched Entity Screening to automate business entity verification and Policy Monitoring to help businesses proactively manage compliance and reduce operational risks. These enhancements further streamline onboarding and policy enforcement for enterprise clients.\n\nSetup Considerations: Modular and scalable platform allows phased adoption based on risk priorities.\n\nSeamless data orchestration breaks down internal silos without requiring a full infrastructure overhaul.\n\nIntuitive dashboard and no-code rule engine empower fraud and finance teams to adapt quickly.\n\n2. DataVisor Platform Summary:\n\nDataVisor is an enterprise-grade fraud detection platform leveraging patented unsupervised machine learning and a global consortium intelligence network. It is designed for large-scale financial systems that require hyper-scalable, real-time fraud detection and regulatory compliance automation.\n\nCore Features: Patented unsupervised machine learning for detecting both known and novel fraud attacks.\n\nConsortium intelligence network for sharing anonymized fraud signals across organizations.\n\nHyper-scalable real-time processing, supporting over 30 billion events annually.\n\nPrimary Use Cases: Real-time transaction monitoring for banks and digital payment providers.\n\nFraud ring detection using knowledge graphs to link devices, behaviors, and entities.\n\nAutomated regulatory reporting for SARs and CTRs, reducing manual compliance workloads.\n\nRecent Updates:\n\nDataVisor has enhanced workflow automation, improved explainability in AML case management, and expanded integrations for KYC/KYB and sanctions screening. These updates are aimed at improving operational efficiency and regulatory compliance for large-scale financial organizations.\n\nSetup Considerations: Full data integration may require significant IT resources, especially for organizations with complex or legacy systems.\n\nPricing is available through direct consultation, which may limit initial transparency.\n\nFeature set may be more extensive than required for small or mid-sized businesses.\n\n3. Signifyd Platform Summary:\n\nSignifyd is a leading fraud prevention platform for e-commerce merchants, offering automated risk decisions and a unique chargeback guarantee model. It is designed to reduce merchant exposure to fraud losses and streamline payment approvals across digital and physical retail channels.\n\nCore Features: Automated risk decisions with chargeback guarantee, shifting liability from merchants to the platform.\n\nGlobal merchant network intelligence for improved identity and intent verification.\n\nPlug-and-play integrations with major e-commerce platforms for rapid deployment.\n\nPrimary Use Cases: E-commerce fraud prevention for both online and in-store transactions.\n\nUnified retail fraud management across digital and brick-and-mortar operations.\n\nEnabling business growth by minimizing manual review and fraud-related disruptions.\n\nRecent Updates:\n\nSignifyd has improved its intent intelligence algorithms, expanded omnichannel coverage, and updated administrative controls to enhance usability and efficiency for merchants.\n\nSetup Considerations: Primarily targets retail and e-commerce, with limited support for broader AML compliance.\n\nPercentage-based pricing may impact margins for high-volume merchants.\n\nMay be less adaptable for organizations with complex, non-standard fraud scenarios.\n\n4. Sift Platform Summary:\n\nSift delivers adaptive machine learning and flexible automation for digital payments, marketplaces, and e-commerce businesses. The platform focuses on reducing manual review, minimizing false positives, and preventing account takeovers with a unified case management workspace.\n\nCore Features: Adaptive machine learning that evolves with new fraud patterns.\n\nFlexible automation and customizable rules for tailored decisioning workflows.\n\nComprehensive case management dashboard for investigations and real-time monitoring.\n\nPrimary Use Cases: Digital payment fraud detection for payment processors and marketplaces.\n\nAccount takeover prevention by detecting suspicious logins and device changes.\n\nChargeback reduction for e-commerce businesses.\n\nRecent Updates:\n\nSift has launched new API endpoints for custom rule creation and improved dashboard analytics, providing greater workflow control and data visibility for risk teams.\n\nSetup Considerations: Does not include built-in AML compliance features.\n\nCustom pricing may require in-depth discussions with the vendor.\n\nAdvanced configuration may require additional training for new users.\n\n5. SEON Platform Summary:\n\nSEON is an API-driven, modular fraud prevention platform designed for fintechs and fast-growing businesses. It offers rapid deployment, customizable rules, and real-time AML screening, making it ideal for organizations needing flexible, scalable fraud and compliance controls.\n\nCore Features: API-driven, modular platform for single integration across fraud, risk, and compliance workflows.\n\n900+ real-time digital signals for granular risk scoring and onboarding verification.\n\nCustomizable rules and machine learning for business-specific model tuning.\n\nPrimary Use Cases: Global onboarding risk and identity verification for fast-growing fintechs.\n\nReal-time AML screening and compliance monitoring.\n\nE-commerce fraud detection and policy abuse prevention.\n\nRecent Updates:\n\nSEON has introduced new AML data sources, expanded device intelligence, and improved onboarding workflows, supporting faster global expansion and more effective compliance screening.\n\nSetup Considerations: Subscription and API-based pricing may increase with transaction volume or integration complexity.\n\nMaximum accuracy depends on careful tuning of rules and signals.\n\nInvestigation features may be less extensive than those in more enterprise-focused platforms.\n\nWhat is B2B Payment Fraud Detection? B2B payment fraud detection tools are specialized software solutions designed to automatically identify, flag, and prevent fraudulent transactions between businesses. Unlike consumer fraud tools, these platforms are built to handle the complexities of corporate payments, such as high-value wire transfers, ACH payments, and complex invoice processing. Leveraging technologies like machine learning and behavioral analytics, these tools analyze vast datasets in real time. They scrutinize payment details, vendor information, and historical patterns to detect anomalies indicative of sophisticated schemes like Business Email Compromise (BEC), vendor impersonation, and invoice manipulation, providing a critical layer of security before funds are irrevocably sent. For a deeper look at the latest solutions, explore our top tools for detecting online payment fraud.\n\nWhy is B2B Payment Fraud Detection Important? The importance of robust B2B payment fraud detection cannot be overstated. Corporate payments involve significantly larger sums of money than consumer transactions, making them a lucrative target for fraudsters. A single successful attack can result in millions of dollars in direct financial losses, severely impacting cash flow and even threatening a company's solvency. Beyond the financial hit, payment fraud inflicts serious reputational damage, eroding trust with vendors, partners, and stakeholders. Manual review processes are no longer sufficient; they are slow, prone to human error, and incapable of scaling to match the volume and sophistication of modern fraud tactics. Automated detection is essential for protecting assets, maintaining business continuity, and securing your financial supply chain. Learn more about enterprise risk management platforms that help organizations address these challenges.\n\nHow to Choose the Best Software Provider Selecting the right software provider requires a methodical approach focused on your unique business needs. First, assess your specific vulnerabilities and payment workflows. Do you primarily use wire transfers or ACH? What ERP or accounting system do you rely on? Next, evaluate the provider's core technology. Look for solutions that utilize advanced machine learning to detect novel threats, not just known fraud patterns. Critically, examine the tool's integration capabilities - it must connect seamlessly with your existing financial tech stack (e.g., NetSuite, SAP, Oracle) to ensure a frictionless workflow for your accounts payable team. Finally, consider the provider's implementation process, customer support, and ability to scale as your business grows and fraud schemes evolve. For additional guidance, review our best payment fraud services for enterprises.\n\nFrequently Asked Questions What are the most common types of B2B payment fraud that detection solutions can identify? Modern fraud detection platforms are designed to identify a wide range of B2B payment fraud schemes, including invoice fraud (such as invoice manipulation or submission of fake invoices), business email compromise (BEC), account takeover, vendor impersonation, and insider threats. Advanced solutions also help detect emerging fraud tactics by analyzing behavioral patterns, device fingerprints, and network relationships in real time. For more on this topic, see our guide on types of mobile payments fraud.\n\nHow do machine learning and analytics improve B2B payment fraud detection compared to traditional methods? Machine learning enables fraud detection systems to analyze vast amounts of transactional and behavioral data in real time, identifying subtle anomalies and evolving fraud patterns that static rules or manual reviews might miss. These models can adapt to new threats, reduce false positives, and automate decision-making, allowing organizations to respond faster and more accurately to suspicious activities. This leads to improved detection rates and more efficient compliance processes. Discover more about advanced analytics in fraud prevention.\n\nWhat should organizations consider when selecting a B2B payment fraud detection tool? Key considerations include the platform’s machine learning capabilities, ease of integration with existing ERP and payment systems, scalability, compliance features (such as AML and regulatory reporting), real-time monitoring, and case management tools. Organizations should also evaluate the vendor’s industry focus, support for onboarding and entity verification, pricing transparency, and the ability to customize rules and workflows to fit specific business needs. For a comprehensive overview, see our fraud prevention tools you should immediately add to your arsenal.\n\nHow do these platforms help with regulatory compliance and AML requirements? Many leading B2B payment fraud detection tools offer built-in compliance features such as automated AML (Anti-Money Laundering) screening, regulatory reporting (e.g., SARs, CTRs), and continuous entity verification (KYB/KYV). These capabilities help organizations meet legal obligations, streamline audits, and reduce manual compliance workloads by automating the detection and reporting of suspicious activities. Explore our compliance solutions for more details.\n\nCan these fraud detection platforms be integrated with existing business systems? Yes, most modern fraud detection platforms are designed for seamless integration with ERP, payment, and accounting systems through APIs or plug-and-play connectors. This allows organizations to orchestrate data across departments, break down silos, and maintain a unified view of risk without overhauling their entire IT infrastructure. Integration capabilities and implementation complexity may vary by platform, so it’s important to assess compatibility with your current systems. Learn more about data hub technology for integration.\n\n\n\nDisclaimer: This article is based exclusively on publicly available information. The tools referenced have not been independently tested by us. Should you identify any inaccuracies or wish to provide recommendations, we invite you to contact us.\n\n"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

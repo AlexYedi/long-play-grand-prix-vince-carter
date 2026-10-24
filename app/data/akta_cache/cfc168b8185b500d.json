@@ -1,0 +1,1424 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00003id&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:13.603Z",
+  "data": {
+    "total": 13,
+    "limit": 50,
+    "offset": 0,
+    "count": 13,
+    "data": [
+      {
+        "id": 40759601,
+        "title": "Mercari, Inc. has fully implemented Forter's AI judgment platform.",
+        "url": "https://prtimes.jp/main/html/rd/p/000005586.000000136.html",
+        "publisher": "Prtimes",
+        "published_date": "2026-10-15T07:26:59",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8605,
+        "ai_summary": "Mercari fully implemented Forter's AI judgment platform to counter fraudulent credit card transactions, with GMO Payment Gateway providing the API. Preliminary verification showed 3D Secure usage decreased, chargebacks fell to about one-tenth, and credit card GMV improved. The companies will continue supporting Mercari's payment security and customer experience.",
+        "word_count": 1586,
+        "original_language": "JA",
+        "author": "",
+        "countries": [
+          "JPN"
+        ],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Merchant Payment Gateways (API/Hosted Checkout)",
+            "code": "FSAMACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Digital Transformation",
+            "code": "SD06",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Operational Milestones",
+            "code": "SD04",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0026fvj",
+            "name": "GMO Payment Gateway",
+            "website": "https://www.gmo-pg.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0009s5l",
+            "name": "Mercari",
+            "website": "https://about.mercari.com/en/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001164",
+            "name": "payment service"
+          },
+          {
+            "code": "20000229",
+            "name": "computer security"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "406",
+            "name": "Personal Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "shintaro yamada",
+            "kazunari aihara",
+            "keisuke tanaka",
+            "yosuke noda",
+            "ryo taninaka",
+            "michael reitblat",
+            "masatoshi kumagai"
+          ],
+          "location": [
+            "tokyo",
+            "usa",
+            "minato-ku",
+            "japan",
+            "new york",
+            "us",
+            "shibuya fukuras",
+            "shibuya-ku",
+            "cerulean tower",
+            "26-1 sakuragaoka-cho"
+          ],
+          "product": [
+            "mercari",
+            "pg multi-payment service",
+            "merpay",
+            "mercoin",
+            "kashima antlers"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.879,
+        "group_id": 14279222,
+        "full_text": "Forter, a company providing an AI judgment platform for next-generation commerce (headquartered in New York, USA), and GMO Payment Gateway, Inc. (CEO: Kazunari Aihara, hereinafter referred to as GMO-PG), which is part of the GMO Internet Group, announced that Mercari, Inc. (headquartered in Minato-ku, Tokyo, CEO: Shintaro Yamada, hereinafter referred to as Mercari), which operates Japan's largest flea market app \"Mercari,\" has fully introduced Forter's AI judgment platform as a measure against fraudulent credit card transactions. Forter and GMO-PG jointly verified from the initial stage with Mercari, resulting in the introduction of Forter's AI judgment solution. Additionally, GMO-PG provides an API (Application Programming Interface) that standardly implements Forter's fraud detection function in its online comprehensive payment service \"PG Multi-Payment Service.\" 【Background of Introduction】 Mercari has been implementing various fraud measures to create a safe and secure environment for customers, including measures against fraudulent credit card transactions. Until now, they have applied 3D Secure (Note 1) to transactions deemed necessary for authentication based on their own rules and conducted visual checks for transactions deemed necessary for confirmation. However, as fraudulent methods have become more sophisticated, they faced challenges such as the degradation of the payment experience due to the friction of 3D Secure (Note 2), increased human costs for chargebacks (Note 3), and the need to balance \"security assurance\" with \"providing a smooth payment experience for genuine customers,\" leading to the selection of a new solution for fraudulent payment measures. (Note 1) A mechanism for authenticating the cardholder in online credit card payments. Card companies may require additional authentication based on the information they hold. (Note 2) The hassle or interruption that users experience during the payment process. This includes transitions to authentication screens and entering passwords. (Note 3) A system where, if a cardholder claims they did not consent to a transaction due to fraudulent use of their credit card, the card company cancels the sales of that transaction, and the merchant bears the cost. 【Selection of Forter and Results of Preliminary Verification】 In the preliminary verification conducted prior to full implementation, Forter demonstrated results exceeding the evaluation criteria set by Mercari in the following three areas: ① Reduced the usage rate of 3D Secure and improved credit card GMV (Note 4) Forter returns a judgment with three options at the time of transaction request: \"OK (approved) / NG (rejected) / 3D Secure (recommended).\" If it is a three-choice option, merchants (Note 5) can avoid applying 3D Secure to low-risk transactions and focus recommendations on transactions that require judgment. Compliance with the mandatory introduction of EMV 3-D Secure (Note 6) is also automated within the same mechanism. In the preliminary verification, the usage rate of 3D Secure decreased without expanding fraud risk, and credit card GMV improved. ② Reduced chargeback amounts to about one-tenth Forter has a global identity network (Note 7). It analyzes approximately 6,000 data attributes in real-time and assesses reliability for each transaction. Fraudulent methods evolve across borders. Therefore, Mercari emphasized the importance of a global data infrastructure that does not rely solely on its own data during the selection process. Although the chargeback occurrence rate was originally below the industry standard, it further improved in the preliminary verification, keeping chargeback amounts to about one-tenth of the previous system. No incidents were observed where genuine transactions were mistakenly hindered for transactions judged as rejected. ③ Reduced costs for visual checks and rule maintenance Forter updates its AI model and responds in real-time to new fraudulent methods occurring globally. Therefore, merchants do not need to maintain rules on their side. Visual checks are also automated, relieving Mercari of the burdensome manual tasks in fraud prevention. (Note 4) Sales from transactions made using credit cards. (Note 5) Businesses that accept payments via credit cards. In this case, it refers to Mercari. (Note 6) Based on guidelines from the Ministry of Economy, Trade and Industry, it refers to the introduction of EMV 3-D Secure (the latest standard of 3D Secure) required for EC merchants as a measure against fraudulent credit card use. (Note 7) A data infrastructure used to cross-sectionally accumulate transaction histories across multiple businesses to assess the identity and reliability of purchasers. 【Introduction through GMO-PG's Integrated API】 In this introduction, GMO-PG utilizes the Forter integrated interface built on the \"PG Multi-Payment Service.\" Since the series of flows from Forter's fraud detection requests, the application of 3D Secure based on judgment results, to payment processing are consolidated in GMO-PG's API, Mercari was able to introduce Forter as an extension of its existing payment integration. This eliminated the need for separate API connection development and infrastructure construction with Forter, leading to reduced development workload and shortened the period from the start of verification to actual operation. 【Comments from Each Company】 ■ Mercari, Inc. Executive Officer VP of Customer Service / Trust and Safety Marketplace Keisuke Tanaka Mercari prioritizes creating an environment where everyone can conduct transactions safely and securely, and providing a smooth customer experience (UX) that minimizes friction during payment. Until now, we have countered increasingly sophisticated fraudsters with our own fraud detection rules and risk-based judgments of 3D Secure, but we faced a dilemma with genuine customers experiencing \"cart abandonment.\" In the preliminary verification conducted in strong partnership with GMO-PG and Forter, we achieved the result of reducing chargebacks to about one-tenth while improving the success rate of payments, thus increasing credit card GMV. We are now completely free from tuning our own fraud detection rules and visual inspection tasks, and we are confident that we have built a solid payment infrastructure for scalable business development in the future. ■ Forter Country Manager for Japan Yosuke Noda We are very pleased that Mercari, a representative of Japan's e-commerce, has adopted Forter as a partner responsible for enhancing security and customer experience in payments. The results shown in this preliminary verification clearly demonstrate that our real-time judgments based on our global network of 2 billion users not only \"shut out fraud\" but also \"remove friction and enhance GMV and sales.\" We will continue to support Mercari in the \"thorough elimination of fraudulent users\" and the enhancement of the \"core experience (Core CX)\" during payments. ■ GMO Payment Gateway, Inc. Executive Officer Ryo Taninaka As a Payment Service Provider (PSP) providing payment infrastructure to Mercari, and as a partner of Forter, we have been jointly promoting this project from the initial stage. Balancing enhanced payment security with a smooth payment experience for purchasers is a challenge faced by many e-commerce businesses. In this project, by combining Forter's real-time judgments with our payment system, we were able to achieve significant reductions in chargebacks while simultaneously improving GMV. We will continue to support Mercari's business growth through our alliance with both companies and contribute to the development of a safe and secure payment environment in Japan's e-commerce market. 【About Mercari】 Mercari, Inc. operates the flea market app \"Mercari\" in Japan and the US with the mission of \"circulating all values and expanding the possibilities of all people,\" promoting global expansion through cross-border business. By connecting individuals around the world through the power of technology, we aim to create a rich society where resources circulate and individuals can realize what they want to do. Furthermore, we are engaged in new value creation as a group, including the financial business of Merpay, the cryptocurrency-related business of Mercoin, and the sports business through Kashima Antlers. 【About Forter】 Forter provides optimal AI judgments at every critical stage of commerce. Based on a global identity network, our AI instantly assesses reliability from new registrations to payments and returns. It delivers the best experience to good customers. Nearly 1 million businesses, including ZOZO, Ekinet, ASICS, and BEAMS, have adopted Forter to enhance the loyalty of quality customers. It provides a stress-free experience for important customers and ensures reliable revenue for businesses. For inquiries regarding this matter: https://www.forter.com/ja/request-demo/ Forter's website: https://www.forter.com/ja/ Forter's newsroom: https://www.forter.com/ja/newsroom/ Forter's blog: https://www.forter.com/ja/blog/ 【About GMO Payment Gateway, Inc.】 We are a PSP (Payment Service Provider) that provides services starting from payment to support onlineization, cashless transactions, and DX. The annual payment processing amount exceeds 23 trillion yen, and our online comprehensive payment service has been introduced to over 150,000 merchants, including e-commerce businesses and public institutions such as NHK and the National Tax Agency. As a leading company in the payment industry, we drive social innovation with payment and financial technology, contributing to the realization of a sustainable society and the advancement of society. (As of the end of June 2026, consolidated figures) End 【Contact for inquiries regarding \"PG Multi-Payment Service\"】 ● GMO Payment Gateway, Inc. Innovation Partners Department TEL: 03-3464-2323 Inquiries: https://contact.gmo-pg.com/m?f=790 【Forter】 (URL: https://www.forter.com/ja/) Company Name: Forter, Inc. Location: 575 5th Ave, New York, US Representative: Michael Reitblat Business Description: ■ Providing a trust platform for digital commerce 【About GMO Payment Gateway, Inc.】 (URL: https://www.gmo-pg.com/) Company Name: GMO Payment Gateway, Inc. (Tokyo Stock Exchange Prime Market, Securities Code: 3769) Location: 1-2-3 Dogenzaka, Shibuya-ku, Tokyo, Shibuya Fukuras Representative: President Kazunari Aihara Business Description: ■ Comprehensive payment-related services and financial-related services Capital: 13.3 billion yen 【About GMO Internet Group, Inc.】 (URL: https://group.gmo/) Company Name: GMO Internet Group, Inc. (Tokyo Stock Exchange Prime Market, Securities Code: 9449) Location: 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo, Cerulean Tower Representative: Group CEO Masatoshi Kumagai Business Description: Holding company (group management function) ■ Group Business Description Internet infrastructure business Internet security business Internet advertising and media business Internet finance business Cryptocurrency business Capital: 5 billion yen © Forter Copyright (C) 2026 GMO Payment Gateway, Inc. All Rights Reserved."
+      },
+      {
+        "id": 40525083,
+        "title": "Forter Turns the AI Shopping Agent Surge Into a Secure Revenue Channel for Merchants",
+        "url": "https://www.prnewswire.com/news-releases/forter-turns-the-ai-shopping-agent-surge-into-a-secure-revenue-channel-for-merchants-302906333.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-10-13T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter launched its Agentic Commerce Engine to help merchants verify AI shopping agents and enable secure headless checkout. Agentic orders on Forter's network have increased over fourfold since August, while automated fraud has doubled in two months. The engine is now available for all customers.",
+        "word_count": 690,
+        "original_language": "EN",
+        "author": "Forter",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Merchant Payment Gateways (API/Hosted Checkout)",
+            "code": "FSAMACAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000247",
+            "name": "online shopping"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "adam davies"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "muse",
+            "instinct",
+            "grok bot"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14117844,
+        "full_text": "Ahead of peak season, merchants can now identify trusted AI agents and enable secure, headless checkout with a single no-code integration NEW YORK, Oct. 13, 2026 /PRNewswire/ -- Forter, the Trust Intelligence platform for the future of commerce, introduced new capabilities designed to give commerce leaders the visibility, trust and control to securely embrace this rapidly emerging revenue channel. Forter's Agentic Commerce Engine enables merchants to verify agentic shoppers and provides the infrastructure to manage their end-to-end experience. Agentic orders across Forter's network have increased more than fourfold since August, while automated fraud has doubled in the last two months. Consumers are rapidly adopting AI personal assistants like Muse, Instinct and Grok Bot to search, compare and buy on their behalf. Bad actors are attempting to blend in to this traffic by using malicious agents or taking over legitimate ones to scale fraud and abuse. The ability to distinguish a trusted agent from a fraudulent one has never been more important. \"Every merchant is now effectively opted in to agentic commerce, whether or not they've prepared for it,\" said Eran Vanounou, chief technology and product officer, Forter. \"The choice merchants have isn't whether agentic traffic engages with their site this holiday season; it's whether they are equipped to control, optimize and drive revenue from it.\" Now available, Forter's Agentic Commerce Engine is the first complete solution for this channel combining trust intelligence with flexible infrastructure. The capabilities include: Fraud Management for Agentic Commerce identifies and decisions scraper- and agent-driven traffic in real time, distinguishing legitimate AI assistants from fraud and abuse bots. The capability is an extension of Forter's core Fraud Management offering and is now available for all customers.\n\nidentifies and decisions scraper- and agent-driven traffic in real time, distinguishing legitimate AI assistants from and abuse bots. The capability is an extension of Forter's core Management offering and is now available for all customers. Agentic Orchestration enables headless checkout via agentic protocols so that merchants can optimize how agents purchase and set the conditions for each transaction. Through a single, no-code Forter integration, merchants can manage the full checkout experience for AI agents.\n\nenables headless checkout via agentic protocols so that merchants can optimize how agents purchase and set the conditions for each transaction. Through a single, no-code Forter integration, merchants can manage the full checkout experience for AI agents. AI Activity Dashboard shows merchants which AI agents are transacting on their site, so they can make informed decisions instead of guessing or blanket-blocking traffic that could represent new revenue. Merchants can analyze their transactions in the portal or with Forter Prism. Unlike the invite-only agentic pilots launched earlier this year, the new AI assistants can default to scraping a merchant's site when there isn't a headless checkout flow optimized for agents. Screen scraping is significantly slower, more costly and error-prone, negatively impacting the customer experience. In a controlled experiment, Forter found headless protocols were roughly 10 times faster and 5 times more token-efficient, and overall more likely to succeed, than scraping. Forter's Agentic Commerce Engine allows merchants to provide a superior customer buying experience by enabling headless checkout with a single integration. \"There's a greater sense of urgency for agentic readiness as we head into peak season. Agentic traffic has had a meteoric rise over the last month and we expect that trend to continue,\" said Adam Davies, Director of AI, Forter. \"We're giving merchants the intelligence and infrastructure to know which agentic transactions can be trusted and to control the end-to-end agentic shopping journey.\" Fraud Management for Agentic is now live for existing Forter customers. Agentic Orchestration is available now for interested Forter customers. For more information, visit https://www.forter.com/agentic-commerce. About Forter Forter delivers trust intelligence and payments infrastructure built for the commerce moments that matter. Powered by a global identity network, our AI makes instant trust decisions from sign-up to checkout to returns — so every trusted customer always gets the experience they deserve. Nordstrom, Instacart, Priceline, and nearly 1 million businesses trust Forter to keep the right customers coming back. Zero friction for the customers who matter. No revenue left behind. Learn more at Forter.com. SOURCE Forter, Inc."
+      },
+      {
+        "id": 26588556,
+        "title": "Forter launches five AI agents for commerce teams",
+        "url": "https://ecommercenews.in/story/forter-launches-five-ai-agents-for-commerce-teams",
+        "publisher": "Ecommercenews",
+        "published_date": "2026-06-25T07:15:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter has launched five AI agents for commerce teams as part of its Forter Prism product suite, targeting workflows in fraud analytics, chargeback disputes, abuse prevention, payment approvals, and system integration. The agents are designed to automate manual tasks that merchant teams handle across different functions, reducing manual reviews and improving response times. Forter has also opened early access to its Model Context Protocol, enabling its data to be accessed directly inside general AI tools like ChatGPT and Claude, allowing teams to analyze performance trends and investigate transactions without switching between separate systems.",
+        "word_count": 737,
+        "original_language": "EN",
+        "author": "Joseph Gabriel Lagonsin",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Operations, Case Management & Investigations",
+            "code": "FSAMALAK",
+            "is_primary": true
+          },
+          {
+            "name": "Risk Scoring, Fraud & Anomaly Detection",
+            "code": "HDAAAHAD",
+            "is_primary": false
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000763",
+            "name": "information technology and computer science"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "vince koh",
+            "joseph gabriel lagonsin"
+          ],
+          "location": [],
+          "product": [
+            "claude",
+            "forter prism",
+            "chatgpt",
+            "payments agent",
+            "integration agent",
+            "abuse agent",
+            "dispute agent"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2550777,
+        "full_text": "JOSEPH GABRIEL LAGONSIN News Editor\n\nForter has launched five AI agents and opened early access to its Model Context Protocol, with the new products aimed at commerce teams handling fraud, payments, disputes and system integration. The rollout expands Forter Prism, the company's agent-based product suite, with tools focused on analytics, chargeback disputes, abuse prevention, payment approval rates and integration work. The agents are designed for specific workflows that merchant teams often handle manually. The Analytics Agent is intended to give users information on risk analysis, transactions, decision rationale, business performance and customer profiles. The Dispute Agent is aimed at automating chargeback disputes, while the Abuse Agent is designed to help merchants set policies around returns, promotions and loyalty misuse. The Payments Agent focuses on payment performance and recommendations intended to lift authorisation rates. The Integration Agent is designed to connect Forter with existing systems through an AI coding assistant that can reduce deployment time. Forter is also making early access available to its Model Context Protocol, or MCP. The system allows Forter's data to be used inside AI tools such as ChatGPT and Claude, so merchant teams can work with the information inside software they already use. According to Forter, the protocol lets teams analyse performance trends, investigate transactions and produce executive summaries without switching between separate systems. The same corporate permissions and security controls apply when data is used through those AI tools. The launch comes as merchants face pressure to make faster decisions at key points in the customer journey, including account sign-up, payment approval and post-purchase disputes. Fraud checks, payment issues and customer claims often require staff to gather information from several sources, slowing responses and affecting sales or customer experience. Forter said its products are built on a network of more than two billion shoppers and nearly one million merchants. That data network has become central to how the company positions its fraud and commerce decision tools to retailers and online businesses. AWS was among the outside companies quoted in support of the launch. \"The merchants winning right now are the ones who can move from signal to action faster than their competitors, and that gap only grows,\" said Vince Koh, Global Head, AWS Digital Commerce. \"Forter's agents ground fraud and revenue decisions in a network of two billion shoppers, giving commerce teams that edge.\" Forter has framed the launch as part of a wider shift in online commerce, where AI is changing how consumers discover products, interact with sellers and complete transactions. In turn, merchants must process more information in real time when deciding whether to approve orders, investigate activity or respond to disputes. Workflow focus The five agents map to functions that often sit across different teams. Analytics and payments tend to be handled by commercial and operations staff, disputes by finance or risk teams, and abuse prevention by fraud and customer experience teams. Integration work usually falls to technical teams responsible for connecting third-party software to internal systems. By separating the tools in this way, Forter is targeting practical operational tasks rather than offering a single general-purpose assistant. The approach reflects a broader shift in business software towards narrower AI systems built around defined jobs and data sources. Market pressure Payments and fraud vendors have been adding more AI-led products as merchants look for ways to reduce manual reviews, cut fraud losses and improve approval rates on legitimate transactions. Chargebacks and policy abuse have also become more expensive issues for retailers, especially in sectors with high volumes of returns and promotions. For companies already using large language model tools internally, the MCP element may be one of the more notable parts of the announcement. Rather than requiring staff to sign into a separate dashboard to query Forter data, the protocol is intended to bring that information directly into general AI interfaces already used for internal analysis. Eran Vanounou, Chief Technology Officer, Forter, said the aim was to make the company's data and decision tools easier to use in day-to-day work. \"We've always built AI solutions for the people behind commerce who work tirelessly to offer the best experience to their consumers,\" said Eran Vanounou, Chief Technology Officer, Forter. \"Intelligence is now accessible in seconds, in context, and with the accuracy our global network has built over 13 years. These AI agents create a competitive advantage for every Forter customer, who can now accelerate time to impact across the entire customer journey.\""
+      },
+      {
+        "id": 26539603,
+        "title": "Forter Unveils Innovative AI Agents to Enhance Commerce and Data Analysis",
+        "url": "https://third-news.com/article/3eacbaa4-6fd5-11f1-9a39-9ca3ba08e13f",
+        "publisher": "Third News",
+        "published_date": "2026-06-24T14:01:49",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter, a commerce technology company headquartered in New York, unveiled five new AI agents as part of its Forter Prism enterprise suite, designed to help merchants analyze performance, automate chargeback disputes, prevent abuse, optimize payments, and accelerate system integration.",
+        "word_count": 933,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Operations, Case Management & Investigations",
+            "code": "FSAMALAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000192",
+            "name": "business strategy and marketing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "vince koh"
+          ],
+          "location": [
+            "usa",
+            "new york"
+          ],
+          "product": [
+            "claude",
+            "forter prism",
+            "chatgpt",
+            "payments agent",
+            "integration agent",
+            "dispute agent",
+            "abuse agent",
+            "analytics agent"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9519,
+        "group_id": 2529146,
+        "full_text": "カスタム検索\n\n#USA #New York #Commerce #Data Analysis #Forter AI Forter Unveils Innovative AI Agents to Enhance Commerce and Data Analysis\n\n\n\nThe launch of these AI agents comes alongside the early access to the Forter Model Context Protocol (MCP), integrating seamlessly with popular AI tools like Claude and ChatGPT. This integration is set to revolutionize how teams analyze performance trends and generate insights, all while maintaining the necessary security protocols associated with corporate data.\n\n\n\nAt the core of Forter's innovative solution is Forter Prism, an enterprise-grade suite combining the power of AI with a vast network of over two billion shoppers and nearly one million merchants. Each AI agent is tailored to streamline specific workflows that are currently managed manually by commerce leaders, which can often be time-consuming and resource-intensive.\n\n\n\nKey Features of Forter’s New AI Agents:\n\n1. Analytics Agent: This agent provides immediate insights into various aspects such as risk analysis, transaction reviews, decision rationales, business performance, and customer profiles. With this information, merchants can react promptly to emerging situations.\n\n2. Dispute Agent: The dispute agent automates the chargeback dispute process, maximizing the ability of businesses to recover lost revenue with minimal manual intervention.\n\n3. Abuse Agent: Focused on minimizing losses from returns and promotions, this agent helps businesses establish best practices to protect both profit margins and customer satisfaction.\n\n4. Payments Agent: By analyzing payment performance and offering specific recommendations, this agent assists businesses in achieving higher conversion rates and improved authorization processes.\n\n5. Integration Agent: Accelerates the implementation of Forter’s systems within existing infrastructures, offering a rapid deployment solution through AI-powered coding assistance.\n\n\n\nThis groundbreaking move by Forter is timely, as it aligns with the ongoing evolution of consumer behavior in the digital marketplace. As shopping habits shift towards online platforms, the demand for intelligent solutions that offer comprehensive insights has never been higher. The integration of AI into the decision-making processes empowers businesses to shift from mere data gathering to actionable strategies that can enhance customer engagement and drive sales.\n\n\n\nVince Koh, Global Head of AWS Digital Commerce, asserts, \"Merchants that can transition from signal to action faster than their competitors will consistently gain a competitive edge.\" He emphasizes that Forter's extensive network built over 13 years provides a solid foundation for effective decision-making regarding fraud and revenue management.\n\n\n\nEran Vanounou, CTO at Forter, further elaborates, stating, \"These intelligent solutions are now available at unprecedented speeds and accuracy, providing our customers with a significant advantage in executing profitable strategies.\"\n\n\n\nTo explore more about Forter’s innovative AI agents and how they can benefit your business, visit their official website at\n\n\n\nWith consumer expectations continuously evolving, Forter’s commitment to delivering rapid and accurate insights is a vital step towards securing lasting customer relationships and driving sustained growth in a competitive marketplace.\n\nIn a significant advancement for the world of digital commerce, Forter has unveiled its latest offering: five new AI agents designed to transform data into actionable insights. This initiative aims to aid businesses in navigating the complexities of modern consumer transactions while optimizing revenue growth throughout the customer journey.The launch of these AI agents comes alongside the early access to the Forter Model Context Protocol (MCP), integrating seamlessly with popular AI tools like Claude and ChatGPT. This integration is set to revolutionize how teams analyze performance trends and generate insights, all while maintaining the necessary security protocols associated with corporate data.At the core of Forter's innovative solution is Forter Prism, an enterprise-grade suite combining the power of AI with a vast network of over two billion shoppers and nearly one million merchants. Each AI agent is tailored to streamline specific workflows that are currently managed manually by commerce leaders, which can often be time-consuming and resource-intensive.1.: This agent provides immediate insights into various aspects such as risk analysis, transaction reviews, decision rationales, business performance, and customer profiles. With this information, merchants can react promptly to emerging situations.2.: The dispute agent automates the chargeback dispute process, maximizing the ability of businesses to recover lost revenue with minimal manual intervention.3.: Focused on minimizing losses from returns and promotions, this agent helps businesses establish best practices to protect both profit margins and customer satisfaction.4.: By analyzing payment performance and offering specific recommendations, this agent assists businesses in achieving higher conversion rates and improved authorization processes.5.: Accelerates the implementation of Forter’s systems within existing infrastructures, offering a rapid deployment solution through AI-powered coding assistance.This groundbreaking move by Forter is timely, as it aligns with the ongoing evolution of consumer behavior in the digital marketplace. As shopping habits shift towards online platforms, the demand for intelligent solutions that offer comprehensive insights has never been higher. The integration of AI into the decision-making processes empowers businesses to shift from mere data gathering to actionable strategies that can enhance customer engagement and drive sales.Vince Koh, Global Head of AWS Digital Commerce, asserts, \"Merchants that can transition from signal to action faster than their competitors will consistently gain a competitive edge.\" He emphasizes that Forter's extensive network built over 13 years provides a solid foundation for effective decision-making regarding fraud and revenue management.Eran Vanounou, CTO at Forter, further elaborates, stating, \"These intelligent solutions are now available at unprecedented speeds and accuracy, providing our customers with a significant advantage in executing profitable strategies.\"To explore more about Forter’s innovative AI agents and how they can benefit your business, visit their official website at Forter.com . This development symbolizes a new era in commerce, where data intelligence meets operational efficiency to produce remarkable customer experiences.With consumer expectations continuously evolving, Forter’s commitment to delivering rapid and accurate insights is a vital step towards securing lasting customer relationships and driving sustained growth in a competitive marketplace. Topics Consumer Technology）"
+      },
+      {
+        "id": 29808391,
+        "title": "Forter Introduces Five New AI Agents and Opens Data Flows for Commerce Modernization",
+        "url": "https://www.prnewswire.com/news-releases/forter-introduces-five-new-ai-agents-and-opens-data-flows-for-commerce-modernization-302808257.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-06-24T13:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter launched Forter Agents, a suite of five AI agents designed to help commerce businesses automate tasks including analytics, chargeback disputes, fraud prevention, payment optimization, and system integration. The agents are built on Forter's network of over two billion shoppers and nearly one million merchants, and the company is also offering early access to its Model Context Protocol for integration with AI tools like Claude and ChatGPT. The launch positions Forter to help merchants move faster from insights to action across the entire customer journey.",
+        "word_count": 639,
+        "original_language": "EN",
+        "author": "Forter",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Decision Optimization & Prescriptive Analytics (OR, simulation, what‑if)",
+            "code": "HDAAAHAI",
+            "is_primary": false
+          },
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "vince koh"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "forter prism",
+            "payments agent",
+            "claude",
+            "abuse agent",
+            "chatgpt",
+            "integration agent",
+            "analytics agent",
+            "dispute agent",
+            "forter agents",
+            "ai agents",
+            "forter"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9804,
+        "group_id": 2550777,
+        "full_text": "New AI Agents transform raw data into faster analysis and stronger decisions to deliver revenue uplift NEW YORK, June 24, 2026 /PRNewswire/ -- Forter, the AI decisioning Platform for the future of commerce, today launched Forter Agents and early access to the Forter Model Context Protocol (MCP), helping teams get faster access to the context, recommendations, and insights they need to grow revenue from key commerce moments throughout the entire customer journey. AI is fundamentally changing the way and speed at which consumers discover, engage and transact. That shift is raising the bar for the visibility and intelligence merchants need to stay ahead. The time and effort required to collect, analyze, investigate and report data slows decisions, delays revenue and degrades the customer experience. Today, Forter is accelerating the time from insights to business impact by expanding Forter Prism, an enterprise-grade agentic suite built on the company's network of over two billion shoppers and nearly one million merchants. Forter Prism is now extending to a team of purpose-built agents, each designed to support a specific workflow commerce leaders manually manage today. The agents will go beyond conversation to turn manual, time-consuming tasks into instant insight and decisions that support the following: Analytics Agent surfaces immediate insights across risk analysis, transactions, decision rationale, business performance and customer profiles so that merchants can react faster.\n\nsurfaces immediate insights across risk analysis, transactions, decision rationale, business performance and customer profiles so that merchants can react faster. Dispute Agent automates the chargeback dispute process to help businesses recover more revenue with less manual effort.\n\nautomates the chargeback dispute process to help businesses recover more revenue with less manual effort. Abuse Agent builds best practice policies to protect the bottom line and customer experience from returns, promotion, loyalty and other forms of abuse.\n\nbuilds best practice policies to protect the bottom line and customer experience from returns, promotion, loyalty and other forms of abuse. Payments Agent drives higher conversions by monitoring performance and delivering specific recommendations to increase authorizations.\n\ndrives higher conversions by monitoring performance and delivering specific recommendations to increase authorizations. Integration Agent helps businesses deploy Forter three times faster by connecting Forter to existing systems through an AI coding assistant, increasing speed-to-value and reducing implementation time. The company is also introducing early access to the Forter MCP, bringing its commerce intelligence and identity network data directly and securely into Claude, ChatGPT and other AI tools that merchant teams use everyday. Teams can analyze performance trends, investigate transactions and generate executive summaries in the AI tools already embedded in their internal workflows, with the same corporate permissions and security controls. \"The merchants winning right now are the ones who can move from signal to action faster than their competitors and that gap only grows,\" said Vince Koh, Global Head, AWS Digital Commerce. \"Forter's agents ground fraud and revenue decisions in a network of two billion shoppers, giving commerce teams that edge.\" \"We've always built AI solutions for the people behind commerce who work tirelessly to offer the best experience to their consumers,\" said Eran Vanounou, CTO, Forter. \"Intelligence is now accessible in seconds, in context, and with the accuracy our global network has built over 13 years. These AI agents create a competitive advantage for every Forter customer who can now accelerate time-to-impact across the entire customer journey.\" For more information about Forter's latest product release, visit: https://www.forter.com/agents/. About Forter Forter delivers AI decisions built for the commerce moments that matter. Powered by a network of 2 billion shoppers, our AI makes instant trust decisions from sign-up to checkout to returns — so every good customer always gets the experience they deserve. Nordstrom, Instacart, Priceline, and nearly 1 million businesses trust Forter to keep the right customers coming back. Zero friction for the customers who matter. No revenue left behind. Learn more at Forter.com. SOURCE Forter, Inc."
+      },
+      {
+        "id": 35639353,
+        "title": "Forter Introduces Five New AI Agents and Opens Data Flows for Commerce Modernization",
+        "url": "https://salestechstar.com/predictive-ai-artificial-intelligence/forter-introduces-five-new-ai-agents-and-opens-data-flows-for-commerce-modernization/",
+        "publisher": "SalesTech Star",
+        "published_date": "2026-06-24T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter launched five AI agents and early access to its Model Context Protocol (MCP) to accelerate commerce decisions. The agents cover analytics, disputes, abuse, payments, and integration, and the MCP integrates Forter's data into AI tools like Claude and ChatGPT.",
+        "word_count": 584,
+        "original_language": "EN",
+        "author": "Sts News Desk",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "AI Integration & Orchestration Platforms (Connectors, Workflow, iPaaS for AI)",
+            "code": "HDAEANAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000192",
+            "name": "business strategy and marketing"
+          },
+          {
+            "code": "20000225",
+            "name": "computing and information technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "519290",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7310",
+            "name": "SERVICES-ADVERTISING"
+          },
+          {
+            "code": "7311",
+            "name": "SERVICES-ADVERTISING AGENCIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "arnaud lagarde",
+            "vince koh"
+          ],
+          "location": [],
+          "product": [
+            "forter prism",
+            "claude",
+            "chatgpt",
+            "payments agent",
+            "abuse agent",
+            "analytics agent",
+            "faorter",
+            "forter agents",
+            "integration agent",
+            "dispute agent",
+            "ai agents",
+            "forter"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9606,
+        "group_id": 2550777,
+        "full_text": "New AI Agents transform raw data into faster analysis and stronger decisions to deliver revenue uplift Forter, the AI decisioning Platform for the future of commerce, launched Forter Agents and early access to the Forter Model Context Protocol (MCP), helping teams get faster access to the context, recommendations, and insights they need to grow revenue from key commerce moments throughout the entire customer journey. AI is fundamentally changing the way and speed at which consumers discover, engage and transact. That shift is raising the bar for the visibility and intelligence merchants need to stay ahead. The time and effort required to collect, analyze, investigate and report data slows decisions, delays revenue and degrades the customer experience. Read More: SalesStarTechStar Interview with Arnaud Lagarde, VP of Sales at ABBYY Today, Forter is accelerating the time from insights to business impact by expanding Forter Prism, an enterprise-grade agentic suite built on the company’s network of over two billion shoppers and nearly one million merchants. Forter Prism is now extending to a team of purpose-built agents, each designed to support a specific workflow commerce leaders manually manage today. The agents will go beyond conversation to turn manual, time-consuming tasks into instant insight and decisions that support the following: Analytics Agent surfaces immediate insights across risk analysis, transactions, decision rationale, business performance and customer profiles so that merchants can react faster.\n\nsurfaces immediate insights across risk analysis, transactions, decision rationale, business performance and customer profiles so that merchants can react faster. Dispute Agent automates the chargeback dispute process to help businesses recover more revenue with less manual effort.\n\nautomates the chargeback dispute process to help businesses recover more revenue with less manual effort. Abuse Agent builds best practice policies to protect the bottom line and customer experience from returns, promotion, loyalty and other forms of abuse.\n\nbuilds best practice policies to protect the bottom line and customer experience from returns, promotion, loyalty and other forms of abuse. Payments Agent drives higher conversions by monitoring performance and delivering specific recommendations to increase authorizations.\n\ndrives higher conversions by monitoring performance and delivering specific recommendations to increase authorizations. Integration Agent helps businesses deploy Forter three times faster by connecting Faorter to existing systems through an AI coding assistant, increasing speed-to-value and reducing implementation time. The company is also introducing early access to the Forter MCP, bringing its commerce intelligence and identity network data directly and securely into Claude, ChatGPT and other AI tools that merchant teams use everyday. Teams can analyze performance trends, investigate transactions and generate executive summaries in the AI tools already embedded in their internal workflows, with the same corporate permissions and security controls. Read More: From Linear Pipelines To Revenue Meshes: How Salestech Is Powering Nonlinear, Multi-Threaded Deal Dynamics? “The merchants winning right now are the ones who can move from signal to action faster than their competitors and that gap only grows,” said Vince Koh, Global Head, AWS Digital Commerce. “Forter’s agents ground fraud and revenue decisions in a network of two billion shoppers, giving commerce teams that edge.” “We’ve always built AI solutions for the people behind commerce who work tirelessly to offer the best experience to their consumers,” said Eran Vanounou, CTO, Forter. “Intelligence is now accessible in seconds, in context, and with the accuracy our global network has built over 13 years. These AI agents create a competitive advantage for every Forter customer who can now accelerate time-to-impact across the entire customer journey.” Write in to psen@itechseries.com to learn more about our exclusive editorial packages and programs."
+      },
+      {
+        "id": 24525344,
+        "title": "Bot Security Market Overview, Key Trends, and Insights on Major Players",
+        "url": "https://www.openpr.com/news/4505309/bot-security-market-overview-key-trends-and-insights-on-major",
+        "publisher": "openPR.com",
+        "published_date": "2026-05-07T14:44:11",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "In January 2023, Forter, a US-based SaaS company specializing in unified identity protection, acquired Immue, a bot detection firm, for an undisclosed sum to enhance its fraud management platform with bot mitigation technology. The bot security market is projected to grow to $2.12 billion by 2030 with a 19% CAGR, driven by AI-driven security systems, cloud-based services, and fintech growth. In April 2023, F5 Networks introduced new security features leveraging machine learning for advanced API endpoint discovery and behavioral analysis to defend against malicious bots.",
+        "word_count": 1735,
+        "original_language": "EN",
+        "author": "The Business Research Company",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Bot Management & Mitigation",
+            "code": "HDADALAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000baqd",
+            "name": "F5 Networks Japan",
+            "website": "https://f5.com/jp/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000pbnn",
+            "name": "Immue",
+            "website": "https://immue.net",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000229",
+            "name": "computer security"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "608",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "europe",
+            "americas",
+            "asia",
+            "us"
+          ],
+          "product": [
+            "global market model",
+            "body-worn camera",
+            "conversational systems",
+            "gmm"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 184773,
+        "full_text": "Bot Security Market Overview, Key Trends, and Insights on Major Players Bot Security Market The bot security industry is gaining significant traction as organizations increasingly seek to protect their digital ecosystems from automated threats. With advances in artificial intelligence and cloud technologies, this market is set to experience rapid expansion, driven by the need for more sophisticated and integrated security solutions. Let's explore the current market outlook, key players, emerging trends, and the major segments that define this evolving sector.\n\n\n\nProjected Market Size and Expansion of the Bot Security Market\n\nThe bot security market is anticipated to grow substantially, reaching a valuation of $2.12 billion by 2030. This growth reflects a robust compound annual growth rate (CAGR) of 19.0%. Several factors contribute to this surge, including the rising adoption of AI-driven bot security systems, the integration of threat intelligence platforms, expanding cloud-based security services, growth in fintech and digital service sectors, and heightened emphasis on identity verification technologies. Key trends during the forecast period will feature advancements in bot detection and mitigation, improvements in API security, wider deployment of cloud-based bot security solutions, the expansion of managed security services, and the incorporation of threat intelligence.\n\n\n\nDownload a free sample of the bot security market report:\n\nhttps://www.thebusinessresearchcompany.com/sample.aspx?id=14061&type=smp&utm_source=OpenPR&utm_medium=Paid&utm_campaign=May_PR\n\n\n\nLeading Companies Making Waves in the Bot Security Market\n\nThe competitive landscape of the bot security market includes numerous prominent firms such as Alibaba Cloud, CDNetworks Inc., AkamAI Technologies, Citrix Systems Inc., F5 Networks Inc., Cloudflare Inc., Imperva Inc., Fastly Inc., AppsFlyer Ltd., Limelight Networks Inc., Radware Ltd., Shape Security Inc., Sophos Ltd., Kount Inc., Cequence Security Inc., DataDome, PerimeterX Inc., Netacea Ltd., Secucloud Network GmbH, Botguard, ArturAI Inc., Reblaze Technologies Ltd., Variti International GmbH, Myra Security GmbH, AuthSafe GmbH, and InfiSecure Technologies Inc.\n\n\n\nSignificant Acquisition Highlighting Market Consolidation\n\nIn January 2023, Forter, a US-based SaaS company specializing in unified identity protection, acquired Immue, a bot detection firm, for an undisclosed sum. This strategic move aims to enhance Forter's fraud management platform by integrating Immue's cutting-edge technology, which includes a bot mitigation layer, an undefeatable Captcha system, and the capability to manage bot activity during high-demand events such as flash sales and hype periods.\n\n\n\nView the full bot security market report:\n\nhttps://www.thebusinessresearchcompany.com/report/bot-security-global-market-report?utm_source=OpenPR&utm_medium=Paid&utm_campaign=May_PR\n\n\n\nKey Trends Shaping Opportunities in the Bot Security Sector\n\nTop players in the bot security market are increasingly focusing on advanced SaaS-based security portfolios to protect applications comprehensively. These portfolios emphasize securing cloud investments, assessing vendor security, maintaining data privacy, and ensuring compliance across services. For instance, in April 2023, F5-specializing in multi-cloud application security and delivery-introduced new security features aimed at giving customers greater control over applications and APIs across on-premises, cloud, and edge environments. By leveraging machine learning, these enhancements enable advanced API endpoint discovery, anomaly detection, telemetry, and behavioral analysis, helping organizations defend against malicious bots and automated attacks targeting web and mobile platforms.\n\n\n\nDetailed Segmentation of the Bot Security Market\n\nThe bot security market is categorized into several segments as follows:\n\n1) Component: Solutions and Services\n\n2) Security Type: Web Security, Mobile Security, and Application Programming Interface (API) Security\n\n3) Deployment Mode: Cloud-Based and On-Premises\n\n4) Vertical Markets: Retail and eCommerce, Banking, Financial Services and Insurance (BFSI), Government and Defense, Healthcare, Media and Entertainment, Travel and Hospitality, and Information Technology (IT) and Telecom\n\n\n\nFurther subsegments under solutions include bot detection and mitigation, authentication and identity verification, monitoring and reporting, API security, web application firewalls (WAF), and threat intelligence. Service subsegments cover consulting, implementation, managed services, support and maintenance, as well as training and education.\n\n\n\nReach out to us:\n\nThe Business Research Company: https://www.thebusinessresearchcompany.com/ ,\n\nAmericas +1 310-496-7795,\n\nEurope +44 7882 955267,\n\nAsia & Others +44 7882 955267 & +91 8897263534,\n\nEmail us at info@tbrc.info.\n\n\n\nFollow Us On:\n\nLinkedIn: https://in.linkedin.com/company/the-business-research-company ,\n\nTwitter: https://twitter.com/tbrc_info ,\n\nYouTube: https://www.youtube.com/channel/UC24_fI0rV8cR5DxlCpgmyFQ\n\n\n\nLearn More About The Business Research Company\n\nWith over 17500+ reports from 27 industries covering 60+ geographies, The Business Research Company has built a reputation for offering comprehensive, data-rich research and insights. Armed with 1,500,000 datasets, the optimistic contribution of in-depth secondary research, and unique insights from industry leaders, you can get the information you need to stay ahead.Our flagship product, the Global Market Model (GMM), is a premier market intelligence platform delivering comprehensive and updated forecasts to support informed decision-making.\n\n\n\nThis release was published on openPR.\n\nThe bot security industry is gaining significant traction as organizations increasingly seek to protect their digital ecosystems from automated threats. With advances in artificial intelligence and cloud technologies, this market is set to experience rapid expansion, driven by the need for more sophisticated and integrated security solutions. Let's explore the current market outlook, key players, emerging trends, and the major segments that define this evolving sector.Projected Market Size and Expansion of the Bot Security MarketThe bot security market is anticipated to grow substantially, reaching a valuation of $2.12 billion by 2030. This growth reflects a robust compound annual growth rate (CAGR) of 19.0%. Several factors contribute to this surge, including the rising adoption of AI-driven bot security systems, the integration of threat intelligence platforms, expanding cloud-based security services, growth in fintech and digital service sectors, and heightened emphasis on identity verification technologies. Key trends during the forecast period will feature advancements in bot detection and mitigation, improvements in API security, wider deployment of cloud-based bot security solutions, the expansion of managed security services, and the incorporation of threat intelligence.Download a free sample of the bot security market report:Leading Companies Making Waves in the Bot Security MarketThe competitive landscape of the bot security market includes numerous prominent firms such as Alibaba Cloud, CDNetworks Inc., AkamAI Technologies, Citrix Systems Inc., F5 Networks Inc., Cloudflare Inc., Imperva Inc., Fastly Inc., AppsFlyer Ltd., Limelight Networks Inc., Radware Ltd., Shape Security Inc., Sophos Ltd., Kount Inc., Cequence Security Inc., DataDome, PerimeterX Inc., Netacea Ltd., Secucloud Network GmbH, Botguard, ArturAI Inc., Reblaze Technologies Ltd., Variti International GmbH, Myra Security GmbH, AuthSafe GmbH, and InfiSecure Technologies Inc.Significant Acquisition Highlighting Market ConsolidationIn January 2023, Forter, a US-based SaaS company specializing in unified identity protection, acquired Immue, a bot detection firm, for an undisclosed sum. This strategic move aims to enhance Forter's fraud management platform by integrating Immue's cutting-edge technology, which includes a bot mitigation layer, an undefeatable Captcha system, and the capability to manage bot activity during high-demand events such as flash sales and hype periods.View the full bot security market report:Key Trends Shaping Opportunities in the Bot Security SectorTop players in the bot security market are increasingly focusing on advanced SaaS-based security portfolios to protect applications comprehensively. These portfolios emphasize securing cloud investments, assessing vendor security, maintaining data privacy, and ensuring compliance across services. For instance, in April 2023, F5-specializing in multi-cloud application security and delivery-introduced new security features aimed at giving customers greater control over applications and APIs across on-premises, cloud, and edge environments. By leveraging machine learning, these enhancements enable advanced API endpoint discovery, anomaly detection, telemetry, and behavioral analysis, helping organizations defend against malicious bots and automated attacks targeting web and mobile platforms.Detailed Segmentation of the Bot Security MarketThe bot security market is categorized into several segments as follows:1) Component: Solutions and Services2) Security Type: Web Security, Mobile Security, and Application Programming Interface (API) Security3) Deployment Mode: Cloud-Based and On-Premises4) Vertical Markets: Retail and eCommerce, Banking, Financial Services and Insurance (BFSI), Government and Defense, Healthcare, Media and Entertainment, Travel and Hospitality, and Information Technology (IT) and TelecomFurther subsegments under solutions include bot detection and mitigation, authentication and identity verification, monitoring and reporting, API security, web application firewalls (WAF), and threat intelligence. Service subsegments cover consulting, implementation, managed services, support and maintenance, as well as training and education.Reach out to us:The Business Research Company:Americas +1 310-496-7795,Europe +44 7882 955267,Asia & Others +44 7882 955267 & +91 8897263534,Email us at info@tbrc.info.Follow Us On:LinkedIn:Twitter:YouTube:Learn More About The Business Research CompanyWith over 17500+ reports from 27 industries covering 60+ geographies, The Business Research Company has built a reputation for offering comprehensive, data-rich research and insights. Armed with 1,500,000 datasets, the optimistic contribution of in-depth secondary research, and unique insights from industry leaders, you can get the information you need to stay ahead.Our flagship product, the Global Market Model (GMM), is a premier market intelligence platform delivering comprehensive and updated forecasts to support informed decision-making. Permanent link to this press release: Copy Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Share Tweet Email You can edit or delete your press release Bot Security Market Overview, Key Trends, and Insights on Major Players here Delete press release Edit press release News-ID: 4505309 • Views: …\n\n\n\nEmerging Sub-Segments Transforming the Body-Worn Camera Market Landscape The body-worn camera market is set to experience significant expansion in the coming years, driven by technological advancements and increasing demand across various sectors. With growing emphasis on public safety, real-time monitoring, and integration with new technologies, this market is poised for substantial growth through 2030. Here's an in-depth look at the market size, key players, trends, and segments shaping its future. Projected Growth Trajectory of the Body-Worn Camera Market by … Major Industry Participants Reinforcing Their Presence in the Counterspace Secur … The counterspace security sector is poised for remarkable expansion as global interest in protecting space assets intensifies. Driven by advances in technology and growing geopolitical concerns, this market is attracting substantial investments and innovation. Let's explore the current market size, key players, significant trends, and the main segments shaping the future of counterspace security. Projected Market Size and Growth Trajectory of the Counterspace Security Market The counterspace security market is anticipated … Top Companies and Market Competition in the Conversational Systems Industry Conversational systems are rapidly transforming how businesses interact with customers and manage operations. As technology advances and more companies adopt AI-driven communication tools, this market is set for significant expansion in the coming years. Let's explore the current market size, key players, prominent trends, and the segments driving growth in this evolving field. Projected Market Growth and Size of the Conversational Systems Market The conversational systems market is anticipated to experience … Global Trends Overview: The Rapid Evolution of the Continuous Testing Market The continuous testing market is gaining significant traction as technology advances and software development processes become more agile. This sector is evolving rapidly, driven by innovations that enhance testing speed, accuracy, and security. Let's explore the market's size, key players, emerging trends, and how it is segmented for a comprehensive understanding of its future. Growth Forecast and Size of the Continuous Testing Market The continuous testing market is poised for impressive … All 5 Releases"
+      },
+      {
+        "id": 24296782,
+        "title": "MPE 2026: Forter on Preparing Merchants to Safely Engage with Agentic Commerce",
+        "url": "https://ffnews.com/fintech-tv/event/event-videos-2026/mpe-2026/mpe-2026-forter-on-preparing-merchants-to-safely-engage-with-agentic-commerce/",
+        "publisher": "Ffnews",
+        "published_date": "2026-05-05T12:59:34",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "At MPE 2026, Forter's Director of AI Adam Davies outlined the company's evolution from traditional fraud management to a broader revenue optimization platform over its 13-year history. Davies highlighted that Forter addresses the often-overlooked problem of falsely declined legitimate customers through intelligent transaction assessment and payment rail optimization to boost approval rates. Looking forward, Forter is investing heavily in solutions to help merchants safely engage with agentic commerce, embedding its core identity, trust, and payment capabilities into AI-driven transaction infrastructure.",
+        "word_count": 371,
+        "original_language": "EN",
+        "author": "Lauren Towner",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Payment Routing, Smart Retries & Optimization",
+            "code": "FSAGABAG",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "523160",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6200",
+            "name": "SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "adam davies"
+          ],
+          "location": [],
+          "product": [],
+          "event": [
+            "mpe 2026",
+            "mpe"
+          ]
+        },
+        "newsworthiness_score": 0.935,
+        "group_id": 757439,
+        "full_text": "MPE 2026: Forter on Preparing Merchants to Safely Engage with Agentic Commerce\n\nShare this post: Share on LinkedIn Share on Email Share on WhatsApp At MPE 2026, Adam Davies, Director of AI at Forter, dives into how they are redefining fraud prevention and payment processing, turning what used to be a business drag into a driver for growth. Davies explains that when Forter launched 13 years ago, the main goal was to modernize fraud management by replacing outdated, static rules with automated, scalable technology. Forter notes that those old systems often failed by declining valuable, trustworthy customers or, conversely, letting fraudulent ones through. Davies highlights that Forter has expanded its focus significantly beyond just fraud management to include payment optimization. Today, Forter’s mission is to help merchants grow by transforming their fraud and payment systems from being a simple cost center into a powerful revenue optimization engine. According to Davies, while most industry players focus on minimizing chargebacks from fraudulent transactions, many overlook the substantial revenue loss caused by falsely declining good customers. Forter addresses this by accurately assessing the trustworthiness of every transaction, ensuring legitimate customers enjoy a frictionless, excellent buying experience that drives up merchant conversion rates. On the payment side, Davies details how Forter uses intelligent decision-making, for instance, choosing the right payment rail, network, or PSP, to boost approval rates and simultaneously reduce processing costs. Looking ahead, Davies identifies agentic commerce as the major trend with real substance behind the buzzword and this new channel introduces complex security and engineering challenges. Davies emphasizes that Forter is heavily investing in solutions to equip merchants with the technology required to engage with this channel safely. By embedding their core capabilities around identity, trust, and payment optimization into this new infrastructure, Forter ensures that transactions originating from AI agents are secure while maintaining high conversion levels. Finally, Davies speaks positively about the value of attending MPE and describes the event as a crucial meeting place where partners, vendors, and merchants connect to have real conversations. The primary benefit, Davies concludes, is the efficient networking opportunity, getting all the experts in one room to discuss merchant pain points, find synergies for future solutions, and explore new opportunities for partnership and client engagement."
+      },
+      {
+        "id": 17973464,
+        "title": "Forter unveils AI copilot to tackle surging fraud risk",
+        "url": "https://ecommercenews.com.au/story/forter-unveils-ai-copilot-to-tackle-surging-fraud-risk",
+        "publisher": "Ecommercenews",
+        "published_date": "2026-01-09T21:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9291,
+        "ai_summary": "Fraud prevention specialist Forter has launched an AI copilot called Forter Prism, reporting a 2,107% surge in agentic commerce activity and a 202% rise in automated fraud attempts across its network of 400,000 businesses over the past year. The new product provides merchants with natural language querying, transaction investigation, and benchmarking tools to identify and respond to AI-driven fraud threats. The launch comes as retailers prepare for the 2025 peak shopping season amid rising volumes of AI-driven traffic and evolving fraud tactics.",
+        "word_count": 706,
+        "original_language": "EN",
+        "author": "Sofiah Nichole Salivio",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Risk Scoring, Fraud & Anomaly Detection",
+            "code": "HDAAAHAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000192",
+            "name": "business strategy and marketing"
+          },
+          {
+            "code": "20000284",
+            "name": "market trend"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "eran vanounou",
+            "rachel levy"
+          ],
+          "location": [],
+          "product": [
+            "forter prism"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 128425,
+        "full_text": "Fraud prevention specialist Forter has launched an artificial intelligence copilot called Forter Prism, as the company reports a sharp rise in automated fraud attempts and agent-driven online shopping activity across its network. The company said it has recorded a 2,107% increase in what it terms agentic activity over the past six months. It also reported a 202% rise in automated fraud attempts over the last year among the 400,000 businesses that use its services. Forter positions Prism as a conversational tool that sits inside its existing portal for merchants. The product focuses on faster investigation of transactions, streamlined analysis, and the creation of dashboards that summarise performance trends. The launch comes as retailers prepare for the 2025 peak shopping season. Many brands face rising volumes of AI-driven traffic and shifting fraud tactics alongside pressure to maintain approval rates and customer experience. Rising agent activity Forter uses the term agentic commerce for transactions or traffic that involve software agents or automated tools. These can research prices, place orders or attempt to exploit vulnerabilities at scale. The company said its latest product updates address what it describes as a visibility gap for merchants. Many businesses struggle to see how much of their traffic and transaction volume involves agents and how much of that activity links to fraud. Forter has expanded its Agentic Activity dashboard with new benchmarks. Merchants can compare their AI-related traffic against aggregated patterns drawn from Forter's global network. The benchmarks show how individual businesses sit against peers on measures such as volume, growth rates and fraud exposure. The company has also added more granular views by region and vertical. It said merchants can examine how agentic commerce differs across markets and sectors and can track shifts over time. Inside Forter Prism Forter Prism functions as an in-portal copilot that responds to natural language queries from merchants. Users can ask questions about specific performance indicators, such as approval rates or chargebacks, and the tool returns summarised data. The company said Prism can explain why a particular metric has changed in recent periods. It can also generate dashboards that present operational views of performance, which would otherwise require manual set-up. Prism includes a transaction investigation feature. It surfaces the data points that Forter's systems used when approving or declining an individual transaction. The copilot then summarises the rationale in non-technical language. One customer described the launch as part of a broader drive for efficiency. \"Every retailer, merchant, and direct-to-consumer brand is looking to find ways to be more efficient - not just for the sake of cost savings, but truly to keep pace with the speed of evolving consumer behaviour and expectations\", said Rachel Levy, Chief Operating Officer, Brooklinen. \"Forter has always stood out in how they put the retailers and brands at the heart of their solutions. With Forter Prism, they are delivering yet another major innovation that will support the balance of revenue generation and consumer satisfaction.\" Benchmarking fraud risk Forter said many merchants do not know whether AI agents are just referring users or actively making purchases on their sites. The company added that some merchants do not know whether agents feature in fraud attempts against their businesses. The new network benchmarks aim to set a baseline for each customer's exposure to AI-driven traffic. Forter said this should make it easier for merchants to decide which areas of their fraud and customer experience strategies need earlier attention. The firm has also updated its public AI dashboard. It now contains more detailed regional and sector breakdowns and uses AI to generate explanations of the patterns it shows. Forter said the combination of Prism, benchmarks and updated dashboards offers a fuller view of the emerging agentic commerce channel. It argued that this channel is now material for both growth and fraud risk as more consumers and businesses adopt AI tools. Eran Vanounou, Chief Technology Officer at Forter, said the pace of change in the market demanded faster decision-making. \"With market shifts and threats moving this fast, businesses can't afford to risk missing a critical agentic insight or manually translate complex data into decisions,\" said Vanounou. \"These latest innovations are giving businesses the speed, insight and confidence to navigate peak season with ease.\"\n\nFollow us on: Share on:"
+      },
+      {
+        "id": 15646212,
+        "title": "Forter Furthers AI Innovations to Deliver Deeper Intelligence and Workflow Efficiencies",
+        "url": "https://salestechstar.com/predictive-ai-artificial-intelligence/forter-furthers-ai-innovations-to-deliver-deeper-intelligence-and-workflow-efficiencies/",
+        "publisher": "SalesTech Star",
+        "published_date": "2025-12-09T15:02:13",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter released new AI innovations, including the Forter Prism copilot and enhanced network benchmarks, to help merchants manage agentic commerce traffic and fraud during the 2025 peak shopping season. The company reported a 2,107% surge in agentic activity and a 202% increase in automated fraud attempts over recent periods, highlighting the growing need for advanced detection tools. ",
+        "word_count": 584,
+        "original_language": "EN",
+        "author": "Sts News Desk",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Operations, Case Management & Investigations",
+            "code": "FSAMALAK",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00007nb",
+            "name": "Brooklinen",
+            "website": "https://www.brooklinen.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "5072",
+            "name": "WHOLESALE-HARDWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rachel levy",
+            "eran vanounou",
+            "arnaud lagarde"
+          ],
+          "location": [
+            "region"
+          ],
+          "product": [
+            "forter prism"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 8603610,
+        "full_text": "New AI Agent copilot, Forter Prism, investigates transactions, builds dashboards, explores connections across Forter’s merchant network and more Forter, the Trust Platform for digital commerce, released new AI innovations that deliver enhanced visibility, speed and insights aimed at further improving merchant performance in the 2025 peak shopping season and beyond. AI is fundamentally changing digital commerce, reshaping everything from the customer experience to operations to the tactics used by bad actors. In fact, Forter has seen a 2,107% surge in agentic activity in its network in the last 180 days and a 202% increase in automated fraud attempts over the last year. Forter’s deep roots in AI decisioning, combined with its latest product innovations, provide customers with a significant advantage in the detection, investigation and recovery from emerging AI fraud vectors. Read More: SalesStarTechStar Interview with Arnaud Lagarde, VP of Sales at ABBYY The recent product enhancements also address a growing visibility gap for merchants, giving them even greater insight into the scale, volume and behavior of agentic commerce traffic and transactions. Forter Prism: AI Copilot for Faster, Deeper Insights\n\nTo deliver insights at the speed of commerce, Forter is introducing Forter Prism, its in-portal copilot to simplify workflows and put powerful, actionable insights at merchants’ fingertips. Forter Prism’s initial capabilities include: Instant answers: Converse directly with Forter Prism to get immediate data insights, including how a specific performance indicator has changed and the reason behind it, and building complete, operational dashboards for performance measurement – all through a conversational interface.\n\nConverse directly with Forter Prism to get immediate data insights, including how a specific performance indicator has changed and the reason behind it, and building complete, operational dashboards for performance measurement – all through a conversational interface. Transactional investigation: Surface the data points used to approve or decline individual transactions and then summarize the rationale in everyday language. “Every retailer, merchant, and direct-to-consumer brand is looking to find ways to be more efficient – not just for the sake of cost savings, but truly to keep pace with the speed of evolving consumer behavior and expectations,” said Rachel Levy, chief operating officer, Brooklinen. “Forter has always stood out in how they put the retailers and brands at the heart of their solutions. With Forter Prism, they are delivering yet another major innovation that will support the balance of revenue generation and consumer satisfaction.” Read More: From Linear Pipelines To Revenue Meshes: How Salestech Is Powering Nonlinear, Multi-Threaded Deal Dynamics? Understanding Agentic Activity with Network Benchmarks\n\nMost merchants lack visibility into agentic traffic, often unaware if agents are referring users, making purchases on their sites or being used to commit fraud. This missing insight makes it difficult to set the foundation and prioritize work needed to tap into this new and rapidly evolving commerce channel. Building on its Agentic Activity dashboard, Forter has added network benchmarks to give businesses even greater insight into how their AI activity compares to the rest of Forter’s global network of 400,000 businesses. Additionally, the company has added more granular insights by region and vertical, plus AI-generated explanations, to its public AI dashboard, offering deeper insights into agentic commerce. “With market shifts and threats moving this fast, businesses can’t afford to risk missing a critical agentic insight or manually translate complex data into decisions,” said Eran Vanounou, chief technology officer, Forter. “These latest innovations are giving businesses the speed, insight and confidence to navigate peak season with ease.” Write in to psen@itechseries.com to learn more about our exclusive editorial packages and programs."
+      },
+      {
+        "id": 15564964,
+        "title": "Forter Furthers AI Innovations to Deliver Deeper Intelligence and Workflow Efficiencies",
+        "url": "https://www.prnewswire.com/news-releases/forter-furthers-ai-innovations-to-deliver-deeper-intelligence-and-workflow-efficiencies-302635797.html",
+        "publisher": "PR Newswire",
+        "published_date": "2025-12-09T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter released new AI innovations, including the Forter Prism copilot and enhanced network benchmarks, to improve merchant visibility and workflow efficiency during the 2025 peak shopping season. The company highlighted a significant surge in agentic activity and automated fraud attempts within its network over the past year. These tools aim to help merchants detect emerging AI fraud vectors and gain deeper insights into transaction behaviors. ",
+        "word_count": 649,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Financial Crime Investigations & Intelligence (link analysis, network analytics)",
+            "code": "FSAGAFAH",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008mv",
+            "name": "Adobe",
+            "website": "http://www.adobe.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003x9",
+            "name": "eBay",
+            "website": "https://www.ebay.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00007nb",
+            "name": "Brooklinen",
+            "website": "https://www.brooklinen.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000008e",
+            "name": "Instacart",
+            "website": "https://www.instacart.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0005ebo",
+            "name": "Priceline",
+            "website": "https://www.priceline.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00007zg",
+            "name": "Nordstrom",
+            "website": "http://www.nordstrom.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000b4a",
+            "name": "ASOS",
+            "website": "http://www.asos.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rachel levy",
+            "eran vanounou"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [
+            "forter prism"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 8835834,
+        "full_text": "New AI Agent copilot, Forter Prism, investigates transactions, builds dashboards, explores connections across Forter's merchant network and more NEW YORK, Dec. 9, 2025 /PRNewswire/ -- Forter , the Trust Platform for digital commerce, released new AI innovations that deliver enhanced visibility, speed and insights aimed at further improving merchant performance in the 2025 peak shopping season and beyond. AI is fundamentally changing digital commerce, reshaping everything from the customer experience to operations to the tactics used by bad actors. In fact, Forter has seen a 2,107% surge in agentic activity in its network in the last 180 days and a 202% increase in automated fraud attempts over the last year. Forter's deep roots in AI decisioning, combined with its latest product innovations, provide customers with a significant advantage in the detection, investigation and recovery from emerging AI fraud vectors. The recent product enhancements also address a growing visibility gap for merchants, giving them even greater insight into the scale, volume and behavior of agentic commerce traffic and transactions. Forter Prism: AI Copilot for Faster, Deeper Insights\n\nTo deliver insights at the speed of commerce, Forter is introducing Forter Prism, its in-portal copilot to simplify workflows and put powerful, actionable insights at merchants' fingertips. Forter Prism's initial capabilities include: Instant answers: Converse directly with Forter Prism to get immediate data insights, including how a specific performance indicator has changed and the reason behind it, and building complete, operational dashboards for performance measurement – all through a conversational interface.\n\nConverse directly with Forter Prism to get immediate data insights, including how a specific performance indicator has changed and the reason behind it, and building complete, operational dashboards for performance measurement – all through a conversational interface. Transactional investigation: Surface the data points used to approve or decline individual transactions and then summarize the rationale in everyday language. \"Every retailer, merchant, and direct-to-consumer brand is looking to find ways to be more efficient – not just for the sake of cost savings, but truly to keep pace with the speed of evolving consumer behavior and expectations,\" said Rachel Levy, chief operating officer, Brooklinen. \"Forter has always stood out in how they put the retailers and brands at the heart of their solutions. With Forter Prism, they are delivering yet another major innovation that will support the balance of revenue generation and consumer satisfaction.\" Understanding Agentic Activity with Network Benchmarks\n\nMost merchants lack visibility into agentic traffic, often unaware if agents are referring users, making purchases on their sites or being used to commit fraud. This missing insight makes it difficult to set the foundation and prioritize work needed to tap into this new and rapidly evolving commerce channel. Building on its Agentic Activity dashboard , Forter has added network benchmarks to give businesses even greater insight into how their AI activity compares to the rest of Forter's global network of 400,000 businesses. Additionally, the company has added more granular insights by region and vertical, plus AI-generated explanations, to its public AI dashboard , offering deeper insights into agentic commerce. \"With market shifts and threats moving this fast, businesses can't afford to risk missing a critical agentic insight or manually translate complex data into decisions,\" said Eran Vanounou, chief technology officer, Forter. \"These latest innovations are giving businesses the speed, insight and confidence to navigate peak season with ease.\" For more information about Forter's latest product innovations, visit: https://www.forter.com/new/ . About Forter\n\nForter is the Trust Platform for digital commerce. Built on advanced AI, we deliver accurate, instant assessments of trustworthiness across every step of the buying journey. We give businesses the confidence and insight to move at the speed of commerce, without the fear of fraud. Our ability to isolate fraud, maximize revenue and protect consumers is why 400,000 businesses, including Adobe, ASOS, eBay, Instacart, Priceline and Nordstrom, have trusted us to decision more than $2 trillion in transactions. Learn more at www.forter.com . SOURCE Forter"
+      },
+      {
+        "id": 17578332,
+        "title": "New at Forter: Introducing Forter Prism",
+        "url": "http://forter.com/blog/new-at-forter-introducing-forter-prism",
+        "publisher": "Forter",
+        "published_date": "2025-12-08T11:31:36",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6824,
+        "ai_summary": "The article introduces Forter Prism, a new product or feature by Forter. No further details about the product, its strategic importance, or related developments are provided. ",
+        "word_count": 473,
+        "original_language": "EN",
+        "author": "Forter Team",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Browser & Web Isolation Security",
+            "code": "HDADAEAK",
+            "is_primary": true
+          },
+          {
+            "name": "Directory Services & Identity Stores (AD/LDAP/Cloud Directories)",
+            "code": "HDADAAAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001300",
+            "name": "privacy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "609",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "forter prism"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.6137,
+        "group_id": 6715872,
+        "full_text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookies Settings Reject All Accept All Cookies Privacy Preference Center\n\nMore information When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Allow All Manage Consent Preferences Targeting Cookies Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Functional Cookies Functional Cookies These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. Strictly Necessary Cookies Always Active These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. Performance Cookies Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Back Button Cookie List Search Icon Filter Icon Clear checkbox label label Apply Cancel Consent Leg.Interest checkbox label label checkbox label label checkbox label label"
+      },
+      {
+        "id": 14391617,
+        "title": "Forter Fraud Prevention Platform",
+        "url": "https://commercemarketplace.adobe.com/forter-magento2-module-forter.html",
+        "publisher": "Welcome to the Adobe Blog",
+        "published_date": "2025-11-30T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Forter has released version 2.5.38 of its fraud prevention extension for Adobe Commerce (formerly Magento), enhancing card type mapping accuracy through integration with Adyen's funding source data. The update maintains compatibility with Adobe Commerce versions 2.4 and Magento Open Source 2.4, ensuring seamless real-time fraud decision-making for merchants.",
+        "word_count": 2360,
+        "original_language": "EN",
+        "author": "Sign In",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004v8",
+            "name": "Adyen",
+            "website": "http://www.adyen.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003id",
+            "name": "Forter",
+            "website": "https://www.forter.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000layr",
+            "name": "Adobe Commerce",
+            "website": "https://adobe.ly/adobecommerce",
+            "is_primary": false
+          },
+          {
+            "uuid": "0004dgs",
+            "name": "Magento Commerce",
+            "website": "http://www.magento.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "magento",
+            "business utility service",
+            "adobe commerce",
+            "adyen",
+            "chrome",
+            "edge",
+            "safari",
+            "firefox",
+            "ie",
+            "opera",
+            "forter",
+            "braintree",
+            "paypal",
+            "checkout.com",
+            "authorize.net",
+            "paypal express"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8425,
+        "group_id": 8987198,
+        "full_text": "This extension is in our Payment category. Please remember that it is the merchant’s responsibility to ensure the proper PCI compliance level of their store, as applicable by PCI regulations. The PCI Self-Assessment is one tool you can use when evaluating Payment extensions and how they may affect your PCI compliance level. For more information on Marketplace policies, please review the Marketplace Terms & Conditions\n\nCONTENTS Trader Information Overview Technical Specifications Quality Report Release Notes Support Q & A Reviews\n\nTrader Information Back to top Overview Back to top Forter is the leader in e-commerce fraud prevention, protecting over $150 billion in online commerce transactions for over 620 million consumers globally from credit card fraud, account takeover, identity theft, and more. The company’s identity-based fraud prevention solution detects fraudulent activity in real-time, throughout all online consumer experiences. Forter’s integrated fraud prevention platform is fed by its rapidly growing Global Merchant Network, underpinned by predictive fraud research and modeling, and the ability for customers to tailor the platform for their specific needs. As a result, Forter is trusted by Fortune 500 companies to deliver exceptional accuracy, smoother user experience and elevated sales at a much lower cost. Forter’s Fraud Prevention Platform extension for Magento empowers merchants with the only enterprise-grade platform for managing fraud and abuse. The API based extension provides merchants with fully automated and highly accurate real-time approve/decline decisions, eliminating rules, scores, and manual reviews. The extension works by interacting mainly with the order and payment models in Magento, sending a transaction to Forter for validation to receive approval to invoice and capture, or declining which leads to canceling or further review. The configuration is flexible and certain merchants may adjust their store’s backend codebase. Forter’s extension for Magento has no negative impacts on the merchant’s site. Each merchant will be able to run and operate their business, as usual, augmented by leveraging Forter’s exceptional accuracy which provides for smoother customer experience and elevated sales. Account & Pricing A merchant account with Forter is required to be able to use the services. This account should be created separately. Using Forter's fraud detection platform service involves separate pricing parameters which will be discussed upon further inquiry. For more details about the account and pricing please refer to Forter.com. Features A Fully Integrated Fraud Prevention Platform: A single, comprehensive solution to protect your business against all forms of fraud and abuse.\n\nA single, comprehensive solution to protect your business against all forms of fraud and abuse. Full Automation: Full automation means no more manual reviews and no delays to fulfillment.\n\nFull automation means no more manual reviews and no delays to fulfillment. Real-time Approve/Decline Fraud Decisions: Instant decision-making on all transactions enhances the customer shopping experience and augments your business.\n\nInstant decision-making on all transactions enhances the customer shopping experience and augments your business. Tailored to Your Needs: Your fraud prevention solution will be tailored to your specific business needs while your team provides ongoing feedback to the Forter team to ensure a fully optimized and tailored fraud prevention solution.\n\nYour fraud prevention solution will be tailored to your specific business needs while your team provides ongoing feedback to the Forter team to ensure a fully optimized and tailored fraud prevention solution. Full Fraud Chargeback Guarantee: 100% of approved transactions are covered by a full fraud chargeback guarantee.\n\n100% of approved transactions are covered by a full fraud chargeback guarantee. Enforce Your Business Policies: Forter has the ability to enforce identity-based business rules on top of the statistical model. Our business utility service is used to enforce any business policies you may require.\n\nForter has the ability to enforce identity-based business rules on top of the statistical model. Our business utility service is used to enforce any business policies you may require. Built for Growth: A fully automated fraud prevention system means your fraud protection scales as you do – across today’s omnichannel, multi-device reality, no matter the season, flash sales, or explosive growth.\n\nA fully automated fraud prevention system means your fraud protection scales as you do – across today’s omnichannel, multi-device reality, no matter the season, flash sales, or explosive growth. The Forter Decision Dashboard: Get deeper insights into individual transactions, incidences of fraud, customer and business trends, and various business KPIs available in one, easy-to-use Dashboard.\n\nGet deeper insights into individual transactions, incidences of fraud, customer and business trends, and various business KPIs available in one, easy-to-use Dashboard. Account-level Fraud-related Insights: Access an array of more comprehensive fraud-related insights e.g. identifying referral fraud, coupon abuse, account takeovers (ATO), loyalty fraud, and more enhancing your view into your business ecosystem. Technical Specifications Back to top Seller profile Forter Seller contact E-mail Integrator Forter Current Version 2.5.38 Adobe Commerce platform compatibility Adobe Commerce (cloud): 2.4 (current), 2.3 (obsolete) Adobe Commerce (on-prem): 2.4 (current), 2.3 (obsolete) Magento Open Source: 2.4 (current), 2.3 (obsolete) Type Stable Build Updated 25 November, 2025 Categories Extensions, Payments & Security, Fraud Supported Browsers Chrome, Firefox, Opera, Safari, Edge, IE Documentation Reference Manuals Installation Guides User Guides License Type Custom License Policy Privacy Policy Quality Report Back to top Installation & Varnish Tests Passed Coding Standard Passed Plagiarism Check Passed Malware Check Passed Marketing Review Passed Manual Testing Passed All tests were conducted on the latest versions of Adobe Commerce that existed for the compatible release lines at the moment of the extension submission. Latest versions of all other software were used, as applicable. Release Notes Back to top 2.5.38: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: We have enhanced the cartridge to provide better mapping for all possible values of cardType. This improvement ensures that the cardType is accurately mapped using the fundingSource field received from Adyen in the additional_information. This enhancement will help merchants to process transactions more efficiently by ensuring that the card type information is correctly interpreted and utilized. 2.5.37: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Minor Improvements/tweaks\n\nAdyen v9 compatibility fixes 2.5.36: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Minor improvements 2.5.35: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Fixed compatibility issues\n\nOther fixes and improvements 2.5.34: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: small fix on order total amount formatting 2.5.33: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Adyen version compare fix\n\nSmall bug fixes 2.5.32: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Adyen module_version check fix 2.5.31: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Payment mappers refactorization and code improvements 2.5.2: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Integrated Stripe Payments in the flow.\n\nAdded more mappings on Adyen payments.\n\nBugfixes and basic flow improvements. 2.5.1: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Removes some 3rd party dependencies 2.5.0: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Refactored Cron Workflow, the module now runs on cron mode as a fallback for async payment methods ( adyen async methods for now)\n\n- Improved Order Management ( only orders with significant payment data are sent to Forter, until then they are holded )\n\n- All Forter requests have a row saved in the database with their status and information\n\n- All information regarding Forter decisions are saved in the dedicated table rather than the sales_order table 2.4.22: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Adyen CC data mapping adjustments 2.4.21: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Improvements on Adyen 3DS data mapping 2.4.20: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Compatibilty with Adyen v9\n\n- Improvement on getting the store config for enabling the module\n\n- Mapping the 3DS fields for Adyen 2.4.19: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - improve the cancellation process\n\n- add authorization step information in the request and increase priority of recommendation over the forter action in pre-auth step\n\n- enhance validation data for adyen one click method\n\n- enhance cartItems information with category details\n\n- add selective pre/post configuration for various payment methods.\n\n- improved email notification system. 2.4.18: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - introduction of authorizationStep in the Validation API request 2.4.17: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Pre-auth implementation for checkout.com\n\n- Updates based on depreciated functionality introduced by Adyen recent updates 2.4.16: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Pre-auth improvements for Adyen GooglePay\n\nPre-auth improvements for Paypal Express Checkout 2.4.15: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: PHP dependency update 2.4.14: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Adyen and Braintree pre-auth implementation 2.4.13: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - introduction of status information\n\n- order status improvements for cancelled orders\n\n- unit testing enhancements\n\n- sandbox configuration enhancements 2.4.12: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: - Compatibility with Magento 2.4.6\n\n- Default configuration improvements\n\n- User state detection improvements 2.4.11: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Added support for RMA , credit memos , and shipping on order updates.\n\nMapped improvements for order statuses order statuses. 2.4.10: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Minor improvements 2.4.9: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Improved logging\n\nMerge of mini-extensions into core 2.4.7: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: This release contains the following updates and improvements:\n\n1. Cancellation process improvements\n\n2. Custom mapping data type improvements 2.4.6: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: This release contains several updates to match the compatibility with Magento 2.4.5\n\nIt also includes updates to order status process 2.4.5: Compatible with Adobe Commerce (cloud) : 2.4\n\n2.4 Compatible with Adobe Commerce (on-prem) : 2.4\n\n2.4 Compatible with Magento Open Source : 2.4\n\n2.4 Stability: Stable Build\n\nStable Build Description: Address PHP 8.1 compatibility issues 2.0.44: Compatible with Adobe Commerce (cloud) : 2.3 2.4\n\n2.3 2.4 Compatible with Adobe Commerce (on-prem) : 2.3 2.4\n\n2.3 2.4 Compatible with Magento Open Source : 2.3 2.4\n\n2.3 2.4 Stability: Stable Build\n\nStable Build Description: Please contact Forter to subscribe to our services at www.forter.com 2.0.30: Compatible with Adobe Commerce (cloud) : 2.3\n\n2.3 Compatible with Adobe Commerce (on-prem) : 2.3\n\n2.3 Compatible with Magento Open Source : 2.3\n\n2.3 Stability: Stable Build\n\nStable Build Description: Please contact Forter to subscribe to our services at www.forter.com 2.0.0: Compatible with Adobe Commerce (cloud) : 2.3\n\n2.3 Compatible with Adobe Commerce (on-prem) : 2.3\n\n2.3 Compatible with Magento Open Source : 2.3\n\n2.3 Stability: Stable Build\n\nStable Build Description: Forter Magento 2 Extension:\n\nThis extension provides an integration to the Forter API services as well as tools and configuration options to automatically handle Forter’s fraud decisions on all orders placed on the Magento 2 site.\n\n\n\nThe extension was tested for stores processing payments with the base Magento payment methods:\n\n* Braintree\n\n* Paypal Express\n\n* Authorize.net\n\n\n\nVersions Changelog\n\n2.0.0: initial version released (February 5th, 2020) Support Back to top The best place to start if you need help with a specific extension is to contact the developer. All Adobe Commerce developers have both a contact email and a support email listed. Contact Vendor Q & A Back to top Questions Be the first to ask a question Reviews Back to top Reviews ★★★★★ No rating value ▼ Rating Filter by Rating Filter by Rating 1 star 2 stars 3 stars 4 stars 5 stars Active Filters Active Filters 1 star Remove Filter 1 star ✘\n\nActive Filters 2 stars Remove Filter 2 stars ✘\n\nActive Filters 3 stars Remove Filter 3 stars ✘\n\nActive Filters 4 stars Remove Filter 4 stars ✘\n\nActive Filters 5 stars Remove Filter 5 stars ✘\n\nClear All ✘ Clear All Filters"
+      }
+    ],
+    "credits_consumed": 0.23
+  }
+}

@@ -1,0 +1,851 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00005dt&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:00.522Z",
+  "data": {
+    "data": {
+      "uuid": "00005dt",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_d",
+            "label": "Series D"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2025
+          },
+          "total_funding_usd": 188000000
+        },
+        "funding_rounds": [
+          {
+            "id": 6298,
+            "date": {
+              "month": 7,
+              "year": 2025
+            },
+            "round": {
+              "code": "series_d",
+              "label": "Series D"
+            }
+          },
+          {
+            "id": 256570,
+            "date": {
+              "month": 8,
+              "year": 2022
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          },
+          {
+            "id": 248831,
+            "date": {
+              "month": 11,
+              "year": 2020
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "JMI Equity",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00000f3",
+            "website": "https://jmi.com"
+          },
+          {
+            "name": "Point72 Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00004cu",
+            "website": "https://p72.vc"
+          },
+          {
+            "name": "Toba Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000oqo",
+            "website": "http://tobacapital.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 3 more funding rounds; 7 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Boulevard is an AI-driven SaaS client experience platform purpose-built for appointment-based self-care businesses including salons, spas, medspas, barbershops, nail salons, and massage businesses. The unified platform combines Precision Scheduling AI, client management (CRM), POS/payments, marketing automation, memberships, loyalty programs, and reporting in a single subscription. For medspas, the platform adds HIPAA-compliant clinical charting and ePrescribe (powered by ScriptSure). The company also sells Boulevard Duo EMV-certified POS hardware and offers Enterprise-tier open APIs for custom integrations.",
+        "differentiator": "All-in-one client experience platform purpose-built for appointment-based self-care businesses (not generic POS or legacy EMRs); AI-powered Precision Scheduling™; native payfac payments eliminating third-party processors; HIPAA-compliant charting and ePrescribe in a single system; self-booking overlays that stay on the business's own website and social channels; instant payouts and multi-merchant account support for independent contractors. The platform serves over 40,000 self-care professionals and processes ~$5B in payments annually.",
+        "functional_benefit": "Reduces scheduling gaps and optimizes calendar utilization; eliminates system switching between booking, charting, prescribing, and payments; increases client retention through personalized CRM and loyalty programs; streamlines checkout with integrated POS and contactless tipping; provides real-time business intelligence and flexible reporting; supports multi-location and franchise management with granular permissions; enables HIPAA-compliant patient documentation and EPCS-compliant e-prescribing.",
+        "problem_solved": "Fragmented technology stacks (separate booking, CRM, POS, marketing, and clinical systems); legacy EMRs not designed for luxury self-care client experiences; high no-show rates and scheduling inefficiencies; poor online booking experiences causing client abandonment; complex multi-location and franchise management; HIPAA and compliance requirements for medspas; payment processing friction and delayed payouts.",
+        "quantifiable_outcome": [
+          "Salons using Boulevard's scheduling software saw more services booked, fewer no-shows and late cancellations, more retail value, and more gratuity (T+90 days)",
+          "Businesses switching to Boulevard saw average impact of 0% more revenue, more membership sales, more online booking, more service sales (12-month average, per medspa customer data)",
+          "Multi-location customers saw fewer no-shows and late cancellations within one year",
+          "67% of Gen Z and 64% of millennials have abandoned a salon due to clunky online booking; Boulevard's seamless self-booking addresses this directly",
+          "Memberships generate an average of 72% of income for leading self-care businesses; Boulevard's membership tools support this revenue stream",
+          "Over 70% of consumers prefer online booking; Boulevard's self-booking tools address this demand",
+          "Barbershop owners save up to 30 hours per month using Boulevard's appointment software"
+        ],
+        "product_overview": "Boulevard is an AI-driven SaaS client experience platform for appointment-based self-care businesses (salons, spas, medspas, barbershops, nail salons, massage). The unified platform consists of a core system combining scheduling (Precision Scheduling), client management (CRM), POS/payments (Boulevard Payments with Duo hardware), marketing (email/SMS suite), and reporting. Additional modules include ePrescribe for medical prescribing, Boulevard AI for smart scheduling and automation, Memberships & Packages, Capital financing, and Forms & Charts for clinical documentation. The platform is offered across business sizes from individual salons to multi-location and enterprise operations, with Open API available for Enterprise tier customers.",
+        "product_and_service": [
+          {
+            "category": "Core SaaS Platform",
+            "description": "AI-driven SaaS client experience platform unifying scheduling, CRM, POS, marketing, memberships, and reporting for appointment-based self-care businesses.",
+            "name": "Boulevard Platform",
+            "source": [
+              "https://www.joinblvd.com/"
+            ],
+            "url": "https://www.joinblvd.com/"
+          },
+          {
+            "category": "Payment Processing",
+            "description": "Native payfac payment processing platform with card tokenization, instant payouts, multi-merchant accounts, and Boulevard Offset for credit card fee absorption.",
+            "name": "Boulevard Payments",
+            "source": [
+              "https://www.joinblvd.com/features/payments"
+            ],
+            "url": "https://www.joinblvd.com/features/payments"
+          },
+          {
+            "category": "Hardware",
+            "description": "EMV-certified point-of-sale hardware designed for self-care businesses, accepting dip, tap, swipe, and contactless payments including Apple Pay and Google Pay with discreet tipping.",
+            "name": "Boulevard Duo",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          },
+          {
+            "category": "Clinical Add-on",
+            "description": "Electronic prescribing add-on for medspas powered by ScriptSure (D.A.W. Systems), integrated into patient profiles. Supports controlled, non-controlled, and compounded medications with safety checks, drug interaction alerts, prescription benefit checks, and HIPAA/EPCS compliance.",
+            "name": "ePrescribe",
+            "source": [
+              "https://www.joinblvd.com/features/prescriptions"
+            ],
+            "url": "https://www.joinblvd.com/features/prescriptions"
+          },
+          {
+            "category": "AI Suite",
+            "description": "AI-powered feature set for beauty and wellness businesses including smart scheduling, automated client communications, personalization tools, and chatbot capabilities.",
+            "name": "Boulevard AI",
+            "source": [
+              "https://www.joinblvd.com/blog/4-ways-ai-is-transforming-the-beauty-and-wellness-industry-in-2025"
+            ],
+            "url": "https://www.joinblvd.com/features/boulevard-ai"
+          },
+          {
+            "category": "Developer Platform",
+            "description": "Enterprise-tier API access including Client API, Credit Card Tokenization API, Admin API, and Recurring Report Export API for custom integrations and workflows, plus Snowflake Data Share.",
+            "name": "Open API",
+            "source": [
+              "https://www.joinblvd.com/features/api"
+            ],
+            "url": "https://www.joinblvd.com/features/api"
+          },
+          {
+            "category": "Financial Services",
+            "description": "Business capital/financing service for self-care businesses to reinvest in their operations.",
+            "name": "Capital",
+            "source": [
+              "https://www.joinblvd.com/"
+            ],
+            "url": "https://www.joinblvd.com/features/capital"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Valuation reached approximately $800 million following the $80 million Series D funding round led by JMI Equity in July 2025.",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "~$800 million"
+          },
+          {
+            "description": "Total funding reached roughly $188 million following the $80 million Series D in July 2025. Prior rounds include $70 million Series C (Point72) and earlier funding.",
+            "source": [
+              "https://www.americansalon.com/business/5-questions-matt-danna-co-founder-ceo-boulevard"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "~$188 million total funding"
+          },
+          {
+            "description": "Boulevard processes approximately $5 billion in payments annually across its customer base.",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "~$5 billion annually"
+          },
+          {
+            "description": "The platform serves over 40,000 self-care professionals, up from 25,000 professionals in 2,000 salons and spas mentioned in the 2022 Series C news release.",
+            "source": [
+              "https://www.joinblvd.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "40,000+"
+          },
+          {
+            "description": "Boulevard now powers approximately 15% of medspas in the United States.",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "15% of US medspas"
+          },
+          {
+            "description": "As of the 2022 Series C announcement, the platform was used by 2,000 salons and spas. Current figures are higher at 40,000+ professionals.",
+            "source": [
+              "https://www.vcaonline.com/news/news.asp?ID=2022081001"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "2,000+"
+          },
+          {
+            "description": "Named to the 2024 Deloitte Technology Fast 500, a ranking of the fastest-growing technology companies in North America.",
+            "source": [
+              "https://joinblvd.com/newsroom/boulevard-named-to-the-2024-deloitte-technology-fast-500"
+            ],
+            "type": {
+              "code": "brand_reputation",
+              "label": "Brand Reputation"
+            },
+            "value": "Top 500 list"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 14,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Boulevard partnered with D.A.W. Systems and its ScriptSure e-prescribing solution to launch Boulevard ePrescribe. The integration enables medspas to send prescriptions directly within the Boulevard platform, eliminating system switching. ScriptSure is used by over 30,000 licensed prescribers nationwide and supports the Surescripts pharmacy network.",
+            "name": "D.A.W. Systems (ScriptSure)",
+            "source": [
+              "https://www.businesswire.com/news/home/20260414281455/en/Boulevard-Expands-Clinical-Capabilities-for-Medspas-with-Launch-of-ePrescribe"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0002x8k"
+          },
+          {
+            "description": "Boulevard's Shopify app integration syncs products and gift cards between Boulevard's POS and the business's Shopify store, providing a consistent client experience across online and in-person shopping.",
+            "name": "Shopify",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000ng4"
+          },
+          {
+            "description": "Boulevard automatically syncs each day's sales and payment settlement data into QuickBooks Online, reducing manual bookkeeping tasks and keeping financial records accurate.",
+            "name": "QuickBooks Online",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000tgj"
+          },
+          {
+            "description": "Two-way calendar sync with Google Calendar and Apple Calendar allows businesses to align personal and professional obligations, avoiding scheduling conflicts.",
+            "name": "Google Calendar and Apple Calendar",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00000r9"
+          },
+          {
+            "description": "Zapier integration enables businesses to create automated workflows between Boulevard and thousands of other applications, reducing repetitive administrative tasks.",
+            "name": "Zapier",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0003noj"
+          },
+          {
+            "description": "Allows clients to book appointments directly from Facebook and Instagram business pages, creating a seamless discovery-to-booking experience on social platforms.",
+            "name": "Facebook and Instagram Book Now",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "02im848"
+          },
+          {
+            "description": "Allows clients to book appointments directly from Google Business Profile, enabling booking directly from search results and maps.",
+            "name": "Reserve with Google",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            }
+          },
+          {
+            "description": "Okta Single Sign-On integration allows businesses to securely launch Boulevard Dashboard through their existing Okta identity management system.",
+            "name": "Okta SSO",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00002oi"
+          },
+          {
+            "description": "Integration with Oracle's OPERA Property Management System allows hotel guests to charge on-site beauty and wellness services to their room.",
+            "name": "OPERA PMS (Oracle)",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0032ym2"
+          },
+          {
+            "description": "Widewail integration sends personalized SMS-based review requests to clients automatically after appointments, helping businesses collect reviews and video testimonials.",
+            "name": "Widewail",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0000eq8"
+          },
+          {
+            "description": "Vish is a color management software provider integrated with Boulevard, helping salons and stylists manage color business workflows.",
+            "name": "Vish",
+            "source": [
+              "https://www.joinblvd.com/integrations"
+            ],
+            "strategic_tier": "Supporting",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "005kix1"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "day": 17,
+              "month": 7,
+              "year": 2025
+            },
+            "description": "Closed an $80 million Series D led by JMI Equity at a ~$800 million post-money valuation, bringing total funding to ~$188 million, with proceeds earmarked for AI development and enterprise-grade features.",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "day": 14,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Launched Boulevard ePrescribe via partnership with D.A.W. Systems (ScriptSure), embedding electronic prescribing for controlled, non-controlled, and compounded medications directly into the medspa workflow.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260414281455/en/Boulevard-Expands-Clinical-Capabilities-for-Medspas-with-Launch-of-ePrescribe"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 10,
+              "month": 8,
+              "year": 2022
+            },
+            "description": "Closed a $70 million Series C led by Point72 Private Investments to fund platform development, vertical expansion (into medspas), and engineering headcount growth.",
+            "source": [
+              "https://www.vcaonline.com/news/news.asp?ID=2022081001"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "year": 2025
+            },
+            "description": "Launched Boulevard AI, an AI feature suite encompassing smart scheduling, automated client communications, personalization, and chatbot capabilities for the beauty and wellness vertical.",
+            "source": [
+              "https://www.joinblvd.com/blog/4-ways-ai-is-transforming-the-beauty-and-wellness-industry-in-2025"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Partnered with D.A.W. Systems to operationalize EPCS-compliant e-prescribing and expanded enterprise integrations including Snowflake Data Share, Okta SSO, and OPERA PMS to capture franchise and enterprise self-care brands.",
+            "source": [
+              "https://joinblvd.com/newsroom/boulevard-named-to-the-2024-deloitte-technology-fast-500"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 8,
+              "year": 2022
+            },
+            "description": "Vertically expanded into medical spas, growing to serve approximately 15% of US medspas via HIPAA-compliant charting, e-prescribing, and dedicated medspa add-ons priced at $500–$600 per location per month.",
+            "source": [
+              "https://www.joinblvd.com/"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Medspa vertical penetration at ~15% of US medspas signals a focused go-to-market push into clinical/HIPAA-regulated workflows, supported by a $500–$600/location/month add-on layer that expands average revenue per account.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "Series D (July 2025) proceeds explicitly allocated to AI tools and enterprise-grade features, including Open APIs, Snowflake Data Share, and advanced permissions, indicating an upmarket push into franchise and enterprise self-care brands.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "April 2026 launch of ePrescribe via ScriptSure/D.A.W. Systems extends the product surface into electronic prescribing for controlled substances, opening EPCS-compliant revenue per medspa provider.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "2025 launch of Boulevard AI (smart scheduling, automated messaging, personalization, chatbots) is a product-line expansion that monetizes the existing data flywheel across 40,000+ professionals and $5B in payments.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Distribution expansion through Reserve with Google, Facebook/Instagram Book Now, and Zapier integrations enables product-led client acquisition and embeds Boulevard into consumer discovery channels, reducing dependence on direct sales.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Add-on modules such as Boulevard Capital (business financing) and Boulevard Duo hardware extend monetization beyond subscription into financial services and hardware, increasing customer LTV within the existing base.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        },
+        "valuation_estimate": {
+          "code": "500m_1b",
+          "label": "$500M-$1B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Boulevard is a privately held, AI-driven SaaS client experience platform purpose-built for appointment-based self-care businesses including salons, spas, medspas, barbershops, nail salons, and massage businesses. Founded in 2016 and headquartered in Los Angeles, the company serves more than 40,000 self-care professionals, processes approximately $5 billion in payments annually, and now powers approximately 15% of U.S. medspas. Following an $80 million Series D round led by JMI Equity in July 2025, the company is valued at approximately $800 million and has raised approximately $188 million in total funding across rounds led by Point72 Private Investments, Index Ventures, Toba Capital, and Bonfire Ventures.",
+        "strengths": [
+          {
+            "details": "At ~15% of US medspas today, Boulevard is in early innings of a HIPAA/EPCS-required vertical with higher willingness-to-pay than salons. Medspa add-ons at $500-$600/location/month expand ARPU and the ePrescribe launch (April 2026) creates a clinical lock-in that should compound into higher enterprise contracts and lower churn over time.",
+            "headline": "Medspa expansion unlocks much larger clinical TAM",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ]
+          },
+          {
+            "details": "Processing ~$5B in annual payment volume through a native payfac means Boulevard earns a transaction fee on every dollar that flows through its 40,000+ professionals. As the customer base grows and per-location volume expands (especially with medspa add-ons), payment revenue compounds without proportional sales investment.",
+            "headline": "Payments flywheel scales transaction revenue with no incremental CAC",
+            "source": [
+              "https://www.joinblvd.com/features/payments"
+            ]
+          },
+          {
+            "details": "Precision Scheduling™ and Boulevard AI are trained on aggregated booking and $5B payment data from 40,000+ professionals. This proprietary dataset enables personalization and recommendation features that improve with scale, making Boulevard's AI offering structurally harder to replicate by new entrants or generalist competitors.",
+            "headline": "AI moat deepens with proprietary booking and transaction data",
+            "source": [
+              "https://www.joinblvd.com/blog/4-ways-ai-is-transforming-the-beauty-and-wellness-industry-in-2025"
+            ]
+          },
+          {
+            "details": "Boulevard has signed enterprise customers (TONI&GUY USA, Face Foundrié, Heyday) and is gating API access, Snowflake Data Share, and advanced permissions behind the Enterprise tier. As the multi-location customer count grows, average contract value should expand materially and pull-through payments, ePrescribe, and Capital financing attach.",
+            "headline": "Enterprise and franchise tier drives contract size expansion",
+            "source": [
+              "https://www.joinblvd.com/franchise"
+            ]
+          },
+          {
+            "details": "The Capital add-on lets Boulevard underwrite or facilitate financing to its existing customer base, monetizing trust and cash-flow data already on the platform. This creates a high-margin fintech layer on top of SaaS and payments with low incremental customer acquisition cost.",
+            "headline": "Embedded fintech (Capital) opens new revenue stream from same customers",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Mindbody, Fresha (free core product), and Square Appointments (bundled with payments) compete on price and ecosystem breadth. As they push deeper into medspas, Boulevard may face pricing pressure and elevated CAC that compress the path-to-profitability and force discounting at renewal.",
+            "headline": "Aggressive incumbents compress pricing and win rates",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          },
+          {
+            "details": "Serving medspas with HIPAA, EPCS, and clinical charting obligations increases product, security, and support overhead compared to plain salon software. As regulatory expectations evolve (e.g., controlled substance prescribing rules), Boulevard's engineering and compliance resources may be diverted from core salon/spa roadmap, weakening the broader platform.",
+            "headline": "Medspa compliance burden could slow product velocity",
+            "source": [
+              "https://www.joinblvd.com/features/data-security"
+            ]
+          },
+          {
+            "details": "ePrescribe is delivered through D.A.W. Systems' ScriptSure under a partnership arrangement. Any deterioration in the relationship, partner-side outages, regulatory action against the prescriber network, or unfavorable contract renewal terms directly undermine Boulevard's medspa differentiation and could force costly in-house development.",
+            "headline": "Third-party ePrescribe dependency threatens medspa expansion",
+            "source": [
+              "https://www.joinblvd.com/features/prescriptions"
+            ]
+          },
+          {
+            "details": "All revenue is tied to US self-care businesses — a discretionary consumer category. In an economic downturn, average ticket size, visit frequency, and new location openings contract, which directly reduces both SaaS seat revenue and transaction-fee volume from Boulevard Payments.",
+            "headline": "Concentration in discretionary US self-care exposes to downturns",
+            "source": [
+              "https://www.joinblvd.com/features/payments"
+            ]
+          },
+          {
+            "details": "The Series D funds expanded enterprise sales, onboarding, and AI features. Enterprise contracts have longer sales cycles and higher service costs than SMB; if enterprise mix grows faster than SMB volume, near-term margins and cash efficiency could deteriorate before enterprise renewal economics kick in.",
+            "headline": "Enterprise expansion burn may pressure unit economics before scale",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Boulevard's platform embeds memberships, client purchase history, payment processing, clinical charting, and e-prescribing into a single workflow. Once a salon, medspa, or franchise standardizes operations, payment routing, and clinical documentation on Boulevard, migrating that data and re-wiring integrations creates significant operational disruption.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Proprietary Precision Scheduling AI algorithm and the native Boulevard Payments payfac are purpose-built for appointment-based self-care workflows rather than adapted from generic POS/EMR software. The combination of a custom scheduling engine and a vertically-integrated payment stack is difficult for horizontal SaaS players to replicate quickly.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "HIPAA, SOC 2 Type 2, EPCS, and Level 1 PCI certifications are required to serve medspas handling PHI and controlled substances, creating a compliance barrier for new entrants. Boulevard's ePrescribe integration (D.A.W. Systems/ScriptSure) is also operationalized across 30,000+ prescribers nationwide.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "Boulevard aggregates behavioral data from 40,000+ self-care professionals and approximately $5 billion in annual payment volume, which feeds the Precision Scheduling algorithm and marketing personalization. This dataset compounds with scale and improves AI quality over time.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Boulevard's native payfac eliminates third-party processor dependencies, while Open APIs (Admin, Client, Credit Card Tokenization, Report Export) at the Enterprise tier create integration stickiness with ERPs, Snowflake, Okta SSO, OPERA PMS, Shopify, and QuickBooks. Hardware (Boulevard Duo) and the Capital financing add-on further entrench customers.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Boulevard's operations are explicitly domestic USA-only with no global footprint claim. This concentrates risk in a single market and limits TAM relative to international peers like Treatwell or Phorest.",
+            "headline": "US-only geographic concentration limits addressable market",
+            "source": [
+              "https://www.vcaonline.com/news/news.asp?ID=2022081001"
+            ]
+          },
+          {
+            "details": "The self-care booking space includes Mindbody, Vagaro, Fresha, Square Appointments, Booksy, GlossGenius, Zenoti, and Mangomint. Several competitors are VC-backed and price aggressively (Fresha is free for core), pressuring win rates and pricing.",
+            "headline": "Crowded competitive landscape with well-funded incumbents and pure-plays",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          },
+          {
+            "details": "Boulevard's new medspa ePrescribe feature is powered entirely by D.A.W. Systems' ScriptSure. Any disruption to this partnership, pricing change, or compliance failure at the partner level directly impacts Boulevard's medspa expansion thesis.",
+            "headline": "Dependency on D.A.W. Systems / ScriptSure for ePrescribe functionality",
+            "source": [
+              "https://www.joinblvd.com/features/prescriptions"
+            ]
+          },
+          {
+            "details": "Serving medspas requires HIPAA, EPCS, and clinical charting compliance plus medical director workflows — a meaningful operational lift. Compliance failures could trigger regulatory exposure and reputational damage that affect the broader platform.",
+            "headline": "Medspa regulatory complexity raises execution and compliance risk",
+            "source": [
+              "https://www.joinblvd.com/features/data-security"
+            ]
+          },
+          {
+            "details": "Matt Danna (Co-Founder & CEO) is the single named executive with detailed visibility; only a handful of additional leaders (CTO, CFO, CMO) are surfaced. Concentrated founder dependency and limited public detail on the broader bench create succession and execution risk.",
+            "headline": "Key-person dependency on founder-CEO with thin disclosed leadership bench",
+            "source": [
+              "https://www.americansalon.com/business/5-questions-matt-danna-co-founder-ceo-boulevard"
+            ]
+          },
+          {
+            "details": "Salon, spa, and medspa demand is correlated with discretionary consumer spending. A consumer downturn would directly reduce bookings, payment volume, and customer retention — Boulevard's transaction-fee and subscription revenue are both exposed.",
+            "headline": "Self-care vertical cyclicality tied to discretionary consumer spend",
+            "source": [
+              "https://www.joinblvd.com/features/payments"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Per company materials, Boulevard now serves 40,000+ self-care professionals (up from 25,000 in 2,000 locations at the 2022 Series C) and powers approximately 15% of US medspas, indicating rapid customer growth and vertical penetration.",
+            "headline": "Strong traction: 40,000+ self-care professionals and ~15% US medspa market share",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          },
+          {
+            "details": "JMI Equity-led $80M Series D in July 2025 valued Boulevard at ~$800M with ~$188M total raised. The platform processes ~$5B in payments annually, indicating significant scale relative to capital deployed.",
+            "headline": "$800M valuation on $188M cumulative funding and $5B annual payment volume",
+            "source": [
+              "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/"
+            ]
+          },
+          {
+            "details": "Revenue streams include SaaS subscriptions (medspa add-ons at $500-$600/location/month), transaction fees through Boulevard Payments™ native payfac, and Boulevard Duo™ EMV-certified POS hardware sales, reducing dependency on any single stream.",
+            "headline": "Diversified revenue model combining SaaS subscription, payment processing, and hardware",
+            "source": [
+              "https://www.joinblvd.com/features/payments"
+            ]
+          },
+          {
+            "details": "Certifications across data security (SOC 2 Type 2), healthcare (HIPAA), payments (PCI Level 1), and controlled substance prescribing (EPCS) enable Boulevard to credibly serve medspa and clinical-aesthetics customers where generalist competitors fall short.",
+            "headline": "Enterprise-grade compliance stack: SOC 2 Type 2, HIPAA, PCI Level 1, EPCS",
+            "source": [
+              "https://www.joinblvd.com/features/data-security"
+            ]
+          },
+          {
+            "details": "Enterprise customers include TONI&GUY USA, Face Foundrié, and Heyday, demonstrating credibility with multi-location and franchise brands where contract sizes and switching costs are larger.",
+            "headline": "Strong enterprise and franchise logos: TONI&GUY USA, Face Foundrié, Heyday",
+            "source": [
+              "https://www.joinblvd.com/franchise"
+            ]
+          },
+          {
+            "details": "Boulevard combines scheduling (Precision Scheduling™ AI), CRM, POS, marketing, ePrescribe, and payments in one stack, eliminating the fragmented toolset typical of salon/spa operators. The native payfac eliminates third-party processors.",
+            "headline": "Differentiated all-in-one platform with native payfac and AI scheduling",
+            "source": [
+              "https://www.joinblvd.com/"
+            ]
+          },
+          {
+            "details": "Named to the 2024 Deloitte Technology Fast 500 and recognized as 'Best Value 2025' by Capterra and on G2, providing third-party credibility on growth and customer satisfaction.",
+            "headline": "External validation: Deloitte Fast 500, Capterra Best Value, G2 recognition",
+            "source": [
+              "https://joinblvd.com/newsroom/boulevard-named-to-the-2024-deloitte-technology-fast-500"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer base is broad with 40,000+ self-care professionals served across an estimated thousands of business locations, suggesting a long-tail, volume-driven model rather than reliance on a small number of anchor contracts. Named enterprise and franchise logos (TONI&GUY USA, Face Foundrié, Heyday) indicate Boulevard is winning flagship multi-location brands, but these appear as reference accounts rather than dominant revenue contributors. The vertical segmentation (medspas, salons, spas, barbershops, nail, massage) and explicit SMB/mid-market/enterprise tiering further distribute exposure. Overall concentration risk is Low to Moderate: enterprise wins support marketing credibility, but no single logo appears to materially drive revenue.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Booking and management software for barbers, salons, and beauty professionals. Direct competitor with strong SMB focus and similar self-booking, POS, and payments stack.",
+            "name": "Booksy",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000041f"
+          },
+          {
+            "description": "Booking, payments, and client management platform for beauty and wellness professionals. Direct peer targeting solo and small-studio salons where Boulevard also competes.",
+            "name": "GlossGenius",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "02mb213"
+          },
+          {
+            "description": "Long-standing vertical SaaS for salons, spas, medspas, and fitness studios with booking, CRM, and payments. Closest direct competitor to Boulevard across the same self-care verticals.",
+            "name": "Mindbody",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0002j5r"
+          },
+          {
+            "description": "All-in-one salon, spa, and medspa software with booking, POS, payments, and marketplace. Direct competitor with overlapping SMB and enterprise customer base.",
+            "name": "Vagaro",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000049s"
+          },
+          {
+            "description": "Beauty and wellness marketplace and SaaS platform with free core booking and integrated payments. Competes with Boulevard on price and on consumer-facing discovery.",
+            "name": "Fresha",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00004od"
+          },
+          {
+            "description": "Enterprise software for salons, spas, and medspas with deep multi-location features. Direct peer competing for larger chains and franchise brands where Boulevard targets the Enterprise tier.",
+            "name": "Zenoti",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003w9"
+          },
+          {
+            "description": "Modern, design-forward salon and spa software for boutique and multi-location operators. Emerging competitor with overlapping SMB and mid-market positioning.",
+            "name": "Mangomint",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00007y4"
+          },
+          {
+            "description": "Appointment booking bundled into Square's broader payments and POS ecosystem. Broad incumbent competing on ecosystem and pricing rather than vertical depth.",
+            "name": "Square Appointments",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "000068h"
+          },
+          {
+            "description": "Salon and spa software with strong UK/Ireland presence and growing US footprint. Comparable vertical SaaS for self-care with similar feature set.",
+            "name": "Phorest",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "0000qvf"
+          },
+          {
+            "description": "Booking and marketplace platform for hair, beauty, and barbershop professionals. Emerging competitor with overlapping self-care target market and SMB focus.",
+            "name": "Styleseat",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0003ayg"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

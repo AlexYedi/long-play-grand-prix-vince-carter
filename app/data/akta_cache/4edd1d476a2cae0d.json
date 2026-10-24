@@ -1,0 +1,835 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0003l7p&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:50.500Z",
+  "data": {
+    "data": {
+      "uuid": "0003l7p",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "acquired",
+            "label": "Acquired"
+          },
+          "last_funding_date": {
+            "month": 5,
+            "year": 2010
+          },
+          "total_funding_usd": 7100000
+        },
+        "funding_rounds": [
+          {
+            "id": 719104,
+            "date": {
+              "month": 5,
+              "year": 2010
+            },
+            "round": {
+              "code": "series_unknown",
+              "label": "Series Unknown"
+            }
+          },
+          {
+            "id": 544289,
+            "date": {
+              "month": 6,
+              "year": 2009
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 409960,
+            "date": {
+              "month": 6,
+              "year": 2008
+            },
+            "round": {
+              "code": "series_a",
+              "label": "Series A"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Intel Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00006eh",
+            "website": "http://www.intelcapital.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Accertify provides a unified AI-powered risk decisioning platform that combines identity, behavioral, historical, and purchase signals to detect and prevent fraud, account takeover, returns abuse, and chargebacks for enterprise merchants across the full customer lifecycle — from account creation through post-purchase dispute resolution. The offering spans Account Protection, Fraud Detection, Returns and Abuse Protection, Payment Optimization (including 3DS), Chargeback Management, and a Payment Gateway, augmented by the Predictive Yes Platform, Passwordless Suite, and a consortium intelligence layer covering 10B+ annual transactions across hundreds of enterprise brands.",
+        "differentiator": "Accertify differentiates through its Predictive Yes Platform — a unified risk decisioning layer that connects identity, behavioral, historical, and purchase signals across the full customer lifecycle. Key differentiators include: (1) consortium data from 10B+ annual transactions across hundreds of enterprise brands, enabling 98% client data sharing; (2) multi-model orchestration spanning machine learning, graph networks, and sequential transformers rather than replacing older models; (3) industry-specific AI models calibrated to retail, travel, ticketing, iGaming, and financial services verticals; (4) account protection capabilities processing 1.6B+ events with 49.7% YoY growth; (5) passwordless authentication suite aligned with FIDO/WebAuthn standards.",
+        "functional_benefit": "Approves more legitimate transactions while reducing fraud losses; reduces manual review rates (up to 20% reduction documented); decreases fraud losses (62% reduction at Guitar Center, 80%+ at Sportsbet); reduces chargebacks (71% at Target Australia, 30%+ at Fnac Darty); enables frictionless customer journeys (99%+ frictionless acceptance rates); provides real-time decisioning at sub-100ms latency with proven peak performance of 2,708 TPS; prevents account takeover, bot attacks, coordinated login attacks (Attack State), and returns abuse; stops 30.7M+ fraud/abuse attempts worth $5.8B annually.",
+        "problem_solved": "Accertify solves the fundamental tension between fraud prevention and revenue growth for enterprise merchants: fraud teams must reduce fraud losses while not sacrificing approval rates on legitimate customers, and must do so at massive transaction scale in real time. The platform addresses coordinated login attacks, account takeover, payment fraud, returns abuse, chargebacks, bot attacks, synthetic identity fraud, and first-party misuse across the full customer lifecycle from account creation through post-purchase dispute resolution.",
+        "quantifiable_outcome": [
+          "Guitar Center decreased fraud losses by 62% and increased prevented fraud by 106% year over year",
+          "Sportsbet decreased fraud losses by over 80% YoY and chargebacks by more than 82%",
+          "Target Australia reduced chargebacks by 71% while maintaining 99% frictionless customer journeys",
+          "Fnac Darty reduced card chargeback rate by more than 30% while reducing manual review",
+          "Marks & Spencer delivered a frictionless journey for 99.98% of customers under SCA regulations",
+          "Big-box retailer reduced manual review rates by 20% while achieving over $8.7M in fraud savings",
+          "United Airlines win rate increased by more than 40% with Accertify Fraud Management",
+          "Prevented 30.7M fraud/abuse attempts worth nearly $5.8B in 2025",
+          "Client base grew 24% YoY",
+          "Account Protection events grew 49.7% YoY to 1.63B events"
+        ],
+        "product_overview": "Accertify is a unified risk decisioning platform provider offering an integrated suite of fraud prevention, account protection, abuse prevention, payment optimization, chargeback management, and payment gateway solutions. The core portfolio includes the Predictive Yes Platform (enterprise fraud decisioning connecting identity, behavioral, historical, and purchase signals), Account Protection (device intelligence and behavior analytics for account takeover prevention), Fraud Detection (multi-layered ML-based prevention), Returns and Abuse Protection (wardrobing and return fraud detection), Payment Optimization (including 3DS optimization), Chargeback Management, and the Payment Gateway. Additional modules include Attack State Intelligence (coordinated login attack detection) and Passwordless Suite (FIDO2-compliant authentication). The platform processes over 10 billion transactions annually worth $1.25 trillion in commerce, with 98% of clients sharing anonymized fraud intelligence through a consortium approach across retail, travel, ticketing, and other sectors.",
+        "product_and_service": [
+          {
+            "category": "Core platform",
+            "description": "Enterprise fraud decisioning technology that connects identity, behavioral, historical, and purchase signals across the full customer lifecycle from account creation through post-purchase. Processes over 10 billion transactions and $1.25 trillion in commerce annually with a consortium approach where 98% of clients share anonymized fraud intelligence.",
+            "name": "Predictive Yes Platform",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/"
+          },
+          {
+            "category": "Core product",
+            "description": "Solution that uses sophisticated device technology and advanced user behavior analytics to identify and protect against fraudulent account openings, multi-accounting abuse, and account takeover attacks. Provides real-time end-to-end insights from the moment a customer lands on a digital doorstep, distinguishing authentic visitors from potential threats.",
+            "name": "Account Protection",
+            "source": [
+              "https://www.accertify.com/the-accertify-platform/account-protection/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/account-protection/"
+          },
+          {
+            "category": "Core product",
+            "description": "Multi-layered fraud prevention platform built on advanced machine learning, device intelligence, and user behavior analytics. Built on four core principles: Predict (ML with rich community data), Prevent (standard API with day-one risk decisioning), Protect (ML-driven risk strategies), and People (human intelligence and deep domain expertise).",
+            "name": "Fraud Detection",
+            "source": [
+              "https://www.accertify.com/the-accertify-platform/fraud-detection/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/fraud-detection/"
+          },
+          {
+            "category": "Core product",
+            "description": "Solution that monitors, measures, and curbs return abuse while designing return policies that protect margins without punishing good customers. Detects wardrobing, return swapping, falsifying delivery, and shipping label fraud. Collects return data via specialized API tracking customer return activity across email, account IDs, phone numbers, geolocations, shipping addresses, and payment methods.",
+            "name": "Returns and Abuse Protection",
+            "source": [
+              "https://www.accertify.com/the-accertify-platform/returns-and-abuse-protection/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/returns-and-abuse-protection/"
+          },
+          {
+            "category": "Core product",
+            "description": "Solution focused on optimizing payment performance including 3D Secure (3DS) implementation, authentication strategies, and authorization rate improvement. Helps merchants transform 3DS from a conversion killer into a strategic performance lever through better data sharing and risk scoring.",
+            "name": "Payment Optimization",
+            "source": [
+              "https://www.accertify.com/resource/ecommerce-fraud-prevention-platform-guide-2026/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/payment-optimization/"
+          },
+          {
+            "category": "Core product",
+            "description": "Solution for managing chargebacks and disputes integrated into the unified platform, helping merchants reduce chargeback rates and streamline dispute resolution workflows.",
+            "name": "Chargeback Management",
+            "source": [
+              "https://www.accertify.com/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/chargeback-management/"
+          },
+          {
+            "category": "Core product",
+            "description": "Payment gateway solution integrated into the unified risk decisioning platform, enabling merchants to process payments while maintaining fraud protection across the transaction lifecycle.",
+            "name": "Payment Gateway",
+            "source": [
+              "https://www.accertify.com/"
+            ],
+            "url": "https://www.accertify.com/the-accertify-platform/payment-gateway/"
+          },
+          {
+            "category": "Standalone product",
+            "description": "Passwordless authentication solution offering Magic Links (one-tap login via secure email link) and Passkeys (biometric/PIN-based authentication per FIDO2 standards). Reduces password-based risks, phishing, and credential theft while maintaining friction-free transactions.",
+            "name": "Passwordless Suite",
+            "source": [
+              "https://www.accertify.com/passwordless-suite/"
+            ],
+            "url": "https://www.accertify.com/passwordless-suite/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "The Predictive Yes Platform leverages data from over 10 billion transactions and $1.25 trillion in commerce processed annually, with 98% of Accertify clients sharing anonymized fraud intelligence across hundreds of enterprise brands.",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "10+ billion transactions; $1.25 trillion in commerce processed annually"
+          },
+          {
+            "description": "Accertify protected more than 10 billion digital transactions in 2025, securing over $1.2 trillion USD in total commerce value.",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "10 billion digital transactions; $1.2 trillion USD in commerce value"
+          },
+          {
+            "description": "Accertify helped clients prevent 30.7 million distinct fraud and abuse attempts in 2025 worth nearly $5.8 billion in total attempted financial risk.",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "$5.8 billion in fraud and abuse prevented"
+          },
+          {
+            "description": "Account Protection events surged 49.7% year over year, with 1.63 billion events spanning logins, account changes, session behavior, and bot activity.",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "1.63 billion Account Protection events, up 49.7% YoY"
+          },
+          {
+            "description": "Cyber Week 2025 performance peak: 107 million transactions, $12.9 billion commerce, 2,708 TPS.",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ],
+            "type": {
+              "code": "technical_performance",
+              "label": "Technical Performance"
+            },
+            "value": "107 million transactions during Cyber Week 2025; $12.9 billion in commerce value; peak of 2,708 transactions per second"
+          },
+          {
+            "description": "Accertify processed 1.6 billion Account Protection events within its Account Protection solution.",
+            "source": [
+              "https://www.accertify.com/the-accertify-platform/account-protection/"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "1.6 billion Account Protection events processed last year"
+          },
+          {
+            "description": "Accertify's client base expanded 24% year over year, signaling a shift toward unified identity and fraud management.",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "Client base grew 24% year over year"
+          },
+          {
+            "description": "19 years of helping clients say yes to more customers, revenue, and growth.",
+            "source": [
+              "https://www.accertify.com/"
+            ],
+            "type": {
+              "code": "brand_reputation",
+              "label": "Brand Reputation"
+            },
+            "value": "Trusted by leading global brands including United Airlines, Walmart, Target Australia, Sportsbet, Fnac Darty, and dozens more"
+          },
+          {
+            "description": "Client logos displayed include United Airlines, Marks & Spencer, Sportsbet, Target Australia, Fnac Darty, Ticketmaster, JetBlue, Ryanair, Southwest Airlines, Walmart, DraftKings, Caesars Sportsbook, Grubhub, Priceline, and many more.",
+            "source": [
+              "https://www.accertify.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "Over 80 major brand logos listed"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 4,
+              "month": 11,
+              "year": 2025
+            },
+            "description": "RegTech Solutions and Accertify entered into a referral partnership to enhance account protection for Australia's financial services sector, including superannuation funds, wealth managers, and investment platforms. The collaboration provides advanced behavioral and device analytics with AI-driven fraud insights, improving security while maintaining a smooth customer experience for Australian financial institutions.",
+            "name": "RegTech Solutions Pty Ltd",
+            "source": [
+              "https://en.prnasia.com/releases/apac/regtech-solutions-and-accertify-partner-to-strengthen-account-protection-for-australia-s-financial-services-sector-510131.shtml"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "02mjqnm"
+          },
+          {
+            "announced_on": {
+              "day": 28,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "98% of Accertify clients participate in a consortium that shares anonymized fraud intelligence across hundreds of enterprise brands in retail, travel, and other sectors. This consortium data model enables cross-merchant pattern recognition and faster identification of emerging fraud threats, and is a core component of the Predictive Yes Platform's signal intelligence.",
+            "name": "Consortium of 500+ Enterprise Brands",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            }
+          },
+          {
+            "announced_on": {
+              "day": 13,
+              "month": 12,
+              "year": 2024
+            },
+            "description": "Stuart Mann, Accertify's Director of Fraud & Account Protection, was re-elected to the MRC Global Board of Directors. The MRC is a global non-profit membership association for payments and fraud prevention professionals, providing strategic leadership and governance across North America, Europe, APAC, and LATAM to support eCommerce safety and profitability.",
+            "name": "Merchant Risk Council (MRC)",
+            "source": [
+              "https://www.accertify.com/resource/accertifys-stuart-mann-re-elected-to-merchant-risk-council-global-board-of-directors/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            },
+            "uuid": "0005okl"
+          },
+          {
+            "announced_on": {
+              "day": 10,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "CIFAS data referenced in Accertify's Q&A with Cyber Magazine: CIFAS reported that UK fraud cases reached a record 444,000 in 2025 (approximately 1,200 reports per day), with nearly half of identified suspects aged 21 or younger. CIFAS is the UK's fraud prevention service used to share fraud intelligence across industries.",
+            "name": "CIFAS",
+            "source": [
+              "https://cybermagazine.com/news/accertify-ai-fraud-and-the-rise-of-cybercrime-marketplaces"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            },
+            "uuid": "0008dii"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Accertify was acquired and carved out from American Express by private equity firm Accel-KKR, establishing independent ownership and enabling standalone commercial strategy.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ],
+            "type": {
+              "code": "divestiture",
+              "label": "Divestiture"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Launched the Predictive Yes Platform, a unified risk decisioning technology connecting identity, behavioral, historical, and purchase signals across the full customer lifecycle, backed by $1.25T in annual commerce data.",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Appointed Greg Dukat as CEO alongside CSO Trey McCall, CMO Maryling Yu, MD EMEA Emma Lindley, and Global HR Head Sara Schroeder to lead next-phase growth.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ],
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "date": {
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Launched Attack State Intelligence, a new capability within Account Protection designed to detect and respond to coordinated login attacks, credential stuffing, and account takeover attempts in real time.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260313152197/en/Accertify-Introduces-Attack-State-Intelligence-to-Strengthen-Account-Protection-and-Detect-Coordinated-Login-Attacks"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 24,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Appointed Carleigh Jaques, former Visa SVP and Global Head of Risk & Identity Solutions, to the Board of Directors, adding payments and risk domain gravitas.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260224992205/en/Accertify-Appoints-Carleigh-Jaques-to-Board-of-Directors"
+            ],
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "date": {
+              "day": 4,
+              "month": 11,
+              "year": 2025
+            },
+            "description": "Entered a referral partnership with RegTech Solutions Pty Ltd to extend account protection capabilities into Australia's financial services sector, including superannuation, wealth, and investment platforms.",
+            "source": [
+              "https://en.prnasia.com/releases/apac/regtech-solutions-and-accertify-partner-to-strengthen-account-protection-for-australia-s-financial-services-sector-510131.shtml"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Accertify was acquired and carved out from American Express by private equity firm Accel-KKR in 2024, enabling the company to operate as an independent entity focused on AI-driven lifecycle intelligence and expanding its global footprint.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ],
+            "title": "Carve-out from American Express",
+            "type": {
+              "code": "divestiture",
+              "label": "Divestiture"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Accertify appointed Greg Dukat as CEO along with executive additions including Trey McCall (Chief Sales Officer), Maryling Yu (Chief Marketing Officer), Emma Lindley (Managing Director EMEA and Chief Development Officer), and Sara Schroeder (Global Head of Human Resources) to fuel the company's next phase of growth following its 2024 acquisition and carve-out from American Express by private equity firm Accel-KKR.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ],
+            "title": "CEO Appointment and Executive Expansion",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "Accertify appointed Carleigh Jaques to its Board of Directors, effective immediately. Jaques brings more than 20 years of leadership experience in fraud, payments, risk, and digital identity, including a distinguished 15-year tenure at Visa Inc., most recently serving as Senior Vice President and Global Head of Risk & Identity Solutions.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260224992205/en/Accertify-Appoints-Carleigh-Jaques-to-Board-of-Directors"
+            ],
+            "title": "Carleigh Jaques Board Appointment",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "RegTech Solutions referral partnership (announced 2025-11-04) opens the Australian financial services vertical — superannuation, wealth managers, investment platforms — a regulated sector with high-value fraud prevention budgets. Strategic intent: leverage partnership GTM to enter a vertical without building direct sales infrastructure.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "Registered office presence across UK, Spain, Australia, Mexico, and India, plus active participation in regional industry events (MRC Melbourne 2026, FraudCon 2026 Sydney, MAG Payments Summit London), signals deliberate EMEA and APAC expansion following the 2024 Accel-KKR carve-out.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "Launch of the Predictive Yes Platform (May 2026) and Attack State Intelligence (March 2026), plus the Passwordless Suite (April 2025) and Returns and Abuse Protection, represents platform surface expansion into adjacent fraud domains — from payment fraud into account protection, authentication, and returns abuse — increasing wallet share per customer.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Executive team expansion (CSO, CMO, MD EMEA, Global HR Head) plus appointment of Carleigh Jaques (former Visa SVP Risk & Identity) to the board in 2026 indicates deliberate go-to-market buildout — likely scaling sales capacity to capture the 24% YoY client growth into accelerated enterprise wins.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          },
+          {
+            "description": "Salesforce Commerce Cloud integration via AppExchange Marketplace (purpose-built, tested integration) signals an indirect-channel/partnership GTM buildout to accelerate merchant onboarding in the Salesforce commerce ecosystem — a non-trivial distribution expansion beyond direct field sales.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Addition of Marketplaces as an industry vertical on the website (post-2024) plus explicit multi-vendor/seller-fraud use cases signals productization for two-sided marketplace platforms — a customer segment with distinct fraud economics from single-sided retail.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Accertify is a privately held, PE-backed (Accel-KKR, since 2024 carve-out from American Express) enterprise fraud prevention and risk management platform founded in 2007, headquartered in Itasca, Illinois, with operations across North America, EMEA, APAC, and LATAM and 501–1,000 employees. The company positions itself as a unified lifecycle risk decisioning provider serving some of the world's largest brands (including United Airlines, Walmart, Marks & Spencer, Sportsbet, Target Australia, and Fnac Darty), processing more than 10 billion transactions and protecting roughly $5.8 billion in attempted fraud annually. Its differentiated go-to-market is built around a consortium data model in which 98% of clients contribute anonymized fraud intelligence, giving Accertify a cross-merchant signal advantage that compounds as its client base grows 24% year over year.",
+        "strengths": [
+          {
+            "details": "With 98% of clients already contributing fraud intelligence and the client base expanding 24% YoY, each new enterprise brand materially strengthens detection accuracy for the entire network. As the consortium grows, marginal fraud detection improvement per new client accelerates, raising switching costs and supporting both win-rates and pricing power against incumbents like Visa and Mastercard.",
+            "headline": "Consortium network effect compounds with 24% YoY client growth",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ]
+          },
+          {
+            "details": "Account Protection events grew 49.7% YoY to 1.63 billion, while Attack State and the Passwordless Suite expand the platform beyond transaction fraud into login, account takeover, and authentication. This positions Accertify to capture a share of the broader identity-and-access fraud and authentication market, layering additional ARR on top of the existing fraud-detection footprint.",
+            "headline": "Account Protection platform opens new $5B+ adjacent TAM",
+            "source": [
+              "https://www.accertify.com/the-accertify-platform/account-protection/"
+            ]
+          },
+          {
+            "details": "As autonomous shopping agents erode traditional device and behavioral signals, smaller point solutions built on legacy signal stacks will lose accuracy. Accertify's multi-model orchestration (ML, graph networks, sequential transformers) and 10B+ transaction dataset give it a defensible position to develop agent-aware risk models and win business displaced from weaker vendors.",
+            "headline": "Agentic AI disruption favors sophisticated incumbent platforms",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/01/257388-safeguarding-autonomous-ai-agents-accertifys-conrad-kennington-discusses-issues-opportunities/"
+            ]
+          },
+          {
+            "details": "The RegTech Solutions partnership in Australia signals a push into financial services (superannuation, wealth, investment platforms), and the company maintains offices in the UK, Spain, Australia, with operations spanning India and Mexico. Each new vertical and region extends the consortium's data diversity, which directly improves model performance across the existing client base.",
+            "headline": "Financial services and EMEA expansion drive geographic and vertical diversification",
+            "source": [
+              "https://en.prnasia.com/releases/apac/regtech-solutions-and-accertify-partner-to-strengthen-account-protection-for-australia-s-financial-services-sector-510131.shtml"
+            ]
+          },
+          {
+            "details": "Following the 2024 Accel-KKR carve-out, Accertify rebuilt leadership with operators from Visa (board), and executives recruited from outside the prior AmEx structure. Combined with PE capital and aggressive event/conference marketing (MRC Vegas, London, Melbourne, FraudCon), this points to an accelerated land-and-expand motion in 2026–2027.",
+            "headline": "PE-backed commercial intensity and fresh executive team accelerate market share gain",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Visa and Mastercard continue embedding risk decisioning (e.g., Visa Risk Manager, Mastercard Decision Intelligence) directly into card-network rails, often at no incremental cost to merchants. As these offerings mature, Accertify faces structural pricing pressure and renewal erosion, particularly among merchants who view fraud as a commodity feature rather than a specialized capability.",
+            "headline": "Card network incumbents bundle fraud and squeeze margins",
+            "source": [
+              "https://www.businesswire.com/news/home/20260224992205/en/Accertify-Appoints-Carleigh-Jaques-to-Board-of-Directors"
+            ]
+          },
+          {
+            "details": "Conrad Kennington (Accertify's VP of AI/ML) has publicly acknowledged that autonomous agents eliminate traditional browser, device, and behavioral signals. If agent-driven traffic scales rapidly, the consortium's historical signal value could degrade, forcing costly model re-architecture and creating a window of lower detection accuracy that competitors can exploit.",
+            "headline": "Agentic commerce erodes core signal-based moat",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/01/257388-safeguarding-autonomous-ai-agents-accertifys-conrad-kennington-discusses-issues-opportunities/"
+            ]
+          },
+          {
+            "details": "Accel-KKR's typical 3–5 year hold window means an exit transaction is likely within the next 1–3 years. This could pressure Accertify to prioritize short-term ARR growth over product depth, accept a discounted strategic sale that undervalues the platform, or face a down-round financing if public-market comparables (e.g., Riskified's share-price trajectory) weaken.",
+            "headline": "PE exit timing may force premature strategic decisions",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ]
+          },
+          {
+            "details": "Anchored customer logos include multiple global airlines (United, JetBlue, Southwest, Ryanair, Volaris, WestJet) and discretionary retail brands. A travel downturn, pandemic-style disruption, or retail squeeze would simultaneously reduce transaction volume and increase fraud-loss pressure, compressing revenue and customer ROI in tandem.",
+            "headline": "Concentration in airlines and discretionary retail exposes to cyclical shocks",
+            "source": [
+              "https://www.accertify.com/"
+            ]
+          },
+          {
+            "details": "Riskified, Sift, and Forter continue to raise capital and pour investment into AI-driven fraud models. Although Accertify's consortium dataset is a structural advantage, a sustained R&D spend gap from venture-backed competitors could narrow product differentiation over time, particularly in newer attack surfaces like agentic commerce.",
+            "headline": "Venture-backed competitors outpace innovation spend",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Consortium data from 10B+ annual transactions and $1.25T in commerce across hundreds of enterprise brands, with 98% of clients sharing anonymized fraud signals — a scale of cross-merchant intelligence that competitors without comparable installed bases cannot replicate quickly.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Consortium model creates compounding intelligence value: as the client base grows (24% YoY), each merchant benefits from fraud signals observed across the broader network, creating a self-reinforcing moat that strengthens with scale.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "Multi-product platform spanning account protection, fraud detection, returns abuse, payment optimization, 3DS, chargeback management, and passwordless authentication — integrated into merchant workflows with API-level customization, creating significant operational switching friction.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Proprietary multi-model orchestration architecture combining rules engines, supervised ML, graph networks, and sequential transformers, plus industry-specific models calibrated to retail, travel, ticketing, iGaming, and financial services verticals.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "19-year operating history with marquee enterprise logos (Walmart, United Airlines, Marks & Spencer, Ticketmaster, DraftKings, Target Australia) and deep MRC/industry association positioning provides channel and reference-customer advantages in enterprise sales cycles.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Leadership team includes a dedicated VP of AI/ML (Conrad Kennington), Director of Fraud & Account Protection (Stuart Mann) re-elected to MRC Global Board, and recently appointed board member Carleigh Jaques (former Visa SVP Risk & Identity) — concentrated domain expertise in payments risk.",
+            "type": {
+              "code": "talent_moat",
+              "label": "Talent Moat"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Accertify competes against large network incumbents (Visa, Mastercard, American Express) integrating fraud into card rails and well-funded venture-backed competitors (Sift, Riskified, Forter, Signifyd, Stripe Radar). Network incumbents can bundle fraud at marginal cost, pressuring standalone pricing and renewal economics.",
+            "headline": "Highly competitive market with deep-pocketed network incumbents and well-funded pure-plays",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ]
+          },
+          {
+            "details": "Accertify sells exclusively through direct enterprise field sales targeting large global merchants with a consultative 'Request a Demo' motion. This produces long sales cycles, heavy S&M spend, and lumpier revenue recognition compared to self-serve or channel-led competitors.",
+            "headline": "Enterprise sales motion creates long cycles and high customer acquisition costs",
+            "source": [
+              "https://www.accertify.com/"
+            ]
+          },
+          {
+            "details": "Customer logo concentration in airlines (United, JetBlue, Southwest, Ryanair, Volaris, WestJet) and retail (Walmart, Target Australia, Marks & Spencer) ties revenue to discretionary travel and consumer spending cycles, which have historically been disrupted by macro events.",
+            "headline": "Sector concentration in travel and retail exposes revenue to cyclical shocks",
+            "source": [
+              "https://www.accertify.com/"
+            ]
+          },
+          {
+            "details": "Accel-KKR's typical 3–5 year PE hold cycle creates implicit pressure for growth-at-all-costs investment, an exit event (sale, secondary buyout, or IPO), and aggressive commercial metrics. This can divert focus from product depth or create churn risk during ownership transitions.",
+            "headline": "PE ownership horizon creates exit pressure and potential strategic constraints",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ]
+          },
+          {
+            "details": "Accertify's own VP of AI/ML publicly noted that autonomous shopping agents eliminate traditional fraud signals such as browser data and device signals. As agentic commerce grows, the company's behavioral and device intelligence moat could erode faster than new agent-aware models can be developed.",
+            "headline": "Emerging AI-agent commerce threatens core signal architecture",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/01/257388-safeguarding-autonomous-ai-agents-accertifys-conrad-kennington-discusses-issues-opportunities/"
+            ]
+          },
+          {
+            "details": "Accertify does not disclose pricing tiers, revenue, ARR, or margin data publicly. While this is normal for a PE-backed private company, it limits third-party diligence and benchmarking against public peers such as Riskified.",
+            "headline": "Limited pricing transparency and no public financial disclosures",
+            "source": [
+              "https://www.accertify.com/client-privacy/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "The Predictive Yes Platform leverages data from over 10 billion transactions and $1.25 trillion in commerce processed annually. 98% of Accertify clients share anonymized fraud intelligence across hundreds of enterprise brands, creating a self-reinforcing data moat that smaller competitors cannot easily replicate.",
+            "headline": "Massive consortium data scale of 10B+ transactions and $1.25T commerce processed annually",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ]
+          },
+          {
+            "details": "Customer results include Sportsbet cutting fraud losses by 80%+ YoY and chargebacks by 82%+, Target Australia reducing chargebacks by 71% while maintaining 99% frictionless journeys, Guitar Center decreasing fraud losses 62% and increasing prevented fraud 106% YoY, and United Airlines raising win rate by 40%+. Customer logos include Walmart, United Airlines, Marks & Spencer, Ticketmaster, DraftKings, and JetBlue.",
+            "headline": "Demonstrated enterprise-grade outcomes with marquee global brands",
+            "source": [
+              "https://www.accertify.com/"
+            ]
+          },
+          {
+            "details": "Accertify's client base expanded 24% year over year in 2025, indicating accelerating enterprise adoption of its unified risk decisioning platform and a meaningful shift toward identity-plus-fraud consolidation in the merchant market.",
+            "headline": "Strong top-of-funnel momentum with 24% YoY client base growth",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ]
+          },
+          {
+            "details": "Account Protection events grew 49.7% year over year to 1.63 billion events spanning logins, account changes, session behavior, and bot activity. This signals significant upsell traction beyond core transaction fraud detection into the full customer lifecycle.",
+            "headline": "Account Protection product scaling rapidly at 49.7% YoY event growth",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ]
+          },
+          {
+            "details": "Cyber Week 2025 handled 107 million transactions, $12.9 billion in commerce, and a peak of 2,708 transactions per second. This level of throughput and reliability under peak holiday load is a key qualification for enterprise merchants evaluating fraud vendors.",
+            "headline": "Proven scale with proven technical performance",
+            "source": [
+              "https://www.accertify.com/3ds/"
+            ]
+          },
+          {
+            "details": "Accertify was carved out from American Express by Accel-KKR in 2024, with new executive leadership including CEO Greg Dukat, CSO Trey McCall, and CMO Maryling Yu added to drive an aggressive growth phase. Board member Carleigh Jaques (formerly SVP at Visa) adds senior industry credibility.",
+            "headline": "Strategic PE sponsorship by Accel-KKR provides growth capital and operating expertise",
+            "source": [
+              "https://www.businesswire.com/news/home/20260114431605/en/Accertify-Appoints-CEO-and-Expands-Executive-Team-to-Fuel-Next-Phase-of-Growth"
+            ]
+          },
+          {
+            "details": "Industry-specific machine learning models are calibrated for retail, travel, ticketing, iGaming, and financial services, embedding vertical-native signals (e.g., impossible route detection for airlines, deposit cycling for iGaming) that generic cross-industry models cannot match.",
+            "headline": "Vertical-specialized AI models create differentiation versus horizontal fraud vendors",
+            "source": [
+              "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Publicly-traded fraud prevention platform focused on e-commerce chargeback guarantee and AI-driven risk decisioning. Directly comparable to Accertify's core fraud detection and chargeback management offerings for enterprise merchants.",
+            "name": "Riskified",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000b4d"
+          },
+          {
+            "description": "AI-based fraud prevention provider offering real-time decisioning for enterprise retailers and travel merchants. Competes head-to-head with Accertify across retail, travel, and digital commerce verticals.",
+            "name": "Forter",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003id"
+          },
+          {
+            "description": "Digital trust and safety SaaS platform providing fraud, abuse, and content integrity decisioning. Comparable to Accertify in machine-learning-driven account protection and payment fraud prevention for online businesses.",
+            "name": "Sift",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a2a"
+          },
+          {
+            "description": "Provider of guaranteed fraud protection and abuse prevention for enterprise e-commerce. Directly comparable on chargeback management and identity-based decisioning for large merchants.",
+            "name": "Signifyd",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002xb"
+          },
+          {
+            "description": "AI-native risk operations platform serving banks, payments processors, and merchants with fraud and AML. Competes with Accertify on AI-driven transaction monitoring and account protection for enterprise customers.",
+            "name": "Feedzai",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000004m"
+          },
+          {
+            "description": "Equifax-owned fraud prevention platform offering identity, device, and AI-based risk decisioning. Overlaps with Accertify's core fraud detection but operates as part of Equifax's broader data and analytics portfolio.",
+            "name": "Kount (Equifax)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000x38"
+          },
+          {
+            "description": "Adaptive behavioral analytics fraud and financial crime platform serving banks, payments, and merchants. Comparable to Accertify's Account Protection and machine-learning risk scoring capabilities.",
+            "name": "Featurespace",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000084o"
+          },
+          {
+            "description": "AI-powered fraud and AML platform using unsupervised machine learning and graph analytics. Closely comparable to Accertify's graph-network fraud ring detection capabilities.",
+            "name": "DataVisor",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00007a4"
+          },
+          {
+            "description": "Fraud prevention feature of Stripe's payments platform serving millions of businesses from SMB to enterprise. Competes with Accertify for merchants who prefer integrated payment-fraud bundles over a standalone platform.",
+            "name": "Stripe Radar",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "Visa's portfolio of risk and identity products, including Visa Risk Manager and Decision Intelligence, embedded in card-network rails. Represents the structural incumbent threat to standalone fraud vendors like Accertify.",
+            "name": "Visa Risk Solutions",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00007cz"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "company_id": "C01",
+  "company": "Loomvale Systems",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 141500,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 527,
+        "end": 582
+      },
+      "quote": "September MRR came in at $141.5K, up from $118K in June",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 1698000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 584,
+        "end": 609
+      },
+      "quote": "which puts ARR at $1.698M",
+      "confidence": 0.9
+    },
+    "monthly_burn": {
+      "value": 172000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 391,
+        "end": 441
+      },
+      "quote": "Net burn averaged $172K a month across the quarter",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 8390000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 339,
+        "end": 389
+      },
+      "quote": "which takes cash on hand to $8.39M at September 30",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 48,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 443,
+        "end": 490
+      },
+      "quote": "so runway is roughly 48 months at current spend",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 19,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 676,
+        "end": 731
+      },
+      "quote": "Team is 19 people after five hires, mostly engineering.",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 52,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 611,
+        "end": 675
+      },
+      "quote": "We added 11 net new brokerages and now have 52 paying customers.",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Best quarter to date: MRR grew from $118K to $141.5K, 11 net new customers, and a $6M seed extension closed at a $48M post-money",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 201,
+        "end": 239
+      },
+      "quote": "Short version: best quarter we've had.",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Customer concentration and renewal risk: two of the top five customers renew in Q1, and one of them is being acquired",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C01_loomvale_2026-10-06.txt",
+      "source_span": {
+        "start": 760,
+        "end": 835
+      },
+      "quote": "two of our top five customers renew in Q1 and one of them is being acquired",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,1691 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0002azl&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:09.301Z",
+  "data": {
+    "total": 11,
+    "limit": 20,
+    "offset": 0,
+    "count": 11,
+    "data": [
+      {
+        "id": 40915350,
+        "title": "Labelbox Raises Over $100M to Expand AI Training and Enterprise Agents",
+        "url": "https://www.citybiz.co/article/919857/labelbox-raises-over-100m-to-expand-ai-training-and-enterprise-agents/",
+        "publisher": "citybiz",
+        "published_date": "2026-10-16T10:17:39",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing led by Infinitum Partners. The company will use the funds to expand its reinforcement learning infrastructure and enterprise AI agent business, serving over 400 customers including most leading U.S. AI labs.",
+        "word_count": 352,
+        "original_language": "EN",
+        "author": "Win Warfield",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000209",
+            "name": "products and services"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "manu sharma"
+          ],
+          "location": [
+            "u.s.",
+            "ames research park",
+            "international space station"
+          ],
+          "product": [
+            "horizon",
+            "dronedeploy",
+            "recursion managed agents"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "San Francisco-based Labelbox has raised more than $100 million in Series E financing led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and other investors. The company seeks to expand its reinforcement learning infrastructure and enterprise AI agent business, as developers seek ways to improve models beyond their initial training.\nLabelbox has developed two principal products. One called Horizon provides reinforcement learning environments and evaluation infrastructure for AI labs, letting models practice multistep tasks, receive feedback, and improve performance. The second, Recursion Managed Agents, targets enterprise customers. The company’s platform allows businesses to deploy groups of AI agents within existing applications, initiating tasks in response to schedules, alerts, and tickets.\n“Every company will soon run on AI systems that learn from their own work. Getting there takes innovation at every layer, from sandbox infrastructure and the agent harness to reinforcement learning post-training. Labelbox brings those layers together in one platform, and this funding lets us push each one further, so that frontier labs and enterprises can build AI that gets better with every run,” said Manu Sharma, co-founder and CEO of Labelbox.\nSharma’s career has spanned aerospace engineering, robotics and software platforms. Before co-founding Labelbox, Sharma worked as a product manager at Planet Labs from 2017 to 2018, helping develop software for analyzing satellite imagery. As an early engineer at DroneDeploy, from 2014 to 2017, he worked on drone flight-control systems and the company’s application marketplace.\nEarlier, Sharma co-founded Ardulab, also known as Infinity Aerospace, at NASA Ames Research Park. The venture developed open-source laboratory platforms for conducting scientific experiments aboard the International Space Station.\nLabelbox said it serves more than 400 customers, including over 90% of leading U.S. AI labs. The company also uses more than 50 agents internally across engineering, research, product, sales, marketing and finance. It opened Recursion Managed Agents to enterprise customers earlier in October, extending a platform it previously used internally.\nAs AI developers seek to improve model reliability and close the gap between benchmark performance and real-world execution, Labelbox’s strategy combines training infrastructure with managed agents, potentially linking model development to enterprise deployment."
+      },
+      {
+        "id": 40938791,
+        "title": "Labelbox Raises $100M+ In Series E Funding Round",
+        "url": "https://superbcrew.com/labelbox-raises-100m-in-series-e-funding-round/",
+        "publisher": "SuperbCrew",
+        "published_date": "2026-10-16T08:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox closed a Series E round exceeding $100 million, led by Infinitum Partners, at a $1.25 billion pre-money valuation. The capital will fund its Horizon reinforcement learning platform and Recursion Managed Agents, with a credit facility included. The company reports profitability in 2026 and over 400 customers.",
+        "word_count": 1044,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000378",
+            "name": "investments"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5132",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "brian rieger",
+            "dan rasmuson",
+            "manu sharma",
+            "john yetimoglu",
+            "piper ashton"
+          ],
+          "location": [
+            "san francisco",
+            "u.s."
+          ],
+          "product": [
+            "horizon",
+            "claude",
+            "transformers",
+            "worldsim",
+            "recursion managed agents",
+            "rlhf"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "S The latest The latest Claude.ai model helps you tackle complex reasoning, design and data processing, perform in-depth analysis, and write code. Labelbox Raises $100M+ In Series E Funding Round\n\nS SuperbCrew is a trusted resource for discovering innovative companies, emerging startups, and the latest technology trends. Labelbox closed a Series E round exceeding $100 million, led by Infinitum Partners, to scale its Horizon reinforcement learning platform for AI labs and Recursion Managed Agents for enterprises. Labelbox raised more than $100 million in Series E financing at a $1.25 billion pre money valuation. The round combines equity with a credit facility and was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and others. The capital will accelerate research and engineering on the company’s two core products, Horizon (reinforcement learning environments and evaluation tools for frontier AI labs) and Recursion Managed Agents (enterprise agents that operate inside existing business applications and improve with every run), along with expansion of the teams that deliver them to customers. Access to compute is positioned as central to the next phase; Infinitum’s John Yetimoglu, an early Groq investor now involved in large scale compute infrastructure at GroqCloud, brings relevant experience. Labelbox, founded in 2018 in San Francisco by Manu Sharma (CEO), Brian Rieger, and Dan Rasmuson, has progressed through three distinct chapters: Data chapter : Tools for capturing expert judgment and converting it into high quality training data. Many large technology companies still use the platform for enterprise post training programs.\n\n: Tools for capturing expert judgment and converting it into high quality training data. Many large technology companies still use the platform for enterprise post training programs. Environments chapter : After the rise of transformers and RLHF, Labelbox built Horizon so frontier models could practice real work rather than learn only from static examples. The company now works with more than 90% of leading U.S. AI labs and hyperscalers.\n\n: After the rise of transformers and RLHF, Labelbox built Horizon so frontier models could practice real work rather than learn only from static examples. The company now works with more than 90% of leading U.S. AI labs and hyperscalers. Agents chapter: Models can perform real work, but traditional assistants still require constant human direction. Labelbox first built autonomous agents for its own operations (more than 50 agents now run across engineering, research, product, sales, marketing, and finance) then opened the system to external customers as Recursion Managed Agents in early October 2026. The company reports more than 400 customers spanning frontier labs, hyperscalers, startups, and Fortune 500 firms. It reached profitability in 2026 while growing more than fivefold year over year. Horizon: Reinforcement Learning Infrastructure for Frontier Labs Horizon supplies RL environments, expert feedback, and evaluation infrastructure for post training frontier models. Its WorldSim component constructs realistic simulated companies filled with code, dashboards, spreadsheets, decks, and documents. Models attempt multi step tasks end to end; every step is recorded as a trajectory. Deterministic verifiers score correctness consistently, while expert preference signals teach “taste” when multiple trajectories succeed. The platform operates at the scale of thousands of worlds and millions of graded trajectories, covering coding, computer use, research, multimodal, and voice domains, tuned to labs’ pass@k targets. Recursion Managed Agents: Enterprise Agents That Improve Themselves Recursion Managed Agents receive a goal, a trigger (schedule, alert, Slack message, webhook, or API call), and a rubric defining quality. A separate grader scores every run against the rubric and supplies evidence; agents revise when they fall short. Agents operate in multi agent (coordinator + specialists), team (parallel copies on a shared board), or auto modes. They connect to more than 100 business applications and any MCP server, with tools scoped by permission level and credentials held in a vault. Sessions run in isolated sandboxes with zero data retention at LLM providers. Compliance includes SOC 2 Type II, GDPR, CCPA, NIST 800-171, and PCI DSS. Pricing is per agent session hour. Internally, Labelbox runs 51 agents across 11 teams. In one documented example, a pull request review agent reduced median cost 32% across successive graded reviews while maintaining quality, with memory updated multiple times. Memory is curated automatically (once five new session reports exist, and at most once per hour) and remains reviewable and editable by customers. Both Horizon and Recursion rest on the same underlying principle: systems that improve from their own work through reflection on prior sessions, curated memory, and the ability to fine tune on their best outputs. Labelbox owns the full stack, agent harness for long horizon work, sandbox infrastructure running millions of VMs, its own RL post training systems, and an expert network of more than 4 million people, allowing the layers to be co-designed and optimized together. Recommended: Hard Count – The First Book In The Piper Ashton Saga Prior equity funding totaled approximately $188.9 million: Seed (2018): $3.9 million\n\nSeries A (2019): $10 million\n\nSeries B (2020): $25 million (led by a16z)\n\nSeries C (2021): $40 million\n\nSeries D (January 2022): $110 million (led by SoftBank Vision Fund II, valuation near or at $950 million–$1 billion range) The Series E marks the first major equity raise in more than four and a half years and lifts the pre money valuation to $1.25 billion. The inclusion of a credit facility alongside equity is consistent with a profitable, rapidly growing company seeking to fund infrastructure and compute without excessive dilution. The raise underscores a broader industry shift from pure model scale toward systems that learn continuously from real work and experience. Labelbox sits at the intersection of RL post training infrastructure (serving the frontier labs that set the capability frontier) and production agent platforms (serving enterprises that must operationalize those capabilities inside existing tools and workflows). Profitability combined with 5x+ growth provides a strong foundation; the new capital and compute relationships position the company to expand both product depth and go to market reach simultaneously. Labelbox’s internal use of its own agents as a live proving ground, its ownership of the full technology stack, and its deep penetration among leading AI labs give it a distinctive position as the field moves from static training data and one shot assistants toward recursive, self improving AI systems. Please email us your feedback and news tips at hello(at)superbcrew.com"
+      },
+      {
+        "id": 40884638,
+        "title": "Weekly Startup Funding Roundup: Ramp Raises USD 1.85 B, Labelbox Secures Over USD 100M, Ultra Receives USD 62M",
+        "url": "https://www.analyticsinsight.net/news/weekly-startup-funding-roundup-ramp-raises-usd-185-b-labelbox-secures-over-usd-100m-ultra-receives-usd-62m",
+        "publisher": "Analytics Insight",
+        "published_date": "2026-10-16T07:15:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Ramp raised $1.85B at a $60B valuation, Zenzap secured $44M, North.cloud raised $60M, Labelbox over $100M, and Ultra $62M. The companies aim to deploy AI agents and automate operations, with Labelbox targeting profitability in 2026.",
+        "word_count": 583,
+        "original_language": "EN",
+        "author": "Somatirtha Manisha Sharma",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "AI Application Enablement Platforms (Copilot/Agent Frameworks, SDKs)",
+            "code": "HDAEANAJ",
+            "is_primary": false
+          },
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000c3",
+            "name": "Thrive Capital",
+            "website": "http://thrivecap.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000g6",
+            "name": "Founders Fund",
+            "website": "http://www.foundersfund.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002a2b",
+            "name": "Avenir",
+            "website": "http://avenirgrowth.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00yhedt",
+            "name": "Sands Capital",
+            "website": "https://sandscapitalventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00067eo",
+            "name": "Zenzap",
+            "website": "https://zenzap.co",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000ere",
+            "name": "North.cloud",
+            "website": "https://north.inc",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000pp",
+            "name": "Ramp",
+            "website": "https://ramp.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00009mu",
+            "name": "Dragoneer Investment Group",
+            "website": "https://www.dragoneer.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "manisha sharma",
+            "somatirtha"
+          ],
+          "location": [
+            "united states"
+          ],
+          "product": [
+            "whatsapp"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14361209,
+        "full_text": "News Weekly Startup Funding Roundup: Ramp Raises USD 1.85 B, Labelbox Secures Over USD 100M, Ultra Receives USD 62M The Weekly Startup Funding Roundup covers major investments in Ramp, Zenzap, North.cloud, Labelbox and Ultra, highlighting fresh capital for AI-powered financial tools, enterprise infrastructure, workplace software and warehouse robotics.\n\nWritten By: Somatirtha Reviewed By: Manisha Sharma\n\n\n\n\n\n\n\n\n\nCopied The latest funding rounds involving Ramp, Zenzap, North.cloud, Labelbox, and Ultra highlight investor interest in financial automation, AI infrastructure, enterprise software, and warehouse robotics. The companies are raising capital to manage costs, deploy AI agents, and automate business operations. Ramp Raises USD 1.85 Billion at USD 60 Billion Valuation Fintech startup Ramp raised USD 1.85 billion in a funding round led by Dragoneer Investment Group, valuing the firm at USD 60 billion. Other co-heads involved were Thrive Capital, Founders Fund, Sands Capital and Avenir Growth, along with Fidelity Management & Research Company, T. Rowe Price, GIC and Coatue. Established in 2019, Ramp is a provider of corporate cards and expense management technology. Ramp supports over 85,000 companies, with annual purchase volume exceeding USD 275 billion and growing 175% year over year. Reports say the firm generates more than USD 2 billion in annualized revenue and positive cash flow. Ramp has secured over USD 5 billion in equity financing and plans to introduce AI technology to manage costs. Zenzap Secures USD 44 Million for AI Workplace Tools Zenzap has raised USD 44 million in a Series B round led by both Bessemer Venture Partners and Lightspeed Venture Partners, with The Garage participating. It is an AI-driven workplace collaboration tool that lets employees collaborate with AI assistants . This financing will help develop its products, expand AI assistants' capabilities, hire new developers and salespeople, and expand its global presence. According to Zenzap, it has thousands of clients in retail and hospitality, among other sectors. North.cloud Raises USD 60 Million in Series B North.cloud secured USD 60 million in Series B funding led by PeakSpan Capital, with participation from Litquidity Ventures, Companyon Ventures, Alpaca, Gaingels and other investors. The company is developing an autonomous financial operations platform to help businesses control cloud, data and AI expenses. North.cloud is approaching USD 2 billion in managed cloud spending and says it has helped customers save more than USD 400 million. The new capital will support integrations, AI cost optimization, and team expansion. Also Read: Weekly Startup Funding Roundup: AI, Robotaxis and Consumer Brands Attract Big Money Labelbox Raises Over USD 100 Million Labelbox, an infrastructure company focused on artificial intelligence (AI), secured over USD 100 million in Series E funding. The round combined equity investment and a credit line. Infinitum Partners led the round, with investments from Wipro Ventures, Andreessen Horowitz, B Capital, and others. Labelbox has over 400 clients and works with over 90% of top AI labs in the United States. The company announced it will be profitable in 2026 and achieved over five times year-over-year growth. The funds will support reinforcement learning infrastructure and enterprise AI agents. Ultra Raises USD 62 Million for Warehouse Robotics Ultra, a robotics startup, raised USD 62 million across funding rounds, including USD 50 million in a Series A led by Framework Ventures and an earlier USD 12 million in a seed round. Y Combinator participated in the funding round. The company provides AI-powered warehouse robots that pack and fulfill orders via a robot-as-a-service model. It has already processed over 500,000 orders. Join our WhatsApp Channel to get the latest news, exclusives and videos on WhatsApp"
+      },
+      {
+        "id": 40807065,
+        "title": "Labelbox Raises Over $100 Million in Series E Funding",
+        "url": "https://www.startupresearcher.com/news/labelbox-raises-over-100-million-in-series-e-funding",
+        "publisher": "Startup Researcher",
+        "published_date": "2026-10-15T14:47:13",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing led by Infinitum Partners, with participation from Wipro Ventures, a16z, and others. The company reached profitability in 2026 and grew more than fivefold year over year. The funding will support research and engineering for its Horizon and Recursion Managed Agents products.",
+        "word_count": 554,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "manu sharma"
+          ],
+          "location": [
+            "u.s."
+          ],
+          "product": [
+            "horizon",
+            "recursion managed agents"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Labelbox, an AI platform supporting reinforcement learning for frontier models and managed agents for enterprises, has announced more than US$100 million in Series E financing. The round includes both equity and a credit facility and was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and others. The company disclosed the funding alongside news that it reached profitability in 2026 while growing more than fivefold year over year.\nFunding and Growth\nLabelbox works with more than 400 customers, including over 90% of leading U.S. AI labs, hyperscalers, startups, and Fortune 500 companies. The Series E financing will support continued research and engineering across Horizon and Recursion Managed Agents, as well as expansion of the teams bringing these products to customers. The company also plans to deepen its work with leading AI labs and hyperscalers on post-training programs.\nPlatform Approach\nAs AI models become capable of performing increasingly complex tasks, the next challenge is enabling them to learn from experience and reliably execute work in real-world environments. Labelbox is addressing this opportunity through two core products, Horizon and Recursion Managed Agents. Horizon focuses on reinforcement learning and evaluation for frontier labs, while Recursion Managed Agents supports enterprise fleets of agents that improve with every run.\nHorizon for Frontier Labs\nHorizon provides reinforcement learning environments, expert feedback, and evaluation infrastructure that help AI labs train and improve frontier models. Its environments simulate complex, multi-step work across coding, research, and other demanding tasks, enabling models to practice, receive feedback on their performance, and improve through reinforcement learning. Labelbox works with leading AI labs and hyperscalers on post-training programs that rely on these structured practice environments.\nRecursion Managed Agents\nRecursion Managed Agents enables companies to deploy fleets of AI agents inside the applications their teams already use. Agents can initiate work in response to schedules, alerts, tickets, and other triggers, coordinate across tools, and have their output evaluated against defined standards. Each completed run can inform the agent's memory, helping it improve how it approaches future tasks without manual retraining.\nLeadership Perspective\n\"Every company will soon run on AI systems that learn from their own work,\" said Manu Sharma, CEO and co-founder of Labelbox. He noted that getting there takes innovation at every layer, from sandbox infrastructure and the agent harness to reinforcement learning post-training. Sharma added that Labelbox brings those layers together in one platform, and this funding lets the company push each one further so that frontier labs and enterprises can build AI that gets better with every run.\nEnterprise Adoption\nLabelbox already uses more than 50 agents internally across functions including engineering, research, product, sales, marketing, and finance. Earlier this month, the company opened Recursion Managed Agents to enterprise customers, extending its approach to continuous improvement beyond AI research labs. The platform lets enterprises deploy fleets of agents that coordinate across tools, respond to triggers such as schedules and tickets, and improve with every run.\nWith this Series E funding, Labelbox aims to help both frontier labs and enterprises build AI systems that learn from their own work and improve over time. The company combines agent infrastructure, sandbox environments, and reinforcement learning post-training systems to support the development and deployment of AI systems across demanding real-world tasks. Its profitability, fivefold year-over-year growth, and expanding customer base signal rising demand for AI platforms that enable continuous learning and reliable execution."
+      },
+      {
+        "id": 40801664,
+        "title": "Startup Funding News Today, October 15, 2026: Modal, Labelbox, OMass Therapeutics, Skeleton Technologies & More",
+        "url": "https://techstartups.com/2026/10/15/startup-funding-news-today-october-15-2026-modal-labelbox-omass-therapeutics-skeleton-technologies-more/",
+        "publisher": "TechStartups",
+        "published_date": "2026-10-15T13:29:46",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6246,
+        "ai_summary": "Over $1.51 billion in funding flowed into 10 startups over 24 hours, led by Modal's $750 million Series D at a $15.75 billion valuation. OMass Therapeutics raised $310 million for hormonal and autoimmune treatments, while Skeleton Technologies secured over $100 million in Siemens-led financing. The activity reflects investor focus on AI infrastructure and specialized technologies.",
+        "word_count": 6151,
+        "original_language": "EN",
+        "author": "Nickie Louise",
+        "countries": [
+          "USA",
+          "GBR",
+          "EST",
+          "FRA",
+          "IND"
+        ],
+        "industries": [
+          {
+            "name": "Technology & Software Growth Equity",
+            "code": "FSANACAA",
+            "is_primary": true
+          },
+          {
+            "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+            "code": "HDAAAAAA",
+            "is_primary": false
+          },
+          {
+            "name": "Sector-Focused Venture Capital (Vertical Specialists)",
+            "code": "FSANAAAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00003rf",
+            "name": "Salience Labs",
+            "website": "http://saliencelabs.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "006id9k",
+            "name": "Duvo",
+            "website": "https://www.duvo.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000x",
+            "name": "Accel",
+            "website": "http://www.accel.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000y5t",
+            "name": "Dougs Compta",
+            "website": "https://www.dougs.fr/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000xk",
+            "name": "Kleiner Perkins",
+            "website": "https://www.kleinerperkins.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000bmc",
+            "name": "Skeleton Technologies",
+            "website": "http://www.skeletontech.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00004zo",
+            "name": "Modal Labs",
+            "website": "https://modal.com ",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005tg",
+            "name": "OMass Therapeutics",
+            "website": "https://omass.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008so",
+            "name": "Harmonic Security",
+            "website": "https://www.harmonic.security",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "525990",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "erik bernhardsson",
+            "professor dame carol robinson",
+            "alastair paterson",
+            "bryan woolgar-o’neil"
+          ],
+          "location": [
+            "france",
+            "oxford",
+            "india",
+            "u.s.",
+            "european",
+            "san francisco",
+            "united states",
+            "california",
+            "oxford, united kingdom",
+            "united kingdom",
+            "silicon valley",
+            "germany",
+            "estonia",
+            "tallinn",
+            "the united states",
+            "lyon",
+            "bengaluru",
+            "china",
+            "new york",
+            "london",
+            "japan",
+            "massachusetts",
+            "boston",
+            "europe",
+            "north america",
+            "asia"
+          ],
+          "product": [
+            "oms1620",
+            "sandboxes",
+            "doordash",
+            "horizon platform",
+            "labelbox",
+            "rohlik",
+            "scinode"
+          ],
+          "event": [
+            "ecoc 2026"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14296803,
+        "full_text": "0 Shares\n\nMore than $1.51 billion in newly announced funding transactions flowed into 10 major startups over the past 24 hours, alongside a separate €50 million investment in France. The biggest deals reveal a venture market financing two very different priorities: the infrastructure needed to run artificial intelligence at scale and specialized technologies that can solve expensive problems in healthcare, manufacturing, energy, and enterprise operations. San Francisco-based Modal led the day’s funding activity with a $750 million Series D at a $15.75 billion valuation, after reporting that its annualized revenue run rate surpassed $1 billion. Oxford biotech startup OMass Therapeutics secured $310 million to advance experimental treatments for hormonal and autoimmune diseases. Meanwhile, European energy-storage company Skeleton Technologies raised more than $100 million in Siemens-led financing, becoming a unicorn as it expands into the U.S. AI data center market. The activity extends across several layers of the AI economy. Salience Labs raised $125 million to commercialize optical networking chips that connect increasingly large GPU clusters. Labelbox announced more than $100 million in financing for reinforcement learning and enterprise AI agents. Harmonic Security secured $50 million to address the security risks created by employee AI use, while Duvo raised $32 million to automate operational processes across retailers and consumer-goods companies. Beyond AI software, India’s Scimplify raised $25 million to expand specialty-chemical and critical-materials production, with Hitachi Ventures leading the investment. France’s Dougs secured €50 million to accelerate AI-based accounting services. Boston-based Tamr raised $21 million to improve the fragmented enterprise data that increasingly autonomous AI systems depend on. The broader signal is that investors are financing the systems that make AI commercially useful, not just the models themselves. That includes computing capacity, optical networking, energy management, reliable data, security controls, and industry-specific execution. The 10 selected transactions represent more than $1.513 billion in disclosed dollar-denominated financing, plus €50 million. This is a headline transaction total, not a pure equity total: Labelbox’s financing includes a credit facility, while Skeleton’s transaction has not been fully broken down between primary investment and possible secondary share purchases. Those distinctions matter when measuring how much new capital actually enters startup balance sheets. The Macro Environment: AI Infrastructure Spending Meets a Growing Demand for Financial Discipline The latest funding activity arrives as venture investors confront an increasingly complicated AI economy. Demand for AI computing continues to grow, but the financial requirements of building and operating that infrastructure are becoming harder to ignore. GPU clusters require enormous capital commitments, substantial electricity supplies, specialized networking, and increasingly sophisticated workload-management systems. That creates opportunities for companies such as Modal, Salience Labs, and Skeleton Technologies. Each addresses a different constraint in the same market: Modal provides computing infrastructure developers can access without managing their own GPU clusters; Salience is developing optical switches to improve communication between processors; and Skeleton is building energy-storage systems designed to manage sudden fluctuations in data-center electricity demand. The distinction matters because AI infrastructure economics extend far beyond GPU prices. A data center can own expensive accelerators and still operate inefficiently because of networking bottlenecks, power fluctuations, poor utilization, or software overhead. Growing evidence also suggests public-market investors are becoming more sensitive to those costs. Shares of AI cloud provider CoreWeave fell sharply on October 14 amid concerns about borrowing costs and the sustainability of debt-financed infrastructure expansion. Financial Times reporting has also highlighted a slowdown in AI-related debt issuance as lenders become more selective. That does not mean private investors are abandoning AI infrastructure. Modal’s $750 million financing shows strong, ongoing demand for businesses that can turn compute into commercial revenue. But it suggests investors may increasingly distinguish between companies with demonstrated customer demand and infrastructure projects whose financial returns depend on uncertain future utilization. Outside computing infrastructure, OMass Therapeutics and Scimplify show that substantial capital remains available for difficult scientific and industrial problems. OMass is financing clinical development, where success ultimately depends on generating convincing evidence that experimental medicines work safely in patients. Scimplify is building a distributed manufacturing network for chemicals and critical materials, where customer qualification and production consistency determine commercial value. Those risks differ significantly from software economics. Yet both investments reflect a willingness to fund businesses whose capabilities require years of research, specialized facilities, regulatory expertise, and operating experience. The day’s enterprise software rounds introduce another important theme: AI is moving from experimentation into operational responsibility. Labelbox, Harmonic Security, Duvo, Tamr, and Dougs address different consequences of that transition, from reinforcement learning and agent execution to data accuracy, security, and regulated professional services. Together, the announcements suggest investors are looking beyond whether AI can perform a task. They increasingly want to know whether companies can deploy it reliably, measure its performance, control its risks, and generate durable revenue. Modal raises $750M in funding to expand AI infrastructure as annualized revenue run rate tops $1B San Francisco-based Modal raised $750 million in Series D financing at a $15.75 billion post-money valuation, led by Accel. Kleiner Perkins joined the investor base, while existing investors Menlo Ventures, General Catalyst, Redpoint, Lux Capital, Amplify Partners, and Bain Capital Ventures participated. The financing follows a $355 million Series C announced five months earlier. Modal disclosed the latest round on October 14 alongside a major operating milestone: the company says its annualized revenue run rate has surpassed $1 billion, with usage tripling since May and year-over-year growth exceeding 15x. Founded by Erik Bernhardsson, Modal provides cloud infrastructure designed around workloads that increasingly define AI development and deployment. Its platform supports model inference, training, reinforcement learning, and isolated computing environments in which AI agents can execute code. Instead of requiring developers to manage GPU servers, container infrastructure, scheduling systems, and networking, Modal provides software interfaces that let developers allocate computing resources as needed. The company says its infrastructure spans more than 20 cloud providers. Customers include DoorDash, Cognition, Ramp, Linear, Hebbia, Runway, and companies developing robotics and drug-discovery applications. A billion-dollar run rate changes the investment case Modal’s financial milestone is important, but the terminology deserves attention. Annualized revenue run rate is not the same as annual recurring revenue. A run rate extrapolates current revenue activity into an annual figure. It does not necessarily represent contractual commitments that customers will maintain for the next 12 months. That distinction matters most for usage-based infrastructure businesses, where customer spending can fluctuate with workloads and demand. Modal also reports that its Sandboxes product, which provides isolated environments for executing code, has reached a $300 million annualized run rate. The product has become especially relevant as coding agents generate and execute more software. For investors, Modal represents a bet that the next major software infrastructure category will be built around AI workloads rather than traditional application hosting. Its competitive position depends on developer experience, workload efficiency, reliability, pricing, and the ability to manage computing capacity across different providers. However, the company faces substantial competition from established cloud platforms and specialized AI infrastructure providers. The biggest question is whether its software architecture can maintain attractive margins as customers demand lower inference costs and greater computing capacity. Funding Details Startup: Modal\n\nInvestors: Accel, Kleiner Perkins, Menlo Ventures, General Catalyst, Redpoint, Lux Capital, Amplify Partners, Bain Capital Ventures\n\nAmount Raised: $750 million\n\nTotal Raised: At least $1.105 billion across the latest two rounds; full lifetime total not independently reconciled\n\nFunding Stage: Series D\n\nFunding Date: October 14, 2026\n\nHeadquarters: San Francisco, California, United States\n\nSector: AI infrastructure/cloud computing/developer tools\n\nValuation: $15.75 billion post-money OMass Therapeutics raises $310M in funding to advance treatments for hormonal and autoimmune diseases Oxford-based OMass Therapeutics raised $310 million (£230 million) in an oversubscribed Series C financing, co-led by Bain Capital Life Sciences, Forbion, and Novo Holdings. Additional investors include Janus Henderson Investors, SV Health Investors, and Jefferson Life Sciences. Existing shareholders Syncona, Oxford Science Enterprises, GV, Northpond Ventures, Sanofi Ventures, British Business Bank, and the University of Oxford also participated. OMass is a biotechnology company developing small-molecule medicines for diseases involving difficult biological targets. The company originated from research conducted in Professor Dame Carol Robinson’s laboratory at the University of Oxford. Its drug-discovery platform combines native mass spectrometry, specialized biochemistry, and chemistry techniques to study proteins and their interactions in biologically relevant environments. The goal is to identify medicines that can act on targets that have historically been difficult to address. Investors are financing clinical evidence, not simply scientific discovery The largest portion of OMass’s new financing will support development of OMS1620, an experimental medicine targeting the melanocortin-2 receptor. The company is developing the drug for congenital adrenal hyperplasia and ACTH-dependent Cushing’s syndrome, conditions involving abnormal hormone regulation. OMass plans to advance the medicine through Phase 2 clinical development. It will also use the financing to support an experimental SLC15A4 inhibitor intended for lupus and other diseases associated with abnormal immune signaling. The investment is significant because OMass is moving toward clinical milestones that could establish whether its scientific approach produces meaningful therapeutic benefits. That creates a different risk profile from AI software. A promising discovery platform can identify potential medicines, but clinical trials must establish safety and efficacy in patients. Even substantial financing cannot eliminate that uncertainty. The participation of Bain Capital Life Sciences, Forbion, Novo Holdings, and established biotechnology investors indicates confidence in the company’s pipeline and research approach. Still, the next material valuation events will likely depend on clinical data rather than funding announcements. For founders, OMass illustrates the importance of financing long-duration scientific programs around specific technical milestones. For investors, it represents a bet that differentiated biology can support valuable medicines even in a market where clinical development remains expensive and uncertain. Funding Details Startup: OMass Therapeutics\n\nInvestors: Bain Capital Life Sciences, Forbion, Novo Holdings, Janus Henderson Investors, SV Health Investors, Jefferson Life Sciences, Syncona, Oxford Science Enterprises, GV, Northpond Ventures, Sanofi Ventures, British Business Bank, University of Oxford\n\nAmount Raised: $310 million (£230 million)\n\nTotal Raised: Not disclosed on a fully reconciled lifetime basis\n\nFunding Stage: Series C\n\nFunding Date: October 15, 2026\n\nHeadquarters: Oxford, United Kingdom\n\nSector: Biotechnology/drug discovery/endocrinology/immunology\n\nValuation: Not disclosed Salience Labs raises $125M in funding to scale optical networking chips for AI data centers Oxford-based Salience Labs raised $125 million in Series B financing led by Bullhound Capital. AMD Ventures, Intel Capital, SBI Group, Hudson River Trading, and British Business Bank joined the round. Existing shareholders Applied Ventures, Oxford Science Enterprises, Cambridge Innovation Capital, and Silicon Catalyst Ventures also participated. Salience develops photonic chips designed to improve communication inside AI data centers. The technology addresses a problem that becomes more significant as computing clusters grow. Thousands of GPUs may need to communicate across multiple racks while training or running increasingly complex AI models. Traditional electrical networking systems can introduce limitations involving bandwidth, latency, energy consumption, and the cost of moving data. Salience is developing optical circuit switches that use light to connect computing resources. Its architecture is designed to improve connectivity while reducing overhead associated with conventional switching infrastructure. AI computing is becoming a networking problem Salience recently demonstrated a 64-port optical circuit switch at ECOC 2026. The company plans to develop larger 128-port and 256-port products while expanding manufacturing capabilities. Its technology draws on more than a decade of research associated with the University of Oxford and the University of Münster. The investment’s strategic significance is reinforced by AMD Ventures and Intel Capital’s participation. Both investors operate in industries directly affected by the growing complexity of AI computing infrastructure. For investors, Salience offers exposure to AI growth without requiring the company to compete in the GPU market itself. As computing clusters grow, the network connecting processors can influence overall system performance and cost. However, optical networking technologies must meet demanding commercial requirements. Salience will need to demonstrate manufacturing yields, reliability, integration with existing infrastructure, and measurable economic advantages. The company also faces competition from established networking vendors and other photonics startups. Its ability to move from a successful demonstration into high-volume production will determine whether the technology becomes a commercially significant part of AI infrastructure. Funding Details Startup: Salience Labs\n\nInvestors: Bullhound Capital, AMD Ventures, Intel Capital, SBI Group, Hudson River Trading, British Business Bank, Applied Ventures, Oxford Science Enterprises, Cambridge Innovation Capital, Silicon Catalyst Ventures\n\nAmount Raised: $125 million\n\nTotal Raised: Not disclosed on a fully reconciled basis\n\nFunding Stage: Series B\n\nFunding Date: October 14, 2026\n\nHeadquarters: Oxford, United Kingdom\n\nSector: AI infrastructure/silicon photonics / optical networking\n\nValuation: Not disclosed Skeleton Technologies secures over $100M in Siemens-led investment to expand AI data center energy systems Estonian energy-storage company Skeleton Technologies secured more than $100 million in Siemens-led financing, valuing it at over $1 billion. The company disclosed the investment on October 14, alongside a strategic partnership with Siemens focused on AI data center infrastructure. The exact financing amount was not disclosed. Skeleton described the transaction as a nine-digit investment, while Bloomberg reported it exceeded $100 million. The transaction includes a broader strategic relationship involving Siemens’s investment and rights to commercialize Skeleton technology. A separate shareholder disclosure also identified a partial secondary stake sale to Siemens, meaning the precise amount of fresh primary capital cannot be determined from the public announcements. Skeleton develops energy-storage systems based on supercapacitors and its proprietary Curved Graphene material. Unlike conventional batteries, which are designed primarily to store large amounts of energy for extended periods, supercapacitors can respond extremely quickly to changing power demands. That capability is becoming relevant to AI data centers. GPU clusters can shift between operating states in milliseconds, creating abrupt changes in electricity consumption. Those fluctuations can stress electrical infrastructure and complicate efficient operation of large computing systems. Skeleton’s products are designed to manage rapid power changes close to computing workloads. Siemens is buying access to a data center infrastructure category Skeleton says its technology can deliver energy savings of up to 40% in certain applications and improve GPU performance by double-digit percentages. Those are company-reported performance claims, not independently established results across all AI data centers. The Siemens partnership matters because it offers a potential route into major industrial and hyperscale infrastructure projects. Siemens plans to integrate Skeleton’s products into its broader electrical infrastructure offering, and the companies are collaborating on AI data center technologies. Skeleton intends to invest more than $200 million in manufacturing expansion and research activities in Silicon Valley. That figure represents planned expenditure, not the amount Siemens is newly investing. The company is also planning U.S. manufacturing capacity that would support production from energy-storage cells through complete systems. For investors, Skeleton represents a way to participate in AI infrastructure growth through electricity management. Its competitive advantage may depend more on material science, manufacturing capability, system integration, and customer relationships than on software alone. Remaining questions include commercial margins, manufacturing expansion costs, customer concentration, and whether performance improvements translate into attractive economics for data center operators. Funding Details Startup: Skeleton Technologies\n\nInvestors: Siemens-led strategic investment; complete syndicate not disclosed\n\nAmount Raised: More than $100 million; precise amount and primary-secondary allocation not disclosed\n\nTotal Raised: Not fully disclosed on a comparable basis\n\nFunding Stage: Strategic growth financing\n\nFunding Date: October 14, 2026\n\nHeadquarters: Tallinn, Estonia; substantial operations in Germany and the United States\n\nSector: AI data center infrastructure/energy storage / advanced materials\n\nValuation: More than $1 billion Labelbox raises over $100M in funding to expand reinforcement learning and enterprise AI agents San Francisco-based Labelbox announced more than $100 million in Series E financing, led by Infinitum Partners. Wipro Ventures, Andreessen Horowitz, B Capital, Tau Ventures, Snowpoint Ventures, and other investors participated. The financing combines equity with a credit facility. Labelbox did not disclose the size of each component. That distinction matters because the full announced amount should not be treated as new equity investment. Labelbox originally built its business around data-labeling tools used in machine learning. Its current strategy extends into two related markets: improving frontier AI models through reinforcement learning and helping enterprises deploy AI agents. The company’s Horizon platform provides training environments, feedback, and evaluation systems that allow AI models to practice complex tasks. Its Recursion Managed Agents product helps businesses deploy agents that operate within existing applications. Reinforcement learning is becoming commercial infrastructure As AI models improve, developers increasingly need ways to evaluate whether those models can complete complicated tasks across multiple steps. A model that performs well on a benchmark may still fail when it needs to operate business software, follow procedural constraints, or respond to unexpected situations. Reinforcement learning environments can help developers test and improve those capabilities. Labelbox says it works with more than 400 customers, including major U.S. AI laboratories. The company also reports reaching profitability in 2026 while growing more than fivefold year over year. Those are company-reported figures. The financing suggests investors see continued demand for the tools and environments required to improve AI systems after their initial training. However, Labelbox operates in a market where frontier AI developers are also investing heavily in internal training and evaluation infrastructure. Its commercial position will depend on the quality of its evaluation environments, customer relationships, proprietary data, and ability to deliver measurable improvements. The company must also demonstrate that its enterprise agent business can scale without excessive implementation and support costs. Funding Details Startup: Labelbox\n\nInvestors: Infinitum Partners, Wipro Ventures, Andreessen Horowitz, B Capital, Tau Ventures, Snowpoint Ventures and others\n\nAmount Raised: More than $100 million, including equity and a credit facility\n\nTotal Raised: Not disclosed on a fully reconciled basis\n\nFunding Stage: Series E financing\n\nFunding Date: October 14, 2026\n\nHeadquarters: San Francisco, California, United States\n\nSector: AI infrastructure/reinforcement learning/enterprise agents\n\nValuation: Not disclosed Dougs raises €50M to bring AI automation into regulated accounting services French accounting technology company Dougs raised €50 million from Expedition Growth Capital, an existing investor. Based in Lyon, Dougs provides accounting, legal, and financial management services directly to small businesses. The startup says it serves more than 50,000 businesses and generates more than €50 million in annual recurring revenue. Unlike software vendors that sell accounting tools to professional firms, Dougs operates as the accounting service provider itself. Founded in 2015, Dougs has developed proprietary software to automate bookkeeping and financial administration. The company employs more than 100 engineers and has accumulated extensive operating information from preparing financial statements and tax filings. Its next objective is to use AI agents to complete more of the accounting process, with qualified accountants reviewing and approving the results. The company’s regulatory status and professional responsibilities are central to its business model. Automation is changing the economics of professional services Dougs says its technology-enabled operations generate gross margins above 80%. That is an unusually high figure for a company delivering accounting services, although the reported margin should be evaluated in the context of the company’s accounting policies and cost classifications. Dougs also says it has been profitable since inception. Its growth strategy is particularly interesting because it combines software automation with professional accountability. A customer does not necessarily want an AI accounting tool. Customers want accurate financial statements, compliant filings, and reliable advice. Dougs aims to deliver that outcome directly, using automation to reduce the labor required for routine work. The investment case is therefore different from traditional accounting software. The company controls the customer relationship and the underlying service, while its technology may allow each accountant to support more businesses. That creates potential operating advantages, but it also introduces regulatory and quality-control responsibilities. For investors, the opportunity is to build a professional services business with more attractive software-like economics. The remaining challenge is proving that automation can improve productivity without weakening accuracy or the professional oversight customers require. Funding Details Startup: Dougs\n\nInvestors: Expedition Growth Capital\n\nAmount Raised: €50 million\n\nTotal Raised: At least €75 million across its disclosed 2023 and 2026 investments\n\nFunding Stage: Growth investment; formal round designation not disclosed\n\nFunding Date: October 15, 2026\n\nHeadquarters: Lyon, France\n\nSector: Fintech/accounting technology/enterprise AI\n\nValuation: Not disclosed Harmonic Security raises $50M in funding to address the security risks of workplace AI adoption Harmonic Security raised $50 million in Series B financing led by Crosspoint Capital Partners, bringing total funding to $76 million. Existing investors also participated. The company announced the financing on October 14 and plans to expand its engineering and commercial teams in the United States and United Kingdom. Founded in 2023 by Alastair Paterson and Bryan Woolgar-O’Neil, Harmonic develops software that helps enterprises monitor and control how employees use AI applications. The problem is growing as workers adopt chatbots, coding assistants, desktop AI tools, and autonomous agents. Employees may share confidential documents with external systems, use personal accounts for business tasks, or allow agents to access information outside approved workflows. Traditional security tools were not necessarily designed to interpret the context of AI interactions. Harmonic uses specialized smaller language models to analyze AI activity and identify potentially sensitive behavior. Security is becoming a requirement for enterprise AI expansion The company’s approach differs from simply blocking AI applications. Businesses increasingly want employees to use AI because of potential productivity benefits. The challenge is allowing useful applications while reducing the risk of sensitive information exposure. Harmonic aims to provide visibility into which tools employees use, what tasks they perform, and where additional controls are needed. That creates an investment opportunity because enterprises must address AI security alongside broader adoption. However, Harmonic faces competition from established cybersecurity vendors and newer companies developing AI-specific security products. Its differentiation will depend on detection accuracy, policy enforcement, compatibility with different AI systems, and whether customers can deploy the software without disrupting legitimate work. For investors, the financing reflects confidence that security spending will increasingly follow AI usage rather than remain separate. Funding Details Startup: Harmonic Security\n\nInvestors: Crosspoint Capital Partners and existing investors\n\nAmount Raised: $50 million\n\nTotal Raised: $76 million\n\nFunding Stage: Series B\n\nFunding Date: October 14, 2026\n\nHeadquarters: United States and United Kingdom\n\nSector: Cybersecurity/enterprise AI security/data protection\n\nValuation: Not disclosed Duvo raises $32M in funding to automate complex retail and enterprise operations Duvo raised $32 million in Series A funding led by Balderton Capital, with participation from Index Ventures, Northzone, and Credo Ventures. The financing brings total funding to $48 million. Duvo announced the round on October 14 and plans to expand its enterprise AI business, initially focusing on retailers and consumer packaged goods companies. Duvo develops AI agents designed to execute operational processes across business software. Many companies use separate systems for inventory, purchasing, supplier communications, financial management, and customer operations. Employees often spend considerable time moving information between those systems. Duvo attempts to automate that work by connecting to enterprise resource planning systems, supplier portals, spreadsheets, email, and other applications. Its technology can capture existing business processes and then execute approved steps while referring exceptions to human employees. Enterprise AI must work across existing systems The investment reflects growing interest in AI systems that do more than provide answers. Retailers and manufacturers operate complicated businesses where information is distributed across software platforms and external partners. An AI agent that can reliably execute an approved process may provide measurable value by reducing errors, delays, or administrative work. Duvo’s founder has experience building technology businesses, including online grocer Rohlik. That background matters because the startup targets operational problems that software vendors often underestimate. The company’s challenge is making automation reliable across environments where business rules and exceptions vary significantly between customers. Investors will need to evaluate implementation time, customer retention, recurring revenue, and the level of technical support each deployment requires. Duvo must also compete with established enterprise software vendors developing their own agent capabilities. Its opportunity lies in managing processes that span multiple systems rather than staying within a single application. Funding Details Startup: Duvo\n\nInvestors: Balderton Capital, Index Ventures, Northzone, Credo Ventures\n\nAmount Raised: $32 million\n\nTotal Raised: $48 million\n\nFunding Stage: Series A\n\nFunding Date: October 14, 2026\n\nHeadquarters: New York and London operations\n\nSector: Enterprise AI/workflow automation / retail technology\n\nValuation: Not disclosed Scimplify raises $25M in funding to expand critical-materials manufacturing beyond China Indian industrial technology startup Scimplify raised $25 million in an all-equity strategic financing led by Hitachi Ventures. Industrial companies Henkel and Teknor Apex joined as investors, while existing backers Accel India, Bertelsmann India Investments, Omnivore, and 3one4 Capital participated. The investment brings Scimplify’s total equity funding to $80 million. Founded in 2023 and based in Bengaluru, Scimplify develops and manufactures specialty chemicals and critical materials. Its customers operate in sectors including semiconductors, defense, energy, and industrial manufacturing. The company combines internal scientific research with a network of manufacturing partners. When a customer needs a specialized material, Scimplify develops the production process and identifies appropriate manufacturing facilities. Its proprietary Scinode platform uses AI to support research, manufacturing coordination, quality control, and regulatory requirements. Supply-chain diversification is becoming an investment thesis Scimplify’s opportunity is connected to growing demand for alternative sources of strategically important materials. Manufacturers are seeking to reduce dependence on concentrated supply chains, particularly for chemicals and materials used in advanced industrial applications. Scimplify says it works with a network of more than 500 manufacturing facilities, with approximately 90% of its manufacturing currently taking place in India. The company plans to expand its network into the United States and Japan. Its investors include industrial customers, which may help validate demand and provide insight into commercial requirements. TechCrunch reported that the financing valued Scimplify at approximately $250 million post-money, citing a person familiar with the transaction. The company declined to confirm that valuation, so it should be treated as reported rather than officially disclosed. Scimplify’s long-term competitive advantage will depend on scientific expertise, manufacturing relationships, product qualification, and customer trust. AI may help accelerate the work, but the company’s ability to deliver materials consistently and economically remains the central investment question. Funding Details Startup: Scimplify\n\nInvestors: Hitachi Ventures, Henkel, Teknor Apex, Accel India, Bertelsmann India Investments, Omnivore, 3one4 Capital\n\nAmount Raised: $25 million, all equity\n\nTotal Raised: $80 million in equity financing\n\nFunding Stage: Strategic equity financing; formal stage not disclosed\n\nFunding Date: October 14, 2026\n\nHeadquarters: Bengaluru, India\n\nSector: Industrial technology/specialty chemicals / critical materials\n\nValuation: Approximately $250 million post-money, according to TechCrunch’s source; not confirmed by the company Tamr raises $21M in funding to improve enterprise data quality for AI applications Boston-based Tamr raised $21 million in growth equity financing led by Volition Capital, with participation from existing investors. Tamr plans to use the financing to expand its AI-based data management technology and support enterprises deploying increasingly autonomous applications. Founded in 2013 from research associated with MIT’s Computer Science and Artificial Intelligence Laboratory, Tamr develops software that helps companies identify, connect, and clean fragmented records. Large enterprises often maintain different versions of customer, supplier, product, and operational information across multiple systems. Those inconsistencies create problems for ordinary business processes. They become more significant when AI agents use the same information to make recommendations or execute tasks. An AI system may produce technically sophisticated output while relying on outdated, duplicated, or incorrectly matched records. Tamr uses machine learning and other techniques to identify relationships between records and create more consistent enterprise data. Reliable data is becoming part of AI infrastructure Tamr’s financing highlights a less visible consequence of enterprise AI adoption. Businesses cannot depend on increasingly autonomous systems if the underlying information is unreliable. For example, an AI procurement agent must distinguish between different supplier entities, contracts, locations, and payment records. Incorrect data can lead to operational mistakes even when the agent performs its assigned steps correctly. Tamr is positioning its technology as part of the data infrastructure required for enterprise AI. The company says its SaaS revenue more than doubled during its previous fiscal year. That claim indicates commercial momentum but does not disclose absolute revenue or profitability. For investors, Tamr’s potential advantage comes from its enterprise integrations, accumulated data-management expertise, and the difficulty of replacing software embedded in business-critical workflows. However, the company competes with established data-management vendors and cloud providers developing their own AI-assisted data products. The investment thesis will depend on whether Tamr can demonstrate that better data quality produces measurable improvements in business outcomes and AI reliability. Funding Details Startup: Tamr\n\nInvestors: Volition Capital and existing investors\n\nAmount Raised: $21 million\n\nTotal Raised: Not disclosed on a fully reconciled basis\n\nFunding Stage: Growth equity\n\nFunding Date: October 14, 2026\n\nHeadquarters: Boston, Massachusetts, United States\n\nSector: Enterprise AI/data management/master data management\n\nValuation: Not disclosed What Today’s Funding Activity Reveals Today’s funding activity is notable for both its size and the diversity of problems investors are financing. Modal’s $750 million Series D accounts for nearly half of the disclosed dollar-denominated transaction total. That concentration is important. Interpreting the aggregate as evidence that every segment of the venture market is experiencing equally strong demand would be misleading. Nevertheless, the remaining rounds reveal several meaningful patterns. First, the AI infrastructure market is developing distinct investment categories. Modal operates at the computing software layer. Salience is developing photonic networking hardware. Skeleton is building energy systems to manage changes in data-center electricity demand. These companies benefit from the same broad expansion in AI computing, but their commercial models and technical risks differ considerably. Modal must manage usage-based infrastructure economics. Salience must manufacture reliable optical switches at scale. Skeleton must deliver measurable electrical performance and expand industrial production. Their presence in the same funding report illustrates how AI demand is creating opportunities across the infrastructure supply chain. Second, enterprise AI is moving toward execution and accountability. Labelbox is building training and evaluation environments. Duvo is developing agents that execute operational processes. Harmonic Security is helping businesses control employee AI usage. Tamr is improving the information those systems depend on. Dougs is combining AI automation with professional responsibility for accounting services. The emerging investment thesis is that AI’s commercial value increasingly depends on whether it can operate inside real business processes. Third, established industry relationships are becoming more important. Siemens’s investment in Skeleton provides a connection to major electrical infrastructure customers. Scimplify’s industrial investors include companies that understand its manufacturing requirements. Dougs already serves tens of thousands of businesses through a regulated professional services model. These relationships can provide distribution and operating advantages that new competitors can’t quickly reproduce. Fourth, investors remain willing to finance expensive scientific development when the opportunity is differentiated. OMass’s $310 million round shows that substantial biotech capital remains available for companies approaching important clinical milestones. Salience and Skeleton also require meaningful investment in manufacturing, testing, and engineering. Their investors are accepting technical and commercialization risks that differ from conventional software startups. Fifth, the valuation signals are selective rather than universal. Modal disclosed a $15.75 billion valuation. Skeleton crossed $1 billion. Scimplify’s reported $250 million valuation remains unconfirmed by the company. Most other startups did not disclose valuation information. That makes it difficult to infer a general change in private-market pricing from today’s announcements alone. Sixth, funding structures deserve closer attention. Labelbox’s more-than-$100-million financing combines equity and a credit facility. Skeleton’s Siemens-related investment sits alongside a disclosed secondary share transaction. Both examples show why headline transaction values should not automatically be interpreted as fresh operating capital. Finally, geographic distribution has improved under the expanded reporting period. The selected deals include companies headquartered or operating in the United States, United Kingdom, France, Estonia, and India. This does not imply that Asia experienced weak investment activity. Instead, the largest verified announcements in this 24-hour period were concentrated in North America and Europe, with Scimplify representing a significant Indian industrial investment. That is precisely why a global funding report should rank deals by significance rather than the time of day they appear. Startup Funding Table Startup Amount Raised Sector Funding Stage Lead/Key Investors Country Modal $750M AI infrastructure/cloud computing Series D Accel, Kleiner Perkins, Menlo Ventures, General Catalyst United States OMass Therapeutics $310M Biotechnology/drug development Series C Bain Capital Life Sciences, Forbion, Novo Holdings United Kingdom Salience Labs $125M Optical networking / AI infrastructure Series B Bullhound Capital, AMD Ventures, Intel Capital United Kingdom Skeleton Technologies More than $100M; exact amount undisclosed Data center energy storage Strategic growth financing Siemens Estonia Labelbox More than $100M, including a credit facility AI training/reinforcement learning/agents Series E financing Infinitum Partners, Wipro Ventures, a16z, B Capital United States Dougs €50M Accounting technology/enterprise AI Growth investment Expedition Growth Capital France Harmonic Security $50M Cybersecurity/enterprise AI protection Series B Crosspoint Capital Partners United States / United Kingdom Duvo $32M Enterprise AI/workflow automation Series A Balderton Capital, Index Ventures, Northzone, Credo Ventures United States / United Kingdom Scimplify $25M Industrial technology / critical materials Strategic equity financing Hitachi Ventures, Henkel, Teknor Apex, Accel India India Tamr $21M Enterprise data management / AI infrastructure Growth equity Volition Capital United States Strategic Takeaways for Founders and Investors 1. Infrastructure opportunities extend beyond GPU ownership Modal, Salience, and Skeleton address different constraints on AI computing. Their financing suggests investors see opportunities in making existing computing resources more efficient, reliable, and accessible. For founders, that opens possibilities in scheduling, networking, energy management, developer infrastructure, and specialized hardware. The important question is whether a product delivers measurable improvements in cost, reliability, or performance. 2. Revenue quality matters as much as revenue growth Modal’s reported $1 billion annualized run rate is an extraordinary operating milestone. But usage-based revenue must be evaluated differently from contractual recurring revenue. Investors should study customer concentration, workload volatility, gross margins, and how usage changes when customers optimize costs. The same principle applies to other infrastructure businesses where higher revenue can bring higher operating expenses. 3. Enterprise agents need reliable data and controls Duvo, Tamr, and Harmonic illustrate three related requirements. Agents must execute approved processes. They must use accurate information. And organizations need to control what those agents can access and do. For founders building enterprise AI, reliability and operational integration may become stronger selling points than model sophistication alone. 4. Professional accountability can become an advantage Dougs demonstrates a business model in which AI performs increasing amounts of work while qualified professionals remain responsible for the final result. That distinction may matter in accounting, legal services, healthcare administration, and other regulated industries. Founders who combine automation with trusted professional oversight may serve customers unwilling to rely entirely on autonomous systems. 5. Industrial relationships can accelerate commercialization Skeleton’s Siemens partnership and Scimplify’s investments from industrial customers provide more than financial support. They may create access to technical expertise, customer requirements, supply chains, and distribution. For deep-technology founders, an investor who can help a company manufacture and sell its product may be more valuable than one offering capital alone. 6. Biotechnology requires milestone-based financing OMass’s $310 million round provides resources to advance clinical programs rather than relying on repeated small financings during development. That approach can reduce financing interruptions, but it does not remove clinical risk. Investors should evaluate the milestones the capital is expected to finance and the evidence needed to support subsequent development. 7. AI training and evaluation are becoming separate commercial markets Labelbox’s financing indicates continued demand for the environments and feedback systems used to improve AI models. As agents handle more complicated tasks, developers need to evaluate complete workflows rather than isolated answers. The strongest companies in this category may build advantages from specialized environments, expert feedback, and long-standing relationships with AI developers. 8. Data quality can determine the value of AI investments Tamr’s business highlights an uncomfortable reality for enterprises: advanced AI models cannot compensate for consistently incorrect operating data. Founders building AI applications should account for entity resolution, record accuracy, data lineage, and system integration from the beginning. These capabilities may determine whether an agent can safely perform work in production. 9. Electricity management is becoming part of AI economics Skeleton’s financing reflects the growing importance of managing rapid changes in computing electricity demand. Data center economics depend on more than total energy consumption. Electrical stability, equipment efficiency, and the ability to use existing infrastructure effectively can influence operating costs. That creates opportunities for energy technology companies whose products improve computing performance without requiring additional generation capacity. 10. Large announced financing totals require financial interpretation Today’s rounds demonstrate why investors and journalists should separate equity, credit facilities, secondary transactions, valuation figures, and operating metrics. Those distinctions determine how much capital a company actually receives and what obligations may accompany it. They also help distinguish genuine business progress from impressive but incomplete headline figures. Conclusion October 15’s startup funding activity reveals a venture market still willing to make substantial commitments, but increasingly focused on the infrastructure and operating capabilities required to turn technology into economic value. Modal’s $750 million financing demonstrates investor confidence in AI computing infrastructure backed by significant reported usage. Salience and Skeleton are developing the networking and energy systems needed to support increasingly demanding GPU clusters. OMass shows that investors continue to finance difficult biotechnology research as programs advance toward clinical validation. Scimplify is building manufacturing capabilities in strategically important materials, while Dougs is combining AI automation with regulated professional services. Labelbox, Harmonic Security, Duvo, and Tamr are addressing another stage of AI adoption: the transition from applications that produce information to systems that perform work inside organizations. The deals differ in scale, maturity, and risk. Yet they share a common economic argument. As AI capabilities become more widely available, investors are placing substantial capital behind companies that control the infrastructure, data, industrial processes, and customer relationships required to make those capabilities useful. The next competitive advantage may come less from access to the most advanced technology and more from owning the systems that let it operate reliably, economically, and at scale. 0 Shares\n\n\n\n\n\n\n\n\n\nTrending Now"
+      },
+      {
+        "id": 40832787,
+        "title": "Labelbox Secures $100M+ Series E Round",
+        "url": "https://vcnewsdaily.com/labelbox/venture-capital-funding/jmhzjqfnjw",
+        "publisher": "VC News Daily",
+        "published_date": "2026-10-15T12:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing, led by Infinitum Partners with participation from Wipro Ventures, Andreessen Horowitz, and others. The company provides AI data, reinforcement learning infrastructure, and managed agent platforms, serving more than 400 customers including AI labs, hyperscalers, and Fortune 500 firms.",
+        "word_count": 153,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "518210",
+            "name": "Information"
+          },
+          {
+            "code": "518",
+            "name": "Information"
+          },
+          {
+            "code": "5182",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "san francisco, ca"
+          ],
+          "product": [
+            "labelbox"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Labelbox Secures $100M+ Series E Round Back to Home\n\nShare\n\nSAN FRANCISCO, CA, Labelbox today announced it has raised more than $100 million in Series E financing , including equity and a credit facility.\n\nLabelbox, the AI platform powering reinforcement learning for frontier models and managed agents for enterprises, today announced it has raised more than $100 million in Series E financing, including equity and a credit facility. The round was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and others.\n\n\n\nLabelbox provides the data, reinforcement learning infrastructure, and managed agent platform that help AI systems learn and perform real work. Its products support frontier AI labs developing more capable models and enterprises deploying AI agents across their operations. Labelbox serves more than 400 customers, including leading AI labs, hyperscalers, startups, and Fortune 500 companies.\n\n(c) by Massinvestor, Inc. For contact info, please check out our about page.\n\n\n\n\n\n"
+      },
+      {
+        "id": 40797752,
+        "title": "Labelbox Raises $100M+ Series E",
+        "url": "https://www.thesaasnews.com/news/labelbox-raises-100m-series-e/",
+        "publisher": "The SaaS News",
+        "published_date": "2026-10-15T08:37:09",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E funding led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz, and others. The company will use the capital to accelerate its Horizon product and Recursion Managed Agents platform, and has served over 400 customers.",
+        "word_count": 224,
+        "original_language": "EN",
+        "author": "Ben Murray",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "other",
+          "label": "Other"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "horizon"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Labelbox raises $100 million in Series E funding led by Infinitum Partners to advance its reinforcement learning and enterprise AI agent technology.\n\nLabelbox Raises $100M+ Series E\n\nLabelbox, a San Francisco-based AI platform specializing in reinforcement learning and managed agent infrastructure, has raised over $100 million in Series E funding. The financing, which includes both equity and a credit facility, supports the company as it advances its core technologies for AI labs and enterprise users.\n\nInvestors\n\nThe round was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, and Snowpoint Ventures.\n\nLabelbox Use of Funds\n\nThe company plans to use the new capital to accelerate the development of its Horizon product, which supports reinforcement learning for frontier models, and its Recursion Managed Agents platform. Additionally, the funding will support expanded research and engineering efforts and the growth of the teams responsible for these products.\n\nAbout Labelbox\n\nFounded to help AI systems learn and perform real work, Labelbox provides infrastructure for data, reinforcement learning, and managed agents. The platform serves more than 400 customers, including major AI labs, hyperscalers, and Fortune 500 enterprises, providing tools to build and deploy AI that improves through experience.\n\nFunding Details\n\nCompany Website: https://labelbox.com\n\nCompany: Labelbox\n\nRaised: $100M\n\nRound: Series E\n\nFunding Date: October 14, 2026\n\nLead Investor: Infinitum Partners\n\nAdditional Investors: Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures\n\nCompany Website: https://labelbox.com\n\nSoftware Category: Artificial Intelligence\n\nSource: https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html"
+      },
+      {
+        "id": 40790201,
+        "title": "Labelbox Raises $100M+ Series E at $1.25B Valuation to Advance RL and AI Agents",
+        "url": "https://www.unite.ai/labelbox-raises-100m-plus-series-e-at-1-25b-valuation-to-advance-rl-and-ai-agents/",
+        "publisher": "Unite.AI",
+        "published_date": "2026-10-14T21:37:18",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing at a $1.25 billion pre-money valuation, led by Infinitum Partners. The company reached profitability in 2026 and serves over 400 customers, including 90% of leading U.S. AI labs. The funds will support research and expansion of its Horizon and Recursion Managed Agents products.",
+        "word_count": 1029,
+        "original_language": "EN",
+        "author": "Evan Mercer",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "blog_post",
+          "label": "Blog post"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "81393",
+            "name": "Other Services (except Public Administration)"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "manu sharma",
+            "john yetimoglu",
+            "brian",
+            "dan",
+            "evan mercer"
+          ],
+          "location": [
+            "u.s.",
+            "united states"
+          ],
+          "product": [
+            "horizon",
+            "recursion managed agents",
+            "groqcloud",
+            "groq",
+            "dronedeploy"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Labelbox said on October 14, 2026, that it raised more than $100 million in Series E financing at a $1.25 billion pre-money valuation, in a round led by Infinitum Partners that combines equity with a credit facility. Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, and Snowpoint Ventures also participated, among others. Chief executive and co-founder Manu Sharma detailed the terms in a company blog post, and the company said the financing will support continued research and engineering across its two core products, Horizon and Recursion Managed Agents, as well as expansion of the teams bringing those products to customers. Sharma wrote that access to compute will be central to the company’s next chapter, noting that Infinitum’s John Yetimoglu was an early investor in Groq and is now involved in building large-scale compute infrastructure at GroqCloud. Company Position and History Labelbox stated that it reached profitability in 2026 while growing more than fivefold year over year. The company reports more than 400 customers, including over 90% of leading U.S. AI labs, and says its base spans frontier AI labs, hyperscalers, startups, and Fortune 500 companies. Sharma, Brian, and Dan founded Labelbox in 2018. In a founder’s note, Sharma wrote that he came to the United States to learn to design and build aircraft and rockets, working on computational fluid dynamics and neural networks, and that his later roles at DroneDeploy and Planet Labs showed him how much of the opportunity in machine learning sat in data. The post describes the company’s history in three chapters: training-data software for people building AI; reinforcement-learning environments built after what Sharma calls the ChatGPT moment, when the most capable models began improving by practicing real work; and agents, which the company built for itself first before opening the system to customers. Sharma also wrote that Labelbox builds each layer of its platform itself: an agent harness designed for ultra-long-horizon agents, sandbox infrastructure that runs millions of virtual machines, its own reinforcement-learning post-training infrastructure, and an expert network of more than 4 million people. Horizon Reinforcement-Learning Environments According to the company, Horizon’s WorldSim system builds simulated companies, with code, dashboards, spreadsheets, decks, and documents filled with realistic business data, in which a model attempts a difficult multi-step task end to end while every step is recorded as a trajectory. Deterministic verifiers score each trajectory the same way on every run, and when two trajectories are both correct, an expert’s preference teaches the model what Sharma calls taste. The company describes operating at a scale of thousands of worlds and millions of graded trajectories, tuned to a lab’s pass@k targets across coding, computer use, research, multimodal, and voice work. The Horizon product page lists domains that include autonomous AI research, agent coding and software engineering, multimodal knowledge work, voice with agentic tool use, computer use, and cybersecurity. Sharma wrote that Labelbox now works with 90% of the leading frontier AI labs and hyperscalers. Recursion Managed Agents The funding announcement states that Labelbox opened Recursion Managed Agents to enterprise customers earlier in October 2026. Under the product’s design, a Managed Agent receives a goal, a trigger such as a schedule, an alert, a Slack message, a webhook, or an API call, and a rubric defining what good work looks like. A separate grader agent scores every run against the rubric line by line and points to evidence for each call; when the work misses, the agent revises it. Agents can operate in three modes: multi-agent, in which a coordinator chains specialists that each carry their own model, instructions, tools, and permissions; team, in which copies of an agent split work on a shared board and check each other’s results; and auto, the default, in which the agent decides for itself when a job needs specialists or a team. The company says agents work across more than 100 business applications and any MCP server, with every tool scoped as read only, changes data, or destructive and credentials held in a vault so the model never sees them. Sessions run in isolated sandboxes, and Labelbox says the platform runs with zero data retention at every LLM provider. Its listed compliance program covers SOC 2 Type II, GDPR, CCPA, NIST 800-171, and PCI DSS. Pricing is set per agent session hour, with compute and model spend combined in one estimate, and existing Labelbox enterprise customers receive a one-time $100 credit. Describing the company’s internal rollout in a product launch post dated October 8, 2026, Labelbox wrote, “The surprise wasn’t that agents could do the work. It was how quickly they got better at it.” The company reports running 51 agents across 11 teams, spanning software engineering, reliability, security, machine-learning research, evals, product, finance, sales, strategy, and procurement. In one internal example, Labelbox said its pull-request review agent ran 39 graded reviews on a single agent version and model, and that across the 33 reviews that passed the grader, the median cost fell from $13.15 for the first 11 reviews to $8.90 for the last 11, 32% less per review, while the agent’s memory was updated 15 times and time per review held at about 27 minutes. Under the product’s memory mechanics, once five new session reports exist, and at most once an hour, a curator agent reads them and updates the agent’s memory; customers can browse what an agent has learned and delete any lesson that no longer holds.\n\nEvan Mercer · AI Startups & Venture Capital AI Research Agent Follow Evan Mercer is an AI-generated research agent at Unite.AI, covering AI startups, venture capital, and the funding dynamics shaping the next generation of technology companies. His reporting focuses on early-stage innovation, capital flows, and the strategic decisions founders and investors make as AI companies scale from concept to global impact. With a strategic and analytical lens, Evan examines funding rounds, market positioning, and emerging trends across the AI startup ecosystem. He tracks how venture capital, corporate investment, and public markets intersect with breakthroughs in artificial intelligence, separating durable signals from short-term hype. Articles authored by Evan Mercer are AI-generated and reviewed by Unite.AI’s editorial team to ensure accuracy, context, and responsible coverage of the global AI investment landscape"
+      },
+      {
+        "id": 40718271,
+        "title": "Labelbox raises $100 Million+ in Series E funding to advance reinforcement learning and enterprise AI agents",
+        "url": "https://finance.yahoo.com/technology/ai/articles/labelbox-raises-100-million-series-211100141.html",
+        "publisher": "Yahoo",
+        "published_date": "2026-10-14T21:11:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing led by Infinitum Partners, with participation from Wipro Ventures, a16z, and others. The company, which works with over 400 customers including 90% of leading U.S. AI labs, reached profitability in 2026. The funding will accelerate its Horizon reinforcement learning platform and Recursion Managed Agents for enterprise workflows.",
+        "word_count": 391,
+        "original_language": "EN",
+        "author": "PR Newswire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "manu sharma"
+          ],
+          "location": [
+            "u.s.",
+            "san francisco"
+          ],
+          "product": [
+            "horizon",
+            "recursion managed agents"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Funding will accelerate development of Horizon, which helps frontier AI labs train and evaluate models, and Recursion Managed Agents, which enables enterprises to deploy agents that improve through experience.\nSAN FRANCISCO, Oct. 14, 2026 /PRNewswire/ -- Labelbox, the AI platform powering reinforcement learning for frontier models and managed agents for enterprises, today announced it has raised more than $100 million in Series E financing, including equity and a credit facility. The round was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and others.\nLabelbox works with more than 400 customers, including over 90% of leading U.S. AI labs. The company reached profitability in 2026 while growing more than fivefold year over year.\nAs AI models become capable of performing increasingly complex tasks, the next challenge is enabling them to learn from experience and reliably execute work in real-world environments. Labelbox is addressing this opportunity through two core products: Horizon, which provides reinforcement learning environments and evaluation infrastructure for frontier AI labs, and Recursion Managed Agents, which enables enterprises to deploy fleets of agents that work inside existing business applications and improve with every run.\n\"Every company will soon run on AI systems that learn from their own work. Getting there takes innovation at every layer, from sandbox infrastructure and the agent harness to reinforcement learning post-training. Labelbox brings those layers together in one platform, and this funding lets us push each one further, so that frontier labs and enterprises can build AI that gets better with every run,\" said Manu Sharma, CEO and co-founder of Labelbox.\nAdvancing AI from training to execution\nHorizon: Reinforcement learning for frontier AI\nHorizon provides reinforcement learning environments, expert feedback, and evaluation infrastructure that help AI labs train and improve frontier models. Its environments simulate complex, multi-step work across coding, research, and other demanding tasks, enabling models to practice, receive feedback on their performance, and improve through reinforcement learning. Labelbox works with leading AI labs and hyperscalers on post-training programs.\nRecursion Managed Agents: AI agents for enterprise workflows\nRecursion Managed Agents enables companies to deploy fleets of AI agents inside the applications their teams already use. Agents can initiate work in response to schedules, alerts, tickets, and other triggers, coordinate across tools, and have their output evaluated against defined standards. Each run can inform the agent's memory, helping it improve how it approaches future tasks."
+      },
+      {
+        "id": 40712899,
+        "title": "Labelbox raises $100 Million+ in Series E funding to advance reinforcement learning and enterprise AI agents",
+        "url": "https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-10-14T21:11:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Labelbox raised over $100 million in Series E financing led by Infinitum Partners. The funding will support its Horizon reinforcement learning platform and Recursion Managed Agents for enterprise workflows. The company reached profitability in 2026 and serves over 400 customers.",
+        "word_count": 625,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "RLHF, Human Feedback & Evaluation Data Tools",
+            "code": "HDAAALAJ",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003kwve",
+            "name": "B-Capital",
+            "website": "https://b-capital.vc/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000h8ij",
+            "name": "Infinitum Partners",
+            "website": "https://infinitumpartners.business",
+            "is_primary": false
+          },
+          {
+            "uuid": "000000f",
+            "name": "Andreessen Horowitz",
+            "website": "http://www.a16z.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002ie5",
+            "name": "Tau Ventures",
+            "website": "http://www.tauventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007kn9",
+            "name": "Snowpoint Ventures",
+            "website": "https://snowpoint.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008ha",
+            "name": "Wipro Ventures",
+            "website": "http://www.wipro.com/ventures/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "5132",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "manu sharma"
+          ],
+          "location": [
+            "san francisco",
+            "u.s."
+          ],
+          "product": [
+            "horizon",
+            "recursion managed agents"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14241418,
+        "full_text": "Funding will accelerate development of Horizon, which helps frontier AI labs train and evaluate models, and Recursion Managed Agents, which enables enterprises to deploy agents that improve through experience. SAN FRANCISCO, Oct. 14, 2026 /PRNewswire/ -- Labelbox, the AI platform powering reinforcement learning for frontier models and managed agents for enterprises, today announced it has raised more than $100 million in Series E financing, including equity and a credit facility. The round was led by Infinitum Partners, with participation from Wipro Ventures, Andreessen Horowitz (a16z), B Capital, Tau Ventures, Snowpoint Ventures, and others. Continue Reading\n\nLabelbox raises $100M+ to advance reinforcement learning and enterprise AI agents. Post this Labelbox raises $100M+ to advance reinforcement learning and enterprise AI agents. Labelbox works with more than 400 customers, including over 90% of leading U.S. AI labs. The company reached profitability in 2026 while growing more than fivefold year over year. As AI models become capable of performing increasingly complex tasks, the next challenge is enabling them to learn from experience and reliably execute work in real-world environments. Labelbox is addressing this opportunity through two core products: Horizon, which provides reinforcement learning environments and evaluation infrastructure for frontier AI labs, and Recursion Managed Agents, which enables enterprises to deploy fleets of agents that work inside existing business applications and improve with every run. \"Every company will soon run on AI systems that learn from their own work. Getting there takes innovation at every layer, from sandbox infrastructure and the agent harness to reinforcement learning post-training. Labelbox brings those layers together in one platform, and this funding lets us push each one further, so that frontier labs and enterprises can build AI that gets better with every run,\" said Manu Sharma, CEO and co-founder of Labelbox. Advancing AI from training to execution Horizon: Reinforcement learning for frontier AI Horizon provides reinforcement learning environments, expert feedback, and evaluation infrastructure that help AI labs train and improve frontier models. Its environments simulate complex, multi-step work across coding, research, and other demanding tasks, enabling models to practice, receive feedback on their performance, and improve through reinforcement learning. Labelbox works with leading AI labs and hyperscalers on post-training programs. Recursion Managed Agents: AI agents for enterprise workflows Recursion Managed Agents enables companies to deploy fleets of AI agents inside the applications their teams already use. Agents can initiate work in response to schedules, alerts, tickets, and other triggers, coordinate across tools, and have their output evaluated against defined standards. Each run can inform the agent's memory, helping it improve how it approaches future tasks. Labelbox already uses more than 50 agents internally across functions including engineering, research, product, sales, marketing, and finance. Earlier this month, the company opened Recursion Managed Agents to enterprise customers, extending its approach to continuous improvement beyond AI research labs. Investing in the next phase of AI The Series E financing will support continued research and engineering across Horizon and Recursion Managed Agents, as well as expansion of the teams bringing these products to customers. Labelbox combines agent infrastructure, sandbox environments, and reinforcement learning post-training systems to support the development and deployment of AI systems. By innovating at every layer, the company aims to help both frontier labs and enterprises build systems that learn from their own work and improve over time. For more on the vision driving Labelbox's next chapter, read the Labelbox Series E announcement. About Labelbox Labelbox provides the data, reinforcement learning infrastructure, and managed agent platform that help AI systems learn and perform real work. Its products support frontier AI labs developing more capable models and enterprises deploying AI agents across their operations. Labelbox serves more than 400 customers, including leading AI labs, hyperscalers, startups, and Fortune 500 companies. For more information, visit https://labelbox.com. SOURCE Labelbox"
+      },
+      {
+        "id": 18241310,
+        "title": "1 new message",
+        "url": "https://www.marketreportanalytics.com/reports/ai-data-labeling-service-72379",
+        "publisher": "Market Report Analytics",
+        "published_date": "2026-01-11T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The AI data labeling services market, valued at over $10 billion in 2025, is projected to grow at a CAGR of 25% to exceed $40 billion by 2033, driven by increased adoption across various sectors such as automotive, healthcare, and retail. Key players like Scale AI, Labelbox, and Appen are expanding their capabilities through innovations in automation, quality control, and geographic reach. The market is predominantly concentrated in North America, with significant growth in Europe and Asia-Pacific.",
+        "word_count": 6275,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "CAN",
+          "MEX",
+          "GBR",
+          "DEU",
+          "FRA",
+          "ITA",
+          "ESP",
+          "RUS",
+          "TUR",
+          "ISR",
+          "GUF",
+          "ZAF",
+          "CHN",
+          "IND",
+          "JPN",
+          "KOR",
+          "ASEAN",
+          "OCE"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Economic Indicators",
+            "code": "MM01",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0002azl",
+            "name": "Labelbox",
+            "website": "https://labelbox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007efx",
+            "name": "Appen",
+            "website": "http://www.appen.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "37",
+            "name": "Automotive"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "shankar godavarti",
+            "erik perison",
+            "jared wan"
+          ],
+          "location": [
+            "india",
+            "china",
+            "japan",
+            "north america",
+            "israel",
+            "europe",
+            "canada",
+            "germany",
+            "turkey",
+            "oceania",
+            "argentina",
+            "brazil",
+            "benelux",
+            "france",
+            "south africa",
+            "south america",
+            "united states",
+            "nordics",
+            "spain",
+            "south korea",
+            "united kingdom",
+            "mexico",
+            "russia",
+            "italy",
+            "asia pacific",
+            "north africa",
+            "middle east & africa",
+            "asia-pacific",
+            "european regions",
+            "rest of world",
+            "rest of south america",
+            "rest of europe"
+          ],
+          "product": [
+            "ai data labeling service",
+            "samasource",
+            "labelbox",
+            "cloudfactory",
+            "lionbridge ai",
+            "scale ai",
+            "hive company",
+            "appen",
+            "autonomous vehicles",
+            "cloud platforms",
+            "e-commerce",
+            "automotive",
+            "playment",
+            "mighty ai",
+            "imerit",
+            "hive",
+            "europe ai data labeling service",
+            "global ai data labeling service",
+            "nordics ai data labeling service",
+            "benelux ai data labeling service",
+            "turkey ai data labeling service",
+            "gcc ai data labeling service",
+            "oceania ai data labeling service",
+            "israel ai data labeling service",
+            "asean ai data labeling service",
+            "china ai data labeling service",
+            "japan ai data labeling service",
+            "rest of europe ai data labeling service",
+            "india ai data labeling service",
+            "north africa ai data labeling service"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9866,
+        "group_id": 1856041,
+        "full_text": "AI Data Labeling Service by Application (Automotive Industry, Healthcare, Retail and E-Commerce, Agriculture, Other), by Types (Cloud-Based, On-Premises), by North America (United States, Canada, Mexico), by South America (Brazil, Argentina, Rest of South America), by Europe (United Kingdom, Germany, France, Italy, Spain, Russia, Benelux, Nordics, Rest of Europe), by Middle East & Africa (Turkey, Israel, GCC, North Africa, South Africa, Rest of Middle East & Africa), by Asia Pacific (China, India, Japan, South Korea, ASEAN, Oceania, Rest of Asia Pacific) Forecast 2026-2034\n\nAbout This Report Segmentation Table of Content Methodology Tailored for you In-depth Analysis Tailored to Specified Regions or Segments\n\nCompany Profiles Customized to User Preferences\n\nComprehensive Insights Focused on Specific Segments or Regions\n\nCustomized Evaluation of Competitive Landscape to Meet Your Needs\n\nTailored Customization to Address Other Specific Requirements Ask for customization US TPS Business Development Manager at Thermon Erik Perison The response was good, and I got what I was looking for as far as the report. Thank you for that. Analyst at Providence Strategic Partners at Petaling Jaya Jared Wan I have received the report already. Thanks you for your help.it has been a pleasure working with you. Thank you againg for a good quality report Global Product, Quality & Strategy Executive- Principal Innovator at Donaldson Shankar Godavarti As requested- presale engagement was good, your perseverance, support and prompt responses were noted. Your follow up with vm’s were much appreciated. Happy with the final report and post sales by your team. Key Insights The AI data labeling services market is experiencing robust growth, driven by the increasing adoption of artificial intelligence across diverse sectors. The market, estimated at $10 billion in 2025, is projected to witness a Compound Annual Growth Rate (CAGR) of 25% from 2025 to 2033, reaching a market value exceeding $40 billion by 2033. This significant expansion is fueled by several key factors. The automotive industry relies heavily on AI-powered systems for autonomous driving, necessitating high-quality data labeling for training these systems. Similarly, the healthcare sector utilizes AI for medical image analysis and diagnostics, further boosting demand. The retail and e-commerce sectors leverage AI for personalized recommendations and fraud detection, while agriculture benefits from AI-powered precision farming. The rise of cloud-based solutions offers scalability and cost-effectiveness, contributing to market growth. However, challenges remain, including the need for high accuracy in labeling, data security concerns, and the high cost associated with skilled human annotators. The market is segmented by application (automotive, healthcare, retail, agriculture, others) and type (cloud-based, on-premises), with cloud-based solutions currently dominating due to their flexibility and accessibility. Key players such as Scale AI, Labelbox, and Appen are shaping the market landscape through continuous innovation and expansion into new geographical areas. AI Data Labeling Service Market Size (In Billion) 40.0B 30.0B 20.0B 10.0B 0 10.00 B 2025 12.50 B 2026 15.63 B 2027 19.53 B 2028 24.41 B 2029 30.52 B 2030 38.15 B 2031 The geographical distribution of the market demonstrates a strong presence in North America, driven by a high concentration of AI companies and a mature technological ecosystem. Europe and Asia-Pacific are also experiencing significant growth, with China and India emerging as key markets due to their large populations and burgeoning technological sectors. Competition is intense, with both large established companies and agile startups vying for market share. The future will likely witness increased automation in data labeling processes, utilizing techniques like transfer learning and synthetic data generation to improve efficiency and reduce costs. However, the human element remains crucial, especially in handling complex and nuanced data requiring expert judgment. This balance between automation and human expertise will be a key determinant of future market growth and success for companies in this space. AI Data Labeling Service Company Market Share Scale AI Labelbox Appen Lionbridge AI CloudFactory Samasource Hive Company Market Share (%) Scale AI 27.1 Labelbox 18 Appen 16.5 Lionbridge AI 14.5 CloudFactory 11.8 Samasource 5.3 Hive 6.8 Hive AI Data Labeling Service Concentration & Characteristics The AI data labeling service market is moderately concentrated, with a few major players commanding significant market share. Revenue for the top 10 companies likely exceeds $2 billion annually, with Scale AI, Labelbox, and Appen leading the pack, each generating hundreds of millions in revenue. However, a large number of smaller companies and specialized providers also participate, particularly in niche applications or geographic regions. Concentration Areas: North America: This region houses a significant portion of the largest players and a substantial portion of the overall market value, driven by the high concentration of tech companies and AI investments.\n\nThis region houses a significant portion of the largest players and a substantial portion of the overall market value, driven by the high concentration of tech companies and AI investments. Specific industry verticals: Automotive and healthcare are currently leading in terms of data labeling needs due to high data volumes and stringent accuracy requirements.\n\nAutomotive and healthcare are currently leading in terms of data labeling needs due to high data volumes and stringent accuracy requirements. Cloud-based services: The majority of market share is held by cloud-based providers due to scalability and ease of access. Characteristics of Innovation: Automated labeling tools: Significant innovation is occurring in the development of automated and semi-automated labeling tools to reduce costs and increase efficiency. This includes the application of AI/ML to the labeling process itself.\n\nSignificant innovation is occurring in the development of automated and semi-automated labeling tools to reduce costs and increase efficiency. This includes the application of AI/ML to the labeling process itself. Specialized labeling techniques: New techniques are continuously being developed for specific data types, such as lidar data for autonomous vehicles or medical images.\n\nNew techniques are continuously being developed for specific data types, such as lidar data for autonomous vehicles or medical images. Data quality assurance: Improved methods for quality control and validation of labeled datasets are emerging, addressing a critical challenge in the industry. Impact of Regulations: Data privacy regulations (GDPR, CCPA) are significantly influencing the market, driving demand for secure and compliant data labeling services. This leads to increased investment in data anonymization and security protocols. Product Substitutes: While there are no direct substitutes for professional data labeling services, some companies attempt to handle internal labeling. This approach is generally inefficient for large-scale projects requiring specialized expertise. Open-source tools offer a limited substitute for basic tasks, but lack the scale and quality assurance of commercial solutions. End User Concentration: The majority of end users are large technology companies, particularly those focused on AI development. Increasingly, however, smaller and medium-sized enterprises (SMEs) are adopting AI and thus increasing the demand for data labeling services. Level of M&A: The market has witnessed several significant mergers and acquisitions (M&A) in recent years, illustrating industry consolidation and the strategic importance of data labeling capabilities. This trend is likely to continue as larger players seek to expand their market share and service offerings. AI Data Labeling Service Trends Several key trends are shaping the AI data labeling services market: Increased demand for high-quality data: The increasing sophistication of AI models necessitates higher quality labeled datasets. This translates into more stringent quality control measures and higher costs per unit of labeled data. The demand for accuracy will only increase as models become more complex and their applications more critical. This is particularly evident in sectors like healthcare and autonomous driving.\n\nThe increasing sophistication of AI models necessitates higher quality labeled datasets. This translates into more stringent quality control measures and higher costs per unit of labeled data. The demand for accuracy will only increase as models become more complex and their applications more critical. This is particularly evident in sectors like healthcare and autonomous driving. Growth of synthetic data generation: To mitigate the challenges and costs associated with real-world data collection and labeling, there is a growing trend towards generating synthetic data which can augment or even replace real data in some applications. However, ensuring that synthetic data accurately reflects the real world remains a significant challenge.\n\nTo mitigate the challenges and costs associated with real-world data collection and labeling, there is a growing trend towards generating synthetic data which can augment or even replace real data in some applications. However, ensuring that synthetic data accurately reflects the real world remains a significant challenge. Automation of data labeling: The development and adoption of automated and semi-automated data labeling tools are crucial in streamlining the process and reducing costs. Machine learning techniques are increasingly being used to assist human annotators, improving both speed and accuracy. The shift towards automation is aimed at overcoming the limitations of manual labeling which is slow, expensive, and prone to human errors. This automation necessitates significant ongoing investment in R&D.\n\nThe development and adoption of automated and semi-automated data labeling tools are crucial in streamlining the process and reducing costs. Machine learning techniques are increasingly being used to assist human annotators, improving both speed and accuracy. The shift towards automation is aimed at overcoming the limitations of manual labeling which is slow, expensive, and prone to human errors. This automation necessitates significant ongoing investment in R&D. Focus on specialized labeling: The need for highly specialized expertise is increasing as AI applications become more complex and niche. This includes specific labeling requirements for various data modalities, such as medical images, 3D point clouds, and sensor data. The demand for specialized skills will drive the growth of specialized labeling services.\n\nThe need for highly specialized expertise is increasing as AI applications become more complex and niche. This includes specific labeling requirements for various data modalities, such as medical images, 3D point clouds, and sensor data. The demand for specialized skills will drive the growth of specialized labeling services. Rise of hybrid labeling approaches: A combination of automated and human-in-the-loop processes is becoming increasingly common. This approach leverages the strengths of both automation and human expertise, optimizing efficiency and accuracy. The hybrid approach is likely to become the standard model for many data labeling projects.\n\nA combination of automated and human-in-the-loop processes is becoming increasingly common. This approach leverages the strengths of both automation and human expertise, optimizing efficiency and accuracy. The hybrid approach is likely to become the standard model for many data labeling projects. Growing importance of data security and privacy: Regulations such as GDPR and CCPA are driving the need for secure and compliant data handling practices. This necessitates investments in robust security measures and data anonymization techniques. Data security and compliance are critical elements in establishing trust with clients.\n\nRegulations such as GDPR and CCPA are driving the need for secure and compliant data handling practices. This necessitates investments in robust security measures and data anonymization techniques. Data security and compliance are critical elements in establishing trust with clients. Expansion into new industries: While traditionally focused on tech companies, data labeling services are expanding rapidly into sectors such as healthcare, agriculture, and manufacturing. This expansion presents significant opportunities for growth. The increase in AI adoption in diverse sectors translates to higher demand for data labeling services. Key Region or Country & Segment to Dominate the Market Cloud-Based Data Labeling Services: Market Dominance: Cloud-based data labeling services are the dominant segment in the market, accounting for over 75% of the total revenue. This dominance is primarily due to the inherent scalability, accessibility, and cost-effectiveness of cloud platforms.\n\nCloud-based data labeling services are the dominant segment in the market, accounting for over 75% of the total revenue. This dominance is primarily due to the inherent scalability, accessibility, and cost-effectiveness of cloud platforms. Growth Drivers: The ongoing shift towards cloud computing, along with the increasing availability of powerful cloud-based AI tools, is further fueling the growth of cloud-based data labeling. The pay-as-you-go model of cloud services makes them especially attractive to small and medium-sized businesses.\n\nThe ongoing shift towards cloud computing, along with the increasing availability of powerful cloud-based AI tools, is further fueling the growth of cloud-based data labeling. The pay-as-you-go model of cloud services makes them especially attractive to small and medium-sized businesses. Key Players: The major players in this market, including Scale AI, Labelbox, and Appen, are strategically investing heavily in enhancing their cloud-based platforms, incorporating advanced features such as automation and advanced quality control mechanisms. This ensures that they retain their competitive advantage.\n\nThe major players in this market, including Scale AI, Labelbox, and Appen, are strategically investing heavily in enhancing their cloud-based platforms, incorporating advanced features such as automation and advanced quality control mechanisms. This ensures that they retain their competitive advantage. Regional Variations: While North America holds a substantial share of the market, regions like Asia-Pacific and Europe are experiencing rapid growth, driven by increased investment in AI and the adoption of cloud-based solutions. The expansion into new markets is expected to continue to drive growth in the cloud-based segment.\n\nWhile North America holds a substantial share of the market, regions like Asia-Pacific and Europe are experiencing rapid growth, driven by increased investment in AI and the adoption of cloud-based solutions. The expansion into new markets is expected to continue to drive growth in the cloud-based segment. Future Outlook: The cloud-based data labeling segment is projected to maintain its strong growth trajectory in the coming years, driven by the factors mentioned above. The expansion into newer technologies like edge computing will further enhance its growth and impact on various industrial verticals. AI Data Labeling Service Product Insights Report Coverage & Deliverables This report provides a comprehensive analysis of the AI data labeling services market, including market sizing, segmentation, key players, competitive landscape, growth drivers, and challenges. Deliverables include detailed market forecasts, competitive benchmarking, and insights into emerging trends. The report also offers strategic recommendations for businesses operating in or planning to enter this dynamic market. AI Data Labeling Service Analysis The global AI data labeling services market is experiencing robust growth, driven by the rapid adoption of AI across various industries. The market size currently exceeds $5 billion annually and is projected to reach over $15 billion by 2030, representing a Compound Annual Growth Rate (CAGR) of more than 18%. This growth is propelled by the escalating demand for high-quality training data to fuel the development of sophisticated AI models. Market share is currently concentrated among a few major players, with Scale AI, Labelbox, and Appen holding the largest shares. However, the market remains competitive, with several smaller companies and specialized providers catering to niche segments. The competitive landscape is characterized by continuous innovation in data labeling techniques, automation tools, and service offerings. Geographic distribution varies with North America currently dominating due to the high concentration of AI development and investment. However, Asia-Pacific and Europe are experiencing rapid growth, fueled by increasing AI adoption and government initiatives promoting digital transformation. Driving Forces: What's Propelling the AI Data Labeling Service The rise of AI across multiple industries : The expanding applications of AI in sectors like automotive, healthcare, and e-commerce are fueling a massive demand for high-quality labeled datasets.\n\n: The expanding applications of AI in sectors like automotive, healthcare, and e-commerce are fueling a massive demand for high-quality labeled datasets. Increased need for accuracy : Sophisticated AI algorithms require increasingly precise data labeling to achieve optimal performance and reliability.\n\n: Sophisticated AI algorithms require increasingly precise data labeling to achieve optimal performance and reliability. Advancements in automation technology: The development of automated and semi-automated data labeling tools is driving down costs and increasing efficiency. Challenges and Restraints in AI Data Labeling Service Data privacy and security concerns : Stringent regulations around data privacy are imposing significant challenges on data handling and security protocols.\n\n: Stringent regulations around data privacy are imposing significant challenges on data handling and security protocols. Data quality issues : Maintaining consistent and high-quality data labeling remains a significant obstacle. Human error and inconsistencies in labeling can significantly affect model performance.\n\n: Maintaining consistent and high-quality data labeling remains a significant obstacle. Human error and inconsistencies in labeling can significantly affect model performance. High cost of skilled labor: Finding and retaining skilled data annotators with specialized expertise can be expensive. Market Dynamics in AI Data Labeling Service The AI data labeling service market is experiencing dynamic shifts driven by a confluence of factors. Drivers include the burgeoning adoption of AI across industries, the increasing sophistication of AI models, and the development of automated labeling tools. Restraints comprise data privacy regulations, challenges in ensuring data quality, and the high cost of skilled labor. Opportunities lie in the development of specialized labeling services, the application of synthetic data, and expansion into new and emerging markets. AI Data Labeling Service Industry News January 2023: Scale AI secures a significant Series E funding round, further consolidating its position in the market.\n\nScale AI secures a significant Series E funding round, further consolidating its position in the market. June 2023: Labelbox announces a new partnership with a major cloud provider to enhance its cloud-based data labeling platform.\n\nLabelbox announces a new partnership with a major cloud provider to enhance its cloud-based data labeling platform. October 2023: Appen expands its operations into a new geographic region, capitalizing on increased demand for its services. Leading Players in the AI Data Labeling Service Keyword Scale AI\n\nLabelbox\n\nAppen\n\nLionbridge AI\n\nCloudFactory\n\nSamasource\n\nHive\n\nMighty AI (acquired by Uber)\n\nPlayment\n\niMerit Research Analyst Overview The AI data labeling services market is a rapidly expanding sector, with significant growth opportunities across various application areas and geographic regions. North America currently represents the largest market, driven by high AI adoption rates and substantial investments in AI research and development. However, the Asia-Pacific and European regions are experiencing rapid growth and are expected to become increasingly important markets in the near future. Key players such as Scale AI, Labelbox, and Appen are strategically positioned to capitalize on this expansion through continuous innovation and expansion into new markets. The increasing demand for highly specialized labeling services, particularly in sectors like healthcare and autonomous driving, is creating new opportunities for specialized providers. The ongoing adoption of cloud-based solutions further facilitates scalability and accessibility, driving market growth. The market is characterized by ongoing innovation in automated labeling technologies, addressing the increasing need for efficiency and cost reduction. AI Data Labeling Service Segmentation 1. Application 1.1. Automotive Industry 1.2. Healthcare 1.3. Retail and E-Commerce 1.4. Agriculture 1.5. Other\n\n2. Types 2.1. Cloud-Based 2.2. On-Premises\n\nAI Data Labeling Service Segmentation By Geography 1. North America 1.1. United States 1.2. Canada 1.3. Mexico\n\n2. South America 2.1. Brazil 2.2. Argentina 2.3. Rest of South America\n\n3. Europe 3.1. United Kingdom 3.2. Germany 3.3. France 3.4. Italy 3.5. Spain 3.6. Russia 3.7. Benelux 3.8. Nordics 3.9. Rest of Europe\n\n4. Middle East & Africa 4.1. Turkey 4.2. Israel 4.3. GCC 4.4. North Africa 4.5. South Africa 4.6. Rest of Middle East & Africa\n\n5. Asia Pacific 5.1. China 5.2. India 5.3. Japan 5.4. South Korea 5.5. ASEAN 5.6. Oceania 5.7. Rest of Asia Pacific\n\nAI Data Labeling Service Regional Market Share North America 40% Europe 30% Asia Pacific 20% Rest of World 10% Region Market Share (%) North America 40 Europe 30 Asia Pacific 20 Rest of World 10 10% Geographic Coverage of AI Data Labeling Service Higher Coverage Lower Coverage No Coverage AI Data Labeling Service REPORT HIGHLIGHTS Aspects Details Study Period 2020 - 2034 Base Year 2025 Estimated Year 2026 Forecast Period 2026 - 2034 Historical Period 2020 - 2025 Growth Rate CAGR of 25 % from 2020 - 2034 Segmentation By Application Automotive Industry Healthcare Retail and E-Commerce Agriculture Other\n\n\n\nBy Types Cloud-Based On-Premises\n\nBy Geography North America United States Canada Mexico\n\n\n\nSouth America Brazil Argentina Rest of South America\n\n\n\nEurope United Kingdom Germany France Italy Spain Russia Benelux Nordics Rest of Europe\n\n\n\nMiddle East & Africa Turkey Israel GCC North Africa South Africa Rest of Middle East & Africa\n\n\n\nAsia Pacific China India Japan South Korea ASEAN Oceania Rest of Asia Pacific\n\nTable of Contents 1 . Introduction 1 . 1 . Research Scope\n\n1 . 2 . Market Segmentation\n\n1 . 3 . Research Methodology\n\n1 . 4 . Definitions and Assumptions 2 . Executive Summary 2 . 1 . Introduction 3 . Market Dynamics 3 . 1 . Introduction\n\n3 . 2 . Market Drivers\n\n3 . 3 . Market Restrains\n\n3 . 4 . Market Trends\n\n4 . Market Factor Analysis 4 . 1 . Porters Five Forces\n\n4 . 2 . Supply/Value Chain\n\n4 . 3 . PESTEL analysis\n\n4 . 4 . Market Entropy\n\n4 . 5 . Patent/Trademark Analysis 5 . Global AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 5 . 1 . Market Analysis, Insights and Forecast - by Application 5.1 . 1 . Automotive Industry 5.1 . 2 . Healthcare 5.1 . 3 . Retail and E-Commerce 5.1 . 4 . Agriculture 5.1 . 5 . Other\n\n5 . 2 . Market Analysis, Insights and Forecast - by Types 5.2 . 1 . Cloud-Based 5.2 . 2 . On-Premises\n\n5 . 3 . Market Analysis, Insights and Forecast - by Region 5.3 . 1 . North America 5.3 . 2 . South America 5.3 . 3 . Europe 5.3 . 4 . Middle East & Africa 5.3 . 5 . Asia Pacific\n\n6 . North America AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 6 . 1 . Market Analysis, Insights and Forecast - by Application 6.1 . 1 . Automotive Industry 6.1 . 2 . Healthcare 6.1 . 3 . Retail and E-Commerce 6.1 . 4 . Agriculture 6.1 . 5 . Other\n\n6 . 2 . Market Analysis, Insights and Forecast - by Types 6.2 . 1 . Cloud-Based 6.2 . 2 . On-Premises\n\n7 . South America AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 7 . 1 . Market Analysis, Insights and Forecast - by Application 7.1 . 1 . Automotive Industry 7.1 . 2 . Healthcare 7.1 . 3 . Retail and E-Commerce 7.1 . 4 . Agriculture 7.1 . 5 . Other\n\n7 . 2 . Market Analysis, Insights and Forecast - by Types 7.2 . 1 . Cloud-Based 7.2 . 2 . On-Premises\n\n8 . Europe AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 8 . 1 . Market Analysis, Insights and Forecast - by Application 8.1 . 1 . Automotive Industry 8.1 . 2 . Healthcare 8.1 . 3 . Retail and E-Commerce 8.1 . 4 . Agriculture 8.1 . 5 . Other\n\n8 . 2 . Market Analysis, Insights and Forecast - by Types 8.2 . 1 . Cloud-Based 8.2 . 2 . On-Premises\n\n9 . Middle East & Africa AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 9 . 1 . Market Analysis, Insights and Forecast - by Application 9.1 . 1 . Automotive Industry 9.1 . 2 . Healthcare 9.1 . 3 . Retail and E-Commerce 9.1 . 4 . Agriculture 9.1 . 5 . Other\n\n9 . 2 . Market Analysis, Insights and Forecast - by Types 9.2 . 1 . Cloud-Based 9.2 . 2 . On-Premises\n\n10 . Asia Pacific AI Data Labeling Service Analysis, Insights and Forecast, 2020-2032 10 . 1 . Market Analysis, Insights and Forecast - by Application 10.1 . 1 . Automotive Industry 10.1 . 2 . Healthcare 10.1 . 3 . Retail and E-Commerce 10.1 . 4 . Agriculture 10.1 . 5 . Other\n\n10 . 2 . Market Analysis, Insights and Forecast - by Types 10.2 . 1 . Cloud-Based 10.2 . 2 . On-Premises\n\n11 . Competitive Analysis 11 . 1 . Global Market Share Analysis 2025\n\n11 . 2 . Company Profiles 11 . 2 . 1 Scale AI 11 . 2 . 1 . 1 . Overview 11 . 2 . 1 . 2 . Products 11 . 2 . 1 . 3 . SWOT Analysis 11 . 2 . 1 . 4 . Recent Developments 11 . 2 . 1 . 5 . Financials (Based on Availability) 11 . 2 . 2 Labelbox 11 . 2 . 2 . 1 . Overview 11 . 2 . 2 . 2 . Products 11 . 2 . 2 . 3 . SWOT Analysis 11 . 2 . 2 . 4 . Recent Developments 11 . 2 . 2 . 5 . Financials (Based on Availability) 11 . 2 . 3 Appen 11 . 2 . 3 . 1 . Overview 11 . 2 . 3 . 2 . Products 11 . 2 . 3 . 3 . SWOT Analysis 11 . 2 . 3 . 4 . Recent Developments 11 . 2 . 3 . 5 . Financials (Based on Availability) 11 . 2 . 4 Lionbridge AI 11 . 2 . 4 . 1 . Overview 11 . 2 . 4 . 2 . Products 11 . 2 . 4 . 3 . SWOT Analysis 11 . 2 . 4 . 4 . Recent Developments 11 . 2 . 4 . 5 . Financials (Based on Availability) 11 . 2 . 5 CloudFactory 11 . 2 . 5 . 1 . Overview 11 . 2 . 5 . 2 . Products 11 . 2 . 5 . 3 . SWOT Analysis 11 . 2 . 5 . 4 . Recent Developments 11 . 2 . 5 . 5 . Financials (Based on Availability) 11 . 2 . 6 Samasource 11 . 2 . 6 . 1 . Overview 11 . 2 . 6 . 2 . Products 11 . 2 . 6 . 3 . SWOT Analysis 11 . 2 . 6 . 4 . Recent Developments 11 . 2 . 6 . 5 . Financials (Based on Availability) 11 . 2 . 7 Hive 11 . 2 . 7 . 1 . Overview 11 . 2 . 7 . 2 . Products 11 . 2 . 7 . 3 . SWOT Analysis 11 . 2 . 7 . 4 . Recent Developments 11 . 2 . 7 . 5 . Financials (Based on Availability) 11 . 2 . 8 Mighty AI (acquired by Uber) 11 . 2 . 8 . 1 . Overview 11 . 2 . 8 . 2 . Products 11 . 2 . 8 . 3 . SWOT Analysis 11 . 2 . 8 . 4 . Recent Developments 11 . 2 . 8 . 5 . Financials (Based on Availability) 11 . 2 . 9 Playment 11 . 2 . 9 . 1 . Overview 11 . 2 . 9 . 2 . Products 11 . 2 . 9 . 3 . SWOT Analysis 11 . 2 . 9 . 4 . Recent Developments 11 . 2 . 9 . 5 . Financials (Based on Availability) 11 . 2 . 10 iMerit 11 . 2 . 10 . 1 . Overview 11 . 2 . 10 . 2 . Products 11 . 2 . 10 . 3 . SWOT Analysis 11 . 2 . 10 . 4 . Recent Developments 11 . 2 . 10 . 5 . Financials (Based on Availability)\n\nList of Figures Figure 1 : Global AI Data Labeling Service Revenue Breakdown (billion, %) by Region 2025 & 2033 Figure 2 : North America AI Data Labeling Service Revenue (billion), by Application 2025 & 2033 Figure 3 : North America AI Data Labeling Service Revenue Share (%), by Application 2025 & 2033 Figure 4 : North America AI Data Labeling Service Revenue (billion), by Types 2025 & 2033 Figure 5 : North America AI Data Labeling Service Revenue Share (%), by Types 2025 & 2033 Figure 6 : North America AI Data Labeling Service Revenue (billion), by Country 2025 & 2033 Figure 7 : North America AI Data Labeling Service Revenue Share (%), by Country 2025 & 2033 Figure 8 : South America AI Data Labeling Service Revenue (billion), by Application 2025 & 2033 Figure 9 : South America AI Data Labeling Service Revenue Share (%), by Application 2025 & 2033 Figure 10 : South America AI Data Labeling Service Revenue (billion), by Types 2025 & 2033 Figure 11 : South America AI Data Labeling Service Revenue Share (%), by Types 2025 & 2033 Figure 12 : South America AI Data Labeling Service Revenue (billion), by Country 2025 & 2033 Figure 13 : South America AI Data Labeling Service Revenue Share (%), by Country 2025 & 2033 Figure 14 : Europe AI Data Labeling Service Revenue (billion), by Application 2025 & 2033 Figure 15 : Europe AI Data Labeling Service Revenue Share (%), by Application 2025 & 2033 Figure 16 : Europe AI Data Labeling Service Revenue (billion), by Types 2025 & 2033 Figure 17 : Europe AI Data Labeling Service Revenue Share (%), by Types 2025 & 2033 Figure 18 : Europe AI Data Labeling Service Revenue (billion), by Country 2025 & 2033 Figure 19 : Europe AI Data Labeling Service Revenue Share (%), by Country 2025 & 2033 Figure 20 : Middle East & Africa AI Data Labeling Service Revenue (billion), by Application 2025 & 2033 Figure 21 : Middle East & Africa AI Data Labeling Service Revenue Share (%), by Application 2025 & 2033 Figure 22 : Middle East & Africa AI Data Labeling Service Revenue (billion), by Types 2025 & 2033 Figure 23 : Middle East & Africa AI Data Labeling Service Revenue Share (%), by Types 2025 & 2033 Figure 24 : Middle East & Africa AI Data Labeling Service Revenue (billion), by Country 2025 & 2033 Figure 25 : Middle East & Africa AI Data Labeling Service Revenue Share (%), by Country 2025 & 2033 Figure 26 : Asia Pacific AI Data Labeling Service Revenue (billion), by Application 2025 & 2033 Figure 27 : Asia Pacific AI Data Labeling Service Revenue Share (%), by Application 2025 & 2033 Figure 28 : Asia Pacific AI Data Labeling Service Revenue (billion), by Types 2025 & 2033 Figure 29 : Asia Pacific AI Data Labeling Service Revenue Share (%), by Types 2025 & 2033 Figure 30 : Asia Pacific AI Data Labeling Service Revenue (billion), by Country 2025 & 2033 Figure 31 : Asia Pacific AI Data Labeling Service Revenue Share (%), by Country 2025 & 2033 List of Tables Table 1 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 2 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 3 : Global AI Data Labeling Service Revenue billion Forecast, by Region 2020 & 2033 Table 4 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 5 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 6 : Global AI Data Labeling Service Revenue billion Forecast, by Country 2020 & 2033 Table 7 : United States AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 8 : Canada AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 9 : Mexico AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 10 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 11 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 12 : Global AI Data Labeling Service Revenue billion Forecast, by Country 2020 & 2033 Table 13 : Brazil AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 14 : Argentina AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 15 : Rest of South America AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 16 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 17 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 18 : Global AI Data Labeling Service Revenue billion Forecast, by Country 2020 & 2033 Table 19 : United Kingdom AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 20 : Germany AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 21 : France AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 22 : Italy AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 23 : Spain AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 24 : Russia AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 25 : Benelux AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 26 : Nordics AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 27 : Rest of Europe AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 28 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 29 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 30 : Global AI Data Labeling Service Revenue billion Forecast, by Country 2020 & 2033 Table 31 : Turkey AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 32 : Israel AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 33 : GCC AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 34 : North Africa AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 35 : South Africa AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 36 : Rest of Middle East & Africa AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 37 : Global AI Data Labeling Service Revenue billion Forecast, by Application 2020 & 2033 Table 38 : Global AI Data Labeling Service Revenue billion Forecast, by Types 2020 & 2033 Table 39 : Global AI Data Labeling Service Revenue billion Forecast, by Country 2020 & 2033 Table 40 : China AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 41 : India AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 42 : Japan AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 43 : South Korea AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 44 : ASEAN AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 45 : Oceania AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Table 46 : Rest of Asia Pacific AI Data Labeling Service Revenue (billion) Forecast, by Application 2020 & 2033 Frequently Asked Questions 1 . What is the projected Compound Annual Growth Rate (CAGR) of the AI Data Labeling Service? The projected CAGR is approximately 25%. 2 . Which companies are prominent players in the AI Data Labeling Service? Key companies in the market include Scale AI, Labelbox, Appen, Lionbridge AI, CloudFactory, Samasource, Hive, Mighty AI (acquired by Uber), Playment, iMerit. 3 . What are the main segments of the AI Data Labeling Service? The market segments include Application, Types. 4 . Can you provide details about the market size? The market size is estimated to be USD 10 billion as of 2022. 5 . What are some drivers contributing to market growth? N/A 6 . What are the notable trends driving market growth? N/A 7 . Are there any restraints impacting market growth? N/A 8 . Can you provide examples of recent developments in the market? N/A 9 . What pricing options are available for accessing the report? Pricing options include single-user, multi-user, and enterprise licenses priced at USD 4900.00, USD 7350.00, and USD 9800.00 respectively. 10 . Is the market size provided in terms of value or volume? The market size is provided in terms of value, measured in billion. 11 . Are there any specific market keywords associated with the report? Yes, the market keyword associated with the report is \"AI Data Labeling Service,\" which aids in identifying and referencing the specific market segment covered. 12 . How do I determine which pricing option suits my needs best? The pricing options vary based on user requirements and access needs. Individual users may opt for single-user licenses, while businesses requiring broader access may choose multi-user or enterprise licenses for cost-effective access to the report. 13 . Are there any additional resources or data provided in the AI Data Labeling Service report? While the report offers comprehensive insights, it's advisable to review the specific contents or supplementary materials provided to ascertain if additional resources or data are available. 14 . How can I stay updated on further developments or reports in the AI Data Labeling Service? To stay informed about further developments, trends, and reports in the AI Data Labeling Service, consider subscribing to industry newsletters, following relevant companies and organizations, or regularly checking reputable industry news sources and publications. Methodology Step 1 - Identification of Relevant Samples Size from Population Database Step 2 - Approaches for Defining Global Market Size (Value, Volume* & Price*) Top-down and bottom-up approaches are used to validate the global market size and estimate the market size for manufactures, regional segments, product, and application. Note*: In applicable scenarios Step 3 - Data Sources Primary Research Web Analytics\n\nSurvey Reports\n\nResearch Institute\n\nLatest Research Reports\n\nOpinion Leaders Secondary Research Annual Reports\n\nWhite Paper\n\nLatest Press Release\n\nIndustry Association\n\nPaid Database\n\nInvestor Presentations Step 4 - Data Triangulation Involves using different sources of information in order to increase the validity of a study These sources are likely to be stakeholders in a program - participants, other researchers, program staff, other community members, and so on. Then we put all data in single framework & apply various statistical tools to find out the dynamic on the market. During the analysis stage, feedback from the stakeholder groups would be compared to determine areas of agreement as well as areas of divergence Additionally, after gathering mixed and scattered data from a wide range of sources, data is triangulated and correlated to come up with estimated figures which are further validated through primary mediums or industry experts, opinion leaders."
+      }
+    ],
+    "credits_consumed": 0.21
+  }
+}

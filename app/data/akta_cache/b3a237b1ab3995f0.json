@@ -1,0 +1,719 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00007y4&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:03.293Z",
+  "data": {
+    "data": {
+      "uuid": "00007y4",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 9,
+            "year": 2024
+          },
+          "total_funding_usd": 61800000
+        },
+        "funding_rounds": [
+          {
+            "id": 106086,
+            "date": {
+              "month": 9,
+              "year": 2024
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 233319,
+            "date": {
+              "month": 9,
+              "year": 2024
+            },
+            "round": {
+              "code": "debt_funded",
+              "label": "Debt-Funded"
+            }
+          },
+          {
+            "id": 389032,
+            "date": {
+              "month": 12,
+              "year": 2022
+            },
+            "round": {
+              "code": "series_a",
+              "label": "Series A"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Altos Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00007li",
+            "website": "http://www.altos.vc"
+          },
+          {
+            "name": "SaaStr Fund",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000uul",
+            "website": "http://www.saastrfund.com/"
+          },
+          {
+            "name": "Avidbank",
+            "type": {
+              "code": "public",
+              "label": "Public"
+            },
+            "uuid": "0004mba",
+            "website": "http://avidbank.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 2 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "brand": [
+          {
+            "description": "A unified communications suite that consolidates phone calls, text messaging, and web chat into the Mangomint platform for salons and spas.",
+            "name": "Mangomint Connect",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ]
+          }
+        ],
+        "core_offering": "Mangomint provides a cloud-based, multi-tenant salon, spa, and med spa management platform that combines appointment scheduling, point-of-sale/payments, client management, online booking, retail/inventory, marketing automation, unified communications, and payroll processing in a single system. It is sold primarily to U.S.-based beauty and wellness operators (hair salons, day spas, med spas, nail salons, barbershops, tattoo studios, massage studios, skincare studios, hair removal studios, IV therapy clinics, and wellness centers) on tiered monthly subscription plans.",
+        "differentiator": "Modern, beautiful, and fast user interface (versus the legacy, ugly, slow salon software Mangomint explicitly criticizes); unified communications suite (Connect) that consolidates phone, SMS, and web chat into one inbox synced with the client list; integrated marketing automation (Automated Flows and Campaigns) included in every plan; HIPAA-compliant Med Spa solution with BAA on Standard and Unlimited plans; built-in payroll processing; Express Booking™ for fast self-checkout, cards-on-file, and deposits.",
+        "functional_benefit": "Booking, payments/POS, scheduling, client management, retail/inventory, memberships, marketing automation, payroll, forms/charting, and unified communications in a single platform; white-glove 1:1 onboarding and free data import; no contracts and ability to cancel anytime; supports booth renter / hybrid business models.",
+        "problem_solved": "Replaces slow, outdated, fragmented salon and spa software stacks (separate tools for booking, payments, marketing, communications, payroll) with one modern, fast, multi-tenant platform tailored to beauty and wellness operators; helps independent and multi-location salons, spas, and med spas improve profitability through automation, marketing flows, and reduced operational overhead.",
+        "quantifiable_outcome": [
+          "Featured on Deloitte's 2025 Technology Fast 500 among 20 LA/OC companies, recognizing top North American revenue growth from 2021 to 2024.",
+          "Raised a $35 million Series B in September 2024 led by Altos Ventures to accelerate product expansion and customer support hiring.",
+          "Self-reported as the #1 highest-rated platform by thousands of beauty and wellness professionals, with six 2025–2026 badges (G2 High Performer, G2 Best Support, G2 Easiest to Use, Capterra Best for Ease of Use, GetApp Best Functionality & Features, Software Advice Best Customer Support)."
+        ],
+        "product_overview": "Mangomint is a unified salon, spa, and med spa management platform rather than a collection of standalone apps: a single core application combines Calendar & Scheduling, Payments & Point-of-Sale, Online Booking (including the branded Express Booking™ self-serve experience), Client Management, Mobile Apps, Retail & Inventory, Staff Management, Reporting, and Multi-Location management. Layered onto that core platform are several feature modules for client relationships (Memberships & Packages, Gift Cards), marketing automation (Automated Flows, Campaigns, Offers & Discounts), the front-desk experience (Virtual Waiting Room, Forms & Charting with HIPAA-compliant handling), and two separately priced add-ons — the Mangomint Connect unified communications suite (web chat, phone, and SMS) launched October 2025, and integrated Payroll Processing. Together, these modules let beauty and wellness businesses run scheduling, checkout, marketing, communications, and payroll from one system, with a native Shopify integration available for retail sync.",
+        "product_and_service": [
+          {
+            "category": "Core platform (SaaS)",
+            "description": "Cloud-based, multi-tenant salon, spa, and med spa management platform that combines scheduling, point-of-sale, client records, online booking, retail/inventory, staff management, reporting, and multi-location management into a single system, sold on tiered monthly subscription plans (Essentials, Standard, Unlimited).",
+            "name": "Mangomint (core salon & spa management platform)",
+            "source": [
+              "https://www.mangomint.com/"
+            ],
+            "url": "https://www.mangomint.com/"
+          },
+          {
+            "category": "Add-on module (unified communications)",
+            "description": "Unified communications add-on that brings business phone calls, two-way SMS/text messaging, and web chat into a single shared inbox for front-desk and service staff, with a dedicated business phone number per location fully synced with the client list, in-app keypad, call/text/voicemail timeline, unlimited domestic call minutes, international per-minute calling, and a web chat widget; sold as a $75/month add-on plus $25/additional location.",
+            "name": "Mangomint Connect (unified communications add-on)",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ],
+            "url": "https://www.mangomint.com/mangomint-connect/"
+          },
+          {
+            "category": "Add-on module (payroll services)",
+            "description": "Integrated payroll service that calculates and processes pay runs using hours, tips, and commissions pulled directly from Mangomint's Staff Management module, priced at $50/month plus $8 per worker.",
+            "name": "Payroll Processing (integrated payroll add-on)",
+            "source": [
+              "https://www.mangomint.com/"
+            ],
+            "url": "https://www.mangomint.com/payroll/"
+          },
+          {
+            "category": "Add-on module (clinical charting)",
+            "description": "Custom digital intake, consent, and SOAP-style charting forms for med spa and skincare workflows, with e-signature, attachments stored against the client record, and HIPAA compliance with BAA upon request; sold as a $50/month add-on plus $25 per additional location, and included on the Unlimited plan.",
+            "name": "Forms & Charting (HIPAA-compliant add-on)",
+            "source": [
+              "https://www.mangomint.com/"
+            ],
+            "url": "https://www.mangomint.com/forms-and-charting/"
+          },
+          {
+            "category": "Financial services (payment processing)",
+            "description": "Integrated payment processing for card-present (2.45% + 15¢) and card-not-present/virtual (2.90% + 30¢) transactions, with optional advanced features (Express Booking, self-checkout, cards-on-file, deposits) that are unavailable when using a third-party processor; custom rates available for businesses processing over $50k/month.",
+            "name": "Mangomint Payment Processing (integrated card processing)",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ],
+            "url": "https://www.mangomint.com/pos-and-payments/"
+          },
+          {
+            "category": "Marketing automation software",
+            "description": "Trigger-based, multi-step marketing automation including Automated Flows (birthday, no-show, lapsed-visit, upcoming-appointment triggers), one-time and recurring email/SMS Campaigns with audience segmentation, and Offers & Discounts management, with marketing credits priced at 1¢ each and volume subscriptions starting at $50/month for 6,000 credits.",
+            "name": "Marketing Automation Suite (Automated Flows, Campaigns, Offers & Discounts)",
+            "source": [
+              "https://siliconvalleyjournals.com/mangomint-secures-35-million-in-series-b-funding-and-expands-into-marketing-automation-for-enhanced-salon-and-spa-profitability/#google_vignette"
+            ],
+            "url": "https://www.mangomint.com/automated-flows/"
+          },
+          {
+            "category": "Hardware (payment terminal)",
+            "description": "Bluetooth card reader hardware device enabling in-person card payment acceptance through Mangomint's POS, sold at $100 one-time per device, with one reader included free with the Standard and Unlimited subscription plans.",
+            "name": "Mangomint Bluetooth Card Reader (hardware)",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ],
+            "url": "https://www.mangomint.com/pricing/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Raised in September 2024 led by Altos Ventures. Proceeds used to expand product features and grow customer support headcount.",
+            "source": [
+              "https://www.thesaasnews.com/news/mangomint-raises-35-million-in-series-b"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$35 million Series B (2024)"
+          },
+          {
+            "description": "Company describes itself as the \"#1 highest-rated by thousands of beauty & wellness professionals\"; serves a broad base of independent salons, spas, med spas, tattoo studios, and beauty/wellness operators.",
+            "source": [
+              "https://www.mangomint.com/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "Thousands of salons and spas"
+          },
+          {
+            "description": "Self-reported positioning on Mangomint's homepage; corroborated by multiple G2, Capterra, GetApp, and Software Advice badges (Best for Ease of Use, High Performer, Best Support, Best Functionality & Features, Easiest to Use).",
+            "source": [
+              "https://www.mangomint.com/"
+            ],
+            "type": {
+              "code": "brand_reputation",
+              "label": "Brand Reputation"
+            },
+            "value": "#1 highest-rated by beauty & wellness professionals"
+          },
+          {
+            "description": "Mangomint was one of 20 Los Angeles and Orange County companies ranked on Deloitte's 2025 Technology Fast 500 for revenue growth from 2021 to 2024; aggregate growth rates among featured firms reached up to 29,738%.",
+            "source": [
+              "https://www.builtinla.com/articles/deloitte-technology-fast-500-top-la-companies-20251119"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "Featured on Deloitte's 2025 Technology Fast 500 (LA region)"
+          },
+          {
+            "description": "Platform explicitly built for multi-location operators, with separate phone numbers per location and per-location billing.",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ],
+            "type": {
+              "code": "infrastructure_footprint",
+              "label": "Infrastructure Footprint"
+            },
+            "value": "Multi-location platform; per-location add-on pricing for Connect, Forms & Charting"
+          },
+          {
+            "description": "Content references U.S. salons, medspas, and beauty/wellness operators; HIPAA compliance is a featured U.S. regulatory requirement. Phone system supports international calls.",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "U.S. market focus (salon and spa operators)"
+          }
+        ],
+        "partnership": [
+          {
+            "description": "Shopify is offered as a paid integration add-on to Mangomint's Standard plan ($50/month) and is included at no additional cost on the Unlimited plan. The integration enables Mangomint salons, spas, and med spas to sync their retail product catalog and online store with Mangomint's inventory management.",
+            "name": "Shopify",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000ng4"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 9,
+              "year": 2024
+            },
+            "description": "Closed a $35 million Series B led by Altos Ventures (with OpenView and SaaStr Fund) in September 2024 to expand product features and grow customer support headcount.",
+            "source": [
+              "https://www.thesaasnews.com/news/mangomint-raises-35-million-in-series-b"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "day": 22,
+              "month": 10,
+              "year": 2025
+            },
+            "description": "Generally launched Mangomint Connect in October 2025, a unified communications module that bundles business phone, two-way SMS, and web chat into a single inbox synced with client records, monetized as a per-location add-on ($75/mo + $25/location).",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 9,
+              "year": 2024
+            },
+            "description": "Launched an expanded marketing automation suite (Automated Flows, Campaigns, Offers & Discounts) concurrent with the September 2024 Series B, embedding lifecycle email/SMS automation in all plans.",
+            "source": [
+              "https://siliconvalleyjournals.com/mangomint-secures-35-million-in-series-b-funding-and-expands-into-marketing-automation-for-enhanced-salon-and-spa-profitability/#google_vignette"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 6,
+              "month": 9,
+              "year": 2024
+            },
+            "description": "Secured a $12 million debt facility from Avidbank in September 2024 alongside the Series B, supplementing equity with non-dilutive capital.",
+            "source": [
+              "https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Deepened the Shopify integration to paid add-on ($50/mo on Standard, included on Unlimited), enabling native retail catalog and inventory sync between Mangomint and Shopify storefronts.",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 11,
+              "year": 2025
+            },
+            "description": "Was named to Deloitte's 2025 Technology Fast 500 among 20 Los Angeles/Orange County companies, publicly validating revenue growth between 2021 and 2024 and bolstering enterprise and PE visibility.",
+            "source": [
+              "https://www.builtinla.com/articles/deloitte-technology-fast-500-top-la-companies-20251119"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Marketing and feature emphasis on IV Therapy, Hair Removal, Tattoo & Piercing, Skincare, and Wellness Centers indicates deliberate expansion beyond the core hair-salon base. The 2024 blog \"8 features your IV therapy business needs in 2026\" and dedicated solution pages for each vertical confirm active landing-page and feature investment into adjacent verticals.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "General availability of Mangomint Connect (October 2025) adds a unified communications module — phone, SMS, web chat — monetized per location. This is a meaningful product-surface expansion that replaces third-party telephony and messaging tools and opens a new recurring revenue stream.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Med spa push via HIPAA-compliant Forms & Charting, BAA on Standard and Unlimited, and dedicated Med Spa solution page point to a deliberate move upmarket into regulated medical aesthetics, where willingness to pay is higher and churn is lower.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Series B use of funds explicitly includes expanding the customer support team, indicating planned headcount growth in customer success to support a larger install base and possibly enterprise deals.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          },
+          {
+            "description": "Deeper Shopify integration (paid add-on on Standard, included on Unlimited) and an integrations directory signal ecosystem investment. Although no public API is documented, the native commerce integration expands Mangomint's value to retail-heavy operators.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "The $35M Series B (September 2024, Altos Ventures lead, with OpenView and SaaStr Fund) plus a $12M Avidbank debt facility are explicit capital signals funding multi-year expansion of product, support, and go-to-market.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "25m_50m",
+          "label": "$25M-$50M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Mangomint, Inc. is a Los Angeles-based, privately held SaaS company founded in 2017 that sells cloud-based salon, spa, and med spa management software to U.S. beauty and wellness operators. The company positions itself as the \"#1 highest-rated by thousands of beauty & wellness professionals,\" supported by 2025–2026 badges from G2, Capterra, GetApp, and Software Advice, and inclusion on Deloitte's 2025 Technology Fast 500 among 20 Los Angeles/Orange County companies. It competes in the vertical SaaS market for beauty and wellness alongside legacy and modern salon-software vendors, and differentiates on a modern UI, an all-in-one product surface area (scheduling, POS, client management, marketing automation, unified communications, payroll), and a HIPAA-compliant Med Spa offering with BAA.",
+        "strengths": [
+          {
+            "details": "Mangomint's vertically integrated platform spans scheduling, POS, payments, marketing automation, memberships, payroll, and now unified communications — replacing the fragmented tool stacks used by most independent operators. With 'thousands' of salons/spas already on the platform across twelve beauty/wellness verticals, each new module adoption deepens account stickiness and expands wallet share, compounding into a higher-LTV customer base as the platform becomes irreplaceable in operators' daily workflows.",
+            "headline": "System of record for beauty & wellness SMBs",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Med spas are among the fastest-growing segments in beauty/wellness, with willingness to pay meaningfully above traditional salons due to clinical workflows, charting needs, and HIPAA obligations. Forms & Charting add-on and BAA availability position Mangomint to capture disproportionate share of this segment; as the Med Spa customer base grows, blended ARPU should rise because these accounts typically upgrade to higher-tier plans and consume more add-ons (Forms, Connect, Payroll).",
+            "headline": "Med Spa vertical tailwind unlocks higher-ACV expansion",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Mangomint Connect (launched Oct 2025) unifies phone, SMS, and web chat against the client record — and Mangomint's revenue leaders presented on 'AI in B2B sales' at SaaStr AI London, signaling active investment in AI-driven features. Bundling AI-powered two-way texting, voicemail summarization, and automated client rebooking into the existing communications stack creates a defensible automation moat vs. legacy salon software that lacks a native unified inbox to feed AI workflows.",
+            "headline": "Connect + AI turn Mangomint into a front-desk automation layer",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ]
+          },
+          {
+            "details": "Pricing model is explicitly engineered for expansion: Essentials ($165/mo) up to Unlimited ($375/mo), with per-location add-on pricing for Connect, Forms & Charting, and Shopify, plus usage-based marketing credits and integrated payment processing. As customer counts scale and operators add locations or upgrade plans, ARR compounds without proportional sales-cost growth — a classic SMB SaaS expansion flywheel already validated by the Multi-Location feature module.",
+            "headline": "Land-and-expand via per-location add-ons",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Free 1:1 onboarding, free data import, and cancel-anytime positioning have translated into six 2025-2026 G2/Capterra/GetApp/Software Advice badges and Deloitte Fast 500 recognition. As review-site reputation compounds, organic top-of-funnel acquisition should continue to scale efficiently — lowering blended CAC relative to paid-channel-dependent competitors and supporting the path to sustained Rule-of-40+ SaaS economics.",
+            "headline": "Free onboarding + zero contracts drive viral review-site acquisition",
+            "source": [
+              "https://www.builtinla.com/articles/deloitte-technology-fast-500-top-la-companies-20251119"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Fresha offers free salon/spa software monetized on payment processing, and Square Appointments is bundled free with Square's broader SMB POS ecosystem — both raising the floor on customer expectations around price. Mangomint's $165-$375/month subscription tiers assume a willingness to pay for premium UX and bundled modules; if either free competitor closes feature gaps (especially on payments or unified communications), Mangomint's pricing power and gross retention could deteriorate meaningfully.",
+            "headline": "Fresha + Square compress price umbrella",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Mindbody (private equity-backed, vertically integrated with ClassPass) and Vagaro dominate the mid-market and enterprise end of the market with deep integrations to consumer marketplaces, distribution networks, and class/wellness platforms that Mangomint lacks. As independent salons and spas grow into multi-location mid-market operators, switching costs to enterprise-grade incumbents could displace Mangomint at the high-value end of its customer base, compressing net dollar retention.",
+            "headline": "Mindbody/Vagaro enterprise lock-in pressure intensifies",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Mangomint's marketing and product positioning emphasize UI polish, automation, and unified communications — areas where generative AI could allow leanly-capitalized AI-native startups to replicate core workflows (booking, reminders, marketing copy, re-engagement) at lower price points. If AI-native competitors compress development cost and time-to-feature parity, Mangomint's engineering investment advantage (justified by its $35M Series B) erodes, and category leadership becomes contested.",
+            "headline": "AI-native booking entrants disrupt SMB funnel",
+            "source": [
+              "https://www.saastr.com/5-honest-lessons-on-how-ai-is-actually-rewiring-b2b-sales-from-salesforce-momentum-and-mangomint/"
+            ]
+          },
+          {
+            "details": "Operating geographies are exclusively US-based, with US-specific regulatory positioning (HIPAA BAA, US payment processors, US-focused content and customer logos). International salon/spa software markets (Europe, APAC, LATAM) are served by Phorest, Treatwell, Zenoti, and regional players; without geographic expansion, Mangomint's TAM is structurally capped at US SMB beauty/wellness, limiting the upside path to a $1B+ outcome that international peers can pursue.",
+            "headline": "Geographic confinement caps addressable expansion",
+            "source": [
+              "https://techbullion.com/10-best-medspa-software-2026-complete-guide-for-u-s-practices/"
+            ]
+          },
+          {
+            "details": "Transaction-based revenue from Mangomint's integrated payment processing (2.45% + 15¢ in-person / 2.90% + 30¢ virtual) is directly correlated with end-customer spend at salons and spas. In a consumer downturn or rising SMB churn, transaction revenue contracts before subscription revenue, magnifying revenue volatility — and merchants on Mangomint's processor who switch to external processors (preserving only the subscription) directly reduce blended ARPU without reducing churn risk.",
+            "headline": "Payment-processing dependency ties revenue to consumer cycles",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Once onboarded, customers embed client history, memberships, automated marketing flows, stored payment methods, and payroll records in Mangomint. Mangomint itself offers free 1:1 onboarding and free data import to lower the initial switching barrier, which paradoxically seeds durable retention by loading operational complexity into the platform.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "HIPAA-compliant Forms & Charting with a BAA available on Standard and Unlimited plans positions Mangomint to credibly serve the regulated med spa and clinical aesthetics vertical. This compliance posture is a documented prerequisite for that segment and is not universally offered by all salon-software competitors.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "Brand positioning as the \"#1 highest-rated\" platform, corroborated by multiple 2025-2026 G2, Capterra, GetApp, and Software Advice badges, plus Deloitte Technology Fast 500 inclusion. Brand recognition is genuine within a narrow vertical but not broad enough to constitute a wide-moat asset.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Free 1:1 personalized onboarding with a dedicated onboarding manager and free data import (clients, products, gift cards, notes, services, transactions, history) shortens sales cycles and is a tangible differentiator against legacy salon software. Combined with a dual inside-sales + PLG trial funnel and SEO-rich vertical landing pages, distribution is a real, if not extraordinary, advantage.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Aggregated appointment, payment, and retention data across \"thousands\" of salons and spas could power benchmarking and smarter defaults over time, but the company has not disclosed any data-network effects, proprietary models, or benchmarking products. Data advantage is therefore latent rather than realized.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "No cost advantage is documented. Pricing is at or above category norms (Essentials $165/mo to Unlimited $375/mo), and payment processing rates (2.45% + 15¢ in-person) are standard rather than discount-driven. Capital from the $35M Series B enables product and support investment but does not translate to unit-economics superiority.",
+            "type": {
+              "code": "cost_advantage",
+              "label": "Cost Advantage"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Salon/spa software is one of the most crowded vertical SaaS categories, with several well-capitalized competitors (Mindbody/ClassPass-owned, Boulevard, Zenoti) and free alternatives (Fresha) pursuing overlapping customer bases. Mangomint must continuously out-execute on UX and bundling to defend share, and any pricing pressure from a free or low-cost competitor directly threatens ARPU.",
+            "headline": "Hyper-competitive vertical with well-funded direct peers (Mindbody, Vagaro, Boulevard, Zenoti, Fresha, GlossGenius)",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Operating geographies and regulatory certifications are exclusively US-based; content, HIPAA positioning, payment processing, and customer base all reference US salons, medspas, and beauty/wellness operators. International competitors like Phorest (Europe/global) and Zenoti (global) operate across geographies where Mangomint does not compete, limiting long-term expansion optionality.",
+            "headline": "US-only geographic footprint caps TAM and leaves international markets to global competitors",
+            "source": [
+              "https://techbullion.com/10-best-medspa-software-2026-complete-guide-for-u-s-practices/"
+            ]
+          },
+          {
+            "details": "Pricing is explicitly no-contract, cancel-anytime, monthly billing starting at $165 — characteristic of an SMB-heavy customer base that historically exhibits 2-3x higher gross dollar churn than mid-market SaaS. Featured customers skew toward single-location and small multi-location operators, which amplifies churn sensitivity to economic cycles and competitive pricing pressure.",
+            "headline": "SMB customer base with monthly no-contract billing creates structurally higher churn exposure",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Source data confirms no public or partner-facing API, SDK, or developer portal is documented — only a native Shopify integration is offered as a paid add-on. The absence of an API limits third-party ecosystem development (custom integrations, app marketplace, agency channel), constraining the platform's reach relative to peers that have built developer ecosystems.",
+            "headline": "No documented public API or developer ecosystem creates lock-in ceiling and ecosystem dependency",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Transaction-based revenue from Mangomint's integrated payment processing (2.45% + 15¢ in-person / 2.90% + 30¢ virtual) is tied to end-customer payment volume. While customers can opt out by using their own processor, doing so forfeits Express Booking, cards-on-file, deposits, and self checkout — concentrating a non-trivial revenue stream in a volume-sensitive channel vulnerable to consumer spending downturns.",
+            "headline": "Dependency on integrated payment processing ties a portion of revenue to payment-volume cycles",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Explicit HIPAA posture and Forms & Charting add-on serve med spas and IV therapy clinics — categories that handle protected health information and operate under state medical board oversight. Any breach, audit, or regulatory tightening (e.g., changing HIPAA enforcement, state telehealth rules) creates direct liability exposure and could require unplanned compliance investment that smaller SaaS competitors may not need to bear.",
+            "headline": "Med Spa vertical exposure increases regulatory and clinical workflow risk",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Featured among 20 LA/Orange County companies on Deloitte's 2025 Technology Fast 500 for revenue growth from 2021 to 2024 — one of the most credible external validations of a high-growth B2B SaaS business. The company sits alongside peers that registered growth rates up to 29,738% over the measurement window.",
+            "headline": "Deloitte 2025 Technology Fast 500 honoree validating sustained triple-digit revenue growth (2021-2024)",
+            "source": [
+              "https://www.builtinla.com/articles/deloitte-technology-fast-500-top-la-companies-20251119"
+            ]
+          },
+          {
+            "details": "Closed a $35M Series B led by Altos Ventures in Sept 2024, with OpenView and SaaStr Fund participating, and a $12M debt facility from Avidbank. Cumulative capital raised exceeds $60M, explicitly earmarked for product expansion and customer support scale-up — a strong runway relative to its Series B stage.",
+            "headline": "Well-capitalized with $35M Series B led by Altos Ventures in September 2024",
+            "source": [
+              "https://www.thesaasnews.com/news/mangomint-raises-35-million-in-series-b"
+            ]
+          },
+          {
+            "details": "Mangomint Connect (launched Oct 2025) consolidates phone calls, two-way SMS, and web chat into a single inbox synced with the client record — a bundled native capability that legacy competitors typically require third-party integrations to assemble. Includes dedicated per-location numbers, unlimited domestic minutes, and a web chat widget.",
+            "headline": "Unified communications (Mangomint Connect) is a genuine product differentiator vs. legacy salon software",
+            "source": [
+              "https://www.mangomint.com/blog/introducing-connect/"
+            ]
+          },
+          {
+            "details": "Serves hair salons, med spas, IV therapy, skincare studios, beauty studios, massage studios, hair removal studios, tattoo & piercing studios, nail salons, barbershops, wellness centers, and day spas from a single codebase — broadening the addressable customer base while concentrating engineering investment.",
+            "headline": "Multi-vertical platform serving twelve distinct beauty/wellness segments reduces segment-specific risk",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          },
+          {
+            "details": "Includes free 1:1 personalized onboarding with a dedicated onboarding manager and free data import (clients, products, gift cards, notes, services, transaction and appointment history) with every plan. No contracts, cancel anytime. This GTM motion is a tangible competitive advantage against legacy salon software with self-serve or fee-based onboarding.",
+            "headline": "Differentiated white-glove onboarding and free data import lower customer acquisition friction",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Holds six 2025-2026 third-party review badges (Capterra Best for Ease of Use 2026, G2 High Performer Winter 2026, G2 Best Support Winter 2026, G2 Easiest to Use Winter 2026, GetApp Best Functionality & Features 2025, Software Advice Best Customer Support 2026), positioned on the homepage as the '#1 highest-rated by thousands of beauty & wellness professionals.'",
+            "headline": "Stack of six 2025-2026 G2/Capterra/GetApp/Software Advice badges reinforces category-leading brand reputation",
+            "source": [
+              "https://www.mangomint.com/pricing/"
+            ]
+          },
+          {
+            "details": "Forms & Charting add-on plus BAA availability on Standard and Unlimited plans explicitly target the regulated Med Spa segment — a fast-growing vertical with higher willingness to pay, longer retention, and stricter compliance requirements that deter undifferentiated competitors. Named customers include Bare Laser Med Spa and Pure Beauty Aesthetics.",
+            "headline": "HIPAA-compliant Med Spa offering opens a regulated, high-ACV vertical with structural tailwinds",
+            "source": [
+              "https://www.mangomint.com/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Mangomint's logo wall is dominated by independent and small-chain operators (Atomic Tattoo, Cape Cod Nail Co, Cheeks and Co, Glassskin, Mero Mero, My Little Beautique, Pony Studios Co, Yello, Sugarmoon, House of Aanuko, Goldust Studios, Pure Beauty Aesthetics, Vanity Projects, N Natural Hair Studio) with only a handful of larger brands (Anastasia Beverly Hills, Ouidad). Per-location subscription pricing ($165-$375/mo plus add-ons) and explicit language describing \"thousands of salons and spas\" indicate a long-tail, distributed revenue base with no single-customer dependency. The risk to revenue predictability is therefore not concentration but SMB churn, where the Unlimited plan ($375/mo) and med spa vertical likely anchor a more stable mid-market tier.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Largest incumbent in salon/spa/fitness/wellness software with a deep consumer marketplace (ClassPass integration), enterprise distribution, and well-funded product organization. Mangomint competes with Mindbody on scheduling, payments, and CRM but positions against its legacy UX and bundle complexity.",
+            "name": "Mindbody",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0002j5r"
+          },
+          {
+            "description": "Directly comparable salon/spa/fitness software with similar pricing tiers, marketplace, and add-on structure. Closest head-to-head competitor to Mangomint on SMB salon and spa management.",
+            "name": "Vagaro",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000049s"
+          },
+          {
+            "description": "Premium salon and spa management platform that targets the higher end of the market, including med spas, with a comparable UX-led value proposition. Frequently cited alongside Mangomint as the modern alternative to legacy salon software.",
+            "name": "Boulevard",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00005dt"
+          },
+          {
+            "description": "Free salon/spa software platform monetized on integrated payment processing with a global consumer marketplace. Directly competes on price and marketplace distribution, representing the most aggressive free-tier threat to Mangomint's subscription model.",
+            "name": "Fresha",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00004od"
+          },
+          {
+            "description": "Mobile-first booking and payments platform focused on independent beauty professionals (salons, barbers, estheticians). Comparable go-to-market motion (PLG, design-led brand) targeting the same lower end of the SMB beauty vertical.",
+            "name": "GlossGenius",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "02mb213"
+          },
+          {
+            "description": "Free appointment booking module within Square's broader SMB commerce ecosystem (POS, payments, payroll). Competes at the price-sensitive bottom of the market by bundling salon software with widely adopted payment processing.",
+            "name": "Square Appointments",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "000068h"
+          },
+          {
+            "description": "Enterprise-grade salon, spa, and med spa management platform with deeper multi-location and franchise functionality. Competes with Mangomint especially in the med spa vertical and large multi-location operators, with broader international reach.",
+            "name": "Zenoti",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003w9"
+          },
+          {
+            "description": "Salon and spa software primarily serving the European and UK markets with comparable salon management, marketing, and online booking functionality. Comparable product but different geographic footprint than Mangomint.",
+            "name": "Phorest",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "0000qvf"
+          },
+          {
+            "description": "Booking and management platform for barbers, beauticians, and tattoo artists with strong international presence, especially in Europe. Comparable in target verticals (barbershops, tattoo studios, beauty) but operates in different geographies than Mangomint.",
+            "name": "Booksy",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "000041f"
+          },
+          {
+            "description": "European salon and spa booking marketplace with adjacent software for partner salons. Comparable vertical focus and consumer marketplace dynamic but concentrated in the UK/Europe vs. Mangomint's US-only footprint.",
+            "name": "Treatwell",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "000ahte"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

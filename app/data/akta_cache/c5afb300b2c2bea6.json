@@ -1,0 +1,147 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00000so&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:24.321Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 39725003,
+        "title": "Talkiatry Earns Joint Commission Accreditation for Behavioral Health Care",
+        "url": "https://www.prnewswire.com/news-releases/talkiatry-earns-joint-commission-accreditation-for-behavioral-health-care-302897838.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-10-05T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Talkiatry earned The Joint Commission's Gold Seal of Approval for Behavioral Health, reflecting its clinical excellence. The accreditation follows the company surpassing four million patient visits and serves over 170 million covered lives. It marks a milestone after its $210M Series D funding and AMGA partnership.",
+        "word_count": 621,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Behavioral Health Population Health, Quality & Outcomes Measurement",
+            "code": "HLAEAHAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Awards, Rankings & Recognitions",
+            "code": "SD11",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003zyc",
+            "name": "The Joint Commission",
+            "website": "http://www.jointcommission.org",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000458",
+            "name": "mental health"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "313",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "622210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62133",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "robert krayn",
+            "ken grubbs",
+            "alex mckechnie",
+            "georgia gaveras"
+          ],
+          "location": [
+            "new york",
+            "u.s.",
+            "united states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.988,
+        "group_id": 13412895,
+        "full_text": "Nationally recognized Gold Seal of Approval® reflects clinical excellence behind Talkiatry's in-network psychiatric and therapy care, delivered to over 170 million covered lives nationwide NEW YORK, Oct. 5, 2026 /PRNewswire/ -- Talkiatry, the nation's largest psychiatric provider group and the preferred in-network psychiatry partner for more than 70 U.S. health systems, has earned The Joint Commission's Gold Seal of Approval® for Behavioral Health. This distinction reflects Talkiatry's continued commitment to providing comprehensive, high-quality care, with more than 170 million covered lives, coming shortly after the company surpassed four million patient visits to date. Talkiatry's Joint Commission accreditation is a testament to the rigor of the provider group's processes, clinical oversight, and safety practices behind its model. The accreditation reflects Talkiatry's pursuit of clinical excellence and its focus on meeting the same clinical standards held by the country's leading brick-and-mortar healthcare institutions. As demand for behavioral healthcare continues to outpace access nationally, an increasing number of psychiatric care providers have moved to virtual and hybrid settings. With this, patients, providers, and payers have fewer ways to assess whether providers meet consistent, independently audited standards for quality and safety. The Gold Seal of Approval® is a reflection of Talkiatry's robust clinical standards and an integrated care model that brings therapy and psychiatry together to support better patient outcomes. \"Earning Joint Commission accreditation is validation of our clinical infrastructure, further strengthening confidence across the board for our patients, clinicians on staff, and the providers who trust us with their patients,\" said Dr. Georgia Gaveras, DO, co-founder and Chief Medical Officer of Talkiatry. \"We have, and continue to, invest in a clinical team that is dedicated to developing meaningful, long-term relationships with patients. Our model gives clinicians the time and resources to go beyond 15-minute intakes. At Talkiatry, the standard intake is 60 minutes, which allows our clinicians the time to truly understand their patients' needs and deliver care that is thoughtful, personalized, and clinically rigorous.\" This Joint Commission accreditation marks the latest milestone in a year of significant growth for Talkiatry, following the company's strategic partnership with AMGA (American Medical Group Association) to expand access to in-network psychiatric care nationwide and the company's $210M Series D funding round earlier this year. To earn the Gold Seal of Approval® for Behavioral Health, Talkiatry underwent a comprehensive review of its operations, policies, patient care delivery, and privacy and security practices to ensure compliance with Joint Commission. Surveyors from the Joint Commission then conducted on-site observations and interviews to identify performance strengths and opportunities for continued improvement before determining their final decision. \"Joint Commission congratulates Talkiatry for achieving accreditation by demonstrating its focus on delivering safe and effective care of the highest quality and value,\" says Ken Grubbs, DNP, MBA, RN, executive vice president of Accreditation and Certification Operations and chief nursing officer, Joint Commission. \"Through the accreditation process, we worked closely with Talkiatry to enable and affirm the highest standards of healthcare quality and patient safety. Together, we are elevating care for all patients, and we appreciate Talkiatry's collaboration throughout this process.\" About Talkiatry Talkiatry is a full-stack provider group delivering in-network psychiatric and therapy care across the United States. The company directly employs more than 800 full-time psychiatrists, making it the largest private employer of psychiatrists in the country, and has delivered 4 million patient visits to date. Talkiatry serves as the preferred psychiatry partner for health systems, payers, and employers seeking dependable access and superior outcomes. The company's care model is underpinned by proprietary AI-powered technology to manage care delivery, streamline clinical operations, and engage members. Talkiatry was co-founded by Robert Krayn and Georgia Gaveras, DO. Learn more at talkiatry.com and follow us on LinkedIn, Facebook, and Instagram. Media Contact\n\nAlex McKechnie\n\n[email protected] SOURCE Talkiatry"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

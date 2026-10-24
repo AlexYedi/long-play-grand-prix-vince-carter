@@ -1,0 +1,128 @@
+{
+  "company_id": "C20",
+  "company": "Sorrel & Pike People",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 70100,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 192,
+        "end": 213
+      },
+      "quote": "MRR $70.1K, ARR $841K",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 841000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 192,
+        "end": 213
+      },
+      "quote": "MRR $70.1K, ARR $841K",
+      "confidence": 0.9
+    },
+    "monthly_burn": {
+      "value": 150000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 345,
+        "end": 364
+      },
+      "quote": "Net burn $150K / mo",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 2450000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 367,
+        "end": 378
+      },
+      "quote": "Cash $2.45M",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 16,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 381,
+        "end": 397
+      },
+      "quote": "16 months runway",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 15,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 231,
+        "end": 246
+      },
+      "quote": "15 team members",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 63,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 216,
+        "end": 228
+      },
+      "quote": "63 customers",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Payroll-sync integrations drove 40% of new logos",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 274,
+        "end": 322
+      },
+      "quote": "Payroll-sync integrations drove 40% of new logos",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "SMB logo churn at 2.4% monthly, up from 2.1%",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C20_sorrelpike_Q3-update-deck.md",
+      "source_span": {
+        "start": 419,
+        "end": 463
+      },
+      "quote": "SMB logo churn at 2.4% monthly, up from 2.1%",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

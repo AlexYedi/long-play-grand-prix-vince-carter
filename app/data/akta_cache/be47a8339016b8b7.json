@@ -1,0 +1,344 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002m5&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:11.974Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 21446326,
+        "title": "Overjet gets FDA nod for CBCT Assist",
+        "url": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15774427/overjet-gets-fda-nod-for-cbct-assist",
+        "publisher": "DrBicuspid.com",
+        "published_date": "2025-12-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Overjet has received U.S. Food and Drug Administration (FDA) clearance for its CBCT Assist product, an AI-powered tool designed for dental 3D cone-beam computed tomography imaging. The technology automatically identifies, labels, segments, and measures anatomical structures including bone levels, airway space, nerve proximity, and implant site conditions to support diagnostic and treatment planning. This clearance expands Overjet's AI platform capabilities in the dental imaging sector.",
+        "word_count": 79,
+        "original_language": "EN",
+        "author": "Drbicuspid.Com Staff Writersdec",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Cone Beam CT (CBCT) Imaging Centers",
+            "code": "HLABAIAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "3345",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "cbct assist"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7689,
+        "group_id": 20425,
+        "full_text": "Overjet has received U.S. Food and Drug Administration (FDA) clearance for CBCT Assist, expanding its AI platform to support 3D cone-beam computed tomography (CBCT) scans. The clearance allows Overjet’s AI to assist with anatomical assessment and diagnostic and treatment planning in dentistry. CBCT Assist is designed to automatically identify, label, segment, and measure key anatomical and restorative structures in 3D images, including bone levels, airway space, nerve proximity, sinus distance, and implant site bone height.\n\nFacebook LinkedIn X (Twitter) Pinterest"
+      },
+      {
+        "id": 17514310,
+        "title": "Overjet Secures FDA Clearance for CBCT Assist AI Platform",
+        "url": "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/",
+        "publisher": "Orthodontic Products",
+        "published_date": "2025-12-19T21:39:22",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Overjet has received FDA 510(k) clearance for its CBCT Assist AI product, expanding its AI platform to support diagnostic interpretation of cone beam computed tomography imaging for dental professionals. The new tool automatically identifies, labels, segments, and quantifies anatomical structures in CBCT scans, providing clinically relevant measurements for periodontal bone levels, airway assessment, implant site evaluation, and surgical planning. This marks Overjet's 10th FDA clearance, reinforcing the company's position as an industry standard for dental AI.",
+        "word_count": 377,
+        "original_language": "EN",
+        "author": "Alison Werner",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Cone Beam CT (CBCT) Imaging Centers",
+            "code": "HLABAIAC",
+            "is_primary": true
+          },
+          {
+            "name": "Radiology AI, CAD & Advanced Visualization Software",
+            "code": "HLAHABAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          },
+          {
+            "code": "20001226",
+            "name": "surgical medicine"
+          },
+          {
+            "code": "20000762",
+            "name": "identification technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "319",
+            "name": "Medical Health"
+          },
+          {
+            "code": "321",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "334516",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr parag kachalia",
+            "dr wardah inam"
+          ],
+          "location": [],
+          "product": [
+            "cbct assist",
+            "auravue",
+            "dds"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 20425,
+        "full_text": "Overjet Secures FDA Clearance for CBCT Assist AI Platform\n\nOverjet has received FDA 510(k) clearance for its CBCT Assist tool, expanding its AI platform to support diagnostic interpretation of 3D dental imaging. Overjet has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, expanding the company’s AI platform to include diagnostic support for cone beam computed tomography (CBCT) imaging. AI Support for CBCT Imaging The new product assists dental professionals in the review and interpretation of CBCT images. It enables anatomical assessment and supports diagnostic and treatment planning by automatically identifying, labeling, segmenting, and quantifying key anatomical and restorative structures in CBCT scans. Clinically relevant measurements provided include periodontal bone levels, airway minimal cross-sectional area, distances between tooth and anatomical structures, and tooth impaction ratio. Image Enhancement and Measurement Capabilities CBCT Assist includes image enhancement tools such as brightness, contrast, and Virtual Panoramic reconstruction. It also features measurement tools for distance, area, angle, and signal intensity. Clinical Applications The product supports advanced visualization with Multi-Planar Reconstruction views and 3D Volume Rendering. It facilitates surgical planning, including third molar surgery, by generating linear measurements to nearby critical structures. It also aids in implant site evaluation by providing measurements for assessing bone availability and anatomical features. For airway assessment, it automatically reports the minimum cross-sectional area. “This FDA clearance for CBCT Assist, Overjet’s 10th FDA clearance to date, is a critical milestone that reinforces our leadership in bringing clinically validated AI to the forefront of oral healthcare,” said Dr Wardah Inam, CEO of Overjet. “As the industry standard for dental AI, we are committed to giving providers the best tools available to drive evidence-based treatment and ensure the highest quality of care for their patients.” Dr Parag Kachalia, head of clinical practice at Overjet, added, “The FDA clearance for CBCT Assist is more than just a regulatory achievement; it is validation of our foundational scientific rigor. This innovation directly supports our mission to provide unparalleled diagnostic clarity and elevate the quality of care across the entire dental ecosystem.” Photo: Overjet Overjet in the news: Medit Debuts AuraVue to Combine 3D Scans and AI Diagnostics\n\nSOTA Cloud and Overjet Complete Integration of Clinical AI into Imaging Platform\n\nNew Platform from Planet DDS Embeds AI Across DSO Workflows"
+      },
+      {
+        "id": 21445932,
+        "title": "Overjet Announces New FDA Clearance for CBCT 3D Imaging",
+        "url": "https://www.overjet.com/blog/overjet-announces-new-fda-clearance-for-cbct-3d-imaging",
+        "publisher": "Overjet",
+        "published_date": "2025-12-16T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Overjet, a dental AI company based in San Mateo, California, has received 510(k) clearance from the U.S. Food and Drug Administration for its CBCT Assist product, the company's 10th FDA clearance to date. The new AI-powered tool enables dental professionals to review and interpret 3D cone beam computed tomography images by automatically identifying, labeling, segmenting, and quantifying anatomical structures. Overjet is offering early access to CBCT Assist for clinics based in the United States.",
+        "word_count": 402,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          },
+          {
+            "name": "Implant Planning & Surgical Guide Imaging Centers",
+            "code": "HLABAIAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          },
+          {
+            "code": "20000762",
+            "name": "identification technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr. parag kachalia",
+            "dr. wardah inam"
+          ],
+          "location": [
+            "united states",
+            "san mateo, ca"
+          ],
+          "product": [
+            "cbct assist",
+            "overjet cbct assist"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5650073,
+        "full_text": "FOR IMMEDIATE RELEASE SAN MATEO, CA – December 16, 2025 – Overjet, a leader in artificial intelligence (AI) for dental organizations, today announced that it has received 510(k) clearance from the U.S. Food and Drug Administration (FDA) for Overjet CBCT Assist. This clearance expands Overjet's AI platform to enable interactive review and support diagnostic interpretation of 3D CBCT data, further solidifying its position as one of the most comprehensive clinical intelligence AI solutions in dentistry. With this new clearance, Overjet’s clinical intelligence platform extends its AI capabilities to cone beam computed tomography (CBCT) imaging. Overjet’s CBCT Assist product will assist dental professionals in their review and interpretation of CBCT images by facilitating anatomical assessment and supporting their diagnostic and treatment planning process. The product uses AI to automatically identify, label, segment, and quantify key anatomical and restorative structures in CBCT scans, surfacing clinically relevant measurements such as periodontal bone levels, airway minimal cross-sectional area, tooth-to-maxillary sinus and tooth-to-inferior alveolar canal distances, and tooth impaction ratio (percent of crown within bone). “This FDA clearance for CBCT Assist, Overjet’s 10th FDA clearance to date, is a critical milestone that reinforces our leadership in bringing clinically validated AI to the forefront of oral healthcare,” said Dr. Wardah Inam, CEO of Overjet. “As the industry standard for dental AI, we are committed to giving providers the best tools available to drive evidence-based treatment and ensure the highest quality of care for their patients.” The CBCT Assist platform combines essential image enhancement tools such as brightness, contrast, and Virtual Panoramic reconstruction, with measurement capabilities for distance, area, angle, and signal intensity. Key clinical capabilities include: Advanced Visualization: features Multi-Planar Reconstruction (MPR) views and 3D Volume Rendering for a thorough view of patient anatomy.\n\nSurgical Planning & Safety: Facilitates third molar surgery planning by generating linear measurement to nearby critical structures.\n\nImplant Site Evaluation: Provides robust measurement tools to support assessment of bone availability and anatomy for optimal implant placement.\n\nAirway Assessment: Supports airway evaluation by automatically reporting the minimum cross-sectional area. Dr. Parag Kachalia, Head of Clinical Practice at Overjet, said, “The FDA clearance for CBCT Assist is more than just a regulatory achievement; it is validation of our foundational scientific rigor. This innovation directly supports our mission to provide unparalleled diagnostic clarity and elevate the quality of care across the entire dental ecosystem.” Clinics based in the United States can sign up for early access to Overjet’s CBCT Assist."
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

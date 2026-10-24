@@ -1,0 +1,747 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0002rlm&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:17.831Z",
+  "data": {
+    "data": {
+      "uuid": "0002rlm",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "acquired",
+            "label": "Acquired"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2020
+          },
+          "total_funding_usd": 36700000
+        },
+        "funding_rounds": [
+          {
+            "id": 274150,
+            "date": {
+              "month": 7,
+              "year": 2020
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          },
+          {
+            "id": 371527,
+            "date": {
+              "month": 9,
+              "year": 2018
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 377696,
+            "date": {
+              "month": 10,
+              "year": 2016
+            },
+            "round": {
+              "code": "series_a",
+              "label": "Series A"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "BlackFin Tech",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000roh5",
+            "website": "https://www.blackfin-tech.com/"
+          },
+          {
+            "name": "Molten Ventures",
+            "type": {
+              "code": "public",
+              "label": "Public"
+            },
+            "uuid": "0000bjc",
+            "website": "https://www.moltenventures.com"
+          },
+          {
+            "name": "BlackFin Capital Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0003cpi",
+            "website": "https://www.blackfin.com/"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 1 more funding rounds; 5 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Ravelin provides an AI-native fraud and abuse prevention platform for online merchants, delivering real-time risk decisioning across the customer journey from login through checkout. The platform bundles six modules — Online Payment Fraud, Account Security, Refund Abuse, Promo Abuse, Marketplace Partner Fraud, and 3D Secure — powered by custom machine learning models, a 9+ billion identity-element consortium database, and graph network link analysis, sold as an enterprise SaaS subscription.",
+        "differentiator": "Ravelin differentiates through AI-native custom machine learning models optimized per customer, a consortium database of 9+ billion identity elements, and industry-leading graph network link analysis. The platform offers tailored solutions rather than one-size-fits-all, with proactive partnership including dedicated data scientists for continuous optimization. Full end-to-end support with dedicated account management and three specialized teams.",
+        "functional_benefit": "Reduces fraud losses and chargebacks to negligible amounts; enables accepting more orders by better identifying trustworthy customers; maximizes operational efficiency for fraud teams through automated AI-native decision-making; provides secure growth alignment as volumes scale and priorities change.",
+        "problem_solved": "Online payment fraud, account takeover, refund abuse, promo abuse, marketplace fraud, and 3D Secure optimization. Ravelin helps merchants accept more payments securely while balancing fraud prevention with customer experience.",
+        "quantifiable_outcome": [
+          "Fraud losses reduced to negligible amounts using data-driven protection",
+          "Higher acceptance rates and more conversions with no compromise to security",
+          "Eliminates repetitive tasks for fraud teams through automated decision-making"
+        ],
+        "product_overview": "Ravelin is an AI-native fraud and abuse prevention platform offering a modular product suite for online merchants. The core platform provides six integrated fraud prevention modules: Online Payment Fraud, Account Security, Refund Abuse, Promo Abuse, Marketplace Partner Fraud, and 3D Secure. These modules share foundational technologies including custom machine learning models, a consortium database of 9+ billion identity elements, and graph network analysis for link detection. The platform is PSP-agnostic and supports the entire customer journey from login through checkout. Additional offerings include support services, APIs for developer integration, and the Insights reporting feature with AI-powered queries.",
+        "product_and_service": [
+          {
+            "category": "Payment Fraud Prevention",
+            "description": "Automated risk decisioning for all payment methods that enables online merchants to accept more payments securely, reduce chargebacks, and block existing and emerging fraud.",
+            "name": "Online Payment Fraud",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/payment-fraud-prevention"
+          },
+          {
+            "category": "Account Takeover Prevention",
+            "description": "Account takeover (ATO) protection and multi-accounting detection using purpose-built machine learning to optimize journeys for legitimate customers while blocking bad actors at login and checkout.",
+            "name": "Account Security",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/account-security"
+          },
+          {
+            "category": "Refund Abuse Prevention",
+            "description": "Tools to distinguish acceptable returns behavior from abuse and fraud, enabling merchants to confidently accept returns from good customers while blocking fraudsters.",
+            "name": "Refund Abuse",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/refund-abuse"
+          },
+          {
+            "category": "Promotional Abuse Prevention",
+            "description": "Protection for vouchers, sales, and promotional offers against abuse, setting limits on how and how many times promotional offers can be redeemed to protect marketing investments.",
+            "name": "Promo Abuse",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/promo-abuse"
+          },
+          {
+            "category": "Marketplace Fraud Prevention",
+            "description": "Detection and prevention of supplier and marketplace fraud to protect bottom line in marketplace and platform business models.",
+            "name": "Marketplace Partner Fraud",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/marketplace-fraud"
+          },
+          {
+            "category": "Payment Authentication",
+            "description": "PSP-agnostic 3D Secure solution for managing authentication strategy, maximizing approvals through real-time issuer intelligence, dynamic routing, and data enrichment recommendations.",
+            "name": "3D Secure",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/3ds"
+          },
+          {
+            "category": "Professional Services",
+            "description": "Support services including dedicated account management, integrations team, product support, and data science teams for holistic fraud prevention.",
+            "name": "Support and Investigations",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "url": "https://www.ravelin.com/solutions/support"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Consortium database containing anonymized identity data from merchant network",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "9+ billion identity elements"
+          },
+          {
+            "description": "Ravelin's Global Fraud Trends 2026 report surveyed 1,504 professionals",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "1,504 professionals across 10 countries"
+          },
+          {
+            "description": "Average fraud loss per enterprise, a 7.5% increase from 2025",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "$11.4 million average loss per enterprise"
+          },
+          {
+            "description": "From Global Fraud Trends 2026 report",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "60% of respondents saw AI used against them"
+          },
+          {
+            "description": "From Global Fraud Trends 2026 report",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "81% estimate up to 15% of fraud was AI-influenced"
+          },
+          {
+            "description": "From Ravelin's 2025 fraud survey",
+            "source": [
+              "https://www.crowdfundinsider.com/2025/10/255155-ravelin-6-of-retailers-seeing-more-fraud-in-2025/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "76% of online retailers experienced increased fraud in 2025"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 4,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Worldpay announced its agreement to acquire Ravelin, a London-based AI-native fraud prevention platform, to enhance its payments solutions and fraud detection capabilities. The acquisition aims to strengthen Worldpay's portfolio, improve authorization rates, and address increasing online fraud threats. The deal was expected to close in Q1 2025.",
+            "name": "Worldpay",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "oem_whitelabel_licensing",
+              "label": "OEM/ Whitelabel/ Licensing Partner"
+            },
+            "uuid": "0002694"
+          },
+          {
+            "description": "Ravelin is acknowledged in the Visa Global Registry of Service Providers, indicating compliance with PCI standards. Ravelin also supports Visa's DCAP (Data Clarification and Analytics Program) for boosting approval rates.",
+            "name": "Visa",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00007cz"
+          },
+          {
+            "description": "Ravelin is certified as PCI 3DS Validated and PCI DSS compliant, meeting industry security standards for handling payment card information and 3D Secure functions.",
+            "name": "PCI Security Standards Council",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0006yac"
+          },
+          {
+            "description": "Ravelin has been assessed and deemed compliant with ISO 27001:2022 information security management standards by the British Assessment Bureau.",
+            "name": "British Assessment Bureau",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0008c6z"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "day": 4,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Worldpay announced an agreement to acquire Ravelin to strengthen its fraud detection capabilities and authorization rates, with the deal expected to close in Q1 2025.",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 10,
+              "year": 2025
+            },
+            "description": "Launched the Insights feature in the Ravelin Dashboard with AI-powered queries to simplify fraud reporting for customer fraud teams.",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 15,
+              "month": 7,
+              "year": 2020
+            },
+            "description": "Closed a $20.65 million Series C led by Molten Ventures with Amadeus Capital, BlackFin Tech, and Passion Capital, the largest funding round in company history.",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "year": 2026
+            },
+            "description": "Launched the Global Fraud Trends 2026 report based on a survey of 1,504 professionals across 10 countries, reinforcing thought leadership positioning.",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "year": 2026
+            },
+            "description": "Released the Agentic Commerce and Fraud Report 2026, signaling product development intent around AI-agent-driven commerce fraud.",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 11,
+              "month": 9,
+              "year": 2018
+            },
+            "description": "Closed a $10.4 million Series B led by BlackFin Capital Partners to scale the platform and expand the consortium dataset.",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Surveyed 1,504 professionals across 10 countries for the Global Fraud Trends 2026 report, indicating active go-to-market and brand presence across multiple geographies beyond the UK headquarters.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "Agentic Commerce and Fraud Report 2026 positions Ravelin to extend fraud prevention into the emerging AI-agent commerce workflow, suggesting intent to build new modules around autonomous shopping agents and merchant protection.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Launch of the Insights dashboard with AI-powered queries (Oct 2025) extends the platform from risk decisioning into reporting and analytics, creating an upsell surface and a stickier workflow for fraud team users.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Customer logo expansion into automotive (Ford) and insurance-adjacent fintech (Marshmallow) alongside core food delivery and retail suggests vertical diversification beyond the original eCommerce concentration.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "Partnerships with payments ecosystem players (Fiserv, Elavon, Worldpay, Visa DCAP) position Ravelin for distribution through PSPs/acquirers, an effective channel expansion that embeds the product inside merchant onboarding flows.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Active careers page and 101-250 headcount band, combined with heads of product, sales, and senior ML leadership, indicate ongoing organizational buildout rather than contraction.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          },
+          {
+            "description": "The Worldpay acquisition announcement (Feb 2025) signals an M&A exit/strategic combination; if completed, it would dramatically expand Ravelin's distribution through Worldpay's global merchant base.",
+            "type": {
+              "code": "m_and_a_signal",
+              "label": "M And A Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "25m_50m",
+          "label": "$25M-$50M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Ravelin Technology Ltd. is a London-based, AI-native fraud detection and prevention platform founded in 2014, serving online merchants globally. The company is privately held and was reported to be entering an acquisition by Worldpay in February 2025, though its website and brand continue to operate independently as of mid-2026. Its position in the market is anchored by an enterprise-focused sales motion targeting large e-commerce, food delivery, travel, and marketplace merchants, with notable customers including Deliveroo, Spotify, Tesco, John Lewis, Just Eat, Back Market, and Frasers Group.",
+        "strengths": [
+          {
+            "details": "With 60% of merchants reporting AI-powered attacks and average enterprise losses of $11.4M (up 7.5% YoY), demand for AI-native fraud detection is accelerating and Ravelin's custom ML + graph network approach is well-positioned to capture rising budgets as merchants shift away from rules-based legacy systems.",
+            "headline": "AI fraud arms race expands addressable market",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ]
+          },
+          {
+            "details": "Already integrating with Worldpay, Fiserv, and Elavon, Ravelin can ride acquirer-led distribution to embed its decisioning into thousands of downstream merchants, turning the consortium into an even sharper competitive moat over time as payment volume routed through Ravelin grows.",
+            "headline": "Worldpay distribution unlocks global merchant base",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ]
+          },
+          {
+            "details": "The modular suite spans payment fraud, ATO, refund abuse, promo abuse, marketplace fraud, and 3DS, all sharing underlying ML models and consortium data; cross-sell of additional modules into the existing enterprise base (Deliveroo, Spotify, Tesco, John Lewis, Back Market) represents a high-margin revenue expansion lever.",
+            "headline": "Modular platform drives expansion revenue",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin's 2026 launches of the Agentic Commerce & Fraud Report and Insights AI-powered dashboard show the company is productizing research IP and embedding AI assistants into customer workflows, positioning ahead of the agentic commerce threat wave that the company itself is forecasting.",
+            "headline": "Emerging agentic commerce creates new category",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Signaling and graph data become more predictive as more nodes join, meaning Ravelin's consortium advantage compounds rather than erodes, particularly as the company extends coverage into non-card fraud (ATO, promo abuse, marketplace fraud) where data scarcity is currently higher.",
+            "headline": "Data network effects deepen with scale",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Anchoring the dataset to a single acquirer's merchant base dampens the network-effect economics of the consortium database that currently spans 9+ billion identity elements, which depends on breadth across many PSPs and acquirers to flag identity-level fraud accurately.",
+            "headline": "Worldpay ownership risks ecosystem conflict",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin's own research shows 60% of merchants saw AI used against them and 81% estimate up to 15% of fraud is AI-influenced; defensive AI is a commoditizing capability where new entrants and open-source models can rapidly catch up, compressing pricing power for established vendors like Ravelin.",
+            "headline": "Rapid AI commoditization of fraud detection",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ]
+          },
+          {
+            "details": "Ravelin's primary go-to-market is consultative enterprise field sales with 'Book a demo' CTAs and tailored integrations, which inherently caps velocity and makes the long tail of mid-market and SMB merchants vulnerable to faster, self-serve competitors like SEON, Signifyd, or Stripe Radar.",
+            "headline": "Heavy-enterprise GTM limits SMB penetration",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Operating geographies data flags GBR/Europe as the primary region and the customer roster skews toward UK/EU retailers (Tesco, John Lewis, Deliveroo, Just Eat, Aldi, Trainline); expansion into more diverse regulatory regimes and currencies introduces risk to the data consortium and to ML model performance.",
+            "headline": "Concentration in UK/EU customer base",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ]
+          },
+          {
+            "details": "Fraud patterns change quarterly with each new campaign, stolen-data dump, or AI tool release; Ravelin's value depends on continuous model retraining against fresh consortium signals, meaning effectiveness can erode quickly if data sharing participation dips or if new attack vectors outpace the model refresh cadence.",
+            "headline": "Cat-and-mouse arms race with attackers",
+            "source": [
+              "https://www.crowdfundinsider.com/2025/10/255155-ravelin-6-of-retailers-seeing-more-fraud-in-2025/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Consortium database of 9+ billion anonymized identity elements, fully GDPR-compliant, fed by the merchant network. This creates a network-wide fraud intelligence asset that improves with each new customer and is difficult for a single merchant to replicate internally.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Consortium data gains value with each additional merchant joining, creating a two-sided data network where fraud signals observed at one participant strengthen detection for all others. Graph network link analysis extends this by revealing cross-merchant identity relationships.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "Custom ML models are optimized per merchant to their specific fraud challenges and KPIs, supported by dedicated integrations, product support, and data science teams. Deep API integration into payment stacks and ongoing model retraining create significant migration friction.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Proprietary multi-model ML approach, graph network link analysis capability, and AI-native decisioning platform constitute technical IP. PCI 3DS, PCI DSS, and ISO 27001:2022 certifications plus Visa Global Registry listing provide regulatory-grade trust assets.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Dedicated in-house data science team that continuously tunes custom models for each merchant, plus a Director of Machine Learning (Eddie Bell) leading ML development. Specialized Integrations team supports complex enterprise onboarding.",
+            "type": {
+              "code": "talent_moat",
+              "label": "Talent Moat"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Ravelin competes against scaled platforms such as Sift, Signifyd, Forter, and Riskified, plus bundled offerings like Stripe Radar and incumbents like Kount (Equifax); these rivals have raised larger war chests and broader geographic reach, making enterprise win-rates a continuous battle.",
+            "headline": "Intense competitive market with well-funded peers",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Worldpay announced acquisition in February 2025 expected to close in Q1 2025, yet as of June 2026 Ravelin still operates its own brand and publishes reports; prolonged integration uncertainty can stall large procurement decisions and re-papering of contracts at enterprise customers.",
+            "headline": "Acquisition transition creates strategic ambiguity",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ]
+          },
+          {
+            "details": "Ravelin's 9+ billion identity element consortium derives value from merchants continuously contributing transactions and dispute outcomes; if participating merchants reduce sharing post-acquisition or if regulators restrict cross-merchant data pooling, model effectiveness could degrade.",
+            "headline": "Consortium data quality depends on merchant participation",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "A high proportion of named logos are UK/EU-based (Tesco, John Lewis, Aldi, Deliveroo, Just Eat, Trainline, LNER, Nandos), exposing revenue to EUR/GBP macro conditions and Brexit-era regulatory divergence from US/APAC frameworks.",
+            "headline": "Concentrated UK/EU enterprise customer roster",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin's own 2026 fraud research shows 60% of merchants saw AI used against them and 81% estimate up to 15% of fraud as AI-influenced, meaning the company's own ML models must constantly retrain against novel synthetic-identity and genAI-driven attacks, increasing R&D burden.",
+            "headline": "Evolving AI-driven attack patterns raise model risk",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/06/286653-ravelin-report-finds-hope-challenge-in-merchant-fraud-fight/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Ravelin's named customers include Deliveroo, Spotify, Tesco, John Lewis, Just Eat, Back Market, Ford, Aldi, Frasers Group (Sports Direct/Flannels), Trainline, LNER, KFC, Nandos, Wolt, Flix, Fiserv, and Elavon, indicating strong product-market fit with tier-1 global merchants across retail, food delivery, travel, and payments.",
+            "headline": "Enterprise-grade customer logo roster",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin operates a consortium database of 9+ billion anonymized, GDPR-compliant identity elements that flags whether an identity has previously been seen as fraudulent across its merchant base; the breadth of data compounds the more merchants join, creating a defensible scale advantage.",
+            "headline": "Consortium data network is a true moat",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Worldpay, a global payments leader, announced in February 2025 an agreement to acquire Ravelin to strengthen its fraud detection and authorization capabilities, signaling strong validation of the platform's value by a Tier-1 strategic acquirer.",
+            "headline": "Acquisition by Worldpay validates strategic value",
+            "source": [
+              "https://ffnews.com/newsarticle/paytech/worldpay-to-acquire-ravelin-a-leading-ai-native-fraud-prevention-platform/"
+            ]
+          },
+          {
+            "details": "The platform covers six integrated modules — Online Payment Fraud, Account Security (ATO), Refund Abuse, Promo Abuse, Marketplace Partner Fraud, and 3D Secure — sharing underlying ML models, consortium data, and graph network analysis, enabling cross-sell within enterprise accounts.",
+            "headline": "Comprehensive modular product suite",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Machine learning models are 100% optimized per merchant against specific KPIs with a multi-model approach, complemented by industry-leading real-time graph network link analysis to detect hidden connections that individual-rules engines miss.",
+            "headline": "AI-native, custom-model technology differentiation",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin holds PCI DSS, PCI 3DS Validated, ISO 27001:2022 certifications and is listed on the Visa Global Registry of Service Providers, lowering procurement friction for regulated merchants and PSPs.",
+            "headline": "Industry-grade compliance and certifications",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          },
+          {
+            "details": "Ravelin raised approximately $36.7M across four funding rounds from 2015–2020, with repeat participation from Amadeus Capital Partners, Passion Capital, BlackFin, and Molten Ventures indicating continued investor support and disciplined capital use.",
+            "headline": "Sustained investor conviction through multiple rounds",
+            "source": [
+              "https://www.ravelin.com:443/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Ravelin publishes roughly 20+ named enterprise logos spanning food delivery (Deliveroo, Just Eat, Wolt, KFC, Nandos), retail (Tesco, John Lewis, Aldi, River Island, PLT, Frasers, Flannels, Back Market, Sports Direct), travel (Trainline, LNER, Flix), payments (Fiserv, Elavon), and other verticals (Spotify, Ford, Marshmallow). The breadth across industry verticals and the presence of payments-ecosystem partners alongside end merchants reduce single-customer dependency. However, the customer base skews toward large UK and European enterprises, and quote-based enterprise pricing with dedicated data science teams implies higher ACVs concentrated in a relatively small number of accounts (likely 80-150 paying customers based on the 101-250 employee footprint). The absence of disclosed revenue concentration by customer, combined with the 2025 Worldpay acquisition signal, suggests the company is exposed to churn risk on a handful of marquee logos but is not critically dependent on any single account.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Digital fraud prevention via data enrichment and ML scoring with strong adoption in iGaming and fintech; comparable to Ravelin's risk-scoring core but skews more self-serve and mid-market.",
+            "name": "SEON",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "000004x"
+          },
+          {
+            "description": "Bot and online fraud protection with real-time scoring and account takeover focus; overlaps with Ravelin's ATO and abuse-prevention modules for online merchants.",
+            "name": "DataDome",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00004fn"
+          },
+          {
+            "description": "Identity verification and risk data API business under Mastercard that competes with Ravelin's consortium-based identity-checking approach at the verification layer.",
+            "name": "Ekata (a Mastercard company)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005pjj"
+          },
+          {
+            "description": "Real-time decisioning platform for ecommerce fraud and abuse prevention, covering payment fraud, account takeover, and policy abuse; closest head-to-head competitor to Ravelin's modular offering.",
+            "name": "Forter",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003id"
+          },
+          {
+            "description": "AI-native digital trust and fraud prevention platform serving online merchants with payments, ATO, and content integrity use cases; competes most directly with Ravelin across the same e-commerce fraud stack.",
+            "name": "Sift",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a2a"
+          },
+          {
+            "description": "AI-based fraud and risk intelligence for ecommerce merchants including chargeback guarantee and ATO protection; serves a highly comparable merchant base and product scope to Ravelin.",
+            "name": "Riskified",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000b4d"
+          },
+          {
+            "description": "Established digital identity and fraud prevention platform, now part of Equifax; competes broadly with Ravelin in payments fraud and ATO with a wider data and analytics portfolio.",
+            "name": "Kount (Equifax)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000x38"
+          },
+          {
+            "description": "Bot management and account takeover prevention platform; overlaps with Ravelin's Account Security and credential-stuffing protection modules, particularly for login and signup flows.",
+            "name": "Arkose Labs",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000zcq"
+          },
+          {
+            "description": "Native AI fraud prevention baked into Stripe's payments platform; an alternative buyer choice for online merchants, especially SMB and growth-stage, and increasingly a bundling threat.",
+            "name": "Stripe Radar",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000031"
+          },
+          {
+            "description": "Provides chargeback protection and ecommerce fraud prevention with a fulfillment guarantee model; targets the same online merchants as Ravelin for payment fraud and abuse.",
+            "name": "Signifyd",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002xb"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

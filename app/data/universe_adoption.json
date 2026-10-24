@@ -1,0 +1,1472 @@
+{
+  "segment": "March Capital + Left Lane portfolios vs. Akta-defined competitor sets",
+  "groups": [
+    {
+      "fund": "March Capital",
+      "fund_akta_id": "000086d",
+      "portco": "Overjet",
+      "portco_akta_id": "00002m5",
+      "members": [
+        "00002m5",
+        "00002dz",
+        "00002z9",
+        "0005v2n",
+        "0005yzu"
+      ],
+      "portco_new_last_90d": 0,
+      "portco_prior_quarterly_avg": 1,
+      "portco_rank": 1,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "Overjet",
+          "akta_id": "00002m5",
+          "new_last_90d": 0,
+          "prior_9m": 3,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 2,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Pearl",
+          "akta_id": "00002dz",
+          "new_last_90d": 0,
+          "prior_9m": 5,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 1,
+            "2026-Q1": 3,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "VideaHealth",
+          "akta_id": "00002z9",
+          "new_last_90d": 0,
+          "prior_9m": 2,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 1,
+            "2026-Q3": 1,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Denti.AI",
+          "akta_id": "0005v2n",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Planet DDS",
+          "akta_id": "0005yzu",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 4
+    },
+    {
+      "fund": "March Capital",
+      "fund_akta_id": "000086d",
+      "portco": "Snorkel AI",
+      "portco_akta_id": "00008iv",
+      "members": [
+        "00008iv",
+        "0002azl",
+        "00000di",
+        "0000qzl",
+        "00002bj"
+      ],
+      "portco_new_last_90d": 0,
+      "portco_prior_quarterly_avg": 0,
+      "portco_rank": 2,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "Scale AI",
+          "akta_id": "00000di",
+          "new_last_90d": 1,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 1
+          }
+        },
+        {
+          "name": "Snorkel AI",
+          "akta_id": "00008iv",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Labelbox",
+          "akta_id": "0002azl",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Surge AI",
+          "akta_id": "0000qzl",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Sama",
+          "akta_id": "00002bj",
+          "new_last_90d": 0,
+          "prior_9m": 2,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 1,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 3
+    },
+    {
+      "fund": "March Capital",
+      "fund_akta_id": "000086d",
+      "portco": "Forter",
+      "portco_akta_id": "00003id",
+      "members": [
+        "00003id",
+        "0002rlm",
+        "00002xb",
+        "0003l7p",
+        "0000b4d"
+      ],
+      "portco_new_last_90d": 3,
+      "portco_prior_quarterly_avg": 1.3,
+      "portco_rank": 1,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "Forter",
+          "akta_id": "00003id",
+          "new_last_90d": 3,
+          "prior_9m": 4,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 4,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 1,
+            "2026-Q4 (to date)": 2
+          }
+        },
+        {
+          "name": "Riskified",
+          "akta_id": "0000b4d",
+          "new_last_90d": 3,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 3,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Ravelin",
+          "akta_id": "0002rlm",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Signifyd",
+          "akta_id": "00002xb",
+          "new_last_90d": 0,
+          "prior_9m": 3,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 3,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Accertify",
+          "akta_id": "0003l7p",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 1
+    },
+    {
+      "fund": "Left Lane Capital",
+      "fund_akta_id": "00004a4",
+      "portco": "Pearl",
+      "portco_akta_id": "00002dz",
+      "members": [
+        "00002dz",
+        "00002m5",
+        "0007ijl",
+        "00002z9",
+        "00049wa"
+      ],
+      "portco_new_last_90d": 0,
+      "portco_prior_quarterly_avg": 1.7,
+      "portco_rank": 1,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "Pearl",
+          "akta_id": "00002dz",
+          "new_last_90d": 0,
+          "prior_9m": 5,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 1,
+            "2026-Q1": 3,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Overjet",
+          "akta_id": "00002m5",
+          "new_last_90d": 0,
+          "prior_9m": 3,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 2,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Diagnocat",
+          "akta_id": "0007ijl",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "VideaHealth",
+          "akta_id": "00002z9",
+          "new_last_90d": 0,
+          "prior_9m": 2,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 1,
+            "2026-Q3": 1,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Curve Dental",
+          "akta_id": "00049wa",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 4
+    },
+    {
+      "fund": "Left Lane Capital",
+      "fund_akta_id": "00004a4",
+      "portco": "GlossGenius",
+      "portco_akta_id": "0000lea",
+      "members": [
+        "0000lea",
+        "000049s",
+        "00004od",
+        "00005dt",
+        "00007y4"
+      ],
+      "portco_new_last_90d": 0,
+      "portco_prior_quarterly_avg": 0,
+      "portco_rank": 1,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "GlossGenius",
+          "akta_id": "0000lea",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Vagaro",
+          "akta_id": "000049s",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Fresha",
+          "akta_id": "00004od",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Boulevard",
+          "akta_id": "00005dt",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Mangomint",
+          "akta_id": "00007y4",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 4
+    },
+    {
+      "fund": "Left Lane Capital",
+      "fund_akta_id": "00004a4",
+      "portco": "Talkiatry",
+      "portco_akta_id": "00000so",
+      "members": [
+        "00000so",
+        "0000a6x",
+        "00009oi",
+        "000004k",
+        "0000aip"
+      ],
+      "portco_new_last_90d": 0,
+      "portco_prior_quarterly_avg": 0.3,
+      "portco_rank": 2,
+      "of": 5,
+      "leaderboard": [
+        {
+          "name": "Spring Health",
+          "akta_id": "000004k",
+          "new_last_90d": 1,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 1,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Talkiatry",
+          "akta_id": "00000so",
+          "new_last_90d": 0,
+          "prior_9m": 1,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 1,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Cerebral",
+          "akta_id": "0000a6x",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Lyra Health",
+          "akta_id": "00009oi",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        },
+        {
+          "name": "Headspace Health",
+          "akta_id": "0000aip",
+          "new_last_90d": 0,
+          "prior_9m": 0,
+          "per_quarter": {
+            "2025-Q4 (from Oct 25)": 0,
+            "2026-Q1": 0,
+            "2026-Q2": 0,
+            "2026-Q3": 0,
+            "2026-Q4 (to date)": 0
+          }
+        }
+      ],
+      "tied_with": 3
+    }
+  ],
+  "real_data": true,
+  "window": {
+    "start": "2025-10-25",
+    "end": "2026-10-24"
+  },
+  "source": "akta.pro news mentioning each company (company_mentions entity tags) + Nicrron labeling, verified against Akta text",
+  "method": "New customer = an organisation labeled 'customer' whose first grounded mention falls in that quarter. 'New in last 90 days' = first seen in the last 90 days and not in the prior 9 months of Akta coverage. Public announcements only: a proxy for adoption, biased toward larger customers that issue press.",
+  "caveats": "12-month lookback on our Akta plan; Akta social_posts covers a company's own posts, so customer-side social mentions need X/LinkedIn connectors (roadmap).",
+  "companies": [
+    {
+      "name": "Denti.AI",
+      "akta_id": "0005v2n",
+      "category": "Emerging Player",
+      "articles_mentioning": 4,
+      "labels": 40,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Overjet",
+      "akta_id": "00002m5",
+      "category": "Direct Peer",
+      "articles_mentioning": 37,
+      "labels": 100,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 2,
+        "2026-Q2": 1,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 3,
+      "adopters": [
+        {
+          "org": "Affinity Dental Management",
+          "akta_id": "0009o5k",
+          "first_seen": "2026-02-03",
+          "quarter": "2026-Q1",
+          "quote": "Affinity Dental Management achieved a 26% increase in crown treatment planning rates using Overjet's analytics platform",
+          "title": "How One Leading DSO Used Analytics to Drive a 26% Increase in Crown Treatment Planning Rates",
+          "url": "https://medcitynews.com/2026/02/how-one-leading-dso-used-analytics-to-drive-a-26-increase-in-crown-treatment-planning-rates/",
+          "akta_news_id": "21858352"
+        },
+        {
+          "org": "mydentist",
+          "akta_id": "000fopo",
+          "first_seen": "2026-02-11",
+          "quarter": "2026-Q1",
+          "quote": "Overjet has partnered with mydentist to implement dental AI across the largest dental support organization in the UK.",
+          "title": "Overjet and mydentist Redefine Dental AI Adoption",
+          "url": "https://www.dentistrytoday.com/overjet-and-mydentist-redefine-dental-ai-adoption/",
+          "akta_news_id": "32174849"
+        },
+        {
+          "org": "Dental Care Alliance",
+          "akta_id": "000ueba",
+          "first_seen": "2026-06-17",
+          "quarter": "2026-Q2",
+          "quote": "Dental Care Alliance deployed Overjet AI across all 400 of its practices",
+          "title": "DCA deploys Overjet AI across all 400 locations",
+          "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15827655/dca-deploys-overjet-ai-across-all-400-locations",
+          "akta_news_id": "33399737"
+        }
+      ],
+      "partners_or_channels": [
+        "Columbia University College of Dental Medicine",
+        "Spear Education",
+        "MoonLab Productions"
+      ]
+    },
+    {
+      "name": "VideaHealth",
+      "akta_id": "00002z9",
+      "category": "Direct Peer",
+      "articles_mentioning": 40,
+      "labels": 77,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 1,
+        "2026-Q3": 1,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 2,
+      "adopters": [
+        {
+          "org": "Aspen Dental Management",
+          "akta_id": "000937w",
+          "first_seen": "2026-04-30",
+          "quarter": "2026-Q2",
+          "quote": "VideaHealth's AI partnership with Aspen Dental across 1,100 clinics",
+          "title": "U.S. Dental Services Market Size to Lead USD 281.20 Billion by 2035 Driven by Rising Oral Health Awareness and Insurance Coverage",
+          "url": "https://www.globenewswire.com/news-release/2026/04/30/3285160/0/en/u-s-dental-services-market-size-to-lead-usd-281-20-billion-by-2035-driven-by-rising-oral-health-awareness-and-insurance-coverage.html",
+          "akta_news_id": "25580000"
+        },
+        {
+          "org": "Specialty Dental Brands",
+          "akta_id": "0009c1e",
+          "first_seen": "2026-07-14",
+          "quarter": "2026-Q3",
+          "quote": "Specialty Dental Brands (SDB) has selected Videa as its dental AI platform",
+          "title": "Specialty Dental Brands Selects Videa to Advance AI-assisted Care and Parent Communication Across its Pediatric Network",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-7-14-specialty-dental-brands-selects-videa-to-advance-ai-assisted-care-and-parent-communication-across-its-pediatric-network",
+          "akta_news_id": "27554632"
+        }
+      ],
+      "partners_or_channels": [
+        "ClearDent",
+        "Henry Schein One",
+        "Dentrix",
+        "Henry Schein",
+        "vVardis",
+        "Dentsply Sirona"
+      ]
+    },
+    {
+      "name": "Planet DDS",
+      "akta_id": "0005yzu",
+      "category": "Emerging Player",
+      "articles_mentioning": 49,
+      "labels": 96,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Clerri",
+        "Synchrony"
+      ]
+    },
+    {
+      "name": "Pearl",
+      "akta_id": "00002dz",
+      "category": "",
+      "articles_mentioning": 54,
+      "labels": 169,
+      "rejected_ungrounded": 1,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 1,
+        "2026-Q1": 3,
+        "2026-Q2": 1,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 5,
+      "adopters": [
+        {
+          "org": "Colosseum Dental Group",
+          "akta_id": "000a6at",
+          "first_seen": "2025-11-01",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "Colosseum Dental Group is piloting Hello Pearl\u2019s AI-powered diagnostic software across selected clinics",
+          "title": "Colosseum pilots AI for diagnostics and patient care",
+          "url": "https://dentistry.co.uk/2025/11/01/colosseum-dental-group-pilots-ai-to-improve-diagnostics-and-patient-care/",
+          "akta_news_id": "15647310"
+        },
+        {
+          "org": "PDS Health",
+          "akta_id": "00pxngy",
+          "first_seen": "2026-02-04",
+          "quarter": "2026-Q1",
+          "quote": "PDS Health, an integrated healthcare support organization operating dental practices, has selected Pearl as its enterprise AI partner",
+          "title": "PDS Health Selects Pearl as AI Partner",
+          "url": "https://www.dentistrytoday.com/pds-health-selects-pearl-as-ai-partner/",
+          "akta_news_id": "19142778"
+        },
+        {
+          "org": "Coast Dental Services",
+          "akta_id": "003bzv1",
+          "first_seen": "2026-02-11",
+          "quarter": "2026-Q1",
+          "quote": "PDS Health and Coast Dental both partnered with Pearl, with Coast Dental implementing the AI across its 88-practice network",
+          "title": "3 DSOs investing in AI",
+          "url": "http://ct.moreover.com/?a=58847269130&p=5fi&v=1&x=ysrYvWhBXSTO_wLn3WbhZA",
+          "akta_news_id": "22711619"
+        },
+        {
+          "org": "DECA Dental",
+          "akta_id": "0008zi5",
+          "first_seen": "2026-02-24",
+          "quarter": "2026-Q1",
+          "quote": "DECA Dental Group has selected Pearl as its exclusive dental AI partner and will roll out the technology across its supported clinics in nine U.S. states",
+          "title": "DECA Dental Group Deploys Pearl Following Pilot Study",
+          "url": "https://www.businesswire.com/news/home/20260224941226/en/DECA-Dental-Group-Deploys-Pearl-Following-Pilot-Study",
+          "akta_news_id": "19728705"
+        },
+        {
+          "org": "Smile Brands",
+          "akta_id": "0008emo",
+          "first_seen": "2026-06-15",
+          "quarter": "2026-Q2",
+          "quote": "has selected Pearl as its dental AI partner",
+          "title": "Smile Brands Begins Rollout of Pearl for Dental AI to Advance Its Mission of Consistent, High-Quality Dental Care",
+          "url": "https://www.businesswire.com/news/home/20260615460469/en/Smile-Brands-Begins-Rollout-of-Pearl-for-Dental-AI-to-Advance-Its-Mission-of-Consistent-High-Quality-Dental-Care",
+          "akta_news_id": "25981132"
+        }
+      ],
+      "partners_or_channels": [
+        "ClearDent",
+        "Curve Dental"
+      ]
+    },
+    {
+      "name": "Labelbox",
+      "akta_id": "0002azl",
+      "category": "Direct Peer",
+      "articles_mentioning": 64,
+      "labels": 24,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Forter",
+      "akta_id": "00003id",
+      "category": "",
+      "articles_mentioning": 50,
+      "labels": 114,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 4,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 1,
+        "2026-Q4 (to date)": 2
+      },
+      "new_customers_last_90d": [
+        {
+          "org": "David's Bridal",
+          "akta_id": "00002bn",
+          "first_seen": "2026-09-01",
+          "quarter": "2026-Q3",
+          "quote": "David's Bridal deployed Forter's AI-based e-commerce decisioning platform",
+          "title": "David\u2019s Bridal enables digital fraud detection with help from AI",
+          "url": "https://chainstoreage.com/davids-bridal-enables-digital-fraud-detection-help-ai",
+          "akta_news_id": "33653622"
+        },
+        {
+          "org": "Mercari",
+          "akta_id": "0009s5l",
+          "first_seen": "2026-10-15",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "Mercari fully implemented Forter's AI judgment platform",
+          "title": "Mercari, Inc. has fully implemented Forter's AI judgment platform.",
+          "url": "https://prtimes.jp/main/html/rd/p/000000024.000102795.html",
+          "akta_news_id": "40759901"
+        },
+        {
+          "org": "Jomashop",
+          "akta_id": "0006v9x",
+          "first_seen": "2026-10-19",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "The integration was piloted with Jomashop",
+          "title": "Skyfire and Forter Enrich Trusted Agentic Commerce Decisions at Checkout",
+          "url": "https://www.businesswire.com/news/home/20261019685711/en/Skyfire-and-Forter-Enrich-Trusted-Agentic-Commerce-Decisions-at-Checkout",
+          "akta_news_id": "41367214"
+        }
+      ],
+      "prior_9m_customers": 4,
+      "adopters": [
+        {
+          "org": "Wayfair",
+          "akta_id": "00006j5",
+          "first_seen": "2025-11-04",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "Wayfair won Program of the Year for using Forter's AI-powered platform",
+          "title": "Forter Honors Wayfair, Priceline and EG America with Inaugural IMPACT Awards, Celebrating Global Brands Shaping the Future of Digital Commerce",
+          "url": "https://www.prnewswire.com/news-releases/forter-honors-wayfair-priceline-and-eg-america-with-inaugural-impact-awards-celebrating-global-brands-shaping-the-future-of-digital-commerce-302602833.html",
+          "akta_news_id": "18667630"
+        },
+        {
+          "org": "Priceline",
+          "akta_id": "0005ebo",
+          "first_seen": "2025-11-04",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "Priceline won Innovator of the Year for leveraging Forter's real-time decisioning",
+          "title": "Forter Honors Wayfair, Priceline and EG America with Inaugural IMPACT Awards, Celebrating Global Brands Shaping the Future of Digital Commerce",
+          "url": "https://www.prnewswire.com/news-releases/forter-honors-wayfair-priceline-and-eg-america-with-inaugural-impact-awards-celebrating-global-brands-shaping-the-future-of-digital-commerce-302602833.html",
+          "akta_news_id": "18667630"
+        },
+        {
+          "org": "EG America",
+          "akta_id": "00215p9",
+          "first_seen": "2025-11-04",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "Chinmay Gupta of EG America received Community Champion of the Year for his mentorship contributions to Forter's IMPACT program",
+          "title": "Forter Honors Wayfair, Priceline and EG America with Inaugural IMPACT Awards, Celebrating Global Brands Shaping the Future of Digital Commerce",
+          "url": "https://www.prnewswire.com/news-releases/forter-honors-wayfair-priceline-and-eg-america-with-inaugural-impact-awards-celebrating-global-brands-shaping-the-future-of-digital-commerce-302602833.html",
+          "akta_news_id": "18667630"
+        },
+        {
+          "org": "Brooklinen",
+          "akta_id": "00007nb",
+          "first_seen": "2025-12-09",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "help merchants manage agentic commerce traffic and fraud during the 2025 peak shopping season",
+          "title": "Forter Furthers AI Innovations to Deliver Deeper Intelligence and Workflow Efficiencies",
+          "url": "https://salestechstar.com/predictive-ai-artificial-intelligence/forter-furthers-ai-innovations-to-deliver-deeper-intelligence-and-workflow-efficiencies/",
+          "akta_news_id": "15646212"
+        },
+        {
+          "org": "David's Bridal",
+          "akta_id": "00002bn",
+          "first_seen": "2026-09-01",
+          "quarter": "2026-Q3",
+          "quote": "David's Bridal deployed Forter's AI-based e-commerce decisioning platform",
+          "title": "David\u2019s Bridal enables digital fraud detection with help from AI",
+          "url": "https://chainstoreage.com/davids-bridal-enables-digital-fraud-detection-help-ai",
+          "akta_news_id": "33653622"
+        },
+        {
+          "org": "Mercari",
+          "akta_id": "0009s5l",
+          "first_seen": "2026-10-15",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "Mercari fully implemented Forter's AI judgment platform",
+          "title": "Mercari, Inc. has fully implemented Forter's AI judgment platform.",
+          "url": "https://prtimes.jp/main/html/rd/p/000000024.000102795.html",
+          "akta_news_id": "40759901"
+        },
+        {
+          "org": "Jomashop",
+          "akta_id": "0006v9x",
+          "first_seen": "2026-10-19",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "The integration was piloted with Jomashop",
+          "title": "Skyfire and Forter Enrich Trusted Agentic Commerce Decisions at Checkout",
+          "url": "https://www.businesswire.com/news/home/20261019685711/en/Skyfire-and-Forter-Enrich-Trusted-Agentic-Commerce-Decisions-at-Checkout",
+          "akta_news_id": "41367214"
+        }
+      ],
+      "partners_or_channels": [
+        "Skyfire Systems",
+        "GMO Payment Gateway",
+        "Salesforce",
+        "CHIEF.DIGITAL",
+        "Adyen",
+        "Adobe Commerce",
+        "Magento Commerce"
+      ]
+    },
+    {
+      "name": "Surge AI",
+      "akta_id": "0000qzl",
+      "category": "Direct Peer",
+      "articles_mentioning": 74,
+      "labels": 23,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Snorkel AI",
+      "akta_id": "00008iv",
+      "category": "",
+      "articles_mentioning": 88,
+      "labels": 137,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Hugging Face",
+        "Prime Intellect",
+        "Factory",
+        "HireArt"
+      ]
+    },
+    {
+      "name": "Diagnocat",
+      "akta_id": "0007ijl",
+      "category": "Direct Peer",
+      "articles_mentioning": 12,
+      "labels": 7,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Signifyd",
+      "akta_id": "00002xb",
+      "category": "Direct Peer",
+      "articles_mentioning": 41,
+      "labels": 95,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 3,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 3,
+      "adopters": [
+        {
+          "org": "Mango",
+          "akta_id": "003gr5g",
+          "first_seen": "2025-11-25",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "testimonials from executives at Lenovo, Mango, and Samsung",
+          "title": "Fearless Conversions: Sell more with confidence",
+          "url": "https://www.signifyd.com/fearless-conversions/",
+          "akta_news_id": "15645848"
+        },
+        {
+          "org": "Lenovo",
+          "akta_id": "00002iy",
+          "first_seen": "2025-11-25",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "testimonials from executives at Lenovo, Mango, and Samsung",
+          "title": "Fearless Conversions: Sell more with confidence",
+          "url": "https://www.signifyd.com/fearless-conversions/",
+          "akta_news_id": "15645848"
+        },
+        {
+          "org": "Samsung Electronics",
+          "akta_id": "00000ay",
+          "first_seen": "2025-11-25",
+          "quarter": "2025-Q4 (from Oct 25)",
+          "quote": "testimonials from executives at Lenovo, Mango, and Samsung",
+          "title": "Fearless Conversions: Sell more with confidence",
+          "url": "https://www.signifyd.com/fearless-conversions/",
+          "akta_news_id": "15645848"
+        }
+      ],
+      "partners_or_channels": [
+        "Shopify"
+      ]
+    },
+    {
+      "name": "Ravelin",
+      "akta_id": "0002rlm",
+      "category": "Direct Peer",
+      "articles_mentioning": 13,
+      "labels": 15,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Scale AI",
+      "akta_id": "00000di",
+      "category": "Direct Peer",
+      "articles_mentioning": 98,
+      "labels": 298,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 1
+      },
+      "new_customers_last_90d": [
+        {
+          "org": "Qatar University",
+          "akta_id": "0005vxc",
+          "first_seen": "2026-10-18",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "Qatar University, MCIT, and Scale AI signed an agreement to build the National Co-Advisor Platform",
+          "title": "QU, MCIT, Scale AI Collaborate On National AI-Powered Academic Advising Platform",
+          "url": "https://menafn.com/1111827348/QU-MCIT-Scale-AI-Collaborate-On-National-AI-Powered-Academic-Advising-Platform",
+          "akta_news_id": "41777611"
+        }
+      ],
+      "prior_9m_customers": 0,
+      "adopters": [
+        {
+          "org": "Qatar University",
+          "akta_id": "0005vxc",
+          "first_seen": "2026-10-18",
+          "quarter": "2026-Q4 (to date)",
+          "quote": "Qatar University, MCIT, and Scale AI signed an agreement to build the National Co-Advisor Platform",
+          "title": "QU, MCIT, Scale AI Collaborate On National AI-Powered Academic Advising Platform",
+          "url": "https://menafn.com/1111827348/QU-MCIT-Scale-AI-Collaborate-On-National-AI-Powered-Academic-Advising-Platform",
+          "akta_news_id": "41777611"
+        }
+      ],
+      "partners_or_channels": [
+        "NVIDIA"
+      ]
+    },
+    {
+      "name": "Accertify",
+      "akta_id": "0003l7p",
+      "category": "Direct Peer",
+      "articles_mentioning": 13,
+      "labels": 71,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Liminal",
+        "regtech solutions pty",
+        "Total RegTech Solutions"
+      ]
+    },
+    {
+      "name": "Sama",
+      "akta_id": "00002bj",
+      "category": "Direct Peer",
+      "articles_mentioning": 96,
+      "labels": 210,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 1,
+        "2026-Q2": 1,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 2,
+      "adopters": [
+        {
+          "org": "Meta",
+          "akta_id": "003qagv",
+          "first_seen": "2026-03-06",
+          "quarter": "2026-Q1",
+          "quote": "workers at Sama, a data-labeling company in Nairobi, Kenya, are manually reviewing footage captured by Meta's Ray-Ban smart glasses",
+          "title": "\u2018We see everything\u2019: Thousands in Kenya are reportedly seeing your most private moments you record on Meta\u2019s Smart Glasses",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-see-everything-thousands-in-kenya-are-reportedly-seeing-your-most-private-moments-you-record-on-metas-smart-glasses/articleshow/129149535.cms",
+          "akta_news_id": "20079291"
+        },
+        {
+          "org": "Meta Platforms",
+          "akta_id": "02im848",
+          "first_seen": "2026-04-01",
+          "quarter": "2026-Q2",
+          "quote": "captured footage was sent to a data review facility in Nairobi",
+          "title": "Kenya: Govt Launches Probe Into Ray-Ban Meta Smart Glasses Over Privacy Concerns",
+          "url": "https://allafrica.com/stories/202604010130.html",
+          "akta_news_id": "21681637"
+        }
+      ],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Fresha",
+      "akta_id": "00004od",
+      "category": "Direct Peer",
+      "articles_mentioning": 12,
+      "labels": 50,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Adyen",
+        "OpenAI",
+        "Anthropic"
+      ]
+    },
+    {
+      "name": "Mangomint",
+      "akta_id": "00007y4",
+      "category": "Direct Peer",
+      "articles_mentioning": 17,
+      "labels": 39,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Curve Dental",
+      "akta_id": "00049wa",
+      "category": "Others",
+      "articles_mentioning": 26,
+      "labels": 19,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Pearl",
+        "Dental HQ"
+      ]
+    },
+    {
+      "name": "Boulevard",
+      "akta_id": "00005dt",
+      "category": "Direct Peer",
+      "articles_mentioning": 28,
+      "labels": 0,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Riskified",
+      "akta_id": "0000b4d",
+      "category": "Direct Peer",
+      "articles_mentioning": 74,
+      "labels": 116,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 3,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [
+        {
+          "org": "Kogan",
+          "akta_id": "003wi4w",
+          "first_seen": "2026-07-26",
+          "quarter": "2026-Q3",
+          "quote": "Kogan achieved approval rates exceeding 98% and identified $1.5 million in annual savings through improved fraud and policy abuse management",
+          "title": "Kogan Increases Approval Rates and Improves Customer Experience with Riskified",
+          "url": "https://aijourn.com/kogan-increases-approval-rates-and-improves-customer-experience-with-riskified/",
+          "akta_news_id": "29556124"
+        },
+        {
+          "org": "Lorna Jane",
+          "akta_id": "0009462",
+          "first_seen": "2026-08-05",
+          "quarter": "2026-Q3",
+          "quote": "athletic apparel retailer Lorna Jane saw authorization rates rise from 82% to 95%",
+          "title": "Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines",
+          "url": "https://www.businesswire.com/news/home/20260805491321/en/Riskified-and-Marqeta-Partner-to-Sharpen-Card-Issuer-Authorization-Decisions-and-Help-Reduce-False-Declines",
+          "akta_news_id": "31337070"
+        },
+        {
+          "org": "Polymarket",
+          "akta_id": "0000009",
+          "first_seen": "2026-09-20",
+          "quarter": "2026-Q3",
+          "quote": "prompting tighter debit-card limits and hiring of Riskified",
+          "title": "Polymarket\u2019s $10M Fraud Attempt Puts Its Rapid U.S. Growth Under Scrutiny: Guest Post by Blockonomi",
+          "url": "https://coinmarketcap.com/community/articles/6aafc4e646dcb5519166e5c8/",
+          "akta_news_id": "36243963"
+        }
+      ],
+      "prior_9m_customers": 0,
+      "adopters": [
+        {
+          "org": "Kogan",
+          "akta_id": "003wi4w",
+          "first_seen": "2026-07-26",
+          "quarter": "2026-Q3",
+          "quote": "Kogan achieved approval rates exceeding 98% and identified $1.5 million in annual savings through improved fraud and policy abuse management",
+          "title": "Kogan Increases Approval Rates and Improves Customer Experience with Riskified",
+          "url": "https://aijourn.com/kogan-increases-approval-rates-and-improves-customer-experience-with-riskified/",
+          "akta_news_id": "29556124"
+        },
+        {
+          "org": "Lorna Jane",
+          "akta_id": "0009462",
+          "first_seen": "2026-08-05",
+          "quarter": "2026-Q3",
+          "quote": "athletic apparel retailer Lorna Jane saw authorization rates rise from 82% to 95%",
+          "title": "Riskified and Marqeta Partner to Sharpen Card Issuer Authorization Decisions and Help Reduce False Declines",
+          "url": "https://www.businesswire.com/news/home/20260805491321/en/Riskified-and-Marqeta-Partner-to-Sharpen-Card-Issuer-Authorization-Decisions-and-Help-Reduce-False-Declines",
+          "akta_news_id": "31337070"
+        },
+        {
+          "org": "Polymarket",
+          "akta_id": "0000009",
+          "first_seen": "2026-09-20",
+          "quarter": "2026-Q3",
+          "quote": "prompting tighter debit-card limits and hiring of Riskified",
+          "title": "Polymarket\u2019s $10M Fraud Attempt Puts Its Rapid U.S. Growth Under Scrutiny: Guest Post by Blockonomi",
+          "url": "https://coinmarketcap.com/community/articles/6aafc4e646dcb5519166e5c8/",
+          "akta_news_id": "36243963"
+        }
+      ],
+      "partners_or_channels": [
+        "Zendesk",
+        "Marqeta"
+      ]
+    },
+    {
+      "name": "GlossGenius",
+      "akta_id": "0000lea",
+      "category": "",
+      "articles_mentioning": 16,
+      "labels": 48,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Goodcall AI Inc"
+      ]
+    },
+    {
+      "name": "Vagaro",
+      "akta_id": "000049s",
+      "category": "Direct Peer",
+      "articles_mentioning": 63,
+      "labels": 3,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "Liberis"
+      ]
+    },
+    {
+      "name": "Spring Health",
+      "akta_id": "000004k",
+      "category": "Direct Peer",
+      "articles_mentioning": 79,
+      "labels": 26,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 1,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [
+        {
+          "org": "California Department of Human Resources",
+          "akta_id": "000htv4",
+          "first_seen": "2026-08-14",
+          "quarter": "2026-Q3",
+          "quote": "California signed a three-year contract with Spring Health for its employee assistance program",
+          "title": "California has new contract for employee assistance program for health services",
+          "url": "https://www.sacbee.com/news/politics-government/the-state-worker/article316828846.html",
+          "akta_news_id": "33635384"
+        }
+      ],
+      "prior_9m_customers": 0,
+      "adopters": [
+        {
+          "org": "California Department of Human Resources",
+          "akta_id": "000htv4",
+          "first_seen": "2026-08-14",
+          "quarter": "2026-Q3",
+          "quote": "California signed a three-year contract with Spring Health for its employee assistance program",
+          "title": "California has new contract for employee assistance program for health services",
+          "url": "https://www.sacbee.com/news/politics-government/the-state-worker/article316828846.html",
+          "akta_news_id": "33635384"
+        }
+      ],
+      "partners_or_channels": [
+        "Alight Solutions",
+        "Riivos (formerly Alight Inc.)"
+      ]
+    },
+    {
+      "name": "Lyra Health",
+      "akta_id": "00009oi",
+      "category": "Direct Peer",
+      "articles_mentioning": 84,
+      "labels": 37,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Cerebral",
+      "akta_id": "0000a6x",
+      "category": "Direct Peer",
+      "articles_mentioning": 62,
+      "labels": 55,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": []
+    },
+    {
+      "name": "Headspace Health",
+      "akta_id": "0000aip",
+      "category": "Direct Peer",
+      "articles_mentioning": 92,
+      "labels": 132,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 0,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 0,
+      "adopters": [],
+      "partners_or_channels": [
+        "CoComelon"
+      ]
+    },
+    {
+      "name": "Talkiatry",
+      "akta_id": "00000so",
+      "category": "",
+      "articles_mentioning": 89,
+      "labels": 108,
+      "rejected_ungrounded": 0,
+      "new_customers_per_quarter": {
+        "2025-Q4 (from Oct 25)": 0,
+        "2026-Q1": 0,
+        "2026-Q2": 1,
+        "2026-Q3": 0,
+        "2026-Q4 (to date)": 0
+      },
+      "new_customers_last_90d": [],
+      "prior_9m_customers": 1,
+      "adopters": [
+        {
+          "org": "New York Cancer and Blood Specialists",
+          "akta_id": "0008xuq",
+          "first_seen": "2026-04-09",
+          "quarter": "2026-Q2",
+          "quote": "The tool is already deployed at New York Cancer & Blood Specialists",
+          "title": "Talkiatry Launches Talkiatry Connect for Cloud-Based EMR Psychiatric Referrals",
+          "url": "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/",
+          "akta_news_id": "21510633"
+        }
+      ],
+      "partners_or_channels": [
+        "New York Cancer and Blood Specialists",
+        "AMGA"
+      ]
+    }
+  ]
+}

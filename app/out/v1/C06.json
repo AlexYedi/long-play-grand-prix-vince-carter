@@ -1,0 +1,108 @@
+{
+  "company_id": "C06",
+  "company": "Murrelwick Robotics",
+  "period": "2026-Q3",
+  "update_status": "not_received",
+  "source_file": null,
+  "revenue_type": null,
+  "fields": {
+    "monthly_revenue": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "cash": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "runway_months": {
+      "value": null,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "headcount": {
+      "value": null,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "customers": {
+      "value": null,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "key_highlight": {
+      "value": null,
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "key_risk": {
+      "value": null,
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": null,
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    }
+  },
+  "flags": [
+    {
+      "flag": "missing_update",
+      "source_file": null,
+      "source_span": null,
+      "quote": null
+    }
+  ]
+}

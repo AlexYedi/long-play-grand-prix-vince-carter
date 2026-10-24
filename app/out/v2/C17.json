@@ -1,0 +1,135 @@
+{
+  "company_id": "C17",
+  "company": "Velloway Mobility",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 21600,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 15,
+        "end": 77
+      },
+      "quote": "usage revenue sept $21.6K (all recurring, per-vehicle monthly)",
+      "confidence": 0.9,
+      "derivation": "Stated September recurring usage revenue $21.6K"
+    },
+    "arr": {
+      "value": 259200,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 15,
+        "end": 77
+      },
+      "quote": "usage revenue sept $21.6K (all recurring, per-vehicle monthly)",
+      "confidence": 0.9,
+      "derivation": "12 x MRR 21,600 = 259,200; no ARR stated"
+    },
+    "monthly_burn": {
+      "value": 88000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 92,
+        "end": 101
+      },
+      "quote": "burn $88K",
+      "confidence": 0.9,
+      "derivation": "Stated burn $88K, assumed monthly net burn"
+    },
+    "cash": {
+      "value": 1040000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026 quarter end",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 104,
+        "end": 115
+      },
+      "quote": "cash $1.04M",
+      "confidence": 0.9,
+      "derivation": "Stated cash $1.04M"
+    },
+    "runway_months": {
+      "value": 12,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 118,
+        "end": 130
+      },
+      "quote": "runway ~12mo",
+      "confidence": 0.9,
+      "derivation": "Founder stated ~12 months"
+    },
+    "headcount": {
+      "value": 8,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 133,
+        "end": 139
+      },
+      "quote": "ppl: 8",
+      "confidence": 0.9,
+      "derivation": "Stated people count 8"
+    },
+    "customers": {
+      "value": 4,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 80,
+        "end": 89
+      },
+      "quote": "fleets: 4",
+      "confidence": 0.9,
+      "derivation": "Company counts fleets as customers; 4 fleets"
+    },
+    "key_highlight": {
+      "value": "4th fleet went live, with 1,100 vehicles",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 142,
+        "end": 172
+      },
+      "quote": "4th fleet live, 1,100 vehicles",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "State-level EV transition grants for fleets are paused",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C17_velloway_2026-10-20.md",
+      "source_span": {
+        "start": 175,
+        "end": 232
+      },
+      "quote": "EV transition grants for fleets paused at the state level",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

@@ -1,0 +1,1166 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000qzl&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:09.250Z",
+  "data": {
+    "total": 7,
+    "limit": 20,
+    "offset": 0,
+    "count": 7,
+    "data": [
+      {
+        "id": 35734707,
+        "title": "Former Kimi Intern Founded a Startup Now Valued at Nearly 20 Billion Yuan",
+        "url": "https://eu.36kr.com/en/p/3982918974995205",
+        "publisher": "36kr",
+        "published_date": "2026-09-14T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6064,
+        "ai_summary": "A startup founded by former Kimi interns is raising $300 million at a $2.5 billion valuation, with investors including HSG, Alibaba, and Tencent. The company, which provides AI training data, has completed three financing rounds and is expanding into financial data services. It plans to sell APIs and build a verifiable prediction market system.",
+        "word_count": 3192,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "CHN",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Domain-Specific Training Data Solutions (e.g., medical, AV, geospatial)",
+            "code": "HDAAALAL",
+            "is_primary": false
+          },
+          {
+            "name": "Data Monetization & Data Products Services",
+            "code": "BPAEAHAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000mkh",
+            "name": "AfterQuery",
+            "website": "https://www.afterquery.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003ub",
+            "name": "Tencent",
+            "website": "https://www.tencent.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005h7",
+            "name": "Turing",
+            "website": "https://www.turing.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0005ehq",
+            "name": "Invisible",
+            "website": "https://www.invisible.co/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000399",
+            "name": "Alibaba Group",
+            "website": "https://www.alibabagroup.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000093",
+            "name": "HSG",
+            "website": "https://www.hsgcap.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00s6c6l",
+            "name": "Recursive",
+            "website": "https://recursive.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "edwin chen",
+            "carlos georgescu",
+            "alexandr wang",
+            "spencer mateega",
+            "billionaire",
+            "tian yuandong"
+          ],
+          "location": [
+            "china",
+            "united states",
+            "overseas",
+            "the united states"
+          ],
+          "product": [
+            "tongyi",
+            "moonshot ai",
+            "scale ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14393363,
+        "full_text": "For a long time, large model data companies have not been in the field of vision of VCs, but this situation is changing. I recently heard that several young people with internship experience at leading model manufacturers such as Alibaba's Tongyi and Moonshot AI have founded a data company, which is highly favored by capital. This company takes AI training data as its entry point, and has won tens of millions of dollars in orders in less than a year, completed about three rounds of financing, and its valuation has also risen steadily. The latest foreign media news shows that this company is about to complete a $300 million financing round, with a star-studded investor lineup including HSG, Alibaba and Tencent, and its valuation reaches $2.5 billion. Of course, there were not no data service companies in China before, but before this year, such companies were rarely noticed by venture capital. The reason is that this model is mainly a cash flow business, and the entrepreneurial threshold in the AI field is not high. Earlier, a number of data companies in third- and fourth-tier small cities used cheap labor to provide corpora for model training. With the improvement of the intelligence level of large models, the requirements for data quality have increased simultaneously, and more and more highly educated practitioners from top universities have joined. Senior professionals from all walks of life, such as legal workers, doctors, journalists, screenwriters, etc., have begun to settle on the platforms of some data service companies. As a part-time job, the income of data labeling ranges from 500 to 1000 yuan per hour. However, if it only operates as an expert network, it is difficult to reach a valuation of tens of billions of yuan in China. The data-selling model is still a business of phased sustainability in the eyes of many investors. An investor who has been in contact with the aforementioned project told me that before the $200 million financing round, investors placed bets based on their judgment of the founders. Now, to raise financing at a valuation of $2.5 billion, this company must tell a new story. As far as I know, in the first half of this year, it has already set foot in the financial sector, built a comparable and verifiable system in the prediction market, and it is said that it will make profits by selling APIs. There are about more than 20 domestic data training companies, and the aforementioned cross-border financial story is only one of the future directions they try to describe. After communicating with investors, I found that traditional data service models that are difficult to tell sufficiently attractive growth stories, such as manual labeling, expert outsourcing, and data delivery, have new interpretations among more and more young post-95s and post-00s entrepreneurs. Relying on their experience in model training and sufficient understanding of model capabilities, they have made a originally relatively boring cash flow business begin to have new room for imagination, thus stirring up a wave of financing enthusiasm. New Demands for Data Are Emerging To understand the business run by these interns, we may start from the hot topic in the media last year that \"postgraduates and doctors from 985 and 211 universities go to be AI trainers\". For example, graduates from the Chinese Department of Peking University working at DeepSeek, and medical doctors working at Kimi. Some of them mocked themselves online as \"data foremen\", leading a number of labelers in the form of BPO (outsourcing) to cooperate with the R&D team to produce training data for models. The business logic of selling data is not complicated. As long as orders can be obtained, the company can run into a company with good cash flow, and it does not necessarily need financing. Surge AI is a typical case. Founded in 2020, the company's founder Edwin Chen previously worked on machine learning at Google and Meta before starting his own business. This company did not take external financing for a long time and mainly developed on its own. Until 2025, the market began to spread news that it was seeking up to $1 billion in financing. At that time, the company's revenue in the past year had exceeded $1 billion, and the valuation discussed in the market also exceeded $15 billion. With the improvement of model capabilities, the demand for labeling by senior talents in professional fields such as medical care, law, and finance, as well as complex tasks that require subjective judgment, is growing rapidly. High-quality human labelers are scarce in the market, especially professionals in professional fields, and large AI companies are willing to pay a high premium for this. Mercor seized this opportunity. This company was originally an AI recruitment platform that provided \"contract talents\" for large data labeling companies in the early stage, and later directly organized professionals into a training data supply network. In 2025, Mercor raised financing at a valuation of $10 billion, and in 2026, it was reported that it planned to raise about $5 billion at a valuation of $20 billion. In short, many unicorns have been born overseas, but few domestic AI training data service providers have the opportunity to obtain VC support. An investor who has investigated these model factories told me that at that time, the internal standards for data procurement, including the standards for new suppliers, were not particularly clear. Although they have cooperated with several Internet manufacturers and even some overseas suppliers, the overall supply volume is not that large. On the other hand, for a period of time in China, distillation was the main focus, which largely weakened the necessity for everyone to find expert data. This year, Agents have exploded in an all-round way, and the type of data required is no longer simple expert data, but data that is closer to the real environment. A researcher at a model factory told me that the data needed now is no longer just \"questions and answers\", but a closed-loop, verifiable training environment that allows the model to act repeatedly and obtain feedback. The model performs tasks in it, the environment records every step of its actions, then the validator judges the result, and finally returns the feedback to the model. For example, if you want to train a model to write better front-end code, it is not enough to manually tell it \"whether this code is good or not\". You need an environment that can execute code, and a model that can understand the page effect to act as a referee, and then run for hundreds of rounds or even longer to continuously give feedback to the model. Some American startups have begun to specialize in reinforcement learning environments. AfterQuery hopes to let models and agents learn to complete tasks like professionals. The company describes it as \"encoding the patterns, decisions and reasoning of the world's top practitioners\", and outputs expert reasoning datasets, reinforcement learning simulation environments and model evaluation services for cutting-edge large models. On the demand side, the management of Anthropic has also discussed investing $1 billion in reinforcement learning environments within the next year. For OpenAI, the total data expenditure in 2025 was about $1 billion, and the internal forecast will rise to $8 billion by 2030. Now there are almost a dozen such seed-stage teams in the United States, with no more than 20 people, serving 1 to 3 large customers. Many such entrepreneurial opportunities have also begun to appear in China. An investor told me that more and more researchers are spilling out from model factories. By May and June this year, this trend became relatively clear: a number of new teams providing high-quality data began to appear in the market, and at the same time, the demand of model factories for data in new fields is also rising. Post-00s Are Flocking to Wealth Creation Like entrepreneurs in other fields of AI, the founders of training data companies are usually very young. Alexandr Wang, the founder of Scale AI, became a billionaire at the age of 24, and the three founders of Mercor also joined the ranks of billionaires at the age of 22 with a valuation of tens of billions of dollars. The latest example is the two co-founders of AfterQuery. Spencer Mateega is 23 years old, and Carlos Georgescu is 22 years old. Both of them were still in college when they founded the company. Their company just announced that it is raising a new round of financing with a valuation of $3.2 billion. Founded only 18 months ago, this company's main business is AI training data services. Nowadays, the founders of domestic data startups are the same, and they are not necessarily the \"little geniuses\" in the embodied track, just like the interns from leading large model manufacturers I mentioned at the beginning. An investor who has been in contact with a domestic unicorn data training company told me that in the early stage, everyone's judgment was still more focused on the \"people\". People with both business sense and researcher attributes are still relatively rare in the market today. The founder of this company had internship experience in first-tier large model manufacturers such as Moonshot AI, participated in model training work and published papers. The current situation is that the front-line work of model training is mainly undertaken by PhDs from top universities, and they will undertake specific execution work since their internships. After they complete these work with the outsourcing team, it is easy for them to think that since this matter can be completed in the outsourcing department of a large factory, why not do it on their own? As a result, some people began to come out of model factories or outsourcing teams to set up data startups. This is also the common feature of this batch of data entrepreneurs: they are closer to the actual needs of model factories and more sensitive to changes in the external market. An investor who has invested in similar projects told me that his judgment on the portrait of entrepreneurs is mostly that the team must at least reach the T0 or T1 level, and it is best to be the post-95s, post-98s to post-00s generation who have actually participated in front-line model training. Engineering capabilities are also critical. How to build a team and how to implement the data quality requirements recognized by researchers into actual production requires strong engineering capabilities. From the construction of the entire data pipeline, to Query design, initial data composition, to subsequent cleaning and quality control, there are complex engineering links behind it, which is not simply manual labeling. Data seems to be a business on the surface, but when done well enough, it may also become a candidate team outside the model factory, or even a small pre-training and post-training organization. Investors can obtain a team with high researcher density at a small cost in the early stage. The data business is a way for them to support themselves in stages, and it can also help them prove their position in the industry and keep up with the changes in the development of model intelligence. The Ceiling of the Data Business However, a pure data business can hardly support these startups to move forward sustainably. In 2025, the market disclosed that Mercor, which started with expert data in vertical fields, achieved an annualized revenue of $100 million, but 60% to 70% of the total revenue needed to be paid to contractors, leaving very limited space for the company. More than half of Scale AI's revenue is also used for direct business costs, including contractor salaries. Among the prices announced by some domestic data labeling platforms, the hourly wage of labelers is usually between 200 and 500 yuan, and those with higher qualifications and stronger professionalism can even reach thousands of yuan. As model capabilities continue to improve, the demand of post-training companies for top experts will become more and more complex. If they still rely on a large number of manpower to find experts and produce data, it means that costs are rising continuously; if the fees charged by experts are increased, gross profit will be compressed; if the fees are not increased, it will be difficult to obtain sufficiently high-quality data. Moreover, data business orders are not completely certain. A friend of mine who is an investor told me that when the first batch of data suppliers entered the market, many companies first produced a batch of high-quality samples in each vertical field, whether it was manually polished by hand or produced through other methods, they would put a lot of effort into the samples, and then show them to customers such as Alibaba and Tencent. After the customer approves, they will place further orders. But in the data industry, one order does not equal a sum of revenue that can be confirmed immediately. Each batch of data needs to be inspected and quality controlled by researchers. If the quantity or quality of the delivered data fails to meet the standards for several consecutive times, the customer may completely reduce or even cancel the order. For example, a customer signing a $100 million order does not mean that the company will definitely be able to achieve the corresponding scale of revenue in half a year, one year or two years later. From the perspective of VCs, investment ultimately returns to two questions: can this company form a sufficiently high value multiple, and is there a clear exit path in the future? The division of labor among overseas large factories is relatively mature. The annual budget allocated by each large factory to external data companies will still grow by 2027 and 2028, and the volume is very large. Therefore, overseas data companies do have good market space, and there have been exit opportunities through mergers and acquisitions. But the logic of the Chinese market is different. If it is just a data outsourcing company in the end, whether it is merged and acquired or listed, the space is relatively limited. In the view of the aforementioned investor, the future data business may no longer be the current model of \"how much money to sell for one piece of data\", and some data startups are beginning to try to stand at the SaaS level. For example, some traditional enterprises do not have the ability to train AI models, but they have a large number of unique business processes and high-value data internally. Data companies can enter the workflow of these enterprises to help them complete AI transformation. In this process, enterprises will open some unique business scenarios. The company not only obtains data, but also accumulates real task trajectories and interactive feedback, and then precipitates these things into its own model and training system. In this way, data is no longer just a one-time delivered commodity, but has become a layer of infrastructure that connects customer workflows, model training and long-term services. The pricing method of data companies will also change. Large manufacturers will no longer simply pay according to the number of data pieces, but pay for a system that can continuously generate high-quality data, complete task execution and model feedback. Some overseas data companies have already moved towards this deeper service capability. Companies such as Turing, Scale, and Invisible are developing consulting or deeper enterprise service businesses, hoping to further intervene in customers' AI workflows from simply providing data and manpower. Of course, the deeper the data goes into the core business of customers, the higher the risk. After Mercor encountered a data leakage incident this year, Meta suspended its cooperation with it, and OpenAI also launched an investigation into it. The relevant data may involve the training methods of model companies, contractor information and proprietary data. Where Is the New Growth Story In addition to the pursuit of higher intelligence, the accelerated release speed of model versions is another reason for the growth of data orders this year. Since 2026, the release rhythm of leading large model manufacturers has been compressed to a monthly level. From a technical perspective, there may be a key variable playing a role behind this: RSI. RSI (Recursive Self-Improvement) refers to the fact that AI participates in and even improves its own R&D process, thereby continuously shortening the model iteration cycle. It is regarded as an important driving force for the acceleration of model releases in this round, and has also become a hot word in the AI venture capital circles in China and the United States. This is not a brand new concept. The academic circle has discussed it very early, and the industry has also been trying to promote it. In May, Recursive Superintelligence (RSI), a new AI laboratory co-founded by 8 top AI researchers including Tian Yuandong, former research director of Meta FAIR, completed $650 million in financing, with a post-investment valuation of about $4.65 billion. This technical concept was officially pushed to the capital market. Some data startups have also begun to take RSI as part of their financing narrative. My investor friend noticed that some data teams he has looked at recently have begun to build \"semi-RSI\" systems in new fields. Of course, they have not achieved fully automated iteration, but in some links, they may have reached close to half, or even 70% to 80%. For example, the team can quickly produce high-quality analysis, labeling and synthetic data in a new vertical field, and at the same time efficiently embed expert experience and human judgment into the system. In the future, if manual intervention can be further reduced, allowing the system to complete task generation, execution, evaluation and iteration on its own, there is an opportunity to move from data production to a more complete model improvement closed loop. However, RSI entrepreneurship is a game with extremely high thresholds. It requires cutting-edge models, huge computing power, top research talents, training infrastructure, large-scale experimental capabilities, and a sufficiently strong model evaluation system at the same time. At present, the parties that truly have the ability to try to close the complete loop are still mainly OpenAI, Anthropic, Google DeepMind, and very few new Labs with extraordinary capital and talent allocation. Many companies in the market today are talking about RSI, but what they are doing is not the same thing. Some teams are benchmarking against large model companies, aiming to develop the next generation of models and try to run through the complete model training process; some RSI only occurs at the automation level of a certain product; what some other teams call RSI is that their own data pipeline can achieve self-purification and self-iteration. The levels, directions and scopes of these works are different, and there may be very obvious gaps between them in the short and medium term. Therefore, from an investment perspective, we must first dismantle the specific meaning of RSI: which level of problem is it solving? What kind of ecological niche can this level occupy in the entire industry in the future? Where is its capability boundary, and is there any possibility to continue to extend upward? Of course,"
+      },
+      {
+        "id": 35734542,
+        "title": "Kimi, the intern, started a company that is now valued at nearly 20 billion.",
+        "url": "https://www.chinaventure.com.cn/news/78-20260914-393246.html",
+        "publisher": "Chinaventure",
+        "published_date": "2026-09-14T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6655,
+        "ai_summary": "A data company founded by interns from model factories raised $300 million at a $2.5 billion valuation, with investors including Sequoia, Alibaba, and Tencent. Mercor, another data startup, raised $10 billion in 2025. The article notes data startups are shifting toward SaaS and RSI to improve sustainability.",
+        "word_count": 3264,
+        "original_language": "EN",
+        "author": "投中网",
+        "countries": [
+          "CHN",
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Platform (Unified Data & Analytics) Suites",
+            "code": "HDAEABAD",
+            "is_primary": true
+          },
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": false
+          },
+          {
+            "name": "Industry/Domain Analytics Solutions & Accelerators",
+            "code": "BPAEAHAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "02im848",
+            "name": "Meta Platforms",
+            "website": "https://about.facebook.com/meta",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000mkh",
+            "name": "AfterQuery",
+            "website": "https://www.afterquery.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000002",
+            "name": "Anthropic",
+            "website": "https://www.anthropic.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ub",
+            "name": "Tencent",
+            "website": "https://www.tencent.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000008",
+            "name": "OpenAI",
+            "website": "https://openai.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000399",
+            "name": "Alibaba Group",
+            "website": "https://www.alibabagroup.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00s6c6l",
+            "name": "Recursive",
+            "website": "https://recursive.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002x2",
+            "name": "Google DeepMind",
+            "website": "https://deepmind.google",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000225",
+            "name": "computing and information technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "kimi",
+            "edwin chen",
+            "carlos georgescu",
+            "alexandr wang",
+            "spencer mateega",
+            "georgescu",
+            "tian yuandong",
+            "kimi interns"
+          ],
+          "location": [
+            "country",
+            "third- and fourth-tier cities",
+            "u.s.",
+            "overseas",
+            "china"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 11488276,
+        "full_text": "The large model data company has not been in the sight of VCs for a long time, but this situation has changed. I recently heard that several young people with internship experience at major model companies like Alibaba Tongyi and Moon's Dark Side have founded a data company that is quite favored by capital. This company focuses on AI training data and has secured orders worth tens of millions of dollars in less than a year, completing about three rounds of financing, with its valuation also rising significantly. Recent news from foreign media indicates that this company is about to complete a round of financing worth $300 million, with a luxurious lineup of investors including Sequoia, Alibaba, and Tencent, reaching a valuation of $2.5 billion. Of course, there have been data service companies in the country before, but before this year, such companies rarely attracted the attention of venture capital. The reason is that this model mainly operates as a cash flow business, and the entrepreneurial threshold in the AI field is not high. Earlier, there were a number of data companies in third- and fourth-tier cities that used cheap labor to provide corpora for model training. As the intelligence level of large models has improved, the quality requirements for data have also increased, and more and more highly educated professionals from prestigious schools have joined. Senior professionals from various fields, such as law, medicine, journalism, and screenwriting, have begun to join the platforms of some data service companies. As a part-time job, the income from data annotation ranges from 500 to 1000 yuan per hour. However, if it is just an expert network, it is difficult to reach a valuation of 10 billion yuan in the country. The model of selling data is still seen by many investors as a business with questionable sustainability at this stage. An investor who has been in contact with the aforementioned project told me that before the $200 million round, investors were still betting based on their judgment of the founders. Now, to raise funds at a valuation of $2.5 billion, this company must tell a new story. As far as I know, in the first half of this year, it has begun to venture into the financial sector, creating a comparable and verifiable system in the prediction market, reportedly aiming to profit by selling APIs. There are about twenty data training companies in the country, and the aforementioned cross-border financial story is just one of the future directions they are trying to describe. After communicating with investors, I found that traditional data service models, which are difficult to tell a sufficiently sexy growth story, such as manual annotation, expert outsourcing, and data delivery, have found new expressions among more and more young entrepreneurs born in the 1990s and 2000s. They leverage their experience in model training and sufficient understanding of model capabilities to bring new imaginative space to a relatively dull cash flow business, thus stirring up a wave of financing enthusiasm. There is a new demand for data. Understanding the business these interns are doing may start from last year's media hot topic of \"985 and 211 master's and doctoral students becoming AI trainers.\" For example, graduates from Peking University's Chinese Department and Kimi's medical doctor. Some of them jokingly refer to themselves online as \"data contractors,\" leading some annotators existing in BPO (outsourcing) form, collaborating with R&D teams to produce training data for models. The business logic of selling data is not complicated; as long as orders can be secured, one can run a company with good cash flow without necessarily needing financing. Surge AI is a typical case; this company was founded in 2020, and its founder Edwin Chen previously worked in machine learning at Google and Meta before starting his own business. This company did not seek external financing for a long time, mainly relying on self-rolling development. Until 2025, the market began to hear that it was seeking up to $1 billion in financing. At that time, the company's revenue for the past year had already exceeded $1 billion, and the market was discussing a valuation exceeding $15 billion. With the improvement of model capabilities, the demand for senior talent annotation in professional fields such as healthcare, law, and finance, as well as complex tasks requiring subjective judgment, is growing rapidly. High-quality human annotators are scarce in the market, especially professionals in specialized fields, and large AI companies are willing to pay high premiums for this. Mercor captured this opportunity; this company initially provided an AI recruitment platform for large data annotation companies, later directly organizing professionals into a training data supply network. In 2025, Mercor raised funds at a valuation of $10 billion, and in 2026, it was reported to be planning to raise about $500 million at a valuation of $20 billion. In summary, many unicorns have emerged overseas, but domestic AI training data service providers have had few opportunities to gain VC support. An investor who has researched these model factories told me that at that time, the internal standards for data procurement, including the standards for adding new suppliers, were not particularly clear. Although there have been collaborations with several internet companies and even some overseas suppliers, the overall supply volume has not been that large. On the other hand, there was a period in the country where distillation was the main focus, which greatly weakened the necessity for everyone to seek expert data. This year, Agent has fully exploded, and the types of data needed are no longer just simple expert data, but data that is closer to the environment. A researcher from a model factory told me that the data needed now is no longer just \"questions and answers,\" but a closed-loop, verifiable training environment that allows the model to act repeatedly and receive feedback. The model executes tasks within it, the environment records every action it takes, then a validator judges the results, and finally, feedback is returned to the model. For example, if you want to train a model to write better front-end code, it is not enough to rely solely on humans telling it \"whether this code is good or not.\" You need an environment that can execute code, and you also need a model that can understand the page effects to act as a judge, providing feedback through hundreds of rounds or even longer periods of operation. Some American startups have begun to specialize in creating reinforcement learning environments. AfterQuery hopes to teach models and agents to complete tasks like professionals, describing the company as \"encoding the patterns, decisions, and reasoning of the world's top practitioners\" to output expert reasoning datasets, reinforcement learning simulation environments, and model evaluation services for cutting-edge large models. On the demand side, Anthropic's management has also discussed investing $1 billion in reinforcement learning environments within the next year. OpenAI's data expenditure for the entire year of 2025 is expected to be about $1 billion, with internal predictions rising to $8 billion by 2030. Currently, there are about a dozen such seed-stage teams in the U.S., with no more than 20 people, serving 1 to 3 large clients. Many such entrepreneurial opportunities have also begun to emerge domestically. An investor told me that more and more researchers are spilling out from model factories. By May and June of this year, this trend became quite clear: a new batch of teams providing high-quality data began to appear in the market, while the demand for data in some new fields from model factories was also increasing. The post-2000 generation is gathering wealth. Like entrepreneurs in other fields of AI, the founders of training data companies are usually very young. Alexandr Wang, the founder of Scale AI, became a billionaire at the age of 24, and the three founders of Mercor also became billionaires at the age of 22 with a valuation of $10 billion. The most recent are the two co-founders of AfterQuery. Spencer Mateega is 23 years old, and Carlos Georgescu is 22 years old; when they founded the company, both were still in college. Their company has just announced that it is raising a new round of financing, with a valuation reaching $3.2 billion. This company was established only 18 months ago, and its main business is AI training data services. Nowadays, the founders of domestic data startups are similarly young, and they are not necessarily the kind of \"little geniuses\" in the embodied track, just like the interns I mentioned at the beginning, who come from leading model factories. An investor who has been in contact with a domestic unicorn data training company told me that early on, everyone's judgment was still more focused on \"people.\" People who possess both business sense and researcher attributes are still relatively rare in the market today. The founder of this company had internship experience at first-tier model factories like Moon's Dark Side, participated in model training work, and published papers. The current situation is that the frontline work of model training is mainly undertaken by PhDs from prestigious schools, who will take on specific execution tasks from the start of their internships. After they complete these tasks with outsourcing teams, it is easy for them to think, since this task can be completed in the outsourcing department of a large factory, why can't they do it themselves? As a result, some people began to leave model factories or outsourcing teams to establish data startups. This is also a common characteristic of this batch of data entrepreneurs: they are closer to the actual needs of model factories and more sensitive to changes in the external market. An investor who has already invested in similar projects told me that his judgment of the entrepreneur's profile is mostly that the team should at least reach T0 or T1 level, and it is best to be from the post-95, post-98, or post-2000 generation who have truly participated in frontline model training. Engineering capability is also key. How to build a team and how to translate the data quality requirements recognized by researchers into actual production require strong engineering capabilities. From the construction of the entire data pipeline to query design, initial data composition, and subsequent cleaning and quality control, there are complex engineering links behind it, and it is not simply manual annotation. On the surface, data is a business, but when done well enough, it can also become a candidate team outside of model factories, or even a small pre-training and post-training organization. Investors can acquire a team with a high density of researchers at a relatively low cost in the early stages, and the data business is a way for them to sustain themselves temporarily, while also helping them prove their position in the industry and keep up with the changes in model intelligence development. The ceiling of the data business. However, a purely data business is difficult to sustain these startups in the long run. The market disclosed in 2025 that Mercor, which started with expert data in vertical fields, achieved an annual revenue of $100 million, but 60% to 70% of its total revenue needs to be paid to contractors, leaving very limited space for the company. Scale AI also has more than half of its revenue used for direct business costs, including contractor salaries. In the prices published by some domestic data annotation platforms, the hourly wage for annotators usually ranges from 200 to 500 yuan, and those with higher qualifications and stronger professionalism can even reach over a thousand yuan. As model capabilities continue to improve, the demand for top experts from post-training companies will become increasingly complex. If they still rely on a large amount of manual labor to find experts and produce data, it means that costs will continue to rise; if they raise the fees for experts, the gross profit will be compressed; if they do not raise fees, it will be difficult to obtain sufficiently high-quality data. Moreover, data business orders are not entirely certain. An investor friend told me that when the first batch of data suppliers entered the market, many companies first produced a batch of high-quality samples in each vertical field, whether manually polished or produced in other ways, and would invest a lot of effort in the samples before presenting them to clients like Alibaba and Tencent. After client approval, they would further place orders. However, in the data industry, an order does not equate to an immediately confirmable income. Each batch of data requires acceptance and quality control by researchers, and if the quantity or quality of the delivered data fails to meet standards for several consecutive times, clients may completely reduce or even cancel orders. For example, signing a $100 million order does not mean that the company will definitely achieve corresponding revenue scale six months, a year, or two years later. From the VC's perspective, investment ultimately returns to two questions: can this company form a sufficiently high value multiple, and is there a clear exit path in the future? The division of labor among overseas giants is relatively mature, with each large company providing annual budgets to external data companies, which are still growing and are substantial by 2027 and 2028. Therefore, overseas data companies indeed have good market space and have already seen exit opportunities through acquisitions. However, the logic of the Chinese market is different; if it ultimately turns out to be just a data outsourcing company, whether acquired or listed, the space is relatively limited. In the view of the aforementioned investor, the future data business may no longer be the current model of \"how much a piece of data sells for\"; some data startups are beginning to try to position themselves in SaaS. For example, some traditional enterprises do not have the capability to train AI models but possess a large amount of unique business processes and high-value data internally. Data companies can enter these enterprises' workflows to help them complete AI transformation. In this process, enterprises will open up some unique business scenarios, and the company will not only obtain data but also accumulate real task trajectories and interaction feedback, which can then be deposited into their own models and training systems. In this way, data will no longer be just a one-time delivered commodity but will become a layer of infrastructure connecting client workflows, model training, and long-term services. The pricing model of data companies will also change. Large companies will no longer simply pay according to the number of data points but will pay for a system that can continuously generate high-quality data, complete task execution, and provide model feedback. Some overseas data companies have already moved towards this deeper service capability. Companies like Turing, Scale, and Invisible are developing consulting or deeper enterprise service businesses, hoping to move from simply providing data and manpower to further engaging in clients' AI workflows. Of course, the deeper the data penetrates the core business of clients, the higher the risk. After Mercor encountered a data leak incident this year, Meta suspended its cooperation, and OpenAI also launched an investigation into it. The relevant data may involve the training methods of model companies, contractor information, and proprietary data. Where is the new story? In addition to pursuing higher intelligence, the acceleration of model release speed is another reason for the growth of data orders this year. Since 2026, the release rhythm of leading model manufacturers has been compressed to a monthly level. From a technical perspective, there may be a key variable at play behind this: RSI. RSI (Recursive Self-Improvement) refers to AI participating in or even improving its own R&D processes, thereby continuously shortening the model iteration cycle. It is seen as an important driving force behind the acceleration of this round of model releases and has become a buzzword in the AI venture capital circles of China and the U.S. This is not a brand new concept. The academic community has been discussing it for a long time, and the industrial sector has been trying to promote it. In May, a new AI laboratory called Recursive Superintelligence (RSI), co-founded by eight top AI researchers including former FAIR research director Tian Yuandong from Meta, completed a $650 million financing round, with a post-investment valuation of about $4.65 billion. This technological concept has officially been pushed to the capital market. Some data startups have also begun to incorporate RSI as part of their financing narrative. My investor friends have noticed that some data teams have started to build \"semi-RSI\" systems in new fields. They have not yet achieved fully automated iteration, but in certain aspects, they may have reached close to half or even 70% to 80%. For example, teams can quickly produce high-quality analysis, annotation, and synthetic data in a new vertical field while efficiently embedding expert experience and human judgment into the system. In the future, if they can further reduce human intervention and allow the system to complete task generation, execution, evaluation, and iteration on its own, there will be an opportunity to move from data production to a more complete model improvement closed loop. However, starting an RSI venture is a game with extremely high barriers. It requires cutting-edge models, massive computing power, top research talent, training infrastructure, large-scale experimental capabilities, and a sufficiently strong model evaluation system. Currently, those who truly have the ability to attempt to close the complete loop are still mainly OpenAI, Anthropic, Google DeepMind, and a very few new labs with extraordinary capital and talent allocation. Many companies in the market today are talking about RSI, but what they are doing is not actually the same thing. Some teams benchmark against large model companies, aiming to develop the next generation of models and trying to run through the complete model training process; some RSI only occurs at the automation level of a certain product; and some teams refer to RSI as their data pipeline being able to achieve self-purification and self-iteration. The levels, directions, and scopes of these works are different, and in the short to medium term, there may be very obvious gaps between them. Therefore, from an investment perspective, it is essential to first dissect the specific meaning of RSI: what problem is it actually solving at which level? What ecological niche can this level occupy in the entire industry in the future? What are its capability boundaries, and is there potential for further upward extension? Of course, data entrepreneurs do not all have to aim to develop the next generation of models with RSI. It all depends on how you view what you are doing. Some people may think very clearly: starting a business is not about financing, but about finding three to five people, ten people, to do a business that can make money. As long as the first order runs smoothly and clients can make normal payments, cash flow will not be under too much pressure. In summary, as the first pot of gold for young people, data seems to be a good business. In the view of the aforementioned investor friend, a team will not be penalized for choosing to \"do data.\" On the contrary, the capabilities accumulated in the process may become an important prerequisite for doing bigger things in the future. \"If a team can do data while making money to support itself, while continuously accumulating research and engineering capabilities, and keep moving forward along with model intelligence, this is actually very interesting.\" Kimi interns start a company, with a valuation approaching 20 billion."
+      },
+      {
+        "id": 26737895,
+        "title": "Hollywood Workers Are Training AI Models as Job Prospects Grow Slim",
+        "url": "https://www.hollywoodreporter.com/business/digital/ai-training-hollywood-writer-jobs-prospects-1236628302/",
+        "publisher": "The Hollywood Reporter",
+        "published_date": "2026-06-24T15:57:21",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0149,
+        "ai_summary": "Hollywood workers including editors, writers, and development executives are taking side jobs training AI models through platforms like Mercor, Surge AI, and Scale AI, as traditional film and television work has declined, with some earning $100 or more per hour in this growing sector. The practice is raising ethical tensions in the creative community, as workers weigh immediate financial survival against concerns that training AI systems may ultimately contribute to the displacement of their own jobs, a dilemma compounded by lawsuits from Disney, Universal, and Warner Bros. Discovery against AI companies over training data. Labor advocates and union members express concern about exploitative working conditions and long-term damage to creative industries, even as demand for AI trainers has doubled on job platforms serving the arts sector.",
+        "word_count": 2171,
+        "original_language": "EN",
+        "author": "Katie Kilkenny Steven Zeitchik",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+            "code": "HDAAACAI",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Data Privacy & Cybersecurity Regulation",
+            "code": "RC07",
+            "is_primary": false
+          },
+          {
+            "name": "Talent-Market Dynamics",
+            "code": "WT05",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000g9r",
+            "name": "The Walt Disney Company",
+            "website": "https://thewaltdisneycompany.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002so",
+            "name": "Warner Bros Discovery",
+            "website": "https://wbd.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "interview",
+          "label": "Interview"
+        },
+        "is_press_release": false,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001275",
+            "name": "gig economy"
+          },
+          {
+            "code": "20000307",
+            "name": "film industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "89",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "71141",
+            "name": "Arts, Entertainment, and Recreation"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7361",
+            "name": "SERVICES-EMPLOYMENT AGENCIES"
+          },
+          {
+            "code": "7812",
+            "name": "SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "gabe sena",
+            "ruth fowler",
+            "robin palmer",
+            "steven woolworth",
+            "jorge gutierrez",
+            "peter thiel",
+            "sam tung",
+            "vince gilligan",
+            "tim friedlander",
+            "phil langone",
+            "woolworth"
+          ],
+          "location": [
+            "hollywood",
+            "los angeles",
+            "u.s.",
+            "developing countries"
+          ],
+          "product": [
+            "rules of the game",
+            "little disasters",
+            "citadel",
+            "twisters",
+            "voice123",
+            "pluribus",
+            "midjourney",
+            "skeleton crew",
+            "breaking bad",
+            "voices dot com",
+            "thunderbolts",
+            "handshake"
+          ],
+          "event": [
+            "film festivals",
+            "play"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 3082232,
+        "full_text": "In 2023, concerns over the rise of generative AI animated the writers and actors strikes, with many rank-and-file workers fearful that it could put wide swaths of the entertainment industry out of work. Three years later, with those concerns still alive and well, some Hollywood workers have been moonlighting in AI training, working to help improve the tech, anyway. As Hollywood adapts to the technology — particular corners of the business running toward it, others away — a smattering of creatives have begun to go public with their time in the world of Reinforcement Learning From Human Feedback (RLHF). In May, writer Ruth Fowler (Little Disasters, Rules of the Game) published a personal essay for Wired about her own experience with AI-training jobs, a field she says she resorted to as entertainment work dried up and she needed money to pay rent and buy groceries. The same month, screenwriter Robin Palmer, who has written TV movies for Disney Channel and Hallmark, spoke with CBS News about working in AI training, even as she admitted that some in her field might compare it to crossing the picket line. Editor Gabe Sena is another entertainment worker whose side hustle is helping to fine-tune AI models. “I’m mid-career and I don’t want to be a dinosaur in my field,” he explains to The Hollywood Reporter. “This is a thing that people are fearful of, that seems like a black box to a lot of people who aren’t in the tech industry. And so it made more sense to me to try to immerse myself in it as opposed to just going, ‘I don’t like that it’s new.’” As the traditional film and television job market narrows, this kind of gig work is on the rise, and current and former entertainment workers are taking part. The phenomenon is raising uncomfortable questions in a creative community where the use of the tech can be a third-rail topic, as illustrated by the recent saga of animator Jorge Gutierrez dropping out of a generative AI series he was set to create for Amazon following backlash. Are these workers proactively helping to contribute to an eventual displacement of jobs in the industry? Or are they simply trying to survive in a system where AI adoption is moving full steam ahead due to forces far larger than any individual? For Sena, the decision was one rooted in curiosity about the future and how he should be preparing himself. A University of California Los Angeles film school alum, Sena typically edits small documentaries and videos for nonprofits like the Make-a-Wish Foundation and the Children’s Defense Fund. He says he was eager to learn more about AI when he was between jobs in the summer of 2025. “It was very open curiosity and not even being 100 percent clear about exactly the sort of work I would be doing,” he says. He signed on for a job facilitated through a recruiting platform for AI work called Mercor. Mercor was founded in 2023 by three college dropouts and Thiel Fellows, or participants of billionaire Peter Thiel’s program offering funding and connections to people who leave college or never attend and want to “build new things.” Backed by the venture capital firms Benchmark, General Catalyst, Robinhood Ventures, Felicis and Menlo Ventures, Mercor’s lodestar is “organizing human intelligence to power the AI economy,” or providing domain experts to improve AI models. Its $350 million series C funding round in 2025 valued the firm at $10 billion. Though he can’t disclose specifically what he’s worked on — Sena, like many workers in this field, has signed nondisclosure agreements — he says one of his recent jobs involved comparing prompts given to a generative AI system with its outputs and seeing how the two matched up. When asked whether he’s concerned that this kind of work will replace jobs in the future, Sena says he believes some roles may be “phased out” but workers who are capable, diligent and adaptable will be able to maintain their careers. “There’s some parts of my job that I would be happy to hand off to a very intelligent sort of way of doing things,” he adds. “But even if it seems like rote tasks, there’s a lot of subjectivity in what I do.” Like Sena, Steven Woolworth, a former development executive with HBO and Studio TF1 America, felt he had to dive headfirst into AI rather than shy away from it. After a grueling year-and-a-half period of fruitless job searching in Hollywood, Woolworth came to this world through a friend — a member of the Writers Guild of America — forwarding an email from Mercor. Woolworth, who says he is a supporter of AI regulations and guardrails in entertainment, explains, “I looked at it one of two ways. I can keep my head buried in the sand, or I can enter this world and get a very inside perspective of what is happening in AI training and its capabilities. And also be a part, obviously a very small part, of a team of people training this so it becomes productive in a healthy and positive way.” The work has “kept a roof over my head for the past year, [of] which I am deeply appreciative,” he says. And he doesn’t believe it could replace his prior occupation as an executive, saying that tech can’t go to in-person events like film festivals or a play to discover new talent. “Obviously none of us know what the future holds, but I know today it can’t do the essential human things that I do,” he says. Left: Editor Gabe Sena is an entertainment worker whose side hustle is helping to fine-tune AI models. Right: Steven Woolworth, a former development executive with HBO and Studio TF1 America, found work training AI at Mercor. ** RLHF operates as a three-part process. First a human scores a model’s outputs — say, how likely a character in a drama would be to react to news of a tragedy with a host of jokes or expressions of sympathy — going back with one score after another to various responses. Once a data set is fully trained on those responses, the AI itself trains a second “reward model,” which is then used to train the original AI, removing the humans from the process. The actual job for human reinforcers can be mind-numbing. A machine makes choices that go anywhere from reasonable to laughable, and a human tells it what it got right or wrong. One veteran writer who helped train a model described an environment akin to a high-school standardized test, with a strict human proctor in the room telling people what they can and can’t do as one output after another flashed across their screens. What at first felt fun — like guiding a sweet wayward child — soon felt like a crazymaking psychological experiment. “How many times can you tell a machine it’s wrong without losing your mind?” the person recalled. In the past few years, AI companies have been reportedly shifting from training their models with the help of data annotators (who, in some instances, have experienced allegedly exploitative and toxic working conditions) doing drudging work in developing countries. Now, firms are seeking “experts” in their field, not just Hollywood professionals but also doctors and lawyers, who can earn, depending on their expertise, more than $100 an hour by helping make an AI tool sound more human and by correcting its mistakes in specialty areas, among other tasks. Unlike traditional Hollywood, this is a growing sector. According to data provided by the jobs platform Indeed, the share of job postings related to AI within the arts category doubled between May 2025 to April 2026, from nearly 5 percent to nearly 11 percent. That growth is greater than even job postings related to AI broadly, which rose from 2.8 percent in May 2025 to 5.5 percent by April 2026. As of press time, “creative writers” could earn “up to $44 an hour” to help on an AI project facilitated through jobs platform Handshake; a “music professional” with a master’s degree or above could earn “up to $100 an hour.” Labor complaints have dogged the field of AI training as it’s grown in the U.S. Workers have described in published news reports highly unstable employment, cutthroat environments as demand for jobs exceeds supply, rushed work and lack of information about who, exactly, is the client. Two major firms that provide RLHF work, Surge AI and Scale AI, have been accused of unpaid wages and worker misclassification as well as exposing workers to traumatizing content in lawsuits, respectively. Even Hollywood critics of the generative AI economy express sympathy for those working in this precarious field. One of those people is Breaking Bad and Pluribus creator Vince Gilligan. “I’ve been extraordinarily lucky throughout my career, so I’m not going to judge folks who are simply trying to provide for their families,” he wrote to The Hollywood Reporter in an email. “I just thank god I’ve never been faced with that choice myself. And I appreciate that my career started in 1990, not 2026.” Adds Sam Tung, a storyboard artist who worked on Citadel and Twisters, “The people who are taking this work are not doing it because they’re eager to undercut other human workers. People are really struggling in this current downturn and they have mortgages to pay and kids to feed.” But Tim Friedlander, a voice actor who leads the National Association of Voice Actors (NAVA), cautions that this work may offer short-term gains with long-term consequences. AI-training opportunities currently proliferate on go-to job platforms for his peers like Voices dot com and Voice123 but, Friedlander says, a recent survey from the organization found that about 20 percent of respondents have knowingly lost jobs due to work being done by AI tools. NAVA’s stance is currently that no licensing or training deals should take place in voiceover. “I don’t really necessarily fault somebody if you’re all of a sudden you’re given potentially $1,200 for four hours’ worth of work. Then it’s really enticing, but that may be the only four hours you’re ever going to work in that job,” he adds. “I think in the long term, it is more damaging to the entire creative sector to be training these systems.” The Writers Guild of America is in a difficult position as its members are taking AI-training jobs even while leadership advocates against those same AI systems. ** The guilds are in a tough position. The specter of members helping to train systems leadership opposes would seem to present an easy path for the groups: Issue guidance against (if not an outright ban on) taking the work. But at least two writers — both active in WGA politics — noted they believe WGA leaders’ hands are tied on RLHF, and in fact their group and others might be in a kind of catch-22. They can’t tell members not to use their skills to make money, especially at a time when so many are struggling to find regular work. Of course, if they don’t stop it, people could be struggling even more and they’ll really need to take these gigs. When asked if they had a policy on members working in AI training, major Hollywood unions reached for this story either said they had no comment or never responded. In some ways, the cat may have already come out of the bag. In 2025, Disney and Universal filed suit against the image and video generator Midjourney, alleging plagiarism after, they argued, company vacuumed up copyrighted material on the internet as training data; later that year, Warner Bros. Discovery also sued the company with similar claims. Says storyboard artist Phil Langone (Thunderbolts*, Skeleton Crew), “I’m an artist and I know it’s crawled my own work and it’s stolen from me. I’m like, ‘Well, that war was lost before we even knew it was being fought.’” How much RLHF could ultimately improve models for writing or anything else is an open question among engineers. While there’s little doubt that humans are helpful and even necessary in training machines — the technique is so powerful it won its creator the prestigious Turing Award last year — it also is hardly foolproof. Among RLHF’s challenges are sycophancy, which will have a model essentially agreeing with a human trainee but then generating what it wants to in a real-life situation anyway. That could make the model weaker and actually pose less of a threat to human entertainment workers worried about getting disrupted out of a job. Still, AI companies seemingly need subject matter experts to turn the slop into more polished outputs — which could, in turn, convince more entertainment companies to hire fewer humans. And in desperate times, people don’t tend to think in hypotheticals or a decade out. When asked if he has friends in Hollywood also working in AI training, Woolworth said, “Yes.” He adds, “And a lot that are certainly trying.”"
+      },
+      {
+        "id": 31655923,
+        "title": "The Ultimate AI Data Labeling Industry Overview (2026)",
+        "url": "https://www.herohunt.ai/blog/the-ultimate-ai-data-labeling-industry-overview/",
+        "publisher": "Herohunt",
+        "published_date": "2026-01-12T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "This comprehensive industry guide covers the AI data labeling sector in 2026, explaining how human annotators are essential to training AI systems through techniques like Reinforcement Learning from Human Feedback (RLHF), with major AI labs spending approximately $1 billion annually on human-curated data. The article profiles key industry players including Scale AI (which Meta acquired a 49% stake in for $14.3 billion in June 2025), Surge AI (raising $1 billion at a $25 billion valuation), and Mercor (reaching $10 billion valuation after a $350 million Series C), while documenting how AI labs are shifting from generalist crowds toward specialist expert annotators. Looking ahead, the industry is evolving toward AI-assisted labeling where automation handles routine cases while humans focus on complex judgment tasks, with roles transitioning from simple labelers to AI auditors and evaluators.",
+        "word_count": 12644,
+        "original_language": "EN",
+        "author": "Yuma Heymansjanuary",
+        "countries": [
+          "USA",
+          "CHN",
+          "CAN",
+          "AUS",
+          "GBR",
+          "IND",
+          "NPL",
+          "KEN"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "RLHF, Human Feedback & Evaluation Data Tools",
+            "code": "HDAAALAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          },
+          {
+            "name": "Business-Model Evolution",
+            "code": "II03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000fz3",
+            "name": "CloudFactory",
+            "website": "http://cloudfactory.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00009oq",
+            "name": "Telus Digital",
+            "website": "https://www.telusdigital.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000022h",
+            "name": "Meta",
+            "website": "https://www.meta.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003lo",
+            "name": "iMerit",
+            "website": "http://imerit.net/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0007efx",
+            "name": "Appen",
+            "website": "http://www.appen.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000kc",
+            "name": "micro1",
+            "website": "https://www.micro1.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000762",
+            "name": "identification technology"
+          },
+          {
+            "code": "20001161",
+            "name": "Internet of Things"
+          },
+          {
+            "code": "20000766",
+            "name": "nanotechnology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541713",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541714",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "56191",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "alexandr wang",
+            "elon musk",
+            "jason droege",
+            "ivy league professors",
+            "yuma heymans"
+          ],
+          "location": [
+            "africa",
+            "europe",
+            "us",
+            "china",
+            "south asia",
+            "split",
+            "kenya",
+            "australia",
+            "india",
+            "nepal",
+            "uk",
+            "asia",
+            "east africa",
+            "eastern europe"
+          ],
+          "product": [
+            "chatgpt",
+            "self-driving cars",
+            "chatbots",
+            "self-driving car ais",
+            "voice assistants",
+            "gpt-4",
+            "chatbot",
+            "grok",
+            "autonomous vehicles",
+            "lionbridge ai",
+            "figure eight/crowdflower",
+            "remotasks",
+            "evaluation services",
+            "claude",
+            "zara",
+            "mturk",
+            "toloka",
+            "autonomous vehicle",
+            "labelbox",
+            "encord",
+            "superannotate",
+            "o-mega.ai",
+            "herohunt.ai",
+            "hive ai",
+            "clickworker",
+            "kili technology",
+            "ayadata",
+            "anolytics",
+            "surge",
+            "micro1",
+            "slack",
+            "self-driving car",
+            "sam",
+            "figure eight"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6526423,
+        "full_text": "Every cutting-edge AI model – from helpful chatbots to self-driving cars – is secretly fueled by human effort. In the background, thousands of people known as data labelers (or “AI tutors”) are teaching AI systems how to behave. They label images, annotate videos, and even grade AI-written text, providing the human feedback that today’s AI models desperately need to improve. In 2026, the AI data labeling industry has exploded in scale and complexity. Major AI labs like OpenAI and Anthropic spend vast sums on human-curated data, and a whole ecosystem of providers has emerged to meet this demand. This guide offers an in-depth, practical look at that industry – why it exists, how it works, who the key players are, and where it’s headed. We’ll start high-level, then drill into specifics: the skyrocketing need for labelers, the way AI firms outsource (or sometimes insource) this work, what labelers actually do (from ranking chatbot answers to annotating medical images), the major companies and platforms providing these services, proven methods and pitfalls in managing labeling projects, and finally how automation and “AI agents” are changing the game. Whether you’re an AI researcher, a data operations lead, or a startup founder, this guide will give you a detailed understanding of the human side of AI training – and why it’s so critical in 2026. Contents The Soaring Demand for AI Data Labelers Outsourcing vs. In-House: How AI Labs Get Data Labeled What AI Data Labelers Actually Do (Key Tasks & Methods) Major Players in the Data Labeling Industry (2025–2026) Best Practices, Challenges, and Limitations Future Outlook: AI Agents, Automation, and Evolving Roles 1. The Soaring Demand for AI Data Labelers It’s hard to overstate how essential human data labelers have become to modern AI. The latest Large Language Models (LLMs) and other AI systems are not trained on raw internet data alone – they rely heavily on curated, human-labeled datasets and feedback to achieve their impressive capabilities. In fact, each of the leading AI companies now spends on the order of $1 billion per year on human data, and those budgets are still rising rather than falling - TIME. The reason is blunt: the cheap, scrapeable internet has largely been consumed, so the remaining gains increasingly come from data that did not exist until a human was paid to produce it. Why this explosive need for human input? The answer lies in how AI models learn. Even the smartest model can make bizarre mistakes or produce harmful output if left unguided. Reinforcement Learning from Human Feedback (RLHF) has emerged as a key technique to align AI behavior with what humans want. RLHF involves real people (labelers) checking AI outputs and teaching the AI which responses are better. For example, when training ChatGPT, human evaluators would review two possible answers it gave and pick which one is more helpful or appropriate – repeating this across countless examples to train a “reward model” that the AI then uses to improve its answers. These seemingly simple preference comparisons – choosing A vs B – are the secret sauce that made chatbots like ChatGPT far more useful and polite. Major AI labs now rely on armies of contractors for these feedback cycles. Beyond chatbots, every AI domain needs labeled data. Self-driving car AIs learn from millions of images hand-labeled with road hazards. Voice assistants improve when humans transcribe and annotate audio clips. Medical AI systems require doctors to label X-rays or ECGs. In short, behind every “smart” AI is a quiet workforce of human teachers providing the ground truth. One industry report noted that data preparation (collecting, organizing, labeling) can consume 80% of an AI project’s time – and all that effort is wasted if the labels are low-quality or biased. High-quality labels give models a competitive edge, which is why companies from big tech to startups are investing so heavily in human annotators. Going into 2026, the demand for skilled labelers has truly exploded. Crucially, the bar for labeler quality is rising. Early on, AI companies could get by with crowds of part-timers doing simplistic tasks for pennies. But today’s frontier AI models need much more nuanced and expert guidance. It’s not just about labeling huge volumes of data, but ensuring the labels are accurate and consistent as those volumes scale. If you have 100 people labeling, they all need to follow the same rubric so the AI isn’t confused by inconsistent answers. A single bad label can introduce bias or errors in the model. As a result, organizations are seeking higher-skilled labelers who can produce reliable data at scale. For example, instead of random crowd workers deciding if an answer is correct, you may need linguists rating a chatbot’s grammar, or lawyers judging whether an AI’s legal advice is sound. The quality of the human feedback directly caps the quality of the AI – so getting the “best” labelers (and methods to manage them) has become a strategic priority for AI teams. Another reason demand is so high is that AI models must be constantly refined. Training data is no longer a one-shot deal at the start of a project – it’s a continuous feedback loop. Every new model update or feature usually requires another round of human evaluation. Models like GPT-4 can generate thousands of outputs per hour, far too many for full manual review. So the process becomes iterative: generate a lot of outputs, have automated filters or preliminary models flag the likely bad ones, and then send only the top (or most uncertain) results to human labelers for careful review. Even so, the scale of human feedback needed is enormous. OpenAI’s GPT-4, for instance, was refined with help from hundreds of human raters reviewing model answers on everything from factual accuracy to tone. AI developers are essentially “teaching” their models through thousands of small human judgements, and as models get more sophisticated, those judgements get more subtle and require more skill. All this has turned data labeling from a backroom task into a huge industry of its own. Finally, it’s worth noting the global nature of this demand. The pursuit of AI supremacy has even reached the geopolitical stage. For instance, China’s government issued national guidelines in January 2025 to expand its data annotation sector, targeting compound annual growth above 20% through 2027 and standing up seven dedicated data labeling bases across seven cities - People’s Daily. Meanwhile, Western companies continue to leverage talent pools worldwide, from the US and Europe to Africa and South Asia. A Google Research paper put the global data annotation workforce in the millions as far back as 2022, and every budget signal since has pointed up rather than down. This human workforce truly powers the AI revolution, even if they remain mostly invisible behind the algorithms. 2. Outsourcing vs. In-House: How AI Labs Get Data Labeled How do AI organizations actually procure all this human labeling? Broadly, they face a choice: outsource to service providers or build an in-house labeling team. Historically, most have chosen to outsource the work to specialized data annotation companies or crowdsourcing platforms. These providers recruit and manage the annotators, handle the tooling and quality control, and deliver labeled data as a service. Outsourcing is attractive because it’s scalable and convenient – you can spin up 50 or 500 labelers on short notice via a vendor, without having to hire and train those people yourself. It’s no surprise that major labs rely on external data teams for everything from image tagging to RLHF feedback. OpenAI, for example, has contracted with firms that employ large numbers of remote workers to rate chatbot responses or moderate content (famously, some of OpenAI’s content filtering was done by teams in Africa contracted through an outsourcing firm). Anthropic and others similarly partner with data labeling companies (like Scale AI, Surge AI, and others) to supply human feedback at scale. In essence, these AI labs focus on model research while delegating the human data work to outside specialists. However, outsourcing has its trade-offs. Relying on third-party vendors can raise concerns about quality control, data privacy, and even strategic risk. A dramatic example came in June 2025 when Meta invested $14.3 billion for a 49% non-voting stake in Scale AI, valuing the labeling company at roughly $29 billion and taking founder Alexandr Wang with it as Meta’s Chief AI Officer - CNBC. Scale AI had been an important independent provider of labeling services to many AI labs. The deal sent shockwaves through the industry: suddenly other AI companies worried that if they continued relying on Scale, their sensitive training data and roadmap could be indirectly visible to a competitor. The reaction was immediate. Google, Scale’s largest customer at roughly $150 million of spend in 2024, moved to split, and OpenAI and Microsoft wound work down as well - CNBC. Many labs reacted by cutting ties with Scale and seeking independent, neutral data vendors. This episode underscored how strategically vital these data pipelines have become. Outsourcing your “AI fuel” is convenient, but if the fuel supplier is bought by a rival, it’s an existential problem. To mitigate such risks, some AI developers have tried the in-house route, building their own labeling operations from scratch. The idea is to gain more control over data quality and confidentiality. For example, Elon Musk’s startup xAI initially hired a large internal team of around 1,500 data annotators (“AI tutors”) to work on training its Grok chatbot. These were full-time staff dedicated to labeling and feedback, making xAI unusually vertically integrated. However, xAI quickly discovered the challenges of running a labeling army. In September 2025, they abruptly laid off around 500 of their generalist annotators, roughly one-third of the team, and pivoted strategy - TechCrunch. Going forward, xAI decided to focus on a much smaller number of specialist AI tutors (domain experts in areas like STEM, medicine, finance) rather than a huge pool of junior labelers. The company even announced plans to increase its specialist tutor team by “10x” while downsizing the generalists. This reflects a broader trend: some cutting-edge labs are finding that quality matters more than quantity in labeling, and that it can pay off to have a tight-knit team of highly knowledgeable annotators who truly understand the data. Musk’s xAI essentially tried both extremes – first an in-house crowd, then a smaller elite in-house team – in search of the optimal setup. For most organizations, though, building an in-house labeling workforce at scale is not very practical. Managing thousands of annotators (hiring, training, facilities, software, payroll) is a massive undertaking outside the core competency of an AI lab. It can also be expensive to maintain full-time staff for work that might ebb and flow with project needs. That’s why outsourcing remains the dominant model: it turns labeling into a flexible utility you can dial up or down. If you suddenly need 100,000 questions labeled for a new model, you can contract a provider to handle it next month, then ramp down. The key is choosing the right vendor and maintaining oversight. Some AI companies do a hybrid: keeping a small in-house “alignment” team of experts who define guidelines and review critical cases, but outsourcing the bulk of routine labeling to external partners. This way they retain some direct control over quality and ethical standards, while leveraging the scale of service providers for volume. One notable hybrid approach is when AI labs directly embed expert contractors into their team via a vendor. Instead of receiving anonymized crowd output, the lab works closely with, say, a group of medical professionals sourced by a provider, effectively treating them as an extension of the in-house staff for the project’s duration. This can blur the lines between outsourcing and in-house, offering more control and domain expertise. We’re seeing more of this as domain-specific needs grow. In summary, most AI labs outsource a large portion of their data labeling to specialist companies or platforms, due to the ease of scaling and expertise available. A few have experimented with bringing it in-house to protect IP or ensure quality (and to save costs long-term), but even those often end up sending workers to outside firms when strategies shift. The outsourcing model does introduce dependencies and potential risks, but the industry has responded with multiple competing providers to choose from (preventing lock-in) and better contractual safeguards (NDAs, security audits, etc.). As we’ll see, there’s now a whole landscape of data labeling vendors vying to be the trusted partner for AI labs – each with different approaches to solving the quality-at-scale equation. 3. What AI Data Labelers Actually Do (Key Tasks & Methods) What does the day-to-day work of an AI data labeler (or “AI tutor”) look like? It turns out these roles can range from very simple tasks to highly sophisticated judgment calls. Early data labeling work often involved straightforward jobs: drawing boxes around objects in images, transcribing audio clips, or categorizing short text snippets. Those tasks still exist (and are crucial for computer vision, speech recognition, etc.), but the rise of large AI models – especially LLMs – has expanded the scope of labeling into much more complex territory. For Large Language Models, a primary labeling task is providing preference feedback and quality ratings on generated text. As mentioned, pairwise preference comparisons are a core part of RLHF training: the labeler reads two responses that an AI assistant produced to the same prompt and marks which one is better (in terms of helpfulness, correctness, tone, etc.). This trains the AI on human preferences. Over time, companies have also developed more detailed scoring rubrics (“scoring matrices”) to evaluate AI responses on multiple dimensions. Instead of just “pick A or B,” a labeler might be asked to rate a single AI response on a numerical scale across several criteria – for example, giving separate scores for factual accuracy, relevance, clarity, and harmfulness. These multi-criteria evaluations provide richer feedback to the model. A simple example rubric could be: Helpfulness 1-4 (1 = not helpful, 4 = very helpful), and Correctness 1-4 (1 = incorrect, 4 = perfectly correct). The labeler would score an answer and perhaps provide a brief justification. Such direct scoring methods are being used to fine-tune reward models and evaluate LLM outputs. They can reduce biases that come from pairwise ranking (where position or comparison effects might skew judgment) and allow gathering of granular data on where an AI’s answer falls short. However, scoring complex text reliably is hard – it demands well-trained labelers who can apply nuanced guidelines consistently. To help labelers with these nuanced tasks, AI labs supply detailed labeling guidelines and matrices. For instance, OpenAI and Anthropic have internal documents that define what makes an answer “helpful” or “harmful”, with examples. Labelers might have to follow a rubric where each response is checked against a list of questions (Is any part toxic? Is it on-topic? Is it correct? etc.) and then either choose the best overall or assign a category. It’s more involved than old-school tagging tasks, often taking several minutes per item even for an experienced rater. Some companies even have labelers provide a short written critique of the AI’s answer in addition to a score, as this text can be fed back into model training to improve future responses. Another important task is content moderation and safety labeling. Before an AI model is deployed, humans must go through its outputs (or the training data) to flag and filter out inappropriate content – hate speech, sexual content, personal data, and so on. Labelers in this role might review lots of disturbing or sensitive content and label it according to policy (e.g., “This response contains self-harm encouragement” or “This image is violent”). These labels then inform the model’s safety filters. It’s tough work – sometimes compared to the content moderators at social media companies – and it underscores why ethical treatment and support for labelers is crucial (more on that later). Without these human moderators, AI models could output dangerous or disallowed content unchecked. Many AI firms outsource this particular task to specialized teams. Sama, for example, was contracted from November 2021 to label toxic text for OpenAI’s safety filters using workers in Kenya who took home between $1.32 and $2 per hour - TIME. The labor is difficult but essential for responsible AI. Labelers also play the role of data generators or AI tutors in some cases. Rather than just labeling existing data, they create new examples to teach the AI. This can mean writing high-quality answers to training questions (so the model has good examples to learn from), or engaging in a conversation with the AI model as a human would, to generate dialogue data. For instance, a labeler might be asked to chat with a chatbot model and intentionally push it with tricky questions, then provide feedback or corrections to guide it. This is like a tutor guiding a student: the human might say “Actually, that answer isn’t quite right because of X, here’s a better way to say it.” These interactive feedback sessions help models learn to improve their responses in a more organic way. It’s more free-form than scoring a static answer, and it requires labelers who are good communicators and knowledgeable in the topic. Some companies refer to this as having humans and AI “co-pilot” an answer together, or doing red-teaming (where the human tries to get the model to make mistakes or say something problematic, to identify its weaknesses). All of this falls under the umbrella of “reinforcement learning with human feedback,” but it’s not just yes/no labeling – it’s humans actively coaching the AI. In more traditional settings, data labelers still perform tasks like annotating images and video, transcribing and annotating audio, labeling 3D sensor data (LiDAR) for autonomous vehicles, and categorizing text for NLP tasks (like tagging parts of speech or extracting entities). What’s changed in recent years is the integration of AI assistance in these labeling tasks. Modern annotation platforms often include an AI model that will pre-label the data to some extent – for example, drawing a rough bounding box around an object or generating a first pass transcript – and the human labeler just corrects or refines it. This significantly speeds up the work. In computer vision, a great example is tools like Meta’s Segment Anything Model (SAM) which can automatically outline objects in images; a human labeler can then adjust those outlines rather than drawing from scratch. For text, an AI might do an initial classification which the human verifies. Essentially, labelers increasingly work with AI tools as helpers, overseeing and editing the AI’s suggestions. As one industry analysis noted, some platforms now let an AI model auto-label 80% of the data, leaving humans to focus only on the 20% hardest or most uncertain cases. This is a huge productivity boost, but it also means the humans are dealing with the trickiest edge cases – requiring even more skill on their part. The easy stuff, the AI can do; the hard stuff still falls to people. To summarize the scope of labeler tasks: they rank AI outputs by preference, rate them against detailed rubrics, moderate and filter harmful content, generate high-quality examples and conversations, and annotate every kind of raw data (images, audio, text) often with AI assistance. It’s a far cry from the simplistic tagging tasks of a decade ago. Today’s labelers might be domain experts (doctors, lawyers, coders) labeling data in their field, or trained linguists grading a model’s grammar. This increase in task complexity has in turn driven the need for better training and screening of labelers (you need the right people for the job, not just any people). And it has also made the work far more expensive. The unit of cost is no longer cents per label but expert hours: Mercor says the contractors on its roster earn over $85 per hour on average and that it pays out more than $1.5 million per day to them - TechCrunch. AI labs are willing to pay that for critical data points that really move the needle on model performance. Those rates also tell you where the market is repricing. The generic annotation tier is the part being automated and pushed down, as xAI’s 500 generalist layoffs showed. The specialist tier is the part that is growing, and it is what a budget line for human data increasingly buys: verifiable expertise, not availability. In the next section, we’ll look at who the major providers are that supply all these different kinds of labelers and how they differentiate themselves in this booming industry. Highlight AITraining.jobs Reading this from the other side, as someone who wants to do the work rather than buy it? The roles are real and they pay: RLHF, coding and domain tasks run roughly $20 to $90 an hour depending on how specialised your expertise is. The catch is that pay varies enormously between platforms for the same task, and most of them do not publish it up front. AITraining.jobs indexes openings across 35 of these platforms with the live rate attached, so you can compare what each actually pays before you apply rather than signing up blind. See what AI training pays → 4. Major Players in the Data Labeling Industry (2025–2026) Over the past few years, a crowded ecosystem of data labeling companies and platforms has emerged, each aiming to help AI projects get the human input they need. By late 2025, the industry has both long-established players and a new wave of startups specializing in AI data. It’s useful to know the landscape, especially if you’re looking to engage a provider. Here we highlight some of the biggest and most notable players, and what makes them stand out: Appen: A veteran data labeling firm (based in Australia) that has been around for decades. Appen built one of the largest global crowds of annotators (over a million contributors). They handle everything from search engine result evaluation to image tagging and speech transcription. Appen grew by acquiring smaller platforms (Figure Eight/CrowdFlower) and became known for large projects with tech giants. They have a structured quality workflow (“Quality Flow”) that uses quizzes and hidden gold tests to continually check worker accuracy. Many of Appen’s crowd workers are part-time contractors who have done tasks for years, so there’s a pool of semi-experienced annotators for common use cases. However, Appen and similar older vendors struggled to pivot quickly to the new RLHF-style tasks and the need for deep domain expertise – they faced slower growth around 2021–2023 as demand shifted to more complex labeling that newer startups excel at. Still, Appen remains a major player for large-scale, general labeling needs, especially for enterprise clients. They offer managed services and pride themselves on experience and breadth, though they might not be as specialized in cutting-edge AI alignment tasks as some newer firms.\n\nA veteran data labeling firm (based in Australia) that has been around for decades. Appen built one of the largest global crowds of annotators (over a million contributors). They handle everything from search engine result evaluation to image tagging and speech transcription. Appen grew by acquiring smaller platforms (Figure Eight/CrowdFlower) and became known for large projects with tech giants. They have a structured quality workflow (“Quality Flow”) that uses quizzes and hidden gold tests to continually check worker accuracy. Many of Appen’s crowd workers are part-time contractors who have done tasks for years, so there’s a pool of semi-experienced annotators for common use cases. However, Appen and similar older vendors struggled to pivot quickly to the new and the need for deep domain expertise – they faced slower growth around 2021–2023 as demand shifted to more complex labeling that newer startups excel at. Still, Appen remains a major player for large-scale, general labeling needs, especially for enterprise clients. They offer managed services and pride themselves on experience and breadth, though they might not be as specialized in cutting-edge AI alignment tasks as some newer firms. TELUS International (Lionbridge AI): TELUS (a Canadian company) acquired the Lionbridge AI division, merging a telecom/BPO giant with a well-known data annotation provider. The combined entity has a huge multilingual workforce and secure facilities in many countries. They are strong in translation, localization, and linguistic annotation (Lionbridge’s legacy) and also in things like search relevance rating and content moderation. TELUS International provides large dedicated teams for projects, often working from secure offices (for example, for sensitive financial or government data). They emphasize security certifications and global coverage. This is a go-to for organizations that need multilingual data labeled or that operate in many regions. Similar to Appen, they cover a wide range of services (text, image, audio, video) and have been adapting to include some AI feedback tasks in their offerings.\n\nTELUS (a Canadian company) acquired the Lionbridge AI division, merging a telecom/BPO giant with a well-known data annotation provider. The combined entity has a huge multilingual workforce and secure facilities in many countries. They are strong in translation, localization, and linguistic annotation (Lionbridge’s legacy) and also in things like search relevance rating and content moderation. TELUS International provides large dedicated teams for projects, often working from secure offices (for example, for sensitive financial or government data). They emphasize security certifications and global coverage. This is a go-to for organizations that need labeled or that operate in many regions. Similar to Appen, they cover a wide range of services (text, image, audio, video) and have been adapting to include some AI feedback tasks in their offerings. iMerit: A data services company that differentiates itself by focusing on domain expertise and social impact . iMerit is based in India and the US, and it has trained teams in areas like medical imaging, geospatial data, insurance documents, and more. They often hire and upskill people from underserved communities (a social enterprise angle) and turn them into skilled annotators for complex tasks. If you need, say, medical scans annotated by people who understand medical terminology (but aren’t fully licensed doctors), iMerit is known to provide that kind of service. They have around a few thousand full-time employees working on data labeling. Quality and security are a big part of their pitch – they handle a lot of confidential data under NDA and have secure facilities. iMerit’s success shows the trend toward vertical specialization – they even have a division for autonomous vehicle data, another for medical AI, etc., each with domain-trained staff.\n\nA data services company that differentiates itself by focusing on . iMerit is based in India and the US, and it has trained teams in areas like medical imaging, geospatial data, insurance documents, and more. They often hire and upskill people from underserved communities (a social enterprise angle) and turn them into skilled annotators for complex tasks. If you need, say, medical scans annotated by people who understand medical terminology (but aren’t fully licensed doctors), iMerit is known to provide that kind of service. They have around a few thousand full-time employees working on data labeling. Quality and security are a big part of their pitch – they handle a lot of confidential data under NDA and have secure facilities. iMerit’s success shows the trend toward – they even have a division for autonomous vehicle data, another for medical AI, etc., each with domain-trained staff. CloudFactory: A UK/US-based firm with large operations in Nepal and Kenya. CloudFactory’s model is to recruit educated workers in developing regions, put them into well-managed teams (with a team lead), and integrate closely with client workflows. They often assign a dedicated team to each project, which acts almost like your in-house team, just remote. Clients can even interact with the team, provide feedback, and see progress dashboards. CloudFactory emphasizes workforce development (training and fair wages for their teams) and is often used for scenarios where the human context matters – for example, a team of labelers who really get to know the client’s data over time to ensure consistency. They also tout quality control through multiple review layers and online tools. CloudFactory might be a fit if you want a stable, managed team working on your project long-term rather than a huge anonymous crowd. They are also known for secure facilities and have experience with things like healthcare data (HIPAA compliance) and even defense projects.\n\nA UK/US-based firm with large operations in Nepal and Kenya. CloudFactory’s model is to recruit educated workers in developing regions, put them into well-managed teams (with a team lead), and integrate closely with client workflows. They often assign a to each project, which acts almost like your in-house team, just remote. Clients can even interact with the team, provide feedback, and see progress dashboards. CloudFactory emphasizes (training and fair wages for their teams) and is often used for scenarios where the human context matters – for example, a team of labelers who really get to know the client’s data over time to ensure consistency. They also tout quality control through multiple review layers and online tools. CloudFactory might be a fit if you want a stable, managed team working on your project long-term rather than a huge anonymous crowd. They are also known for and have experience with things like healthcare data (HIPAA compliance) and even defense projects. Scale AI: Perhaps the most famous of the “new breed” labeling companies, Scale AI started in 2016 and quickly dominated the autonomous driving data market by providing fast, API-driven labeling of images/LiDAR. Scale built a sophisticated platform (including a crowd platform called Remotasks) and tools that combined AI pre-labeling with human annotation and lots of quality checks. By 2020s, Scale expanded into LLM training data and RLHF in a big way. They offer an end-to-end solution – you can send raw data via their API and get back labels, and they’ll handle workforce allocation behind the scenes. Scale also launched evaluation services and data management tools, trying to be a one-stop-shop. Their ability to rapidly scale up a large distributed workforce made them a top choice for very large projects. They implemented features like consensus voting , automated QA (to catch outliers), and real-time quality metrics for clients. However, as noted earlier, Scale’s partial acquisition by Meta in 2025 changed its position in the market. It’s now somewhat aligned with Meta’s interests, and some former customers have moved away. Still, Scale remains a powerhouse in terms of technology and capacity: it booked roughly $870 million of revenue in 2024 and told investors it expected to more than double that to about $2 billion in 2025 - Bloomberg. The fallout still bit, though. In July 2025 Scale cut 200 employees (about 14% of staff) and ended work with roughly 500 contractors , with interim CEO Jason Droege telling staff it had ramped up its generative-AI capacity too quickly and built too many layers of bureaucracy - TechCrunch. Large enterprises that need a mature platform and are less concerned about the Meta connection may still use Scale. They tend to be pricier than others (their enterprise deals can be millions per year) but offer a lot of enterprise support and SLA guarantees. Notably, Scale’s model is “crowd + AI + rigorous QC”. Workers are graded on Remotasks, leveled up for good performance, and nudged out if below threshold. It’s a highly systematized approach to get quality from a very large, on-demand workforce.\n\nPerhaps the most famous of the “new breed” labeling companies, Scale AI started in 2016 and quickly dominated the autonomous driving data market by providing fast, API-driven labeling of images/LiDAR. Scale built a sophisticated platform (including a crowd platform called Remotasks) and tools that combined AI pre-labeling with human annotation and lots of quality checks. By 2020s, Scale expanded into in a big way. They offer an end-to-end solution – you can send raw data via their API and get back labels, and they’ll handle workforce allocation behind the scenes. Scale also launched evaluation services and data management tools, trying to be a one-stop-shop. Their ability to rapidly a large distributed workforce made them a top choice for very large projects. They implemented features like , automated QA (to catch outliers), and real-time quality metrics for clients. However, as noted earlier, Scale’s partial acquisition by Meta in 2025 changed its position in the market. It’s now somewhat aligned with Meta’s interests, and some former customers have moved away. Still, Scale remains a in terms of technology and capacity: it booked roughly of revenue in 2024 and told investors it expected to more than double that to about in 2025 - Bloomberg. The fallout still bit, though. In July 2025 Scale cut (about 14% of staff) and ended work with roughly , with interim CEO Jason Droege telling staff it had ramped up its generative-AI capacity too quickly and built too many layers of bureaucracy - TechCrunch. Large enterprises that need a mature platform and are less concerned about the Meta connection may still use Scale. They tend to be pricier than others (their enterprise deals can be millions per year) but offer a lot of enterprise support and SLA guarantees. Notably, Scale’s model is “crowd + AI + rigorous QC”. Workers are graded on Remotasks, leveled up for good performance, and nudged out if below threshold. It’s a to get quality from a very large, on-demand workforce. Surge AI: A newer startup (founded 2020/21) that has rapidly gained a reputation as an RLHF and NLP specialist . Surge AI is laser-focused on quality over quantity. Instead of millions of random crowd workers, Surge built a managed marketplace of vetted experts (“Surgers”). They have about 50,000 carefully screened contractors globally – many of whom are linguists, writers, or domain experts – and only around 100 full-time staff coordinating them. Surge’s platform allows AI companies to request exactly the kind of labelers they need (e.g. “native Spanish speakers with finance background”) and it routes tasks to those pre-qualified people in real time. They support complex workflows like having humans chat with an AI model and give feedback (great for dialog fine-tuning) and adversarial red-teaming of model outputs. Surge is known to pay its contractors significantly above market (often $18–24/hour) to attract and retain top talent. In return, they charge clients premium prices per label – but many top AI labs are willing to pay for the assurance of high-quality feedback. In fact, Anthropic (maker of Claude) publicly cited Surge AI as a key partner for getting “high-quality human feedback” to train its assistant safely. By the end of 2024 Surge had quietly landed dozens of major AI lab clients and was generating roughly $1.2 billion in revenue, all of it without a single round of outside funding. That changed in July 2025, when the bootstrapped company opened talks to raise about $1 billion at a valuation of at least $25 billion , which would put it within reach of Scale - Bloomberg. Surge’s rise exemplifies the “quality-first” trend , showing that there’s a huge market for data labeling done by skilled, well-paid humans. They differentiate with things like detailed analytics on annotator performance, instant re-labeling of any low-quality data, and extremely responsive service. Essentially, Surge tries to be the boutique, high-end provider for advanced AI data needs (especially NLP and RLHF). If your project demands expert-level feedback (like coding answers graded by software engineers, or medical data labeled by doctors), Surge positions itself as a top choice.\n\nA newer startup (founded 2020/21) that has rapidly gained a reputation as an . Surge AI is laser-focused on quality over quantity. Instead of millions of random crowd workers, Surge built a (“Surgers”). They have about 50,000 carefully screened contractors globally – many of whom are linguists, writers, or domain experts – and only around 100 full-time staff coordinating them. Surge’s platform allows AI companies to request exactly the kind of labelers they need (e.g. “native Spanish speakers with finance background”) and it routes tasks to those pre-qualified people in real time. They support complex workflows like having humans chat with an AI model and give feedback (great for dialog fine-tuning) and adversarial red-teaming of model outputs. Surge is known to pay its contractors significantly above market (often $18–24/hour) to attract and retain top talent. In return, they charge clients premium prices per label – but many top AI labs are willing to pay for the assurance of high-quality feedback. In fact, Anthropic (maker of Claude) publicly cited Surge AI as a key partner for getting “high-quality human feedback” to train its assistant safely. By the end of 2024 Surge had quietly landed dozens of major AI lab clients and was generating roughly in revenue, all of it without a single round of outside funding. That changed in July 2025, when the bootstrapped company opened talks to raise about , which would put it within reach of Scale - Bloomberg. Surge’s rise exemplifies the , showing that there’s a huge market for data labeling done by skilled, well-paid humans. They differentiate with things like detailed analytics on annotator performance, instant re-labeling of any low-quality data, and extremely responsive service. Essentially, Surge tries to be the for advanced AI data needs (especially NLP and RLHF). If your project demands expert-level feedback (like coding answers graded by software engineers, or medical data labeled by doctors), Surge positions itself as a top choice. Mercor: Another fast-growing startup (launched 2022) that brands itself as a talent network for AI labeling . Mercor connects AI labs with specialized domain professionals – e.g., scientists, lawyers, engineers – who work part-time as annotators. Their model is like a tech-enabled recruiting service: they find experts, vet them, and contract them out to AI projects, taking a cut or charging an hourly rate. Mercor saw explosive growth, reaching a pace of $500 million in annualized revenue by October 2025 with more than 30,000 experts on its roster - TechCrunch. They have marquee clients (reportedly OpenAI, Google, Amazon, Nvidia, etc.) and emphasize that they can rapidly assemble teams of experts. For example, if a customer needs 50 pediatricians to label a medical dataset, Mercor will recruit and onboard those doctors, handle the contracts and payments, and manage the project’s progress. It’s a concierge approach to data labeling. The upside is you get very qualified people; the challenge is that experts are costly and availability can be tricky. Mercor has attracted a lot of investor attention: after a $100M Series B at a $2B valuation in early 2025, it raised a $350M Series C at a $10B valuation in October 2025, quintupling its price in about seven months, with Felicis leading and Benchmark, General Catalyst and Robinhood Ventures joining. This underscores the market’s belief that AI labs will pay big for access to top-tier human knowledge . Mercor’s focus on being an intermediary for expert contractors is slightly different from Surge’s software-first approach, but both target the high end. In fact, there’s intense competition – at one point Scale AI even sued Mercor alleging they poached trade secrets, highlighting how valuable each client and idea is in this space.\n\nAnother fast-growing startup (launched 2022) that brands itself as a . Mercor connects AI labs with specialized domain professionals – e.g., scientists, lawyers, engineers – who work part-time as annotators. Their model is like a tech-enabled recruiting service: they find experts, vet them, and contract them out to AI projects, taking a cut or charging an hourly rate. Mercor saw explosive growth, reaching a pace of in annualized revenue by October 2025 with more than on its roster - TechCrunch. They have marquee clients (reportedly OpenAI, Google, Amazon, Nvidia, etc.) and emphasize that they can rapidly assemble teams of experts. For example, if a customer needs 50 pediatricians to label a medical dataset, Mercor will recruit and onboard those doctors, handle the contracts and payments, and manage the project’s progress. It’s a to data labeling. The upside is you get very qualified people; the challenge is that experts are costly and availability can be tricky. Mercor has attracted a lot of investor attention: after a $100M Series B at a $2B valuation in early 2025, it raised a in October 2025, quintupling its price in about seven months, with Felicis leading and Benchmark, General Catalyst and Robinhood Ventures joining. This underscores the market’s belief that . Mercor’s focus on being an intermediary for expert contractors is slightly different from Surge’s software-first approach, but both target the high end. In fact, there’s intense competition – at one point alleging they poached trade secrets, highlighting how valuable each client and idea is in this space. Micro1: An up-and-coming startup (founded 2022) that takes an AI-driven approach to recruiting labelers. Micro1’s young CEO famously built an AI agent named “Zara” that scours sources like LinkedIn and GitHub to find and vet potential expert annotators extremely quickly. Using this automation, Micro1 claims it can find thousands of qualified people (including PhDs and Ivy League professors) and onboard them as contract labelers in a fraction of the time it would take via traditional hiring. It went from $7M ARR at the start of 2025 to $50M by September, when it raised a $35M Series A at a $500M valuation led by 01 Advisors, the fund founded by Twitter’s former CEO and COO - TechCrunch. By December 2025 it said it had crossed $100M ARR . Micro1 has a smaller revenue base than Surge or Mercor but is very fast-moving; it works with Microsoft and several Fortune 100 companies, and pitches itself as providing whatever human expertise you need on demand. An interesting niche they are exploring is creating “simulation environments” for training AI agents – basically having humans demonstrate tasks in virtual environments so AI agents can learn (for instance, simulating how to navigate a software interface). This is forward-looking, as AI moves toward agentic behavior that requires new kinds of training data. Micro1, like Mercor, is essentially a recruiting-plus-tech business – their advantage is using AI to hyper-charge the recruiting of talent. They present themselves as a neutral provider (benefiting from the post-Scale shakeup) and have attracted serious investor interest and funding as well. For AI labs that want a very bespoke solution – say, a team of domain experts assembled next week – Micro1 is positioning as the go-to platform.\n\nAn up-and-coming startup (founded 2022) that takes an AI-driven approach to recruiting labelers. Micro1’s young CEO famously built an that scours sources like LinkedIn and GitHub to find and vet potential expert annotators extremely quickly. Using this automation, Micro1 claims it can find thousands of qualified people (including PhDs and Ivy League professors) and onboard them as contract labelers in a fraction of the time it would take via traditional hiring. It went from at the start of 2025 to by September, when it raised a led by 01 Advisors, the fund founded by Twitter’s former CEO and COO - TechCrunch. By December 2025 it said it had crossed . Micro1 has a smaller revenue base than Surge or Mercor but is very fast-moving; it works with Microsoft and several Fortune 100 companies, and pitches itself as providing whatever human expertise you need on demand. An interesting niche they are exploring is creating for training AI agents – basically having humans demonstrate tasks in virtual environments so AI agents can learn (for instance, simulating how to navigate a software interface). This is forward-looking, as AI moves toward agentic behavior that requires new kinds of training data. Micro1, like Mercor, is essentially a business – their advantage is using AI to hyper-charge the recruiting of talent. They present themselves as a neutral provider (benefiting from the post-Scale shakeup) and have attracted serious investor interest and funding as well. For AI labs that want a very bespoke solution – say, a team of domain experts assembled next week – Micro1 is positioning as the go-to platform. Sama (Samasource): A well-known mission-driven annotation company . Sama has centers in East Africa and Asia and focuses on providing opportunities in underserved communities. They became prominent for doing large projects in image annotation and content moderation while adhering to an ethical model (fair wages, employee wellness, etc.). Sama’s workforce are employees (not gig workers), who undergo significant training. They use a process called Sama Quality where they calibrate on gold examples with the client, train the team to that standard, and use automated and human QA checks to reach very high accuracy. They’re known for things like autonomous vehicle labeling (they’ve labeled millions of driving images) and e-commerce data cleanup. Many companies choose Sama for the “ethical outsourcing” aspect – you get quality labels and also support socially responsible practices. Sama was actually involved in some of OpenAI’s early GPT model content moderation efforts (as reported in the media). They charge per hour usually, and they’re not the cheapest, but they deliver solid quality and consistency. Sama’s approach of fully-managed, full-time labelers in secure offices appeals to enterprises and anyone with very sensitive data who doesn’t want it floating among random gig workers. In recent times, Sama and similar firms have had to address worker well-being (there was controversy about the emotional toll of moderation work and pay levels), so the industry is watching how they set an example in raising standards. In any case, Sama remains a respected player for high-accuracy, high-integrity labeling projects, especially vision and multimodal tasks.\n\nA well-known . Sama has centers in East Africa and Asia and focuses on providing opportunities in underserved communities. They became prominent for doing large projects in image annotation and content moderation while adhering to an ethical model (fair wages, employee wellness, etc.). Sama’s workforce are employees (not gig workers), who undergo significant training. They use a process called where they calibrate on gold examples with the client, train the team to that standard, and use automated and human QA checks to reach very high accuracy. They’re known for things like autonomous vehicle labeling (they’ve labeled millions of driving images) and e-commerce data cleanup. Many companies choose Sama for the aspect – you get quality labels and also support socially responsible practices. Sama was actually involved in some of OpenAI’s early GPT model content moderation efforts (as reported in the media). They charge per hour usually, and they’re not the cheapest, but they deliver solid quality and consistency. Sama’s approach of appeals to enterprises and anyone with very sensitive data who doesn’t want it floating among random gig workers. In recent times, Sama and similar firms have had to address worker well-being (there was controversy about the emotional toll of moderation work and pay levels), so the industry is watching how they set an example in raising standards. In any case, Sama remains a respected player for high-accuracy, high-integrity labeling projects, especially vision and multimodal tasks. Amazon Mechanical Turk (MTurk) and Toloka: These are crowdsourcing marketplaces rather than full-service vendors. Amazon MTurk is the classic platform (launched in 2005) where anyone can post small tasks (“Human Intelligence Tasks” or HITs) and a vast pool of workers (Turkers) complete them for a few cents each. MTurk is still used heavily in academic research and for quick-and-dirty data collection. Quality can vary widely – it’s up to the task designer to include attention checks, qualifications, etc. Amazon has features like a Master Workers group (top performers by approval rate) and allows requesters to require certain qualifications or locations. Savvy users will pre-screen workers using quizzes and only let the best continue on a project. It’s a very hands-on approach to get quality, but it’s cheap and extremely flexible. Toloka (originated from Yandex) is a similar global marketplace with millions of users, popular especially in Eastern Europe and beyond. Toloka has modernized the interface and attracted a huge multilingual crowd; it’s been used in RLHF data collection and large-scale evaluation tasks where you need lots of people quickly. These marketplace options are great for scalability – you can get thousands of annotations within hours – but they require careful oversight to ensure results are reliable. Typically, these are used for simpler tasks or for gathering a quick consensus (e.g., getting 5 people to vote on each item and taking the majority). If the project is critical or complex, companies often graduate to a managed vendor instead, unless they have the in-house capacity to manage a crowd.\n\nThese are rather than full-service vendors. Amazon MTurk is the classic platform (launched in 2005) where anyone can post small tasks (“Human Intelligence Tasks” or HITs) and a vast pool of workers (Turkers) complete them for a few cents each. MTurk is still used heavily in academic research and for quick-and-dirty data collection. Quality can vary widely – it’s up to the task designer to include attention checks, qualifications, etc. Amazon has features like a (top performers by approval rate) and allows requesters to require certain qualifications or locations. Savvy users will pre-screen workers using quizzes and only let the best continue on a project. It’s a very hands-on approach to get quality, but it’s cheap and extremely flexible. (originated from Yandex) is a similar global marketplace with millions of users, popular especially in Eastern Europe and beyond. Toloka has modernized the interface and attracted a huge multilingual crowd; it’s been used in RLHF data collection and large-scale evaluation tasks where you need lots of people quickly. These marketplace options are great for scalability – you can get thousands of annotations within hours – but they require careful oversight to ensure results are reliable. Typically, these are used for simpler tasks or for gathering a quick consensus (e.g., getting 5 people to vote on each item and taking the majority). If the project is critical or complex, companies often graduate to a managed vendor instead, unless they have the in-house capacity to manage a crowd. Others and Niche Players: There are many more companies in this space. Hive AI offers an API-centric platform with a large crowd and its own auto-labeling models (often used for social media content moderation at high speed). SuperAnnotate started as an annotation tool and now also provides services, emphasizing collaborative workflows and a strong platform. Labelbox, Kili Technology, and Encord are primarily software platforms for labeling project management; they let you use your own people or connect you with partners, and they focus on tooling (some even incorporate GPT-based labeling assistance). LXT (which acquired Clickworker) combines a giant global crowd with enterprise project management, similar in spirit to Appen or Telus – they became a significant player especially for multilingual data and have a presence in Europe. TaskUs is an outsourcing firm that expanded into AI data work; they can provide large teams quickly and securely (leveraging their background in content moderation for social media). And there are region-specific providers like AyaData in Africa, Anolytics in India, and others that focus on local talent or specific verticals (e.g., medical data, or even unusual areas like olfactory data labeling!). The industry has a mix of tech-driven startups and labor-driven BPO-style companies. It’s also worth mentioning emerging platforms that bridge recruiting and labeling. For example, HeroHunt.ai is a platform originally focused on AI-powered recruiting; it’s now also exploring using AI to source and vet specialized labelers for AI projects – essentially applying recruiting automation to the problem of finding top annotation talent. Similarly, O-mega.ai markets itself as a way to hire on-demand “AI workers” – offering labs a neutral alternative to the big providers by quickly connecting them with skilled freelancers. These newer solutions use AI to match the right humans to the task, indicating how the field continues to innovate. They join a landscape where no single provider fits all needs: choosing one often depends on the specific project’s domain, scale, security requirements, and budget. In summary, by late 2025 the data labeling industry spans from giant one-stop shops (Appen, Telus, Scale) to boutique expert networks (Surge, Mercor, Micro1), from traditional outsourcing companies (iMerit, TaskUs, Sama) to DIY crowdsourcing platforms (MTurk, Toloka). It’s a vibrant and competitive space. Many AI organizations end up using a combination of providers to cover their bases – perhaps a big vendor for general needs and a specialist firm for sensitive or advanced tasks. The key for users of these services is to know what each provider excels at and to evaluate them on factors like quality assurance processes, domain expertise, scalability, security, and cost. 5. Best Practices, Challenges, and Limitations Managing human data labeling effectively is as crucial as the modeling itself. This section looks at what AI teams have learned about ensuring quality, where human labeling works best (and where it can falter), and the limitations and pitfalls to watch out for. Quality Assurance is King: A recurring theme is that quality matters far more than quantity in labeling. Successful AI projects implement multiple layers of QA to make sure labels are accurate and consistent. Some best practices include inserting gold standard examples (with known correct labels) into the task stream to monitor annotator accuracy, performing spot checks on a sample of the work by expert reviewers, and using consensus (having multiple people label the same item and resolving differences). For instance, Appen’s platform requires workers to pass a quiz and continues testing them on hidden questions as they work, removing those who fall below accuracy thresholds. Many vendors will also do a “calibration phase” at a project’s start: the client and labeler team go over a batch of data together to align on how it should be labeled, refining guidelines until everyone is on the same page (Sama and CloudFactory often do this). The lesson is that you can’t just hand data to humans and expect perfection – you need a process to continuously verify and improve their output. Selecting and Training Labelers: Not everyone is suited to be a labeler for a given task. Effective projects use careful screening and training to get the right people. This might mean giving applicants a test (e.g., ask a series of sample labeling questions and see how well they do), or only selecting annotators with certain backgrounds (like only biology majors to label medical text). For long-term projects, labelers often have to go through training modules or even formal certification. A classic example: search engine evaluation projects (like those run via Appen or Google’s Rater program) require labelers to read a 100+ page guideline and pass an exam before they can rate queries. In 2025, companies are investing even more in screening – some use AI to evaluate labeler candidates’ skill sets, some do trial tasks with detailed feedback. The goal is to filter in the best, filter out the rest early on. And once on the job, providing ongoing feedback to labelers (like “you missed this detail, here’s the correct approach”) helps them improve. Treating labelers as a genuine part of the team and communicating with them can dramatically raise quality and consistency. Proven Methods for Consistency: One challenge is keeping labeling consistent across a large group. If 50 people are working on the same dataset, you want them all to apply labels the same way. Techniques to ensure this include: very clear and detailed written guidelines with examples for every rule; regular team meetings or updates if new ambiguities are discovered (so everyone hears the resolution); and overlap and review, where a fraction of tasks are labeled by two people and any disagreement is reconciled, thereby catching divergent interpretations early. Many providers have a notion of an “annotation ontology” or taxonomy that is carefully defined and version-controlled, so labelers are always referring to the source of truth. Some platforms like Labelbox allow embedding these instructions into the interface for easy reference. The best projects also encourage labelers to ask questions – e.g., via Slack or an online forum – when unsure, and have a lead analyst or project manager provide prompt clarifications. In effect, managing a labeling project can be like managing a distributed team of junior employees: it needs coordination, communication, and supervision. Costs and Throughput: Labeling can be surprisingly expensive and time-consuming. We’ve seen that certain high-end tasks (like expert RLHF feedback) can cost dozens of dollars per example. Even simpler annotation, when multiplied by millions of data points, adds up quickly. One best practice is to do a pilot project – label a small sample of data first to get a sense of cost, speed, and quality – before committing to labeling an entire huge dataset. This pilot can surface any issues in guidelines or estimator whether the vendor can meet your quality bar. It’s also wise to compare pricing models: some providers charge per label, others per hour. Depending on your task, one or the other may be more cost-effective. For example, if tasks vary in complexity, an hourly model might be better (so you’re not overpaying for easy ones or underpaying for hard ones). Keep in mind that LLM-related tasks are on the high end of the cost spectrum. Expert networks bill by the hour and the published bands are steep: micro1 lists $100 to $200+ per hour for frontier expert projects against $15 to $40 for general annotation, and that is what the contractor sees before the vendor adds its own margin. Simpler annotation still costs cents per item, so the same dataset can differ in price by three orders of magnitude depending on who has to look at it. The key is that budgeting for labeling should be an integral part of your AI development plan, not an afterthought. Many AI projects have learned the hard way that getting the data ready can eat a large chunk of the project budget and timeline. Where Human Labeling Shines: Humans excel at tasks that require understanding context, nuance, or subjective judgment. For instance, determining the sentiment of a sentence, or whether a joke is funny, or if an image is appealing – these are things people can do instinctively that are still tricky for AI. Humans are also great at dealing with novelty and edge cases: if something totally unexpected appears in the data, a person can adapt on the fly and handle it, whereas an AI might be completely confused. Human labelers can learn and apply complex criteria (like multi-factor rubrics) and can notice subtle patterns. They are also the gold standard for evaluating AI output quality – an AI might be able to generate an answer, but only a human can truly judge if that answer would please another human or if it’s written in a naturally good style. Moreover, humans bring ethical and common-sense considerations; they can tell if content is inappropriate or if a translation, while literal, doesn’t make sense culturally. Where It Can Fail: On the flip side, human labeling is prone to certain failure modes. Human error and bias are big ones. Labelers might misunderstand instructions or have personal biases that skew their labels. For example, studies have shown that crowdsourced labelers can exhibit biases (cultural, gender, etc.) that then get baked into the AI. If not caught, these errors propagate. There’s also the issue of inconsistency – two people might label the same item differently. Without proper consensus or adjudication, the dataset can become noisy. Another issue is scalability under tight timelines: if you suddenly need 1 million labels in a week, rushing can lead to corners being cut (either by labelers or by using too many new, untested workers). Task difficulty is a limitation too; some tasks might simply be beyond the capability of non-specialist labelers. For instance, asking crowd workers to label complex legal documents for accuracy is likely to fail – you’d need actual lawyers, which are harder to source in large numbers. One subtle pitfall is “reward gaming” or instruction gaming: if your labeling instructions or reward model have loopholes, labelers (or even AI agents trying to maximize a reward) might exploit them. For example, if labelers are told their performance is measured by agreement with a certain heuristic, they might focus on that metric at the expense of true quality. In RLHF, if the reward model is poorly aligned, the AI might learn to give answers that score high but aren’t genuinely useful – essentially hacking the feedback signal. To mitigate this, companies rotate labelers, periodically update instructions, and use checks like inter-rater agreement measures to detect when something is off-kilter. Ethical and Logistical Challenges: The human side of AI development raises ethical questions. Are labelers being paid fairly? Are their working conditions good? Do they face psychological harm from reviewing traumatic content? These concerns became public after the Sama reporting above put real payslips on the record. Leading providers are now moving toward fair labor practices, not just for morality but because it correlates with better quality (a well-treated, well-trained workforce is more motivated and accurate). In fact, clients are beginning to ask vendors about how they treat workers. It’s plausible that in the future, AI companies will choose “ethically sourced” data annotation as a selling point. On the logistical side, privacy is a big challenge – if labelers are seeing private or proprietary data, measures must be in place to prevent leaks. Best practices include having labelers sign strong NDAs, using secure annotation platforms (no downloading data locally), perhaps even having work done on-premises or in a VPC for ultra-sensitive data. For example, Scale AI achieved FedRAMP Moderate accreditation to handle US government data securely. Some projects will require that labelers are in specific jurisdictions (for legal compliance). Ensuring all these boxes are ticked adds complexity. Active Learning and Efficiency: To address cost and time, many teams use active learning strategies – essentially, let the model help decide what needs labeling. Rather than labeling everything blindly, you can run a model on your dataset first and have it predict labels or scores, then have humans focus on the cases where the model is least confident or likely wrong. This way, you spend human effort only where it adds the most value. This approach was highlighted in a 2025 case study for scaling LLM output review: OpenAI was generating thousands of outputs, then using a reward model and other heuristics to filter out the majority of low-quality ones, so that humans only had to rank the top ~20% of candidate responses. They even trained a classifier to detect when the AI was trying to game the reward (reward hacking) so those instances could be caught. Such model-in-the-loop approaches drastically reduce the number of human labels needed while maintaining training efficacy. The labeled data you do get is higher-quality too, because humans spent more time on the tough cases instead of wasting time on easy ones. Utilizing techniques like this – auto-labeling plus human correction, uncertainty sampling, etc. – is increasingly seen as a best practice. It’s a collaboration: let AI handle the first pass, then have humans polish the results. The outcome is a more efficient pipeline where each human label carries more weight in improving the model. Continuous Monitoring: Even after a dataset is labeled and a model is trained, the job isn’t done. Model performance needs to be continuously monitored, and new labeling tasks often emerge (e.g., labeling errors the model makes in production, handling new types of input data, or updating the dataset as real-world conditions change). One challenge is label drift – over time, the definition of labels or the distribution of data might shift, making old labels less relevant. For instance, in a few years the standard for what content is considered “hate speech” might evolve, or a model might start seeing new slang that wasn’t in the original data. Having a process to regularly review and refresh labels (a “human in the loop” maintenance cycle) is important to keep models on track. Many top AI firms now have permanent labeling or data curation teams for this reason, as part of their ML operations. In short, human data labeling is powerful but not plug-and-play. It requires thoughtful management: picking the right people, giving them good instructions and tools, maintaining quality aggressively, respecting their well-being, and integrating their work tightly into the model development loop. When done right, it’s an enormous competitive advantage – enabling models to reach levels of performance and safety they never could with raw data alone. When done poorly, it can lead to wasted effort, biased models, or even PR nightmares. As the industry matures, we’re seeing a convergence on best practices and higher standards, which is a win-win for AI companies and the humans behind the AI. 6. Future Outlook: AI Agents, Automation, and Evolving Roles Looking ahead to the next few years (2026 and beyond), the AI data labeling industry is poised to both grow and transform. The consensus is that humans will remain an indispensable part of the AI training loop, but how they contribute will evolve significantly. Several key trends are shaping the future of this field: Increased Automation and “AI Agents” in Labeling: Ironically, AI is starting to assist in the task of labeling data for AI. We’ve already discussed model-assisted labeling where AI pre-labels a large portion of the data. The next step is more autonomous AI agents that can handle parts of the annotation workflow end-to-end. For example, an AI system might automatically detect which data points are easy and label them without human input, only forwarding the tricky ones to humans. We can imagine an AI agent that monitors an annotation project and dynamically assigns work: it might say “I’m 99% sure about these 1000 images – I’ll mark them as done; these 50 need a human to double-check.” In fact, some modern pipelines are getting close to this, with AI models in a sort of managerial role for labeling. As one report noted, the goal is for AI to handle the repetitive 80% of cases and leave only the edge 20% to people. We also see AI agents helping with quality control – for instance, an LLM judge model can be used to evaluate model outputs at scale, mimicking human evaluators. OpenAI has found that GPT-4-based judges agree with human raters about 80% of the time on which outputs are better, at a fraction of the cost. This doesn’t eliminate humans (because that remaining 20% and calibration still need humans), but it points to a more efficient future. Another angle is using AI agents for real-time human-in-the-loop systems. Imagine a deployed AI that knows when to ask for help: e.g., a self-driving car’s vision AI might flag a frame and query a remote human “Is there a pedestrian in this image? I’m not confident.” The human answers, and the AI proceeds. This kind of setup is already being prototyped – essentially turning the labeling process into an on-demand service during model operation. It blurs the line between training and inference. For data labeling companies, it means they may offer 24/7 on-demand human backup for AI agents. Some are building capabilities for very low-latency responses, so that an AI can seamlessly pull a human for help when needed (say, under a second for certain applications). Evolution of Labeler Roles – From Labelers to AI Auditors: As AI takes over the easy parts of annotation, the role of humans will shift towards the highest value parts. Repetitive, mindless labeling (like drawing 10,000 boxes around cars) is gradually diminishing (those are being automated by things like SAM). Instead, humans will be focusing on quality control, edge cases, and providing expertise. The term “data labeler” might broaden into roles like AI auditor, AI evaluator, or AI safety specialist. These people won’t just blindly label data; they will critically assess model behavior, devise new tests, and ensure the AI is aligned with human values. We already see this with some providers offering red-teaming services (expert labelers who try to break the model and then label those failure modes for retraining). In the future, a typical human-in-the-loop might spend more time analyzing model outputs and giving high-level feedback than doing simple annotations. It’s a move from “assembly line worker” to “craftsman” or “inspector” in a sense. The volume of data per project might decrease, but the value of each labeled data point will be higher because it’s targeting a specific weakness or fine-tuning a model on something subtle. For data labeling companies, this means upskilling their workforce. Many are already investing in training labelers to have basic ML understanding, better critical thinking, and domain knowledge, so they can effectively collaborate with AI tools and spot issues. Domain Specialization and Consulting: As noted, the trend is toward quality over quantity, which also means domain-specific data is king. A few years ago, having millions of generic labeled examples was a selling point. Now, AI labs want smaller but expertly-curated datasets. That means labeling providers are becoming more like consultants or partners in designing the data strategy. They might advise a client on what data would most improve their model, not just provide the labels. Some firms now offer “data curation” or “model evaluation as a service” in addition to labeling. For example, a provider might analyze a model’s errors and then help collect a targeted dataset to address those errors. We can expect this high-level involvement to grow. The best providers in 2026 might be those who have built pools of specialized talent (like Surge’s mathematicians or iMerit’s medical coders) and can deploy them with a mix of automation to produce very insightful training data, not just raw labels. Continuous Labeling and Active Learning Loops: The workflow of the future is continuous and integrated. Rather than a one-off labeling project that outputs a dataset, we’ll have ongoing loops where models in production continuously send back data to be labeled or reviewed by humans, and then updated models are rolled out – an active learning cycle. Data labeling platforms are merging with ML ops platforms; providers like Scale AI and Labelbox already provide model testing, embeddings-based data selection, etc., along with labeling. This integration will deepen. For AI practitioners, it means your relationship with labelers/providers becomes long-term and iterative. You might always have a trickle of data being labeled each day to keep your model sharp, rather than a big dump of labels upfront. Ethical and Regulatory Factors: Looking forward, there will likely be more oversight and standards around data labeling. The EU AI Act, for instance, may require transparency about how training data was annotated and ensure that it was done in a lawful, ethical manner. We could see the emergence of certifications for fair labor or data handling in the annotation industry. Providers that have been proactive about worker welfare (like Sama or iMerit) could set the bar, as mentioned. Also, data privacy laws might force data to be labeled within certain jurisdictions (e.g., European data labeled by EU-based workers to comply with GDPR). This could lead to more localization – providers setting up teams in specific countries to meet data residency requirements. Governments themselves are now buying labeling at industrial scale. The U.S. National Geospatial-Intelligence Agency awarded a data labeling contract worth up to $708 million over seven years to the startup Enabled Intelligence in November 2025, to train computer vision models on satellite and airborne imagery - Breaking Defense. This might create “approved vendor” lists or security-clearance requirements for labelers on sensitive projects. All this points to an industry maturing and professionalizing, with more formal structures. Consolidation and New Entrants: The market will likely continue to evolve through mergers and new startups. We’ve already seen consolidation: Appen acquiring Figure Eight, Telus acquiring Lionbridge AI, LXT acquiring Clickworker. Large tech or consulting firms might even acquire data labeling companies to have that capability in-house (some speculate a big cloud provider or a consulting giant like Accenture could buy one of the major players). On the flip side, new startups will keep emerging to address new needs – for example, platforms for synthetic data generation (to complement human-labeled real data), or services for specialized domains like quantum computing or highly technical data. The barrier to entry can be low (anyone can start a small managed crowd), but scaling with quality is hard, so successful newcomers usually have a unique angle (like an AI recruiting agent in Micro1’s case, or a focus on a new modality, etc.). It’s an exciting space that attracts entrepreneurs because the TAM (total addressable market) keeps expanding as AI reaches more industries. Will AI Replace Human Labelers? It’s a natural question: as AI gets more powerful, won’t it eventually learn to teach itself or require far less human input? The consensus among experts is not fully, and not yet. In the near term, humans are still very much needed. AI models, no matter how advanced, can’t completely escape the need for human grounding. Unstructured real-world data is messy – new slang, new events, subtle ethical dilemmas – and AI can’t perfectly grasp all that without guidance. Even when models auto-label data, we still need humans to verify and correct those labels. And when it comes to aligning AI with human values and complex intents, human judgement is the gold standard. What will happen is that the nature of human involvement will shift (as discussed): fewer humans doing rote tasks, more humans doing high-level oversight. The volume of raw labeling work per model might decrease (because models will do more of it), but paradoxically the importance of the human-provided data may increase (because it will be the critical edge cases and alignment data). An analogy is often made: data is the new oil, and humans are needed to refine that oil. In the future, AI might do the initial refining, but humans will be checking the quality of the fuel. To put it succinctly: by 2026, we expect to see smaller but more skilled human teams working hand-in-hand with AI agents to curate datasets. Labelers will be more like “AI teachers” or “AI auditors” than assembly line workers, evaluating models on an ongoing basis. Data labeling companies are already adapting, upskilling their workforce and developing hybrid human-AI pipelines to stay relevant. Those that succeed will be key players in AI development for years to come. The human data labeling industry, far from fading, is evolving into a more specialized, value-driven service. As AI becomes ubiquitous – in healthcare, finance, government, you name it – the need for high-quality, human-curated data will only grow (albeit in different forms). Organizations will continue to rely on external human-in-the-loop providers to ensure their AI models are accurate, fair, and safe. The methods and tools will get more advanced, the work will become less menial and more insightful, and the collaboration between humans and AI will deepen. But at its core, the principle remains: your model is only as good as the human feedback and data it's trained on. In 2026 and beyond, human expertise will remain a critical ingredient in the AI recipe – the quiet force that shapes how AI systems learn, adapt, and ultimately, how they perform in the real world. As one industry guide put it, if “data is the new oil,” then these human data providers are the ones drilling, refining, and ensuring that fuel is high-octane for the AI engines of the future. They will continue to be indispensable partners in the AI journey, even as their own industry rapidly innovates and adapts. Written by Yuma Heymans (@yumahey), who built HeroHunt.ai, the world’s first AI Recruiter. He works on the same problem this industry is built on: using AI to find and vet the specific humans a task actually needs, at a scale manual sourcing cannot reach. This overview reflects the AI data labeling landscape as of early 2026. Valuations, revenue figures and published pay bands move fast in this market, so verify current details against the primary sources linked above before you act on them.\n\nFind candidates 10x faster HeroHunt.ai uses AI to find and engage top talent automatically. AI-powered sourcing Automated outreach No credit card required Start for free"
+      },
+      {
+        "id": 17488131,
+        "title": "Meet the newly minted AI billionaires of 2025",
+        "url": "https://qz.com/ai-2025-billionaires-elon-musk-startup-founders",
+        "publisher": "Quartz",
+        "published_date": "2025-12-26T19:00:22",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "In 2025, more than 50 individuals became paper billionaires from AI infrastructure, models, and applications as investors poured over $200 billion into AI startups, capturing roughly half of all global venture funding. Notable new AI billionaires include Edwin Chen ($18 billion from data labeling firm Surge AI), Bret Taylor and Clay Bavor ($2.5 billion each from customer service AI startup Sierra), and three founders of Mercor who at age 22 became the youngest self-made billionaires. Big Tech executives also saw massive gains, with Elon Musk's net worth reaching $645 billion and the top 10 wealthiest U.S. tech founders adding $550 billion to their combined net worth.",
+        "word_count": 660,
+        "original_language": "EN",
+        "author": "Niamh Rowe",
+        "countries": [
+          "USA",
+          "CHN",
+          "SWE"
+        ],
+        "industries": [
+          {
+            "name": "Open-Source Model Ecosystems & Model Marketplaces",
+            "code": "HDAAACAM",
+            "is_primary": true
+          },
+          {
+            "name": "Enterprise Foundation Model Integration & APIs (Connectors, Governance, Deployment)",
+            "code": "HDAAACAO",
+            "is_primary": false
+          },
+          {
+            "name": "Documentation & Reporting Automation (Model Cards, Datasheets, Impact Assessments)",
+            "code": "HDAAAMAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000002d",
+            "name": "Lovable",
+            "website": "https://lovable.dev",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000di",
+            "name": "Scale",
+            "website": "https://scale.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000008s",
+            "name": "Sierra",
+            "website": "https://sierra.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "edwin chen",
+            "lucy guo",
+            "bret taylor",
+            "anton osika",
+            "brendan foody",
+            "clay bavor",
+            "fabian hedin",
+            "elon musk",
+            "adarsh hiremath",
+            "surya midh",
+            "surya midha",
+            "taylor swift",
+            "mark kelly"
+          ],
+          "location": [
+            "u.s.",
+            "swedish"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 14671,
+        "full_text": "Getty Images / Bloomberg\n\n\n\nIn 2025, artificial intelligence became a billionaire-making machine. Suggested Reading AI wants a place in your holiday traditions The 7 car brands with the most recalls in 2025 Gold caps off a monster year with another record breakthrough Investors poured more than $200 billion into AI startups during the year, capturing roughly half of all global venture funding — up from a 34% share in 2024 — according to startup data firm Crunchbase. Related Content AI wants a place in your holiday traditions Sen. Mark Kelly on taxing AI companies that kill jobs, data center revolts, and working with Republicans As a result, more than 50 individuals building the infrastructure, models, and applications bringing AI to market became billionaires on paper, Forbes reports. The geography of this wealth creation was global: While many new billionaires emerged from established U.S. hubs, Chinese AI firms — particularly those with competitive open-source models trained with far less compute — also catapulted founders into the billionaire club. Here's who topped the list. Edwin Chen, CEO Surge AI With an estimated net worth of $18 billion, Edwin Chen, CEO of data labelling firm Surge AI, is the wealthiest of the new AI billionaires. In less than five years, Surge AI has grown to a $24 billion valuation, with clients such as Google, Meta, Microsoft, Anthropic, and Mistral. Chen, a U.S.-based CEO, is estimated to have a 75% stake, making him the wealthiest newcomer on this year’s Forbes 400 list, and at 37, he was also the youngest person listed. Bret Taylor and Clay Bavor, cofounders of Sierra Next up are Bret Taylor and Clay Bavor, the U.S.-based cofounders of Sierra; the startup aims to replace human customer service with AI agents for large companies like The North Face and electric vehicle maker Rivian. The duo are worth an estimated $2.5 billion each, joining the billionaire club in September when Sierra raised $350 million in a round that valued the company at $10 billion. Brendan Foody, Adarsh Hiremath, and Surya Midh, cofounders of Mercor Following them are U.S. founders Brendan Foody, Adarsh Hiremath and Surya Midha of Mercor, worth $2.2 billion each. Age 22, the trio became the youngest self-made billionaires of all time when Mercor, founded in 2023, raised $350 million, valuing the company at $10 billion. Mercor recruits experts and PhDs to evaluate and label data on behalf of AI companies like Meta, OpenAI, and Anthropic, as they train their models. Anton Osika and Fabian Hedin, cofounders of Lovable Behind them: Anton Osika and Fabian Hedin, cofounders of Swedish startup Lovable, worth an estimated $1.6 billion each. Lovable, a so-called 'vibe coding' startup, allows users with no software experience to create websites and apps via prompts. The pair became billionaires in December after raising $330 million at a $6.6 billion valuation. Lucy Guo, cofounder of Scale AI Closely following them is Scale AI's cofounder Lucy Guo, from the U.S. Age 31, Guo became the world’s youngest self-made woman billionaire this year — usurping Taylor Swift — when Meta acquired around half of the data labeling behemoth. Big Tech executives also raked in AI wealth The top 10 wealthiest U.S. tech founders and CEOs added more than $550 billion to their combined net worth this year, the Financial Times reported, taking their net worth to $2.5 trillion in cash, equity, and other investments, according to Bloomberg data, with the S&P 500 climbing more than 18% this year. Topping the list is Tesla and SpaceX CEO Elon Musk, defending his status as the world's richest person. His net worth soared nearly 50% in 2025, to $645 billion. This year, Musk secured a $1 trillion pay deal with Tesla shareholders — the largest remuneration package in history — while the valuation of his rocket company SpaceX soared to $800 billion. 📬 Sign up for the Daily Brief Our free, fast and fun briefing on the global economy, delivered every weekday morning. Sign me up"
+      },
+      {
+        "id": 17523695,
+        "title": "Data scraped from the web for AI is out — specialized human-made data is in",
+        "url": "https://www.marketplace.org/story/2025/12/25/the-only-ai-companies-turning-a-profit-supply-training-data",
+        "publisher": "Marketplace",
+        "published_date": "2025-12-25T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.4913,
+        "ai_summary": "While major AI companies continue to operate at a loss, specialized data providers such as Mercor and Surge AI are experiencing rapid growth by supplying human-generated training data. This trend highlights a shift in the AI supply chain where firms facilitating high-quality data collection are achieving significant financial success compared to model developers. ",
+        "word_count": 111,
+        "original_language": "EN",
+        "author": "Technologykimberly Adams",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Open-Source Model Ecosystems & Model Marketplaces",
+            "code": "HDAAACAM",
+            "is_primary": true
+          },
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "investigative",
+          "label": "Investigative"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541714",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "kimberly adams",
+            "josh dzieza",
+            "hayden field"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9206,
+        "group_id": 6751529,
+        "full_text": "Despite the billions and billions of dollars flowing into AI companies, most are not making a profit just yet. On the flip side, companies like Mercor or Surge AI, which are in the business of supplying AI companies with highly specialized data from human workers, are among the fastest-growing companies of all time.\n\nJosh Dzieza is the investigations editor at The Verge, where he co-wrote a piece with Hayden Field about what it takes to feed the beast that is AI models. Dzieza joined “Marketplace” host Kimberly Adams to talk about who these workers are and what the future of the industry looks like.\n\nClick the media player above to hear the conversation."
+      },
+      {
+        "id": 18241057,
+        "title": "Surge AI: The $24B Data Engine Teaching AGI Real Human Taste",
+        "url": "https://www.todayin-ai.com/p/surgeai",
+        "publisher": "Todayin-Ai",
+        "published_date": "2025-12-23T15:00:39",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8831,
+        "ai_summary": "Surge AI is a startup founded in 2020 by Edwin Chen that builds high-quality human data for training and evaluating advanced AI models. The company is preparing for an external raise of up to $1 billion, targeting a valuation of around $24 billion. ",
+        "word_count": 1200,
+        "original_language": "EN",
+        "author": "Today In Ai",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+            "code": "HDAAACAA",
+            "is_primary": true
+          },
+          {
+            "name": "Synthetic Data & Data Augmentation for Foundation Models",
+            "code": "HDAAACAK",
+            "is_primary": false
+          },
+          {
+            "name": "AI/ML Engineering & Model Development Services",
+            "code": "BPAEAHAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "edwin chen",
+            "peter thiel",
+            "edwin"
+          ],
+          "location": [
+            "manhattan",
+            "san francisco",
+            "crystal river, florida",
+            "silicon valley"
+          ],
+          "product": [
+            "gpt-3",
+            "slack",
+            "gmail",
+            "github",
+            "surge ai",
+            "scale ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5816947,
+        "full_text": "Surge AI: The $24B Data Engine Teaching AGI Real Human Taste 🤖 Meet Edwin Chen: the 37-year-old who bootstrapped a $24B AI startup with $0 in VC\n\nIn partnership with\n\n(5 minutes)\n\nHi 👋, this is the Today in AI Newsletter: The weekly newsletter bringing you one step closer to building your own startup.\n\nWe analyze a cool, industry-shaping AI startup every week, with a full breakdown of what they do, how they make money, how much they’ve raised, and the opportunity ahead.\n\nLet’s get to the good stuff in this email:\n\n💡 This startup is the human-data engine behind frontier labs like OpenAI, Anthropic, Mistral AI & more.\n\n📈 They’ve bootstrapped to $1B+ in revenue , stayed profitable from day one , and now manage a core team of about 250 people .\n\n🚀 They are now preparing their first-ever external raise of up to $1B, targeting a ~$24B valuation - founder Edwin Chen owns ~75% of the company and sits on an estimated $18B net worth as the youngest member of the Forbes 400 (#55).\n\nSo what’s the startup and who are the founders behind it? Here’s the story of Surge AI 📈\n\nSurge AI was founded by Edwin Chen in 2020 to build high-quality human data that trains and evaluates the most advanced AI models.\n\nInstead of cheap crowd work that tags cat photos, Surge runs a curated marketplace of elite annotators who handle things like RLHF, safety, reasoning, taste, and multi-step agent behavior. 🤖\n\nTheir mission is to raise AGI like you would raise a child so it grows up curious, imaginative, and aligned with rich human values, not just optimized for leaderboard scores & clickbait.\n\nOn the product side, that looks like:\n\nHumans and models working together, with models generating and self-labeling, then Surgers reviewing, correcting, and adversarially testing them.\n\nComplex RL environments that feel like video game worlds filled with tools like Slack, Gmail, GitHub, spreadsheets, and CRM systems, where agents learn to handle real productivity tasks across long timelines.\n\nSurge’s key idea: the ceiling of your model is set by the quality of your human data.\n\nYou can’t train a master chef by giving them a million recipes for boiling water.\n\nYou train them on rare, expert recipes, subtle flavor calls, and detailed feedback.\n\nSurge gives that level of training signal to AI.\n\nBackstory 👀\n\nEdwin Chen grew up in Crystal River, Florida, in the back of his parents’ Chinese-Thai-American restaurant, Peking Garden.\n\nHe did homework near the cash register while his parents worked shifts, and he fell in love with math in the eighth grade, when calculus made the world feel legible.\n\nThat curiosity took him to Choate, then to MIT at 17, where he studied math, linguistics, and computer science and even worked on decoding an Incan knot language.\n\nHe was obsessed with how humans encode meaning into patterns, whether it was language, symbols, or data.\n\nAfter MIT, Edwin went deep into applied math and ML.\n\nHe did algorithmic work at Peter Thiel’s Clarium Capital, then held ML roles at Google, Facebook, Twitter, and Dropbox, shipped recommendation systems, search, and content moderation.\n\nThis is where the frustration started.\n\nAt Facebook and Twitter, he watched outside vendors deliver datasets that were slow, and off-target.\n\nBasic tasks like distinguishing a coffee shop from a hospital would come back with ridiculous errors.\n\nThe teams were spending millions on data that made models worse. Edwin saw a huge waste of human potential.\n\nSmart people inside big tech were building powerful models, while outsourced annotators with weak tooling and low pay were tagging data with almost no context.\n\nAround 2020, right after GPT-3 landed, Edwin snapped.\n\nHe realized the entire industry treated data labeling as a commodity cost center, when it should be a core R&D function.\n\nSo he quit, moved to Manhattan, and decided to build the opposite of the standard playbook.\n\nHigh-end human data, top talent, premium pricing, and no VCs telling him to chase vanity metrics.\n\nThe Hustle 🤑\n\nEdwin wrote the first version of Surge AI’s MVP in about one month, mostly solo, in a small San Francisco apartment.\n\nThe product was simple at first. A platform where ML teams could define rich labeling tasks, and route them to a hand-picked pool of annotators.\n\nHe used savings from his decade in big tech, a \"couple million\" by his own count, and set three strict rules for the company:\n\nNo external financing. No burning cash. No low-value, simple orders.\n\nIf a task looked like commodity tagging for pennies, Surge would decline it.\n\nEdwin then used one of his most underrated assets. His blog.\n\nHe had built a reputation in the data science community through long technical posts, like the famous \"Pop vs. Soda\" map that went viral from his Twitter days.\n\nHe turned that distribution into a GTM channel.\n\nEarly Surge customers came through deep content aimed at serious data scientists.\n\nHe wrote about data quality, annotation philosophy, and AGI alignment.\n\nFrom there, the team focused on building the highest-quality data annotation workforce on the planet.\n\nTo join Surge Force, annotators had to pass a brutal funnel.\n\nStrong professional background. Five trial writing tasks. Review and approval by senior annotators.\n\nThey pulled in professors from Stanford, Princeton, and Harvard, lawyers, finance pros, and native speakers across 50+ languages and dialects.\n\nFor many roles, the acceptance bar is described as harder than getting into an Ivy League. Surge paid accordingly.\n\nContractors earn $20–$40+ per hour, with some tasks paying 30–40 cents per working minute, far above other gig platforms.\n\nInside the platform, Surge’s own ML models track keystrokes, speed, accuracy, and agreement patterns, constantly updating per-annotator trust scores.\n\nBad or lazy work is detected and removed.\n\nSurge also leaned into adversarial work.\n\nThey run AI red teams, including projects with groups like Redwood Research, where experts try to trick models into sneaky behavior, then label and fix the failure modes.\n\nQuality is the product.\n\nThat contrarian take turned into a huge advantage when Meta invested heavily in rival Scale AI and took a huge stake.\n\nLabs like Google, OpenAI, Anthropic, and xAI did not want their most sensitive data and roadmaps flowing through a vendor effectively tied to a competitor.\n\nThey needed a neutral, independent supplier.\n\nSurge was sitting there, profitable, battle-tested, and fully independent.\n\nStats 📊\n\nFrom a cold start in 2020, Surge AI scaled to about $1.2B in revenue in 2024, beating Scale AI’s ~$870M over the same period.\n\nThe company has roughly 250 people including part-time and consultants, which means close to $9M+ in revenue per person.\n\nOn top of that, Surge coordinates a global workforce of over 1M contractors, with about 50,000 considered expert, high-skill Surgers.\n\nSurge has been profitable almost from day one, growing into what many consider the most capital-efficient AI infrastructure company in Silicon Valley.\n\nIt has done this with $0 in outside funding so far. Edwin still owns roughly 75% of the company.\n\nAt a current estimated valuation of ~$24B, that gives him a personal net worth of ~$18B. In 2025, he entered the Forbes 400 at #55, as the youngest person on the list.\n\nCustomer spend shows how central Surge has become.\n\nMeta reportedly spends over $150M per year with Surge.\n\nGoogle spends over $100M per year.\n\nOther major labs, including OpenAI, Anthropic, Microsoft, and xAI, rely on Surge for RLHF, model evaluation, and safety-critical pipelines.\n\nSurge often charges 50% to 10x more than other providers.\n\nThey’re so good because their data improves model performance in ways you cannot reach with cheap labeling.\n\nBefore you go 👋\n\nThank you for reading. Know someone who'd love this newsletter? Share the love. 🌟"
+      }
+    ],
+    "credits_consumed": 0.17
+  }
+}

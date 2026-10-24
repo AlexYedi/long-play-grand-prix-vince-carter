@@ -1,0 +1,721 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002xb&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:16.583Z",
+  "data": {
+    "total": 6,
+    "limit": 50,
+    "offset": 0,
+    "count": 6,
+    "data": [
+      {
+        "id": 15209634,
+        "title": "Guaranteed Fraud Protection for Ecommerce Merchants",
+        "url": "https://www.signifyd.com/guaranteed-fraud-protection/",
+        "publisher": "Signifyd",
+        "published_date": "2025-12-03T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Signifyd promotes its Guaranteed Fraud Protection service, which uses AI-powered decisioning to detect and prevent ecommerce fraud in real time. The platform guarantees reimbursement for any chargebacks on approved orders, aiming to help merchants increase revenue by reducing manual reviews and false declines.",
+        "word_count": 938,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ng4",
+            "name": "Shopify",
+            "website": "https://www.shopify.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00006ej",
+            "name": "Salesforce",
+            "website": "https://www.salesforce.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0004dgs",
+            "name": "Magento Commerce",
+            "website": "http://www.magento.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008cq",
+            "name": "BigCommerce",
+            "website": "http://www.bigcommerce.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000097",
+            "name": "fraud"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "bigcommerce",
+            "shopify",
+            "magento",
+            "salesforce commerce cloud"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 8762240,
+        "full_text": "Guaranteed Fraud Protection Guaranteed ecommerce fraud protection for merchants Leverage intelligence from the world’s largest merchant network to detect and prevent fraud in real time, confidently approve more transactions, and guarantee fraud protection on approved orders through Signifyd. Our Guaranteed Fraud Protection model allows you to grow revenue with less risk. Watch a Demo Talk to sales\n\nApprove more orders, eliminate manual review, and protect revenue with Guaranteed Fraud Protection. Traditional prevention strategies rely heavily on manual reviews, increasing operational expenses, inefficiency, and unnecessary friction in your workflow. Guaranteed Fraud Protection uses AI-powered decisioning at checkout to instantly evaluate each order. Approved transactions are backed by a guarantee against fraud chargebacks, enabling you to approve more orders with confidence, accelerate revenue growth and eliminate the burden of risk. 0 % approval,\n\nmore revenue 0 % chargeback\n\nreduction 0 % hours spent on\n\nmanual review 0 % approval, more revenue 0 % chargeback reduction 0 % hours spent on manual review Protect your business with guaranteed fraud coverage Block high-risk orders in real-time with AI-powered fraud detection powered by the Signifyd Commerce Network.\n\nScale confidently knowing every approved order is protected.\n\nGet reimbursed for any chargebacks on approved orders. Grow revenue with confident approvals Recover up to 5-9% more revenue by approving legitimate orders that might otherwise be declined.\n\nAccelerate fulfillment with faster, confident approvals.\n\nDeliver a seamless checkout experience that builds customer loyalty. Simplify operations and strengthen customer relationships Replace manual reviews with smart decisioning to reduce costs and free your fraud team.\n\nRetire outdated tools while increasing speed and accuracy at checkout.\n\nDelight customers with a frictionless, trusted experience that maximizes long-term lifetime value.\n\nHow we guarantee fraud protection with self learning AI AI-Powered fraud decisions in real time AI-Powered fraud decisions in real time Analyzes 25,000+ data features from the world's largest identity & intent network.\n\nApprove or decline orders based on fraud likelihood.\n\nProtect revenue while reducing operational friction for trusted customers. Adaptive fraud protection tailored to your industry Adaptive fraud protection tailored to your industry Custom, chained models trained for diverse ecommerce verticals and use cases.\n\nDeliver more accurate detections and fewer false declines.\n\nEnsure decisions are relevant and optimized for your unique business context. Smarter intelligence that learns with every order Smarter intelligence that learns with every order Intelligence that continuously improves using merchant feedback, such as chargebacks and bank authorization outcomes.\n\nIntegrates anomaly signals, expert risk review, and structured A/B testing.\n\nDetection accuracy evolves to stay ahead of fraud trends.\n\nReady to see guaranteed fraud protection in real-time?\n\nDiscover the benefits of eliminating chargebacks, false declines and manual reviews all at once Guaranteed fraud protection plugs into your checkout to approve safe orders, stop fraud, and remove costly manual reviews, so you can increase conversions, reduce risk, and scale with confidence. Seamlessly integrate fraud protection into your existing workflow Minimize time-to-value and start protecting revenue faster by integrating into your existing checkout workflow via API, or with ready-made plugins for major ecommerce platforms. Control approval logic with precision Fine-tune and customize your risk threshold based on target chargeback and approval rates, so you can continuously optimize decisions without complex rules and approve more legitimate orders while keeping fraud down. Instant decisions with a guarantee against fraud chargebacks Incoming orders are contextualized with intelligence from our merchant network, evaluated for fraud risk, and accepted or rejected in real time. Any fraudulent chargeback from an approved order is reimbursed, including shipping and other fees. Eliminate manual reviews and automate order fulfillment Replace labor-intensive manual queues with AI-powered decisioning backed by guaranteed fraud protection on approved orders and shift your focus to accelerating growth and maximizing customer satisfaction.\n\nTrusted by leading ecommerce merchants Signifyd’s model works for a company like ours because we are in the public eye and need to constantly protect our guests. This ensures they can shop with us time and again, confidentthat we provide a safe and genuinely fun environment. READ THE CASE STUDY\n\nWith Signifyd’s Guaranteed Fraud Protection, we have been able to open up our sales funnel – increasing approval rates and preserving customer experience all the way through checkout.\n\nHaving a partner like Signifyd, who can detect risky behavior and stop hackers before a fraudulent purchase is made, has been critical for us at Ferguson Home. Ferguson Home READ THE CASE STUDY\n\nPartnerships and integrations Signifyd is highly flexible and adaptable to your existing technology stack and leading financial institutions. and many more Explore our network\n\nExtend protection and growth with the Signifyd Commerce Protection Platform Your fraud protection isn’t just the beginning. Signifyd’s related solutions help you recover lost revenue, strengthen customer relationships, and create new opportunities for growth across the entire commerce journey. Chargeback Recovery Recover revenue lost to fraud with automated chargeback representment that leverages Signifyd’s Commerce Network to detect abusive claims and improve win rates. Explore Chargeback Recovery Complete Chargeback Protection Our Complete Chargeback Protection evaluates transactions at checkout and guarantees reimbursement on all approved orders, fraudulent or not. Explore Complete Chargeback Protection Return Insights Turn return data into actionable intelligence with SKU-level and customer-segment insights that expose trends, prevent fraud, and protect margins. Explore Return Insights\n\nChoose the fastest way to integrate guaranteed fraud protection Signifyd integrates directly into your checkout workflow so you can start protecting revenue immediately. Choose the option that fits your business, whether it’s a simple plugin or a fully customized API connection. Plugin integration Connect instantly with prebuilt plugins for Shopify, Magento, Salesforce Commerce Cloud and BigCommerce and go live quickly without heavy development, so you can start preventing fraud and approving more orders faster. Direct API integration Easily embed Guaranteed Fraud Protection into your storefront with flexible API’s and customize workflows to your unique business needs while maintaining speed, accuracy and scale."
+      },
+      {
+        "id": 18495026,
+        "title": "Best Tools for Detecting Payment Fraud Across Channels",
+        "url": "https://www.fraud.net/resources/best-tools-for-detecting-payment-fraud",
+        "publisher": "FraudNet",
+        "published_date": "2025-11-30T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.7446,
+        "ai_summary": "This article provides a strategic comparison of five leading B2B payment fraud detection platforms: FraudNet, DataVisor, Signifyd, Sift, and SEON, analyzing their machine learning capabilities, compliance features, data orchestration, and real-time monitoring functionalities. The guide evaluates each platform's target industries, primary use cases, recent updates, and setup considerations to help enterprise finance, compliance, and digital transformation leaders select appropriate solutions. Each platform targets distinct market segments, with FraudNet and DataVisor serving enterprise financial institutions, Signifyd and Sift focusing on e-commerce merchants, and SEON designed for fintechs and fast-growing businesses.",
+        "word_count": 1944,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Risk, Fraud & 3DS Orchestration for Payments",
+            "code": "FSAGABAL",
+            "is_primary": true
+          },
+          {
+            "name": "Identity Verification & Digital ID (IDV, eIDAS, biometrics)",
+            "code": "FSAGAFAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": false
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000a2a",
+            "name": "Sift",
+            "website": "http://sift.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007a4",
+            "name": "DataVisor",
+            "website": "http://www.datavisor.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004x",
+            "name": "SEON",
+            "website": "https://seon.io",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "85",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522320",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "fraudnet",
+            "signifyd",
+            "datavisor",
+            "seon",
+            "sift platform",
+            "signifyd platform",
+            "seon platform",
+            "netsuite"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9906,
+        "group_id": 5788554,
+        "full_text": "Summary B2B payment fraud continues to grow in complexity, outpacing many traditional prevention methods and posing significant risks for organizations across industries. As digital transformation accelerates and payment volumes rise, sophisticated threats such as invoice fraud, business email compromise, and account takeover require more than manual checks or static rules. Modern fraud detection platforms have emerged as essential tools - offering real-time monitoring, adaptive machine learning, and seamless compliance automation - to help businesses safeguard their financial operations.\n\nThis guide delivers a clear, strategic comparison of the leading solutions for B2B payment fraud detection. Drawing on the most recent advancements in the field, we present an objective analysis of each platform’s core features, unique strengths, and practical considerations. Whether you manage enterprise finance, oversee compliance, or drive digital transformation, our aim is to equip you with transparent insights so you can make informed decisions and confidently protect your organization from evolving payment fraud risks.\n\nPlatform ML Capabilities Compliance Features Data Orchestration Real-Time Case Management Industry Focus FraudNet Multi-layered ML, Graph Neural Networks Unified Fraud, AML, Risk Management Seamless ERP and payment system integration Blocks suspicious payments instantly Enterprise B2B, Finance, E-commerce DataVisor Unsupervised ML Automated regulatory reporting Hyper-scalable real-time processing Real-time transaction monitoring Large-scale financial systems Signifyd Automated risk decisions Limited AML compliance Plug-and-play integrations Automated payment approvals E-commerce merchants Sift Adaptive ML No built-in AML Custom rule creation via API Unified dashboard for investigations Digital payments, Marketplaces, E-commerce SEON Customizable ML models Real-time AML screening API-driven, modular platform Rapid deployment Fintech, Fast-growing businesses\n\n1. FraudNet Platform Summary:\n\nFraudNet is a comprehensive platform built to secure the entire B2B payment lifecycle. It combines advanced machine learning, entity-centric risk assessment, and a global anti-fraud intelligence network to proactively identify and block emerging threats. Designed for enterprise B2B, finance, and e-commerce organizations, FraudNet delivers unified fraud, AML, and risk management in a scalable, modular solution.\n\nKey Benefits: Proactively detects and blocks sophisticated B2B payment fraud, including invoice manipulation and business email compromise.\n\nReduces false positives, protecting partner relationships and streamlining investigations.\n\nAutomates vendor onboarding and continuous entity screening for KYV and KYB compliance.\n\nSeamlessly integrates with ERP and payment systems for a unified risk view.\n\nCore Features: Multi-layered machine learning and graph neural networks for adaptive risk scoring.\n\nNo-code rules engine for rapid response to new fraud tactics.\n\nGlobal anti-fraud intelligence network for proactive threat sharing.\n\nEntity screening and monitoring to prevent onboarding of fraudulent vendors and detect account takeovers.\n\nPrimary Use Cases: Preventing invoice and payment fraud by flagging suspicious invoices and payment detail changes.\n\nAutomating secure vendor onboarding and ongoing entity verification.\n\nDetecting insider threats by monitoring internal user behavior and transactions.\n\nRecent Updates:\n\nFraudNet has recently launched Entity Screening to automate business entity verification and Policy Monitoring to help businesses proactively manage compliance and reduce operational risks. These enhancements further streamline onboarding and policy enforcement for enterprise clients.\n\nSetup Considerations: Modular and scalable platform allows phased adoption based on risk priorities.\n\nSeamless data orchestration breaks down internal silos without requiring a full infrastructure overhaul.\n\nIntuitive dashboard and no-code rule engine empower fraud and finance teams to adapt quickly.\n\n2. DataVisor Platform Summary:\n\nDataVisor is an enterprise-grade fraud detection platform leveraging patented unsupervised machine learning and a global consortium intelligence network. It is designed for large-scale financial systems that require hyper-scalable, real-time fraud detection and regulatory compliance automation.\n\nCore Features: Patented unsupervised machine learning for detecting both known and novel fraud attacks.\n\nConsortium intelligence network for sharing anonymized fraud signals across organizations.\n\nHyper-scalable real-time processing, supporting over 30 billion events annually.\n\nPrimary Use Cases: Real-time transaction monitoring for banks and digital payment providers.\n\nFraud ring detection using knowledge graphs to link devices, behaviors, and entities.\n\nAutomated regulatory reporting for SARs and CTRs, reducing manual compliance workloads.\n\nRecent Updates:\n\nDataVisor has enhanced workflow automation, improved explainability in AML case management, and expanded integrations for KYC/KYB and sanctions screening. These updates are aimed at improving operational efficiency and regulatory compliance for large-scale financial organizations.\n\nSetup Considerations: Full data integration may require significant IT resources, especially for organizations with complex or legacy systems.\n\nPricing is available through direct consultation, which may limit initial transparency.\n\nFeature set may be more extensive than required for small or mid-sized businesses.\n\n3. Signifyd Platform Summary:\n\nSignifyd is a leading fraud prevention platform for e-commerce merchants, offering automated risk decisions and a unique chargeback guarantee model. It is designed to reduce merchant exposure to fraud losses and streamline payment approvals across digital and physical retail channels.\n\nCore Features: Automated risk decisions with chargeback guarantee, shifting liability from merchants to the platform.\n\nGlobal merchant network intelligence for improved identity and intent verification.\n\nPlug-and-play integrations with major e-commerce platforms for rapid deployment.\n\nPrimary Use Cases: E-commerce fraud prevention for both online and in-store transactions.\n\nUnified retail fraud management across digital and brick-and-mortar operations.\n\nEnabling business growth by minimizing manual review and fraud-related disruptions.\n\nRecent Updates:\n\nSignifyd has improved its intent intelligence algorithms, expanded omnichannel coverage, and updated administrative controls to enhance usability and efficiency for merchants.\n\nSetup Considerations: Primarily targets retail and e-commerce, with limited support for broader AML compliance.\n\nPercentage-based pricing may impact margins for high-volume merchants.\n\nMay be less adaptable for organizations with complex, non-standard fraud scenarios.\n\n4. Sift Platform Summary:\n\nSift delivers adaptive machine learning and flexible automation for digital payments, marketplaces, and e-commerce businesses. The platform focuses on reducing manual review, minimizing false positives, and preventing account takeovers with a unified case management workspace.\n\nCore Features: Adaptive machine learning that evolves with new fraud patterns.\n\nFlexible automation and customizable rules for tailored decisioning workflows.\n\nComprehensive case management dashboard for investigations and real-time monitoring.\n\nPrimary Use Cases: Digital payment fraud detection for payment processors and marketplaces.\n\nAccount takeover prevention by detecting suspicious logins and device changes.\n\nChargeback reduction for e-commerce businesses.\n\nRecent Updates:\n\nSift has launched new API endpoints for custom rule creation and improved dashboard analytics, providing greater workflow control and data visibility for risk teams.\n\nSetup Considerations: Does not include built-in AML compliance features.\n\nCustom pricing may require in-depth discussions with the vendor.\n\nAdvanced configuration may require additional training for new users.\n\n5. SEON Platform Summary:\n\nSEON is an API-driven, modular fraud prevention platform designed for fintechs and fast-growing businesses. It offers rapid deployment, customizable rules, and real-time AML screening, making it ideal for organizations needing flexible, scalable fraud and compliance controls.\n\nCore Features: API-driven, modular platform for single integration across fraud, risk, and compliance workflows.\n\n900+ real-time digital signals for granular risk scoring and onboarding verification.\n\nCustomizable rules and machine learning for business-specific model tuning.\n\nPrimary Use Cases: Global onboarding risk and identity verification for fast-growing fintechs.\n\nReal-time AML screening and compliance monitoring.\n\nE-commerce fraud detection and policy abuse prevention.\n\nRecent Updates:\n\nSEON has introduced new AML data sources, expanded device intelligence, and improved onboarding workflows, supporting faster global expansion and more effective compliance screening.\n\nSetup Considerations: Subscription and API-based pricing may increase with transaction volume or integration complexity.\n\nMaximum accuracy depends on careful tuning of rules and signals.\n\nInvestigation features may be less extensive than those in more enterprise-focused platforms.\n\nWhat is B2B Payment Fraud Detection? B2B payment fraud detection tools are specialized software solutions designed to automatically identify, flag, and prevent fraudulent transactions between businesses. Unlike consumer fraud tools, these platforms are built to handle the complexities of corporate payments, such as high-value wire transfers, ACH payments, and complex invoice processing. Leveraging technologies like machine learning and behavioral analytics, these tools analyze vast datasets in real time. They scrutinize payment details, vendor information, and historical patterns to detect anomalies indicative of sophisticated schemes like Business Email Compromise (BEC), vendor impersonation, and invoice manipulation, providing a critical layer of security before funds are irrevocably sent. For a deeper look at the latest solutions, explore our top tools for detecting online payment fraud.\n\nWhy is B2B Payment Fraud Detection Important? The importance of robust B2B payment fraud detection cannot be overstated. Corporate payments involve significantly larger sums of money than consumer transactions, making them a lucrative target for fraudsters. A single successful attack can result in millions of dollars in direct financial losses, severely impacting cash flow and even threatening a company's solvency. Beyond the financial hit, payment fraud inflicts serious reputational damage, eroding trust with vendors, partners, and stakeholders. Manual review processes are no longer sufficient; they are slow, prone to human error, and incapable of scaling to match the volume and sophistication of modern fraud tactics. Automated detection is essential for protecting assets, maintaining business continuity, and securing your financial supply chain. Learn more about enterprise risk management platforms that help organizations address these challenges.\n\nHow to Choose the Best Software Provider Selecting the right software provider requires a methodical approach focused on your unique business needs. First, assess your specific vulnerabilities and payment workflows. Do you primarily use wire transfers or ACH? What ERP or accounting system do you rely on? Next, evaluate the provider's core technology. Look for solutions that utilize advanced machine learning to detect novel threats, not just known fraud patterns. Critically, examine the tool's integration capabilities - it must connect seamlessly with your existing financial tech stack (e.g., NetSuite, SAP, Oracle) to ensure a frictionless workflow for your accounts payable team. Finally, consider the provider's implementation process, customer support, and ability to scale as your business grows and fraud schemes evolve. For additional guidance, review our best payment fraud services for enterprises.\n\nFrequently Asked Questions What are the most common types of B2B payment fraud that detection solutions can identify? Modern fraud detection platforms are designed to identify a wide range of B2B payment fraud schemes, including invoice fraud (such as invoice manipulation or submission of fake invoices), business email compromise (BEC), account takeover, vendor impersonation, and insider threats. Advanced solutions also help detect emerging fraud tactics by analyzing behavioral patterns, device fingerprints, and network relationships in real time. For more on this topic, see our guide on types of mobile payments fraud.\n\nHow do machine learning and analytics improve B2B payment fraud detection compared to traditional methods? Machine learning enables fraud detection systems to analyze vast amounts of transactional and behavioral data in real time, identifying subtle anomalies and evolving fraud patterns that static rules or manual reviews might miss. These models can adapt to new threats, reduce false positives, and automate decision-making, allowing organizations to respond faster and more accurately to suspicious activities. This leads to improved detection rates and more efficient compliance processes. Discover more about advanced analytics in fraud prevention.\n\nWhat should organizations consider when selecting a B2B payment fraud detection tool? Key considerations include the platform’s machine learning capabilities, ease of integration with existing ERP and payment systems, scalability, compliance features (such as AML and regulatory reporting), real-time monitoring, and case management tools. Organizations should also evaluate the vendor’s industry focus, support for onboarding and entity verification, pricing transparency, and the ability to customize rules and workflows to fit specific business needs. For a comprehensive overview, see our fraud prevention tools you should immediately add to your arsenal.\n\nHow do these platforms help with regulatory compliance and AML requirements? Many leading B2B payment fraud detection tools offer built-in compliance features such as automated AML (Anti-Money Laundering) screening, regulatory reporting (e.g., SARs, CTRs), and continuous entity verification (KYB/KYV). These capabilities help organizations meet legal obligations, streamline audits, and reduce manual compliance workloads by automating the detection and reporting of suspicious activities. Explore our compliance solutions for more details.\n\nCan these fraud detection platforms be integrated with existing business systems? Yes, most modern fraud detection platforms are designed for seamless integration with ERP, payment, and accounting systems through APIs or plug-and-play connectors. This allows organizations to orchestrate data across departments, break down silos, and maintain a unified view of risk without overhauling their entire IT infrastructure. Integration capabilities and implementation complexity may vary by platform, so it’s important to assess compatibility with your current systems. Learn more about data hub technology for integration.\n\n\n\nDisclaimer: This article is based exclusively on publicly available information. The tools referenced have not been independently tested by us. Should you identify any inaccuracies or wish to provide recommendations, we invite you to contact us.\n\n"
+      },
+      {
+        "id": 15645848,
+        "title": "Fearless Conversions: Sell more with confidence",
+        "url": "https://www.signifyd.com/fearless-conversions/",
+        "publisher": "Signifyd",
+        "published_date": "2025-11-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The article presents the Signifyd Commerce Protection Platform, a solution designed to help ecommerce merchants prevent fraud and manage chargebacks through real-time order evaluation and financial guarantees. It highlights key features such as Guaranteed Fraud Protection, Complete Chargeback Protection, and tools for optimizing authorization rates while reducing false declines. The text includes testimonials from executives at Lenovo, Mango, and Samsung endorsing the platform's ability to improve approval rates and customer experience. ",
+        "word_count": 1010,
+        "original_language": "EN",
+        "author": "Authorization Rate Optimization",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "003gr5g",
+            "name": "Mango",
+            "website": "https://shop.mango.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002iy",
+            "name": "Lenovo",
+            "website": "https://www.lenovo.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000ay",
+            "name": "Samsung Electronics",
+            "website": "https://www.samsung.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000097",
+            "name": "fraud"
+          },
+          {
+            "code": "20001164",
+            "name": "payment service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52232",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "carlo savino",
+            "carlos madrona",
+            "senthil nallasamy"
+          ],
+          "location": [
+            "americas",
+            "global"
+          ],
+          "product": [
+            "agent console",
+            "decision center",
+            "commerce protection platform",
+            "signifyd"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7875,
+        "group_id": 8603497,
+        "full_text": "Fearless Conversions Commerce Protection Platform One platform to protect the online\n\ncustomer experience from end‑to‑end. Watch a Demo Get Started Our 3-step demo process\n\nStep 1: Personalize your demo by giving us details on the types of use cases you’re looking to solve for.\n\n\n\nStep 2: Learn how Signifyd evaluates orders specifically for merchants similar to you.\n\n\n\nStep 3: Finish your demo with a behind-the-scenes look into our case console to review orders aligned with your specific needs. Request a personalized demo of our Complete Chargeback Protection solution Note: Turn on Javascript Thanks for reaching out! We will get in touch with you shortly.\n\nBack Account Protection Defend account integrity, inspire customer loyalty Consumer behavior is monitored over time to build a constantly evolving profile of each shopper within our network. This allows Signifyd to accurately detect anomalies in shopper behavior and stop fraudulent activity on accounts as a result of ATO in real‑time. Learn More Authorization Rate Optimization Influence auth rates with enhanced data Direct connections with issuing banks allow every approved order sent for authorization to be enriched with relevant historical transactional data and network insights from the Signifyd Commerce Network — driving higher auth rates and reducing false declines by banks. Learn More Guaranteed Fraud Protection Trust customers, grow fearlessly Incoming orders are evaluated in real‑time and approved orders are backed by a full financial guarantee against fraud. This effectively shifts the liability for fraud away from your business, allowing you to trust customers and grow fearlessly while reducing risk. Learn More Complete Chargeback Protection Total freedom from chargebacks Complete Chargeback Protection protects all approved orders with a full financial guarantee against both fraud and non‑fraud chargebacks. The result is complete elimination of chargeback losses for merchants. Learn More Chargeback Recovery Take charge of your chargebacks Chargeback Recovery combines intent intelligence from the Signifyd Commerce Network with merchant-specific chargeback data to identify abusive shoppers and dispute suspicious claims automatically. Learn More Return Abuse Prevention Encourage return shoppers, not return abuse Return requests are evaluated against Signifyd’s rich history of consumer behavior and within the guardrails of a merchant’s specific return policies to block abusive returns, streamline customer interactions and automate refunds for good shoppers. Learn More Platform\n\nOverview From login to checkout to fulfillment to returns, the Commerce Protection Platform addresses fraud challenges at key conversion points across the ecommerce shopper journey. EXPLORE PLATFORM & PRODUCTS Back Account Protection Authorization Rate Optimization Guaranteed Fraud Protection Complete Chargeback Protection Chargeback Recovery Return Abuse Prevention User Interface\n\nOverview Three merchant-facing modules provide transparency into decisions and ultimate control over protection — Agent Console, Decision Center and Insights Reporting. EXPLORE MODULES Back Agent Console Decision Center Insights Reporting Back Agent Console Remain in the driver seat of order automation Agent Console surfaces variables used to inform order decisions made by Signifyd’s machine-learning model, as well as indicators into which variables weighed most heavily into those decisions – both positive and negative. This transparency into decisions builds merchant trust in Signifyd’s model and allows merchants to discover patterns that may indicate emerging fraud trends. The newest feature of Agent Console is Power Search – an advanced searching capability that allows users to investigate order connections and surface patterns of fraud and abuse. Decision Center Custom protection unique to your business Decision Center puts the power of the Commerce Network into our merchant’s hands, allowing their team to draw on network insights as well as business‑specific data when creating and enforcing policies specific to their business. Fraud teams can create, test, deploy and manage all of these policies directly from Decision Center. Learn More Insights Reporting Keep business performance at the forefront Fraud teams leverage Insights Reporting to track performance across segments such as geographies, product lines or payment methods. For merchants leveraging Chargeback Recovery, reporting capabilities include chargeback performance metrics such as chargeback rates, trending chargeback reasons and the win rate of chargeback representment over time.\n\nJoin forces with the world’s leading brands The Signifyd Commerce Network unites identity and intent intelligence data from thousands of global ecommerce retailers to proactively block emerging fraud trends while instantly recognizing and streamlining legitimate customers through the path to purchase. 98 % + Global transactions identified by one or more predictive variables 80% Email coverage\n\nEmail coverage 80% IP coverage\n\nIP coverage 75% Phone coverage\n\nPhone coverage 77% Address coverage\n\nAddress coverage 75% Device ID coverage Other datapoints include: Behavioural data\n\nProxy detection\n\nSocial graph\n\nPurchasing history\n\nIssuing bank data\n\nCross merchant deny list\n\nTransactional velocity\n\nSearch engines\n\nPublic records\n\nShopper journey protection that drives greater conversions while reducing risk Protect revenue Shopper knowledge is power. Signifyd helps merchants approve 5-9% more orders on average. Trust customers Harness our global Commerce Network to create seamless customer experiences while eliminating fraud and abuse. Grow fearlessly Signifyd’s 100% financial guarantee against fraud and abuse gives you the confidence to automate payments at scale. GET THE DATA SHEET\n\n“Because of our high AOV, we were being extremely conservative and our fraud controls were so oppressive that many of our legitimate customers were being wrongly denied. With Signifyd’s Guaranteed Fraud Protection, we have been able to open up our sales funnel – increasing approval rates and preserving customer experience all the way through checkout.” — Carlo Savino, VP Americas Ecommerce, Lenovo — Carlo Savino\n\nVP Americas Ecommerce\n\nLenovo “The most important thing is not the data the customer leaves, but their history of shopping behavior across merchants – and Signifyd proved to be one of the only tools that could truly capture this.” — Carlos Madrona, Managing Payments Method and Fraud Director, Mango — Carlos Madrona\n\nManaging Payments Method and Fraud Director\n\nMango “Signifyd has a very smart technology that can detect fraud accurately. Besides the technology, the team at Signifyd is super engaged all the time and is always looking for ways to improve and help your business. As a customer, we get access to their rich dashboard which can be used to look into specific cases as well as overall trends. Bottom line – great technology, great people, super transparent.” — Senthil Nallasamy, eCommerce Head of Products, Samsung — Senthil Nallasamy\n\neCommerce Head of Products\n\nSamsung\n\n\n\n\n\nFurther reading and resources on all things Commerce Protection"
+      },
+      {
+        "id": 17579009,
+        "title": "Women in Tech: Meet the Leaders Driving Innovation at Signifyd",
+        "url": "https://www.signifyd.com/blog/women-in-tech-meet-the-leaders-driving-innovation-at-signifyd/",
+        "publisher": "Signifyd",
+        "published_date": "2025-11-20T00:15:58",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The article reports on women leaders in technology at Signifyd, detailing their career journeys and leadership roles. It emphasizes their contributions to innovation, inclusivity, and organizational growth, highlighting their advice for women in tech. The focus is on Signifyd's inclusive culture and the achievements of its female technical leaders. ",
+        "word_count": 1486,
+        "original_language": "EN",
+        "author": "Jenny Saffrin",
+        "countries": [
+          "GBR",
+          "GBR",
+          "USA",
+          "BRA",
+          "MEX"
+        ],
+        "industries": [
+          {
+            "name": "Talent Acquisition (Recruiting) & Applicant Tracking (ATS)",
+            "code": "BPACAPAD",
+            "is_primary": true
+          },
+          {
+            "name": "Innovation, Product & R&D Consulting",
+            "code": "BPAHACAM",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          },
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "08000000",
+            "name": "human interest"
+          },
+          {
+            "code": "20001327",
+            "name": "women"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "125",
+            "name": "Careers"
+          },
+          {
+            "code": "599",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "katherine wood",
+            "orla glancy",
+            "amy williams",
+            "katherine",
+            "mariana calderón",
+            "fernanda melo",
+            "amy",
+            "orla",
+            "fernanda",
+            "mariana"
+          ],
+          "location": [
+            "uk",
+            "belfast",
+            "u.s.",
+            "latam",
+            "mexico",
+            "brazil",
+            "latin america"
+          ],
+          "product": [
+            "console",
+            "databricks"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8038,
+        "group_id": 6713665,
+        "full_text": "Innovation thrives at Signifyd when diverse perspectives come together to solve complex challenges. Across our global technology teams, women are leading the way — designing solutions, mentoring others and redefining what it means to build fearless commerce. We connected with several of the incredible women on our tech team to hear about their journeys into technology, what drives their passion for problem-solving, and how Signifyd’s culture empowers them to grow, collaborate and lead with confidence. These are their stories. Designing better experiences through empathy and experimentation Orla Glancy – Senior Product Manager, Belfast Orla’s path into tech started early, as the go-to “family tech support” and through roles at Carphone Warehouse, Samsung, Experian and PwC. Each step sharpened a different skill: understanding customers, tackling fraud and identity challenges and designing technology-led solutions to real business problems. Joining Signifyd became the natural next move — a place where those experiences intersect. As senior product manager for Signifyd’s customer-facing console, Orla spends her days partnering with customers, digging into data and collaborating closely with design and engineering to continuously improve the tools merchants rely on. She uses insights from analytic tools to identify opportunities, prototype solutions and turn feedback into meaningful features. She’s especially proud of leading the evolution of the console over the past four years — a highly visible, high-stakes piece of Signifyd’s solutions, where “everyone has an opinion.” By building a strong, trusting partnership across teams, Orla has helped deliver a console experience that delights customers and reflects their needs, sometimes before they even articulate them. Navigating motherhood at a pivotal stage in her career has been one of her biggest challenges. Setting boundaries, involving her daughters in understanding what she does and giving herself permission to grow have been key. Her advice to women in tech: Don’t be intimidated by the word “tech” — there is space for every skill set and you can go far by leaving your ego at the door and being clear about what you want. Building modern, inclusive frontends and communities Amy Williams – Senior Software Engineer II, UK Amy’s love for tech began with helping her dad troubleshoot computers, eventually leading her to an IT diploma, a computer science degree and a career in software engineering. She gravitated toward frontend development, drawn to its pace, creativity and constant learning. When she discovered Signifyd, its culture, flexibility and visible commitment to inclusion stood out immediately. Today, Amy balances deep-focus development with mentorship and collaboration. Her mornings often start with unblockers — code reviews, support for teammates, followed by dedicated time to ship high-quality frontend features and improvements to the tech stack. She also invests in elevating the developer experience across teams. One highlight: leading the effort to roll out a modernized theme across key customer-facing applications — a change that required careful planning, incremental releases and close attention to customer impact. The result is a consistent, trustworthy, modern interface that reinforces Signifyd’s brand and improves user experience at scale. While she’s experienced subtle bias in past roles, Amy’s response has been to strengthen her technical voice, advocate for inclusive environments and help others do the same. She’s found Signifyd’s approach to inclusion “distinctively proactive,” from Women at Signifyd initiatives and engaging speakers to engineering onsites and Innovation Days that promote learning, visibility and cross-functional connection. Her message to women in tech: Take the leap, stay curious, be yourself and find the network that champions your growth. Advancing AI with curiosity, rigor and mentorship Katherine Wood – Staff Machine Learning Engineer, U.S. Katherine didn’t start out planning a career in tech. A psychology major with a love for Latin and a growing side interest in computer science, she gradually built a toolkit of programming, statistics and experimental design skills. After completing her Ph.D., and deciding academia wasn’t her long-term path, she pivoted into data science and eventually to Signifyd, through an employee referral from a student she met while honing her skills. Now a staff machine learning engineer on the Signifyd AI Lab (SAIL) pipelines team, Katherine focuses on the infrastructure and tools that power experimentation and model deployment. Her day-to-day involves writing and reviewing code, designing systems, unblocking modelers and ensuring teams can reliably ship high-performing models into production. One of her proudest accomplishments is leading the development of an automated threshold management system (DMI), which helps balance ecommerce order approval rates and fraud risk at scale. What started as the largest project she’d ever led is now a critical piece of Signifyd’s decisioning engine and a testament to what thoughtful technical leadership can unlock. Katherine is quick to acknowledge the importance of supportive peers and mentors — people who are smart, generous with their expertise and committed to equity. She values Signifyd’s executive leadership’s visible support for inclusion and the emphasis on diverse interview panels, which create space for women candidates to ask real questions and see themselves represented. Her advice: Don’t close doors on yourself. Apply even if you’re not “100% ready,” and find trusted people you can speak openly with when you’re navigating gray areas or headwinds. Building the systems and confidence behind trusted decisions Fernanda Melo – Manager, Data Science, Brazil For Fernanda, tech felt like a natural extension of her love for math and engineering. With experience spanning startups and large-scale enterprises, she found her ideal balance at Signifyd: meaningful scale, impactful challenges and a sustainable culture. As a data science manager in the risk organization, Fernanda leads a team of 10 data scientists while also acting as a technical and strategic anchor. Her team supports regional business units with feature engineering, workflow automation and cross-functional projects that directly influence model performance and merchant outcomes. Fernanda played a key role in designing Signifyd’s early automated training and retraining workflows on Databricks — work that reshaped how models are operationalized, reduced training time from weeks to hours, enabled scheduled retraining and established maching learning operations standards still in use today. Early in her career, she saw her technical input questioned in ways that her male peers didn’t experience. She responded by doubling down on technical excellence, asserting her perspective with clarity and intentionally choosing environments that value inclusion. At Signifyd, she’s found leaders who actively sponsor women’s growth, ensure visibility in promotions and cross-discipline forums and evaluate competence fairly. Her advice to women: Invest as intentionally in your confidence and mental health as you do in your technical skills and be selective about where you work. Seek cultures where you’re valued, not just tolerated. Leading risk strategy for LATAM with bravery and balance Mariana Calderón – Manager, Data Science, Mexico Mariana’s journey into tech began with applied mathematics and computer science, followed by roles in software development and data science across logistics and real estate. A strong recommendation from a colleague — highlighting Signifyd’s values, culture and leadership — inspired her to join in 2021. As the leader of the risk team for Latin America, Mariana oversees a multidisciplinary group focused on one core mission: help merchants maximize profit by stopping fraud while keeping the experience seamless for good customers. She structures her team into “conceptual pods” focused on ownership areas for fraud workflows, onboarding, model health and specific accounts, empowering individuals to take the lead while staying aligned with shared goals. Among her proudest achievements is helping standardize Signifyd’s offline proof-of-value (POV) process in LATAM, turning what started as bespoke, complex evaluations into a scalable, repeatable framework now used widely, especially in Brazil. That work has strengthened Signifyd’s position in competitive deals and brought clarity and rigor to how success is measured. Along the way, Mariana has had to unlearn perfectionism — pushing herself to be “brave, not perfect,” raising her hand even when she doesn’t have every answer. Supportive leaders who advocate for visibility, a challenging work environment, and a bunch of role models at Signifyd that inspire her have played a big part in her growth. Her biggest advice for women in tech is to intentionally build a network, as a space for shared learning and mutual support. What are the common threads among successful women in tech? Across time zones and disciplines, Orla, Amy, Katherine, Fernanda and Mariana share a few powerful common threads: curiosity that opened unexpected doors, mentors and leaders who invested in their potential and a commitment to lifting others as they grow. At Signifyd, women in tech are not only designing fraud protection systems, refining AI pipelines and leading high-impact teams, they are shaping how we hire, collaborate and create space for every voice to be heard. Their stories are a reminder to future and emerging women technologists everywhere:\n\nThere is room for you here. You don’t have to fit a mold. You don’t have to have it all figured out. You just have to take the next step and find a community that backs you while you do it. Photos by Signifyd Interested in joining our team?"
+      },
+      {
+        "id": 17579025,
+        "title": "Return Fraud Detection: Deliver Instant Refunds & risk-free returns",
+        "url": "https://www.signifyd.com/instant-refunds/",
+        "publisher": "Signifyd",
+        "published_date": "2025-11-19T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9937,
+        "ai_summary": "The article provides a factual overview of Instant Refunds, a machine-learning powered solution by Signifyd designed to detect and prevent fraudulent eCommerce returns. The system analyzes hundreds of data points to assess risk, allowing merchants to offer instant refunds to low-risk customers while maintaining security against fraud types such as empty box scams and item switching. It is described as an RMA-agnostic platform that integrates seamlessly into existing workflows via API or Shopify tags without disrupting current processes. ",
+        "word_count": 559,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Cross-border Payments, FX & Multi-currency Checkout",
+            "code": "CRAFAJAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          },
+          {
+            "name": "Geopolitical Risk",
+            "code": "RK01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000ng4",
+            "name": "Shopify",
+            "website": "https://www.shopify.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000097",
+            "name": "fraud"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "globally"
+          ],
+          "product": [
+            "instant refunds"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8163,
+        "group_id": 8526178,
+        "full_text": "What is Return Fraud Detection? Expand Return Fraud Detection is the process of identifying, detecting, and preventing fraudulent eCommerce returns with help from software technology, data analytics and risk scoring. Powerful return fraud detection systems like Instant Refunds use machine learning models to analyze hundreds of data points from multiple sources and identify return requests that are likely to be fraudulent.\n\nWhat is Instant Refunds? Expand Instant Refunds is a machine-learning powered solution that allows merchants to safely offer instant refunds to trusted customers while preventing fraudulent returns. Instant Refunds analyzes data from return requests alongside hundreds of other data points to assess risk and decide whether the merchant should instantly approve a refund (low risk) or wait for additional verification (high risk). Instant Refunds helps merchants reduce their operational costs and increase repurchase rates by striking a balance between delighting customers with instant refunds and preventing fraud.\n\nIs Instant Refunds available globally? Expand Instant Refunds is available globally for merchants who sell physical goods with returns initiated online. There are no geographic restrictions on the availability of Instant Refunds beyond standard GFP limits.\n\nHow does your system detect fraud like empty box scams, item switching or label manipulation? Expand Instant Refunds is designed to protect against several types of return fraud, including empty box returns, fake returns, and product switching. Instant Refunds uses an ML-powered model to analyze hundreds of different signals from various sources to determine whether any given return is likely to be fraudulent. These signals include the return request information, along with customer behavior data, payment data, historical transaction data, and more.\n\nWhat integrations do you support with existing Return Merchandise Authorization (RMA) systems we already use? Expand Instant Refunds is designed to be RMA-agnostic. Our platform provides an Intelligence Layer in your existing returns process, working alongside your existing RMA platform by tagging return requests or returning a decision without replacing or disrupting your current return processing workflow.\n\nCan this scale during high-volume events like holiday returns or product launches? Expand Yes. Instant Refunds is hosted on Signifyd cloud servers with a fully scalable back-end, ensuring seamless scalability even during periods of high volume such as holidays and product launches.\n\nWill customers get their refund instantly after starting a return? Expand No. Instant Refunds allows merchants to instantly approve refunds for trusted customers in low-risk situations. The amount of time it takes for the customer to receive their refund depends on their payment method and bank.\n\nWhat happens if a good customer is flagged incorrectly? Expand If a good customer is flagged incorrectly as a high-risk customer, they may not be eligible for an instant refund and further verification will be required before a refund is given. If an incorrectly flagged customer makes one or more acceptable returns, they may become eligible for instant refunds again in the future.\n\nHow fast is set-up? Will this disrupt our current returns process? Expand Setting up Instant Refunds is fast, easy, and won’t interfere with your current returns process. Instant Refunds integrates seamlessly into your existing returns processing workflow via API integration or by transmitting return requests to Signifyd using Shopify tags.\n\nWill this hurt our NPS score or cause friction in support tickets? Expand No. Our data shows that enabling instant refunds for low-risk return requests enhances customer satisfaction, reduces customer support inquiries, and can actually increase your NPS score while lowering your operational costs."
+      },
+      {
+        "id": 17578918,
+        "title": "Merchant-issuer data model: How to stop false payment declines",
+        "url": "https://www.signifyd.com/blog/merchant-issuer-data-model/",
+        "publisher": "Signifyd",
+        "published_date": "2025-11-18T22:05:29",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0313,
+        "ai_summary": "Issuing banks falsely decline approximately 15% of legitimate ecommerce orders, resulting in merchants losing roughly $430 billion in potential global revenue annually due to insufficient transaction data during authorization. The merchant-issuer data model addresses this by allowing merchants to share verified trust signals — such as behavioral patterns, login verification, and order history — with issuing banks during the authorization process. Signifyd's Authorization Rate Optimization solution facilitates this data sharing, reportedly improving authorization rates by up to 3% and reducing false declines for ecommerce merchants.",
+        "word_count": 1901,
+        "original_language": "EN",
+        "author": "Channing Lovett",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Merchant Risk, Underwriting & Portfolio Monitoring",
+            "code": "FSAMALAH",
+            "is_primary": false
+          },
+          {
+            "name": "Cards Operations (Issuing/Acquiring Support, Disputes & Chargebacks)",
+            "code": "FSABALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0006uga",
+            "name": "Jerome’s Furniture",
+            "website": "https://www.jeromes.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002xb",
+            "name": "Signifyd",
+            "website": "https://www.signifyd.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001164",
+            "name": "payment service"
+          },
+          {
+            "code": "20000097",
+            "name": "fraud"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "114",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522210",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "561422",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "alex",
+            "customer",
+            "scott perry",
+            "lovett channing"
+          ],
+          "location": [
+            "apartment"
+          ],
+          "product": [
+            "wi-fi router",
+            "tv",
+            "movie"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6714153,
+        "full_text": "Fraud Merchant-issuer data model: How to stop false payment declines Read “The Global State of Fraud and Returns” report Get the Report Get “The Global State of Fraud and Returns 2025” report Note: Turn on Javascript Thanks for downloading! Get “The Global State of Fraud and Returns 2025” report Read More Every merchant knows the pain of seeing a good customer’s order get turned down by their bank. The shopper gets frustrated. You lose the sale. And often, the reason behind the decline isn’t fraud. It’s missing data. The merchant-issuer data model was designed to help solve that problem. But before we look at what it is or how it works, it’s important to understand what’s missing from the traditional bank authorization process and why it so often fails online businesses. TL;DR Issuing banks often decline about 15% of good ecommerce orders. They do this because they do not have enough information about the customer’s behavior and identity.\n\nThe merchant-issuer data model improves authorization accuracy. It sends extra trust signals from the merchant with the authorization request. This gives issuers a better understanding of who the shopper is.\n\nWith better shared context between merchants and issuers, more legitimate transactions are authorized on the first try. This lifts bank authorization rates, preserves revenue from good sales and creates a smoother checkout experience for shoppers. Why the traditional bank authorization falls short in ecommerce The authorization process was first designed for in-person payments. Physical cards and terminals give real-time signals. These signals include card swipes, taps, chip inserts, or PIN entries. They help confirm the customer’s presence and verify the transaction immediately. In ecommerce, those signals don’t exist since the card isn’t physically present. Because of this, issuing banks have to make authorization decisions using limited digital signals instead of in-person cues that confirm the cardholder’s presence and help distinguish a legitimate purchase from a fraudulent one. While ecommerce businesses like yours have access to stronger insights like behavioral patterns, device fingerprints and customer order history that can verify trust, that data isn’t shared with issuers during authorization. And because they lack that deeper visibility into the customer’s identity and behavior during online purchases, issuers often err on the side of caution, causing genuine shoppers to get stuck in the fraud net. In fact, according to Signifyd data, banks falsely decline about 15% of good ecommerce orders, causing: Lower bank authorization rates, as cautious issuers accidentally reject legitimate shoppers\n\nMerchants to lose roughly $430 billion in potential revenue globally each year — including declines at the authorization stage. What do those billions look like in real life? Consider the damage false declines at the authorization stage can do to just one merchant’s top line. For a merchant processing 200,000 ecommerce orders a month with an average order value of $50, that 15% hit works out to: 30,000 good orders mistakenly declined every month.\n\n$18 million-plus in lost sales over a year. To make matters worse, when these purchases are declined, the issuers typically return generic response codes that offer little insight into why the customer’s order was stopped before reaching you for approval. All of these blind spots have created a disconnect between merchants and banks. Fortunately, the merchant-issuer data model was built to close that divide. What is the merchant-issuer data model? The merchant-issuer data model is a data-sharing approach that improves visibility and alignment between merchants and issuing banks. It lets you send more detailed information alongside the authorization request to give issuers better context as they make authorization decisions. Some of these signals include: Customer order history: Past purchases that demonstrate a pattern of trusted behavior\n\nSecure logins: Confirmation that the shopper verified their identity when they logged into their account\n\nOrder score: A real-time indicator of transaction trustworthiness based on the merchant’s data, including device information and behavior patterns By enriching each authorization request with verified data, the merchant-issuer data model helps banks approve more good orders and deliver smoother checkout experiences. How the merchant-issuer data model works The merchant-issuer data model works by enhancing the authorization process with richer, verified transaction data from the merchant to the issuing bank. Here’s what it looks like after a customer completes their order: Step 1. A customer places an order You collect the customer’s payment information at checkout. Your payment processor or gateway then builds the authorization request using the card details, billing address, purchase amount and your merchant ID. Step 2. You gather trust signals Your fraud review system analyzes trust signals — i.e. behavioral data, device fingerprints, login method, address consistency and order history — from the customer’s buying journey and transaction. Step 3. You share additional data with the issuer The positive decision and accompanying score along with additional trust signals travel securely alongside the authorization request through the appropriate card network to the issuing bank. Step 4. The issuer reviews the transaction The issuing bank evaluates the standard payment data and the additional trust signals you provided. Step 5. The issuer responds with an authorization decision The issuer responds with an authorization code if the order is approved or a decline code if it’s blocked. 3 benefits of the merchant-issuer data model Giving banks access to the deeper information you already have changes everything — from how they make decisions to how many of your good orders get through. And this benefits you in a few key ways: Fewer false declines When banks can see the same customer context you do, they stop mistaking trusted shoppers for fraudsters. That shared visibility means fewer orders get caught in the fraud net and more good sales make it through to you for approval. Higher authorization rates When issuers consistently receive detailed and reliable transaction data from you, they gain the confidence to loosen their overly cautious risk filters that often block good shoppers. This increased trust means more legitimate purchases get authorized and sent to you for approval the first time, lifting your ecommerce authorization rates. Stronger shopper loyalty and lifetime value Every smooth checkout builds trust. When shoppers know their payments will go through without friction, they’re far less likely to abandon their carts or switch to competitors. That confidence in your brand encourages repeat purchases and loyalty, increasing your average customer lifetime value (CLTV). All of these benefits stem from one thing: better context. And when it’s missing, even loyal shoppers can end up walking away. Let’s look at how that plays out in a real-world example. The merchant-issuer collaboration is important Picture this: A loyal customer named Alex just moved into a new apartment and hasn’t updated their billing address yet. While unpacking, Alex realizes their TV screen cracked during the move — and their Wi-Fi router is missing. Alex had been looking forward to relaxing that night and streaming a new movie, so they hop online to replace both. Alex finds the same TV on sale and a new router from a trusted retailer offering same-day delivery. They log into their account using fingerprint authentication, add both items to their cart, confirm their saved payment method and check out using their new shipping address. From your side, everything looks fine. But when the authorization request reaches the issuing bank, the billing and shipping addresses don’t match what’s on file. Without access to your behavioral or identity signals, the bank flags the order as risky and declines it. Alex tries again, gets declined a second time and finally gives up — abandoning the cart and driving to a nearby store instead. The merchant loses the sale and Alex’s trust. Now imagine the same order, but with the merchant-issuer data model in place. This time, the bank receives not just the standard payment information, but also verified trust signals confirming that Alex logged in with biometrics, is using a recognized device and has a consistent purchase history with the merchant. That added context shows the order is genuine. The issuer authorizes the purchase instantly, Alex gets their TV and router delivered the same day and the retailer keeps the sale. The checkout feels seamless, trust is reinforced and the next time that Alex needs something fast, they’ll buy from the same merchant again. How Signifyd helps you put the merchant-issuer data model into action While the merchant-issuer data model powers smarter authorization decisions, implementing it effectively requires deep connectivity and collaboration between merchants and issuers. Specialized solutions like Signifyd’s Authorization Rate Optimization (ARO) facilitate that connection, helping both sides align. When using ARO, Signifyd acts as the intelligence layer between your checkout and the issuing bank. The platform analyzes every order in real time, applying advanced machine learning (trained on billions of transactions from the Commerce Network) to determine which are safe and which are fraudulent. Sending only trusted transactions to the issuing bank Before your authorization request is sent, the solution filters out risky or fraudulent orders using pre-authorization. That means only clean, trusted orders reach the bank for review — lifting authorization rates by up to 3%. Enriching authorizations with better context Signifyd packages each trusted transaction with additional data points — including order score, order decision, IP address, biometrics, geolocation, device ID and more — so issuers can make more accurate decisions. Strengthening merchant-issuer relationships with reliable signal quality As banks consistently receive cleaner, high-quality data from your brand, their trust in your signals grows. Over time, that confidence improves how your online orders are treated, driving stronger approval performance across your business. “I’ve seen a bunch of orders go through that previously we would have been falsely declined. They were approved through Signifyd — 100% legitimate business that we would have walked away from.” Scott Perry, senior vice president of Digital IT and omnichannel at Jerome’s Furniture By bridging the gaps between merchants and issuers, ARO empowers you to recover lost revenue, reduce friction for genuine customers and build long-term trust — all while keeping fraud under control. Ready to help influence smarter issuer authorization decisions with Signifyd? Let’s talk. Contact us FAQs What is a merchant-issuer? The term “merchant-issuer” refers to the relationship between an ecommerce business (the merchant) and the issuing bank that authorizes or declines customer transaction attempts. It’s the foundation of the merchant-issuer data model, which helps both sides share data to reduce false declines and increase authorization rates. How does the merchant-issuer data model benefit both merchants and issuers? The merchant-issuer data model improves how both sides handle online orders. Banks get the context they need to approve more legitimate orders, while it gives merchants visibility into why transactions are declined. It also helps merchants recover revenue that would have been lost from false declines. What are the key components of the merchant-issuer data model? The model works by connecting merchants and issuing banks through three main steps: Data enrichment: Merchants send verified trust signals along with the standard payment details. Real-time sharing: That data travels securely through the appropriate card network to the issuing bank. Smarter authorization decisions: With a fuller picture behind who the customer is and what their intent is, banks can confidently authorize more good transactions and send them to the merchant for approval. Share this post Channing Lovett Channing is a contributor to Signifyd's blog. With a background in creative communications, commerce and technology, she has a knack for turning intricate concepts into engaging stories. Her writing explores how technology is uplifting customer experience and driving innovation in ecommerce."
+      }
+    ],
+    "credits_consumed": 0.16
+  }
+}

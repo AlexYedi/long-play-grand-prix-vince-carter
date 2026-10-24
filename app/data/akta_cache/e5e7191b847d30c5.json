@@ -1,0 +1,137 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00004od&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:56.882Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 34828060,
+        "title": "Fresha Achieves NF525 Certification, Reinforcing Its Commitment to France's Beauty and Selfcare Industry",
+        "url": "https://www.businesswire.com/news/home/20260909152680/en/Fresha-Achieves-NF525-Certification-Reinforcing-Its-Commitment-to-Frances-Beauty-and-Selfcare-Industry",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-09-10T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Fresha achieved NF525 certification for its POS software, complying with French anti-fraud regulations. The certification, issued by AFNOR Certification, ensures transaction records are securely stored and cannot be altered. It enables more French beauty and wellness businesses to use the platform.",
+        "word_count": 555,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "FRA"
+        ],
+        "industries": [
+          {
+            "name": "POS Certification, Testing & Compliance (EMVCo, PCI PTS/PCI DSS)",
+            "code": "FSAMADAL",
+            "is_primary": true
+          },
+          {
+            "name": "Personal Care & Wellness Booking Platforms (Beauty, Fitness, Spa)",
+            "code": "BPAMAHAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "002689l",
+            "name": "Infocert",
+            "website": "https://www.infocert.org",
+            "is_primary": false
+          },
+          {
+            "uuid": "00004od",
+            "name": "Fresha",
+            "website": "https://www.fresha.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000ktgk",
+            "name": "AFNOR",
+            "website": "http://www.afnor.org/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "promotional",
+          "label": "Promotional"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20000220",
+            "name": "health and beauty product"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51321",
+            "name": "Information"
+          },
+          {
+            "code": "456120",
+            "name": "Retail Trade"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "5734",
+            "name": "RETAIL-COMPUTER & COMPUTER SOFTWARE STORES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "baptiste donnedieu",
+            "dane carmody"
+          ],
+          "location": [
+            "france",
+            "paris"
+          ],
+          "product": [
+            "fresha",
+            "nf525-certified pos software"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9818,
+        "group_id": 10796890,
+        "full_text": "Fresha Achieves NF525 Certification, Reinforcing Its Commitment to France's Beauty and Selfcare Industry\nFresha Achieves NF525 Certification, Reinforcing Its Commitment to France's Beauty and Selfcare Industry\nPARIS--(BUSINESS WIRE)--Fresha, the world’s leading beauty and wellness booking platform, has achieved NF525 certification for its Point of Sale (POS) software. This important milestone strengthens Fresha’s offering in France and enables more beauty, wellness and selfcare businesses across the country to use the platform.\n“France is an incredibly important market for Fresha, and achieving NF525 certification is a major step forward in what we can offer businesses here,\" says Baptiste Donnedieu, General Manager of France at Fresha.\nShare\nFrance is one of Fresha’s fastest-growing markets. Achieving NF525 certification reflects the company’s commitment to meeting the needs of French businesses and making its platform accessible to partners of all sizes, from independent professionals and single-location salons to clinics, spas and enterprise companies.\nNF525 is an independent certification issued by AFNOR Certification, with the certification process managed by INFOCERT. This certification confirms that Fresha’s POS software complies with French anti-fraud regulations introduced under Law No. 2015-1785. These rules are designed to ensure that transaction records are securely stored and cannot be altered or deleted without a record.\nDane Carmody, Head of Product at Fresha, who led the certification project, said: “Achieving NF525 certification was an important undertaking for our team and required us to meet a rigorous set of requirements. Throughout the project, our focus was on making sure Fresha met the needs of the French market while remaining simple and intuitive for our partners to use. We’re proud to have reached this milestone. French businesses can now use Fresha’s POS software with the added confidence that the way their transaction records are stored and protected has been independently assessed.”\nBaptiste Donnedieu, General Manager of France at Fresha, said: “France is an incredibly important market for Fresha, and achieving NF525 certification is a major step forward in what we can offer businesses here. We are not simply bringing a global platform to France; we are continuing to develop Fresha around the specific needs of the French market. This certification gives our partners greater confidence in how their transaction records are managed. It also means that more businesses across France can use Fresha to manage their bookings, clients, payments and daily operations in one connected place, whether they are an ambitious independent or a larger business with multiple locations.”\nWith its NF525-certified POS software, Fresha partners in France can manage sales alongside bookings, payments, client relationships, marketing and reporting through one platform. This makes everyday operations simpler while giving businesses confidence that their transaction records meet French requirements.\nFresha’s NF525 certification will continue to be reviewed through regular checks by INFOCERT, including an annual audit. This provides partners with ongoing independent assurance as Fresha continues to invest in its product, team and presence in France.\nAbout Fresha\nFresha is the world's leading AI-powered booking platform for beauty and wellness, trusted by over 140,000 partner businesses across more than 120 countries. Its fully integrated ecosystem spans scheduling, payments, marketing, team management, and a global consumer marketplace, giving beauty and wellness businesses everything they need to operate, grow, and scale. The Fresha Marketplace connects millions of consumers with salons, spas, barbershops, and wellness studios worldwide, with over one million monthly downloads and more than $1.4 billion in monthly transaction value. To learn more, visit fresha.com.\nContacts\nMedia contact\npress@fresha.com"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

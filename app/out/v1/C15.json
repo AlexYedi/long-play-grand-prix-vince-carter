@@ -1,0 +1,125 @@
+{
+  "company_id": "C15",
+  "company": "Dunmarsh Grid",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 46500,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 190,
+        "end": 202
+      },
+      "quote": "MRR | $46.5K",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 160000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 341,
+        "end": 364
+      },
+      "quote": "Net burn: $160K / month",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 3930000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 367,
+        "end": 379
+      },
+      "quote": "Cash: $3.93M",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 24,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 382,
+        "end": 399
+      },
+      "quote": "Runway: 24 months",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 14,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 233,
+        "end": 247
+      },
+      "quote": "Headcount | 14",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 6,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 207,
+        "end": 228
+      },
+      "quote": "Utility customers | 6",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Sixth utility signed; first investor-owned utility",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 270,
+        "end": 320
+      },
+      "quote": "Sixth utility signed; first investor-owned utility",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "FERC interconnection rule implementation dates keep moving",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C15_dunmarsh_Q3-FY26-deck.md",
+      "source_span": {
+        "start": 422,
+        "end": 480
+      },
+      "quote": "FERC interconnection rule implementation dates keep moving",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

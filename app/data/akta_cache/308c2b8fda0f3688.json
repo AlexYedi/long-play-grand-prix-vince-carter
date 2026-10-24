@@ -1,0 +1,1103 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002z9&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:07:12.001Z",
+  "data": {
+    "data": {
+      "uuid": "00002z9",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 1,
+            "year": 2025
+          },
+          "total_funding_usd": 66500000
+        },
+        "funding_rounds": [
+          {
+            "id": 6178,
+            "date": {
+              "month": 1,
+              "year": 2025
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 292578,
+            "date": {
+              "month": 3,
+              "year": 2022
+            },
+            "round": {
+              "code": "series_a",
+              "label": "Series A"
+            }
+          },
+          {
+            "id": 591885,
+            "date": {
+              "month": 1,
+              "year": 2020
+            },
+            "round": {
+              "code": "seed",
+              "label": "Seed"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Avenir",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0002a2b",
+            "website": "http://avenirgrowth.com"
+          },
+          {
+            "name": "BAM Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00004rp",
+            "website": "http://bam.vc"
+          },
+          {
+            "name": "Threshold",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000awd",
+            "website": "http://threshold.vc"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 5 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Videa sells a subscription-based dental AI platform that combines FDA-cleared X-ray diagnostics, ambient AI scribing for clinical documentation, and automated revenue cycle management workflows for dental practices and Dental Support Organizations. The platform unifies Clinical Assist, Voice Notes, Voice Perio, Daily Dashboard, Insights, Clean Claims, AutoVerify, and ClaimsAI into a single solution sold via annual SaaS subscriptions.",
+        "differentiator": "Most adopted dental AI platform in dentistry with 90,000+ clinicians. 35 FDA-cleared detections (more than double any competitor). Fastest deployment capability - rolled out to 1,500+ practices in under 10 weeks. Only platform covering full dental workflow from diagnostics to revenue cycle management. Strong DSO relationships with 8 of 10 largest DSOs.",
+        "functional_benefit": "20% higher case acceptance rates; 1-2 hours saved per clinician daily; 50% reduction in insurance claim denials; 12% increase in patient treatment acceptance; improved diagnostic accuracy with AI-assisted X-ray analysis; automated clinical documentation; real-time practice analytics; streamlined insurance verification",
+        "problem_solved": "Dental practices struggle with diagnostic inconsistency across providers, excessive administrative burden (documentation, insurance verification, claims), low patient case acceptance rates, and difficulty scaling operations across multiple locations. Videa addresses these by providing AI-assisted diagnostics, automated documentation, streamlined insurance workflows, and practice analytics.",
+        "quantifiable_outcome": [
+          "20% higher case acceptance rate",
+          "1-2 hours saved per clinician per day",
+          "50% reduction in insurance claim denials",
+          "46% more cavities detected by clinicians",
+          "10% decrease in diagnostic errors",
+          "12% increase in patients accepting recommended care",
+          "95%+ sustained platform usage rate",
+          "Up to 20% increase in restorative diagnostic rates",
+          "Up to 15% increase in treatment conversion rates",
+          "$78,268 average additional revenue per practice annually",
+          "13% increase in annual net production"
+        ],
+        "product_overview": "Videa is a comprehensive dental AI platform that offers a unified suite of integrated products for dental practices and Dental Service Organizations (DSOs). The platform architecture includes Clinical Assist (core diagnostic AI with X-ray analysis and patient visualization), Voice Notes (ambient AI scribe for clinical documentation), Voice Perio (hands-free periodontal charting), Daily Dashboard (AI-powered treatment opportunity identification), Insights (clinical analytics and performance benchmarking), Clean Claims (automated claims processing), and AutoVerify (insurance eligibility verification). The platform is built on a proprietary FDA-cleared AI engine that analyzes over 500 million X-rays annually and is deployed across over 90,000 clinicians at 60+ leading DSOs. The platform connects diagnostics, documentation, and daily operations for the chair, front desk, and practice management.",
+        "product_and_service": [
+          {
+            "category": "AI diagnostics / Imaging",
+            "description": "AI-powered diagnostic support tool that analyzes dental X-rays in real time, highlights conditions such as caries, calculus, and periapical radiolucency, and generates colorized patient-friendly visualizations to improve case acceptance and clinical confidence. Built on Videa's FDA-cleared engine with 35 cleared detections.",
+            "name": "Clinical Assist",
+            "source": [
+              "https://videa.ai/platform/clinical-assist"
+            ],
+            "url": "https://videa.ai/platform/clinical-assist"
+          },
+          {
+            "category": "Ambient clinical documentation",
+            "description": "Ambient AI scribe that captures natural chairside conversations during dental appointments and automatically converts them into structured, chart-ready clinical notes using 35+ procedure templates. Eliminates manual charting and reduces after-hours documentation.",
+            "name": "Voice Notes",
+            "source": [
+              "https://www.businesswire.com/news/home/20251029535866/en/VideaHealth-Launches-Voice-Notes-the-First-Ambient-AI-Scribe-Purpose-Built-for-Dentistry"
+            ],
+            "url": "https://videa.ai/platform/voice"
+          },
+          {
+            "category": "Ambient clinical documentation",
+            "description": "Hands-free periodontal charting module that captures pocket depths, bleeding, recession, and mobility during hygiene appointments and writes documentation directly back to supported practice management systems.",
+            "name": "Voice Perio",
+            "source": [
+              "https://videa.ai/platform/voice"
+            ],
+            "url": "https://videa.ai/platform/voice"
+          },
+          {
+            "category": "Treatment opportunity identification",
+            "description": "AI-powered daily practice management tool that surfaces high-probability treatment opportunities from routine X-rays and schedules, featuring OrthoAI and ImplantAI modules that automatically flag candidates for aligner and implant treatment.",
+            "name": "Daily Dashboard",
+            "source": [
+              "https://videa.ai/platform/daily-dashboard"
+            ],
+            "url": "https://videa.ai/platform/daily-dashboard"
+          },
+          {
+            "category": "Practice analytics",
+            "description": "Clinical analytics platform that aggregates data across providers and locations, providing visibility into care delivery, clinical variation, and performance benchmarking to enable proactive improvement and remote coaching.",
+            "name": "Insights",
+            "source": [
+              "https://videa.ai/platform/insights"
+            ],
+            "url": "https://videa.ai/platform/insights"
+          },
+          {
+            "category": "Revenue cycle management",
+            "description": "Automated claims processing solution that reviews claim data before submission, flags missing documentation and coding issues, and reduces avoidable insurance claim denials for faster reimbursement.",
+            "name": "Clean Claims",
+            "source": [
+              "https://videa.ai/platform/clean-claims"
+            ],
+            "url": "https://videa.ai/platform/clean-claims"
+          },
+          {
+            "category": "Revenue cycle management",
+            "description": "AI-driven insurance eligibility verification solution that automates coverage checks across 350+ payers before appointments, reducing manual verification work, phone calls, and coverage surprises.",
+            "name": "AutoVerify",
+            "source": [
+              "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+            ],
+            "url": "https://videa.ai/platform/auto-verify"
+          },
+          {
+            "category": "Revenue cycle management",
+            "description": "AI-driven revenue cycle management solution aimed at reducing claim denials and administrative costs through automated claim processing and revenue recovery improvements.",
+            "name": "ClaimsAI",
+            "source": [
+              "https://www.nasdaq.com/press-release/videahealth-launches-claimsai-tackle-15-billion-dental-rcm-waste-2025-07-30"
+            ],
+            "url": "https://videa.ai"
+          },
+          {
+            "category": "Conversational intelligence / Practice insights",
+            "description": "Conversational intelligence product that extends Videa's Voice AI from documentation into actionable insights, transforming patient-provider exchanges into signals that improve care quality, practice performance, and operational efficiency.",
+            "name": "Ambient Intelligence",
+            "source": [
+              "https://videa.ai/news/videa-launches-ambient-intelligence-extending-voice-ai-from-documentation-to-practice-insights"
+            ],
+            "url": "https://videa.ai/news/videa-launches-ambient-intelligence-extending-voice-ai-from-documentation-to-practice-insights"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Active clinicians using the platform across DSOs and private practices",
+            "source": [
+              "https://videa.ai/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "90,000+"
+          },
+          {
+            "description": "Leading DSOs using Videa platform",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "60+"
+          },
+          {
+            "description": "X-rays analyzed by Videa's FDA-cleared AI annually",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "data_scale",
+              "label": "Data Scale"
+            },
+            "value": "500M+"
+          },
+          {
+            "description": "Of North America's 10 largest DSOs use Videa",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "8 of 10"
+          },
+          {
+            "description": "Of the 10 largest dental networks in North America represented by Videa deployments",
+            "source": [
+              "https://finance.yahoo.com/news/great-expressions-dental-centers-selects-140900700.html"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "80%+"
+          },
+          {
+            "description": "Aspen Dental practices with Videa AI deployment (nationwide rollout)",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203549980/en/VideaHealth-and-Aspen-Dental-Launch-One-of-Dentistrys-Largest-AI-Rollouts-in-Record-Time-Redefining-Patient-Care-Nationwide"
+            ],
+            "type": {
+              "code": "contract_wins",
+              "label": "Contract Wins"
+            },
+            "value": "1,100+"
+          },
+          {
+            "description": "Heartland Dental practices with Videa deployment (rolled out in under 10 weeks)",
+            "source": [
+              "https://videa.ai/case-studies/how-heartland-dental-provided-access-to-videaai-across-1-500-practices-in-less-than-10-weeks"
+            ],
+            "type": {
+              "code": "contract_wins",
+              "label": "Contract Wins"
+            },
+            "value": "1,500+"
+          },
+          {
+            "description": "Great Expressions Dental Centers practices with Videa deployment",
+            "source": [
+              "https://finance.yahoo.com/news/great-expressions-dental-centers-selects-140900700.html"
+            ],
+            "type": {
+              "code": "contract_wins",
+              "label": "Contract Wins"
+            },
+            "value": "210+"
+          },
+          {
+            "description": "FDA-cleared detections - more than double any other AI vendor in dentistry",
+            "source": [
+              "https://videa.ai/why-videa"
+            ],
+            "type": {
+              "code": "technical_performance",
+              "label": "Technical Performance"
+            },
+            "value": "35"
+          },
+          {
+            "description": "Sustained usage rate of Videa platform",
+            "source": [
+              "https://videa.ai/why-videa"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "95%"
+          },
+          {
+            "description": "Higher case acceptance rate using Videa Clinical Assist",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "20%"
+          },
+          {
+            "description": "Saved per clinician per day through automated documentation with Voice Notes",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "1-2 hours"
+          },
+          {
+            "description": "Reduction in insurance claim denials using Clean Claims",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "50%"
+          },
+          {
+            "description": "Increase in patients accepting recommended care at Aspen Dental pilot offices",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203549980/en/VideaHealth-and-Aspen-Dental-Launch-One-of-Dentistrys-Largest-AI-Rollouts-in-Record-Time-Redefining-Patient-Care-Nationwide"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "12%"
+          },
+          {
+            "description": "More cavities detected by clinicians using Videa (joint study with Heartland Dental)",
+            "source": [
+              "https://www.videa.ai/blog-posts/3-benefits-of-ai-in-dentistry"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "46%"
+          },
+          {
+            "description": "Decrease in diagnostic errors using Videa (joint study with Heartland Dental)",
+            "source": [
+              "https://www.videa.ai/blog-posts/3-benefits-of-ai-in-dentistry"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "10%"
+          },
+          {
+            "description": "Inc. 5000 ranking 2025 - highest ranking of any dental organization in any category",
+            "source": [
+              "https://videa.ai/why-videa"
+            ],
+            "type": {
+              "code": "brand_reputation",
+              "label": "Brand Reputation"
+            },
+            "value": "#28"
+          },
+          {
+            "description": "6-week nationwide rollout at Aspen Dental (1,100+ practices)",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203549980/en/VideaHealth-and-Aspen-Dental-Launch-One-of-Dentistrys-Largest-AI-Rollouts-in-Record-Time-Redefining-Patient-Care-Nationwide"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "Record time"
+          },
+          {
+            "description": "2-week deployment at Great Expressions Dental Centers (210+ practices)",
+            "source": [
+              "https://videa.ai/news/great-expressions-dental-centers-selects-videaai-as-its-enterprise-dental-ai-platform-to-support-clinical-empowerment-and-patient-outcomes"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "Record time"
+          },
+          {
+            "description": "10-week rollout at Heartland Dental (1,500+ practices)",
+            "source": [
+              "https://videa.ai/case-studies/how-heartland-dental-provided-access-to-videaai-across-1-500-practices-in-less-than-10-weeks"
+            ],
+            "type": {
+              "code": "operational_performance",
+              "label": "Operational Performance"
+            },
+            "value": "Record time"
+          },
+          {
+            "description": "Series B funding round led by Threshold Ventures, November 2025",
+            "source": [
+              "https://www.videa.ai/news/videahealth-raises-40m-in-oversubscribed-series-b-funding-to-revolutionize-dental-care-with-ai-driven-solutions"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$40M"
+          },
+          {
+            "description": "Series A funding round, March 2022",
+            "source": [
+              "https://www.videa.ai/news/videahealth-raises-20-million-to-expand-ai-in-the-dentists-chair-for-millions-of-patients"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$20M"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 5,
+              "month": 11,
+              "year": 2025
+            },
+            "description": "Strategic integration partnership embedding Videa AI into Dentrix and Dentrix Ascend platforms. Joint development of Next Generation Clinical Workflow with AWS integration. Includes Impact Panel for AI-driven patient education.",
+            "name": "Henry Schein One",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0002mbt"
+          },
+          {
+            "announced_on": {
+              "month": 6,
+              "year": 2024
+            },
+            "description": "Commercial collaboration combining Videa AI detection with vVARDIS Curodont Repair Fluoride Plus for early-stage caries treatment. Over 400,000 patients treated through this partnership.",
+            "name": "vVARDIS",
+            "source": [
+              "https://www.videa.ai/news/over-400-000-patients-experience-early-intervention-dentistry-as-vvardis-and-videahealth-use-ai-enabled-and-non-invasive-dentistry"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "0000ges"
+          },
+          {
+            "announced_on": {
+              "day": 29,
+              "month": 1,
+              "year": 2026
+            },
+            "description": "Partnership expands DEO member access to Videa AI tools for clinical decision-making, workflow streamlining, and operational efficiency. Joint marketing to dental entrepreneurs.",
+            "name": "Dentist Entrepreneur Organization (DEO)",
+            "source": [
+              "https://videa.ai/news/videahealth-partners-with-deo-to-bring-ai-powered-clinical-insights-to-growth-minded-dental-entrepreneurs"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0009xbw"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Enterprise customer deployed Videa across 210+ practices in 2 weeks. Dr. Jessica Buehler serves on Videa AI Leadership Council.",
+            "name": "Great Expressions Dental Centers",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0007p8f"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Largest DSO customer with 1,500+ practices. Dr. Timothy Quirt and Dr. Seth Gibree serve on Videa AI Leadership Council. Ongoing strategic partnership.",
+            "name": "Heartland Dental",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0004fqr"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Dr. Michael Scialabba serves on Videa AI Leadership Council as Chief Clinical and Operations Officer. Strategic partnership for AI deployment.",
+            "name": "42 North Dental",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0008u4k"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Dr. Mitchell Ellingson serves on Videa AI Leadership Council as Chief Clinical Officer. Strategic AI partnership across 100+ locations.",
+            "name": "Gen4 Dental Partners",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "00021vm"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Lorri Detrick serves on Videa AI Leadership Council as President and COO. Strategic AI partnership.",
+            "name": "Riccobene Associates",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "00067wb"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Steve Sorrel serves on Videa AI Leadership Council as Co-Founder and President. Strategic AI partnership.",
+            "name": "Cherry Tree Dental",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0008zsw"
+          },
+          {
+            "announced_on": {
+              "day": 21,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Dr. Arwinder Judge serves on Videa AI Leadership Council as Chief Dental Officer. Aspen Dental completed nationwide rollout of Videa across 1,100+ practices.",
+            "name": "The Aspen Group",
+            "source": [
+              "https://videa.ai/news/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "000f9np"
+          },
+          {
+            "description": "Dr. Aman Kaur from Women In DSO collaborated on oral-systemic connection webinar discussing AI in dentistry.",
+            "name": "Women In DSO",
+            "source": [
+              "https://videa.ai/resources"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00so859"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Raised a $40M oversubscribed Series B led by Threshold Ventures (with Avenir, BAM Corner Point, Spark Capital, Zetta Venture Partners, Pillar VC) to scale platform, expand into Canada, and broaden product offerings into RCM.",
+            "source": [
+              "https://www.videa.ai/news/videahealth-raises-40m-in-oversubscribed-series-b-funding-to-revolutionize-dental-care-with-ai-driven-solutions"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "month": 11,
+              "year": 2025
+            },
+            "description": "Established strategic integration partnership with Henry Schein One embedding Videa AI inside Dentrix and Dentrix Ascend, enabling one-click AI activation across the dominant North American PMS installed base.",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 10,
+              "year": 2025
+            },
+            "description": "Launched Voice Notes, the first ambient AI scribe purpose-built for dentistry, capturing chairside dialogue and generating structured chart-ready notes via 35+ procedure templates.",
+            "source": [
+              "https://videa.ai/webinars/oral-systemic-connection-webinar"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Rebranded from VideaHealth to Videa and expanded the platform from DSO-only to independent private dental practices, materially expanding the addressable customer base.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "month": 1,
+              "year": 2026
+            },
+            "description": "Launched AutoVerify, an AI-driven insurance eligibility verification product connecting to 350+ payers, expanding the platform from diagnostics into the full revenue cycle workflow.",
+            "source": [
+              "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Completed nationwide deployment of Videa AI across 1,100+ Aspen Dental practices in six weeks, validating enterprise-scale rollout speed and adding the largest single logo in deployment scale.",
+            "source": [
+              "https://videa.ai/news/videahealth-and-aspen-dental-launch-one-of-dentistrys-largest-ai-rollouts-in-record-time-redefining-patient-care-nationwide"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "VideaHealth announced its rebrand to Videa and the expansion of its dental AI platform to independent private dental practices, transitioning from years of serving primarily larger dental service organizations to now supporting all practice sizes.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ],
+            "title": "VideaHealth Rebrand to Videa",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "April 2026 rebrand from VideaHealth to Videa explicitly extends go-to-market from large DSOs to independent private dental practices, materially widening the addressable customer base from a few hundred enterprise accounts to hundreds of thousands of SMB practices.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Geographic expansion into Canada via 123Dentist (400+ clinics nationwide) and 2025 Series B funding earmarked for market expansion indicate active internationalization beyond the US core.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "Product surface expansion from diagnostics (Clinical Assist) into ambient documentation (Voice Notes Oct 2025, Voice Perio), revenue cycle management (ClaimsAI July 2025, AutoVerify Jan 2026), and conversational intelligence (Ambient Intelligence May 2026) signals a deliberate platform breadth strategy covering the full chair-to-claim workflow.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Embedded distribution partnership with Henry Schein One inside Dentrix and Dentrix Ascend (Nov 2025) creates a channel-led motion that bypasses direct sales friction and unlocks the long tail of practices on those PMS platforms.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "$40M oversubscribed Series B led by Threshold Ventures (Jan 2025) explicitly earmarked for platform scaling, geographic expansion, and product broadening — a clear funding-signal of expansion capacity.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          },
+          {
+            "description": "Launch of the AI Leadership Council (Jan 2026) — with CMOs/CSOs from Aspen, Heartland, 42 North, Gen4, Riccobene, Cherry Tree, and Great Expressions — and partnership with the Dentist Entrepreneur Organization (DEO, Jan 2026) constitute ecosystem buildout designed to entrench category standards and shape buyer preference.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "25m_50m",
+          "label": "$25M-$50M"
+        },
+        "valuation_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Videa (legal entity Videa Health, Inc., founded 2018 out of MIT by Florian Hillen, headquartered in Boston, MA) is the most adopted dental AI platform in North America, used by 90,000+ clinicians across 60+ leading Dental Support Organizations (DSOs) including 8 of North America's 10 largest DSOs and 80%+ of the top 10 dental networks. The company rebranded from VideaHealth to Videa in April 2026 when it expanded go-to-market beyond enterprise DSOs to independent private dental practices. It has raised $60M+ across Series A and Series B rounds led by Spark Capital and Threshold Ventures, respectively.",
+        "strengths": [
+          {
+            "details": "Videa has evolved from a single-feature X-ray detector to a unified platform spanning Clinical Assist, Voice Notes, Voice Perio, Daily Dashboard, Insights, Clean Claims, AutoVerify, ClaimsAI, and the new Ambient Intelligence category. Each new module layers onto the same FDA-cleared engine and embedded Dentrix deployment, turning each practice into a multi-product account and materially expanding ARR per site over time.",
+            "headline": "Platform expansion from diagnostics to full revenue cycle unlocks massive wallet share.",
+            "source": [
+              "https://videa.ai/news/videa-launches-ambient-intelligence-extending-voice-ai-from-documentation-to-practice-insights"
+            ]
+          },
+          {
+            "details": "With 500M+ X-rays analyzed annually and ~90,000 clinicians feeding real-world feedback, Videa's training corpus and benchmarking insights (e.g., Insights product) widen every quarter — a flywheel that is structurally hard for late entrants to replicate and should drive widening accuracy advantages and stickier renewals.",
+            "headline": "Data-network effects compound with every X-ray analyzed at scale.",
+            "source": [
+              "https://videa.ai/why-videa"
+            ]
+          },
+          {
+            "details": "One-click activation inside Dentrix and Dentrix Ascend positions Videa as the default AI layer across the largest PMS installed base. As the April 2026 rebrand opens the independent-practice segment, this embedment should drive low-CAC land-and-expand into tens of thousands of additional practices without a proportionate salesforce expansion.",
+            "headline": "Embedded Henry Schein One partnership unlocks the long tail of independent practices.",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ]
+          },
+          {
+            "details": "Clean Claims and AutoVerify target claim denials (50% reduction in early results) and eligibility verification (95%+ payer coverage), addressing roughly $15B in dental RCM waste per company commentary. Scaling these modules converts Videa from a clinical-AI vendor into a margin-recovery platform, materially expanding the revenue envelope per customer.",
+            "headline": "AI-led revenue cycle management attacks a large, under-digitized dental RCM market.",
+            "source": [
+              "https://videa.ai/news/videahealth-launches-autoverify-to-bring-speed-and-accuracy-to-insurance-eligibility-checks"
+            ]
+          },
+          {
+            "details": "North American DSOs are rapidly consolidating, and Videa already covers 8 of the 10 largest networks. As those customers grow via M&A and as Tier-2/3 DSOs professionalize, Videa's proven multi-week enterprise rollout playbook (Aspen 6 weeks, Heartland 10 weeks, Great Expressions 2 weeks) should translate into faster, larger enterprise wins with limited incremental go-to-market cost.",
+            "headline": "DSO consolidation tailwind accelerates both land and expand.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "With Aspen and Heartland alone representing ~2,600+ practices of Videa's footprint, any multi-year renewal reset, in-house AI build, or partial rollout contraction at these accounts would compress revenue and operating leverage in lockstep — a vulnerability that grows as the company adds fewer, larger customers before broader diversification.",
+            "headline": "Mega-DSO renewals concentrate revenue risk at scale.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203549980/en/VideaHealth-and-Aspen-Dental-Launch-One-of-Dentistrys-Largest-AI-Rollouts-in-Record-Time-Redefining-Patient-Care-Nationwide"
+            ]
+          },
+          {
+            "details": "Videa's 35 FDA-cleared detections are described as more than double any competitor, but competitors such as Pearl and Overjet are steadily accumulating clearances of their own. Once a rival approaches parity on detection breadth and accuracy, pricing power, win rates, and renewal economics will all come under pressure.",
+            "headline": "Competitor parity on FDA clearances could erode the '2x' moat.",
+            "source": [
+              "https://videa.ai/why-videa"
+            ]
+          },
+          {
+            "details": "The April 2026 pivot to independent practices requires a fundamentally different sales motion (low-touch, demo-driven, likely smaller average contract values) than the existing DSO field-sales engine. If SMB conversion lags or churn rises, customer acquisition costs could balloon before unit economics mature, compressing margins even as headline clinician count grows.",
+            "headline": "Independent-practice expansion could dilute margins on an unproven SMB motion.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          },
+          {
+            "details": "Embedded Dentrix and Dentrix Ascend integrations are core to Videa's go-to-market; a strategic dispute, exclusivity shift to a rival AI vendor, or material change in Henry Schein One's AI roadmap could simultaneously affect activation, upsell, and competitive positioning across a large portion of Videa's installed base.",
+            "headline": "Henry Schein One channel concentration is a single point of failure.",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ]
+          },
+          {
+            "details": "As Videa pushes into higher-risk categories — Ambient Intelligence, AI-driven revenue cycle decisions, OrthoAI/ImplantAI — it will face more demanding FDA, payer, and clinical-oversight scrutiny. Any forced re-clearance, post-market surveillance event, or new AI-specific rules could delay launches and raise compliance costs at exactly the moment the company is scaling into new modules.",
+            "headline": "Increasing AI and SaMD regulatory scrutiny could slow product velocity.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Videa's AI analyzes 500M+ dental X-rays annually, creating an unparalleled proprietary training dataset that compounds with scale and is not replicable by new entrants. This data flywheel underpins the 35 FDA-cleared detections — more than double any other dental AI vendor.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Embedded inside Henry Schein One's Dentrix and Dentrix Ascend platforms, plus integrations with OpenDental, Patterson, Planet DDS, SOTA Dental, ClearDent, and Dentsply Sirona, Videa reaches the installed base of major practice management systems. 8 of North America's 10 largest DSOs and 60+ leading DSOs are deployed, representing 80%+ of the top 10 dental networks.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "35 FDA-cleared detections for dental conditions (caries, calculus, periapical radiolucency, and others) constitute a regulatory moat requiring clinical validation that competitors must replicate, doubling the next-best vendor's count.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "Deep integration with practice management systems (Dentrix, OpenDental, Patterson, Trinity), workflow embedding at chairside and front desk, and clinician training on AI-assisted diagnostics create meaningful friction — sustained 95% usage rate evidences stickiness.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "90,000+ active clinicians generate continuous usage data and clinical feedback that improve detection accuracy and template coverage (e.g., 35+ Voice Notes procedure templates), producing a learning flywheel that benefits existing and new customers.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "MIT-originated brand pedigree, clinical leadership via the AI Leadership Council with CMOs/CSOs of major DSOs (Aspen, Heartland, 42 North, Gen4), and a 2025 Inc. 5000 rank of #28 (highest of any dental organization in any category) reinforce category leadership.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Just two customers (Aspen Dental at 1,100+ practices and Heartland Dental at 1,500+ practices) account for a very large share of deployed endpoints. Loss or downsizing of either account would materially impact revenue and operating leverage.",
+            "headline": "Heavy customer concentration in a few mega-DSOs creates renewal and churn concentration risk.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260203549980/en/VideaHealth-and-Aspen-Dental-Launch-One-of-Dentistrys-Largest-AI-Rollouts-in-Record-Time-Redefining-Patient-Care-Nationwide"
+            ]
+          },
+          {
+            "details": "Companies such as Pearl and Overjet are pursuing the same dental imaging AI category with similar FDA-clearance roadmaps; differentiation must be defended continuously, and competitor parity on detection count could erode the current '2x' advantage over time.",
+            "headline": "Crowded competitive landscape in dental AI from well-funded rivals.",
+            "source": [
+              "https://videa.ai/why-videa"
+            ]
+          },
+          {
+            "details": "Significant go-to-market leverage flows through Dentrix/Dentrix Ascend; a Henry Schein One strategy shift, pricing dispute, or competing AI partnership could compress Videa's activation funnel and embedment in core PMS workflows.",
+            "headline": "Distribution dependency on Henry Schein One's Dentrix ecosystem is a structural channel risk.",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ]
+          },
+          {
+            "details": "The April 2026 rebrand explicitly expanded Videa from large DSOs to independent private practices, moving from field-sales to high-velocity SMB sales without historical traction data — execution risk on unit economics and CAC in a fragmented long-tail market.",
+            "headline": "New SMB / independent-practice GTM is unproven after a long enterprise-only focus.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          },
+          {
+            "details": "Operating at 51–100 employees while serving 90,000+ clinicians, 1,500+ practices at the largest customer, and multiple regulated SaaS products elevates concentration risk on founder/CEO Florian Hillen and limits resilience if key clinical or regulatory staff depart.",
+            "headline": "Key-person and founder dependency with very lean headcount for the operational footprint.",
+            "source": [
+              "https://videa.ai/our-company"
+            ]
+          },
+          {
+            "details": "Sales depend on continuing to hold FDA clearances across an expanding set of detections; any future adverse event report, recall, or tightening of FDA's SaMD/AI/ML oversight framework could disrupt launches such as Ambient Intelligence and upcoming AI capabilities.",
+            "headline": "Regulatory and clinical-liability exposure from being an FDA-regulated SaMD.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Videa is used by 90,000+ active clinicians at 60+ leading DSOs and processes 500M+ X-rays annually. This scale provides both a defensible training-data advantage and embedded workflow presence.",
+            "headline": "Massive clinical user base of 90,000+ active clinicians across 60+ DSOs creates a strong data and distribution moat.",
+            "source": [
+              "https://videa.ai/"
+            ]
+          },
+          {
+            "details": "Videa's Clinical Assist has 35 FDA-cleared dental condition detections (caries, calculus, periapical radiolucency, etc.), explicitly described as more than double any other AI vendor in dentistry. This regulatory barrier is hard for competitors to match quickly.",
+            "headline": "Regulatory moat: 35 FDA-cleared AI detections, more than double any competing dental AI vendor.",
+            "source": [
+              "https://videa.ai/why-videa"
+            ]
+          },
+          {
+            "details": "Including deployments at Aspen Dental (1,100+ practices), Heartland Dental (1,500+ practices), and Great Expressions (210+ practices). 80%+ of the 10 largest North American dental networks are on Videa — exceptional distribution depth.",
+            "headline": "Deep enterprise entrenchment: 8 of North America's 10 largest DSOs run on Videa.",
+            "source": [
+              "https://aijourn.com/videahealth-unveils-rebrand-and-expands-the-most-adopted-dental-ai-platform-to-private-practices/"
+            ]
+          },
+          {
+            "details": "Customers report 46% more cavities detected, 10% drop in diagnostic errors, 20% higher case acceptance, 50% reduction in claim denials, and $78,268 average additional annual revenue per practice with 95% sustained usage — compelling payback that supports expansion and renewals.",
+            "headline": "Quantified, strong customer ROI drives high sustained usage and case-acceptance lift.",
+            "source": [
+              "https://www.videa.ai/blog-posts/3-benefits-of-ai-in-dentistry"
+            ]
+          },
+          {
+            "details": "Videa deployed to 1,500+ Heartland Dental practices in under 10 weeks, 1,100+ Aspen Dental practices in 6 weeks, and 210+ Great Expressions practices in 2 weeks — execution speed that materially lowers customer onboarding friction.",
+            "headline": "Record-time enterprise rollouts prove operational excellence and product readiness.",
+            "source": [
+              "https://videa.ai/case-studies/how-heartland-dental-provided-access-to-videaai-across-1-500-practices-in-less-than-10-weeks"
+            ]
+          },
+          {
+            "details": "Raised $40M Series B (Nov 2025) led by Threshold Ventures with participation from Avenir, BAM Corner Point, Spark Capital, Zetta Venture Partners, and Pillar VC, on top of $20M Series A in 2022 — total ~$60M raised with the round explicitly described as oversubscribed.",
+            "headline": "Strong capital base with oversubscribed Series B led by a top-tier growth investor.",
+            "source": [
+              "https://www.videa.ai/news/videahealth-raises-40m-in-oversubscribed-series-b-funding-to-revolutionize-dental-care-with-ai-driven-solutions"
+            ]
+          },
+          {
+            "details": "Videa is embedded directly within Dentrix and Dentrix Ascend via Henry Schein One, plus integrations with OpenDental, Patterson, SOTA Dental, Dentsply Sirona, ClearDent, and Planet DDS — one-click AI activation across the dominant PMS installed base in North America.",
+            "headline": "Embedded partnership with Henry Schein One creates a structural distribution moat.",
+            "source": [
+              "https://www.stocktitan.net/news/HSIC/dentrix-ascend-introduces-next-generation-clinical-workflow-built-u4jvelwaldb3.html"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer base is anchored by a small number of very large DSO contracts: Heartland Dental (1,500+ practices), Aspen Dental (1,100+ practices), 123Dentist (400+ clinics), Great Expressions (210+ practices), plus 8 of the 10 largest North American DSOs collectively. While 90,000+ clinicians provide a wide user footprint, the revenue concentration sits with the top enterprise DSO logos, and 80%+ of the top 10 dental networks depend on Videa. The April 2026 rebrand explicitly addresses this risk by opening the independent-practice long tail, but until that motion matures, churn or contraction at any top-3 DSO would represent material revenue exposure.",
+          "classification": {
+            "code": "High",
+            "label": "High"
+          }
+        },
+        "peers": [
+          {
+            "description": "Cloud dental practice management platform (Denticon) used by many DSOs and a Videa integration partner. Comparable as a dental SaaS incumbent where AI features are becoming a competitive dimension overlapping with Videa's platform.",
+            "name": "Planet DDS",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005yzu"
+          },
+          {
+            "description": "Cloud dental practice management and analytics platform targeted at DSOs and group practices with built-in AI/voice features. Comparable as an emerging SaaS player pushing into AI-driven documentation and analytics that overlap with Videa's Voice Notes and Insights modules.",
+            "name": "tab32",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0006x5c"
+          },
+          {
+            "description": "Cloud-native dental practice management software vendor serving small and mid-sized practices. Comparable as an ecosystem participant in the dental SaaS stack where AI features (including potentially Videa's) are increasingly embedded or competed against.",
+            "name": "Curve Dental",
+            "type": {
+              "code": "others",
+              "label": "Others"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "description": "Major dental distribution and technology incumbent (Patterson Dental, Fuse, Eaglesoft) with technology integration relationships across dental AI vendors including Videa. Comparable as a large dental software/hardware incumbent operating across the practice workflow stack.",
+            "name": "Patterson Dental",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0007tmc"
+          },
+          {
+            "description": "Largest dental equipment and digital workflow vendor with integrated imaging, CAD/CAM, and practice solutions, and a Videa integration partner. Comparable as a broad incumbent expanding into AI-driven diagnostics that competes for the same DSO budgets.",
+            "name": "Dentsply Sirona",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000jt5"
+          },
+          {
+            "description": "Dominant dental practice-management software vendor behind Dentrix and Dentrix Ascend, and Videa's largest distribution partner. Acts both as channel (embedding Videa AI) and as a broad incumbent that could expand into competing AI features or partner with rival dental AI vendors.",
+            "name": "Henry Schein One",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0002mbt"
+          },
+          {
+            "description": "Belgian/European dental AI and 3D imaging software company (Relu Creator, Relu Cloud) used in dental labs and clinics. Comparable as a dental AI/imaging software peer but with a more European, lab-focused footprint.",
+            "name": "Relu (Relu Technology)",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0002vdg"
+          },
+          {
+            "description": "Direct dental AI competitor providing FDA-cleared radiographic analysis and clinical insights for DSOs and insurance payers. Closely comparable to Videa's Clinical Assist and Insights modules, with overlapping DSO customer base and similar go-to-market motion.",
+            "name": "Overjet",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002m5"
+          },
+          {
+            "description": "Direct competitor offering FDA-cleared AI for dental radiographic detection (Second Opinion). Operates in the same dental imaging AI category Videa pioneered, targeting DSOs and practices with similar computer-vision-based caries and pathology detection.",
+            "name": "Pearl",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002dz"
+          },
+          {
+            "description": "Emerging dental AI imaging player offering caries and pathology detection on dental X-rays. Competes in the same FDA-cleared dental imaging AI category but with narrower product breadth and earlier-stage scale than Videa.",
+            "name": "Dentistry.AI",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "003g9il"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

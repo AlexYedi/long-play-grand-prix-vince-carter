@@ -1,0 +1,66 @@
+{
+  "source": "Clay workspace Mayor-of-New-Jack-City, task mcp-task_0tnfbk3dgmZ4UdTx2iG (Latest Funding, Headcount Growth), fetched 2026-10-24",
+  "note": "Overjet not matched in Clay. Clay 'Latest Funding' for Planet DDS returned $0 (PE-backed); treat as unknown.",
+  "rows": [
+    {
+      "company": "Overjet",
+      "akta_headcount": 363,
+      "clay_headcount": null,
+      "akta_growth_12m_pct": 23,
+      "clay_growth_12m_pct": null,
+      "clay_latest_funding": null,
+      "agree_headcount": false,
+      "growth_gap_pts": null
+    },
+    {
+      "company": "Pearl",
+      "akta_headcount": 286,
+      "clay_headcount": 286,
+      "akta_growth_12m_pct": 17,
+      "clay_growth_12m_pct": 16.94,
+      "clay_latest_funding": "$58,000,000",
+      "agree_headcount": true,
+      "growth_gap_pts": 0.1
+    },
+    {
+      "company": "Videa",
+      "akta_headcount": 184,
+      "clay_headcount": 184,
+      "akta_growth_12m_pct": 29,
+      "clay_growth_12m_pct": null,
+      "clay_latest_funding": "$40,000,000",
+      "agree_headcount": true,
+      "growth_gap_pts": null
+    },
+    {
+      "company": "CareStack",
+      "akta_headcount": 766,
+      "clay_headcount": 766,
+      "akta_growth_12m_pct": -10,
+      "clay_growth_12m_pct": -6.22,
+      "clay_latest_funding": "$28,000,000",
+      "agree_headcount": true,
+      "growth_gap_pts": 3.8
+    },
+    {
+      "company": "Planet DDS",
+      "akta_headcount": 440,
+      "clay_headcount": 440,
+      "akta_growth_12m_pct": 13,
+      "clay_growth_12m_pct": 13.73,
+      "clay_latest_funding": "$0",
+      "agree_headcount": true,
+      "growth_gap_pts": 0.7
+    },
+    {
+      "company": "Weave",
+      "akta_headcount": 1203,
+      "clay_headcount": 1203,
+      "akta_growth_12m_pct": 6,
+      "clay_growth_12m_pct": 10.9,
+      "clay_latest_funding": "$110,000,000",
+      "agree_headcount": true,
+      "growth_gap_pts": 4.9
+    }
+  ]
+}

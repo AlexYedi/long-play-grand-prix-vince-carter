@@ -1,0 +1,125 @@
+{
+  "company_id": "C03",
+  "company": "Ossmere Health",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 71250,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 309,
+        "end": 346
+      },
+      "quote": "Recurring revenue, September: $71,250",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 205000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 738,
+        "end": 774
+      },
+      "quote": "| Monthly net burn | $190K | $205K |",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 3620000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 775,
+        "end": 818
+      },
+      "quote": "| Cash (end of quarter) | $4.20M | $3.62M |",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 819,
+        "end": 845
+      },
+      "quote": "| Runway | 22 mo | 18 mo |",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 18,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 620,
+        "end": 643
+      },
+      "quote": "FTEs at quarter end: 18",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 349,
+        "end": 389
+      },
+      "quote": "Clinic groups live: 11 (+2 this quarter)",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Signed a 40-clinic regional cardiology group, the company's largest contract to date",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 392,
+        "end": 466
+      },
+      "quote": "Signed a 40-clinic regional cardiology group, our largest contract to date",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "CMS proposed rule could cut the remote-monitoring reimbursement code by ~12% in 2027",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 868,
+        "end": 952
+      },
+      "quote": "CMS proposed rule could cut the remote-monitoring reimbursement code by ~12% in 2027",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

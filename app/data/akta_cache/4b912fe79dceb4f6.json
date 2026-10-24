@@ -1,0 +1,494 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=000049s&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:54.081Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 24316244,
+        "title": "Earn calmly while they relax: 10 best spa management software for hotels",
+        "url": "https://coaxsoft.com/blog/10-best-spa-management-software-for-hotels",
+        "publisher": "COAX Software",
+        "published_date": "2026-04-10T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5979,
+        "ai_summary": "This article is a comprehensive buying guide reviewing 10 spa management software platforms for hotel spas, including Book4Time, Zenoti, Mindbody, HOTELTIME, Trybe, Crqlar, Vagaro, Mangomint, Boulevard, and Anolla, covering their features, pricing models, target users, and key integrations. The article also discusses critical PMS integrations, implementation best practices, and positions custom software development as an alternative for hotels with complex requirements. COAX Software published the guide as promotional content for its custom development services.",
+        "word_count": 7798,
+        "original_language": "EN",
+        "author": "Go To Author Pageivan Verkaletscto",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Point-of-Sale (POS) & On-Property Commerce",
+            "code": "THALACAI",
+            "is_primary": true
+          },
+          {
+            "name": "Vacation Rental & Short-Stay Booking Engines",
+            "code": "THALADAB",
+            "is_primary": false
+          },
+          {
+            "name": "Customer Support, Case Management & Service Automation for TMCs",
+            "code": "THALAMAO",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          },
+          {
+            "name": "Debt Financing",
+            "code": "CM02",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0009kl8",
+            "name": "COAX Software",
+            "website": "https://coaxsoft.com/?utm_source=crunchbase&utm_medium=refferal&utm_campaign=directory",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002uwf",
+            "name": "Book4Time",
+            "website": "http://www.book4time.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0002j5r",
+            "name": "Mindbody",
+            "website": "https://www.mindbodyonline.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000gop7",
+            "name": "HotelTime Solutions",
+            "website": "https://www.hoteltime.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0008n5q",
+            "name": "Trybe",
+            "website": "https://try.be/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005dt",
+            "name": "Boulevard",
+            "website": "https://joinblvd.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0003eye",
+            "name": "Crqlar",
+            "website": "https://www.crqlar.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003w9",
+            "name": "Zenoti",
+            "website": "http://www.zenoti.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00007y4",
+            "name": "Mangomint",
+            "website": "https://www.mangomint.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000333",
+            "name": "hotel and accommodation"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "671",
+            "name": "Travel"
+          },
+          {
+            "code": "668",
+            "name": "Travel"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "5615",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "maryna verbovska",
+            "samkange",
+            "ivan verkalets",
+            "mandelbaum",
+            "grigg",
+            "casillo"
+          ],
+          "location": [
+            "u.s.",
+            "european",
+            "iceland",
+            "eu"
+          ],
+          "product": [
+            "hoteltime",
+            "zenoti",
+            "trybe",
+            "mindbody",
+            "book4time",
+            "vagaro",
+            "mangomint",
+            "anolla",
+            "crqlar",
+            "boulevard",
+            "spa management software",
+            "coax software",
+            "hotel spa software",
+            "spa software",
+            "hotel spa management software",
+            "rooms",
+            "spa appointment software",
+            "software",
+            "spa booking software",
+            "wellness software",
+            "spa accounting software",
+            "spa reservation software",
+            "spa business management software",
+            "spa platform",
+            "booking engine",
+            "spa scheduling software",
+            "apple pay",
+            "gift cards",
+            "google pay",
+            "retail products",
+            "visbook",
+            "roomraccoon",
+            "anolla hotel spas",
+            "libero spa module",
+            "spa cloud software",
+            "mobile app",
+            "oracle opera",
+            "spa module",
+            "branded spa software app",
+            "payment processor",
+            "accounting tool",
+            "platform",
+            "payment gateway",
+            "spa software app",
+            "android",
+            "ios",
+            "mobile spa software",
+            "web platforms",
+            "off-the-shelf platforms",
+            "wellness platforms",
+            "booking widget",
+            "packaged software",
+            "off-the-shelf software",
+            "spa manager software",
+            "spa management system"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9394,
+        "group_id": 183927,
+        "full_text": "Go to author page Ivan Verkalets CTO, Co-Founder COAX Software Go to author page Maryna Verbovska Content writer Earn calmly while they relax: 10 best spa management software for hotels Published: Apr 10, 2026 Updated: Apr 10, 2026 0 min read Summarize: ChatGPT Perplexity Claude Grok Google AI Table of Contents What is spa management software?\n\nWhy hotels need spa management software\n\nKey features of spa management software\n\nCritical integrations for hotel spa systems\n\nBest hotel spa management software\n\nHow to choose the right spa software\n\nImplementation best practices\n\nFAQ Stay with us: COAX Linkedin button COAX Dribbble button At 1 am, your hotel’s guest decides they desperately need a hot stone massage in the morning. What are their next steps? Should they wait till the front desk opens to find out everything is booked? Meanwhile, the 9 am guest doesn’t show, costing you the business and your guest the self-care moment. They leave a negative review of your inefficient spa booking. Or maybe it’s time to get some good spa management software and let them book in a few taps, knowing availability in real-time? We compiled a list of the best options to choose from: Book4Time is the choice for luxury hotel chains needing deep PMS connectivity.\n\nis the choice for luxury hotel chains needing deep PMS connectivity. Zenoti works best for multi-location franchise operators running dozens of properties.\n\nworks best for multi-location franchise operators running dozens of properties. Mindbody suits hospitality and wellness businesses that want marketplace exposure.\n\nsuits hospitality and wellness businesses that want marketplace exposure. HOTELTIME gives hotel spas full scheduling functionality without the enterprise price.\n\ngives hotel spas full scheduling functionality without the enterprise price. Trybe fits boutique and multi-property hotels that want modern and simple UX.\n\nfits boutique and multi-property hotels that want modern and simple UX. Crqlar is the GDPR-native pick for independent European hotels wanting solid basics at a low monthly cost.\n\nis the GDPR-native pick for independent European hotels wanting solid basics at a low monthly cost. Vagaro serves well for independent spa and salon owners who need broad functionality at an accessible price.\n\nserves well for independent spa and salon owners who need broad functionality at an accessible price. Mangomint is built by spa owners for spa owners, and the interface reflects that.\n\nis built by spa owners for spa owners, and the interface reflects that. Boulevard serves larger independent spas where retention is a core revenue strategy.\n\nserves larger independent spas where retention is a core revenue strategy. Anolla is the AI-native option for wellness centers ready to automate guest communication.\n\nis the AI-native option for wellness centers ready to automate guest communication. Custom development wins when your workflows, integrations, or brand identity have outgrown any packaged tool. If you want to give zen to your guests and spa receptionists (and unite it with accounting, management, and marketing), this guide is for you. We cover the main users, features, and key integrations you need for your hotel spa software needs. Then, we review the top off-the-shelf tools and compare them to a fully custom roadmap (with some insider tips). ‍ What is spa management software? Spa management software is a purpose-built digital platform that handles the operational and business side of running a spa. It covers everything from booking appointments and tracking client histories to processing payments, managing staff schedules, and reporting revenue. Overall, it’s the nervous system of a spa business. Without it, everything runs on clipboards, spreadsheets, and memory, while with it, the whole operation connects. According to Samkange and his team, operations management in a spa context means transforming inputs such as staff, proprietary treatments, and physical facilities into measurable guest experiences. Spa management software is the tool that makes this transformation trackable, repeatable, and profitable. Market overview The global spa industry hit $18.1 billion in revenue in 2021, a 49% jump from the year before, with 173 million visits recorded in the U.S. alone. Globally, the market is on track to exceed $185 billion by 2030. The hotel spa software segment sits at the center of this growth. A 2025 CBRE Hotels analysis of 297 U.S. hotel spas found that spa revenue averaged $6,061 per available room, contributing 3.4% of total hotel revenue. At luxury properties, the share jumps to 4.2%. So if you’re still treating your spa returns as a side business, it’s time to rethink. Spa is a revenue line that hotel operators now manage as seriously as rooms or food and beverage. The spa business software market reflects that pressure. It’s projected to reach $2.92 billion by 2035, growing at a compound annual rate of 19.6%. However, challenges are still evident. For instance, 42% of small spa operators say upfront software costs are a genuine barrier, and 54% of SMEs using cloud-based systems report gaps in data compliance. There’s a massive demand, but the friction is big, as well. Core purpose The main purpose is clear: spa software exists to turn a complex, people-heavy operation into something one person can actually manage. Every hotel spa runs on a web of separate processes, services, and people. Therapists, rooms, products, bookings, guests, hotel systems, payroll. Hotel spa management software pulls all of that into a single place so nothing falls through the cracks and every decision is backed by real numbers. That one statement breaks down into four specific jobs the software does. Function What it solves Business result Scheduling and capacity Empty rooms, double bookings, therapist conflicts Higher room utilization, fewer errors, optimized labor Guest experience tracking Impersonal service, lost client preferences, zero continuity Repeat visits, stronger loyalty, personalized treatment Revenue management Underpriced packages, missed upsells, opaque retail performance Higher revenue per visit, better package design, and retail growth Operations and compliance Manual scheduling, inventory gaps, payroll complexity Reduced admin time, accurate stock levels, and clear cost reporting Scheduling and capacity control. Treatment rooms sit empty when bookings are mismanaged. Spa software systems optimize therapist availability, room assignments, and appointment flow in real time, reducing idle time and double-booking errors.\n\nTreatment rooms sit empty when bookings are mismanaged. Spa software systems optimize therapist availability, room assignments, and appointment flow in real time, reducing idle time and double-booking errors. Guest experience tracking. A returning guest should never have to explain their preferences twice. The software stores treatment histories, skin profiles, allergy notes, and past purchases so therapists can personalize every visit.\n\nA returning guest should never have to explain their preferences twice. The software stores treatment histories, skin profiles, allergy notes, and past purchases so therapists can personalize every visit. Revenue management. Pricing, packages, retail add-ons, memberships, gift cards. The software tracks what sells and what doesn't, surfaces upsell opportunities, and connects spa revenue to the broader hotel financial picture.\n\nPricing, packages, retail add-ons, memberships, gift cards. The software tracks what sells and what doesn't, surfaces upsell opportunities, and connects spa revenue to the broader hotel financial picture. Operations and compliance. Staff scheduling, payroll data, inventory levels, product usage logs. The system keeps daily operations running and gives managers a clear picture of where costs are going. Now that we know why you need such a type of solution for your business, let’s define who exactly benefits from using it daily. Key users: who uses this software day to day? The short answer is everyone who touches the spa operation, and that group is larger than most people assume. Mandelbaum and Grigg found that staffing structures in 297 hotels range from lean urban operations relying heavily on contract therapists (up to 17.9% of payroll at city hotels) to full resort spa teams with senior therapists, front-of-house hosts, retail staff, and dedicated spa managers. Each of these roles interacts with the software differently. Front desk and reception staff are the primary daily users of spa appointment software. They manage the booking flow: new reservations, cancellations, rebooking, check-ins, and waitlists. At a resort spa seeing hundreds of guests a week, this happens in real time across multiple channels: walk-in, phone, hotel concierge, and online booking. The software needs to be fast and impossible to break under pressure.\n\nThey manage the booking flow: new reservations, cancellations, rebooking, check-ins, and waitlists. At a resort spa seeing hundreds of guests a week, this happens in real time across multiple channels: walk-in, phone, hotel concierge, and online booking. The software needs to be fast and impossible to break under pressure. Spa directors and operations managers spend more time in reporting and staffing views. They track therapist utilization, monitor revenue by service type, and manage scheduling to balance labor costs against demand.\n\nThey track therapist utilization, monitor revenue by service type, and manage scheduling to balance labor costs against demand. Finance and back-office teams work primarily in spa accounting software, pulling reports on revenue per treatment room, cost of goods sold, retail margins, and labor as a percentage of revenue. In 2024, CBRE data showed that labor costs rose 3.9% while spa revenues grew only 1.4%. That kind of pressure makes accurate, real-time financial data non-negotiable. Therapists and treatment staff use the system indirectly, accessing client notes before appointments and logging treatment records after. Hotels like The Retreat at Blue Lagoon in Iceland or luxury urban properties expanding their local market reach (a trend Mandelbaum and Grigg highlight) need software that works for all of these users simultaneously, across different access levels and different daily realities. ‍ Why hotels need spa management software Hotels do not run spas the way standalone day spas do. The context is completely different, and that difference is exactly why generic wellness software falls short and purpose-built hotel spa software exists. Here is what makes the hotel spa environment uniquely demanding. Your spa is inside a larger operational machine. A hotel is a system. When a guest books a treatment through the front desk, that interaction needs to connect to therapist availability, room scheduling, and the final folio. When it does not connect, guests get double-booked, or charges appear on the wrong account. Samkange and colleagues describe that spa organizations need to operate as unified systems, combining various processes to deliver a complete customer experience. Revenue per visit depends on information you don’t have without the software. The average U.S. spa visit generates $104.50 in revenue. That number comes from upsells, retail add-ons, packages, and repeat bookings. All of those depend on knowing who your guest is, what they have had before, and what they are likely to want next. Without consolidated hotel data management, that knowledge disappears. With it, your team can surface the right offer at the right moment without guessing. Spa booking software solves the problem guests never tell you about. Guests do not complain about a clunky booking experience. They just do not come back. Spa booking software handles online reservations, cancellations, waitlists, and confirmation messages in a way that feels effortless from the guest side. More practically, it removes the phone call from the equation entirely for guests who will not make one. Staff and facility scheduling is a precision problem. Managing therapist availability, room turnovers, break times, and service durations manually across a busy hotel spa is not a scheduling challenge. It is a math problem that humans are not built to solve in real time. Hotel spas using software can monitor cleaning schedules and available time slots continuously, reducing wait times and eliminating gaps that kill upsell opportunities before they start. No-show losses are preventable. A spa treatment room being empty because a guest did not show up is pure lost revenue. There is no way to recover that hour. The room, the therapist, the time: all gone. No-show policies enforced through software, deposit requirements at booking, automated reminders, and waitlist filling turn what used to be an accepted loss into a recoverable one. Retail is a revenue line where most hotel spas underperform. Between 15% and 30% of spa service revenue can come from retail. Most hotel spas leave a significant portion of that on the table because there is no system tracking what was sold, what was recommended, what ran out, or what a returning guest bought last time. Inventory management inside your spa platform closes that gap without requiring a separate retail system. These benefits you get from hotel spa management software are a real reason to get one. If this breakdown helped you realize you need such a solution, let’s move to defining the functionality you need in it. ‍ Key features of spa management software Some systems handle bookings well but fall short on reporting. Others have strong staff management but no retail logic. The best spa business management software covers all of it in one place, without requiring you to stitch together five different tools. Here is what you should expect from a serious platform, and why each piece matters. Feature What it covers Online booking 24/7 self-service, multi-channel reservations, room and therapist assignment Client profiles Treatment history, preferences, allergies, targeted campaigns Staff scheduling Qualification-based assignment, real-time availability, guest provider choice Yield management Tiered pricing, demand forecasting, peak and off-peak optimization Inventory tracking Real-time stock levels, auto-adjustment per sale, low-stock alerts Communication Automated confirmations, reminders, post-visit follow-up, no-show reduction Loyalty programs Automatic point tracking, spend and visit history, redemption management Reporting and analytics Revenue per room, therapist utilization, labor ratios, custom dashboards Data security PCI compliance, encrypted profiles, role-based access, audit trails Client profiles and personalization. A guest who gets a female therapist because they requested one once, two visits ago, without asking again: that is what a client profile does. It stores booking history, treatment preferences, contact information, allergies, and notes. This is where hotel personalization strategies concretely connect to spa operations. Stored guest data lets you build targeted campaigns: a birthday offer tied to a past treatment, a package recommendation based on what someone books most, a re-engagement message timed to their usual visit frequency.\n\nA guest who gets a female therapist because they requested one once, two visits ago, without asking again: that is what a client profile does. It stores booking history, treatment preferences, contact information, allergies, and notes. This is where hotel personalization strategies concretely connect to spa operations. Stored guest data lets you build targeted campaigns: a birthday offer tied to a past treatment, a package recommendation based on what someone books most, a re-engagement message timed to their usual visit frequency. Online booking and self-service. Guests book at midnight. They book from their room. They book on their phone before the flight lands to get rid of the neck soreness. Online spa booking software that gives guests instant, around-the-clock access to your full service menu removes friction at the exact moment a guest is ready to spend. The practical benefit goes both ways. Fewer phone calls to reception, fewer front-desk bottlenecks, and a lower labor cost per booking. At the same time, spa reservation software prevents double-bookings, assigns the right therapist to the right room, and accounts for setup and turnover time between appointments automatically.\n\nGuests book at midnight. They book from their room. They book on their phone before the flight lands to get rid of the neck soreness. Online spa booking software that gives guests instant, around-the-clock access to your full service menu removes friction at the exact moment a guest is ready to spend. The practical benefit goes both ways. Fewer phone calls to reception, fewer front-desk bottlenecks, and a lower labor cost per booking. At the same time, spa reservation software prevents double-bookings, assigns the right therapist to the right room, and accounts for setup and turnover time between appointments automatically. Yield management and dynamic pricing. Hotels have used yield management for decades. Modern spa platforms now apply the same logic: tiered pricing based on demand, time of day, and booking lead time. High-demand slots hold their price. Low-demand slots become accessible to price-sensitive guests who fill your schedule and keep revenue moving. The goal is to maximize revenue per treatment room hour.\n\nHotels have used yield management for decades. Modern spa platforms now apply the same logic: tiered pricing based on demand, time of day, and booking lead time. High-demand slots hold their price. Low-demand slots become accessible to price-sensitive guests who fill your schedule and keep revenue moving. The goal is to maximize revenue per treatment room hour. Inventory management. Running out of a product mid-treatment is unprofessional. A good spa platform tracks inventory in real time, adjusts quantities automatically after each sale or return, and alerts you before a product runs low. The system can also flag recommended products at the point of sale so checkout staff can suggest retail items tied to the treatment just completed, without relying on memory.\n\nRunning out of a product mid-treatment is unprofessional. A good spa platform tracks inventory in real time, adjusts quantities automatically after each sale or return, and alerts you before a product runs low. The system can also flag recommended products at the point of sale so checkout staff can suggest retail items tied to the treatment just completed, without relying on memory. Staff scheduling and management. Spa staffing is complex. You have therapists who specialize in specific treatments, guests who request specific providers, and shift patterns that need to align with appointment start and end times without gaps or clashes. The best spa scheduling software lets you build staff schedules around actual bookings, assign services to therapists by qualification, and give guests the option to choose their provider at the time of booking. When integrated with your booking engine, the system updates availability in real time as appointments are confirmed, moved, or canceled.\n\nSpa staffing is complex. You have therapists who specialize in specific treatments, guests who request specific providers, and shift patterns that need to align with appointment start and end times without gaps or clashes. The best spa scheduling software lets you build staff schedules around actual bookings, assign services to therapists by qualification, and give guests the option to choose their provider at the time of booking. When integrated with your booking engine, the system updates availability in real time as appointments are confirmed, moved, or canceled. Communication and no-show reduction. Automated booking confirmations, pre-appointment reminders, and post-treatment follow-up emails are the simplest tools available to reduce that loss. Automated communication also keeps your spa visible between visits. Promotions, seasonal packages, loyalty updates, and event invitations can all go out through templated campaigns triggered by guest behavior.\n\nAutomated booking confirmations, pre-appointment reminders, and post-treatment follow-up emails are the simplest tools available to reduce that loss. Automated communication also keeps your spa visible between visits. Promotions, seasonal packages, loyalty updates, and event invitations can all go out through templated campaigns triggered by guest behavior. Loyalty programs. Repeat business is more profitable than acquisition. A loyalty feature built into your spa platform tracks visits, total spend, and referrals automatically, awarding points guests can redeem without any manual administration on your end. Loyalty tracking tells you who your highest-value guests are, what they respond to, and when they tend to book. This helps your marketing and scheduling operations greatly.\n\nRepeat business is more profitable than acquisition. A loyalty feature built into your spa platform tracks visits, total spend, and referrals automatically, awarding points guests can redeem without any manual administration on your end. Loyalty tracking tells you who your highest-value guests are, what they respond to, and when they tend to book. This helps your marketing and scheduling operations greatly. Reporting and analytics. Daily visibility into revenue per treatment room, therapist utilization, service mix, retail performance, and labor as a percentage of revenue is what separates reactive management from proactive management. Custom dashboards let different users see what they need. A spa director wants utilization and revenue by service type. A marketing manager wants the booking source and campaign performance. One platform should serve all three without requiring separate exports. These are the most important features of hotel spa software. With modern technologies like AI and machine learning, you can expand the advanced feature list. However, the key remains the same - communication, managing inventory and scheduling, income, loyalty, and seeing the right numbers and patterns. ‍ Critical integrations for hotel spa systems A spa platform that doesn’t link to the rest of your hotel is just an expensive calendar. The real value comes from what the software connects to. Here are the integrations that matter most. PMS as the foundation Your Property Management System holds the guest. Your spa system holds the appointment. Without a connection between the two, your staff manually transfers data between systems, charges get posted to the wrong folios, and returning guests introduce themselves every time they walk in. A PMS integration fixes all of that at once. When a guest checks in, their profile, stay history, VIP status, and preferences are already visible in your spa mobile software. When a treatment ends, the charge posts automatically to their room folio without anyone touching a keyboard. When a guest books a room online, they can reserve a massage in the same session. The most common connections link spa platforms with PMS systems like Oracle OPERA or Infor. What you get on the other side is a spa that knows who is coming before they arrive, bills accurately without manual intervention, and treats every interaction as a continuation of a relationship rather than a fresh transaction. POS to monetize every touchpoint A guest finishes a facial and wants to buy the serum the therapist used. A couple can book poolside massages and then order drinks during the session. A group buys gift cards at the front desk. Each of these is a separate transaction type, and without spa POS software connected to your hotel systems, each one creates a manual reconciliation problem. An integrated POS handles all of it in one place: Spa services, retail products, and add-ons post directly to the guest's room folio.\n\nInventory adjusts automatically with each sale, so stock levels stay accurate.\n\nRevenue data from the spa, restaurant, and retail rolls into unified hotel reporting.\n\nTablet-based mobile POS lets therapists process payments at the treatment table. The connection to your PMS ensures guest information stays synchronized across systems in real time. The practical result is fewer billing errors, faster guest checkout, and a retail operation that actually closes the loop between treatment and product sale. CRM to make the best use of guest data A guest who visited six months ago, booked a hot stone massage, left a strong satisfaction score, and has an anniversary coming up in three weeks is a warm lead. Without a CRM integration, that information lives in three separate systems, and nobody acts on it. With one, your spa manager software can trigger a personalized anniversary offer automatically. CRM platforms connect to spa systems to merge appointment history with room booking data, creating a complete picture of each guest's behavior, preferences, and spending. That data drives campaigns that are worth opening. Segmented promotions for romantic getaways, flash sales to in-house guests during slow spa hours, automated birthday treatments, and post-visit satisfaction surveys all run without manual setup once the integration is live. Payment gateways and accounting tools Spa revenue that does not reconcile cleanly with your accounting system creates month-end problems. Integrating payment gateways and accounting tools with your spa platform means every transaction, including tips, refunds, gift card redemptions, and retail sales, flows into your financial records automatically. On the payment side, gateways like Stripe, Adyen, and Authorize.net handle credit and debit cards, mobile wallets including Apple Pay and Google Pay, and tokenized card-on-file charges for guests who prefer to settle everything at checkout. On the accounting side, synchronization with tools like QuickBooks or Xero means your spa accounting software data matches your general ledger without manual exports. PCI compliance also gets simpler because tokenization keeps raw card data out of your systems entirely. For high-volume hotel spas where retail, services, and room charges all move simultaneously, this integration is what keeps financial reporting clean and audit-ready. Online booking engines for big revenues Most spa revenue decisions happen before a guest walks in. They browse your service menu on your website, compare packages, and decide whether to book or move on. If your booking engine is slow, unclear, or disconnected from real-time availability, you lose that guest to indecision. An integrated online booking engine connects your spa availability directly to your hotel website, mobile app, and in-room tablet. When a therapist takes a sick day or a treatment room goes offline for maintenance, availability updates instantly across every channel. Guests can book during room reservation, before arrival, or mid-stay. Upsells happen in the booking flow rather than at the front desk. Platforms like Book4Time, RoomRaccoon, and VisBook all offer this type of connection with major hotel systems, and are easy to sync with spa cloud software. This way, you can link spa scheduling with hotel occupancy data so pricing and availability always reflect what is actually happening on the property. ‍ Best hotel spa management software Spa software is not one category. It splits into two camps: enterprise platforms built for resort chains, and lightweight tools built for independent operators. Knowing which camp your property falls into cuts your shortlist in half before you read a single feature list. Let’s review the most popular and efficient platforms in the market today. Tool Best for Pricing Book4Time Luxury hotels, resort chains $7–$9 per room per month Zenoti Multi-location franchises Custom quote Mindbody Mid-size wellness centers From $99 per month HOTELTIME Hotel resorts, any size $1–$3 per room per month Trybe Boutique and luxury hotels $5–$7 per room per month Crqlar Independent European hotels €3 per room per month Vagaro Independent spas and studios From $23.99 per month Mangomint Day spas, salons, small studios From $165 per month Boulevard Larger independent spas focused on retention From $158 per month Anolla Hotel spas, wellness centers, boutique spas Free plan available, paid features scale by usage Book4Time is the top spa software, most widely used for luxury hotels and resorts worldwide. It covers appointment scheduling, POS, retail inventory, payroll, guest CRM, dynamic pricing, and multi-location management in one system. It supports 15+ languages and integrates directly with major PMS systems, including Oracle Opera and Salesforce. The pricing ranges from $7 to $9 per room per month, with no trial but a demo available. Its key strengths are deep PMS integration, strong reporting and BI, as well as dynamic yield management. However, the steep learning curve and customization require configuration time. Zenoti is a cloud platform used by over 22,000 businesses in 50 countries, built specifically for multi-location spa and salon franchises. It handles scheduling, payroll, inventory, automated marketing, electronic intake forms, and contactless check-in. Its drag-and-drop calendar and native iOS and Android apps make it accessible to front desk teams and managers alike. The price is custom, fitting multi-location franchises, medspas, and large resorts. With cross-location gift card redemption, membership recurring billing, and a strong spa software app, Zenoti might be overkill for single-location spas. Mindbody is one of the most recognized platforms in the wellness industry, connecting businesses to a marketplace of over 3 million active users. It covers scheduling, POS, client management, staff tools, AI-powered features, and branded mobile apps. It works well for fitness-forward wellness businesses and mid-size hotel spas that want marketplace exposure alongside their core booking system. HOTELTIME's Libero SPA module is one of the best spa management software for wellness environments, handling reservations, guest interactions, treatment scheduling, and direct PMS integration in one system. It supports multi-property operations and reduces administrative load through automation. At $1 to $3 per room per month, it is one of the most cost-efficient options for hotel spas on this list. It boasts a strong multi-location mode, but the reporting customization is limited. TRYBE is a modern spa, wellness, and activity management platform built for hotels that want a clean booking experience paired with solid operational tools. It covers online booking, scheduling, membership management, integrated POS, real-time reporting, and guest profile management across any device. It is particularly well-suited for multi-property hotel operators who need a scalable, PMS-connected solution without enterprise-level complexity. Crqlar is an Austrian-built hotel operations platform with one of the best spa booking software options built in, together with guest profile management. The spa module handles treatment packages, staff scheduling, facility management, website booking widgets, credit card no-show protection, and direct room billing through PMS connections. The pricing is €3 per room per month, with a free trial as an option. It’s GDPR compliant, EU-based, and offers a customizable website widget. This said, it has a smaller feature set than enterprise tools. Vagaro is a widely adopted platform for spa and salon owners, used by over 220,000 professionals across the wellness industry. It covers scheduling, client management, POS, inventory, payroll, email and text marketing, and a consumer marketplace that drives client discovery. Its AI-powered tools help with content creation and client communication without requiring any technical background. The pricing starts from $23.99 per month, which isn’t much for a huge user community. However, it has no PMS integration for hotel use, and marketing tools have limited options. Mangomint is a popular hotel spa software for ease of use, built by a team of wellness center owners who designed it around daily operational reality. It handles appointment scheduling, staff management, payroll, retail POS, inventory, and automated SMS and email marketing from a single interface. It is built for small to mid-size independent businesses and does not offer PMS connectivity for hotel environments. With pricing starting from $165 per month, higher on the list than some other options, it also has no direct hotel PMS integration. Boulevard is built for larger appointment-based businesses that treat client retention as a core operation. Covers scheduling, POS, online booking, reporting, two-way messaging, and a built-in email marketing suite. Uses Precision Scheduling technology to fill the most valuable calendar gaps first. HIPAA compliant but lacks full EMR features. The mobile app has reliability issues, and the 12-month contract is a real commitment before you know if the platform suits your team day to day. Anolla is an AI-powered spa booking platform for wellness centers. Covers treatment scheduling, sauna and pool zone management, therapist shift planning, package builder, gift card management, membership clubs, and dynamic pricing. The AI assistant handles up to 79.3% of recurring guest inquiries in 25 languages around the clock. Integrates with payment systems and accommodation platforms. Pricing is usage-based and scales with the number of bookable rooms, zones, and specialists, with a free plan available for getting started. With so many different spa management software options at your disposal, you might feel lost for what to pick to get the best results. Now, let’s build the right algorithm to go through to make the right decision. ‍ How to choose the right spa software Choosing spa software is not about finding the most feature-rich tool. It is about finding the one that fits how your team actually works. User-friendly interface. If your front desk staff needs a week of training to book a massage, the software is wrong for you. The best platforms take most team members under 30 minutes to learn. Look for clean calendars, logical navigation, and a mobile view that works without pinching and zooming. A tool your team avoids using is a tool that costs you money.\n\nIf your front desk staff needs a week of training to book a massage, the software is wrong for you. The best platforms take most team members under 30 minutes to learn. Look for clean calendars, logical navigation, and a mobile view that works without pinching and zooming. A tool your team avoids using is a tool that costs you money. The right features for your operation. A large resort spa and a boutique day spa do not need the same software. Before reading any spa management software reviews, write down the three to five things that cause the most friction in your current workflow. That list is your filter. If a platform does not solve those specific problems, its other features do not matter. Common priorities include treatment room scheduling, therapist shift planning, package and membership management, retail inventory, and spa software pricing that scales with your room count rather than your revenue. Integration with your existing systems. Spa software that cannot connect to your PMS, accounting tool, or payment processor creates more work, not less. You end up with duplicate data entry, reconciliation errors, and reporting gaps. Before committing to any platform, ask the vendor for a list of native integrations and test the connection with your actual PMS in a demo environment, not just a slide deck.\n\nSpa software that cannot connect to your PMS, accounting tool, or payment processor creates more work, not less. You end up with duplicate data entry, reconciliation errors, and reporting gaps. Before committing to any platform, ask the vendor for a list of native integrations and test the connection with your actual PMS in a demo environment, not just a slide deck. Scalability. The software that works for your current two-room spa may break down when you add a second location or a fitness center. Ask vendors directly how pricing and functionality change as you grow. Some platforms charge per room, others per staff member, and others per booking volume. Read the fine print before you sign. When checking review sites, filter for businesses similar to yours in size and type. A five-star resort review tells you nothing about whether it works for a 10-room boutique hotel spa. Look for reviews that mention implementation time, support response speed, and what broke during peak season. Those details matter more than the overall star rating. Why is choosing a custom solution a great decision? Off-the-shelf spa software for small businesses works well up to a point. You get a familiar interface, a fixed feature set, and a monthly bill. But the moment your operation grows beyond what the vendor anticipated, you start working around the software instead of with it. However, in practice, your PMS uses custom room-billing logic that the spa platform does not support. Your membership tiers do not map to the four preset loyalty levels in the system. Your therapists work split shifts across two buildings, and the scheduling view cannot reflect that. You submit a feature request and get told it is on the roadmap for next year. These are the normal frictions of running a real hospitality operation through a tool built for the average customer. Fit . Every workflow, pricing rule, and reporting is built to match your operation. There is no field repurposed for something it was not designed for, and no feature you pay for but never use. Spa management software comparison across off-the-shelf tools always comes down to which platform fits best. With a custom build, fit is the starting point.\n\n. Every workflow, pricing rule, and reporting is built to match your operation. There is no field repurposed for something it was not designed for, and no feature you pay for but never use. Spa management software comparison across off-the-shelf tools always comes down to which platform fits best. With a custom build, fit is the starting point. Integration . This is where packaged software most often falls short for hotels. Your spa platform needs to talk to your PMS, your payment gateway, your accounting system, your CRM, and possibly your room automation or access control infrastructure. Off-the-shelf tools connect to what their vendor chose to. A custom platform connects to whatever your hotel actually uses, built exactly to the specs those systems require.\n\n. This is where packaged software most often falls short for hotels. Your spa platform needs to talk to your PMS, your payment gateway, your accounting system, your CRM, and possibly your room automation or access control infrastructure. Off-the-shelf tools connect to what their vendor chose to. A custom platform connects to whatever your hotel actually uses, built exactly to the specs those systems require. The guest-facing experience. A branded spa software app looks and feels like your property, not like a white-labeled booking widget with your logo dropped in. Guests booking a treatment at a five-star resort should not land on a generic scheduling screen. The booking flow, the confirmation email, the pre-arrival intake form, and the post-visit follow-up should all feel like the same brand. Custom development makes that possible.\n\nA branded spa software app looks and feels like your property, not like a white-labeled booking widget with your logo dropped in. Guests booking a treatment at a five-star resort should not land on a generic scheduling screen. The booking flow, the confirmation email, the pre-arrival intake form, and the post-visit follow-up should all feel like the same brand. Custom development makes that possible. Data and analytics. Off-the-shelf platforms give you the reports that the vendor decided to build. Custom spa management software tools give you the data your business actually needs to make decisions. That means connecting spa revenue to room revenue, tracking therapist productivity against treatment margin, forecasting occupancy by day part and season, and feeding that data into whatever BI or AI tools your management team already uses.\n\nOff-the-shelf platforms give you the reports that the vendor decided to build. Custom spa management software tools give you the data your business actually needs to make decisions. That means connecting spa revenue to room revenue, tracking therapist productivity against treatment margin, forecasting occupancy by day part and season, and feeding that data into whatever BI or AI tools your management team already uses. Scalability on your terms. When you add a location, a service category, or a partnership with a wellness brand, a custom platform adapts as your team builds what you need next. With off-the-shelf software, you wait for the vendor roadmap. Sometimes what you need ships in six months. Sometimes it never ships at all.\n\nWhen you add a location, a service category, or a partnership with a wellness brand, a custom platform adapts as your team builds what you need next. With off-the-shelf software, you wait for the vendor roadmap. Sometimes what you need ships in six months. Sometimes it never ships at all. Cost over time. The upfront cost of custom development is higher. That is true and worth saying directly. But the monthly per-room or per-user fees of packaged software compound over the years. Add the cost of workarounds, manual processes, and staff time spent fighting a tool that does not quite fit, and the economics shift. For operations above a certain scale, a custom build becomes the more efficient long-term investment. So, if your spa runs a standard operation and the tools on this list cover your needs, use them. If your hotel has complex integration requirements, a strong brand identity that extends to digital touchpoints, or workflows that no packaged tool handles cleanly, custom development is not an extravagance. It is the practical choice, and we are just the team to fulfill it. COAX is a full-cycle development company that builds hotel spa software and wellness platforms from the ground up. That means product strategy, UX design, backend architecture, API integrations, and post-launch support under one roof. There will be no gaps between what was promised and what gets built. We have direct experience with custom software development for hotels, including PMS integrations, multi-property management systems, and revenue analytics layers that connect spa, restaurant, and room data into one environment. On the technical side, COAX builds mobile spa software for both iOS and Android alongside web platforms, with AI-driven features including booking pattern analysis, dynamic pricing logic, personalized treatment recommendations, and occupancy forecasting. If your current software cannot do what your operation actually needs and you want a development partner who knows how to get your scaling off the limits, that is the conversation worth having. ‍ Implementation best practices Your development and integration of hotel spa management software should consider the specifics of this business model. You’re not implementing a standalone solution for a spa center: with a broader hotel ecosystem, your roadmap should consider several nuances. Based on COAX’s experience, here’s how to do this successfully. Start with data migration. The first thing that breaks during a rollout is data. Client profiles, membership records, gift card balances, and booking history all need to move cleanly before you go live. Define your existing data structure before you touch the new platform. If the vendor offers assisted migration, use it. If not, run a parallel period where both systems are active until you confirm nothing was lost.\n\nThe first thing that breaks during a rollout is data. Client profiles, membership records, gift card balances, and booking history all need to move cleanly before you go live. Define your existing data structure before you touch the new platform. If the vendor offers assisted migration, use it. If not, run a parallel period where both systems are active until you confirm nothing was lost. Train in phases, not all at once. Front desk staff, therapists, and managers use management software for spa operations differently. Train each group separately on the workflows they actually touch. A therapist needs to know how to read their schedule and access treatment notes. A front desk team member needs to process bookings, payments, and walk-ins.\n\nFront desk staff, therapists, and managers use management software for spa operations differently. Train each group separately on the workflows they actually touch. A therapist needs to know how to read their schedule and access treatment notes. A front desk team member needs to process bookings, payments, and walk-ins. Test during the low season. Go live when your booking volume is low. Never launch a new spa management system heading into a peak weekend, a holiday campaign, or a membership renewal cycle. You will find configuration errors, integration gaps, and edge cases during the first two weeks that no amount of pre-launch testing predicted.\n\nGo live when your booking volume is low. Never launch a new spa management system heading into a peak weekend, a holiday campaign, or a membership renewal cycle. You will find configuration errors, integration gaps, and edge cases during the first two weeks that no amount of pre-launch testing predicted. Run your integrations before anything else. PMS connectivity is the highest-risk point in any hotel spa software implementation. Test room billing, guest profile sync, and folio reconciliation with real transactions before your team starts using the system in production. A broken PMS link discovered on day one of a busy weekend is a recoverable problem. Discovered after three weeks of incorrect billing, it is a finance team headache.\n\nPMS connectivity is the highest-risk point in any hotel spa software implementation. Test room billing, guest profile sync, and folio reconciliation with real transactions before your team starts using the system in production. A broken PMS link discovered on day one of a busy weekend is a recoverable problem. Discovered after three weeks of incorrect billing, it is a finance team headache. Set your pricing and availability rules in advance. Dynamic pricing, blackout dates, therapist-specific availability, and treatment duration buffers all need to be configured before the first booking goes through. Getting these rules wrong means double bookings, underpriced treatments, and scheduling gaps that your team then manages manually, which defeats the purpose of the software.\n\nDynamic pricing, blackout dates, therapist-specific availability, and treatment duration buffers all need to be configured before the first booking goes through. Getting these rules wrong means double bookings, underpriced treatments, and scheduling gaps that your team then manages manually, which defeats the purpose of the software. Define who owns the system. Every spa manager software needs one internal owner. Not a committee. One person who knows the configuration, fields support questions from the team, and communicates with the vendor. Without that person, small issues sit unresolved, workarounds multiply, and the platform drifts from how it was set up to how people have learned to work around it.\n\nEvery spa manager software needs one internal owner. Not a committee. One person who knows the configuration, fields support questions from the team, and communicates with the vendor. Without that person, small issues sit unresolved, workarounds multiply, and the platform drifts from how it was set up to how people have learned to work around it. Measure from week one. Set three to five baseline metrics before you go live: booking conversion rate, no-show rate, average treatment value, therapist utilization, and revenue per available treatment hour. Measure them in your old system if possible. Then track the same numbers in the new platform from day one. Without a baseline, you cannot know whether the software is actually improving your operation or just changing how the same problems look. COAX has spent 16 years building software for travel, transport, and hospitality, which means the team has seen exactly where online spa management software projects go wrong in production. Broken PMS connections, payment reconciliation failures, data loss during migration, mobile booking flows that work in testing and fail under load. When you bring a complex integration challenge, you are talking to engineers who have built the same connection before and know where the failure points are. On the technical side, COAX covers the full build: hospitality connectivity architecture, custom API integrations, mobile and web development, automation logic, and analytics layers that turn operational data into decisions. ‍ FAQ What is spa software in terms of technical architecture? At its core, spa management software runs on a client-server model: a cloud-hosted backend manages data storage, business logic, and API connections, while the frontend delivers the booking interface across web and mobile. Modern platforms layer on IoT sensors, ML-based scheduling engines, and real-time PMS sync. As Casillo and team note, the architecture typically spans acquisition, processing, inference, and application modules. Why implement spa software for a small business? Spa software for small businesses removes the admin burden that kills revenue. Platforms like Anolla report reducing manual administration by over 40%. A 5% increase in guest retention raises profit by 25 to 95%. Also, automated confirmations, waitlists, and dynamic pricing fill gaps your front desk misses. The operational cost of not automating compounds faster than most small operators expect. What are the security requirements for spa software systems? Spa management systems handling guest data must meet these baseline requirements: AES-256 encryption for stored data.\n\nTLS protocol for all data transfers.\n\nRole-based access control.\n\nGDPR compliance for EU operations.\n\nHIPAA compliance where medical data is involved.\n\nAnonymized client identifiers.\n\nRegular penetration testing.\n\nNDA coverage with all third-party vendors. How does COAX develop secure and efficient hotel spa software? Our team is 90% mid and senior level, ISO 9001 and ISO 27001 certified, and runs every project under NDA. You get one team from strategy through post-launch support, no handoffs between agencies, no gaps between what was scoped and what gets delivered. If your spa operation has outgrown what packaged software can handle, that is the talk worth starting. Published April 10, 2026 Last updated April 10, 2026"
+      },
+      {
+        "id": 26423168,
+        "title": "Vagaro Revenue 2024: $65.9M Est. ARR, $1B Valuation",
+        "url": "https://getlatka.com/companies/vagaro",
+        "publisher": "B2B SaaS Blog",
+        "published_date": "2025-11-28T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Vagaro, a cloud-based business management software provider for the health, wellness, and beauty industries, reported $65.9 million in revenue for 2024, representing significant growth from $23.6 million in 2023.",
+        "word_count": 464,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "ERP/CRM/HRIS Implementation & Integration",
+            "code": "BPAEAAAE",
+            "is_primary": true
+          },
+          {
+            "name": "Data & Analytics for CRM (Attribution, BI, Predictive)",
+            "code": "BPAFAFAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Revenue & Growth Metrics",
+            "code": "FR02",
+            "is_primary": true
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          },
+          {
+            "code": "20001163",
+            "name": "client relationship management"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "fred helou",
+            "nathan latka",
+            "latka latka"
+          ],
+          "location": [
+            "india"
+          ],
+          "product": [
+            "mobile",
+            "spas",
+            "salons"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9267,
+        "group_id": 2476904,
+        "full_text": "Specializes in multi-vendor solutions and a suite of technology oriented managed services.\n\ndata.ai is now part of Sensor Tower! data.ai has clearly established the mobile standard and now becomes the unified data standard. As the trusted source for the digital economy, our mission is to help businesses maximize their mobile performance through applied artificial intelligence. data.ai’s proprietary measurement for app performance powered by applied ai, Mobile Performance Score (MPS), unlocks mobile insights to drive decisions for the world's leading brands. We passionately serve enterprise clients to create winning digital experiences for their customers. 81 of the top 100 mobile publishers trust data.ai to grow their business.\n\nLooking for a professional mobile app development company? We are a leading-edge mobile and IoT solution provider in India. Hire Excellent mobile app developers Here.\n\nAero Accessories provides advanced repair solutions for Next Generation Fuel, Hydraulic, Pneumatic & Electro-Mechanical components.\n\nCarson Group Partners is a network of advisors offering advisory services through CWM, LLC, an SEC Registered Investment Advisor.\n\nAt Maxio, we help B2B SaaS companies unlock their next stage of growth 🚀. Our financial operations platform is designed to meet the unique financial challenges of B2B SaaS, including billing, subscription management, revenue and expense recognition, and SaaS analytics. We believe that in order for SaaS companies to unlock their next stage of growth, their financial operations tech stack must strike the right balance between flexibility, which allows them to pivot quickly in an ever-changing market, and complexity, which supports them as they scale their business, operations, and monetization strategies.\n\nAll figures on this page are taken directly from interviews or are estimates from public sources and proprietary models. Not financial advice. Read full disclaimer.\n\nVagaro operates across multiple industries. Browse revenue, funding, and growth data for Vagaro in each sector below.\n\nThe CEO of Vagaro is Fred Helou.\n\nVagaro employs approximately 670 people as of 2026, up from 555 in 2024, including 14 sales reps that carry a quota.\n\nWe do not have customer count information for Vagaro yet.\n\nFred Helou is listed as CEO at Vagaro.\n\nVagaro has raised $163M in total funding across 2 rounds, most recently a $100M Private Equity Round round in 2021.\n\nVagaro reached a $1B valuation in 2021, set during its Private Equity Round round.\n\nIn 2024, Vagaro's revenue reached $65.9M. The company previously reported $23.6M in 2023. Since its launch in 2009, Vagaro has shown consistent revenue growth.\n\nVagaro is a cloud-based software company that provides business management solutions for the health, wellness, and beauty industries.Vagaro's platform includes tools for appointment scheduling, payment processing, customer relationship management, marketing automation, and employee management. The platform is designed for a wide range of businesses, including spas, salons, gyms, and independent health and wellness professionals.\n\nReported By NL Nathan Latka Founder, Latka Latka has interviewed 3,000 of the world's top software and AI founders. New episodes every Wednesday. Subscribe"
+      },
+      {
+        "id": 17533471,
+        "title": "Liberis launches Pay with Liberis in partnership with Vagaro",
+        "url": "https://www.openbankingexpo.com/news/liberis-launches-pay-with-liberis-in-partnership-with-vagaro/",
+        "publisher": "Open Banking Expo",
+        "published_date": "2025-10-28T13:07:36",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Liberis has launched its new Buy Now, Pay Later product, Pay with Liberis, in the US, partnering with Vagaro, which will be the first to offer the product to its customers. The initiative aims to provide small and medium-sized businesses with access to financing ranging from $500 to $10,000, facilitating hardware purchases through a fixed percentage of future revenue. This collaboration highlights Liberis' commitment to embedded finance innovation and expands SMB access to necessary growth tools that address specific funding challenges in the beauty, health, and wellness sectors. ",
+        "word_count": 419,
+        "original_language": "EN",
+        "author": "Uk Open Banking Payments Ecosystem",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "SME Accounting, Bookkeeping & Close Automation",
+            "code": "FSAGAJAH",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000049s",
+            "name": "Vagaro",
+            "website": "https://sales.vagaro.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000ai7",
+            "name": "Liberis",
+            "website": "https://www.liberis.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20001370",
+            "name": "financial service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "60",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52222",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "56133",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          },
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "52231",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "rob fairfield",
+            "kerry melchior"
+          ],
+          "location": [
+            "us"
+          ],
+          "product": [
+            "pay with liberis",
+            "vagaro capital"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5199711,
+        "full_text": "Source: Liberis Liberis, a leading global embedded finance provider, has announced the US launch of its new Buy Now, Pay Later product, Pay with Liberis. Vagaro, a leading business management platform for the beauty, wellness, and fitness industries, is the first of Liberis’ strategic partners to adopt the new product, which will be offered to their customers as capital for hardware. Vagaro’s users can now purchase products or services at checkout and pay through a fixed percentage of future revenue, solving one of SMBs’ most persistent challenges. This launch establishes Liberis at the forefront of embedded finance innovation, with Liberis and Vagaro collaborating closely on the creation of Pay with Liberis to ensure it was suitable to solve the financing pain points of Vagaro’s users. “Small businesses must navigate a fragmented financing landscape, and businesses within the beauty, health and wellness industries face specific funding issues that require specialised support,” said Rob Fairfield, chief executive officer of Liberis. “With Pay with Liberis, we are now able to offer seamless embedded finance offerings that are not only hand-crafted solutions, but actually accelerate growth, as we lead the way in building definitive funding ecosystems.” Bespoke offerings for beauty, health and wellness SMBs Within Vagaro’s platform, Pay with Liberis will be offered to customers as capital for hardware, and will offer financing for SMBs from $500 and up to $10,000, although Vagaro’s initial rollout will be capped at $3,000. Pay with Liberis is integrated seamlessly into Vagaro’s checkout process, with merchants able to finance hardware and similar purchases at checkout with funds disbursed directly to Vagaro. Customers can benefit immensely from this integration, with payments automatically split from daily revenue, and no early payment penalties. This product also serves as a gateway to Vagaro’s other financial offerings powered by Liberis, such as Vagaro Capital. Pay with Liberis expands SMB access to growth enabling tools, such as marketing spend and POS hardware, all whilst customers can track repayments and download statements via their dashboard. “When accessing financial services, we want to help our merchants achieve success and remove some of the obstacles they face,” said Kerry Melchior, chief operating officer at Vagaro. “Collaborating closely with Liberis on capital for hardware, we have been able to prioritise our customers’ needs and reinforce our commitment to supporting our merchant community.” Pay with Liberis is now live in the US with plans for expansion into other markets over the course of 2026. Further reading: eBay teams up with Liberis to help US sellers access working capital"
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

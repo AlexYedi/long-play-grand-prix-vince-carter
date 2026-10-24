@@ -1,0 +1,239 @@
+{
+  "runId": "2026-10-24T17-38-44-269Z",
+  "agent": "extractor-v1",
+  "summary": [
+    {
+      "id": "C01",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 1698000,
+      "prism": 200,
+      "ms": 13451,
+      "tokens": 1990
+    },
+    {
+      "id": "C02",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 15060,
+      "tokens": 2132
+    },
+    {
+      "id": "C03",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 13295,
+      "tokens": 2165
+    },
+    {
+      "id": "C04",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 12580,
+      "tokens": 1642
+    },
+    {
+      "id": "C05",
+      "nFields": 0,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 8272,
+      "tokens": 1008
+    },
+    {
+      "id": "C06",
+      "nFields": 0,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": "skip",
+      "ms": 0,
+      "tokens": 0
+    },
+    {
+      "id": "C07",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 12348,
+      "tokens": 2079
+    },
+    {
+      "id": "C08",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 2500000,
+      "prism": 200,
+      "ms": 12664,
+      "tokens": 2146
+    },
+    {
+      "id": "C09",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 1200000,
+      "prism": 200,
+      "ms": 11551,
+      "tokens": 1890
+    },
+    {
+      "id": "C10",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 9745,
+      "tokens": 1606
+    },
+    {
+      "id": "C11",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 12632,
+      "tokens": 1776
+    },
+    {
+      "id": "C12",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 1970000,
+      "prism": 200,
+      "ms": 10373,
+      "tokens": 1815
+    },
+    {
+      "id": "C13",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 10171,
+      "tokens": 1434
+    },
+    {
+      "id": "C14",
+      "nFields": 5,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 11446,
+      "tokens": 1851
+    },
+    {
+      "id": "C15",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 9834,
+      "tokens": 1527
+    },
+    {
+      "id": "C16",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 11909,
+      "tokens": 1746
+    },
+    {
+      "id": "C17",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 12106,
+      "tokens": 1683
+    },
+    {
+      "id": "C18",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 13241,
+      "tokens": 2094
+    },
+    {
+      "id": "C19",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 0,
+      "prism": 200,
+      "ms": 11519,
+      "tokens": 1817
+    },
+    {
+      "id": "C20",
+      "nFields": 7,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": 841000,
+      "prism": 200,
+      "ms": 9556,
+      "tokens": 1470
+    },
+    {
+      "id": "C21",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 10549,
+      "tokens": 1522
+    },
+    {
+      "id": "C22",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 13053,
+      "tokens": 1957
+    },
+    {
+      "id": "C23",
+      "nFields": 6,
+      "rejected_ungrounded": [],
+      "ungrounded_accepted": [],
+      "arr": null,
+      "prism": 200,
+      "ms": 13562,
+      "tokens": 1902
+    }
+  ],
+  "ungrounded": 0,
+  "rejected": 0,
+  "tokens": 39252
+}

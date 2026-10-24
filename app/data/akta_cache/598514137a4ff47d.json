@@ -1,0 +1,488 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002m5&sections=company_assessment%2Cfirmographic%2Cbusiness_model",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:26:34.539Z",
+  "data": {
+    "data": {
+      "uuid": "00002m5",
+      "company_assessment": {
+        "market_position": "Overjet is a venture-backed, Boston-based dental AI company founded in 2018 that positions itself as a leader in clinical decision support and insurance workflow automation for the dental ecosystem. The company serves dentists, Dental Service Organizations (DSOs), dental insurers/payers, and dental schools through a multi-product SaaS platform anchored by 10 FDA clearances, the Dental Care Alliance enterprise rollout across 400+ practices in 24 states, and named customers such as MetLife and Humana on the payer side.",
+        "strengths": [
+          {
+            "details": "The Dental Clarity Network launched March 2025 with MetLife and Humana as flagship participants, anchored by ReviewPASS — a real-time signal that tells practices whether a claim will bypass manual clinical review. If Overjet successfully recruits additional top-10 dental insurers (the company already counts 16+ major carriers per Series B disclosure), ReviewPASS becomes a two-sided utility that no single competitor can replicate, and per-claim transaction economics could expand margins well beyond traditional SaaS. This is the clearest path to a venture-scale outcome.",
+            "headline": "Dental Clarity Network creates winner-take-all utility",
+            "source": [
+              "https://www.overjet.com/blog/overjet-announces-dental-clarity-network-to-streamline-benefits-for-patients"
+            ]
+          },
+          {
+            "details": "Overjet Voice claims ~5+ hours saved per provider per week and a ~25% reduction in claim denials. With ~200,000 practicing dentists in the US and ambient documentation rapidly becoming a baseline expectation (mirroring what Abridge and Nuance DAX have done in medicine), expansion from imaging AI into voice/documentation could 3-5x revenue per existing DSO customer and unlock an entirely new solo-practice and small-group segment via the \"Try for free\" PLG motion currently in market.",
+            "headline": "Voice AI unlocks massive per-dentist TAM expansion",
+            "source": [
+              "https://www.overjet.com/"
+            ]
+          },
+          {
+            "details": "The Dental Care Alliance relationship began in 2022 and has expanded through three documented phases (initial partnership → 2024 full imaging rollout → June 2026 full patient-journey deployment). With ~5,000+ DSOs in the US operating 30%+ of dental practices, even modest penetration of the top 100 DSOs replicates DCA at scale. The acquired American Dental Examiners (June 2021) and DentalBee (December 2025) also signal an M&A roll-up strategy to consolidate claims-review and adjacent workflows.",
+            "headline": "Land-and-expand model replicates across thousands of DSOs",
+            "source": [
+              "https://www.overjet.com/dca"
+            ]
+          },
+          {
+            "details": "CBCT Assist received FDA 510(k) clearance in December 2025 — Overjet's 10th FDA clearance — extending AI from 2D to 3D imaging for implant, surgical, and airway planning. With 3D CBCT scanners becoming standard in mid-market practices and implants representing a high-value revenue line (~$5K-$50K per case), AI-guided implant case capture via the Implant Finder feature alone could unlock a multi-hundred-million-dollar revenue category distinct from the existing subscription base.",
+            "headline": "CBCT Assist and Implant Finder expand into high-value surgical revenue"
+          },
+          {
+            "details": "Overjet counts 10 FDA clearances, HITRUST CSF certification, SOC 2 Type II, HIPAA, GDPR, and CCPA compliance — a regulatory and security posture that few dental AI competitors can match and that effectively blocks new entrants from selling into enterprise DSOs and insurers. Combined with integrations into Medit AuraVue and Planet DDS DentalOS, Overjet is positioned as the default AI layer across the dental software stack, justifying premium pricing and pricing power as the category matures.",
+            "headline": "10 FDA clearances create durable regulatory moat",
+            "source": [
+              "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Planet DDS's DentalOS platform lists Overjet alongside direct competitors Pearl and VideaHealth as interchangeable AI imaging vendors, signaling a commoditization risk where DSO customers can swap vendors with limited switching cost. If a competitor undercuts pricing or achieves comparable FDA-cleared accuracy, Overjet's $425M+ valuation could compress materially. The dental AI category is attracting significant capital from strategic acquirers (Henry Schein acquired VideaHealth in 2024), which may accelerate consolidation and pressure standalone players.",
+            "headline": "Pearl and VideaHealth commoditize dental imaging AI",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ]
+          },
+          {
+            "details": "Overjet's marquee customer Dental Care Alliance accounts for 400+ practices across 24 states, and the June 2026 expansion makes DCA Overjet's flagship reference account. Any churn, budget cut, or strategic change at DCA would have an outsized impact on revenue, given the limited number of disclosed enterprise DSO logos (CoreDental, Jefferson Dental, The Smilist, Dental 365, North American Dental, Platinum Dental). Concentration in a handful of large DSOs leaves the revenue base vulnerable to a single relationship deteriorating.",
+            "headline": "DCA customer concentration creates revenue fragility",
+            "source": [
+              "https://www.overjet.com/dca"
+            ]
+          },
+          {
+            "details": "Overjet's last disclosed post-money valuation was $425M in December 2021. With ~$80M raised since then across Series C ($53.2M in March 2024 led by March Capital) and a $25.36M extension in December 2025, the company has either marked up meaningfully in private rounds or faces flat/down rounds in a tighter 2024-2025 AI funding environment. The lack of disclosed current valuation is a material gap, and any IPO path is likely several years away given AI market conditions.",
+            "headline": "Last valuation disclosure is 4+ years stale",
+            "source": [
+              "https://www.finsmes.com/2021/12/overjet-raises-42-5m-in-series-b-funding-reaching-425m-valuation.html"
+            ]
+          },
+          {
+            "details": "While FDA clearance is a current moat, increasing FTC and HHS scrutiny of AI in clinical decision support, plus ongoing debates around algorithmic bias in healthcare AI, could impose new validation, monitoring, or disclosure requirements. The CBCT Assist clearance and 10 total clearances create regulatory surface area that must be maintained; any adverse event or recall could compromise market positioning and trigger costly remediation across the entire platform.",
+            "headline": "Regulatory scrutiny of clinical AI is tightening"
+          },
+          {
+            "details": "Overjet has expanded from a single Vision AI product in 2021 to a portfolio spanning imaging AI, ambient voice documentation, insurance verification, RCM analytics, and payer provider-network tools — five distinct product categories with different buyers, competitors, and integration requirements. Ambient documentation alone competes against well-funded players like Abridge, Suki, and Nuance DAX in healthcare AI. Execution risk across this portfolio may strain engineering and sales resources, slowing the path to profitability.",
+            "headline": "Product sprawl dilutes execution focus",
+            "source": [
+              "https://www.overjet.com/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Overjet holds 10 FDA 510(k) clearances across its imaging AI products, including the first FDA clearance ever granted to a dental AI company (Dental Assist, August 2021) and the more recent CBCT Assist clearance for 3D imaging. Each clearance represents a multi-year, data-intensive regulatory investment that is difficult and expensive for competitors to replicate in a clinical decision-support category.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "Enterprise-scale deployments across DSOs such as Dental Care Alliance (400+ practices in 24 states), TD Dental (34 locations), and integrations with 300+ insurance payers generate a continuous, clinically labeled data flywheel that improves model accuracy on caries detection, bone loss measurement, and clinical review automation. Volume and diversity of data is structurally hard for later entrants to match.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Platform integrations with practice management systems, sensors (IRIS), 300+ payer connections, and embedded clinical workflows (chart notes, perio charts, automated referrals, revenue cycle) create high operational switching costs once a DSO or payer is deployed. Customers report 18x ROI and 25%+ case acceptance lifts that anchor multi-year contracts.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Overjet has built a defensible go-to-market by winning flagship DSO accounts (Dental Care Alliance, Core Dental, Jefferson Dental, Aligned Dental Partners, The Smilist, Dental 365, North American Dental Group, Platinum Dental Services) and major insurers (MetLife, Humana, plus 16 carriers by December 2021). Land-and-expand is reinforced by integration partnerships with Medit (AuraVue) and Planet DDS (DentalOS), extending distribution without adding direct sales headcount.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "The Dental Clarity Network (DCN) and ReviewPASS create a two-sided payer-provider network effect: more payer participation increases ReviewPASS signal coverage (300+ procedures), which in turn increases the platform's value to dental practices. This network, combined with the Spear Education curriculum partnership, is converting the product from point solution into industry infrastructure.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "Overjet was the first dental AI company to receive FDA clearance, has 10 cumulative clearances, and is consistently positioned as the category leader by customers and investors, supported by HITRUST, HIPAA, SOC 2 Type II, GDPR, and CCPA certifications. These compliance and brand assets lower enterprise procurement risk.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Dental Care Alliance's 400+ practices across 24 states represent Overjet's most prominent reference account and the anchor of its land-and-expand DSO strategy. With only a handful of other DSO logos disclosed (CoreDental, Jefferson Dental, The Smilist, Dental 365, North American Dental, Platinum Dental), churn or budget compression at any single large DSO would have outsized impact on revenue concentration risk.",
+            "headline": "DCA customer concentration creates revenue fragility",
+            "source": [
+              "https://www.overjet.com/dca"
+            ]
+          },
+          {
+            "details": "Planet DDS's DentalOS platform lists Overjet, Pearl, and VideaHealth as interchangeable AI imaging vendors, signaling commoditization risk and limited switching costs at the DSO buyer level. Henry Schein's 2024 acquisition of VideaHealth and well-funded entrants like Pearl continue to compress pricing power and could trigger a feature/price race that pressures margins.",
+            "headline": "Dental imaging AI faces accelerating competitive pressure",
+            "source": [
+              "https://www.dentistrytoday.com/planet-dds-launches-ai-native-dental-platform/"
+            ]
+          },
+          {
+            "details": "Overjet has raised approximately $155M+ across seed ($7.85M), Series A ($27M), Series B ($42.5M), Series C ($53.2M, March 2024), and a December 2025 extension ($25.36M). The pace of funding and headcount of 101-250 employees suggest a continued reliance on external capital to fund sales, RCM, payer-side, and Voice product expansion before reaching self-sustaining cash flow.",
+            "headline": "Capital intensity remains elevated with ~$155M+ raised",
+            "source": [
+              "https://www.finsmes.com/2021/12/overjet-raises-42-5m-in-series-b-funding-reaching-425m-valuation.html"
+            ]
+          },
+          {
+            "details": "The Series B post-money valuation of $425M was disclosed in December 2021. No pre/post-money valuations are disclosed for the 2024 Series C or the 2025 extension, leaving current mark-to-market unclear and creating uncertainty for any secondary transactions or IPO planning in an AI-market-sensitive environment.",
+            "headline": "Last disclosed valuation is 4+ years old",
+            "source": [
+              "https://www.finsmes.com/2021/12/overjet-raises-42-5m-in-series-b-funding-reaching-425m-valuation.html"
+            ]
+          },
+          {
+            "details": "Overjet Voice enters the ambient clinical documentation market where competitors like Abridge (medicine), Suki, and Nuance DAX have raised billions in capital and are extending into dental. Overjet must compete for talent, integrations, and accuracy benchmarks against companies with substantially larger war chests and broader clinical footprints beyond dentistry.",
+            "headline": "Voice AI is a contested, well-funded category",
+            "source": [
+              "https://www.overjet.com/legal/trust-center"
+            ]
+          },
+          {
+            "details": "With 10 FDA clearances covering diagnostic interpretation across 2D radiographs and 3D CBCT scans, any misdiagnosis, algorithmic failure, or FDA post-market surveillance issue exposes Overjet to clinical liability, recall costs, and reputational damage in a category where accuracy is being actively marketed (Overjet claims >90% accuracy).",
+            "headline": "Regulatory and clinical liability risk is real"
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Overjet is rolling out its full AI suite (Overjet Voice, IRIS AI-Native Imaging, AI Revenue Cycle Management, and Vision) across DCA's 400+ affiliated practices in 24 states — described as one of the most ambitious AI deployments in dentistry. The relationship began in 2022 and expanded through documented phases, demonstrating a clear land-and-expand motion that scales revenue per customer materially.",
+            "headline": "Landmark DSO deployment at Dental Care Alliance",
+            "source": [
+              "https://www.overjet.com/dca"
+            ]
+          },
+          {
+            "details": "Overjet holds 10 FDA 510(k) clearances across its platform, including the first FDA clearance ever granted to a dental AI company (Dental Assist, August 2021) and the December 2025 CBCT Assist clearance for 3D imaging. FDA-cleared status is a prerequisite for selling into enterprise DSOs and payers, and the cumulative clearance footprint is a meaningful barrier for new entrants.",
+            "headline": "10 FDA clearances create regulatory moat",
+            "source": [
+              "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/"
+            ]
+          },
+          {
+            "details": "Launched March 2025 with MetLife and Humana as flagship participants, the Dental Clarity Network — anchored by ReviewPASS — positions Overjet as a two-sided platform between payers and providers. The Series B disclosure (Dec 2021) noted 16 major insurance carriers as customers, validating payer distribution as a real wedge into revenue-cycle automation.",
+            "headline": "Payer-side anchor: Dental Clarity Network with MetLife and Humana",
+            "source": [
+              "https://www.overjet.com/blog/overjet-announces-dental-clarity-network-to-streamline-benefits-for-patients"
+            ]
+          },
+          {
+            "details": "Overjet is HIPAA-compliant, HITRUST CSF certified, SOC 2 Type II compliant, GDPR-compliant (with UK/EU Standard Contractual Clauses), and CCPA-compliant. This certification stack is required for enterprise DSO and payer contracts and is held by very few dental AI competitors.",
+            "headline": "Robust enterprise security and compliance posture",
+            "source": [
+              "https://www.overjet.com/legal/trust-center"
+            ]
+          },
+          {
+            "details": "The platform spans Vision AI (diagnostic imaging), IRIS (AI-native imaging software), Overjet Voice (ambient documentation), Insurance Verification (300+ payer connections), ReviewPASS (instant claim approvals), DSO Analytics, and CBCT Assist — bundling clinical intelligence, imaging, documentation, and revenue cycle into a single enterprise sale. Customers report ~25% reduction in claim denials and ~5+ hours saved per provider per week via Voice.",
+            "headline": "Multi-product platform diversifies revenue per customer"
+          },
+          {
+            "details": "Overjet has raised ~$155M+ across rounds, with backing from General Catalyst, Insight Partners, March Capital (Series C lead, March 2024), Crosslink Capital, and the American Dental Association. The December 2025 $25.36M extension demonstrates continued investor appetite post-Series C despite a tougher 2024-2025 AI funding environment.",
+            "headline": "Strong investor syndicate and continued funding momentum",
+            "source": [
+              "https://www.finsmes.com/2021/12/overjet-raises-42-5m-in-series-b-funding-reaching-425m-valuation.html"
+            ]
+          },
+          {
+            "details": "Overjet acquired American Dental Examiners (ADE) in June 2021 to add licensed dental claims review services to its payer offerings, and acquired DentalBee in December 2025 to bolster capabilities. A roll-up strategy around clinical and revenue-cycle AI positions Overjet to consolidate fragmented dental-services software.",
+            "headline": "Strategic acquisitions extend platform breadth",
+            "source": [
+              "https://www.prnewswire.com/news-releases/overjet-acquires-dental-claims-review-company-american-dental-examiners-to-offer-fully-licensed-clinical-review-on-its-artificial-intelligence-platform-301307384.html"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer concentration is best characterized as Moderate to High. Dental Care Alliance (400+ practices across 24 states) is by far the largest publicly named customer, and the relationship has progressed from a 2022 initial partnership to a June 2026 full-suite enterprise deployment, meaning a material share of Overjet's DSO revenue base is likely tied to a single anchor account. On the payer side, the December 2021 disclosure of 16 major insurance carriers as customers, combined with the March 2025 named commitments from MetLife and Humana to the Dental Clarity Network, diversifies revenue across at least two national carriers but also concentrates platform importance in a small number of large payers. The remaining named DSO logos (TD Dental, Core Dental, Jefferson Dental, Aligned Dental Partners, The Smilist, Dental 365, North American Dental Group, Platinum Dental Services) plus the self-serve \"Try for free\" funnel suggest a mid- and long-tail base exists, but the absence of disclosed revenue figures prevents a definitive split; loss of DCA or one of the top three payers would meaningfully affect revenue predictability.",
+          "classification": {
+            "code": "High",
+            "label": "High"
+          }
+        },
+        "peers": [
+          {
+            "description": "Pearl is the closest direct competitor to Overjet, offering FDA-cleared AI for dental radiograph analysis and pathology detection. Both companies compete head-to-head for DSO and dental practice contracts, and Pearl is explicitly listed alongside Overjet as an interchangeable AI imaging vendor on Planet DDS's DentalOS platform.",
+            "name": "Pearl (Pearl AI)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002dz"
+          },
+          {
+            "description": "VideaHealth is a dental AI imaging competitor that was acquired by Henry Schein in 2024, giving it distribution advantage through the largest dental distributor. It directly competes with Overjet's Vision AI for the same DSO and group practice customers, and is similarly positioned as a Planet DDS DentalOS integration partner.",
+            "name": "VideaHealth (Henry Schein)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002z9"
+          },
+          {
+            "description": "Denti.AI is an earlier-stage dental AI company offering image analysis for dental radiographs, voice charting, and insurance verification — overlapping with both Vision AI and Overjet Voice. It represents a smaller, more focused competitor in the same dental AI category.",
+            "name": "Denti.AI",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0005v2n"
+          },
+          {
+            "description": "Planet DDS provides Denticon, an AI-native DSO enterprise platform, and has integrated Overjet alongside Pearl and VideaHealth as AI imaging options. It is both a channel partner and an adjacent competitor in DSO workflow software, making it a key distribution dependency and a strategic threat if it builds competing AI capabilities.",
+            "name": "Planet DDS (DentalOS)",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0005yzu"
+          },
+          {
+            "description": "3Shape is a global dental technology incumbent offering intraoral scanners, CAD/CAM software, and digital workflow tools. Its Medit AuraVue partner platform integrates Overjet AI, illustrating how traditional dental imaging companies rely on Overjet as a software layer; the relationship is symbiotic but 3Shape is a potential horizontal competitor.",
+            "name": "3Shape",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005jgl"
+          },
+          {
+            "description": "Align Technology operates the Invisalign system and iTero intraoral scanners — both embedded in dental practices — and has invested in AI-powered imaging and treatment planning. While not a direct competitor today, Align's scanner data and AI investments make it a strategic incumbent that could compete with Overjet's imaging AI in the orthodontic and restorative segments.",
+            "name": "Align Technology (iTero)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005ism"
+          },
+          {
+            "description": "Dentsply Sirona is one of the largest global dental equipment and digital solutions companies, offering imaging systems (including CBCT), practice management software, and a growing AI/digital workflow portfolio. It is a broad incumbent in the same dental practices Overjet targets and has the resources to bundle AI capabilities into its hardware stack.",
+            "name": "Dentsply Sirona",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000jt5"
+          },
+          {
+            "description": "Henry Schein One is the technology and practice management arm of Henry Schein, offering Dentrix and other dental software to a large installed base. Following Henry Schein's acquisition of VideaHealth, it directly distributes a competing dental AI platform, making it both a broad incumbent and an indirect competitor to Overjet in the DSO and group practice segment.",
+            "name": "Henry Schein One",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0002mbt"
+          },
+          {
+            "description": "Curve Dental provides cloud-based practice management software for dental practices and DSOs, and has begun integrating AI capabilities into its platform. It represents an emerging cloud-native competitor and potential distribution channel for AI features that could compete with or complement Overjet's clinical intelligence products.",
+            "name": "Curve Dental",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "description": "tab32 is a cloud-based dental practice management and imaging platform with growing AI capabilities, serving DSOs and dental practices. As an emerging cloud-native player with AI ambitions, it competes in adjacent workflow software and could expand into diagnostic AI to compete with Overjet.",
+            "name": "tab32",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0006x5c"
+          }
+        ]
+      },
+      "firmographic": {
+        "name": "Overjet",
+        "legal_name": "Overjet, Inc.",
+        "website": "overjet.com",
+        "company_type": {
+          "code": "private",
+          "label": "Private"
+        },
+        "founded_year": 2018,
+        "company_description": "Overjet is a venture-backed dental AI company founded in 2018 and headquartered in Boston, Massachusetts (Delaware-incorporated), that sells FDA-cleared clinical decision-support, imaging, ambient documentation, and revenue-cycle software to dental service organizations (DSOs), group dental practices, dental insurers, and dental educators. The company was the first dental AI vendor to receive FDA 510(k) clearance (for Dental Assist in August 2021) and has since accumulated 10 FDA clearances, with products spanning 2D radiographic analysis (Vision AI), AI-native imaging software (IRIS), ambient clinical voice documentation (Overjet Voice), automated insurance eligibility (Insurance Verification), real-time claims-bypass signal (ReviewPASS), DSO analytics, and a December 2025 510(k)-cleared 3D cone beam computed tomography product (CBCT Assist). Underlying infrastructure is HIPAA-ready, HITRUST-certified, SOC 2 Type II compliant, and built on Google Cloud Platform with Deepgram for transcription, LabelBox for annotation, and Auth0/Okta for identity.\n\nOverjet operates a multi-sided business model with enterprise SaaS subscriptions sold to DSOs and group practices (quote-based, multi-year contracts tied to deployment scale, exemplified by the Dental Care Alliance rollout across 400+ practices in 24 states), payer-side products sold to dental insurers (Provider Network Management, Recruiting, Provider Data Management, Provider Portal), licensed dental claims review services inherited from the 2021 acquisition of American Dental Examiners (ADE), and transaction-based revenue from ReviewPASS integrations with 300+ payers. The go-to-market combines enterprise field sales, a self-serve \"Try for free\" entry point for individual practitioners, DSO land-and-expand (DCA, TD Dental, Core Dental, Jefferson Dental, Aligned Dental Partners, The Smilist, Dental 365, North American Dental Group, Platinum Dental Services), platform partnerships (Medit AuraVue, Planet DDS DentalOS), the Dental Clarity Network (DCN) anchored by ReviewPASS with MetLife and Humana, and a curriculum partnership with Spear Education. Across approximately $156 million of disclosed venture funding and a $425 million post-money Series B valuation in late 2021, Overjet remains a private, growth-stage company with no public listing.",
+        "company_description_short": "Overjet is a Boston-based dental AI company that sells FDA-cleared imaging, ambient voice documentation, and revenue-cycle automation software to dental service organizations, group practices, dental insurers, and dental educators across the United States.",
+        "operating_status": {
+          "code": "operating",
+          "label": "Operating"
+        },
+        "ownership_category": {
+          "code": "venture_growth_investor_backed",
+          "label": "Venture Growth Investor Backed"
+        },
+        "headcount_range": "51-100",
+        "logo_url": "https://files.akta.pro/logos/00/00/2m/d964c381-2a16-5559-91c9-de2764f1d3a6.png",
+        "akta_rank": 26806
+      },
+      "business_model": {
+        "gtm_motion": [
+          {
+            "description": "Overjet runs an enterprise sales motion targeting DSOs (Dental Service Organizations), dental insurers/payers, and dental schools. The site prominently features \"Book a demo\" CTAs, dedicated sales phone line (1-617-458-7964), and solution pages segmented by buyer (Dentists, DSOs, Insurers, Educators). Large multi-location deals (e.g., Dental Care Alliance's 400+ practices across 24 states) anchor the go-to-market, supported by executive-level case studies and reference customers.",
+            "source": [
+              "https://www.overjet.com/"
+            ],
+            "type": {
+              "code": "enterprise_field_sales",
+              "label": "Enterprise Field Sales"
+            }
+          },
+          {
+            "description": "Dedicated demo funnel with form capture (First Name, Last Name, Email, Phone, Title) feeding a DSO specialist follow-up within 24 hours. Mid-market DSO buyers route through personalized demo requests with executive sponsorship.",
+            "source": [
+              "https://go.overjet.com/overjet-for-dsos?utm_source=&utm_medium=&utm_campaign=us_overjet_tofu_DCA_Announcement_June_2026&utm_content=us_overjet_tofu_DCA_Announcement_June_2026&utm_term="
+            ],
+            "type": {
+              "code": "inside_sales",
+              "label": "Inside Sales"
+            }
+          },
+          {
+            "description": "A \"Try for free\" entry point exists on the website for individual dental practices, indicating a self-serve / PLG entry for smaller accounts that can convert to enterprise contracts.",
+            "source": [
+              "https://www.overjet.com/"
+            ],
+            "type": {
+              "code": "product_led_growth",
+              "label": "Product Led Growth"
+            }
+          },
+          {
+            "description": "DSO partner ecosystem leveraged for land-and-expand: DCA relationship began in 2022 and expanded to full platform deployment across 400+ affiliated practices; partner enablement, joint press releases, and co-branded case studies drive network scaling.",
+            "source": [
+              "https://www.overjet.com/dca"
+            ],
+            "type": {
+              "code": "channel_partners",
+              "label": "Channel Partners"
+            }
+          },
+          {
+            "description": "Sponsorship of industry events (e.g., Spear Summit 2026, DSO conferences), webinars with customer executives, and presence at dental industry trade shows form a complementary event-driven GTM lever.",
+            "source": [
+              "https://orthodonticproductsonline.com/practice-products/imaging/cbct/overjet-secures-fda-clearance-for-cbct-assist-ai-platform/"
+            ],
+            "type": {
+              "code": "event_driven",
+              "label": "Event Driven"
+            }
+          }
+        ],
+        "revenue_model": [
+          {
+            "description": "Recurring SaaS contracts sold to DSOs, group practices, and individual dental offices. Pricing is quote-based, structured around deployment size (locations, providers), with multi-year enterprise agreements (e.g., Dental Care Alliance expansion across 400+ practices). Bundles Vision AI, IRIS, Voice, Insurance Verification, and ReviewPASS.",
+            "source": [
+              "https://www.overjet.com/"
+            ],
+            "title": "Enterprise SaaS subscriptions",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "Provider Network Management, Recruiting, Provider Data Management, and Provider Portal products sold to dental insurance carriers. ADE (American Dental Examiners) acquisition in 2021 added licensed dental claims review services for utilization management.",
+            "source": [
+              "https://www.overjet.com/"
+            ],
+            "title": "Payer / Insurer solutions",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "Deployment, integration, and training services accompanying enterprise rollouts (e.g., comprehensive training sessions and system integrations for DCA's 400-practice deployment).",
+            "source": [
+              "https://www.overjet.com/"
+            ],
+            "title": "Professional / implementation services",
+            "type": {
+              "code": "professional_services",
+              "label": "Professional Services"
+            }
+          },
+          {
+            "description": "ReviewPASS delivers real-time signals on whether claims bypass manual clinical review at participating payers; volume/transaction-based revenue from payer integrations covering 300+ procedures.",
+            "source": [
+              "https://www.overjet.com/blog/overjet-announces-dental-clarity-network-to-streamline-benefits-for-patients"
+            ],
+            "title": "Transactional claims / ReviewPASS processing",
+            "type": {
+              "code": "transaction_fee",
+              "label": "Transaction Fee"
+            }
+          }
+        ],
+        "cost_components": [
+          "Personnel",
+          "Technology or R&D",
+          "Marketing or Sales",
+          "Operations",
+          "Infrastructure",
+          "Others"
+        ],
+        "pricing_details": [
+          {
+            "billing_cadence": {
+              "code": "multi_year_contract",
+              "label": "Multi-year contract"
+            },
+            "description": "Enterprise quote-based subscription for DSOs and large groups",
+            "model": {
+              "code": "subscription",
+              "label": "Subscription"
+            },
+            "notes": "Pricing is quote-based; bundled platform (Vision AI, IRIS, Voice, Insurance Verification, ReviewPASS) sold as multi-year enterprise agreements tied to deployment scale (locations, providers).",
+            "source": [
+              "https://www.overjet.com/"
+            ]
+          },
+          {
+            "billing_cadence": {
+              "code": "pay_as_you_go",
+              "label": "Pay-as-you-go"
+            },
+            "description": "Try for free (self-serve entry)",
+            "model": {
+              "code": "freemium",
+              "label": "Freemium"
+            },
+            "notes": "A \"Try for free\" option exists on the website for individual practices, providing a self-serve entry point that converts to paid enterprise subscriptions.",
+            "source": [
+              "https://www.overjet.com/"
+            ]
+          }
+        ],
+        "gtm_type": {
+          "code": "b2b",
+          "label": "B2B"
+        },
+        "offering_type": {
+          "code": "software",
+          "label": "Software"
+        }
+      }
+    },
+    "credits_consumed": 6
+  }
+}

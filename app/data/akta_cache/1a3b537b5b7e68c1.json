@@ -1,0 +1,1025 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000ees&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:07:24.864Z",
+  "data": {
+    "data": {
+      "uuid": "0000ees",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "public",
+            "label": "Public"
+          },
+          "last_funding_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "total_funding_usd": 171800000
+        },
+        "funding_rounds": [
+          {
+            "id": 7687539,
+            "date": {
+              "month": 6,
+              "year": 2021
+            },
+            "round": {
+              "code": "secondary_market",
+              "label": "Secondary Market"
+            }
+          },
+          {
+            "id": 270245,
+            "date": {
+              "month": 10,
+              "year": 2019
+            },
+            "round": {
+              "code": "series_d",
+              "label": "Series D"
+            }
+          },
+          {
+            "id": 375268,
+            "date": {
+              "month": 12,
+              "year": 2018
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Frazier VC",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00nho1v",
+            "website": "https://www.frazier.vc"
+          },
+          {
+            "name": "Frazier VC",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0005w9h",
+            "website": "https://www.frazier.vc"
+          },
+          {
+            "name": "Blue Cloud Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000ert",
+            "website": "http://www.bluecloudventures.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 6 more funding rounds; 22 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "brand": [
+          {
+            "description": "AI-powered omnichannel patient engagement platform acquired by Weave in 2025, offering text-based AI receptionist capabilities.",
+            "name": "TrueLark",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ]
+          }
+        ],
+        "core_offering": "Weave Communications sells an all-in-one, AI-powered patient communications, engagement, and payments SaaS platform for small and mid-sized healthcare practices. The unified platform combines business phone service (VoIP), two-way texting, automated appointment reminders, online scheduling, digital intake forms, team chat, email marketing, AI-driven review and call analytics, and a complete payments stack. Embedded AI features—Omnichannel AI Receptionist, Call Intelligence, Response Assistant, and Email Assistant—are delivered on the platform alongside integrations to 40+ dental and medical EHR/PMS systems and embedded patient financing via CareCredit.",
+        "differentiator": "State-of-the-art generative AI trained on more than a decade of patient interactions (1B+ annually) enables highly domain-specific AI features. All-in-one unified platform eliminates need for multiple point solutions. Exclusive endorsement from the American Dental Association (ADA) for 159,000 dentist members creates a significant competitive moat. Deep EHR integrations (athenahealth, Dentrix, Eaglesoft, Open Dental, and others) provide workflow embedding. 90% average insurance verification rate with RPA-powered automation. 24/7 AI receptionist handles omnichannel (voice + text) patient interactions. Comprehensive payments solution with CareCredit integration growing 2x total revenue.",
+        "functional_benefit": "Attract: Automated missed-call texts, review management, email marketing, online scheduling, BNPL/payment plans. Engage: AI-powered call intelligence, bulk texting/email, appointment reminders, text-to-pay, automated payment reminders. Retain: Schedule gap filling, AI-powered patient recall, flexible payment options (Text to Pay, Online Bill Pay, BNPL, Payment Plans), appointment confirmations via text. Administrative efficiency: Voicemail transcription, response assistant, insurance eligibility automation, digital forms.",
+        "problem_solved": "Weave solves the fragmented, inefficient front-office operations of healthcare practices. Key problems addressed include: (1) missed calls during and after business hours resulting in lost revenue and patient dissatisfaction; (2) administrative burden of insurance eligibility verification consuming hours of front-office time; (3) fragmented payment collection with limited patient payment options; (4) patient no-shows and recall failures; (5) manual, error-prone communication workflows across phone, text, and email; (6) inability to capture and act on patient feedback and reviews; (7) lack of actionable insights from patient interactions; (8) scheduling bottlenecks and appointment management inefficiencies.",
+        "quantifiable_outcome": [
+          "1 in 3 calls to dental offices are missed during business hours, risking patient dissatisfaction",
+          "80% of missed calls are booking requests — AI Receptionist captures these revenue opportunities",
+          "47% of dental bookings occur after hours — AI Receptionist operates 24/7 to capture these",
+          "Weave Insurance Eligibility achieves 90% average insurance verification rate",
+          "43% of Weave payment customers would exclusively use Weave's services with the addition of CareCredit",
+          "AI product adoption surged over 300% in platform-handled interactions in Q1 2026",
+          "More than 50% of customer locations now use at least one embedded AI feature",
+          "Weave processes over 1 billion patient interactions annually",
+          "Dental appointment no-show rates reduced by 30-50% through automation"
+        ],
+        "product_overview": "Weave is an all-in-one AI-powered patient communications, engagement, and payments platform for healthcare practices. The unified platform combines phone systems (VoIP), two-way texting, automated reminders, scheduling, payment processing, and AI-powered tools including an omnichannel AI Receptionist (built on Google Cloud's Gemini), Call Intelligence, Response Assistant, and Email Assistant. The core platform is offered alongside modular add-ons including Weave Insurance Eligibility (WIE) with 90% verification rates, Digital Forms, Team Chat, Analytics, and Mobile App. Following its acquisition of TrueLark, Weave expanded its AI text messaging capabilities. The platform integrates with over 40 EHR/PMS systems including Dentrix, Open Dental, Eaglesoft, Athenahealth, and Planet DDS, and supports CareCredit patient financing integration. Weave serves over 40,000 customer locations across dental, medical, optometry, veterinary, and other healthcare specialties.",
+        "product_and_service": [
+          {
+            "category": "AI Patient Engagement / Receptionist",
+            "description": "Omnichannel AI-powered receptionist that works 24/7 across voice and text channels to answer patient calls, book appointments, answer FAQs, take payments, increase recall, and seamlessly hand off to staff. Built on Google Cloud's Gemini Enterprise Agent Platform.",
+            "name": "Weave AI Receptionist",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/ai-receptionist/"
+          },
+          {
+            "category": "Business Phone System (VoIP)",
+            "description": "AI-powered phone system with VoIP capabilities featuring Call Pop (patient context on incoming calls), intelligent routing, and seamless integration with the broader Weave communication platform for healthcare practices.",
+            "name": "Weave Phones",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-phones/"
+          },
+          {
+            "category": "Patient Text Messaging",
+            "description": "Two-way text messaging platform enabling practices to connect with patients via SMS with bulk texting, missed-call texts, AI-powered conversations, schedule send, texting tags, pop-out conversations, and unified inbox.",
+            "name": "Weave Texting",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-texting/"
+          },
+          {
+            "category": "Patient Appointment Reminders",
+            "description": "Automated appointment reminder system that helps practices ensure appointments are kept, reducing no-shows and improving practice efficiency.",
+            "name": "Weave Reminders",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-reminders/"
+          },
+          {
+            "category": "Online Scheduling",
+            "description": "Appointment scheduling tools with online scheduling requests and automated booking capabilities integrated with AI Receptionist for 24/7 appointment management.",
+            "name": "Weave Scheduling",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-scheduling/"
+          },
+          {
+            "category": "Healthcare Payment Processing",
+            "description": "Complete payment solution offering terminals, manual card entry, card on file, Buy Now Pay Later, Text to Pay, payment plans, online bill pay, and embedded CareCredit financing for healthcare practices.",
+            "name": "Weave Payments",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-payments/"
+          },
+          {
+            "category": "Insurance Eligibility Automation",
+            "description": "RPA-powered insurance eligibility verification solution that automatically retrieves real-time insurance data from payer portals for dental practices, achieving a 90% average verification rate.",
+            "name": "Weave Insurance Eligibility (WIE)",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-insurance-verification/"
+          },
+          {
+            "category": "Digital Patient Intake",
+            "description": "Digital intake and forms solution that streamlines patient information collection and reduces paper-based workflows in healthcare practices.",
+            "name": "Weave Digital Forms",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-digital-forms/"
+          },
+          {
+            "category": "Patient Email Marketing",
+            "description": "AI-assisted branded email marketing solution with Email Assistant that helps practices create professional emails without design skills, featuring bulk email capabilities for patient engagement.",
+            "name": "Weave Email Marketing",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-email-marketing/"
+          },
+          {
+            "category": "Reputation Management",
+            "description": "Review management and reputation platform with AI Response Assistant to streamline responses to patient reviews, collect five-star reviews, and manage online reputation for healthcare practices.",
+            "name": "Weave Reviews",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-marketing/"
+          },
+          {
+            "category": "Internal Team Communication",
+            "description": "Internal team communication tool enabling staff collaboration with pop-out conversations, unified messaging, notification center, and contact management.",
+            "name": "Weave Team Chat",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/team-chat/"
+          },
+          {
+            "category": "Practice Analytics",
+            "description": "Office analytics and insights dashboard providing key metrics, customizable quick actions, and practice performance data for healthcare practices.",
+            "name": "Weave Analytics",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-analytics/"
+          },
+          {
+            "category": "Mobile Practice Access",
+            "description": "Mobile application enabling practices to access Weave features on-the-go with full functionality from mobile devices.",
+            "name": "Weave Mobile App",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/weave-mobile-app/"
+          },
+          {
+            "category": "AI Call Analytics",
+            "description": "AI-powered call analysis feature that analyzes call recordings, detects patient sentiment, identifies revenue opportunities, and provides written transcriptions with actionable insights from call data.",
+            "name": "Weave Call Intelligence",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/call-intelligence/"
+          },
+          {
+            "category": "AI Patient Engagement (Acquired Brand)",
+            "description": "AI-powered omnichannel patient engagement solution integrated into Weave's platform following acquisition, providing text-based AI receptionist capabilities and 24/7 patient communication.",
+            "name": "TrueLark AI",
+            "source": [
+              "https://www.getweave.com/"
+            ],
+            "url": "https://www.getweave.com/truelark/"
+          },
+          {
+            "category": "Unified Communications Platform",
+            "description": "Next-generation web-based platform experience featuring enhanced UI/UX, multi-tasking capabilities, pop-out conversations, unified inbox, centralized location management, and automatic updates with new features released continuously.",
+            "name": "New Weave Experience",
+            "source": [
+              "https://www.getweave.com/new-weave/"
+            ],
+            "url": "https://www.getweave.com/new-weave/"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Customer locations (practices) served by the platform, spanning dental, medical, specialty medical, and other healthcare verticals.",
+            "source": [
+              "https://markets.financialcontent.com/fatpitch.valueinvestingnews/article/bizwire-2026-4-17-weaves-latest-platform-enhancements-power-smarter-growth-for-healthcare-practices"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "Over 40,000"
+          },
+          {
+            "description": "Patient interactions processed annually through the Weave platform.",
+            "source": [
+              "https://markets.financialcontent.com/fatpitch.valueinvestingnews/article/bizwire-2026-4-17-weaves-latest-platform-enhancements-power-smarter-growth-for-healthcare-practices"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "Over 1 billion"
+          },
+          {
+            "description": "Dentist members of the American Dental Association (ADA), for whom Weave is the exclusive endorsed patient engagement platform.",
+            "source": [
+              "https://www.dentistrytoday.com/weave-named-exclusive-patient-engagement-platform-endorsed-for-ada-members/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "159,000"
+          },
+          {
+            "description": "Healthcare providers served by athenahealth's athenaOne EHR system through the athenahealth Marketplace integration.",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html"
+            ],
+            "type": {
+              "code": "integration_ecosystem",
+              "label": "Integration Ecosystem"
+            },
+            "value": "160,000+"
+          },
+          {
+            "description": "Q1 2026 revenue, representing 17.4% year-over-year growth, exceeding the high end of guidance.",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-q1-earnings-call-181214083.html"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$65.5 million"
+          },
+          {
+            "description": "Full year 2025 revenue, representing 17.0% year-over-year growth. Full year 2026 guidance raised to $275–$278 million.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$239.0 million"
+          },
+          {
+            "description": "Record gross margin achieved in Q4 2025. Q4 2025 GAAP gross margin at 72.7%.",
+            "source": [
+              "https://seekingalpha.com/article/4872731-weave-communications-inc-weav-q4-2025-earnings-call-transcript?source=feed_all_articles"
+            ],
+            "type": {
+              "code": "profitability",
+              "label": "Profitability"
+            },
+            "value": "73.3%"
+          },
+          {
+            "description": "Full year 2026 revenue guidance raised by management, up from prior guidance of $273–$276 million.",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$275–$278 million"
+          },
+          {
+            "description": "Weave has met or exceeded revenue guidance for 17 consecutive quarters (through Q1 2026).",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-q1-earnings-call-181214083.html"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "17th consecutive quarter"
+          },
+          {
+            "description": "Estimated total addressable market (TAM) following the TrueLark AI acquisition, expanded from approximately $15 billion.",
+            "source": [
+              "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "$22 billion"
+          },
+          {
+            "description": "Weave's specialty medical vertical is at approximately 1% market penetration, representing a significant growth opportunity.",
+            "source": [
+              "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html"
+            ],
+            "type": {
+              "code": "market_share",
+              "label": "Market Share"
+            },
+            "value": "~1%"
+          },
+          {
+            "description": "Net new customer locations added during full year 2025.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "4,628 net new customer locations"
+          },
+          {
+            "description": "Surge in AI product adoption measured by platform-handled interactions in Q1 2026.",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "Over 300%"
+          },
+          {
+            "description": "More than 50% of Weave customer locations now using at least one embedded AI feature as of Q1 2026.",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "More than 50%"
+          },
+          {
+            "description": "Weave achieved positive free cash flow of $12.9 million for full year 2025. Management expects free cash flow to turn positive in H1 2026.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ],
+            "type": {
+              "code": "profitability",
+              "label": "Profitability"
+            },
+            "value": "Positive free cash flow"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 11,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Weave announced an integration partnership with athenahealth through the athenahealth Marketplace program, connecting Weave's AI-powered patient engagement and payments platform with athenahealth's athenaOne EHR system. The integrated application helps healthcare practices address revenue leaks and workflow bottlenecks through automated features including missed call follow-ups, appointment reminders, two-way messaging, and integrated payments. Weave joins athenahealth's ecosystem serving over 160,000 providers.",
+            "name": "athenahealth",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0005v89"
+          },
+          {
+            "announced_on": {
+              "day": 30,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Minted Technology Advisors is a certified Weave partner. Through its MintedCX advisory model, Minted Technology Advisors helps healthcare practices adopt, implement, and train on Weave's integrated communications platform. Both companies emphasize their shared goal of helping healthcare offices streamline operations and deliver better patient care. MintedCX advisory services help healthcare institutions adopt Weave's communication technology solutions.",
+            "name": "Minted Technology Advisors",
+            "source": [
+              "https://www.businesswire.com/news/home/20260330966394/en/Minted-Technology-Advisors-Unlocks-Growth-for-Healthcare-Practices-Through-Weave-Partnership"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "implementation_si_consulting",
+              "label": "Implementation/ SI/ Consulting Partner"
+            },
+            "uuid": "02mjd2a"
+          },
+          {
+            "announced_on": {
+              "day": 19,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Weave announced a strategic partnership with Synchrony Financial to integrate CareCredit's patient financing solution into Weave's all-in-one customer experience and payments platform for healthcare practices. The integration allows front office staff to view a patient's CareCredit status and available funds directly within Weave's workflow, enabling more informed financial conversations before patients arrive and reducing treatment deferral. 43% of Weave payment customers indicate they would exclusively use Weave's services with the addition of CareCredit.",
+            "name": "Synchrony Financial (CareCredit)",
+            "source": [
+              "https://www.businesswire.com/news/home/20260219620984/en/Weave-Announces-Strategic-CareCredit-Integration-Partnership-with-Patient-Financing-Leader-Synchrony"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00005jj"
+          },
+          {
+            "announced_on": {
+              "day": 28,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Weave's Omnichannel AI Receptionist was built on Google Cloud's Gemini Enterprise Agent Platform. The collaboration enables healthcare front offices to handle patient interactions across voice and text channels with AI-powered routing, context preservation, and seamless escalation to staff. The collaboration aims to reduce administrative burden, improve patient experience, and support HIPAA-compliant operations at scale.",
+            "name": "Google Cloud (Gemini Enterprise Agent Platform)",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "0000d34"
+          },
+          {
+            "announced_on": {
+              "day": 13,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Weave was selected as the exclusive patient engagement platform endorsed by the American Dental Association (ADA) for its 159,000 dentist members. The endorsement was granted after a rigorous vetting process by ADA Member Advantage. ADA members who sign up for Weave receive discounts and enhanced training. This is a flagship endorsement creating exclusive access to the entire ADA membership base.",
+            "name": "American Dental Association (ADA) / ADA Member Advantage",
+            "source": [
+              "https://www.dentistrytoday.com/weave-named-exclusive-patient-engagement-platform-endorsed-for-ada-members/"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "0006dt1"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "year": 2025
+            },
+            "description": "Acquired TrueLark in 2025, expanding AI text-messaging capabilities and growing total addressable market by approximately $7 billion to an estimated $22 billion.",
+            "source": [
+              "https://in.investing.com/news/analyst-ratings/stifel-cuts-weave-communications-stock-price-target-on-valuation-93CH-5250084"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Launched Omnichannel AI Receptionist built on Google Cloud's Gemini Enterprise Agent Platform, enabling 24/7 voice and text patient interactions with seamless staff handoff.",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 13,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Secured exclusive endorsement from the American Dental Association (ADA) as the endorsed patient engagement platform for its 159,000 dentist members, with ADA member discounts and enhanced training included.",
+            "source": [
+              "https://www.dentistrytoday.com/weave-named-exclusive-patient-engagement-platform-endorsed-for-ada-members/"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Launched Weave Insurance Eligibility (WIE), an RPA-powered solution achieving a 90% average insurance verification rate for dental practices by automating payer-portal data retrieval.",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-unveils-rpa-powered-insurance-eligibility-dramatically-9dgb0c95kvee.html"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 11,
+              "month": 6,
+              "year": 2026
+            },
+            "description": "Integrated with athenahealth through the athenahealth Marketplace, connecting Weave's platform to athenahealth's athenaOne EHR ecosystem of over 160,000 providers.",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "day": 30,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Entered into a cooperation agreement with activist investors Engine Capital and 2717 Partners, appointing Ryan Dubin and Edward Robson as independent directors and forming a new Finance Committee chaired by David Silverman.",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-weav-acknowledges-partnership-140558502.html"
+            ],
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "date": {
+              "year": 2021
+            },
+            "description": "Weave Communications went public in 2021 under CEO Roy Banks, representing a rare high-visibility outcome for a Black-led venture-backed company.",
+            "source": [
+              "https://urbangeekz.com/2026/03/nine-black-ceos-who-built-venture-backed-companies-that-went-public/"
+            ],
+            "title": "Weave Communications IPO",
+            "type": {
+              "code": "ipo",
+              "label": "Ipo"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Weave Communications finalized a cooperation agreement with Engine Capital and 2717 Partners LP, appointing Ryan Dubin and Edward Robson as new independent directors and forming a dedicated Finance Committee chaired by David Silverman.",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-weav-acknowledges-partnership-140558502.html"
+            ],
+            "title": "Activist Investor Cooperation Agreement",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "Ryan Dubin and Edward Robson were appointed as Class III directors to the board, effective immediately, with the board establishing a new Finance Committee.",
+            "source": [
+              "https://www.investing.com/news/company-news/weave-adds-two-directors-in-cooperation-deal-with-investors-93CH-4587730"
+            ],
+            "title": "Board Director Appointments",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "The board formed a new Finance Committee and search for a third independent director with executive-level software operating experience as part of the agreement with activist investors.",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-communications-appoints-edward-robson-and-ryan-dubin-to-board-nktdw1pnpfnn.html"
+            ],
+            "title": "Finance Committee Formation",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "athenahealth Marketplace integration (June 2026) opens access to 160,000+ providers in the athenaOne ecosystem, materially expanding Weave's addressable footprint beyond its existing 40,000+ customer locations. The move is the clearest new-channel signal in the dataset.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "TrueLark acquisition and AI Receptionist launch on Google Gemini target the specialty medical vertical, which management disclosed is at only ~1% market penetration, representing the company's largest white-space vertical opportunity.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "ADA endorsement (March 2026) provides direct GTM access to 159,000 ADA dentist members with member-only pricing and training — a flagship new-customer-segment channel that did not previously exist for Weave at this scale.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "AI Voice Call Credits introduced as a consumption-based pricing model layered on top of subscriptions (overage fees, monthly expiration) signals a new pricing model that aligns Weave's monetization with AI usage intensity, supporting upside as AI adoption scales.",
+            "type": {
+              "code": "new_pricing_model",
+              "label": "New Pricing Model"
+            }
+          },
+          {
+            "description": "WIE insurance eligibility (Feb 2026) and Call Intelligence (sentiment, revenue-opportunity detection) extend the product surface into RPA-driven revenue-cycle automation and analytics, deepening platform attachment beyond communications.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "CareCredit (Synchrony) integration (Feb 2026) embeds patient financing into Weave Payments, with 43% of Weave payment customers indicating they would exclusively use Weave with the addition — a meaningful ecosystem buildout around the payments surface.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "250m_500m",
+          "label": "$250M-$500M"
+        },
+        "valuation_estimate": {
+          "code": "500m_1b",
+          "label": "$500M-$1B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Weave Communications, Inc. (NYSE: WEAV) is a publicly-traded, healthcare-focused customer communications and payments SaaS company headquartered in Lehi, Utah. The company serves more than 40,000 customer locations across dental, specialty medical, optometry, veterinary, and medical-spa verticals, processing more than 1 billion patient interactions annually. It is the exclusive patient engagement platform endorsed by the American Dental Association for 159,000 dentist members, holds the #2 spot on G2's 2026 Best Healthcare Software list, and operates within an estimated $22 billion total addressable market following its 2025 acquisition of TrueLark. Q1 2026 revenue reached $65.5 million (17.4% YoY growth) and FY2026 guidance was raised to $275–$278 million.",
+        "strengths": [
+          {
+            "details": "Specialty medical is at ~1% penetration of a market that expanded by ~$7B to ~$22B following TrueLark. Going forward, AI Receptionist, omnichannel voice+text, and AI Receptionist early access for Dentrix/Eaglesoft/Open Dental users (25% off through 2026) should drive multi-year tailwinds in this underserved vertical. The 600+ location specialty medical win validates the enterprise play and creates a repeatable motion to scale ARPU meaningfully beyond the dental ceiling.",
+            "headline": "Specialty medical expansion unlocks $22B TAM",
+            "source": [
+              "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html"
+            ]
+          },
+          {
+            "details": "AI product adoption surged >300% in platform-handled interactions in Q1 2026, and >50% of customer locations use at least one embedded AI feature. Consumption-based pricing on AI Voice Call Credits (usage with overages) layers on top of the subscription base. As AI Receptionist graduates from early-access discount to full pricing, we expect meaningful ARPU expansion and net revenue retention to accelerate above the current 17% organic growth.",
+            "headline": "AI adoption compounds into ARPU expansion",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ]
+          },
+          {
+            "details": "Payments revenue is growing at >2x total company revenue rate (FY2025: total revenue +17%). CareCredit integration embedded in 2026 with 43% of payment customers indicating they would exclusively use Weave's services with financing—turning payments from a feature into a retention and monetization flywheel. As payment volume scales, this high-margin, transaction-based stream should disproportionately lift blended gross margin (already at 73.3% record).",
+            "headline": "Payments flywheel drives margin-rich mix shift",
+            "source": [
+              "https://www.businesswire.com/news/home/20260219620984/en/Weave-Announces-Strategic-CareCredit-Integration-Partnership-with-Patient-Financing-Leader-Synchrony"
+            ]
+          },
+          {
+            "details": "ADA exclusive endorsement grants Weave privileged access to 159,000 dentist members with discounts and co-marketing. Combined with >40,000 customer locations, 1B+ annual patient interactions training proprietary LLMs, and integration depth across 40+ EHR/PMS systems, Weave is building the healthcare-specific data and distribution moat that general-purpose AI vendors cannot replicate. This verticalized training corpus should improve model accuracy, reduce hallucination risk in HIPAA-sensitive contexts, and compound as more practices adopt AI features.",
+            "headline": "ADA endorsement + data moat deepens defensibility",
+            "source": [
+              "https://www.dentistrytoday.com/weave-named-exclusive-patient-engagement-platform-endorsed-for-ada-members/"
+            ]
+          },
+          {
+            "details": "FY2025 free cash flow turned positive at $12.9M, with management expecting positive FCF for H1 2026. Record 73.3% gross margin (Q4 2025) provides a path to GAAP profitability as growth investments moderate. Subscription-based revenue (~17% YoY, beating guide for 17 consecutive quarters) combined with payments expansion enables leverage as AI features compress service costs. The transition from cash-burn to cash-generation unlocks strategic optionality (M&A, buybacks) and reduces activist overhang over time.",
+            "headline": "Positive FCF inflection enables reinvestment optionality",
+            "source": [
+              "https://seekingalpha.com/article/4872731-weave-communications-inc-weav-q4-2025-earnings-call-transcript?source=feed_all_articles"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Engine Capital and 2717 Partners secured board seats via a cooperation agreement in March 2026, plus the formation of a dedicated Finance Committee. Activist pressure increases the risk of forced strategic changes, capital return demands, or management turnover that distracts from operational execution and could derail the multi-year AI build-out. The new directors (Dubin, Robson) did not come through normal succession, suggesting shareholder dissatisfaction with capital allocation or pace of profitable growth.",
+            "headline": "Activist investor presence threatens strategic disruption",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-weav-acknowledges-partnership-140558502.html"
+            ]
+          },
+          {
+            "details": "Weave reported -$18.9M EBITDA in FY2025, narrowing from -$39M in FY2021. As a public SaaS with growth decelerating to ~17% (vs. ~25% at IPO), the company remains structurally unprofitable on a GAAP basis and may face public-market valuation compression if growth continues to slow or if capital markets tighten. Negative operating income of -$28.9M suggests margin expansion could be more elusive than gross margin (73%) implies.",
+            "headline": "Path to profitability remains unproven at scale",
+            "source": [
+              "https://seekingalpha.com/article/4872731-weave-communications-inc-weav-q4-2025-earnings-call-transcript?source=feed_all_articles"
+            ]
+          },
+          {
+            "details": "Weave prices subscription contracts with annual escalator clauses of up to 10% per 12-month period. In a competitive patient engagement market with point solutions (NexHealth, Solutionreach, Birdeye, etc.) and AI-native entrants, sustained 10% price hikes risk customer churn at SMB practices. Bundling raises unit economics but also raises the bar for switching costs—any lapse in service quality could push cost-sensitive dental and medical practices to disaggregated alternatives.",
+            "headline": "Pricing power constrained by SMB churn sensitivity",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ]
+          },
+          {
+            "details": "TrueLark integration expanded TAM by ~$7B to $22B, but Weave acknowledges specialty medical is at ~1% market penetration. Low penetration can reflect both opportunity and structural friction—specialty medical workflows are more fragmented, have stricter HIPAA/clinical compliance needs, and depend on deep EHR integrations (athenahealth is 160,000 providers, but only a fraction are live). Closing the gap requires multi-year sales cycles and elevated S&M spend that could compress operating margins.",
+            "headline": "Specialty medical penetration is a double-edged signal",
+            "source": [
+              "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html"
+            ]
+          },
+          {
+            "details": "Weave's competitive moat rests on EHR/PMS integrations (Dentrix, Eaglesoft, Open Dental, athenahealth, Planet DDS, etc.) and its AI models trained on 1B+ annual patient interactions. Hyperscalers (Microsoft, Google—its Gemini partner), Salesforce Health Cloud, and AI-native startups (e.g., Abridge, Suki) are pouring capital into healthcare AI. As cloud providers, EHR vendors, or new entrants build comparable conversational + voice AI, Weave's lead could erode as practices consolidate spend with strategic vendors.",
+            "headline": "Big Tech and AI-native entrants threaten the moat",
+            "source": [
+              "https://www.businesswire.com/news/home/20260219620984/en/Weave-Announces-Strategic-CareCredit-Integration-Partnership-with-Patient-Financing-Leader-Synchrony"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Weave holds the exclusive patient engagement platform endorsement from the American Dental Association (ADA) for its 159,000 dentist members — a third-party validated, single-vendor designation that competitors cannot replicate without ADA approval. This endorsement is reinforced by G2 #2 Best Healthcare Software 2026 ranking and ADA Member Advantage vetting.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Weave processes over 1 billion patient interactions annually across 40,000+ customer locations, building a decade-plus proprietary healthcare conversation dataset used to train domain-specific LLMs. This corpus, combined with RPA-built payer-portal integrations yielding 90% insurance verification rates, is difficult for new entrants to replicate.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Weave is integrated with 40+ EHR/PMS systems including Dentrix, Eaglesoft, Open Dental, athenahealth, and Planet DDS, embedding itself into daily clinical workflows. The athenahealth Marketplace listing alone provides distribution access to 160,000+ providers, creating ecosystem-level lock-in beyond the individual customer relationship.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "The unified all-in-one platform consolidates telephony, SMS, payments, scheduling, reviews, and AI receptionist into a single product with annual contracts, multi-location management, and aggregated reporting for DSOs. With more than 50% of customers using embedded AI features and payments revenue growing 2x the company average, switching costs compound as more workflows migrate onto Weave.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Multi-channel distribution combines direct field/inside sales, the athenahealth Marketplace (160,000+ providers), ADA Member Advantage channel, and the Minted Technology Advisors certified partner program. The 600+ location specialty medical group win demonstrates enterprise sales capability, while the website's PLG-style product tour supports SMB self-service conversion.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Engine Capital and 2717 Partners entered a cooperation agreement in March 2026, securing two new board seats (Ryan Dubin, Edward Robson) and forming a dedicated Finance Committee chaired by David Silverman. Activist campaigns often pressure management teams to consider strategic reviews, capital returns, or leadership changes that can distract from operational momentum in a competitive AI build-out cycle.",
+            "headline": "Activist investor involvement elevates governance and execution risk",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-weav-acknowledges-partnership-140558502.html"
+            ]
+          },
+          {
+            "details": "FY2025 GAAP operating income was -$28.9M and net income was -$28.1M, although EBITDA improved to -$18.9M (from -$39.0M in 2021) and free cash flow turned positive at $12.9M. The gap between FCF inflection and GAAP profitability means heavy ongoing reinvestment in R&D (especially AI/Gemini build-out) and S&M, and any deceleration in revenue would compress margins quickly.",
+            "headline": "Sustained GAAP unprofitability despite improving cash profile",
+            "source": [
+              "https://seekingalpha.com/article/4872731-weave-communications-inc-weav-q4-2025-earnings-call-transcript?source=feed_all_articles"
+            ]
+          },
+          {
+            "details": "Subscription fees can increase up to 10% in any 12-month period. Cost-sensitive SMB dental and medical practices have multiple alternatives (NexHealth, Solutionreach, Birdeye, Podium); aggressive annual escalators risk motivating switches, particularly for long-tenured customers with minimal ongoing feature uplift.",
+            "headline": "Subscription escalator clause could trigger SMB churn",
+            "source": [
+              "https://www.businesswire.com/news/home/20260218591820/en/Weave-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+            ]
+          },
+          {
+            "details": "Dental remains the dominant vertical, with the ADA endorsement providing member access to 159,000 dentists. Any downturn in DSOs, dental practice openings, or insurance-driven elective procedure volume would disproportionately hit Weave versus more diversified healthcare platforms. Dental-vertical dependency also caps reimbursement-driven revenue ceiling relative to broader healthcare SaaS peers.",
+            "headline": "Heavy revenue concentration in dental vertical",
+            "source": [
+              "https://markets.financialcontent.com/fatpitch.valueinvestingnews/article/bizwire-2026-4-17-weaves-latest-platform-enhancements-power-smarter-growth-for-healthcare-practices"
+            ]
+          },
+          {
+            "details": "Weave operates only in the United States and Canada, with geographic restrictions explicitly noted. International expansion faces localization, regulatory, and EHR-integration barriers, while peer platforms with broader footprints are not similarly capped. Limited TAM expansion via geography means growth must come from share gains within North America.",
+            "headline": "Geographic concentration in U.S./Canada limits expansion optionality",
+            "source": [
+              "https://www.getweave.com/legal/privacy/"
+            ]
+          },
+          {
+            "details": "Weave's AI Receptionist is built on Google Cloud's Gemini Enterprise Agent Platform, and the company's value depends on continued partnership access and favorable pricing. Separately, EHR vendor partnerships (athenahealth, Dentrix, Eaglesoft, Open Dental, Planet DDS) could shift terms, bundle competing patient engagement features, or restrict API access—any of which would weaken Weave's integration moat and SMB go-to-market.",
+            "headline": "AI vendor and EHR platform risks on both sides",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-unveils-enterprise-grade-omnichannel-ai-receptionist-built-a91szpbndnpv.html"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "FY2025 revenue of $239.0M (+17.0% YoY); Q1 2026 revenue of $65.5M (+17.4% YoY) above guidance high end; FY2026 guidance raised to $275–$278M. Weave has met or exceeded revenue guidance for 17 consecutive quarters, reflecting strong forecast discipline and durable demand for its platform.",
+            "headline": "Consistent 17% revenue growth with 17 straight guidance beats",
+            "source": [
+              "https://finance.yahoo.com/markets/stocks/articles/weave-communications-q1-earnings-call-181214083.html"
+            ]
+          },
+          {
+            "details": "Weave is the exclusive patient engagement platform endorsed by the American Dental Association for its 159,000 dentist members. Following a rigorous ADA Member Advantage vetting process, ADA members receive discounts and enhanced training—a powerful third-party validation and a meaningful distribution moat that competitors cannot replicate.",
+            "headline": "Exclusive ADA endorsement unlocks 159,000 dentist member base",
+            "source": [
+              "https://www.dentistrytoday.com/weave-named-exclusive-patient-engagement-platform-endorsed-for-ada-members/"
+            ]
+          },
+          {
+            "details": "AI product adoption surged >300% in platform-handled interactions in Q1 2026, and over 50% of Weave customer locations now use at least one embedded AI feature. Combined with >1B annual patient interactions training proprietary LLMs and the Google Cloud Gemini-built AI Receptionist, this signals rapid conversion of the installed base to higher-ARPU AI-driven consumption.",
+            "headline": "AI product adoption accelerating >300% in Q1 2026",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ]
+          },
+          {
+            "details": "Payments revenue is growing at more than 2x the total company revenue growth rate. With CareCredit integration (43% of payment customers would exclusively use Weave with financing) plus Text-to-Pay, BNPL, and payment plans, payments is becoming a margin-rich, transaction-based mix shift that expands ARPU and retention.",
+            "headline": "Payments revenue growing >2x total company rate",
+            "source": [
+              "https://www.fool.com/earnings/call-transcripts/2026/05/01/weave-weav-q1-2026-earnings-call-transcript/?source=iedfolrf0000001"
+            ]
+          },
+          {
+            "details": "Q4 2025 record gross margin of 73.3% (GAAP 72.7%), with full-year FY2025 free cash flow of positive $12.9M. Management expects free cash flow to remain positive in H1 2026, evidencing durable unit economics and a structural transition from cash-burn to cash-generation ahead of broader GAAP profitability.",
+            "headline": "Record gross margins and positive FCF inflection",
+            "source": [
+              "https://seekingalpha.com/article/4872731-weave-communications-inc-weav-q4-2025-earnings-call-transcript?source=feed_all_articles"
+            ]
+          },
+          {
+            "details": "The 2025 TrueLark acquisition added omnichannel AI text-messaging patient engagement capabilities, expanding total addressable market from ~$15B to ~$22B. Specialty medical vertical is at ~1% market penetration, indicating significant upside runway now that AI omnichannel capabilities are integrated into the unified platform.",
+            "headline": "TrueLark acquisition expanded TAM by ~$7B to ~$22B",
+            "source": [
+              "https://finance.yahoo.com/news/weave-communications-inc-q4-2025-133000767.html"
+            ]
+          },
+          {
+            "details": "Weave integrates with 40+ EHR/PMS systems including Dentrix, Eaglesoft, Open Dental, athenahealth (160,000+ providers), Planet DDS, and Practice Fusion. Plus the athenahealth Marketplace partnership and CareCredit embed deeply into daily practice workflows, raising switching costs and accelerating product-led discovery.",
+            "headline": "40+ EHR/PMS integrations create workflow embedding moat",
+            "source": [
+              "https://www.stocktitan.net/news/WEAV/weave-joins-athenahealth-s-marketplace-program-giving-healthcare-3ybbw5zreghe.html"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Weave serves over 40,000 customer locations across dental, medical, optometry, veterinary, and medical spa verticals, with the largest disclosed account being a 600+ location specialty medical group win — a meaningful but not dominant share of the installed base. Customer mix is heavily skewed to SMB dental practices (159,000 ADA-member dentist addressable base, ~1% specialty medical penetration), distributed across thousands of small-dollar subscription contracts. Annual contracts, 30-day SMB cancellation notice, and a consumption-based AI voice credit overlay create modest revenue predictability risk but very low single-customer concentration. Payments and AI usage-based revenue layers are growing 2x+ the company average, further diversifying the revenue base. The only concentration risk is vertical — dental remains the largest segment — but the athenahealth Marketplace integration and TrueLark-driven specialty medical push are actively de-concentrating that exposure.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Solutionreach is one of Weave's closest direct competitors, providing patient communication, recall, reputation, and engagement software primarily to dental and medical practices. Both target SMB healthcare practices with all-in-one messaging, reminders, and front-office automation.",
+            "name": "Solutionreach",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00068cw"
+          },
+          {
+            "description": "NexHealth is a leading patient experience platform for dental and medical practices, offering online scheduling, patient messaging, digital intake, reviews, and EHR integrations. It competes directly with Weave in dental and is expanding into specialties, sharing Weave's API-first EHR integration thesis.",
+            "name": "NexHealth",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000086v"
+          },
+          {
+            "description": "PatientPop, now part of Tebra, offers patient acquisition and communication tools (messaging, scheduling, reviews) for medical and dental practices. Direct overlap with Weave on patient communication, online scheduling, and reputation management for healthcare SMBs.",
+            "name": "PatientPop (by Tebra)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000ec4"
+          },
+          {
+            "description": "Birdeye is a customer experience platform with reviews, messaging, and AI agents for multi-location SMBs. While broader than Weave (multi-vertical), Birdeye is increasingly competing in healthcare practices with comparable reputation management, two-way texting, and AI response offerings.",
+            "name": "Birdeye",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002or"
+          },
+          {
+            "description": "Demandforce (owned by Internet Brands) provides patient communication, appointment reminders, online reputation, and marketing automation for healthcare and wellness practices. It is a long-standing direct competitor in dental and medical SMB front-office communications.",
+            "name": "Demandforce",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0006y96"
+          },
+          {
+            "description": "Podium is a leading AI-powered customer interaction platform for SMBs including healthcare practices, providing messaging, reviews, payments, and AI webchat. It competes with Weave on AI-powered patient/lead communication and integrated payments for SMB verticals.",
+            "name": "Podium",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00007ly"
+          },
+          {
+            "description": "Klara is a healthcare-specific patient communication and collaboration platform focused on medical practices and health systems. It competes with Weave on omnichannel patient messaging, secure messaging, and EHR integration, with deeper clinical collaboration angle.",
+            "name": "Klara",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000bsx"
+          },
+          {
+            "description": "Luma Health provides patient engagement and scheduling automation for specialty medical practices, including self-scheduling, waitlist management, and AI-driven outreach. It overlaps with Weave's specialty medical expansion and appointment workflow focus.",
+            "name": "Luma Health",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00025zz"
+          },
+          {
+            "description": "TigerConnect is a broader healthcare communication platform focused on clinical team messaging, alarm management, and patient communication for hospitals and health systems. It is more enterprise/health-system-oriented than Weave but competes in healthcare messaging and engagement.",
+            "name": "TigerConnect",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00000zv"
+          },
+          {
+            "description": "RevenueWell, now part of DentalHQ, provides patient communication, recall, insurance verification, and marketing for dental practices. A direct competitor in dental front-office automation, mirroring Weave's dental-focused features including two-way texting and patient engagement.",
+            "name": "RevenueWell (by DentalHQ)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "003vut9"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

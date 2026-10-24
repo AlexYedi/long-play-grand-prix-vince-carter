@@ -1,0 +1,239 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000b4d&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:22.625Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 20112781,
+        "title": "Riskified Files its Annual Report on Form 20-F",
+        "url": "https://www.01net.it/riskified-files-its-annual-report-on-form-20-f-3/",
+        "publisher": "01net",
+        "published_date": "2026-03-07T00:30:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6943,
+        "ai_summary": "Riskified Ltd. filed its annual report on Form 20-F for the fiscal year ending December 31, 2025, with the U.S. SEC. The report highlights its role in eCommerce fraud and risk intelligence, supporting major online brands with its AI-powered platform. ",
+        "word_count": 241,
+        "original_language": "EN",
+        "author": "Business Wire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Fraud Detection & Prevention (payments fraud, account takeover, scams)",
+            "code": "FSAGAFAE",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Prevention, Risk & Chargeback Management",
+            "code": "CRAFALAE",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000b4d",
+            "name": "Riskified",
+            "website": "https://www.riskified.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "other",
+          "label": "Other"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000171",
+            "name": "business finance"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "52",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "cristina dinozo",
+            "chett mandel"
+          ],
+          "location": [
+            "new york",
+            "ny"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7994,
+        "group_id": 1631922,
+        "full_text": "Business Wire English Riskified Files its Annual Report on Form 20-F di Business Wire - Facebook Twitter Linkedin Telegram Pinterest WhatsApp Email Print NEW YORK--(BUSINESS WIRE)--Riskified Ltd. (NYSE: RSKD), a leader in eCommerce fraud and risk intelligence, today announced that it has filed its annual report on Form 20-F for the fiscal year ended December 31, 2025 with the U.S. Securities and Exchange Commission (“SEC”). The annual report on Form 20-F can be accessed on the Company’s investor relations website at https://ir.riskified.com or on the SEC’s website at www.sec.gov.\n\n\n\nRiskified will provide a hard copy of the annual report containing its audited consolidated financial statements, free of charge, to its shareholders upon request. Requests should be directed in writing by email to ir@riskified.com, or by post to Riskified Ltd., 220 5th Avenue, 2nd Floor, New York, NY 10001. About Riskified Riskified (NYSE:RSKD) empowers businesses to unleash ecommerce growth by outsmarting risk. Many of the world’s biggest brands and publicly traded companies selling online rely on Riskified for guaranteed protection against chargebacks, to fight fraud and policy abuse at scale, and to improve customer retention. Developed and managed by the largest team of ecommerce risk analysts, data scientists, and researchers, Riskified’s AI-powered fraud and risk intelligence platform analyzes the individual behind each interaction to provide real-time decisions and robust identity-based insights. Learn more at riskified.com.\n\nContacts\n\nInvestor Relations:\n\n\n\nChett Mandel\n\nHead of Investor Relations\n\nir@riskified.com\n\n\n\nCorporate Communications:\n\n\n\nCristina Dinozo\n\nSenior Director of Communications\n\npress@riskified.com Facebook Twitter Linkedin Telegram Pinterest WhatsApp Email Print"
+      },
+      {
+        "id": 20112779,
+        "title": "Riskified Files its Annual Report on Form 20-F",
+        "url": "https://www.bdtonline.com/news/nation_world/riskified-files-its-annual-report-on-form-20-f/article_51bc4734-ff9a-548b-acf5-65dfe8768900.html",
+        "publisher": "Bluefield Daily Telegraph",
+        "published_date": "2026-03-06T16:30:33",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5011,
+        "ai_summary": "Riskified has filed its annual report on Form 20-F. The report filing is a routine regulatory requirement for the company. ",
+        "word_count": 50,
+        "original_language": "EN",
+        "author": "Business Wire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000b4d",
+            "name": "Riskified",
+            "website": "https://www.riskified.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "other",
+          "label": "Other"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "17000000",
+            "name": "weather"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "390",
+            "name": "Science"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "bluefield, wv"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.4995,
+        "group_id": 1681165,
+        "full_text": "Bluefield, WV (24701)\n\nToday\n\nSunshine and a few clouds. A stray shower or thunderstorm is possible. High 77F. Winds SW at 10 to 20 mph..\n\nTonight\n\nShowers this evening, becoming a steady rain overnight. Low 57F. Winds WSW at 5 to 10 mph. Chance of rain 70%. Rainfall near a quarter of an inch."
+      },
+      {
+        "id": 20653369,
+        "title": "Riskified Files its Annual Report on Form 20-F",
+        "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-3-6-riskified-files-its-annual-report-on-form-20-f?Language=english%2F1000",
+        "publisher": "FinancialContent Business Page",
+        "published_date": "2026-03-06T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8546,
+        "ai_summary": "Riskified Ltd. filed its annual report on Form 20-F for the fiscal year ending December 31, 2025. The company is known for its AI-powered fraud and risk intelligence platform used by major online brands. ",
+        "word_count": 202,
+        "original_language": "EN",
+        "author": "Riskified Ltd.",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Credit-Rating Actions",
+            "code": "FR06",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000b4d",
+            "name": "Riskified",
+            "website": "https://www.riskified.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "new york",
+            "ny"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.8137,
+        "group_id": 1436835,
+        "full_text": "Riskified Ltd. (NYSE: RSKD), a leader in eCommerce fraud and risk intelligence, today announced that it has filed its annual report on Form 20-F for the fiscal year ended December 31, 2025 with the U.S. Securities and Exchange Commission (“SEC”). The annual report on Form 20-F can be accessed on the Company’s investor relations website at https://ir.riskified.com or on the SEC’s website at www.sec.gov.\n\nRiskified will provide a hard copy of the annual report containing its audited consolidated financial statements, free of charge, to its shareholders upon request. Requests should be directed in writing by email to ir@riskified.com, or by post to Riskified Ltd., 220 5th Avenue, 2nd Floor, New York, NY 10001.\n\nAbout Riskified\n\nRiskified (NYSE: RSKD) empowers businesses to unleash ecommerce growth by outsmarting risk. Many of the world’s biggest brands and publicly traded companies selling online rely on Riskified for guaranteed protection against chargebacks, to fight fraud and policy abuse at scale, and to improve customer retention. Developed and managed by the largest team of ecommerce risk analysts, data scientists, and researchers, Riskified’s AI-powered fraud and risk intelligence platform analyzes the individual behind each interaction to provide real-time decisions and robust identity-based insights. Learn more at riskified.com.\n\nView source version on businesswire.com: https://www.businesswire.com/news/home/20260306503599/en/"
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

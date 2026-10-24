@@ -1,0 +1,880 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00004od&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:28:59.372Z",
+  "data": {
+    "data": {
+      "uuid": "00004od",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_c",
+            "label": "Series C"
+          },
+          "last_funding_date": {
+            "month": 5,
+            "year": 2026
+          },
+          "total_funding_usd": 299000000
+        },
+        "funding_rounds": [
+          {
+            "id": 10747080,
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          },
+          {
+            "id": 126580,
+            "date": {
+              "month": 8,
+              "year": 2024
+            },
+            "round": {
+              "code": "debt_funded",
+              "label": "Debt-Funded"
+            }
+          },
+          {
+            "id": 111313,
+            "date": {
+              "month": 6,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Kohlberg Kravis Roberts & Co.",
+            "type": {
+              "code": "public",
+              "label": "Public"
+            },
+            "uuid": "00009qh",
+            "website": "http://www.kkr.com"
+          },
+          {
+            "name": "JP Morgan",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00003nb",
+            "website": "https://www.jpmorgan.com"
+          },
+          {
+            "name": "FMZ Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00079of",
+            "website": "http://fmzventures.com/"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 6 more funding rounds; 10 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Fresha operates a dual marketplace and B2B software platform for the beauty and wellness industry. It provides a free consumer-facing marketplace for discovering and booking salon, spa, barber, and wellness appointments alongside a free business management software suite covering booking, payments, scheduling, CRM, marketing, and inventory. Revenue is generated primarily through transaction fees on bookings processed through the platform, supplemented by embedded lending (Fresha Capital) via Adyen and growth in enterprise multi-location contracts.",
+        "differentiator": "Fresha combines a consumer marketplace with B2B business management software in a single platform, operating on a transaction-fee model rather than charging businesses for software access. The company has deep AI integration including Google Gemini bookings, proprietary AI Agent Nova for customer support, and AI-powered features like Dynamic Reassignment and AI Concierge.",
+        "functional_benefit": "Enables 24/7 appointment booking, integrated payments, staff scheduling, inventory management, customer relationship tools, AI-powered scheduling optimization, fraud detection, and embedded lending services for SMBs.",
+        "problem_solved": "Fragmented software systems in the beauty and wellness industry; manual appointment scheduling; payment processing complexity; difficulty discovering local beauty services; high customer acquisition costs for SMBs; limited access to working capital for small businesses",
+        "quantifiable_outcome": [
+          "83% client retention rate after third appointment",
+          "9x median ROI for partners on marketplace new client acquisition",
+          "80%+ customer support tickets autonomously resolved by AI Agent Nova",
+          "4.6/5 customer satisfaction score for AI-powered support",
+          "99% of fraud attempts stopped by AI security agents",
+          "67% year-on-year revenue growth from large business segment",
+          "23.4% bookings growth for multi-location operators",
+          "Up to 11% of lost booking demand recovered through Dynamic Reassignment",
+          "41.3% read rate on RCS appointment messages"
+        ],
+        "product_overview": "Fresha is an AI-powered marketplace and business management platform for the beauty and wellness industry, operating a dual marketplace and B2B software model. The platform combines a consumer-facing marketplace (Fresha Marketplace) with B2B software including Intelligent Scheduling, Fresha Connect (AI-powered digital front desk), and AI Agent Nova for customer support. The ecosystem also includes Fresha Capital, an embedded lending product powered by Adyen. The platform serves over 140,000 businesses across 120+ countries, facilitating 35+ million appointments monthly with $15 billion+ in annual GMV. Fresha offers both consumer-facing mobile apps and professional-facing apps on iOS and Android.",
+        "product_and_service": [
+          {
+            "category": "Beauty and Wellness Marketplace",
+            "name": "Fresha Marketplace",
+            "source": [
+              "https://www.techbuzz.ai/articles/beauty-booking-startup-fresha-hits-1-billion-valuation-with-kkr-backing"
+            ]
+          },
+          {
+            "category": "Business Communications Software",
+            "name": "Fresha Connect",
+            "source": [
+              "https://www.morningstar.com/news/business-wire/20260518093239/fresha-launches-an-ai-powered-communication-platform-bringing-slack-and-intercom-style-functionality-natively-to-the-beauty-and-selfcare-industry"
+            ]
+          },
+          {
+            "category": "Embedded Financial Services",
+            "name": "Fresha Capital",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ]
+          },
+          {
+            "name": "Fresha Mobile App (Consumer)",
+            "source": [
+              "https://www.fresha.com/app-store-redirect"
+            ]
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Achieved unicorn status after securing £60m ($80m) primary growth investment from KKR",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$1 billion+"
+          },
+          {
+            "description": "Series C primary growth investment from KKR in May 2026",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$80 million"
+          },
+          {
+            "description": "Total funding raised to date across all rounds",
+            "source": [
+              "https://vestbee.com/insights/articles/fresha-raises-80-m"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$285.8 million"
+          },
+          {
+            "description": "Annualized revenue run-rate; company is already profitable",
+            "source": [
+              "https://ventureburn.com/fresha-raises-80m-hits-1-billion-valuation/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "$140 million+"
+          },
+          {
+            "description": "Annual growth rate",
+            "source": [
+              "https://www.eu-startups.com/2026/05/uk-gets-a-fresh-new-unicorn-as-beauty-and-wellness-platform-fresha-lands-e68-9-million-from-kkr/"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "60%+"
+          },
+          {
+            "description": "Beauty and wellness businesses served globally",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "130,000+"
+          },
+          {
+            "description": "Partner businesses on platform (most recent figure)",
+            "source": [
+              "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "140,000+"
+          },
+          {
+            "description": "Stylists and professionals on the platform",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "450,000+"
+          },
+          {
+            "description": "Appointments facilitated per month",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "35 million+"
+          },
+          {
+            "description": "Annual GMV (Gross Merchandise Value) processed on the platform",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "$15 billion+"
+          },
+          {
+            "description": "Monthly transaction value across appointments",
+            "source": [
+              "https://finance.yahoo.com/sectors/healthcare/articles/fresha-surpasses-1-million-monthly-134900064.html"
+            ],
+            "type": {
+              "code": "market_size",
+              "label": "Market Size"
+            },
+            "value": "$1.4 billion+"
+          },
+          {
+            "description": "Countries where Fresha operates",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "120+"
+          },
+          {
+            "description": "Monthly app downloads, ranking among top 10 lifestyle apps globally",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-surpasses-1-million-monthly-downloads-as-global-demand-for-beauty-and-wellness-booking-accelerates-302752949.html"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "1 million+"
+          },
+          {
+            "description": "Client retention rate after third appointment",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-surpasses-1-million-monthly-downloads-as-global-demand-for-beauty-and-wellness-booking-accelerates-302752949.html"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "83%"
+          },
+          {
+            "description": "Median return on investment for partners using the marketplace for new client acquisition",
+            "source": [
+              "https://www.prnewswire.com/news-releases/the-ai-revolution-in-selfcare-fresha-reports-1-in-4-bookings-driven-by-google-gemini-and-ai-agents-as-marketplace-roi-hits-9x-302694734.html"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "9x"
+          },
+          {
+            "description": "Customer support tickets autonomously resolved by AI Agent Nova with 4.6/5 satisfaction rating",
+            "source": [
+              "https://www.prnewswire.co.uk/news-releases/fresha-sets-new-industry-standard-ai-agent-nova-now-resolves-over-80-of-all-customer-support-tickets-with-a-4-65-customer-satisfaction-rating-302689394.html"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "80%"
+          },
+          {
+            "description": "Year-on-year revenue growth from large business segment",
+            "source": [
+              "https://www.morningstar.com/news/business-wire/20260330513677/fresha-becomes-the-software-infrastructure-of-choice-for-multi-location-selfcare-businesses-as-enterprise-growth-surges"
+            ],
+            "type": {
+              "code": "revenue",
+              "label": "Revenue"
+            },
+            "value": "67%"
+          },
+          {
+            "description": "Repeat borrowing rate for Fresha Capital embedded lending product",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "80%"
+          }
+        ],
+        "partnership": [
+          {
+            "description": "Deep integration with Google enabling AI-driven booking referrals; Google Gemini drives one in four bookings on the platform with over 1.2 million appointments per month from Google integration alone.",
+            "name": "Google",
+            "source": [
+              "https://www.prnewswire.com/news-releases/the-ai-revolution-in-selfcare-fresha-reports-1-in-4-bookings-driven-by-google-gemini-and-ai-agents-as-marketplace-roi-hits-9x-302694734.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "technology_integration",
+              "label": "Technology or Integration"
+            },
+            "uuid": "00000r9"
+          },
+          {
+            "announced_on": {
+              "day": 7,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Landmark five-year exclusive Premier Partnership creating 'HairCon Powered by Fresha', embedding Fresha's booking and commerce infrastructure into the UK's premier hair and barbering industry event through 2030.",
+            "name": "HairCon",
+            "source": [
+              "https://pressreleasehub.pa.media/article/fresha-secures-long-term-global-industry-partnerships-across-the-worlds-leading-hairdressing-and-beauty-events-70398.html"
+            ],
+            "strategic_tier": "Flagship",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            }
+          },
+          {
+            "announced_on": {
+              "day": 7,
+              "month": 4,
+              "year": 2026
+            },
+            "description": "Multi-year global partnership with Europe's HAIRFEST, embedding Fresha's technology into another flagship industry event as part of the company's broader event ecosystem strategy.",
+            "name": "HAIRFEST",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-secures-long-term-global-industry-partnerships-across-the-worlds-leading-hairdressing-and-beauty-events-302735599.html"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            }
+          },
+          {
+            "description": "Fresha sponsoring Toronto Barbers Expo Chapter IV Powered by Fresha on June 28, 2026, bringing together over 50 internationally recognized educators and 130+ vendors for live competitions and networking.",
+            "name": "Toronto Barbers Expo",
+            "source": [
+              "https://www.businesswire.com/news/home/20260609151018/en/Fresha-Strengthens-Its-Global-Barbering-Presence-at-Toronto-Barbers-Expo-Ahead-of-HairCon-Powered-by-Fresha"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            }
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "day": 21,
+              "month": 5,
+              "year": 2026
+            },
+            "description": "KKR led an $80 million Series C primary growth investment, achieving unicorn status with a $1 billion+ valuation and bringing total funding to $285 million.",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Launched Fresha Connect and AI Concierge, an integrated communication platform combining Slack-style internal collaboration and an AI-powered digital front desk for calls, client messaging, and team chat.",
+            "source": [
+              "https://www.storyboard18.com/brand-marketing/fresha-launches-ai-powered-digital-front-desk-for-salons-spas-and-clinics-ws-l-99001.htm"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 4,
+              "month": 2,
+              "year": 2026
+            },
+            "description": "Partnered with Adyen to launch Fresha Capital, an embedded lending product offering $500-$50,000 working capital loans to SMBs across seven markets, generating transaction revenue without credit risk exposure.",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 5,
+              "year": 2026
+            },
+            "description": "Released AI-Powered Intelligent Scheduling featuring Dynamic Reassignment, which redistributes flexible appointments in real time and recovers up to 11% of otherwise lost booking demand.",
+            "source": [
+              "https://sg.finance.yahoo.com/news/fresha-unveils-ai-powered-intelligent-110400066.html"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "year": 2026
+            },
+            "description": "Appointed Scott O'Brien as General Manager for North America and invested in regional infrastructure to scale beyond 30,000 businesses across the US and Canada.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-strengthens-position-as-north-americas-booking-platform-of-choice-with-appointment-of-scott-obrien-as-general-manager-302708033.html"
+            ],
+            "type": {
+              "code": "expansion",
+              "label": "Expansion"
+            }
+          },
+          {
+            "date": {
+              "day": 9,
+              "month": 2,
+              "year": 2022
+            },
+            "description": "Acquired Bookwell, an Australian booking platform, to accelerate APAC market consolidation.",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Fresha is expanding in North America following Scott O'Brien's appointment as General Manager for the region. The company supports over 30,000 businesses across the US and Canada and is investing heavily in regional growth and operations.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-strengthens-position-as-north-americas-booking-platform-of-choice-with-appointment-of-scott-obrien-as-general-manager-302708033.html"
+            ],
+            "title": "Scott O'Brien appointed General Manager North America",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          },
+          {
+            "description": "Fresha announced a significant expansion of its global Brand Ambassador programme, appointing prominent industry figures including Josh Lamonaca as Head of Hair Education and ambassadors such as Chloe Ferry, Andrea Amighetti, Alexi Michael, and Yadiel Alberto Rodriguez, collectively representing over 200 million monthly social reach.",
+            "source": [
+              "https://www.prnewswire.co.uk/news-releases/global-beauty-industry-icons-join-fresha-to-champion-the-next-era-of-beauty-and-selfcare-revolution-302701666.html"
+            ],
+            "title": "Brand Ambassador Programme Expansion",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Appointment of Scott O'Brien as GM North America and dedicated GMs for Mexico and Japan signal a geographic push beyond the UK/EU base into North America (30,000+ businesses already) and APAC. This is supported by accelerating AI-driven bookings from APAC at 25% of online referrals.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "2026 product launches including AI Concierge, Dynamic Reassignment scheduling, Professional Profiles (823k+ profiles), and Fresha Capital embedded lending materially extend the product surface from booking into front-desk automation, capital, and professional-level discovery.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "Five-year exclusive Premier Partnership with HairCon (through 2030) and multi-year partnerships with HAIRFEST and 25+ industry events embed Fresha into the professional community layer, a non-digital channel that competitors cannot easily replicate.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "Strategic investment and partnership with Yuv, an AI-powered hair color technology company, extends Fresha into vertical-specific technical tooling (personalized formulas, inventory, restocking) beyond generic SaaS.",
+            "type": {
+              "code": "new_vertical",
+              "label": "New Vertical"
+            }
+          },
+          {
+            "description": "Multi-location operators segment grew 67% year-on-year, with 23.4% bookings growth from this cohort, indicating a deliberate shift upmarket into larger enterprise accounts even as the SMB long tail remains core.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "Global Brand Ambassador programme expansion, including Josh Lamonaca as Head of Hair Education and ambassadors with 200M+ combined monthly social reach, is a marketing/community buildout that lowers CAC for partner acquisition.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "KKR's $80 million Series C in May 2026 was earmarked for AI capability expansion and global growth, providing fresh capital to accelerate the geographic and product expansion signals above.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        },
+        "valuation_estimate": {
+          "code": "1b_5b",
+          "label": "$1B-$5B"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Fresha is a London-headquartered marketplace platform founded in 2015 that connects consumers with over 140,000 beauty and wellness businesses across 120+ countries. The company processes more than $15 billion in annual GMV and reports a $140 million+ annualized revenue run-rate with 60%+ annual growth, operating profitably. Fresha achieved unicorn status in May 2026 following an $80 million Series C led by KKR, bringing total funding to $285.8 million. The company is the only beauty and wellness booking platform named to the VivaTech Top 100 Rising European Startups and is consistently ranked among the top 10 lifestyle apps globally by monthly downloads.",
+        "strengths": [
+          {
+            "details": "With 35M+ monthly appointments and 823,000+ professional profiles, Fresha possesses a uniquely rich vertical data asset that powers AI Agent Nova, Dynamic Reassignment (recovering 11% of lost demand), and AI Concierge. As competitors attempt to replicate features, Fresha's data advantage widens, creating a defensible AI-native moat that compounds with every booking.",
+            "headline": "AI moat compounds as platform data scales",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-unveils-ai-powered-intelligent-scheduling-for-the-beauty-and-wellness-industry-unlocking-unrealized-revenue-and-growth-for-selfcare-businesses-302768124.html"
+            ]
+          },
+          {
+            "details": "Multi-location brand revenue is growing 67% YoY, indicating successful upmarket motion. As chains consolidate fragmented software onto Fresha, average revenue per business rises materially, and the company captures share of the $15B+ GMV pool at a higher effective take rate through enterprise contracts.",
+            "headline": "Enterprise expansion unlocks higher-ACV SaaS revenue",
+            "source": [
+              "https://www.fintechfutures.com/press-releases/fresha-becomes-the-software-infrastructure-of-choice-for-multi-location-selfcare-businesses-as-enterprise-growth-surges"
+            ]
+          },
+          {
+            "details": "Fresha Capital has already disbursed $5.5M+ in loans with an 80% repeat borrowing rate and zero credit risk exposure (Adyen-assumed). With 140,000+ businesses needing working capital, the lending product has multi-hundred-million-dollar revenue potential as it scales, capital-free to Fresha.",
+            "headline": "Embedded finance scales into a high-margin adjacency",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ]
+          },
+          {
+            "details": "Operating in 120+ countries but with meaningful density only in NA, UK, EU, and ANZ. Emerging markets in LatAm, MENA, and APAC represent underpenetrated beauty/wellness economies where Fresha's free-for-business, transaction-fee model can rapidly capture share. Recent GM expansion in Mexico and Japan signals continued geographic buildout.",
+            "headline": "Global penetration runway remains substantial",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-strengthens-position-as-north-americas-booking-platform-of-choice-with-appointment-of-scott-obrien-as-general-manager-302708033.html"
+            ]
+          },
+          {
+            "details": "Top 10 lifestyle app status with 1M+ monthly downloads (up 300% since 2024) and 3M+ new client connections in 2025 reflect strong organic consumer pull. As the marketplace deepens, both consumer search and business acquisition costs decrease, allowing Fresha to sustain 60%+ growth without linear marketing spend.",
+            "headline": "Network effects drive organic, capital-efficient growth",
+            "source": [
+              "https://www.prnewswire.com/news-releases/fresha-surpasses-1-million-monthly-downloads-as-global-demand-for-beauty-and-wellness-booking-accelerates-302752949.html"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Approximately 25% of bookings (1.2M+ monthly) flow through Google Gemini and AI-driven referrals. Google's ongoing search evolution and AI agent strategies could shift economics, de-prioritize third-party booking referrals, or terminate partnership terms. A 50% reduction in Google-sourced bookings would remove 12-15% of platform GMV overnight.",
+            "headline": "Google AI integration could be repriced or removed",
+            "source": [
+              "https://www.einpresswire.com/article/895373545/ai-revolution-in-self-care-1-in-4-fresha-bookings-driven-by-gemini-marketplace-roi-hits-9x"
+            ]
+          },
+          {
+            "details": "Square Appointments, Mindbody, and other payment-platform competitors can subsidize booking software with payment processing economics. As payment processors vertically integrate, Fresha's pure-play take-rate model may face pricing pressure, and the company lacks a payment processing moat to defend its economics.",
+            "headline": "Take-rate compression from well-funded payment competitors",
+            "source": [
+              "https://www.techbuzz.ai/articles/beauty-booking-startup-fresha-hits-1-billion-valuation-with-kkr-backing"
+            ]
+          },
+          {
+            "details": "AI Concierge, Dynamic Reassignment, and AI Agent Nova are all replicable in concept by competitors with similar data scale. As foundation model costs decline and AI agent builders proliferate, Fresha's current AI differentiation could narrow rapidly, especially against Square/Mindbody which can bundle AI features into broader commerce stacks.",
+            "headline": "AI features could be commoditized by horizontal platforms",
+            "source": [
+              "https://www.prnewswire.co.uk/news-releases/fresha-sets-new-industry-standard-ai-agent-nova-now-resolves-over-80-of-all-customer-support-tickets-with-a-4-65-customer-satisfaction-rating-302689394.html"
+            ]
+          },
+          {
+            "details": "100% of Fresha's revenue is exposed to discretionary consumer spending on beauty and wellness services. In a recession or sustained inflation scenario, consumer visits to salons and spas historically decline 10-20%, which would flow directly through to Fresha's GMV and transaction fee revenue with no offsetting segment to buffer.",
+            "headline": "Beauty/wellness spending contraction in macro downturn",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "As multi-location brands grow (the 67% YoY growth segment), they may elect to build proprietary booking systems, white-label Fresha, or migrate to enterprise SaaS that gives them direct client ownership. Loss of marquee enterprise customers would both remove a high-growth segment and reduce marketplace liquidity for consumers.",
+            "headline": "Multi-location chains may bypass platform at scale",
+            "source": [
+              "https://www.fintechfutures.com/press-releases/fresha-becomes-the-software-infrastructure-of-choice-for-multi-location-selfcare-businesses-as-enterprise-growth-surges"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Fresha operates a two-sided marketplace with over 140,000 beauty and wellness businesses, 450,000+ professionals, and 35 million monthly appointments across 120+ countries. This scale creates strong flywheel dynamics: more businesses attract more consumers via SEO and app discovery, which in turn attracts more businesses seeking customer flow.",
+            "type": {
+              "code": "network_effects",
+              "label": "Network Effects"
+            }
+          },
+          {
+            "details": "Deep integration with Google Gemini and other AI agents now drives approximately one in four bookings on the platform, with over 1.2 million appointments per month originating from Google alone. This positions Fresha as the de facto plumbing layer for AI-mediated beauty and wellness discovery, a distribution moat that is difficult for late entrants to replicate.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "The platform supports over 823,000 professional profiles and processes $15 billion+ in annual GMV across 120+ countries, accumulating a proprietary dataset on beauty demand patterns, professional performance, and consumer behavior that feeds AI features such as Dynamic Reassignment and recommendation.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "An 83% client retention rate after the third appointment indicates strong consumer-side lock-in built through appointment history, stored payment methods, and reviews. For businesses, accumulated client history, integrated payments, and operational data raise the cost of migration.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Fresha has developed proprietary AI capabilities including AI Agent Nova (resolving 80%+ of support tickets at 4.6/5 satisfaction), AI Concierge for front-desk automation, and AI Security Agents stopping 99% of fraud attempts. These are differentiated, vertically-tuned AI assets rather than generic LLM wrappers.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Approximately 25% of platform bookings (1.2M+ monthly) flow through Google Gemini and AI integrations. Any change to Google's AI search algorithms, partnership terms, or ranking logic could materially disrupt a quarter of the company's booking volume, creating a single-point-of-failure risk.",
+            "headline": "Heavy dependency on Google for AI-driven booking referrals",
+            "source": [
+              "https://www.einpresswire.com/article/895373545/ai-revolution-in-self-care-1-in-4-fresha-bookings-driven-by-gemini-marketplace-roi-hits-9x"
+            ]
+          },
+          {
+            "details": "With ~$15B GMV and $140M revenue, the implied take rate is under 1%, but any successful business has a continuous incentive to migrate repeat clients to direct booking. As merchants scale on the platform, defection risk increases and the take-rate ceiling is capped without adding differentiated value.",
+            "headline": "Transaction-fee model structurally incentivizes businesses to bypass the platform",
+            "source": [
+              "https://www.techbuzz.ai/articles/beauty-booking-startup-fresha-hits-1-billion-valuation-with-kkr-backing"
+            ]
+          },
+          {
+            "details": "100% of GMV flows through beauty, wellness, and self-care verticals which are highly discretionary and historically contract sharply in economic downturns. The business has no countercyclical exposure to offset demand softness in SMB customer base.",
+            "headline": "Concentrated exposure to discretionary beauty/wellness spending cycles",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "Customer base skews toward independent salons, barbers, and wellness studios, which face higher closure rates and churn risk than enterprise SaaS. Fresha Capital's embedded lending ($5.5M+ to date) creates indirect exposure to SMB financial health despite Adyen's risk assumption.",
+            "headline": "SMB-heavy customer base with elevated churn and credit risk exposure",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "Competitors include Square Appointments (Block), Mindbody, Vagaro, Booksy, Treatwell, Phorest, GlossGenius, and Boulevard. Several competitors are owned by or backed by larger payment/processor companies with potentially deeper enterprise distribution and capital reserves.",
+            "headline": "Competitive threat from well-capitalized incumbents and vertical SaaS players",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "Core platform depends on Adyen (payments/embedded finance), Twilio/Google (RCS messaging), and Google (AI-driven bookings). Concentration of critical infrastructure with three providers creates operational, pricing, and partnership risk if any relationship deteriorates.",
+            "headline": "Reliance on third-party infrastructure providers (Adyen, Twilio, Google)",
+            "source": [
+              "https://retailtechinnovationhub.com/home/beauty-and-wellness-firm-fresha-adopts-rich-communication-services-messaging-powered-by-twilio-and-google"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "KKR led an $80M Series C primary growth investment valuing the company at over $1 billion, with disclosed post-money of $1.175B. Total funding reached $285.8M across rounds from KKR, General Atlantic, Partech, J.P. Morgan, and others.",
+            "headline": "Achieved unicorn status in May 2026 with $1.175B post-money valuation",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "Company is already profitable while maintaining 60%+ annual growth rate. The $140M revenue run-rate on $15B+ annual GMV implies a take rate of ~0.93% with significant operating leverage potential as scale increases.",
+            "headline": "Profitable with $140M+ revenue run-rate and 60%+ annual growth"
+          },
+          {
+            "details": "Platform serves 140,000+ beauty and wellness businesses across 120+ countries, with 450,000+ professionals and 35 million+ appointments facilitated per month. Annual GMV exceeds $15 billion, representing a deep liquidity pool on both sides of the marketplace.",
+            "headline": "Massive marketplace scale with 140,000+ businesses and 35M+ monthly appointments",
+            "source": [
+              "https://businesscloud.co.uk/news/fresha-hits-unicorn-status-after-60m-raise/"
+            ]
+          },
+          {
+            "details": "Google Gemini and AI agents drive over 1.2 million monthly appointments (25% of platform bookings). Proprietary AI Agent Nova autonomously resolves 80%+ of global support tickets with 4.6/5 satisfaction. AI Security Agents stop 99% of fraud attempts.",
+            "headline": "Deep AI integration drives 1 in 4 bookings and 99% fraud detection",
+            "source": [
+              "https://www.einpresswire.com/article/895373545/ai-revolution-in-self-care-1-in-4-fresha-bookings-driven-by-gemini-marketplace-roi-hits-9x"
+            ]
+          },
+          {
+            "details": "Marketplace flywheel with 130,000+ businesses and 450,000+ professionals generated over 3 million new client connections in 2025. 83% client retention rate after third appointment and 9x median ROI for partners signal strong two-sided engagement.",
+            "headline": "Strong network effects with 3M+ new client connections in 2025",
+            "source": [
+              "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
+            ]
+          },
+          {
+            "details": "Platform revenue from large multi-location business segments increased 67% year-on-year with 23.4% bookings growth for these operators. Enterprise sales motion complementing the SMB-led product-led growth model enables expansion upmarket.",
+            "headline": "Enterprise segment growing 67% YoY with multi-location chain adoption",
+            "source": [
+              "https://www.fintechfutures.com/press-releases/fresha-becomes-the-software-infrastructure-of-choice-for-multi-location-selfcare-businesses-as-enterprise-growth-surges"
+            ]
+          },
+          {
+            "details": "Embedded lending product in partnership with Adyen has distributed $5.5M+ in working capital loans across 7 markets, with 80% repeat borrowing rate and Adyen assuming all credit risk. Creates high-margin, capital-light revenue stream adjacent to the core marketplace.",
+            "headline": "Embedded finance (Fresha Capital) achieved 80% repeat borrowing rate",
+            "source": [
+              "https://www.crowdfundinsider.com/2026/02/259802-fintech-adyen-and-fresha-surpass-5-5m-in-capital-issued-as-embedded-finance-expansion-scales/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Fresha operates a long-tail SMB model with 140,000+ partner businesses across 120+ countries, and no single customer appears in the select_customers dataset; all five named logos are individual SMB salons or spas, none identified as enterprise anchors. Revenue is generated per-transaction via a take rate, meaning revenue scales with booking volume rather than contractual commitments from any one account. The multi-location/enterprise segment grew 67% YoY but is described as a growth vector rather than a concentration point. This distributed base materially reduces churn risk from any single account loss.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Square Appointments is a scheduling and appointment management product from Block (formerly Square), bundled with payment processing and broader commerce tools. It is a direct competitor to Fresha's B2B software, especially for SMB beauty and wellness businesses, with the advantage of integrated payments and a much larger parent company.",
+            "name": "Square Appointments (Block)",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "000068h"
+          },
+          {
+            "description": "Mindbody is a leading SaaS booking and business management platform for fitness, beauty, and wellness businesses, owned by Mindbody/Gympass. It competes directly with Fresha across salon, spa, and wellness verticals, with comparable features including appointment scheduling, payments, and client management.",
+            "name": "Mindbody",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0002j5r"
+          },
+          {
+            "description": "Booksy is a marketplace and SaaS platform for beauty and wellness professionals, offering appointment booking, payments, and business management tools. It is one of the closest direct competitors to Fresha, operating in similar verticals with a similar SMB-focused, transaction-fee-adjacent model across Europe and North America.",
+            "name": "Booksy",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000041f"
+          },
+          {
+            "description": "Treatwell is a European beauty and wellness booking marketplace, headquartered in London, connecting consumers with salons, barbers, and spas. It is a direct competitor to Fresha's consumer marketplace, particularly strong in UK and continental Europe, with comparable booking and discovery functionality.",
+            "name": "Treatwell",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000ahte"
+          },
+          {
+            "description": "Vagaro is a cloud-based booking, payment, and business management platform for salons, spas, and fitness studios with over 200,000 businesses. It is a direct competitor to Fresha, offering similar appointment scheduling, POS, and marketplace features with a stronger US salon market position.",
+            "name": "Vagaro",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000049s"
+          },
+          {
+            "description": "StyleSeat is an online booking platform focused on beauty professionals including hair stylists, barbers, and nail technicians, primarily in the US. It is a direct competitor to Fresha's marketplace in the North American beauty segment with similar consumer discovery and professional SaaS offerings.",
+            "name": "StyleSeat",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0003ayg"
+          },
+          {
+            "description": "GlossGenius is a beauty business management and payment platform serving salons, barbers, and beauty professionals with a software-plus-payments model. It is a direct competitor to Fresha in the US, particularly targeting independent beauty and hair professionals with a subscription-based pricing model.",
+            "name": "GlossGenius",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "02mb213"
+          },
+          {
+            "description": "Phorest is a salon and spa software platform headquartered in Ireland, serving thousands of hair and beauty salons globally with management, marketing, and client retention tools. It is a direct competitor to Fresha in the salon software category with strong presence in UK, Ireland, and North America.",
+            "name": "Phorest",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000qvf"
+          },
+          {
+            "description": "Boulevard is a premium salon and spa management software platform focused on self-care businesses with strong client experience and checkout features. It is a direct competitor to Fresha, particularly in the US self-care and upscale salon segment with comparable booking and POS capabilities.",
+            "name": "Boulevard",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00005dt"
+          },
+          {
+            "description": "Salonized is a cloud-based salon and beauty business management software primarily serving the UK and European market. It is a regional competitor to Fresha, offering comparable booking, POS, and client management features for hair and beauty salons, particularly in the Benelux region.",
+            "name": "Salonized",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "000871k"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

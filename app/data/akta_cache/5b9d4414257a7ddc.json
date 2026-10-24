@@ -1,0 +1,1384 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0005yzu&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:06.841Z",
+  "data": {
+    "total": 10,
+    "limit": 50,
+    "offset": 0,
+    "count": 10,
+    "data": [
+      {
+        "id": 32444070,
+        "title": "Planet DDS Marks Mid-Year Growth with Expanded AI Agent Suite and New Platform Packaging",
+        "url": "https://www.businesswire.com/news/home/20260818000155/en/Planet-DDS-Marks-Mid-Year-Growth-with-Expanded-AI-Agent-Suite-and-New-Platform-Packaging",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-08-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Planet DDS reported a 24.3% year-over-year ARR growth for its core Denticon solution, driven by significant enterprise wins including contracts with Coast Dental and Jefferson Dental. The company expanded its AI agent suite to address staffing shortages and introduced new modular add-on suites for its DentalOS platform to offer flexible pricing for dental service organizations. Additionally, Planet DDS highlighted its growing ecosystem of over 80 integration partners and recent industry recognitions, including an Inc. 5000 ranking. ",
+        "word_count": 1215,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Specialty DSOs (General + Specialty Networks)",
+            "code": "HLABAKAA",
+            "is_primary": true
+          },
+          {
+            "name": "Search, Retrieval & Semantic Ranking (BM25/vector, hybrid)",
+            "code": "HDAAADAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Revenue & Growth Metrics",
+            "code": "FR02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Pricing & Commercial Strategy",
+            "code": "SD10",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000blwa",
+            "name": "Orthodontic Partners",
+            "website": "https://orthodonticpartners.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000026e",
+            "name": "Microsoft",
+            "website": "https://www.microsoft.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006mr6",
+            "name": "Dykema Gossett",
+            "website": "http://www.dykema.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00496xh",
+            "name": "Denticon",
+            "website": "https://www.denticon.cz/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000a8bj",
+            "name": "Mosaic Dental Collective",
+            "website": "https://mosaicdentalcollective.com ",
+            "is_primary": false
+          },
+          {
+            "uuid": "000022g",
+            "name": "West Monroe",
+            "website": "https://www.westmonroe.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00075y3",
+            "name": "Jefferson Dental Care",
+            "website": "https://www.jeffersondentalclinics.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "003bzv1",
+            "name": "Coast Dental Services",
+            "website": "http://www.coastdental.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002y3",
+            "name": "Aquiline Capital Partners",
+            "website": "https://www.aquiline.com/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "8060",
+            "name": "SERVICES-HOSPITALS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nathan james",
+            "eric giesecke"
+          ],
+          "location": [
+            "scottsdale, arizona",
+            "new york city",
+            "irvine, calif.",
+            "north america",
+            "america"
+          ],
+          "product": [
+            "denticon",
+            "dentalos®",
+            "missed appointment rescheduling agent",
+            "cancellation rescheduling agent",
+            "the morning grind newsletter",
+            "the dental economist show",
+            "clinical voice+",
+            "payments+",
+            "patient+",
+            "imaging+",
+            "ai voice perio",
+            "recall agent",
+            "confirmation agent",
+            "denticon practice management",
+            "apteryx cloud imaging",
+            "dentalos with ai",
+            "dentalos",
+            "cloud 9 ortho practice management"
+          ],
+          "event": [
+            "orbit",
+            "dental capital forum",
+            "golf tournament"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 7784984,
+        "full_text": "Planet DDS Marks Mid-Year Growth with Expanded AI Agent Suite and New Platform Packaging\n\nShare\n\nEnterprise wins, five new suites, and a growing bench of AI agents signal where dental software is headed\n\nIRVINE, Calif.--(BUSINESS WIRE)--Planet DDS today shared mid-year results that reflect the market's growing confidence in its approach. Year-over-year ARR growth for its core solution, Denticon, reached 24.3%, cementing its position as the standard for growth-focused dental organizations. Momentum was driven in part by significant new enterprise wins, including Coast Dental (88 locations), Jefferson Dental (60 locations), Mosaic Dental Collective (47 locations), and Orthodontic Partners (62 locations). “Growth like this comes from solving a real problem: DSOs are tired of paying for complexity instead of results. Our job is to give them one platform that scales with them and AI that lightens the load on their teams. These results tell us we're building the right thing,” said Eric Giesecke, Chief Executive Officer of Planet DDS. A Growing Suite of AI Agents Planet DDS continues building out its AI agent suite with the industry's staffing shortage squarely in mind. The Confirmation Agent and Recall Agent handle patient confirmations and recall outreach automatically across every location. Earlier in August, Planet DDS launched two additional agents: Missed Appointment Rescheduling Agent recovers chair time lost to no-shows using an empathetic, non-accusatory outreach approach, and Cancellation Rescheduling Agent works the cancelled-appointment list to rebook the slot before the chair goes cold. Introducing DentalOS® Add-On Suites Alongside its agent expansion, Planet DDS is introducing a new way for practices to access the platform's growing capabilities. DentalOS® now serves as the base platform, with five add-on suites practices can pick and choose from based on what they actually need: Agents+, Clinical Voice+, Imaging+, Patient+, and Payments+. A DSO only pays for the suites it uses. Once a DSO adds a suite, every capability inside it, current and future, comes with it at no additional cost. A practice on Clinical Voice+, for example, gets every clinical documentation tool Planet DDS has released and will release, from AI Voice Perio to AI Voice Restorative Charting, without needing to evaluate and purchase each one separately. This flexible pricing means a group only pays for the suites it uses. \"Customers want the flexibility to invest in the tools that matter most to their DSO, and the confidence that value keeps showing up inside the suites they've already chosen,\" said Nathan James, Chief Product Officer of Planet DDS. “DSOs end up managing fragmented systems, disconnected point solutions, and piecemeal pricing right when they're trying to scale,” said Nathan James, Chief Product Officer at Planet DDS. “We want DSOs to have real control over their investment instead. Suites let every group build a platform that matches what they actually do, and as we keep shipping new features inside each suite, that investment keeps paying off without any extra purchasing decisions on their end.” Partnerships and Community Growth Planet DDS's open ecosystem has grown to more than 80 signed integration partners, giving DSOs the flexibility to connect the tools they already rely on without leaving the platform. Among these, the Planet DDS partnership with Microsoft has become a key piece of how the company supports enterprise IT infrastructure for large DSOs, helping standardize security, identity management, and system reliability across every location on the platform. In May, Planet DDS co-hosted the inaugural Dental Capital Forum in New York City alongside Aquiline Capital Partners, Dykema, and West Monroe, an invitation-only gathering of dental investors, DSO leaders, and advisors that was well-received enough that the founding partners are already planning to make it an annual event. This February, the company also held Orbit, its annual Leadership & User Summit, drawing more than 500 attendees to Scottsdale, Arizona for over thirty sessions on RCM, clinical workflows, AI applications, and executive leadership. Orbit returns March 31 to April 3, 2027, with a new executive track, a golf tournament, and expanded content. Planet DDS also continued building out its education platforms in the first half of the year, including The Dental Economist Show (130+ episodes since 2024), The Morning Grind newsletter (40+ issues since 2025), and its 2026 Mid-Year Dental Industry Outlook Report, released in July. Recognition Additionally, Planet DDS's momentum has been reflected in a run of recent industry recognition: Inc. Regionals: #68 on the list, reflecting 93% two-year growth\n\n#68 on the list, reflecting 93% two-year growth ADSO Innovation Award: won for the second consecutive year, this time recognizing Team Artemis\n\nwon for the second consecutive year, this time recognizing Team Artemis SaaS Awards Finalist: DentalOS with AI, Best SaaS Product for Healthcare and Life Sciences\n\nDentalOS with AI, Best SaaS Product for Healthcare and Life Sciences Merit Awards: Gold Winner, Best Places to Work\n\nGold Winner, Best Places to Work Stevie Awards for Technology Excellence: Silver, Company of the Year, Healthcare Technology\n\nSilver, Company of the Year, Healthcare Technology Inc. 5000: Planet DDS was ranked 2,523 on the 2026 list of the fastest-growing private companies in America What's Next As the year continues, Planet DDS will expand its agent suite and platform capabilities with the same goal in mind: making clinicians' lives easier, streamlining day-to-day operations, and giving DSOs a platform that helps them grow. To learn more about how Planet DDS can be your partner in growth, visit www.planetdds.com. Resources Discover Denticon Practice Management\n\nLearn more about DentalOS\n\nExplore Cloud 9 Ortho Practice Management About Planet DDS Dental software is broken. We aim to fix it. Planet DDS is the leading dental enterprise software company in North America, delivering DentalOS®—the platform built to run the dental enterprise, not just the practice. As the industry enters the dental enterprise era, Planet DDS gives DSO and multi-location group executives the visibility, control, and financial performance to run every location, every specialty, and every dollar as one connected organization. Built on an open ecosystem with 80+ integration partners, DentalOS connects Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging on a single data layer—cloud-native since 2003 and enterprise-proven at scale. More than half of the top 60 DSOs in North America trust Planet DDS with solutions used across 14,500 practices and 175,000 users nationwide.\n\nPlanet DDS Release Versions English\n\nMore News From Planet DDS\n\nGet RSS Feed\n\nPlanet DDS Declares the Practice Management Era Over and Launches DentalOS®, the Dental Enterprise Platform for DSOs IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today declared the practice management era in dental software over and launched DentalOS®, the dental enterprise platform built to replace it. DentalOS is not a smarter practice management system. It is a new category of software entirely: a unified platform that connects Denticon and Cloud 9 on a single data layer, with a new suite of enterprise capabilities, including AI agents, built on top. DentalOS will be available at no additional cost to Plane...\n\nPlanet DDS 2026 Dental Industry Deep Dive Report Reveals a Widening Performance Gap Across the DSO Industry IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS, the leading provider of cloud-based enterprise dental software, today released its 2026 Dental Industry Outlook: Deep Dive, a comprehensive performance analysis drawn from more than 8,500 dental practices operating on the Planet DDS platform throughout 2024 and 2025 consecutively. The report debuted yesterday evening at the Dental Capital Forum, a private, invitation-only gathering at the Union Club of New York City, before being released publicly to..."
+      },
+      {
+        "id": 28172225,
+        "title": "Planet DDS Declares the Practice Management Era Over and Launches DentalOS®, the Dental Enterprise Platform for DSOs",
+        "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-07-17T12:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6421,
+        "ai_summary": "Planet DDS launched DentalOS®, a new dental enterprise software platform designed to replace traditional practice management systems for DSOs and multi-location dental groups. The platform connects Denticon and Cloud 9 practice management systems on a single data layer, incorporating AI-powered enterprise tools including confirmation agents, clinical voice documentation, and revenue cycle management capabilities. The company, which already serves more than half of the largest 60 DSOs in North America across 14,500 practices, positions this launch as addressing the industry-wide shift from acquisition-driven growth to operational consolidation requiring enterprise-grade infrastructure.",
+        "word_count": 1459,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Specialty DSOs (General + Specialty Networks)",
+            "code": "HLABAKAA",
+            "is_primary": true
+          },
+          {
+            "name": "RCM Outsourcing & Managed Billing Services",
+            "code": "HLACACAN",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Market Share & Positioning",
+            "code": "SD05",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "eric giesecke",
+            "mike huffaker",
+            "nathan james"
+          ],
+          "location": [
+            "north america",
+            "irvine, calif.",
+            "denticon",
+            "new york city"
+          ],
+          "product": [
+            "dentalos®",
+            "ai voice perio",
+            "ai voice restorative",
+            "dentalos",
+            "cancellation recovery agent",
+            "missed appointment recovery agent",
+            "mytooth",
+            "apteryx cloud imaging",
+            "cloud 9 ortho practice management",
+            "denticon",
+            "apteryx"
+          ],
+          "event": [
+            "dental capital forum"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 4410632,
+        "full_text": "Planet DDS Declares the Practice Management Era Over and Launches DentalOS®, the Dental Enterprise Platform for DSOs\n\nShare\n\nOne Patient. One Schedule. One RCM.\n\nIRVINE, Calif.--(BUSINESS WIRE)--Planet DDS today declared the practice management era in dental software over and launched DentalOS®, the dental enterprise platform built to replace it. DentalOS is not a smarter practice management system. It is a new category of software entirely: a unified platform that connects Denticon and Cloud 9 on a single data layer, with a new suite of enterprise capabilities, including AI agents, built on top. DentalOS will be available at no additional cost to Planet DDS customers, giving dental group executives visibility, control, and financial performance to run the organizations they’ve built. More than half of the largest 60 DSOs in North America already run on Planet DDS. What the company sees across the industry is consistent: multi-location enterprises using software built for a single practice. The company has observed the industry entering a new enterprise era, which requires a fundamentally different kind of software. “Every bet we’ve made as a company, we made early and often alone. Cloud-native before it was obvious, open ecosystem to give our customers choices, and enterprise-grade before DSOs were a mainstream conversation. It was never luck or prophecy. Our customers knew and we had the conviction to listen. DentalOS is our answer to the dental enterprise era,” said Eric Giesecke, CEO of Planet DDS. Why Planet DDS Built DentalOS Years of consolidation produced organizations managing dozens or hundreds of locations, with private equity-grade reporting requirements, multi-specialty complexity, and the operational ambition to run it all as one. The practice management software those organizations are running was only ever designed to manage a single office. “I’ve never met a DSO leader who said their biggest problem was finding the right practice management software. They talk about visibility, scale, AI, and operational consistency across dozens of locations. They’re looking for a platform that matches the ambition of what they’ve built,” said Mike Huffaker, Chief Revenue Officer of Planet DDS. Four forces are converging to make the status quo increasingly untenable: the industry-wide shift from acquisition to operation as DSOs focus on running what they’ve acquired; the arrival of AI, where the underlying data layer determines who wins; a labor crisis that makes automation a survival necessity; and a rising bar for enterprise-grade security, total cost of ownership, and visibility across multi-location dental organizations. “Every capability we're building—AI agents, clinical voice, predictive revenue cycle—performs relative to the quality of the data beneath it. DentalOS is that foundational platform. We built the platform so that everything built on it today and in the future performs at a level disconnected tools never could,” said Nathan James, Chief Product Officer of Planet DDS. What Is DentalOS? The Dental Enterprise Platform Explained DentalOS is the dental enterprise platform that connects practice management, revenue cycle, imaging, and AI on a single data layer for DSOs and multi-location dental groups. Built on an open ecosystem of 80+ integration partners, DentalOS gives operators the tools that fit their organization—not the tools a single vendor chose for them. On that foundation is a new layer of enterprise add-on suites, each solving specific operational problems at scale: Agents+ : Expands operational capacity without adding headcount. The Confirmation Agent automatically confirms appointments and updates the schedule; the Recall Agent identifies overdue patients and reaches out to book recall appointments. Both are available today. Coming soon: the Cancellation Recovery Agent, which rebooks cancelled appointments, and the Missed Appointment Recovery Agent, which follows up immediately with no-shows. RCM and clinical agents to come.\n\n: Expands operational capacity without adding headcount. The Confirmation Agent automatically confirms appointments and updates the schedule; the Recall Agent identifies overdue patients and reaches out to book recall appointments. Both are available today. Coming soon: the Cancellation Recovery Agent, which rebooks cancelled appointments, and the Missed Appointment Recovery Agent, which follows up immediately with no-shows. RCM and clinical agents to come. Clinical Voice+ : Standardizes clinical documentation at the point of capture so DSO leadership can benchmark, govern, and trust clinical data across every provider and location; AI Voice Perio and AI Voice Restorative live today in Denticon; AI Progress Notes launching next\n\n: Standardizes clinical documentation at the point of capture so DSO leadership can benchmark, govern, and trust clinical data across every provider and location; AI Voice Perio and AI Voice Restorative live today in Denticon; AI Progress Notes launching next Imaging+ : Removes per-location server infrastructure and gives enterprise leadership an organization-wide view of imaging utilization; includes 3D module, CBCT cloud storage, expanded storage, and imaging analytics\n\n: Removes per-location server infrastructure and gives enterprise leadership an organization-wide view of imaging utilization; includes 3D module, CBCT cloud storage, expanded storage, and imaging analytics Patient+ : Turns patient communication from a staff-dependent task into a systematic revenue process; includes MyTooth for a connected patient digital experience across scheduling, forms, and communication\n\n: Turns patient communication from a staff-dependent task into a systematic revenue process; includes MyTooth for a connected patient digital experience across scheduling, forms, and communication Payments+ : Closes the gap between collecting a payment and recording it; includes Planet DDS Pay for automatic ledger posting at the moment of collection across every location\n\n: Closes the gap between collecting a payment and recording it; includes Planet DDS Pay for automatic ledger posting at the moment of collection across every location RCM+: 20 to 30% of submitted claims sit in denial or pending at any given time. For a 20-provider group, that’s millions in recoverable revenue. The RCM Hub changes that—purpose-built for revenue cycle within DentalOS, not as an afterthought inside practice management, surfacing that risk before it becomes a write-off across eligibility, claims, remittance, and patient AR. DentalOS Phases: What's Launching and What's Coming DentalOS will launch in phases. Phase 1 establishes the enterprise foundation that makes everything else possible: a unified OS Desktop experience, enterprise-grade security with Single Sign On (SSO) and Multi-Factor Authentication (MFA), centralized user management, and an Agentic Marketplace for AI-powered workflows. This is the infrastructure layer that gives CTOs and IT teams the visibility and enterprise-level control they’ve been asking for. The platform roadmap ahead is persona-driven, with each phase designed to solve for a distinct role inside the DSO, from the front desk and DSO administrators to multi-specialty operators and enterprise leadership. Near-term phases focus on eliminating workflow friction and login fragmentation that costs staff time every day. Upcoming phases connect the multi-specialty enterprise and give leadership centralized control across every location and every user. DentalOS for Every Stage of DSO Growth Planet DDS is clear that the dental enterprise era is defined by intent, not size. A dental group that makes the right infrastructure decision at 15 locations will be better positioned at 150 than one that waits. For qualifying 2 to 9 location groups, the company’s Launchpad program gives early-stage groups access to the same DentalOS platform as the largest DSOs in the country. The long-term destination: a dental enterprise where the platform handles the operational noise, RCM friction approaches zero, every specialty is connected, and the data accumulated across every location and patient relationship becomes a measurable, compounding competitive advantage. Dental groups ready to move beyond practice-level tools can learn more by visiting planetdds.com/dentalos. Resources Learn more about DentalOS\n\nDiscover Denticon Practice Management\n\nExplore Cloud 9 Ortho Practice Management\n\nRead the 2026 Deep Dive Report\n\nApply for Launchpad About Planet DDS Dental software is broken. We aim to fix it. Planet DDS is the leading dental enterprise software company in North America, delivering DentalOS®—the platform built to run the dental enterprise, not just the practice. As the industry enters the dental enterprise era, Planet DDS gives DSO and multi-location group executives the visibility, control, and financial performance to run every location, every specialty, and every dollar as one connected organization. Built on an open ecosystem with 80+ integration partners, DentalOS connects Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging on a single data layer—cloud-native since 2003 and enterprise-proven at scale. More than half of the top 60 DSOs in North America trust Planet DDS with solutions used across 14,500 practices and 175,000 users nationwide.\n\nPlanet DDS Release Versions English\n\nMore News From Planet DDS\n\nGet RSS Feed\n\nPlanet DDS 2026 Dental Industry Deep Dive Report Reveals a Widening Performance Gap Across the DSO Industry IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS, the leading provider of cloud-based enterprise dental software, today released its 2026 Dental Industry Outlook: Deep Dive, a comprehensive performance analysis drawn from more than 8,500 dental practices operating on the Planet DDS platform throughout 2024 and 2025 consecutively. The report debuted yesterday evening at the Dental Capital Forum, a private, invitation-only gathering at the Union Club of New York City, before being released publicly to..."
+      },
+      {
+        "id": 32818431,
+        "title": "Dental Launch Radar: Mid-March 2026",
+        "url": "https://www.dentaleconomics.com/macro-op-ed/industry-news/news/55363549/dental-launch-radar-mid-march-2026",
+        "publisher": "Dentaleconomics",
+        "published_date": "2026-03-26T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8984,
+        "ai_summary": "Three new dental technology products were launched in mid-March 2026, including OsteoGen's Bioactive Crystal Technology for bone grafting and Planet DDS's AI agents for practice management. SciCan also introduced the HYDRIM 112W G4+, an automated instrument washer featuring smart monitoring capabilities to enhance infection control and efficiency. ",
+        "word_count": 688,
+        "original_language": "EN",
+        "author": "Sarah Butkovic",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Bone Grafting & Ridge Augmentation (GBR/Sinus Lift)",
+            "code": "HLABACAG",
+            "is_primary": true
+          },
+          {
+            "name": "CAD/CAM Digital Design & Milling Centers",
+            "code": "HLABAJAE",
+            "is_primary": false
+          },
+          {
+            "name": "Bone Graft Substitutes & Orthobiologics (Synthetic/Allograft/DBM)",
+            "code": "HLAHAEAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000mjo2",
+            "name": "Osteogenics",
+            "website": "https://www.osteogenics.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000i51c",
+            "name": "SciCan Corp",
+            "website": "http://www.scican.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          },
+          {
+            "code": "20001167",
+            "name": "medical equipment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "593",
+            "name": "Style & Fashion"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "339116",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "sarah butkovic",
+            "eric giesecke"
+          ],
+          "location": [
+            "chicago"
+          ],
+          "product": [
+            "hydrim 112w g4+",
+            "dentalos",
+            "denticon",
+            "mycoltene",
+            "cloud 9",
+            "smart instrument washer",
+            "bioactive bone graft"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8964,
+        "group_id": 9281073,
+        "full_text": "Industry News Dental Launch Radar: Mid-March 2026 Three new product launches—a bioactive bone graft, alternative to AI front-office agents, and a smart instrument washer—signal how rapidly dental technology is reshaping clinical care and practice work.\n\n\n\nAlternative material challenges current regenerative dentistry standard Bioactivity influences many restorative procedures and products when it comes to the rapidly evolving regenerative dental industry. Right now, sintered ceramics make up a large portion of today’s bone graft substitutes. The process invovles fusing particles into dense, ceramic structures to simulate natural bone via high heat.1 OsteoGen’s Bioactive Crystal Technology (BCT) is taking a different approach by forgoing sintering in favor of calcium phosphate crystals comprised of bone-like materials. The company says that circumventing the sintering process allows these crystals to retain bioactive properties because they are not exposed to the high sintering temperatures. The material releases calcium ions that may support osteoblastic differentiation and mineralized matrix deposition during healing. Cited by OsteoGen in their press release, research published in the Journal of Periodontology notes that BCT has 94.4% porosity, which may promote bone formation. The same study also found that BCT has a proliferation rate that is six times greater than xenograft and allograft materials.1 OsteoGen says the goal of this product is to shorten procedure time and simplify the bone grafting process without compromising solid clinical results.1 Bioactive Crystal Technology (BCT) AI workforce taking on front-office tasks Planet DDS, a dental software solutions company, has developed AI-powered workers to streamline front office work for staff members. According to Planet DDS, their AI agents can access live patient data, office schedules, and established workflows and are compatible with dental practice management software (Denticon and Cloud 9).2 The scheduling agent: Reaches out to patients from recall lists, waitlists, and those with unscheduled treatment Fills open schedule time when patients cancel appointments Books appointments Logs each interaction into Denticon or Cloud 9 The confirmation agent: Automates appointment confirmations Verifies patient identity before sharing protected health information Writes confirmation and reschedule outcome In a press release, CEO of Planet DDS Eric Giesecke said these tools are intended to increase practice productivity and relieve team members of time-consuming tasks and help them avoid routine busywork. He said: “DSOs that are scaling face an inherent tension—more locations mean more operational complexity, more communication to manage, and more pressure on teams already stretched thin ... [DentalOS] works alongside human teams so organizations can scale without sacrificing consistency, responsiveness, or the people who make it all work.”2 Instrument washer adds digital monitoring features Infection control company SciCan has debuted an automated instrument washer with a touch screen, LED lights, and customizable features—known as HYDRIM 112W G4+. According to SciCan's website, this model is designed to: Reduce the risk of sharps injuries by minimizing how much you’re handling your instruments Cut instrument cleaning costs by $10,000 a year Allow for more time chairside Clean more instruments per cycle than other washers on the market today The manufacturer notes this instrument washer includes smart technology to keep dental practices running smoothly. It has a touch-screen interface with on-screen instruction tutorials, connectivity to equipment software myCOLTENE, support for troubleshooting and running diagnostics, and a digital log of each cleaning cycle.3 SciCan reports the washer can remove 99.9% of protein residues under tested conditions.3 HYDRIM 112W G4+ instrument washer References: Bioactive Crystal Technology (BCT): the science behind predictable bone regeneration. OsteoGen. March 9, 2026. Press release. Planet DDS unveils DentalOS AI agents: a new AI workforce for dental operations. Planet DDS. March 9, 2026. Press release. Introducing the new HYDRIM 112W G4+ washer: reprocessing reimagined. March 9, 2026. SciCan. Press release. https://www.scican.com/us/products/instrument-washers/hydrim-112/ About the Author Sarah Butkovic, MA, BA Sarah Butkovic, MA, BA, is an Associate Editor at Endeavor Business Media, where she works on creating and editing engaging and informative content for today's leading online dentistry publications. She holds a Master's English Language and Literature from Loyola University Chicago and is passionate about producing high-quality content that educates, inspires, and connects with readers. Related How to build a dental team bonus system that actually motivates Practice Production Prioritized: The amazing power of great customer service"
+      },
+      {
+        "id": 20138222,
+        "title": "Clerri Expands Practice Management Ecosystem with Direct Integration for Denticon by Planet DDS",
+        "url": "https://www.dentistrytoday.com/clerri-expands-practice-management-ecosystem-with-direct-integration-for-denticon-by-planet-dds/",
+        "publisher": "Dentistry Today",
+        "published_date": "2026-03-05T15:05:34",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Clerri announced a new direct integration with Planet DDS's Denticon practice management system, replacing middleware-based connections with a direct, secure data pipeline. The integration enables sub-second patient information and schedule synchronization, improved data security through point-to-point connection, and enhanced benefit visibility for dental practice staff. This expansion builds on Clerri's strategy of directly integrating with major practice management systems, serving over 25,000 dentists including more than 5,000 independent offices and 200-plus group practices.",
+        "word_count": 423,
+        "original_language": "EN",
+        "author": "Dentistry Today",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Dental Support Services Organizations (Non-Clinical MSO/Back-Office Platforms)",
+            "code": "HLABAKAN",
+            "is_primary": true
+          },
+          {
+            "name": "General Dentistry Group Practices",
+            "code": "HLABAKAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Digital Transformation",
+            "code": "SD06",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0043hdk",
+            "name": "Clerri",
+            "website": "https://clerri.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "doug mcclure"
+          ],
+          "location": [],
+          "product": [
+            "denticon",
+            "clerri care"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9614,
+        "group_id": 317275,
+        "full_text": "Industry News Clerri Expands Practice Management Ecosystem with Direct Integration for Denticon by Planet DDS\n\nClerri, the dental industry’s largest and most trusted membership platform, today announced a new direct integration with Planet DDS’s flagship practice management system (PMS), Denticon. Building on its strategy of directly integrating with the industry’s largest and most successful PMSs, this update further simplifies how dental practices manage membership plans by establishing a direct, secure data connection between the two platforms. By moving to a direct integration model, Clerri has eliminated the need for intermediary middleware, providing Denticon users with a more reliable and secure data connection they can trust. “Our goal is to continually remove technical barriers so dental teams can focus on what matters most, their patients,” said Doug McClure, Senior Vice President of Product Management at Clerri. “Our direct integration with Denticon by Planet DDS is the next step in our commitment to building a faster, more reliable ecosystem and delivering a cleaner data pipeline that improves both system performance and the user experience.” Key benefits of the direct Denticon integration include: Sub-Second Data Synchronization: Patient information and schedules entered in Denticon sync instantly with the Clerri Care Membership Platform, reducing manual entry and data fragmentation.\n\nPatient information and schedules entered in Denticon sync instantly with the Clerri Care Membership Platform, reducing manual entry and data fragmentation. Enhanced Benefit Visibility: Staff can view used and remaining membership benefits within the Clerri platform, ensuring accurate patient interactions.\n\nStaff can view used and remaining membership benefits within the Clerri platform, ensuring accurate patient interactions. Strengthened Data Security: Establishing a point-to-point connection helps practices feel more protected over patient information and in control, reducing their security concerns by limiting third-party access.\n\nEstablishing a point-to-point connection helps practices feel more protected over patient information and in control, reducing their security concerns by limiting third-party access. Simplified Onboarding: The new model allows for a smoother setup process, managed by the Clerri Growth Services team to ensure a seamless transition for existing and new customers.Existing Clerri users with Denticon can contact their account manager to explore transitioning, while new clients can request a demo at clerri.com/get-started. About Clerri Clerri is the leading care membership platform transforming how dental practices grow. By simplifying access to care through smart, sustainable membership plans, Clerri empowers providers to increase patient loyalty, reduce insurance dependence, and build recurring revenue. Trusted by over 25,000 dentists, including more than 5,000 independent offices and 200-plus group practices, Clerri delivers a clear path to practice success powered by automation, expert support, and nationwide compliance."
+      },
+      {
+        "id": 21812087,
+        "title": "Planet DDS Unveils DentalOS™ AI Agents: A New AI Workforce for Dental Operations",
+        "url": "https://www.businesswire.com/news/home/20260226387949/en/Planet-DDS-Unveils-DentalOS-AI-Agents-A-New-AI-Workforce-for-Dental-Operations",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-02-26T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Planet DDS has launched DentalOS™ AI Agents, a new category of AI-powered autonomous workers embedded within their dental practice management platforms Denticon and Cloud 9. The first two agents—the Confirmation Agent and Scheduling Agent—are designed to automate front desk operations, addressing the average 15% no-show rate that costs dental practices more than $150,000 annually, and have demonstrated the ability to increase appointment confirmation rates by 20–50% and reduce no-shows by 15–30%. The company plans to expand its AI workforce throughout 2026 and beyond to include clinical coordination, patient communications, and revenue cycle management.",
+        "word_count": 1194,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Support Services Organizations (Non-Clinical MSO/Back-Office Platforms)",
+            "code": "HLABAKAN",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "620",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "56142",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          },
+          {
+            "code": "561422",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nathan james",
+            "eric giesecke"
+          ],
+          "location": [
+            "irvine, calif."
+          ],
+          "product": [
+            "dentalos™ ai agents",
+            "confirmation agent",
+            "scheduling agent",
+            "dentalos ai agents",
+            "ai agent",
+            "dentalos ai agent",
+            "ai voice perio",
+            "agent",
+            "dentalos",
+            "apteryx cloud imaging",
+            "clinical voice+ suite",
+            "denticon"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9198,
+        "group_id": 1007252,
+        "full_text": "Planet DDS Unveils DentalOS™ AI Agents: A New AI Workforce for Dental Operations\n\nShare\n\nEarly access waitlist now open for purpose-built AI agents that connect directly to Denticon and Cloud 9.\n\nIRVINE, Calif.--(BUSINESS WIRE)--Planet DDS today unveiled DentalOS™ AI Agents, a new category of AI-powered workers purpose-built to operate within the dental practice management system. DentalOS AI Agents are intelligent, autonomous agents that live inside Denticon and Cloud 9, accessing live patient data, real schedules, and established workflows to complete operational work the way a trained team member would, at any hour, across every location. The first agents target front desk operations, where missed communication directly leads to lost revenue. Today, the average dental practice sees a 15% no-show rate, costing providers more than $150,000 per year in lost production—and 36% of patients who miss appointments say they simply forgot. For DSOs and multi-location groups, these gaps compound across dozens or hundreds of locations. These are solvable problems. The newly announced Confirmation Agent and Scheduling Agent are designed to address these challenges systematically across organizations. But the front desk is only the starting point. Planet DDS will introduce additional AI agent roles throughout 2026 and beyond, building toward a full AI workforce spanning clinical coordination, patient communications, revenue cycle management, and more, all embedded within DentalOS. Denticon and Cloud 9 customers can join the early access waitlist at planetdds.com/ai-agents-early-access. “DSOs that are scaling face an inherent tension—more locations mean more operational complexity, more communication to manage, and more pressure on teams already stretched thin,\" said Eric Giesecke, CEO of Planet DDS. \"We're introducing an entirely new way of using our software by providing access to an AI workforce that lives inside DentalOS, understands the full context of every patient interaction, and works alongside human teams so organizations can scale without sacrificing consistency, responsiveness, or the people who make it all work. The Confirmation and Scheduling Agents we're launching are just the beginning.” Meet the First Two AI Agents for Dental Front Desk Operations Confirmation Agent automates outbound appointment confirmations within a configurable window, helping DSOs reduce no-shows and stabilize provider schedules without increasing staff workload. If a patient can't make it, the agent can reschedule the appointment during the same call using policy-controlled slot search—without creating scheduling risk. It verifies patient identity before sharing protected health information, respects consent and office hours, and writes confirmation and reschedule outcomes back into Denticon and Cloud 9 with full auditability. The Confirmation Agent has been shown to increase appointment confirmation rates by 20–50% from historic baselines, reduce no-shows by 15–30%, and save front desk teams an estimated 60–75% of hours previously spent on manual confirmation workflows. Scheduling Agent keeps schedules full by proactively reaching out to patients from recall lists, waitlists, ASAP lists, and unscheduled treatment, then booking appointments directly into the practice management system. When cancellations occur, the agent triggers time-sensitive outreach to quickly recover open time. It reaches patients through outgoing calls and logs every interaction back into Denticon and Cloud 9, so teams maintain full visibility across locations. \"The Confirmation and Scheduling Agents protect production and reduce no-shows, which for DSOs means healthier EBITDA,\" said Nathan James, Chief Product Officer at Planet DDS. \"And this is just the first layer. As we bring AI agents into the revenue cycle, clinical coordination, and beyond, we're building a workforce that strengthens our customers’ business at every level.” How DentalOS AI Agents Work: Real-time access to live schedules and patient records within Denticon and Cloud 9\n\nIndependently complete front desk workflows, including appointment confirmations, rescheduling, missed call recovery, and routine patient inquiries\n\nNatural patient communication that follows each organization's scheduling preferences and escalation paths\n\nOperate simultaneously across the organization—configurable by location—while honoring each office’s working hours, holidays, and closures.\n\nIntelligent escalation to human staff when clinical judgment or personal attention is needed Organizations retain full control over timing, task scope, and escalation rules—ensuring agents operate as a seamless extension of the team. Every DentalOS AI Agent—current and future—connects directly with Denticon and Cloud 9, cloud-based dental practice management platforms by Planet DDS, with real-time access to the same data and workflows human teams rely on every day. This shared foundation enables agents to act with full operational awareness, following each organization's scheduling rules, communication standards, and escalation paths without manual configuration for every interaction. It is also what makes the AI workforce scalable. As Planet DDS introduces new agents across additional operational domains, each will inherit the same data and organizational intelligence, allowing DSOs to continue expanding their AI workforce. Early Access Waitlist Now Open Planet DDS is opening an early access waitlist for DentalOS AI Agents to Denticon and Cloud 9 customers. Organizations on the waitlist will be among the first to deploy the Confirmation Agent and Scheduling Agent and help shape the future of AI-powered dental operations. To join the early access waitlist or learn more, visit planetdds.com/ai-agents-early-access. Resources Learn more about DentalOS AI Agents.\n\nDiscover Denticon Practice Management.\n\nExplore Cloud 9 Ortho Practice Management.\n\nAccess the latest insights on dental technology and AI. About Planet DDS Dental software is broken. We aim to fix it. As a partner in growth for DSOs and dental groups outgrowing legacy systems and fragmented tools, Planet DDS delivers a cloud-based AI platform designed to scale alongside growing organizations. Powered by DentalOS™ with AI, Planet DDS is built on connection—connecting people, partners, and technology across an open ecosystem that includes Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging. Trusted by leading DSOs and emerging dental groups nationwide, Planet DDS supports more 100+ location DSOs than any other cloud-based dental practice management provider, enabling 14,500 practices and 175,000 users to move beyond outdated legacy software with seamless integrations, optimized workflows, and scalable technology built for growth.\n\nPlanet DDS Release Versions English\n\nMore News From Planet DDS\n\nGet RSS Feed\n\nPlanet DDS Expands Clinical Voice+ Suite with AI Voice Restorative Charting IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today announced the launch of AI Voice Restorative Charting, the newest capability in the Clinical Voice+ Suite. Building on AI Voice Perio, AI Voice Restorative Charting extends voice-driven documentation to the highest-volume clinical task in general dentistry: capturing decay, existing restorations, fractures, and treatment plan entries during the restorative exam. Designed for dental support organizations (DSOs) and multi-location dental groups, t...\n\nPlanet DDS 2026 Dental Outlook Shows More New Patients, Fewer No-Shows Across the Industry IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS, a leading provider of cloud-based, enterprise-grade dental software solutions, today announced the release of its 2026 Dental Industry Outlook, an annual benchmark report designed to help dental organizations measure performance and spot operational opportunities. The report tracks changes across core practice metrics and shows improvements in treatment follow-through, patient reliability, and daily production. 2026 Dental Industry Outlook Key Findin...\n\nPlanet DDS Introduces AI Voice Perio to Bring Consistent, Scalable Perio Charting to DSOs IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today announced the launch of AI Voice Perio, the first voice-powered periodontal charting system built within Denticon. Designed specifically for DSOs and multi-location dental groups, this hands-free, voice-activated solution addresses a critical operational challenge: ensuring consistent, reliable perio data across locations without introducing fragmentation or operational overhead as organizations scale. AI Voice Perio captures periodontal measure..."
+      },
+      {
+        "id": 19869277,
+        "title": "In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Dental Service Organization Market",
+        "url": "https://www.openpr.com/news/4402244/in-depth-examination-of-segments-industry-trends-and-key",
+        "publisher": "openPR.com",
+        "published_date": "2026-02-24T05:48:47",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The dental service organization market is projected to reach $379.41 billion by 2030, growing at a compound annual growth rate of 15.8%, driven by practice consolidation, tele-dentistry adoption, and AI-based diagnostic tools. In June 2025, Innovate 32 partnered with Fort Bend Dental to expand its affiliated practice network in Texas, aiming to strengthen regional footprint and improve operational support. US-based dental technology firm Planet DDS introduced Denticon Reimagined in February 2024, a cloud platform designed for large dental groups featuring advanced analytics and centralized billing capabilities.",
+        "word_count": 2831,
+        "original_language": "EN",
+        "author": "The Business Research Company",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Specialty DSOs (General + Specialty Networks)",
+            "code": "HLABAKAA",
+            "is_primary": true
+          },
+          {
+            "name": "Regional/Multi-Region DSO Platforms (Aggregators)",
+            "code": "HLABAKAK",
+            "is_primary": false
+          },
+          {
+            "name": "Dental Teleconsultation Marketplaces",
+            "code": "HLALALAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Sector Outlook & Forecasts",
+            "code": "MM07",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "006ddit",
+            "name": "Innovate 32",
+            "website": "https://innovate32services.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000i6y8",
+            "name": "Fort Bend Dental",
+            "website": "https://www.ftbenddental.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000283",
+            "name": "market research"
+          },
+          {
+            "code": "20000284",
+            "name": "market trend"
+          },
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "ursula koslik"
+          ],
+          "location": [
+            "texas",
+            "united states",
+            "europe",
+            "americas",
+            "asia",
+            "us",
+            "new england",
+            "hamburg"
+          ],
+          "product": [
+            "denticon reimagined",
+            "clear aligner",
+            "ceramic braces",
+            "metal braces",
+            "crowns",
+            "bridges",
+            "implant-supported prosthetics",
+            "veneers",
+            "clear aligner therapy",
+            "teeth whitening",
+            "treatment planning software",
+            "root canals",
+            "retreatment",
+            "oral pathology treatment",
+            "complete and partial dentures",
+            "periodontal surgery",
+            "bonding",
+            "smile makeovers",
+            "restorative services",
+            "implant surgery",
+            "apical surgery",
+            "corrective jaw surgery",
+            "pulp therapy",
+            "gum disease treatment",
+            "tooth extraction",
+            "trauma surgery",
+            "oral health education",
+            "early interceptive care",
+            "special needs care",
+            "aesthetic contouring",
+            "gum grafting",
+            "routine exams",
+            "global market model",
+            "preventive dental care",
+            "implant maintenance",
+            "lingual orthodontics",
+            "simple tooth extractions",
+            "fillings and restorations",
+            "scaling and root planing",
+            "behavior management",
+            "customer technical support service",
+            "linear actuator",
+            "dental services"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2128652,
+        "full_text": "In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Dental Service Organization Market Dental Service Organization Market The dental service organization sector is poised for significant expansion in the coming years as it adapts to technological advancements and changing healthcare demands. This growth is supported by increasing consolidation in dental practices and the adoption of innovative platforms designed to enhance patient care and operational efficiency. Let's explore the market's current scale, key drivers, leading players, emerging trends, and segment highlights shaping this evolving industry.\n\n\n\nProjected Growth and Valuation of the Dental Service Organization Market\n\nThe dental service organization market is expected to experience rapid growth, reaching a valuation of $379.41 billion by 2030. This forecast is based on a compound annual growth rate (CAGR) of 15.8%. Several factors contribute to this surge, including the ongoing consolidation of dental practices into larger networks and the rising demand for scalable, integrated dental service platforms. Additionally, the growing use of tele-dentistry services and data-driven strategies for patient acquisition are further fueling market expansion. The integration of AI-based diagnostic tools also plays a crucial role in enhancing both patient outcomes and operational processes.\n\n\n\nDownload a free sample of the dental service organization market report:\n\nhttps://www.thebusinessresearchcompany.com/sample.aspx?id=33086&type=smp&utm_source=OpenPR&utm_medium=Paid&utm_campaign=Feb_PR\n\n\n\nWhat Is Driving the Dental Service Organization Market Expansion\n\nOne major influence behind the market's growth is the increasing shift toward centralized practice management models. This approach allows for better coordination across multiple locations, providing streamlined workflows and improved patient experiences. Moreover, dental service organizations are embracing AI-driven systems for scheduling and billing, which reduce administrative burdens and optimize resource allocation.\n\n\n\nAnother important factor is the widespread adoption of digital patient records. These systems facilitate easier data sharing and integration across specialties, enabling multi-specialty dental networks to deliver comprehensive care. The emphasis on operational efficiency and standardization is helping organizations scale more effectively while maintaining high-quality services.\n\n\n\nView the full dental service organization market report:\n\nhttps://www.thebusinessresearchcompany.com/report/dental-service-organization-market-report?utm_source=OpenPR&utm_medium=Paid&utm_campaign=Feb_PR\n\n\n\nKey Players Leading the Dental Service Organization Market\n\nThe dental service organization market features several prominent companies that dominate the space, such as Heartland Dental LLC, Aspen Dental Management Inc., Smile Brands Inc., Western Dental Services Inc., and Dental Care Alliance LLC. Other notable players include Great Expressions Dental Centers LLC, Dykema Gossett PLLC, Affordable Dentures & Implants LLC, MB2 Dental Solutions LLC, InterDent Service Corporation, Guardian Dentistry Partners LLC, Benevis LLC, Specialty1 Partners LLC, Pacific Dental Services LLC, Bluetree Dental LLC, iDental Group LLC, Affordable Care LLC, Lollipop Dental LLC, Straine Dental Management LLC, and Family Dental Care LLC.\n\n\n\nExpanding Networks Through Strategic Partnerships\n\nIn June 2025, Innovate 32, a US-based dental services organization, partnered with Fort Bend Dental to broaden its affiliated practice network within Texas. This collaboration aims to strengthen their regional footprint, enhance operational support systems, and improve access to quality dental care by leveraging shared resources and centralized management. Fort Bend Dental is known for offering comprehensive oral healthcare services across the United States.\n\n\n\nTechnological Innovations Driving New Opportunities in the Market\n\nLeading companies in the dental service organization market are prioritizing technological advancements, particularly the use of integrated cloud-based practice management platforms. These systems enable dental organizations to efficiently oversee multiple locations by consolidating administrative, financial, clinical, and patient engagement processes into one digital infrastructure. For example, in February 2024, US-based dental technology firm Planet DDS introduced Denticon Reimagined, an enhanced cloud platform designed specifically for large dental groups and DSOs. This platform boasts advanced analytics capabilities for real-time performance monitoring, built-in patient communication tools, and scalable architecture that supports centralized billing, scheduling, and reporting across numerous sites.\n\n\n\nMajor Segments Representing the Dental Service Organization Market\n\nThis market can be broken down into several key segments:\n\n1) Type of Services: General Dentistry, Pediatric Dentistry, Orthodontics, Oral Maxillofacial Surgery, Periodontics, Cosmetic Dentistry, Endodontics, Prosthodontics\n\n2) Practice Models: Single Specialty, Multi-Specialty, Corporate Owned, Independent Practitioner Networks, Franchise Models\n\n3) Patient Demographics: Pediatric, Adult, Geriatric, Special Needs, Preventive Care Patients\n\n4) Technology Utilization: Traditional Practices, Digital Records Management, Treatment Planning Software, Tele-dentistry, 3D Imaging and Printing, AI-Driven Diagnostics\n\n5) End-Users: General Dentists, Dental Surgeons, and Specialists\n\n\n\nDetailed Subsegments Within the Main Categories\n\nThe general dentistry segment includes services such as preventive dental care, routine exams, fillings and restorations, oral health education, and simple tooth extractions. Pediatric dentistry covers infant oral health, preventive care for children, restorative services, behavior management, and special needs care. Orthodontics features treatments like metal braces, ceramic braces, clear aligner therapy, lingual orthodontics, and early interceptive care. Oral maxillofacial surgery encompasses tooth extraction, implant surgery, corrective jaw surgery, trauma surgery, and oral pathology treatment. Periodontics involves gum disease treatment, scaling and root planing, periodontal surgery, gum grafting, and implant maintenance. Cosmetic dentistry includes teeth whitening, veneers, bonding, smile makeovers, and aesthetic contouring. Endodontics covers root canals, retreatment, apical surgery, trauma management, and pulp therapy. The prosthodontics segment includes crowns, bridges, complete and partial dentures, as well as implant-supported prosthetics.\n\n\n\nThis comprehensive breakdown highlights how the dental service organization market caters to a wide array of patient needs and utilizes advanced technologies to improve care delivery and operational efficiency.\n\n\n\nReach out to us:\n\nThe Business Research Company: https://www.thebusinessresearchcompany.com/ ,\n\nAmericas +1 310-496-7795,\n\nEurope +44 7882 955267,\n\nAsia & Others +44 7882 955267 & +91 8897263534,\n\nEmail us at info@tbrc.info.\n\n\n\nFollow Us On:\n\nLinkedIn: https://in.linkedin.com/company/the-business-research-company ,\n\nTwitter: https://twitter.com/tbrc_info ,\n\nYouTube: https://www.youtube.com/channel/UC24_fI0rV8cR5DxlCpgmyFQ\n\n\n\nLearn More About The Business Research Company\n\nWith over 17500+ reports from 27 industries covering 60+ geographies, The Business Research Company has built a reputation for offering comprehensive, data-rich research and insights. Armed with 1,500,000 datasets, the optimistic contribution of in-depth secondary research, and unique insights from industry leaders, you can get the information you need to stay ahead.Our flagship product, the Global Market Model (GMM), is a premier market intelligence platform delivering comprehensive and updated forecasts to support informed decision-making.\n\n\n\nThis release was published on openPR.\n\nThe dental service organization sector is poised for significant expansion in the coming years as it adapts to technological advancements and changing healthcare demands. This growth is supported by increasing consolidation in dental practices and the adoption of innovative platforms designed to enhance patient care and operational efficiency. Let's explore the market's current scale, key drivers, leading players, emerging trends, and segment highlights shaping this evolving industry.Projected Growth and Valuation of the Dental Service Organization MarketThe dental service organization market is expected to experience rapid growth, reaching a valuation of $379.41 billion by 2030. This forecast is based on a compound annual growth rate (CAGR) of 15.8%. Several factors contribute to this surge, including the ongoing consolidation of dental practices into larger networks and the rising demand for scalable, integrated dental service platforms. Additionally, the growing use of tele-dentistry services and data-driven strategies for patient acquisition are further fueling market expansion. The integration of AI-based diagnostic tools also plays a crucial role in enhancing both patient outcomes and operational processes.Download a free sample of the dental service organization market report:What Is Driving the Dental Service Organization Market ExpansionOne major influence behind the market's growth is the increasing shift toward centralized practice management models. This approach allows for better coordination across multiple locations, providing streamlined workflows and improved patient experiences. Moreover, dental service organizations are embracing AI-driven systems for scheduling and billing, which reduce administrative burdens and optimize resource allocation.Another important factor is the widespread adoption of digital patient records. These systems facilitate easier data sharing and integration across specialties, enabling multi-specialty dental networks to deliver comprehensive care. The emphasis on operational efficiency and standardization is helping organizations scale more effectively while maintaining high-quality services.View the full dental service organization market report:Key Players Leading the Dental Service Organization MarketThe dental service organization market features several prominent companies that dominate the space, such as Heartland Dental LLC, Aspen Dental Management Inc., Smile Brands Inc., Western Dental Services Inc., and Dental Care Alliance LLC. Other notable players include Great Expressions Dental Centers LLC, Dykema Gossett PLLC, Affordable Dentures & Implants LLC, MB2 Dental Solutions LLC, InterDent Service Corporation, Guardian Dentistry Partners LLC, Benevis LLC, Specialty1 Partners LLC, Pacific Dental Services LLC, Bluetree Dental LLC, iDental Group LLC, Affordable Care LLC, Lollipop Dental LLC, Straine Dental Management LLC, and Family Dental Care LLC.Expanding Networks Through Strategic PartnershipsIn June 2025, Innovate 32, a US-based dental services organization, partnered with Fort Bend Dental to broaden its affiliated practice network within Texas. This collaboration aims to strengthen their regional footprint, enhance operational support systems, and improve access to quality dental care by leveraging shared resources and centralized management. Fort Bend Dental is known for offering comprehensive oral healthcare services across the United States.Technological Innovations Driving New Opportunities in the MarketLeading companies in the dental service organization market are prioritizing technological advancements, particularly the use of integrated cloud-based practice management platforms. These systems enable dental organizations to efficiently oversee multiple locations by consolidating administrative, financial, clinical, and patient engagement processes into one digital infrastructure. For example, in February 2024, US-based dental technology firm Planet DDS introduced Denticon Reimagined, an enhanced cloud platform designed specifically for large dental groups and DSOs. This platform boasts advanced analytics capabilities for real-time performance monitoring, built-in patient communication tools, and scalable architecture that supports centralized billing, scheduling, and reporting across numerous sites.Major Segments Representing the Dental Service Organization MarketThis market can be broken down into several key segments:1) Type of Services: General Dentistry, Pediatric Dentistry, Orthodontics, Oral Maxillofacial Surgery, Periodontics, Cosmetic Dentistry, Endodontics, Prosthodontics2) Practice Models: Single Specialty, Multi-Specialty, Corporate Owned, Independent Practitioner Networks, Franchise Models3) Patient Demographics: Pediatric, Adult, Geriatric, Special Needs, Preventive Care Patients4) Technology Utilization: Traditional Practices, Digital Records Management, Treatment Planning Software, Tele-dentistry, 3D Imaging and Printing, AI-Driven Diagnostics5) End-Users: General Dentists, Dental Surgeons, and SpecialistsDetailed Subsegments Within the Main CategoriesThe general dentistry segment includes services such as preventive dental care, routine exams, fillings and restorations, oral health education, and simple tooth extractions. Pediatric dentistry covers infant oral health, preventive care for children, restorative services, behavior management, and special needs care. Orthodontics features treatments like metal braces, ceramic braces, clear aligner therapy, lingual orthodontics, and early interceptive care. Oral maxillofacial surgery encompasses tooth extraction, implant surgery, corrective jaw surgery, trauma surgery, and oral pathology treatment. Periodontics involves gum disease treatment, scaling and root planing, periodontal surgery, gum grafting, and implant maintenance. Cosmetic dentistry includes teeth whitening, veneers, bonding, smile makeovers, and aesthetic contouring. Endodontics covers root canals, retreatment, apical surgery, trauma management, and pulp therapy. The prosthodontics segment includes crowns, bridges, complete and partial dentures, as well as implant-supported prosthetics.This comprehensive breakdown highlights how the dental service organization market caters to a wide array of patient needs and utilizes advanced technologies to improve care delivery and operational efficiency.Reach out to us:The Business Research Company:Americas +1 310-496-7795,Europe +44 7882 955267,Asia & Others +44 7882 955267 & +91 8897263534,Email us at info@tbrc.info.Follow Us On:LinkedIn:Twitter:YouTube:Learn More About The Business Research CompanyWith over 17500+ reports from 27 industries covering 60+ geographies, The Business Research Company has built a reputation for offering comprehensive, data-rich research and insights. Armed with 1,500,000 datasets, the optimistic contribution of in-depth secondary research, and unique insights from industry leaders, you can get the information you need to stay ahead.Our flagship product, the Global Market Model (GMM), is a premier market intelligence platform delivering comprehensive and updated forecasts to support informed decision-making. Permanent link to this press release: Copy Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Share Tweet Email You can edit or delete your press release In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Dental Service Organization Market here Delete press release Edit press release News-ID: 4402244 • Views: 31\n\nEmerging Growth Trends Driving Expansion in the Docking Station Management Marke … The docking station management industry is poised for significant advancement as technology evolves and businesses prioritize seamless device connectivity. With the rise of remote work and expanding IT infrastructures, this sector is set to witness robust growth driven by innovations and increasing enterprise demands. Let's explore the market's size, key players, emerging trends, and segment breakdowns to understand its promising future. Projected Market Value and Growth Outlook for Docking Station Management … Segmentation, Major Trends, and Competitive Overview of the Linear Actuator Mark … The linear actuator sector is on track for significant expansion as advancements in technology and industrial demands continue to rise. With applications growing across various industries, this market is set to experience substantial growth over the next several years. Below is a detailed look at the market size, leading players, influential trends, and segment breakdowns shaping the future of linear actuators. Forecasted Size and Growth Prospects of the Linear Actuator Market … Top Companies and Competitive Dynamics in the Customer Technical Support Service … The customer technical support service market is on track for significant expansion in the coming years, driven by rapid technological advancements and evolving customer expectations. As businesses increasingly prioritize seamless and efficient support, this sector is positioned for robust growth. Let's explore the market size projections, leading players, key trends, and segment breakdowns shaping this dynamic industry. Strong Growth Expected in the Customer Technical Support Service Market by 2030 The … Segmentation Analysis, Market Trends, and Competitive Landscape in the Cold Star … The cold start recommendation artificial intelligence (AI) market is on track for remarkable expansion, driven by advances in personalization technologies and growing demand for accurate, real-time suggestions. This report examines the market's anticipated growth, key industry players, emerging trends, and segmentation, offering a complete overview of this rapidly evolving sector. Projected Market Size Expansion in the Cold Start Recommendation AI Market The cold start recommendation AI market is expected to … All 5 Releases\n\nDental Service Organizations Market at 17.60% CAGR with Key Contributions Heartl … The Dental Service Organizations (DSOs) market is experiencing significant growth and transformation, driven by evolving consumer demands and a shifting landscape in dental care delivery. As dental practices increasingly seek to enhance operational efficiency and improve patient outcomes, DSOs are emerging as strategic partners that provide comprehensive support services. These services often include administrative assistance, marketing, human resources, and procurement, allowing dental practitioners to focus primarily on patient care. The … Dental Service Organizations (DSO) Market Innovations and Key Players: Meadow De … 𝐌𝐚𝐫𝐤𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐑𝐞𝐜𝐞𝐧𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭𝐬 The Dental Service Organizations (DSO) Market is experiencing significant growth and transformation, playing an integral role in the evolution of dental care delivery. DSOs provide comprehensive management services to dental practices, allowing practitioners to focus on patient care while streamlining operations. With a growing emphasis on patient-centric care, the DSO model has become increasingly relevant, offering solutions that enhance operational efficiency and improve patient … Periodontal Dental Services Market Analysis by Top Key Players Coast Dental, Pac … A periodontal disease is an infection of the tissues in the mouth that results in detachment of teeth from the gums. The main cause of the disease is a bacterial infection that adversely affects the area just below the gum line in the sulcus, resulting in the breakdown of the tissues that support a tooth. In its initial stages, it is referred to as gingivitis, while in its advanced stage … Dental Services Market by Key Players : Apollo White Dental, Pacific Dental Serv … Dental services are provided by dentists or dental professionals, which include diagnosis, prevention, and treatment of dental disorders. These services are subjected to various disorders such as dental caries, tooth decay, and pyorrhea. Dental services mainly focus on the maintenance of healthy teeth, oral hygiene, and dental surgery. The key players that operate in this market include Apollo White Dental, Pacific Dental Services, DENTAL SERVICES GROUP, Gentle Dental of New England, … Periodontal Dental Services Market Size and Business Outlook Analysis 2025: Coas … Periodontal Dental Services Market 2018 delivers comprehensive overview of the global Industry along with the market elements such as drivers, trends, size, share, growth, challenges and restraints. Our analysts have done thorough analysis of all the major elements to define the future prospect of Global Periodontal Dental Services Market. The periodontal dental services market is characterized by the presence of several vendors. The vendors are increasingly competing against each other based … Global Dental Laboratory Workstations Market 2017- Dental Art , DentalEZ Group , … The Global Dental Laboratory Workstations Market 2017 examines the performance of the Dental Laboratory Workstations market, enclosing an in-depth judgment of the Dental Laboratory Workstations market state and the competitive landscape globally. This report analyzes the potential of Dental Laboratory Workstations market in the present as well as the future prospects from various angles in detail. The Global Dental Laboratory Workstations Market 2017 report includes Dental Laboratory Workstations industry volume, market …\n\nOpenPR is clearly structured and remains true to its principle of confining itself to the essential parts. OpenPR has proven to be a very good and reliable partner to our media agency: Within the shortest time the releases are online and go down well with the media representatives. The success of OpenPR is reflected in the steadily increasing number of press releases. It is good that OpenPR exists!\n\nUrsula Koslik, Director Marketing & PR, F+W Hamburg Your Press Release on Google News Press Release in German on openPR.de"
+      },
+      {
+        "id": 19510347,
+        "title": "Synchrony and Planet DDS Expand Strategic Partnership to Integrate CareCredit Across Leading Dental Practice Management Platforms",
+        "url": "https://www.prnewswire.com/news-releases/synchrony-and-planet-dds-expand-strategic-partnership-to-integrate-carecredit-across-leading-dental-practice-management-platforms-302691007.html",
+        "publisher": "PR Newswire",
+        "published_date": "2026-02-18T14:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Synchrony has expanded its strategic partnership with Planet DDS to make CareCredit the preferred patient financing solution across all Planet DDS platforms, including Denticon for dental practices and Cloud 9 for orthodontic practices. The integration marks Synchrony's first entry into an orthodontic-specific practice management system, covering 2,500+ orthodontic practices and 15,000+ dental practices nationwide. The multi-year agreement builds on an existing partnership established in 2020, enabling practices to embed financing directly into their workflows and patients to prequalify without impacting their credit score.",
+        "word_count": 1054,
+        "original_language": "EN",
+        "author": "Synchrony Financial",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Patient Billing, Statements & Payment Processing",
+            "code": "HLACACAG",
+            "is_primary": true
+          },
+          {
+            "name": "B2B/EDI & Partner Integration",
+            "code": "BPAMAOAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005jj",
+            "name": "Synchrony",
+            "website": "https://www.synchrony.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "522390",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "nathan james",
+            "sonia williams",
+            "michelle blaya romero",
+            "gail"
+          ],
+          "location": [
+            "u.s.",
+            "irvine, calif.",
+            "stamford, conn."
+          ],
+          "product": [
+            "denticon",
+            "carecredit",
+            "cloud 9",
+            "dentalos™",
+            "apteryx"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 831652,
+        "full_text": "CareCredit is now the preferred financing solution across Planet DDS platforms, including Denticon for dental practices, with Cloud 9 orthodontic integration planned to bring financing to 2,500+ practices Key Highlights: CareCredit is the preferred patient financing solution across all Planet DDS platforms, including Denticon for dental practices and Cloud 9 for orthodontic practices.\n\nThe partnership lays the foundation for future integrated financing, helping Planet DDS practices plan for more efficient financial workflows and smoother patient payment experiences.\n\nThe integration brings CareCredit financing to thousands of Planet DDS practices, including 2,500+ Cloud 9 orthodontic practices and 15,000+ Denticon dental practices, marking Synchrony's first integration into an orthodontic-specific practice management system. STAMFORD, Conn., and IRVINE, Calif., Feb. 18, 2026 /PRNewswire/ -- Synchrony (NYSE: SYF), a leading consumer financial services company, today announced an expanded strategic partnership with Planet DDS that helps orthodontic and dental practices simplify patient financing and makes it easier for patients to move forward with care. Continue Reading\n\nThrough the integration of CareCredit into Planet DDS’s Cloud 9 orthodontic practice management platform, which serves approximately 2,500+ orthodontic practices and millions of patients nationwide, practices will soon be able to embed financing directly into their workflows – marking Synchrony’s first-ever integration with an orthodontic-specific practice management system. In the U.S., over 6 million patients currently receive orthodontic care, across an estimated 15,000+ practices nationwide.i Through the integration of CareCredit into Planet DDS's Cloud 9 orthodontic practice management platform, which serves approximately 2,500+ orthodontic practices and millions of patients nationwide, practices will soon be able to embed financing directly into their workflows – marking Synchrony's first-ever integration with an orthodontic-specific practice management system. \"For Dental Support Organizations (DSOs) and growing practices, the ability to scale hinges on having efficient, connected systems,\" said Sonia Williams, Senior Vice President and General Manager, Dental, Synchrony. \"Our expanded partnership with Planet DDS is designed to power that efficiency. By integrating CareCredit into their core software, we help practices operate more effectively and strengthen how they connect with patients about their financing options. This simplifies the financial workflow and allows teams to focus on delivering optimal patient care.\" Planet DDS locations can seamlessly incorporate CareCredit financing into their workflows, streamlining application and payment processing which allows teams to focus on delivering their high-quality patient care. Patients can see if they prequalify for the CareCredit credit card at a dental practice or on any smart device with no impact to their credit score, and when they use the card, practices receive payment as quickly as two business days. \"At Planet DDS, we believe technology should make it easier for practices to say yes to patients and for patients to say yes to care,\" said Nathan James, Chief Product Officer at Planet DDS. \"Integrating Synchrony's CareCredit credit card as our preferred financing solution brings a trusted payment option directly into our platform, helping teams simplify financial conversations while expanding access to treatment. This partnership strengthens our ability to support practice growth, operational efficiency, and more predictable patient outcomes.\" Under the new multi-year agreement, CareCredit is now the preferred patient financing solution across all Planet DDS platforms, including Denticon, the company's flagship cloud-based practice management system for dental practices, and Cloud 9 for orthodontic practices, with CareCredit integration planned in the coming months. The partnership builds on an existing relationship that began in 2020. About Synchrony Synchrony (NYSE: SYF) is a leading consumer financing company that has been at the heart of American commerce and opportunity for nearly a century. Synchrony delivers credit and banking products that empower tens of millions of consumers to improve their financial lives and access what matters most. Leveraging innovative solutions that are shaping the future of retail commerce, Synchrony supports the growth and success of some of the nation's most respected brands, alongside hundreds of thousands of small and midsize businesses, including health and wellness providers. Committed to excellence in service and culture, Synchrony is honored to be ranked the #2 Best Company to Work For® in the U.S. by Fortune magazine and Great Place to Work®. For more information, visit www.synchrony.com. About Planet DDS Dental software is broken. We aim to fix it. As a partner in growth for DSOs and dental groups outgrowing legacy systems and fragmented tools, Planet DDS delivers a cloud-based AI platform designed to scale alongside growing organizations. Powered by DentalOS™ with AI, Planet DDS is built on connection—connecting people, partners, and technology across an open ecosystem that includes Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging. Trusted by leading DSOs and emerging dental groups nationwide, Planet DDS supports more than 100 location DSOs than any other cloud-based dental practice management provider, enabling 14,500 practices and 175,000 users to move beyond outdated legacy software with seamless integrations, optimized workflows, and scalable technology built for growth. FAQ Fast Facts: Orthodontic (Cloud 9): Number of orthodontic practices offering CareCredit through Cloud 9: 2,500+ practices nationwide Patients in active orthodontic treatment: over 6 million 1\n\nDental (Denticon): Number of dental practices offering CareCredit through Denticon: 15,000+ practices nationwide Patients receiving general dental care: millions\n\nWhat is being announced?\n\nSynchrony and Planet DDS have expanded their strategic partnership, making CareCredit the preferred patient financing solution across all Planet DDS platforms and integrating CareCredit into the Cloud 9 orthodontic practice management system. What is new about this integration?\n\nThis expansion marks Synchrony's first integration into an orthodontic-specific practice management system, bringing CareCredit financing directly into Cloud 9 workflows used by orthodontic practices. Which Planet DDS platforms are included?\n\nCareCredit is now the preferred financing solution across all Planet DDS platforms, including Denticon for dental practices and Cloud 9, the leading orthodontic practice management platform, for orthodontic practices. How does this integration support dental and orthodontic practices?\n\nPractices can incorporate patient financing directly into their software, helping streamline applications and payments while simplifying financial conversations with patients. What are the benefits of this partnership?\n\nOrthodontic and dental practices benefit from improved operational efficiency and faster payments, while patients gain easier access to flexible financing options that support case acceptance. How long have Synchrony and Planet DDS worked together?\n\nThe partnership between Synchrony and Planet DDS began in 2020 and has now been expanded through this renewed agreement. Media Contacts:\n\nSynchrony:\n\nMichelle Blaya Romero\n\nMichelle.Romero@syf.com Planet DDS:\n\nplanetdds@cracklepr.com iGardner, Gail. \"Member Survey Indicates Orthodontic Patient Numbers at All-Time High.\" American Association of Orthodontists, 10 July 2025, www2.aaoinfo.org/member-survey-indicates-orthodontic-patient-numbers-at-all-time-high/. SOURCE Synchrony Financial"
+      },
+      {
+        "id": 21864150,
+        "title": "Planet DDS Introduces AI Voice Perio to Bring Consistent, Scalable Perio Charting to DSOs",
+        "url": "https://www.businesswire.com/news/home/20260203004684/en/Planet-DDS-Introduces-AI-Voice-Perio-to-Bring-Consistent-Scalable-Perio-Charting-to-DSOs",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-02-03T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Planet DDS announced the launch of AI Voice Perio, the first voice-powered periodontal charting system built directly into its Denticon practice management software, designed specifically for dental support organizations (DSOs) and multi-location dental groups. The system enables hygienists to capture periodontal measurements using voice commands in real-time during exams, eliminating manual data entry and ensuring consistent, standardized clinical data across all locations as organizations scale. The product is now available to Denticon customers, with Planet DDS planning to expand its AI-powered clinical capabilities throughout 2026.",
+        "word_count": 868,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Periodontal Diagnostics & Risk Assessment (Perio Charting/Microbial Testing)",
+            "code": "HLABACAL",
+            "is_primary": true
+          },
+          {
+            "name": "Speech Recognition, Dictation & Medical Transcription Platforms",
+            "code": "HLACAAAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "eric giesecke",
+            "etta bourne"
+          ],
+          "location": [
+            "irvine, calif."
+          ],
+          "product": [
+            "ai voice perio",
+            "ai voice restorative charting",
+            "denticon",
+            "dentalos™",
+            "apteryx cloud imaging",
+            "clinical voice+ suite",
+            "dentalos™ ai agents",
+            "dentalos ai agents",
+            "clinical voice+"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 989750,
+        "full_text": "Planet DDS Introduces AI Voice Perio to Bring Consistent, Scalable Perio Charting to DSOs\n\nShare\n\nThe first AI and voice-powered perio system built into Denticon to ensure consistent, scalable clinical data for DSOs\n\nIRVINE, Calif.--(BUSINESS WIRE)--Planet DDS today announced the launch of AI Voice Perio, the first voice-powered periodontal charting system built within Denticon. Designed specifically for DSOs and multi-location dental groups, this hands-free, voice-activated solution addresses a critical operational challenge: ensuring consistent, reliable perio data across locations without introducing fragmentation or operational overhead as organizations scale. AI Voice Perio captures periodontal measurements in real-time during the exam, eliminating the need for manual data entry and reducing interruptions. The system records voice commands directly into Denticon’s perio fields, ensuring reliable, consistent data that is stored automatically in patient records. “Scaling clinical operations without losing consistency is one of the hardest challenges DSOs face,” said Eric Giesecke, CEO of Planet DDS. “AI Voice Perio simplifies periodontal exams for clinicians and helps organizations capture consistent, reliable data as they grow. This gives clinical leaders standardized perio data they can trust for clinical oversight, training, and compliance.” The Future of Periodontal Exams By using a standardized voice-driven structure, AI Voice Perio ensures that exams are performed the same way each time, regardless of location or clinician. This results in comparable data over time, allowing DSOs to confidently build patient histories, track clinical trends, and maintain high-quality records as their practices grow. Key Features of AI Voice Perio: Voice-activated charting: Hygienists speak directly into Denticon’s system to record measurements, eliminating the need for manual typing or data entry. Built into Denticon: AI Voice Perio operates directly in Denticon’s clinical data model, ensuring consistency and governance without added reconciliation. Real-time corrections: Hygienists can make voice corrections during exams without interrupting the flow of the appointment. Standardized data capture: Ensures consistency in periodontal charting across practices, eliminating discrepancies caused by individual clinician preferences. Oral Health Report Cards: Results are saved in the patient record, providing longitudinal visibility of periodontal health. How AI Voice Perio Benefits DSOs DSOs and multi-location practices across the country are already experiencing the significant benefits of AI Voice Perio, with improved efficiency and consistency in their periodontal exams. “The feedback we’ve received on AI Voice Perio has been extremely positive. Adoption has been straightforward, and it makes periodontal exams easier,” said Etta Bourne, Vice President of System Integrations at Dental365. “It simplifies the workflow, allows hygienists to work more independently, and keeps everything in one system so they can stay focused on the patient instead of the process.” AI Voice Perio is now available to Denticon customers. Throughout 2026, Planet DDS will continue expanding its AI-powered clinical capabilities while working with partners across the DentalOS™ ecosystem to reduce operational complexity and improve care consistency as dental organizations scale. Resources: Discover AI Voice Perio\n\nLearn more about Denticon\n\nExplore the latest insights and updates on dental technology\n\nAccess additional resources and product information To learn more about AI Voice Perio or request a demo, visit https://www.planetdds.com/. About Planet DDS Dental software is broken. We aim to fix it. As a partner in growth for DSOs and dental groups outgrowing legacy systems and fragmented tools, Planet DDS delivers a cloud-based AI platform designed to scale alongside growing organizations. Powered by DentalOS™ with AI, Planet DDS is built on connection—connecting people, partners, and technology across an open ecosystem that includes Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging. Trusted by leading DSOs and emerging dental groups nationwide, Planet DDS supports more 100+ location DSOs than any other cloud-based dental practice management provider, enabling 14,500 practices and 175,000 users to move beyond outdated legacy software with seamless integrations, optimized workflows, and scalable technology built for growth.\n\nPlanet DDS Release Versions English\n\nMore News From Planet DDS\n\nGet RSS Feed\n\nPlanet DDS Expands Clinical Voice+ Suite with AI Voice Restorative Charting IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today announced the launch of AI Voice Restorative Charting, the newest capability in the Clinical Voice+ Suite. Building on AI Voice Perio, AI Voice Restorative Charting extends voice-driven documentation to the highest-volume clinical task in general dentistry: capturing decay, existing restorations, fractures, and treatment plan entries during the restorative exam. Designed for dental support organizations (DSOs) and multi-location dental groups, t...\n\nPlanet DDS 2026 Dental Outlook Shows More New Patients, Fewer No-Shows Across the Industry IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS, a leading provider of cloud-based, enterprise-grade dental software solutions, today announced the release of its 2026 Dental Industry Outlook, an annual benchmark report designed to help dental organizations measure performance and spot operational opportunities. The report tracks changes across core practice metrics and shows improvements in treatment follow-through, patient reliability, and daily production. 2026 Dental Industry Outlook Key Findin...\n\nPlanet DDS Unveils DentalOS™ AI Agents: A New AI Workforce for Dental Operations IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today unveiled DentalOS™ AI Agents, a new category of AI-powered workers purpose-built to operate within the dental practice management system. DentalOS AI Agents are intelligent, autonomous agents that live inside Denticon and Cloud 9, accessing live patient data, real schedules, and established workflows to complete operational work the way a trained team member would, at any hour, across every location. The first agents target front desk operations..."
+      },
+      {
+        "id": 18327415,
+        "title": "DentTracks Strengthens Its AI-Powered Dental Ecosystem With Deep PMS Integrations and Global Technology Partnerships",
+        "url": "https://www.seacoastonline.com/press-release/story/17379/denttracks-strengthens-its-ai-powered-dental-ecosystem-with-deep-pms-integrations-and-global-technology-partnerships/",
+        "publisher": "Portsmouth Herald",
+        "published_date": "2026-01-11T06:22:47",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "DentTracks, an AI-powered dental business management ecosystem, announced a significant expansion of its platform through deeper Practice Management Software integrations, enhanced AI-driven capabilities including Single Login and AI Voice Notes, and partnerships with global enterprise technology providers. The platform offers bi-directional integrations with leading dental PMS platforms including Dentrix Ascend, Dentrix Enterprise, Open Dental Software, Eaglesoft, Tab32, and Planet DDS, enabling real-time data synchronization and workflow automation for dental organizations, DSOs, and multi-location groups. DentTracks partners with technology providers such as OpenAI, AWS, MongoDB, Worldpay, Plaid, Availity, Change Healthcare, and Optum to deliver security, scalability, and compliance for U.S.-based dental organizations.",
+        "word_count": 893,
+        "original_language": "EN",
+        "author": "Ein Newswire",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Multi-Specialty DSOs (General + Specialty Networks)",
+            "code": "HLABAKAA",
+            "is_primary": true
+          },
+          {
+            "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+            "code": "HDAEANAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007tmc",
+            "name": "Patterson Dental",
+            "website": "https://www.pattersondental.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000008",
+            "name": "OpenAI",
+            "website": "https://openai.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0006x5c",
+            "name": "tab32",
+            "website": "https://www.tab32.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008qf",
+            "name": "Amazon Web Services",
+            "website": "https://s3.eu-west-1.amazonaws.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0002694",
+            "name": "Worldpay",
+            "website": "https://worldpay.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0008ijx",
+            "name": "Dentrix",
+            "website": "https://www.dentrix.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007lfe",
+            "name": "Open Dental Software",
+            "website": "http://www.opendental.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000f1pw",
+            "name": "DentTracks Software",
+            "website": "https://denttracks.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003su",
+            "name": "MongoDB",
+            "website": "https://www.mongodb.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "W3CW2J",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr. vajahat yar khan",
+            "yar khan"
+          ],
+          "location": [
+            "united states",
+            "tx",
+            "houston",
+            "u.s."
+          ],
+          "product": [
+            "dentrix",
+            "tab32",
+            "open dental software",
+            "denticon",
+            "planet dds",
+            "eaglesoft by patterson dental",
+            "jira work management",
+            "meta llama"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8884,
+        "group_id": 128330,
+        "full_text": "This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. DentTracks Strengthens Its AI-Powered Dental Ecosystem With Deep PMS Integrations and Global Technology Partnerships EIN Newswire AI-powered, all-in-one dental business management ecosystem Our mission at DentTracks is to bring clarity and accountability to dental practices by unifying operations and finances, giving leaders real-time insight into what’s happening and what to do next.” — Dr. Vajahat Yar Khan, Founder & CEO, DentTracks HOUSTON, TX, UNITED STATES, January 6, 2026 /EINPresswire.com/ — DentTracks, an AI-powered, all-in-one dental business management ecosystem, today announced a significant expansion of its platform through deeper Practice Management Software integrations, enhanced AI-driven capabilities such as Single Login and AI Voice Notes, and a growing network of global enterprise technology partners. Built for modern dental organizations, DSOs, and multi-location dental groups, DentTracks unifies clinical, operational, financial, and patient-experience intelligence into a single system without disrupting existing PMS workflows or increasing staff complexity. Comprehensive PMS Integrations for Seamless Practice Operations DentTracks offers deep, bi-directional integrations with leading dental PMS platforms, enabling real-time data synchronization, workflow automation, and advanced analytics across front desk, clinical, and billing operations. Supported PMS integrations include:\n\n‣ Dentrix Ascend\n\n‣ Dentrix\n\n‣ Dentrix Enterprise\n\n‣ Open Dental Software\n\n‣ Eaglesoft by Patterson Dental\n\n‣ Tab32\n\n‣ Planet DDS and Denticon These integrations eliminate manual data handling, reduce operational blind spots, and provide unified visibility across single-location practices, group practices, and DSOs. Dental teams can continue using their existing PMS while DentTracks works silently in the background to transform raw data into actionable intelligence. Single Login Experience Across the Dental Tech Stack One of the most common frustrations in dental operations is managing multiple software logins across PMS, communication tools, payments, analytics, and reporting systems. DentTracks solves this with a Single Login experience that enables authorized users to securely access insights, dashboards, workflows, and integrated systems through a single, unified interface. This reduces cognitive load for staff, improves adoption, and significantly enhances operational efficiency at scale, especially for DSOs and multi-location groups. AI Voice Notes That Work for Dentists and Teams DentTracks introduces AI Voice Notes to help dentists and staff capture critical information without interrupting clinical or administrative workflows.\n\nWith AI Voice Notes, users can: ‣ Dictate operational or clinical observations in real time\n\n‣ Convert voice into structured, searchable intelligence\n\n‣ Reduce dependency on manual typing and repetitive data entry\n\n‣ Maintain context and continuity across teams and locations This feature is designed for how dental teams actually work, fast-paced, hands-on, and multitasking. Powered by Trusted Global Technology Partners DentTracks is built on a robust, enterprise-grade technology foundation and partners with globally trusted providers to ensure security, scalability, and compliance. Key technology partners include:\n\n‣ OpenAI for advanced AI intelligence and automation\n\n‣ AWS for secure and scalable cloud infrastructure\n\n‣ MongoDB for high-performance data management\n\n‣ Worldpay and Payrix for integrated payments and financial workflows\n\n‣ Plaid for secure financial connectivity\n\n‣ Availity and Change Healthcare for healthcare data exchange\n\n‣ Optum for healthcare technology and analytics\n\n‣ Firebase for real-time data and application performance\n\n‣ Meta LLaMA for large language model capabilities\n\n‣ Vyne Dental for dental connectivity and patient communications\n\n‣ Jira Work Management for operational workflow tracking These partnerships ensure DentTracks meets the operational, security, and compliance expectations of U.S.-based dental organizations and enterprise DSOs. An AI-Driven Operating System for Dental Growth Unlike traditional point solutions, DentTracks functions as a complete dental business operating system. The platform brings together:\n\n‣ Practice and DSO-level performance dashboards\n\n‣ Real-time KPIs and operational benchmarks\n\n‣ AI-driven insights and forecasting\n\n‣ Revenue cycle visibility and payment intelligence\n\n‣ Patient communication and experience optimization\n\n‣ Multi-location and leadership-level reporting By unifying PMS data and partner technologies into one intelligent layer, DentTracks enables dental leaders to make faster, more confident, and more profitable decisions. About Dr. Vajahat Yar Khan DentTracks is led by Dr. Vajahat Yar Khan, a board-certified dentist and dental entrepreneur with deep, hands-on experience in clinical dentistry and dental business operations. Dr. Khan founded DentTracks after witnessing firsthand the operational chaos caused by disconnected software, poor visibility into performance metrics, and manual processes that drain time and revenue from dental practices. His vision was to create a dentist-designed platform that simplifies complexity, delivers real operational clarity, and helps practices scale without losing control. Under Dr. Khan’s leadership, DentTracks has been built not just as software but as a strategic operating layer for dental businesses focused on efficiency, accountability, and sustainable growth. About DentTracks DentTracks is an AI-powered dental business management ecosystem designed to simplify operations, improve patient experiences, and drive long-term growth for dental practices and DSOs. Through deep PMS integrations, Single Login access, AI-powered tools such as Voice Notes, and partnerships with leading global technology providers, DentTracks transforms complex practice data into clear, actionable business intelligence. Legal Disclaimer: EIN Presswire provides this news content “as is” without warranty of any kind. We do not accept any responsibility or liability\n\nfor the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this\n\narticle. If you have any complaints or copyright issues related to this article, kindly contact the author above. Information contained on this page is provided by an independent third-party content provider. XPRMedia and this Site make no warranties or representations in connection therewith. If you are affiliated with this page and would like it removed please contact pressreleases@xpr.media\n\nView More"
+      },
+      {
+        "id": 22169443,
+        "title": "Planet DDS Unveils AutoEligibility, Bringing Real-Time Eligibility Data Directly into Denticon",
+        "url": "https://www.businesswire.com/news/home/20251118656411/en/Planet-DDS-Unveils-AutoEligibility-Bringing-Real-Time-Eligibility-Data-Directly-into-Denticon",
+        "publisher": "Business Wire Blog",
+        "published_date": "2025-11-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Planet DDS launched AutoEligibility, a native integration with DentalXChange that automates insurance eligibility checks within Denticon, a cloud practice management platform, improving efficiency for dental practices. The tool helps reduce verification time from hours to minutes, prevents claim denials, and enhances revenue cycle management across multiple locations. ",
+        "word_count": 842,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Eligibility & Benefits Verification",
+            "code": "HLACACAD",
+            "is_primary": true
+          },
+          {
+            "name": "Payer-Provider Data Exchange (X12, prior auth, claims/clinical attachment)",
+            "code": "HLACABAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005yzu",
+            "name": "Planet DDS",
+            "website": "https://www.planetdds.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0039hzo",
+            "name": "DentalXChange",
+            "website": "https://dentalxchange.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "56142",
+            "name": "Administrative and Support and Waste Management and Remediation Services"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "barbara maciel",
+            "eric giesecke"
+          ],
+          "location": [
+            "irvine, calif.",
+            "calif."
+          ],
+          "product": [
+            "autoeligibility",
+            "denticon",
+            "apteryx",
+            "dentalxchange",
+            "dentalos",
+            "clinical voice+ suite",
+            "cloud 9"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5545790,
+        "full_text": "Planet DDS Unveils AutoEligibility, Bringing Real-Time Eligibility Data Directly into Denticon\n\nShare\n\nAutoEligibility brings DentalXChange’s real-time eligibility data natively into Denticon, helping front office teams save hours, prevent denials, and improve cash flow.\n\nIRVINE, Calif.--(BUSINESS WIRE)--Planet DDS today announced the launch of AutoEligibility, a new native integration with DentalXChange that automates insurance eligibility checks directly inside Denticon, the leading cloud-based practice management platform for DSOs and group practices. With AutoEligibility, front-office teams can instantly see coverage details such as deductibles, waiting periods, and Medicaid eligibility. That means fewer denials, faster collections, and no time wasted on payer portals or phone calls. \"What used to take our insurance verification team hours now happens seamlessly within Denticon,” said Barbara Maciel, Team Manager at GoDental Brands. “We currently have one person responsible for completing all insurance verifications for an entire office, and AutoEligibility has made the process so fast and efficient that one team member will now be able to support multiple offices. It’s helping us streamline our workflow, improve accuracy, and create a much better experience for our team, our patients, and our front office.\" Solving the Industry’s Costliest Administrative Bottleneck According to the Council for Affordable Quality Healthcare (CAQH) report, insurance verification accounts for nearly a quarter of all dental administrative transactions and remains the number one cause of claim delays and denials. AutoEligibility eliminates manual work by syncing coverage data directly through DentalXChange, giving staff immediate access to eligibility results within Denticon. With AutoEligibility, front-desk and billing teams can: Save 4 to 6 hours per office per day by automating eligibility checks.\n\nPrevent denials before submission through complete coverage detail visibility.\n\nBuild patient trust with accurate, transparent cost estimates.\n\nStandardize revenue cycle performance across every location. \"Right now, one team member completes around 40 verifications per day, and with the implementation of AutoEligibility, we expect that number to double due to the speed and efficiency it brings to our processes,” added Maciel. Built for DSO Scale While some eligibility tools stop at a simple yes or no when checking coverage, AutoEligibility is designed for multi-location dental organizations that need accuracy, speed, and consistency across hundreds of offices. It brings together the reliability of DentalXChange’s payer connectivity and the scalability of Denticon’s native cloud architecture. “Eligibility verification is one of the biggest causes of lost revenue and wasted time in dentistry,” said Eric Giesecke, CEO of Planet DDS. “AutoEligibility eliminates that friction by automating verification across every location, every patient, every day. It’s faster, smarter, and far more accurate, helping practices protect cash flow and focus on care, not paperwork. With this launch, we’re taking another step toward our mission: Dental software is broken. We aim to fix it.” AutoEligibility is a part of the Planet DDS RCM Zero vision: Zero manual work. Zero denials. Zero wasted hours. By embedding real-time eligibility checks directly into Denticon, Planet DDS continues to streamline the revenue cycle, helping DSOs strengthen cash flow and deliver a smoother patient experience. To learn more about AutoEligibility, click here. About Planet DDS Dental software is broken. We aim to fix it. As a partner in growth for DSOs and dental groups, Planet DDS delivers a cloud-based platform designed to scale alongside growing organizations. Powered by DentalOS™ with AI, its open platform includes Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging. Trusted by leading DSOs and emerging dental groups nationwide, Planet DDS enables 13,000+ practices and 118,000 users to move beyond outdated legacy software with seamless integrations, optimized workflows, and scalable technology built for growth. To learn more about Planet DDS, visit www.planetdds.com.\n\nPlanet DDS Release Versions English\n\nMore News From Planet DDS\n\nGet RSS Feed\n\nPlanet DDS Expands Clinical Voice+ Suite with AI Voice Restorative Charting IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today announced the launch of AI Voice Restorative Charting, the newest capability in the Clinical Voice+ Suite. Building on AI Voice Perio, AI Voice Restorative Charting extends voice-driven documentation to the highest-volume clinical task in general dentistry: capturing decay, existing restorations, fractures, and treatment plan entries during the restorative exam. Designed for dental support organizations (DSOs) and multi-location dental groups, t...\n\nPlanet DDS 2026 Dental Outlook Shows More New Patients, Fewer No-Shows Across the Industry IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS, a leading provider of cloud-based, enterprise-grade dental software solutions, today announced the release of its 2026 Dental Industry Outlook, an annual benchmark report designed to help dental organizations measure performance and spot operational opportunities. The report tracks changes across core practice metrics and shows improvements in treatment follow-through, patient reliability, and daily production. 2026 Dental Industry Outlook Key Findin...\n\nPlanet DDS Unveils DentalOS™ AI Agents: A New AI Workforce for Dental Operations IRVINE, Calif.--( BUSINESS WIRE )--Planet DDS today unveiled DentalOS™ AI Agents, a new category of AI-powered workers purpose-built to operate within the dental practice management system. DentalOS AI Agents are intelligent, autonomous agents that live inside Denticon and Cloud 9, accessing live patient data, real schedules, and established workflows to complete operational work the way a trained team member would, at any hour, across every location. The first agents target front desk operations..."
+      }
+    ],
+    "credits_consumed": 0.2
+  }
+}

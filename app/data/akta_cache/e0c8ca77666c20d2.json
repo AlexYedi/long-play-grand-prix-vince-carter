@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0005yzu&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:09.140Z",
+  "data": {
+    "data": {
+      "uuid": "0005yzu",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "private_equity",
+            "label": "Private Equity"
+          },
+          "last_funding_date": {
+            "month": 6,
+            "year": 2022
+          },
+          "total_funding_usd": 200000
+        },
+        "funding_rounds": [
+          {
+            "id": 212934,
+            "date": {
+              "month": 6,
+              "year": 2022
+            },
+            "round": {
+              "code": "private_equity_round",
+              "label": "Private equity round"
+            }
+          },
+          {
+            "id": 407116,
+            "date": {
+              "month": 8,
+              "year": 2019
+            },
+            "round": {
+              "code": "private_equity_round",
+              "label": "Private equity round"
+            }
+          },
+          {
+            "id": 710017,
+            "date": {
+              "month": 7,
+              "year": 2019
+            },
+            "round": {
+              "code": "debt_funded",
+              "label": "Debt-Funded"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Aquiline Capital Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00002y3",
+            "website": "https://www.aquiline.com/"
+          },
+          {
+            "name": "Level Equity Management",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000025y",
+            "website": "http://www.levelequity.com"
+          },
+          {
+            "name": "Saratoga Partners",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0005n91",
+            "website": "http://www.saratogapartners.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 1 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}

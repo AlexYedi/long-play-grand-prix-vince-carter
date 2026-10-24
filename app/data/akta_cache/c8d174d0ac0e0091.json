@@ -1,0 +1,693 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000a6x&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:06.950Z",
+  "data": {
+    "total": 5,
+    "limit": 50,
+    "offset": 0,
+    "count": 5,
+    "data": [
+      {
+        "id": 27179283,
+        "title": "Texas psychiatry covered by insurance - get treatment for anxiety today",
+        "url": "https://legionhealth.com/blog/klarity-health-reviews-pricing-alternatives",
+        "publisher": "Legionhealth",
+        "published_date": "2026-04-08T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.4388,
+        "ai_summary": "Legion Health is positioning itself as a primary alternative to Klarity Health for Texas residents seeking psychiatric care, specifically highlighting its inclusion of FDA-cleared QbCheck testing and direct insurance acceptance. The article contrasts Legion's structured, insurance-first model with Klarity's variable directory approach and other competitors like Talkiatry and Cerebral regarding access, pricing, and diagnostic methods.",
+        "word_count": 2258,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Mental Health Parity (MHPAEA) Compliance & Reporting",
+            "code": "HLAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000rtl",
+            "name": "Klarity Health",
+            "website": "https://www.helloklarity.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000owf",
+            "name": "Legion Health",
+            "website": "https://legionhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000so",
+            "name": "Talkiatry",
+            "website": "http://www.talkiatry.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00005gq",
+            "name": "Brightside Health",
+            "website": "https://www.brightside.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00059r8",
+            "name": "Done.",
+            "website": "https://donefirst.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000483",
+            "name": "health insurance"
+          },
+          {
+            "code": "20001198",
+            "name": "court-ordered psychiatric treatment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "399",
+            "name": "Personal Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "arthur macwaters"
+          ],
+          "location": [
+            "texas",
+            "u.s. states",
+            "forty states",
+            "43 states",
+            "multiple states",
+            "50 states"
+          ],
+          "product": [
+            "klarity health",
+            "talkiatry",
+            "legion health",
+            "cerebral",
+            "done",
+            "brightside health"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8554,
+        "group_id": 7830763,
+        "full_text": "Apr 8, 2026 Klarity Health Reviews, Pricing, and Alternatives (April 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Talkiatry Reviews, Pricing, and Alternatives (January 2026) Written by: Arthur MacWaters Founder, Legion Health\n\nReady to transform your health? Ready to transform your health? Unlock access to expert guidance and a weight care plan crafted just for you. Unlock access to expert guidance and a weight care plan crafted just for you. Get Started No headings found on page TLDR: Klarity connects you to independent providers who set their own fees and schedules\n\nNo objective ADHD testing is included in Klarity's evaluation process\n\nLegion Health offers FDA-cleared QbCheck testing at no cost for Texas adults\n\nMost Klarity alternatives require 2+ weeks for appointments versus days at Legion\n\nLegion Health accepts major Texas insurance with specialist copay pricing Get Started If you've been digging into Klarity Health reviews , the pattern is clear. Provider availability varies wildly by location, billing disputes show up frequently in BBB complaints, and the ADHD evaluations rely entirely on self-report without objective testing. For some patients, that's fine. For others, especially those with complex presentations or co-occurring conditions, it leaves too many gaps. This post breaks down how Klarity works, what you'll actually pay, and which alternatives offer more structured care with FDA-cleared testing included at no extra cost. What Is Klarity Health and How Does It Work? Klarity Health is a nationwide directory that connects users with independent, licensed medical professionals across psychiatry, mental health, primary care, and counseling. Instead of hiring clinicians directly, Klarity acts as a technology layer between patients and providers who run independent practices. The network includes 500+ licensed professionals serving adults 18 and older, with both online and in-person options available depending on the provider. Patients browse a directory filtered by state, insurance acceptance, ratings, and specialty to find a match. Pricing is pay-per-visit. Initial visits typically run $80 to $150, with follow-ups ranging from $59 to $150 per session, depending on the provider you choose. There are no subscription fees or membership costs, so you only pay when you book. How the model actually works Because providers set their own fees and operate independently, the experience can vary. A few things worth knowing before you book: Klarity connects you to a provider, but does not hire them or standardize how care is delivered after that point.\n\nQuality, communication style, and availability are determined by the individual clinician you select.\n\nIf your provider leaves the network, you would need to find and vet a new one through the directory again. Klarity makes the connection. What happens after that is largely between you and whoever you booked with. Why Consider Klarity Health Alternatives? Klarity works for a specific type of patient: someone comfortable doing their own provider research, happy with pay-per-visit pricing, and not in need of highly specialized care. For that use case, the directory model makes sense. But certain limitations push people toward alternatives. Inconsistent access and coverage Even though Klarity operates nationally, provider availability varies by location. In some areas, the directory thins out considerably, making it harder than expected to find someone accepting new patients. No objective ADHD testing Klarity providers rely on clinical interviews and self-report measures to diagnose ADHD. There are no objective tools, such as FDA-cleared testing, built into the process. For patients with complex presentations or overlapping conditions, that gap matters. Without objective data, the risk of missing the full picture and falling into a cycle of trial-and-error adjustments increases. Operational concerns from patients BBB filings for Klarity Health document recurring complaints about billing disputes, provider assignment mismatches, and slow or unresponsive customer support. Some patients report waiting several days for responses through the in-app chat. The independent variable Because each clinician runs their own practice, consistency is not guaranteed. Appointment availability, response time, and how treatment decisions are made can all vary depending on the provider you select. If that provider leaves the network, you start the search over. None of these is disqualifying on its own. But taken together, they explain why many patients start looking for something with more structure. Best Klarity Health Alternatives in April 2026 Klarity Health is primarily a medication management service, and there are several alternatives worth knowing about depending on what you need from care. Here is a breakdown of the strongest options available in 2026. Legion Health: Best Overall Alternative Legion Health is a virtual psychiatry clinic serving adults in Texas through an insurance‑first model focused on ADHD, anxiety, depression, and co‑occurring conditions. Care is delivered by psychiatric nurse practitioners and psychiatrists licensed in Texas via secure video visits. What they offer: FDA‑cleared QbCheck ADHD testing is included at no additional cost in every adult ADHD evaluation and measures attention, impulsivity, and activity.\n\nIntegrated treatment plans for ADHD with co‑occurring anxiety or depression, managed by one clinician instead of separate tracks.\n\nNew‑patient appointments are typically available within days, with major Texas commercial insurance accepted and a cash‑pay option for coverage changes. Best for: Texas adults who want objective ADHD testing, faster access to psychiatric care, and predictable insurance‑based billing with the option to pay cash if needed. Limitation: Only serves adults who are physically in Texas and does not provide ongoing talk therapy, so many patients pair it with a separate therapist. Bottom line: Legion Health is built for Texas adults who need structured ADHD and psychiatric care, combining free QbCheck testing, rapid scheduling, and insurance‑first pricing that Klarity’s provider marketplace cannot match. Talkiatry Talkiatry is a virtual‑first psychiatry group that offers psychiatrist‑led evaluations and medication management in many U.S. states, operating on an insurance‑only model. What they offer: 60‑minute initial evaluations and 30‑minute follow‑ups with psychiatrists and psychiatric clinicians.\n\nCoverage in more than forty states, making it accessible for many people outside Texas.\n\nIn‑network relationships with many major commercial insurers; visits are billed like specialist appointments. Best for: Patients outside Texas who have stable in‑network insurance and want psychiatrist‑led video visits and longer evaluations. Limitation: No central self‑pay path if insurance changes, and no built‑in objective ADHD testing such as QbCheck. Wait times for first visits often exceed two weeks. Bottom line: Talkiatry is strong for insured patients in its coverage states, while Legion Health offers similar psychiatry access in Texas, plus free objective ADHD testing and cash‑pay continuity. Done Done is a cash‑only subscription service focused on ADHD, offering virtual visits and stimulant prescribing in some states. It does not accept insurance and focuses on relatively straightforward ADHD cases. What they offer: Subscription pricing is typically around $ 299 upfront plus $ 79 per month, not including medication costs.\n\nADHD‑focused visits with options for stimulant prescriptions where policy and regulations allow.\n\nApp‑based communication with clinicians between visits as part of the subscription. Best for: Uninsured adults with relatively simple ADHD presentations who prefer a subscription model and do not have complex comorbidities. Limitation: No insurance acceptance, no objective ADHD testing, a narrow clinical scope, and a recent regulatory history related to stimulant oversight that some patients may find concerning. Bottom line: Done can fit some uninsured ADHD patients, but it does not match Legion Health’s combination of insurance coverage, QbCheck testing, and broader comorbid care for Texas adults. Cerebral Cerebral is a subscription‑based telehealth service that now focuses on anxiety, depression, insomnia, and non‑stimulant ADHD treatment after federal scrutiny of its past stimulant prescribing practices. What they offer: Monthly subscription plans that include medication management and, in some tiers, therapy and messaging.\n\nCoverage in many states with some major commercial insurers accepted alongside self‑pay plans.\n\nNon‑stimulant medication options for ADHD and mood conditions, plus app‑based follow‑up. Best for: Patients who want subscription‑style access to care for anxiety or depression and do not need stimulant prescriptions for ADHD. Limitation: Does not prescribe stimulants after recent enforcement actions and does not provide objective ADHD testing, which limits its usefulness for many adults with ADHD. Bottom line: Cerebral can work for non‑stimulant treatment of mood and some ADHD cases, but it is not a fit if you need stimulant options or objective testing like QbCheck. Brightside Health Brightside Health offers virtual psychiatry and therapy for anxiety and depression using measurement‑based care and tiered subscription plans. ADHD is not a central focus. What they offer: Data‑driven treatment plans for mild to moderate anxiety and depression, with regular symptom tracking.\n\nOptions for medication management, therapy, or combined plans with between‑visit messaging.\n\nInsurance acceptance with some plans, plus subscription pricing for self‑pay users. Best for: Adolescents and adults with relatively straightforward anxiety or depression who want coordinated therapy and medication through one service. Limitation: Not built around adult ADHD care, does not include objective ADHD testing, and is less suited for complex comorbid presentations. Bottom line: Brightside is a good fit for mood and anxiety care, while Texas adults with ADHD who need objective testing and integrated comorbid treatment are better served by Legion Health. Feature Comparison: Klarity Health vs Top Alternatives The table in the previous section covers wait times and access to stimulants. This one goes deeper into the details that tend to matter most when you're actually choosing a provider. Feature Klarity Health Legion Health Talkiatry Done Cerebral Brightside FDA-Cleared ADHD Testing No Yes (QbCheck, free) No No No No Avg. Wait Time 1-2 days Within days 2+ weeks Next day Variable Variable Insurance Accepted Yes (varies by provider) Yes (major Texas plans) Yes (no self-pay) No Yes Yes Self-Pay Option Yes Yes No Yes (required) Yes Yes Stimulant Prescriptions Yes Yes Yes Yes No Limited Geographic Coverage 50 states Texas only 43 states 50 states Multiple states Multiple states Pricing Model $80-$150+ per visit Specialist copay or cash-pay Insurance only $299 upfront + $79/mo Subscription Subscription A few things stand out here. Legion Health is the only option in this comparison that includes objective ADHD testing as part of the evaluation, using FDA-cleared QbCheck at no added cost. That matters because a written intake questionnaire and a clinician conversation, while useful, are inherently subjective. Done and Cerebral both carry regulatory histories worth reviewing before committing to either. Talkiatry works well if you have active insurance coverage, but it is not an option for anyone paying out of pocket. Klarity Health's pricing varies depending on which independent provider you see, so the cost you find advertised may not reflect what you actually pay. Why Legion Health Is the Best Klarity Health Alternative For Texas adults who have found Klarity's model fragmented, whether through billing gaps, rotating providers, or evaluations that felt incomplete, Legion Health takes a different approach. The clearest difference is objective testing. Every ADHD evaluation includes FDA-cleared QbCheck at no added cost, measuring attention, impulsivity, and activity levels with data that questionnaires alone cannot produce. This matters because ADHD frequently co-occurs with anxiety or depression, and a more complete picture helps clinicians make better treatment decisions. Access is structured instead of variable. New patient appointments are typically available within days, and follow-up timing is set by clinical need, not scheduling availability. Legion Health works directly with major Texas insurance plans, which means upfront coverage verification and fewer unexpected charges after visits. A cash-pay option keeps care continuous if coverage changes. Treatment plans are individualized and based on a thorough evaluation. Controlled substances are prescribed only when clinically appropriate and require careful evaluation and ongoing monitoring. Care is delivered by licensed psychiatric clinicians, not software. Final Thoughts on Klarity Health vs Other Options Klarity can work if you're comfortable searching through a directory and handling variability between providers, but it's not the only choice. Klarity alternatives like Legion Health offer objective testing, faster scheduling, and direct insurance billing without rotating through providers every few months. If you're in Texas and want care that feels built for adults with ADHD, you can check coverage and schedule in under five minutes. FAQs What should I look for when comparing Klarity Health alternatives? Start by asking whether the provider offers objective testing (like FDA-cleared QbCheck for ADHD), how they handle insurance billing, and whether you'll see the same clinician consistently or need to search the directory again if your provider leaves. When should I consider switching from Klarity Health? If you're experiencing billing surprises, struggling to find available providers in your area, or need a more structured ADHD evaluation with objective testing instead of self-report questionnaires alone, it may be time to look at alternatives. Why do some ADHD evaluations include objective testing and others don't? Self-report questionnaires and clinical interviews are subjective and can miss the full picture when ADHD overlaps with anxiety or depression. FDA-cleared tools like QbCheck objectively measure attention, impulsivity, and activity, providing clinicians with more complete data to guide treatment decisions. Can I use Legion Health if I don't have Texas insurance? Legion Health accepts major Texas commercial insurance plans and offers a cash-pay option for Texas adults, so you can receive care whether you're using insurance or paying out of pocket, as long as you're physically located in Texas. How legion health Can Help You If you’re in perimenopause or menopause and want guidance from clinicians who specialize in women’s midlife health, book a virtual visit with Legion Health today.\n\n\n\nHormonal changes are at the root of many symptoms women experience in the years before and after their periods stop.\n\n\n\nOur trained menopause specialists help you connect the dots and guide you toward safe, effective solutions.\n\n\n\nWhether you need personalized care or a prescription-based treatment plan to manage symptoms—including brain fog, hot flashes, sleep issues, mood swings, and weight gain—we’ve got you covered. Learn more here. Get Started We're honored to support thousands on their journeys. Here's what some have shared:"
+      },
+      {
+        "id": 21617118,
+        "title": "Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms",
+        "url": "https://www.openpr.com/news/4456577/mental-health-apps-market-2026-2033-ai-therapy-digital",
+        "publisher": "openPR.com",
+        "published_date": "2026-04-06T14:31:51",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "DataM Intelligence released a market research report on the global Mental Health Apps Market, which reached US$6.49 billion in 2024 and is projected to grow to US$15.69 billion by 2033 at a CAGR of 10.4%. Key recent developments include notable mergers and acquisitions such as Universal Health Services acquiring Talkspace (March 2026), Spring Health announcing the acquisition of Alma (expected Q2 2026), and Cerebral acquiring Inflow (March 2026), alongside product and partnership expansions by companies including Headspace Health, Calm, and Talkspace across the U.S. and Japan.",
+        "word_count": 3402,
+        "original_language": "EN",
+        "author": "Datam Intelligence Research Llp",
+        "countries": [
+          "USA",
+          "JPN"
+        ],
+        "industries": [
+          {
+            "name": "Mental Health Therapist Marketplaces",
+            "code": "HLALALAJ",
+            "is_primary": true
+          },
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": false
+          },
+          {
+            "name": "Behavioral Health-Integrated Chronic Care (SUD comorbidity, collaborative care)",
+            "code": "HLALAFAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Policy & Legislative Changes",
+            "code": "RC02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000452",
+            "name": "Alma",
+            "website": "https://helloalma.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000m26",
+            "name": "Universal Health Services",
+            "website": "https://uhs.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000cj",
+            "name": "Talkspace",
+            "website": "https://talkspace.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "sai kiran",
+            "gabriele ketterl"
+          ],
+          "location": [
+            "japan",
+            "united states",
+            "asia-pacific",
+            "the middle east",
+            "u.s.",
+            "italy",
+            "brazil",
+            "china",
+            "germany",
+            "canada",
+            "saudi arabia",
+            "russia",
+            "india",
+            "colombia",
+            "france",
+            "argentina",
+            "u.k.",
+            "australia",
+            "spain",
+            "u.a.e.",
+            "mexico",
+            "south korea",
+            "south africa",
+            "indonesia",
+            "north america",
+            "the netherlands",
+            "south america",
+            "europe",
+            "middle east & africa",
+            "asia pacific",
+            "middle east",
+            "vietnam",
+            "eu",
+            "southeast asia"
+          ],
+          "product": [
+            "digital mental health platforms",
+            "virtual counseling services",
+            "android",
+            "ios",
+            "communication platforms",
+            "mental wellness services",
+            "mobile platforms",
+            "wearable devices",
+            "home care settings",
+            "mental hospitals",
+            "digital mental health services",
+            "workplace mental wellness solutions",
+            "sapphire glass",
+            "smartphone screens",
+            "led substrates",
+            "protective covers",
+            "health coach",
+            "optical components"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9997,
+        "group_id": 1079998,
+        "full_text": "Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms Mental Health Apps Market DataM Intelligence has released a new research report titled \"Mental Health Apps Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms of both value and volume, along with emerging opportunities and the overall development outlook of the global Mental Health Apps market.\n\n\n\nReady to scale in the Mental Health Apps Market? Connect with the right partners and unlock new growth opportunities today:- https://www.datamintelligence.com/partner-identification-enquiry/mental-health-apps-market?rs\n\n\n\nPartner Identification\n\n\n\n✓Increase Your Customer Base by 3X using our Partner Identification tool\n\n✓Uncover strategic collaboration opportunities with DataM vetted partners aligned to your ecosystem.\n\n✓Identify high potential M&A targets based on synergies, market positioning and growth trajectory.\n\n✓Prioritize partners by strategic fit rather than general capability.\n\n\n\nThe Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033, growing at a CAGR of 10.4% during the forecast period 2026-2033.\n\n\n\nDownload Free Sample Report (Get Higher Priority for Corporate Email ID):- https://datamintelligence.com/download-sample/mental-health-apps-market?rs\n\n\n\nUnited States: Recent Industry Developments:\n\n\n\n✅ February 2026: Headspace Health expanded its AI-driven mental wellness platform by integrating personalized therapy recommendations and real-time mood tracking to enhance user engagement and clinical outcomes.\n\n\n\n✅ January 2026: Calm introduced advanced sleep therapy modules and workplace mental wellness solutions, targeting corporate clients to address rising stress and burnout levels.\n\n\n\n✅ December 2025: Talkspace strengthened partnerships with U.S. healthcare providers and insurers to improve accessibility to virtual therapy and expand coverage for digital mental health services.\n\n\n\nList of Key Players 2026:\n\n\n\nSanvello Health Inc., CVS Health Corporation, Mindscapes, Headspace Inc., Youper Inc., MoodMission, MoodTools, K Health Inc, Calm.com Inc., and Happify Health.\n\n\n\nGrowth Forecast Projected 2026:\n\n\n\nThe Global Mental Health Apps Market is anticipated to rise at a considerable rate during the forecast period, between 2026 and 2033. In 2025, the market is growing at a steady rate, and with the rising adoption of strategies by key players, the market is expected to rise over the projected horizon.\n\n\n\nKey Developments 2025-2026:\n\n\n\n✅ February 2026: Leading mental health app providers expanded AI-driven therapy features and personalized digital care solutions to meet the rising global demand for accessible mental wellness support.\n\n\n\n✅ January 2026: Companies introduced advanced mood-tracking algorithms and real-time analytics tools to enhance user engagement, early diagnosis, and personalized treatment plans.\n\n\n\n✅ December 2025: Adoption of digital mental health platforms accelerated due to increasing awareness, remote healthcare trends, and growing acceptance of teletherapy and virtual counseling services.\n\n\n\n✅ November 2025: Key players strengthened global partnerships with healthcare providers and insurers to expand service accessibility across emerging markets in Asia-Pacific and the Middle East.\n\n\n\n✅ October 2025: Investments in data security, privacy frameworks, and HIPAA-compliant technologies improved user trust, platform reliability, and regulatory compliance across mental health applications.\n\n\n\nHow Our Market Research Process Works:\n\n\n\nThe global Mental Health Apps Market research report is developed using a comprehensive combination of primary and secondary data sources. The study evaluates a wide range of industry-influencing factors, including government regulations, evolving market dynamics, competitive intensity, and historical performance trends. It also analyzes technological advancements, emerging innovations, and developments across related industries. In addition, the report assesses market volatility, growth opportunities, potential barriers, and key challenges that could impact the future expansion of the Mental Health Apps ecosystem.\n\n\n\nRecent Mergers & Acquisitions (M & A) 2025-2026:\n\n\n\n✅ March 2026: Universal Health Services acquired Talkspace to expand digital behavioral health services.\n\n✅ Q2 2026 (expected): Spring Health announced acquisition of Alma to strengthen integrated care and provider network capabilities.\n\n✅ March 2026: Cerebral acquired Inflow to expand ADHD-focused digital therapy solutions.\n\n\n\nRequest Strategic Market Customization: https://datamintelligence.com/customize/mental-health-apps-market?rs\n\n\n\nJapan: Recent Industry Developments:\n\n\n\n✅ February 2026: FiNC Technologies enhanced its mental health app capabilities with AI-based stress monitoring and personalized lifestyle coaching to support preventive healthcare.\n\n\n\n✅ January 2026: Sony Group Corporation advanced digital wellness solutions by integrating mental health tracking features into wearable devices and mobile platforms.\n\n\n\n✅ December 2025: LY Corporation expanded its digital health ecosystem by incorporating mental wellness services and counseling support within its communication platforms.\n\n\n\nMajor Focused Key Segmentations 2026:\n\n\n\nBy Platform Type: Android, iOS, Other Platform Types.\n\n\n\nBy Application: Depression and Anxiety Management, Stress Management, Meditation Management, Other Application Types.\n\n\n\nBy End-user: Home Care Settings, Mental Hospitals, Other End Users.\n\n\n\nRegional Growth Analysis for Market:\n\n\n\n⇥ North America (U.S., Canada, Mexico)\n\n\n\n⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)\n\n\n\n⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)\n\n\n\n⇥ South America (Colombia, Brazil, Argentina, Rest of South America)\n\n\n\n⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)\n\n\n\nWe Provide Benefits of the Report:\n\n\n\nChapter 1: Lays the foundation by defining the scope of the report, highlighting core market segments across regions, product types, and applications. It delivers a clear snapshot of current market size, growth potential, and how the industry is expected to evolve in both the near and long term.\n\n\n\nChapter 2: Spotlights the most impactful market insights, unveiling the transformative trends and forces shaping the future of the industry.\n\n\n\nChapter 3: Provides a deep dive into the competitive landscape of , covering revenue shares, strategic initiatives, and notable mergers & acquisitions that are reshaping the market.\n\n\n\nChapter 4: Presents detailed company profiles of leading players featuring financial performance, product portfolios, profit margins, and key milestones that set them apart in the industry.\n\n\n\nChapters 5 & 6: Break down revenue analysis at both regional and country levels, offering precise data on market size, growth drivers, and expansion opportunities across global markets.\n\n\n\nChapter 7: Analyzes the market by product type, spotlighting segment-specific opportunities and helping stakeholders identify untapped, high-growth areas.\n\n\n\nChapter 8 :Explores the market through application-based segmentation, assessing demand across industries and pinpointing downstream sectors with the strongest potential for growth.\n\n\n\nChapter 9: Maps the industry's supply chain in detail, tracing upstream and downstream activities to provide clarity on value creation across the ecosystem.\n\n\n\nChapter 10: Wraps up with a concise summary of the report's key insights distilling the most critical findings and strategic takeaways for decision-makers and stakeholders.\n\n\n\nUnlock Full 360° Strategic Report: https://www.datamintelligence.com/buy-now-page?report=mental-health-apps-market?rs\n\n\n\nFAQ\n\n\n\nQ1: What is the current size of the Mental Health Apps Market?\n\n\n\nA: Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033\n\n\n\nQ2: How rapidly will the Market expanding?\n\n\n\nA: The Mental Health Apps market is projected to grow at a CAGR of 10.4 % between 2026 and 2033.\n\n\n\nGet Unlimited Market Reports & Strategic Insights: https://www.datamintelligence.com/mental-health-apps-subscription?rs\n\n\n\nContact Us -\n\n\n\nCompany Name: DataM Intelligence\n\nContact Person: Sai Kiran\n\nEmail: Sai.k@datamintelligence.com\n\nPhone: +1 877 441 4866\n\nWebsite: https://www.datamintelligence.com\n\n\n\nAbout Us -\n\n\n\nDataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.\n\n\n\nOur research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele.\n\n\n\nThis release was published on openPR.\n\nDataM Intelligence has released a new research report titled \"Mental Health Apps Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms of both value and volume, along with emerging opportunities and the overall development outlook of the global Mental Health Apps market.Ready to scale in the Mental Health Apps Market? Connect with the right partners and unlock new growth opportunities today:-Partner Identification✓Increase Your Customer Base by 3X using our Partner Identification tool✓Uncover strategic collaboration opportunities with DataM vetted partners aligned to your ecosystem.✓Identify high potential M&A targets based on synergies, market positioning and growth trajectory.✓Prioritize partners by strategic fit rather than general capability.The Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033, growing at a CAGR of 10.4% during the forecast period 2026-2033.Download Free Sample Report (Get Higher Priority for Corporate Email ID):-United States: Recent Industry Developments:✅ February 2026: Headspace Health expanded its AI-driven mental wellness platform by integrating personalized therapy recommendations and real-time mood tracking to enhance user engagement and clinical outcomes.✅ January 2026: Calm introduced advanced sleep therapy modules and workplace mental wellness solutions, targeting corporate clients to address rising stress and burnout levels.✅ December 2025: Talkspace strengthened partnerships with U.S. healthcare providers and insurers to improve accessibility to virtual therapy and expand coverage for digital mental health services.List of Key Players 2026:Sanvello Health Inc., CVS Health Corporation, Mindscapes, Headspace Inc., Youper Inc., MoodMission, MoodTools, K Health Inc, Calm.com Inc., and Happify Health.Growth Forecast Projected 2026:The Global Mental Health Apps Market is anticipated to rise at a considerable rate during the forecast period, between 2026 and 2033. In 2025, the market is growing at a steady rate, and with the rising adoption of strategies by key players, the market is expected to rise over the projected horizon.Key Developments 2025-2026:✅ February 2026: Leading mental health app providers expanded AI-driven therapy features and personalized digital care solutions to meet the rising global demand for accessible mental wellness support.✅ January 2026: Companies introduced advanced mood-tracking algorithms and real-time analytics tools to enhance user engagement, early diagnosis, and personalized treatment plans.✅ December 2025: Adoption of digital mental health platforms accelerated due to increasing awareness, remote healthcare trends, and growing acceptance of teletherapy and virtual counseling services.✅ November 2025: Key players strengthened global partnerships with healthcare providers and insurers to expand service accessibility across emerging markets in Asia-Pacific and the Middle East.✅ October 2025: Investments in data security, privacy frameworks, and HIPAA-compliant technologies improved user trust, platform reliability, and regulatory compliance across mental health applications.How Our Market Research Process Works:The global Mental Health Apps Market research report is developed using a comprehensive combination of primary and secondary data sources. The study evaluates a wide range of industry-influencing factors, including government regulations, evolving market dynamics, competitive intensity, and historical performance trends. It also analyzes technological advancements, emerging innovations, and developments across related industries. In addition, the report assesses market volatility, growth opportunities, potential barriers, and key challenges that could impact the future expansion of the Mental Health Apps ecosystem.Recent Mergers & Acquisitions (M & A) 2025-2026:✅ March 2026: Universal Health Services acquired Talkspace to expand digital behavioral health services.✅ Q2 2026 (expected): Spring Health announced acquisition of Alma to strengthen integrated care and provider network capabilities.✅ March 2026: Cerebral acquired Inflow to expand ADHD-focused digital therapy solutions.Request Strategic Market Customization:Japan: Recent Industry Developments:✅ February 2026: FiNC Technologies enhanced its mental health app capabilities with AI-based stress monitoring and personalized lifestyle coaching to support preventive healthcare.✅ January 2026: Sony Group Corporation advanced digital wellness solutions by integrating mental health tracking features into wearable devices and mobile platforms.✅ December 2025: LY Corporation expanded its digital health ecosystem by incorporating mental wellness services and counseling support within its communication platforms.Major Focused Key Segmentations 2026:By Platform Type: Android, iOS, Other Platform Types.By Application: Depression and Anxiety Management, Stress Management, Meditation Management, Other Application Types.By End-user: Home Care Settings, Mental Hospitals, Other End Users.Regional Growth Analysis for Market:⇥ North America (U.S., Canada, Mexico)⇥ Europe (U.K., Italy, Germany, Russia, France, Spain, The Netherlands and Rest of Europe)⇥ Asia-Pacific (India, Japan, China, South Korea, Australia, Indonesia Rest of Asia Pacific)⇥ South America (Colombia, Brazil, Argentina, Rest of South America)⇥ Middle East & Africa (Saudi Arabia, U.A.E., South Africa, Rest of Middle East & Africa)We Provide Benefits of the Report:Chapter 1: Lays the foundation by defining the scope of the report, highlighting core market segments across regions, product types, and applications. It delivers a clear snapshot of current market size, growth potential, and how the industry is expected to evolve in both the near and long term.Chapter 2: Spotlights the most impactful market insights, unveiling the transformative trends and forces shaping the future of the industry.Chapter 3: Provides a deep dive into the competitive landscape of , covering revenue shares, strategic initiatives, and notable mergers & acquisitions that are reshaping the market.Chapter 4: Presents detailed company profiles of leading players featuring financial performance, product portfolios, profit margins, and key milestones that set them apart in the industry.Chapters 5 & 6: Break down revenue analysis at both regional and country levels, offering precise data on market size, growth drivers, and expansion opportunities across global markets.Chapter 7: Analyzes the market by product type, spotlighting segment-specific opportunities and helping stakeholders identify untapped, high-growth areas.Chapter 8 :Explores the market through application-based segmentation, assessing demand across industries and pinpointing downstream sectors with the strongest potential for growth.Chapter 9: Maps the industry's supply chain in detail, tracing upstream and downstream activities to provide clarity on value creation across the ecosystem.Chapter 10: Wraps up with a concise summary of the report's key insights distilling the most critical findings and strategic takeaways for decision-makers and stakeholders.Unlock Full 360° Strategic Report:FAQQ1: What is the current size of the Mental Health Apps Market?A: Global Mental Health Apps Market Size reached US$ 6.49 Billion in 2024 and is expected to reach US$ 15.69 Billion by 2033Q2: How rapidly will the Market expanding?A: The Mental Health Apps market is projected to grow at a CAGR of 10.4 % between 2026 and 2033.Get Unlimited Market Reports & Strategic Insights:Contact Us -Company Name: DataM IntelligenceContact Person: Sai KiranEmail: Sai.k@datamintelligence.comPhone: +1 877 441 4866Website:About Us -DataM Intelligence is a Market Research and Consulting firm that provides end-to-end business solutions to organizations from Research to Consulting. We, at DataM Intelligence, leverage our top trademark trends, insights and developments to emancipate swift and astute solutions to clients like you. We encompass a multitude of syndicate reports and customized reports with a robust methodology.Our research database features countless statistics and in-depth analyses across a wide range of 6300+ reports in 40+ domains creating business solutions for more than 200+ companies across 50+ countries; catering to the key business research needs that influence the growth trajectory of our vast clientele. Permanent link to this press release: Copy Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Share Tweet Email You can edit or delete your press release Mental Health Apps Market (2026-2033) | AI Therapy, Digital Wellness & Remote Care Growth | AI Chatbots, Telehealth & Wellness Platforms here Delete press release Edit press release News-ID: 4456577 • Views: …\n\nVietnam Animal Supplement Market Analysis | Livestock Feed, Amino Acids & Probio … DataM Intelligence has released a new research report titled \"Vietnam Animal Supplement Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in … Sapphire Glass Market to Reach US$ 1,697.74 Million by 2032 Driven by Rising Dem … The Sapphire Glass Market reached US$ 951.22 million in 2024 and is expected to reach US$ 1,697.74 million by 2032, growing at a CAGR of 7.51% during the forecast period 2025-2032. Growth is driven by increasing demand for high durability and scratch resistant materials across industries such as consumer electronics, aerospace, healthcare, and defense. Sapphire glass is widely used in smartphone screens, wearable devices, optical components, LED substrates, and protective covers … Future of BIPV Glass Market | Solar Integration, Energy-Efficient Buildings & Gr … DataM Intelligence has released a new research report titled \"BIPV (Building Integrated Photovoltaics) Glass Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market … Surgical Simulation Market Trends (2026-2033) | Virtual Reality, Haptic Tech & S … DataM Intelligence has released a new research report titled \"Surgical Simulation Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It also highlights major growth drivers shaping the market landscape. Designed to provide a clear and comprehensive perspective, the report offers a detailed view of the current market size in terms … All 5 Releases\n\nHealth Coach Market Positioned for Accelerated Growth with Iora Health, Virta He … Global health coach market is estimated to be valued at USD 18.83 Bn in 2025 and is expected to reach USD 30.65 Bn by 2032, exhibiting a compound annual growth rate (CAGR) of 7.2% from 2025 to 2032. Latest Report on the Health Coach Market 2025-2032, focuses on a comprehensive analysis of the current and future prospects of the Health Coach Market industry. An in-depth analysis of historical trends, future trends, … Digital Musculoskeletal (MSK) Care Market Top Companies Study - Hinge Health, Sw … InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the \"Global Digital Musculoskeletal (MSK) Care Market Size, Share & Trends Analysis Report Solution (Online/Virtual Consultations, Pain Management Therapy Programs, Remote Monitoring, Others), Condition (Back Pain, Foot & Ankle Pain, Knee & Lower Leg Pain, Neck & Shoulder Pain, Pelvis, Hip & Thigh Pain, Others), End User (Healthcare Providers, Healthcare Payers, Employers, Individuals/Patients, Others)- Market Outlook And … Digital Therapeutics Market Outlook 2025 : Proteus Digital Health, Omada Health, … ReportsWeb.com has announced the addition of the “Global Digital Therapeutics Market Size, Status and Forecast 2025” The report focuses on major leading players with information such as company profiles, product picture and specification. This report studies the global Digital Therapeutics market, analyzes and researches the Digital Therapeutics development status and forecast in United States, EU, Japan, China, India and Southeast Asia. This report focuses on the top players in global market, … Digital Therapeutics Market Outlook to 2025 - Propeller Health, CANARY HEALTH, N … The global digital therapeutics market is segmented on the basis of application, distribution channel, and geography. The application segment includes, respiratory diseases, central nervous system disease, smoking cessation, medication adherence, cardiovascular diseases, musculoskeletal diseases, and other applications. Based on distribution channel, the digital therapeutics market is segmented as, B2B and B2C. Digital therapeutics, a subset of digital health, is a health discipline and treatment option that utilizes a digital and … Digital Therapeutics Market Analysis 2018 | Growth by Top Companies: Proteus Dig … Global Digital Therapeutics Market to 2025 This report \"Digital Therapeutics Market Analysis to 2025\" provides an in-depth insight of medical device industry covering all important parameters including development trends, challenges, opportunities, key manufacturers and competitive analysis. Digital therapeutics, a subset of digital health, is a health discipline and treatment option that utilizes a digital and often online health technologies to treat a medical or psychological condition. The treatment relies on behavioral and … Digital Therapeutics Market 2018 Global Key Player Analysis - Omada Health, Twin … New Intelligence Report on “Digital Therapeutics Market to 2025” is recently published by The Insight Partners. The report aims to provide leading industry players with information such as company profiles, products and services offered, financial information of last 3 yesars, key development in past five years North America is estimated to contribute to the largest share in the digital therapeutics market in the coming years, owing to factors such as, improved …\n\nOpenPR ist the nicest and most clearly laid out PR platform I have seen to this day. The press releases are displayed very nicely and clearly and without any unnecessary frills. The updates are fast and the finished release looks appealing and is clearly legible. Even with 16 years of experience one discovers new things from time to time. Congratulations!\n\nGabriele Ketterl, Director Marketing & PR, Menads Your Press Release on Google News Press Release in German on openPR.de"
+      },
+      {
+        "id": 20991868,
+        "title": "Cerebral Acquires Inflow to Expand ADHD Digital Therapeutics Capabilities",
+        "url": "https://hlth.com/insights/news/cerebral-acquires-inflow-to-expand-adhd-digital-therapeutics-capabilities-2026-03-25",
+        "publisher": "HLTH",
+        "published_date": "2026-03-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Cerebral, a provider of digital mental health services, has acquired Inflow, an ADHD-focused app developer, to broaden its treatment capabilities and enhance patient support beyond clinical interactions. Financial terms of the transaction were not disclosed. The integration is intended to strengthen patient engagement between appointments and support Cerebral's development of a hybrid care model combining clinician-led services with digital therapeutic tools.",
+        "word_count": 358,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Neurodevelopmental & Behavioral Therapy Platforms (ADHD/Autism/Behavioral Coaching)",
+            "code": "HLALAEAJ",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Operational Milestones",
+            "code": "SD04",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000szu",
+            "name": "Inflow",
+            "website": "https://www.getinflow.io",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "313",
+            "name": "Medical Health"
+          },
+          {
+            "code": "287",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr carl marci"
+          ],
+          "location": [],
+          "product": [
+            "lumosityrx",
+            "endeavorotc",
+            "inflow"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1349755,
+        "full_text": "Cerebral, a provider of digital mental health services, has acquired ADHD-focused app developer Inflow as part of its effort to broaden its treatment capabilities and enhance patient support beyond clinical interactions. Financial terms of the transaction were not disclosed. Inflow’s platform is grounded in cognitive behavioural therapy (CBT) principles and delivers structured, skills-based modules designed to help users build awareness, modify behaviors, and manage ADHD symptoms in daily life. The app has demonstrated efficacy in prior research, with users reporting reductions in symptoms and functional impairment. Cerebral indicated that integrating Inflow will enable the company to provide “continuous support options” for ADHD patients, complementing its existing services such as medication management and telehealth consultations. The addition is intended to strengthen patient engagement between appointments and support long-term condition management. Dr Carl Marci, chief medical officer at Cerebral, emphasized the growing demand for scalable ADHD solutions, stating: “High-quality ADHD treatments are a significant and growing area of need, underscoring the importance of scalable, validated tools that offer support both during and in between sessions.” The acquisition comes amid increasing activity in the digital ADHD treatment landscape. Several companies are advancing regulated digital therapeutics and software-based interventions aimed at improving attention and cognitive function. Lumos Labs received US Food and Drug Administration (FDA) clearance in December 2025 for LumosityRx, a prescription digital therapeutic designed to improve attention span in adults with ADHD through cognitive training exercises used alongside medication and therapy.\n\nAkili previously secured FDA clearance for EndeavorOTC, a mobile-based video game treatment. In the STARS-ADHD-Adult trial (NCT05183919), 72.5% of participants reported improvements in quality of life as measured by the Adult ADHD Quality of Life Scale. Market forecasts indicate continued growth in ADHD diagnoses across major markets. According to GlobalData, diagnosed prevalent cases across the seven major markets are expected to increase from 21.1 million in 2022 to 22 million by 2032, driven in part by more standardized screening and diagnostic practices. The integration of Inflow positions Cerebral to further develop a hybrid care model that combines clinician-led services with digital therapeutic tools, reflecting broader shifts toward continuous and personalized mental healthcare delivery. Click here for the original news story."
+      },
+      {
+        "id": 20989826,
+        "title": "Cerebral's Inflow Acquisition Rekindles PDT Market’s Fading Flame",
+        "url": "https://www.mddionline.com/digital-health/will-cerebral-s-acquisition-of-inflow-reignite-the-pdt-space-",
+        "publisher": "Medical Device and Diagnostic industry",
+        "published_date": "2026-03-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8361,
+        "ai_summary": "Cerebral acquired Inflow, a developer of an ADHD behavioral health app, to expand its support services for ADHD patients. This move comes amid the recent collapse of major PDT companies like Pear Therapeutics and Better Therapeutics, which faced financial and reimbursement challenges resulting in bankruptcies. The acquisition signals a possible resurgence of interest in the prescription digital therapeutics (PDT) market, which had been stagnant. ",
+        "word_count": 505,
+        "original_language": "EN",
+        "author": "Omar Fordeditor-In-Chief",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Prescription Digital Therapeutics (PDT)",
+            "code": "HLACANAB",
+            "is_primary": true
+          },
+          {
+            "name": "Women’s Health & Fertility Therapeutics (Digital)",
+            "code": "HLACANAK",
+            "is_primary": false
+          },
+          {
+            "name": "Behavioral Health & Neurocognitive Therapeutics (Digital)",
+            "code": "HLACANAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000szu",
+            "name": "Inflow",
+            "website": "https://www.getinflow.io",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000218",
+            "name": "biotechnology business"
+          },
+          {
+            "code": "20000737",
+            "name": "medical research"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "109",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "313",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62142",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "524292",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          },
+          {
+            "code": "2834",
+            "name": "PHARMACEUTICAL PREPARATIONS"
+          },
+          {
+            "code": "8731",
+            "name": "SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH"
+          }
+        ],
+        "entities": {
+          "person": [
+            "david perry",
+            "omar ford"
+          ],
+          "location": [],
+          "product": [
+            "zanadio",
+            "reset",
+            "reset-o",
+            "aspyrerx",
+            "bt-004",
+            "somryst",
+            "bt-002",
+            "bt-003",
+            "bt-001"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 1360205,
+        "full_text": "Omar Ford, Editor-in-Chief, MD+DI, Informa Markets – Engineering 2 Min Read\n\nArtemisDiana via iStock/Getty Images\n\nAt a Glance Cerebral acquires Inflow to expand ADHD support services.\n\nHistorically, the PDT market struggled with reimbursement challenges and layoffs.\n\nPear Therapeutics, a major player in the PDT market, collapsed after filing for bankruptcy in 2023.\n\nCerebral's acquisition of Inflow, for an undisclosed sum, could reignite interest in the prescription digital therapeutics market, which has remained relatively stagnant following the collapse or asset sales of prominent companies in the sector. Inflow has developed a behavioral health app for individuals with ADHD. The deal would allow Cerebral to offer ADHD patients ongoing support through therapy, skill-building modules, medication management, and community engagement. Pear Therapeutics crashes in the PDT market PDTs are software-based therapies that can deliver clinical benefits to patients, either alone or in combination with other forms of treatment, according to amcp.org. In the early 2020s, the space saw a boom. Boston, MA-based Pear Therapeutics, the poster child for PDTs during this era, went public through a special purpose acquisition corporation deal with Thimble Point in 2021. The combined business had a combined equity value of $1.6 billion with an expected $400 million in gross proceeds. Related:Apple Mandates Medical Device Status for Health Apps by 2027 Pear developed reset, a PDT for use as an adjuvant to standard outpatient therapy to treat patients with substance use disorder for stimulants, cannabis, cocaine, and alcohol. It also developed reSET-O, which was used to help those with opioid use disorder stay in recovery programs. Pear’s Somryst PDT is for the treatment of chronic insomnia. By 2022, the company had already gone through two rounds of layoffs – one in July 2022 and another in November 2022. By April of 2023, Pear had filed for bankruptcy. Reimbursement challenges were cited as the reason for Pear failing. Better Therapeutics folds in the PDT market Better Therapeutics, another company that moved the PDT needle, suffered a similar fate. The company developed BT-001, a PDT for the treatment of type 2 diabetes in adults. You can hear Better Therapeutics Chairman and Co-founder David Perry discuss the company during this 2021 episode of Let’s Talk Medtech. In May of 2024, Click Therapeutics acquired Better Therapeutics assets. In the deal, Click obtained the AspyreRx (BT-001), the first FDA-authorized PDT for type 2 diabetes, and BT-004, which was recently granted FDA Breakthrough Device Designation for the treatment of metabolic dysfunction-associated steatohepatitis (MASH). Other assets are BT-002, for the reduction of blood pressure in patients with hypertension, and BT-003, for the reduction of LDL cholesterol in patients with hyperlipidemia. Click also bid $70 million for some of Pear’s assets in 2023. Related:Medtech in a Minute: Healthcare Security Concerns & More PDTs resurface after crash While the PDT space has been relatively quiet, Cerebral’s acquisition of Inflow shows there is still life in the market. Sidekick Health kept the fires burning when it acquired Aidhere, a company that developed Zanadio, an app that provides a digital and multimodal weight reduction treatment for patients diagnosed with obesity."
+      },
+      {
+        "id": 20799438,
+        "title": "Cerebral Acquires Inflow",
+        "url": "https://www.citybiz.co/article/822534/cerebral-acquires-inflow/",
+        "publisher": "citybiz",
+        "published_date": "2026-03-24T13:24:10",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Cerebral, a mental health provider, announced its acquisition of Inflow, a digital ADHD treatment app, to expand its care offerings. The acquisition aims to improve support for ADHD patients through integrated digital tools and clinical care, targeting the growing need for ADHD treatment among adults. ",
+        "word_count": 588,
+        "original_language": "EN",
+        "author": "William Harris",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "General Mental Health Therapy Platforms (Talk Therapy)",
+            "code": "HLALAEAA",
+            "is_primary": true
+          },
+          {
+            "name": "Integrated Behavioral Health (Collaborative Care) Platforms",
+            "code": "HLALAEAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Operational Milestones",
+            "code": "SD04",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000szu",
+            "name": "Inflow",
+            "website": "https://www.getinflow.io",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000a6x",
+            "name": "Cerebral",
+            "website": "https://cerebral.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001227",
+            "name": "psychiatry"
+          },
+          {
+            "code": "20000478",
+            "name": "therapy"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621330",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62161",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "levi epstein",
+            "dr. carl marci"
+          ],
+          "location": [
+            "u.s."
+          ],
+          "product": [
+            "inflow"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9231,
+        "group_id": 389879,
+        "full_text": "Cerebral, a prominent provider of integrated mental health care, today announced its acquisition of Inflow, a personalized ADHD digital therapeutic app, reinforcing Cerebral’s mission of delivering accessible, quality behavioral healthcare. The addition of Inflow allows Cerebral to provide additional continuous support options to its patients with ADHD beyond their appointments, by combining clinical care with personalized engagement tools and helping them build long-term, measurable skills. The integrated offering seeks to improve patients’ outcomes over time, lowering the total cost of care. “High quality ADHD treatments are a significant and growing area of need, underscoring the importance of scalable, validated tools that offer support both during and in between sessions,” said Dr. Carl Marci, Chief Medical Officer of Cerebral. “With Inflow, we can further serve our patients by strengthening everyday coping skills and fostering long-term, lifelong resilience.” Adult ADHD prevalence has been on the rise in recent years, from ~4.4% historically to ~6.0% in 2023 (CDC). Approximately 36.5% of adults diagnosed with ADHD in the U.S. receive no formal treatment (CDC), suggesting a high degree of unmet clinical need. Inflow is grounded in Cognitive Behavioral Therapy (CBT) principles and offers its subscribers short, science-based lessons and daily skills-based modules that help them build awareness, change habits, and manage their ADHD day-to-day. The acquisition expands Cerebral’s treatment portfolio to include enhanced ADHD-specific programs and digital tools enabling more personalized pathways and continuous care tailored to each individual’s needs. “Cerebral shares our vision for delivering evidenced-based support that builds skills and long term success, and we couldn’t be more excited to enter this next chapter in the delivery of continuous care. This partnership allows us to leverage our personalized approach, while benefiting from Cerebral’s clinical rigor, proven Resilience Methodology, and scale,” said Levi Epstein, CEO and Co-Founder of Inflow. With Inflow, Cerebral now offers a more comprehensive continuum of care for individuals with ADHD—further supporting patients from diagnosis through ongoing treatment (including therapy and medication management options), and between-session skills training and support. Both companies will continue to operate as separate platforms. Cerebral clinicians will now be more readily accessible for any member of Inflow seeking therapy with quick turn around time for an appointment. About Cerebral Cerebral sets a new standard of high quality integrated mental healthcare for over 100 million commercially insured people by seamlessly providing therapy and psychiatry in one place, along with medication delivery. Our diverse, national network of clinicians train and certify in the Resilience Methodology, which takes great care to focus on client first quality clinical outcomes, delivering actionable plans for personalized care, and equipping clients with skill building strategies to successfully cope with future challenges. Learn more at www.cerebral.com. About Inflow Inflow is a digital self-care app designed to support individuals with ADHD related challenges in their day-to-day lives. Grounded in cognitive behavioral therapy (CBT), Inflow delivers science-based interactive micro-lessons, practical tools and guided support that help individuals build skills, develop healthier habits and better manage ADHD-related challenges over time. Inflow has been evaluated in peer-reviewed studies including a randomized control trial and has been used by hundreds of thousands of people globally. In an 8-week randomized controlled trial, Inflow users showed significant improvements in ADHD symptoms and ADHD-related quality of life. Higher engagement with Inflow’s exercises was associated with greater self-reported improvements in attention, and users rated the app highly for ease of use and satisfaction. The platform can be used on its own or alongside other forms of care, providing ongoing support before, during and after clinical treatment. Learn more at www.getinflow.io."
+      }
+    ],
+    "credits_consumed": 0.15
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00000so&sections=company_assessment%2Cfirmographic%2Cbusiness_model",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:26:38.962Z",
+  "data": {
+    "data": {
+      "uuid": "00000so",
+      "company_assessment": {
+        "market_position": "Talkiatry is a New York City-based, venture-backed telepsychiatry provider founded in 2019 that operates as the nation's largest full-stack psychiatry practice. It employs more than 800 full-time psychiatrists and 300 therapists, delivers care in 45 U.S. states, has completed more than 3 million patient visits, and is in-network with more than 100 commercial insurers covering roughly 170 million lives. The company has raised more than $400 million in cumulative funding across multiple rounds, most recently a $210 million Series D in February 2026 led by Perceptive Advisors. It was ranked 56th on the 2025 Deloitte Technology Fast 500 and named to CB Insights' Digital Health 50 in 2024.",
+        "strengths": [
+          {
+            "details": "Talkiatry employs 800+ full-time psychiatrists across 45 states, self-described as the nation's largest full-stack telepsychiatry group. In a market characterized by 6+ week waits and a national psychiatrist shortage, this employed-supply scale is a defensible moat that marketplaces cannot replicate quickly, enabling continued share-take from in-person psychiatry practices and gig platforms.",
+            "headline": "Largest employed psychiatrist network captures supply scarcity",
+            "source": [
+              "https://pulse2.com/talkiatry-210-million-series-d/"
+            ]
+          },
+          {
+            "details": "Talkiatry Connect is embedded in 30+ cloud-based EMRs and pairs with 50+ health system Mindshare partnerships. Each new EMR integration and enterprise contract compounds the referral moat — referring providers place referrals in-workflow, generating warm inbound demand that DTC-only competitors must pay full CAC to match.",
+            "headline": "EMR-embedded referral channel compounds distribution",
+            "source": [
+              "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/"
+            ]
+          },
+          {
+            "details": "Talkiatry's measurement-based care platform tracks standardized PHQ-8/PHQ-9 and GAD-7 outcomes, demonstrating 86% symptom improvement after 2 visits and 65% remission in ~5 visits. As payers shift toward value-based mental health contracting, Talkiatry's longitudinal outcomes dataset and AI-powered analytics position it to negotiate premium, capitated, or risk-sharing arrangements unavailable to less instrumented competitors.",
+            "headline": "Outcomes data unlocks value-based payer contracts",
+            "source": [
+              "https://www.prnewswire.com/news-releases/amga-and-talkiatry-announce-strategic-partnership-to-expand-access-to-in-network-psychiatric-care-nationwide-302742785.html"
+            ]
+          },
+          {
+            "details": "Specialty-care partnerships like NYCBS oncology (treating the ~25% of cancer patients with clinical depression) and AMGA point to expansion beyond DTC psychiatry into embedded specialty behavioral health — a higher-acuity, harder-to-replicate segment that commands better unit economics than generalist virtual care.",
+            "headline": "Specialty and oncology integrations expand TAM",
+            "source": [
+              "https://hitconsultant.net/2026/04/29/talkiatry-nycbs-integrated-oncology-psychiatry/"
+            ]
+          },
+          {
+            "details": "3M+ visits delivered, 13,000+ five-star reviews, and in-network status with 100+ insurers covering ~170M lives provide the volume base and contracted-revenue leverage to layer in adjacent services (medication-assisted treatment, pediatric psychiatry, ADHD management) where Talkiatry already has clinical capability and demand signals.",
+            "headline": "Scale supports adjacent service line expansion",
+            "source": [
+              "https://www.talkiatry.com/our-psychiatrists"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Talkiatry's dominant revenue stream is per-visit fees billed to commercial insurers (in-network with 100+ carriers covering ~170M lives) and the company explicitly does not accept Medicaid and offers no self-pay option. Any material payer reimbursement cut, network exit, or shift in employer benefit design toward competitors would compress unit economics and volume simultaneously, with limited offset given the commercial-only positioning.",
+            "headline": "Payer concentration threatens unit economics",
+            "source": [
+              "https://www.talkiatry.com/insurance"
+            ]
+          },
+          {
+            "details": "Talkiatry's CEO Robert Krayn explicitly framed the Series D as a \"financial cushion to maintain payroll for employed clinicians during potential revenue interruptions,\" citing the 2024 Change Healthcare ransomware attack as an example. With 800+ employed psychiatrists as fixed cost, revenue disruptions (cyber, payer, regulatory) flow directly to margin.",
+            "headline": "Employed-clinician model magnifies revenue shocks",
+            "source": [
+              "https://www.statnews.com/2026/02/12/talkiatry-raises-210-million-eyes-ai-opportunity/?utm_campaign=rss"
+            ]
+          },
+          {
+            "details": "The Talkiatry website publicly notes that \"one of our vendors was impacted by a security incident, which affected some of our patients'…protected health information\". HIPAA-regulated breaches on top of the healow/eClinicalWorks infrastructure dependency create compounding exposure as Talkiatry scales into more enterprise contracts.",
+            "headline": "Third-party vendor breach exposes patient data",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ]
+          },
+          {
+            "details": "Talkiatry relies on eClinicalWorks/healow (mycw135.ecwcloud.com) for the patient portal and visit infrastructure. A migration, outage, or pricing change at eClinicalWorks would directly affect Talkiatry's core delivery surface, and competitors building on more modern stacks could outpace on user experience.",
+            "headline": "Core EMR/portal rides on third-party infrastructure",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ]
+          },
+          {
+            "details": "Cerebral, Lyra, Headspace Care, Spring Health, Grow Therapy, Rula, and others are pursuing the same in-network telepsychiatry opportunity and competing for the limited pool of prescribing psychiatrists. Wage inflation and clinician attrition could erode the talent moat that anchors Talkiatry's differentiation.",
+            "headline": "Competitive crowding pressures talent and pricing",
+            "source": [
+              "https://pulse2.com/talkiatry-210-million-series-d/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Talkiatry employs more than 800 full-time, vetted psychiatrists with an average of 10 years of clinical experience across 26 subspecialties and 30+ languages. Unlike gig or marketplace competitors, this is an employed (not contractor) clinical workforce that is difficult and expensive to replicate at scale.",
+            "type": {
+              "code": "talent_moat",
+              "label": "Talent Moat"
+            }
+          },
+          {
+            "details": "Talkiatry Connect is embedded in 30+ cloud-based EMRs and the Mindshare Partner Program covers 50+ health systems, creating warm inbound referral channels competitors lack. In-network status with 100+ insurers covering ~170M lives gives unparalleled patient-acquisition leverage via insurance routing.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Talkiatry is described as the nation's largest full-stack psychiatry provider group with 3M+ patient visits delivered, generating scale economies in clinician recruitment, payer contracting, and technology amortization. Back-to-back Deloitte Technology Fast 500 rankings (2024 and 2025) validate the rate-of-scale advantage.",
+            "type": {
+              "code": "efficient_scale",
+              "label": "Efficient Scale"
+            }
+          },
+          {
+            "details": "Measurement-based care using PHQ-8/PHQ-9 and GAD-7 across millions of visits has produced proprietary outcome datasets used for predictive analytics (e.g., early-dropout thresholds, matching algorithms) and published validation (JMIR Form Res 2023 study of 1,826 patients showing 65% remission).",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "State-by-state licensing is delivered through affiliated medical groups (MCCD Psychiatry Services, PLLC plus FL/CA/KS/NJ professional entities), and in-network contracts with 100+ commercial payers represent a multi-year regulatory and contractual barrier. Talkiatry does not accept Medicaid, narrowing its addressable market but reducing regulatory exposure.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "EMR-embedded Talkiatry Connect referrals create workflow dependency for referring providers, and continuity of care with the same psychiatrist across visits builds patient retention. However, switching costs are lower on the patient side given the commoditized nature of telepsychiatry supply.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Talkiatry does not accept Medicaid and offers no self-pay option, leaving its addressable market limited to commercially insured patients. This shrinks the population it can serve and leaves it exposed to employers dropping mental health benefits or shifting carriers.",
+            "headline": "Commercial-only model excludes major patient segments",
+            "source": [
+              "https://www.talkiatry.com/insurance"
+            ]
+          },
+          {
+            "details": "Patient portal, scheduling, and telehealth visits run on eClinicalWorks/healow (mycw135.ecwcloud.com), while a third-party vendor security incident has already affected some patients' PHI. Outages, vendor pricing changes, or further breaches flow directly to Talkiatry's core delivery surface.",
+            "headline": "Heavy reliance on third-party platform infrastructure",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ]
+          },
+          {
+            "headline": "Payer mix concentration risk"
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Talkiatry self-describes as the nation's largest full-stack psychiatry provider group with 800+ employed psychiatrists and 300+ therapists operating in 45 states. This employed-clinician scale is hard for marketplace competitors to replicate quickly.",
+            "headline": "Largest employed telepsychiatry group in the U.S.",
+            "source": [
+              "https://pulse2.com/talkiatry-210-million-series-d/"
+            ]
+          },
+          {
+            "details": "Measurement-based care data shows 86% of patients feel better after 2 visits, 65% achieve remission in an average of 5 visits, and 87% anxiety / 86% depression symptom reduction after 2 visits.",
+            "headline": "Strong unit-level clinical outcomes",
+            "source": [
+              "https://www.talkiatry.com/our-psychiatrists"
+            ]
+          },
+          {
+            "details": "In-network with 100+ commercial insurers covering ~170M lives, with an in-network guarantee on first visits. Average patient out-of-pocket is ~$30/visit, which Talkiatry's own research links to lower early-dropout rates.",
+            "headline": "Broad payer coverage creates revenue durability",
+            "source": [
+              "https://pulse2.com/talkiatry-210-million-series-d/"
+            ]
+          },
+          {
+            "details": "Talkiatry Connect is integrated into 30+ cloud-based EMRs and pairs with 50+ health system Mindshare partnerships. This generates warm, in-workflow referrals that pure-DTC competitors must pay full CAC to match.",
+            "headline": "EMR-embedded referral channel is a defensible moat",
+            "source": [
+              "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/"
+            ]
+          },
+          {
+            "details": "Over 3 million patient visits completed and 13,000+ five-star reviews, with the company ranked 56th on the 2025 Deloitte Technology Fast 500 and included on CB Insights' 2024 Digital Health 50.",
+            "headline": "Massive patient traction and brand proof",
+            "source": [
+              "https://www.talkiatry.com/"
+            ]
+          },
+          {
+            "details": "Total funding raised exceeds $400M, most recently an oversubscribed $210M Series D led by Perceptive Advisors with a16z, Sofina, blisce/, and Left Lane Capital plus debt from Banc of California. CEO Robert Krayn explicitly described the round as cushion for clinician payroll continuity.",
+            "headline": "Strong capital position supports growth runway",
+            "source": [
+              "https://www.wsj.com/articles/telepsychiatry-company-talkiatry-raises-210-million-in-tech-buildout-push-bc37c1ed"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Talkiatry's patient base is a long-tail of millions of individual visits across 45 states (3M+ cumulative visits), making D2C patient concentration inherently low. However, revenue is concentrated in commercial insurance payers (100+ insurers covering ~170M lives), and the company does not accept Medicaid, creating payer-mix concentration. On the enterprise side, only two named partners are disclosed (AMGA and NYCBS), and the AMGA partnership was just announced in April 2026, so enterprise revenue concentration is currently low but could rise as the B2B motion scales. The Copay estimator, $30 average out-of-pocket, and absence of self-pay suggest pricing is payer-controlled, which moderates Talkiatry's ability to offset churn in any single payer relationship.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Cerebral is a direct competitor in online psychiatry and medication management for conditions such as anxiety, depression, and ADHD. It targets a similar commercially insured patient base with employed or contracted clinicians, overlapping directly with Talkiatry's core offering.",
+            "name": "Cerebral",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000a6x"
+          },
+          {
+            "description": "Lyra Health is a direct competitor providing in-network virtual therapy and psychiatry through employer and payer contracts. It uses a similar measurement-based care model and competes for the same enterprise customers and clinician talent as Talkiatry.",
+            "name": "Lyra Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00009oi"
+          },
+          {
+            "description": "Spring Health provides employer-sponsored mental health benefits including therapy and psychiatry with measurement-based outcomes, competing head-to-head with Talkiatry in the payer/employer enterprise motion.",
+            "name": "Spring Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000004k"
+          },
+          {
+            "description": "Headspace Health (the merger of Headspace and Ginger) delivers on-demand therapy, coaching, and psychiatry through employer and payer contracts, directly competing with Talkiatry for in-network virtual behavioral health volume.",
+            "name": "Headspace Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000aip"
+          },
+          {
+            "description": "Grow Therapy is an in-network virtual therapy and psychiatry platform serving both consumers and enterprise customers with a strong payer contracting model, comparable to Talkiatry's in-network, employer-payer-aligned approach.",
+            "name": "Grow Therapy",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000026s"
+          },
+          {
+            "description": "Rula Health is an in-network virtual mental health provider delivering therapy and psychiatry across all 50 states, directly competing with Talkiatry on payer coverage, employed-clinician supply, and enterprise contracts.",
+            "name": "Rula Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000456"
+          },
+          {
+            "description": "Two Chairs is an in-network therapy and psychiatry provider with employed clinicians in select markets, overlapping with Talkiatry on employed-clinician model and outcomes measurement but with narrower geographic reach.",
+            "name": "Two Chairs",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000ai6"
+          },
+          {
+            "description": "Brightside Health is a virtual mental health provider focused on depression and anxiety with combined therapy plus medication management, directly comparable to Talkiatry's integrated psychiatry + therapy offering.",
+            "name": "Brightside Health",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "00005gq"
+          },
+          {
+            "description": "Done is a virtual ADHD treatment and psychiatry provider that overlaps with Talkiatry's medication management focus and adult ADHD patient population, though with narrower condition scope.",
+            "name": "Done (Done.)",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            }
+          },
+          {
+            "description": "Quartet Health is a value-based behavioral health platform that connects patients to in-network mental health providers and supports collaborative care models for health systems and payers, comparable to Talkiatry's measurement-based, enterprise-focused motion.",
+            "name": "Quartet Health",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0003aut"
+          }
+        ]
+      },
+      "firmographic": {
+        "name": "Talkiatry",
+        "legal_name": "Talkiatry Management Services, LLC",
+        "website": "talkiatry.com",
+        "company_type": {
+          "code": "private",
+          "label": "Private"
+        },
+        "founded_year": 2019,
+        "operating_status": {
+          "code": "operating",
+          "label": "Operating"
+        },
+        "ownership_category": {
+          "code": "venture_growth_investor_backed",
+          "label": "Venture Growth Investor Backed"
+        },
+        "headcount_range": "501-1000",
+        "logo_url": "https://files.akta.pro/logos/00/00/0s/31bf6c6d-10ce-5bd1-b801-c738c81dfa08.png",
+        "akta_rank": 24809
+      },
+      "business_model": {
+        "gtm_motion": [
+          {
+            "source": [
+              "https://www.talkiatry.com/"
+            ],
+            "type": {
+              "code": "direct_to_consumer",
+              "label": "Direct To Consumer"
+            }
+          },
+          {
+            "source": [
+              "https://www.prnewswire.com/news-releases/amga-and-talkiatry-announce-strategic-partnership-to-expand-access-to-in-network-psychiatric-care-nationwide-302742785.html"
+            ],
+            "type": {
+              "code": "enterprise_field_sales",
+              "label": "Enterprise Field Sales"
+            }
+          },
+          {
+            "source": [
+              "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/"
+            ],
+            "type": {
+              "code": "channel_partners",
+              "label": "Channel Partners"
+            }
+          }
+        ],
+        "revenue_model": [
+          {
+            "description": "Per-visit fees billed directly to commercial insurance payers on behalf of patients (in-network with 100+ insurers covering ~170M lives). Patients typically pay a copay (~$30 average). Talkiatry does not currently offer self-pay and does not accept Medicaid. This is the dominant revenue stream.",
+            "source": [
+              "https://www.talkiatry.com/insurance"
+            ],
+            "title": "Insurance-billed psychiatric and therapy visits",
+            "type": {
+              "code": "usage_based",
+              "label": "Usage Based"
+            }
+          },
+          {
+            "description": "B2B contracts and referral partnerships with health systems, payer organizations, and employers (e.g., AMGA strategic partnership, NYCBS oncology partnership) that generate referral volume and care-delivery revenue, plus institutional demand for psychiatric capacity.",
+            "source": [
+              "https://www.prnewswire.com/news-releases/amga-and-talkiatry-announce-strategic-partnership-to-expand-access-to-in-network-psychiatric-care-nationwide-302742785.html"
+            ],
+            "title": "Health system, payer, and employer partnerships",
+            "type": {
+              "code": "managed_services",
+              "label": "Managed Services"
+            }
+          }
+        ],
+        "marketing_channels": [
+          {
+            "description": "Extensive blog, condition-specific landing pages (ADHD, anxiety, depression, OCD, PTSD, insomnia, postpartum, etc.), and self-assessment quizzes (ADHD, depression, anxiety, OCD, bipolar, PPD) on talkiatry.com to capture organic traffic and educate patients.",
+            "source": [
+              "https://www.talkiatry.com/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Content marketing (blog, condition pages, quizzes, self-assessments)",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Uses Google Ads (AdWords) remarketing and Microsoft Bing Ads (Bing UET) to drive traffic to the online assessment for converting patients.",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ],
+            "stage": {
+              "code": "bottom_of_funnel",
+              "label": "Bottom of Funnel"
+            },
+            "title": "Paid search (Google Ads, Bing Ads)",
+            "type": {
+              "code": "paid_search_sem",
+              "label": "Paid Search/ SEM"
+            }
+          },
+          {
+            "description": "Meta Pixel for Facebook/Instagram, TikTok Pixel, and Snap Pixel are deployed for ad targeting, retargeting, and conversion tracking.",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Paid social (Meta Pixel, TikTok Pixel, Snap Pixel)",
+            "type": {
+              "code": "paid_social_display",
+              "label": "Paid Social/ display"
+            }
+          },
+          {
+            "description": "Tinuiti pixel tracks CTV ad performance; tvScientific used for CTV remarketing. Drives top-of-funnel awareness for direct-to-consumer acquisition.",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Connected TV / CTV advertising (Tinuiti, tvScientific)",
+            "type": {
+              "code": "paid_social_display",
+              "label": "Paid Social/ display"
+            }
+          },
+          {
+            "description": "Podsights pixel is used to measure what users do after hearing a podcast advertisement, supporting podcast ad campaigns.",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Podcast advertising (Podsights / Spotify)",
+            "type": {
+              "code": "podcast_video_multimedia",
+              "label": "Podcast/ Video/ Multimedia"
+            }
+          },
+          {
+            "description": "Mental Health Newsletter \"From the Armchair\" and a Clinical Newsletter \"Making Rounds\" capture email opt-ins on the website for nurture and retention.",
+            "source": [
+              "https://www.talkiatry.com/"
+            ],
+            "stage": {
+              "code": "post_sale",
+              "label": "Post Sale"
+            },
+            "title": "Email / newsletter marketing",
+            "type": {
+              "code": "email_newsletter",
+              "label": "Email/ newsletter"
+            }
+          },
+          {
+            "description": "State- and city-level landing pages (e.g., /psychiatrist-near-me/alabama, /psychiatrist-near-me-city/austin-tx) drive organic search traffic for \"psychiatrist near me\" queries, supported by VWO analytics and Google Analytics.",
+            "source": [
+              "https://www.talkiatry.com/privacy-policy"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Organic social and SEO",
+            "type": {
+              "code": "seo_organic_search",
+              "label": "SEO/ Organic Search"
+            }
+          },
+          {
+            "description": "Consistent coverage in StatNews, Modern Healthcare, Behavioral Health Business, HIT Consultant, Healthcare IT News, Crunchbase, Crain's NY, and other trade press functions as earned media and category authority.",
+            "source": [
+              "https://medcitynews.com/2026/02/talkiatry-psychiatry-healthcare-startup/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "PR / earned media",
+            "type": {
+              "code": "pr_earned_media",
+              "label": "PR/ Earned Media"
+            }
+          },
+          {
+            "description": "Talkiatry uses major industry events and investor conferences (e.g., J.P. Morgan Healthcare Conference) as a platform for announcements and category presence.",
+            "source": [
+              "https://www.fiercehealthcare.com/finance/jpm26-day-3-sun-rises-conferences-final-full-day"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Events / industry conferences (e.g., JPM Healthcare Conference coverage)",
+            "type": {
+              "code": "events_conferences",
+              "label": "Events/ conferences"
+            }
+          },
+          {
+            "description": "Talkiatry Connect referral workflows with 30+ EMR partners and health system Mindshare Partner Program deliver warm inbound patient referrals.",
+            "source": [
+              "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/"
+            ],
+            "stage": {
+              "code": "bottom_of_funnel",
+              "label": "Bottom of Funnel"
+            },
+            "title": "Referral / partner channel",
+            "type": {
+              "code": "referral_affiliate_partner",
+              "label": "Referral/affiliate/ partner"
+            }
+          }
+        ],
+        "distribution_channels": [
+          {
+            "description": "Consumer-facing website and online assessment (app.talkiatry.com/assessment) where patients self-serve through a 10-minute questionnaire to be matched with an in-network psychiatrist; online scheduling and 100% virtual visits.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://www.talkiatry.com/"
+            ],
+            "target_buyer": {
+              "code": "smb_individual_consumer",
+              "label": "SMB/Individual/Consumer"
+            },
+            "title": "Talkiatry.com direct-to-consumer online storefront",
+            "type": {
+              "code": "self_serve_plg",
+              "label": "Self-serve/ PLG"
+            }
+          },
+          {
+            "description": "Cloud-based referral product embedded within 30+ cloud-based EMRs that lets healthcare providers place psychiatric referrals directly and receive clinical updates back, effectively acting as a channel through which partner EMRs and providers distribute Talkiatry services.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://hitconsultant.net/2026/04/09/talkiatry-connect-emr-integration-psychiatric-referrals/"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Talkiatry Connect (EMR-embedded referral channel)",
+            "type": {
+              "code": "channel_reseller_var",
+              "label": "Channel/ Reseller/ VAR"
+            }
+          },
+          {
+            "description": "Direct enterprise sales motion to health systems, medical groups, payers, and employers; partnerships with organizations such as AMGA and New York Cancer & Blood Specialists to deliver embedded psychiatric care.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://www.prnewswire.com/news-releases/amga-and-talkiatry-announce-strategic-partnership-to-expand-access-to-in-network-psychiatric-care-nationwide-302742785.html"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Health system, payer, and employer enterprise sales (Mindshare Partner Program)",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          },
+          {
+            "description": "Clinical services are delivered by an independent affiliated medical group (MCCD Psychiatry Services, PLLC and MCCD FL/CA/KS/NJ Psychiatry Services entities) that provides the licensed clinicians behind the Talkiatry-branded practice.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://www.prnewswire.com/news-releases/talkiatry-study-identifies-clear-thresholds-predicting-early-dropout-in-telepsychiatry-302638961.html"
+            ],
+            "target_buyer": {
+              "code": "enterprise",
+              "label": "Enterprise"
+            },
+            "title": "Affiliated medical practice (MCCD Psychiatry Services, PLLC and state entities)",
+            "type": {
+              "code": "oem_embedded_whitelabel",
+              "label": "OEM/ Embedded/ White-label"
+            }
+          }
+        ],
+        "cost_components": [
+          "Personnel",
+          "Technology or R&D",
+          "Marketing or Sales",
+          "Operations",
+          "Infrastructure"
+        ],
+        "pricing_details": [
+          {
+            "billing_cadence": {
+              "code": "pay_as_you_go",
+              "label": "Pay-as-you-go"
+            },
+            "description": "Insurance-billed telepsychiatry visits; most patients pay ~$30 copay",
+            "model": {
+              "code": "usage_based",
+              "label": "Usage-based"
+            },
+            "notes": "Per-visit billing to insurance. Average patient out-of-pocket is ~$30. No self-pay option; no Medicaid. First visit (60 min) typically more expensive than follow-ups. In-network guarantee covers first visit if insurance verification is wrong.",
+            "source": [
+              "https://www.talkiatry.com/insurance"
+            ]
+          }
+        ],
+        "gtm_type": {
+          "code": "b2b_and_b2c",
+          "label": "B2B and B2C"
+        },
+        "offering_type": {
+          "code": "services",
+          "label": "Services"
+        }
+      }
+    },
+    "credits_consumed": 6
+  }
+}

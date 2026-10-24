@@ -1,0 +1,28 @@
+Overjet launches 6 approvals 3 funding news 3 
+Pearl launches 26 approvals 6 funding news 3 
+VideaHealth launches 11 approvals 0 funding news 1 
+Planet DDS launches 10 approvals 0 funding news 0 
+Denti.AI launches 0 approvals 0 funding news 0 
+Labelbox launches 6 approvals 0 funding news 11 
+Snorkel AI launches 11 approvals 0 funding news 20 
+Surge AI launches 3 approvals 0 funding news 7 
+Scale AI launches 46 approvals 0 funding news 20 
+Forter launches 13 approvals 0 funding news 0 
+Sama launches 8 approvals 0 funding news 1 
+Signifyd launches 6 approvals 1 funding news 1 
+Diagnocat launches 4 approvals 0 funding news 0 
+Ravelin launches 0 approvals 0 funding news 0 [ 'The operation was aborted due to timeout' ]
+Accertify launches 8 approvals 2 funding news 0 [ 'The operation was aborted due to timeout' ]
+Riskified launches 46 approvals 3 funding news 0 [ 'The operation was aborted due to timeout' ]
+Vagaro launches 14 approvals 0 funding news 3 
+Fresha launches 50 approvals 1 funding news 20 
+Boulevard launches 5 approvals 0 funding news 3 
+Curve Dental launches 7 approvals 0 funding news 1 [ 'The operation was aborted due to timeout' ]
+Mangomint launches 4 approvals 0 funding news 1 
+Lyra Health launches 10 approvals 0 funding news 0 
+GlossGenius launches 2 approvals 0 funding news 3 [ 'The operation was aborted due to timeout' ]
+Spring Health launches 16 approvals 1 funding news 3 
+Talkiatry launches 6 approvals 1 funding news 20 
+Headspace Health launches 24 approvals 0 funding news 4 
+Cerebral launches 5 approvals 0 funding news 4 
+exit 0

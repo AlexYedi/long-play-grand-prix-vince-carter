@@ -1,0 +1,145 @@
+{
+  "company_id": "C10",
+  "company": "Vellstrom Data GmbH",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 38500,
+      "unit": "currency",
+      "currency": "EUR",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 61,
+        "end": 67
+      },
+      "quote": "€38,5k",
+      "confidence": 0.9,
+      "derivation": "European decimal comma: 38,5k = 38.5k = 38500; Juni figure is the comparison and is ignored"
+    },
+    "arr": {
+      "value": 462000,
+      "unit": "currency",
+      "currency": "EUR",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 61,
+        "end": 67
+      },
+      "quote": "€38,5k",
+      "confidence": 0.9,
+      "derivation": "12 x MRR 38500 = 462000; no ARR stated"
+    },
+    "monthly_burn": {
+      "value": 124000,
+      "unit": "currency",
+      "currency": "EUR",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 154,
+        "end": 162
+      },
+      "quote": "€124.000",
+      "confidence": 0.9,
+      "derivation": "European thousands separator: 124.000 = 124000 per month"
+    },
+    "cash": {
+      "value": 2412000,
+      "unit": "currency",
+      "currency": "EUR",
+      "period": "2026-09-30",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 179,
+        "end": 189
+      },
+      "quote": "€2.412.000",
+      "confidence": 0.9,
+      "derivation": "European thousands separators: 2.412.000 = 2412000"
+    },
+    "runway_months": {
+      "value": 19,
+      "unit": "months",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 213,
+        "end": 223
+      },
+      "quote": "~19 months",
+      "confidence": 0.9,
+      "derivation": "Stated by founder as approximately 19 months"
+    },
+    "headcount": {
+      "value": 14,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 232,
+        "end": 238
+      },
+      "quote": "14 FTE",
+      "confidence": 0.9,
+      "derivation": "Stated team size"
+    },
+    "customers": {
+      "value": 21,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 96,
+        "end": 98
+      },
+      "quote": "21",
+      "confidence": 0.9,
+      "derivation": "Stated customer count (4 new)"
+    },
+    "key_highlight": {
+      "value": "DAX-listed pilot converted to a paid 2-year contract",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 252,
+        "end": 304
+      },
+      "quote": "DAX-listed pilot converted to a paid 2-year contract",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "EU AI Act documentation work is pulling two engineers off roadmap",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 313,
+        "end": 378
+      },
+      "quote": "EU AI Act documentation work is pulling two engineers off roadmap",
+      "confidence": 0.9
+    }
+  },
+  "flags": [
+    {
+      "flag": "non_usd_currency",
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 61,
+        "end": 67
+      },
+      "quote": "€38,5k"
+    }
+  ]
+}

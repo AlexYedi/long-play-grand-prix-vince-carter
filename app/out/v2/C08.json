@@ -1,0 +1,145 @@
+{
+  "company_id": "C08",
+  "company": "Corvellum Pay",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 192400,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 501,
+        "end": 509
+      },
+      "quote": "$192,400",
+      "confidence": 0.9,
+      "derivation": "Table MRR for Q3 (Sep) excludes one-time implementation fees; wins over the $210K headline, which includes the $18K fees."
+    },
+    "arr": {
+      "value": 2308800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 501,
+        "end": 509
+      },
+      "quote": "$192,400",
+      "confidence": 0.9,
+      "derivation": "12 x table MRR of 192,400. The headline ~$2.5M ARR is based on the $210K figure, which conflicts with the table."
+    },
+    "monthly_burn": {
+      "value": 245000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 541,
+        "end": 549
+      },
+      "quote": "$245,000",
+      "confidence": 0.9,
+      "derivation": "Q3 (Sep) column of table"
+    },
+    "cash": {
+      "value": 3900000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 570,
+        "end": 575
+      },
+      "quote": "$3.9M",
+      "confidence": 0.9,
+      "derivation": "Q3 (Sep) column of table"
+    },
+    "runway_months": {
+      "value": 16,
+      "unit": "months",
+      "currency": null,
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 578,
+        "end": 603
+      },
+      "quote": "| Runway (mo) | 20 | 16 |",
+      "confidence": 0.9,
+      "derivation": "Q3 (Sep) column of table"
+    },
+    "headcount": {
+      "value": 25,
+      "unit": "count",
+      "currency": null,
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 604,
+        "end": 627
+      },
+      "quote": "| Headcount | 22 | 25 |",
+      "confidence": 0.9,
+      "derivation": "Q3 (Sep) column of table"
+    },
+    "customers": {
+      "value": 39,
+      "unit": "count",
+      "currency": null,
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 628,
+        "end": 651
+      },
+      "quote": "| Customers | 34 | 39 |",
+      "confidence": 0.9,
+      "derivation": "Q3 (Sep) column of table"
+    },
+    "key_highlight": {
+      "value": "Went live with first two construction-supply distributors on embedded payables",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 302,
+        "end": 388
+      },
+      "quote": "We went live with our first two construction-supply distributors on embedded payables.",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Sponsor bank renegotiation slipped to Q1 and the bank is asking for a higher reserve",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 736,
+        "end": 821
+      },
+      "quote": "our sponsor bank renegotiation slipped to Q1 and they are asking for a higher reserve",
+      "confidence": 0.9
+    }
+  },
+  "flags": [
+    {
+      "flag": "conflicting_figures",
+      "source_file": "updates/Q3_2026/C08_corvellum_2026-10-07.txt",
+      "source_span": {
+        "start": 206,
+        "end": 249
+      },
+      "quote": "MRR crossed $210K in September (~$2.5M ARR)"
+    }
+  ]
+}

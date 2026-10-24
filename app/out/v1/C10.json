@@ -1,0 +1,125 @@
+{
+  "company_id": "C10",
+  "company": "Vellstrom Data GmbH",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 38500,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 56,
+        "end": 82
+      },
+      "quote": "MRR: €38,5k (Juni: €31,2k)",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 124000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 148,
+        "end": 170
+      },
+      "quote": "Burn: €124.000 / month",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 2412000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 173,
+        "end": 202
+      },
+      "quote": "Cash: €2.412.000 (30.09.2026)",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 19,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 205,
+        "end": 223
+      },
+      "quote": "Runway: ~19 months",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 14,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 226,
+        "end": 238
+      },
+      "quote": "Team: 14 FTE",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 21,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 85,
+        "end": 145
+      },
+      "quote": "Customers: 21 (4 new, incl. one Mittelstand logistics group)",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "DAX-listed pilot converted to a paid 2-year contract",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 241,
+        "end": 304
+      },
+      "quote": "Highlight: DAX-listed pilot converted to a paid 2-year contract",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "EU AI Act documentation work is pulling two engineers off roadmap",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C10_vellstrom_2026-10-08.md",
+      "source_span": {
+        "start": 307,
+        "end": 378
+      },
+      "quote": "Risk: EU AI Act documentation work is pulling two engineers off roadmap",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

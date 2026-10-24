@@ -1,0 +1,2763 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00008iv&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:09.304Z",
+  "data": {
+    "total": 40,
+    "limit": 20,
+    "offset": 0,
+    "count": 20,
+    "data": [
+      {
+        "id": 40000220,
+        "title": "Snorkel AI Successfully Raises $350 Million to Propel Growth and Innovation",
+        "url": "https://third-news.com/article/2ff878dc-c259-11f1-b8ae-9ca3ba08e13f",
+        "publisher": "Third News",
+        "published_date": "2026-10-07T14:12:53",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a NYSE fundraising campaign, boosting its valuation to an estimated $3.5 billion. CEO Alex Ratner plans to use the funds to expand data evaluation and training capabilities for frontier model development. The company aims to strengthen its position in the AI industry through infrastructure and partnerships.",
+        "word_count": 495,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": true
+          },
+          {
+            "name": "Fine-Tuning, Adaptation & Custom Model Training (PEFT/LoRA/RLHF)",
+            "code": "HDAAACAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "523150",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "5239",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner",
+            "jake paul"
+          ],
+          "location": [
+            "new york",
+            "usa",
+            "u.s."
+          ],
+          "product": [],
+          "event": [
+            "all-in summit"
+          ]
+        },
+        "newsworthiness_score": 1,
+        "group_id": 13617919,
+        "full_text": "#USA #New York #NYSE #Snorkel AI #Alex Ratner Snorkel AI Successfully Raises $350 Million to Propel Growth and Innovation Snorkel AI Successfully Raises $350 Million to Propel Growth and Innovation\n\n\n\nIn a noteworthy announcement from the New York Stock Exchange (NYSE), Snorkel AI has successfully completed a fundraising campaign, raising an impressive $350 million. This financial boost elevates Snorkel's valuation to an estimated $3.5 billion. The company is renowned for its innovative solutions in artificial intelligence, specifically focusing on data evaluation and training for frontier model development.\n\n\n\nCEO Alex Ratner is poised to take the spotlight in the world of AI, expressing his belief that the advancements in data development technology will be one of the most critical areas for AI research moving forward. Under his leadership, Snorkel aims to leverage this funding to expand its capabilities and improve its existing platform significantly.\n\n\n\nThe funds raised are part of a broader strategy to strengthen the company's position in a rapidly evolving landscape of AI technology. By investing in better data framework infrastructures and partnerships, Snorkel is taking bold steps to remain at the forefront of AI application in various industries.\n\n\n\nIn addition to announcing the fundraising, the NYSE provided updates for traders and investors seeking insights before the market opens. As part of its regular pre-market updates, the NYSE helps participants understand current market trends and dynamics.\n\n\n\nIn a related context, the recent All-In Summit featured some high-profile attendees, including Jake Paul, who discussed various aspects of the defense industry, particularly highlighting the significance of AI in hardware production. Paul emphasized how essential it is to build AI data centers in the U.S. for national security, showcasing a trend where the intersection of AI and security is becoming increasingly prominent.\n\n\n\nThe anticipation continues for updates from the Federal Reserve regarding the economy, particularly as the S&P 500 index has reached an all-time high of 7,800, echoing a robust market sentiment. As financial analysts and investors keep a close watch on the unfolding developments, Snorkel AI's growth trajectory is expected to play a pivotal role in shaping the AI industry's future.\n\n\n\nAs Snorkel AI embarks on this new chapter, all eyes will be on how the company utilizes its newfound resources to innovate and contribute to the ever-growing AI landscape. With so much resting on the capabilities being developed, the company is bound to impact AI research and application for years to come.\n\n\n\nIn summary, Snorkel AI's recent funding success not only highlights the confidence investors have in its vision, but it also cements the company's role as a significant player in the AI battlefield. The global industry looks on with interest as advancements in both technology and policy continue to intertwine, setting a stage for future innovations that could redefine how AI is harnessed and applied across various sectors.\n\nTopics Business Technology）\n\n【About Using Articles】 You can freely use the title and article content by linking to the page where the article is posted.\n\n※ Images cannot be used. 【About Links】 Links are free to use."
+      },
+      {
+        "id": 41818049,
+        "title": "STACKUP: The Stack's weekly tech startups and funding wrap",
+        "url": "https://www.thestack.technology/stackup-the-stacks-weekly-tech-startups-and-funding-wrap-63/",
+        "publisher": "The Stack",
+        "published_date": "2026-09-28T11:32:21",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9757,
+        "ai_summary": "Firecrawl closed a $75 million Series B and launched its AI agent knowledge library, Alexandria. The company also discussed its open source strategy and the need for paid access to online data for AI. Other startups like Island, Snorkel, and Verda raised over $100 million in funding this week.",
+        "word_count": 141,
+        "original_language": "EN",
+        "author": "Noah Bovenizer",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Retrieval-Augmented Generation (RAG), Vector Databases & Knowledge Grounding",
+            "code": "HDAAACAE",
+            "is_primary": false
+          },
+          {
+            "name": "Open-Source Model Ecosystems & Model Marketplaces",
+            "code": "HDAAACAM",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000noq",
+            "name": "Numeral",
+            "website": "https://www.numeral.io/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000jq",
+            "name": "Island",
+            "website": "https://islandtechnology.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "02mkx7z",
+            "name": "benford tech",
+            "website": "https://benford-tech.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000026b",
+            "name": "Firecrawl",
+            "website": "https://www.firecrawl.dev",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000ui",
+            "name": "Verda (formerly DataCrunch)",
+            "website": "https://verda.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "519290",
+            "name": "Information"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          }
+        ],
+        "entities": {
+          "person": [
+            "caleb peffer",
+            "noah bovenizer"
+          ],
+          "location": [],
+          "product": [
+            "alexandria",
+            "verda",
+            "island",
+            "snorkel"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 15393727,
+        "full_text": "Welcome to The Stack’s weekly round-up of the latest startups, scaleups, and funding news. (Want us to include your milestone in the next wrap-up? Get it to Noah Bovenizer here with the story in 50 words or fewer.)\nIn this week's STACKUP, Firecrawl, the startup behind the open source web data API of the same name, spoke to The Stack after closing a $75 million Series B and launching its AI agent knowledge library, Alexandria.\nCEO Caleb Peffer discussed that launch, Firecrawl's open source strategy, and why companies will have to be paid for their online data if AI is to solve humanity's biggest problems.\nAlso this week, it's all about hosting, serving data for, and managing AI agents with $100+ million rounds for Island, Snorkel, and Verda. There's also news from Numeral and Kontext, while Benford and F13 get going with pre-seed funding."
+      },
+      {
+        "id": 40230311,
+        "title": "Snorkel AI Raises $350 Million. The Company Building the Data Factory Behind Every Frontier AI Model Just Tripled Its Valuation. - BestStartup.co.uk",
+        "url": "https://beststartup.co.uk/snorkel-ai-350-million-series-e-frontier-ai-data-uk-2026/",
+        "publisher": "BestStartup.co.uk",
+        "published_date": "2026-09-27T08:09:03",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a Series E at a $3.5 billion valuation on September 22, 2026, co-led by Insight Partners and S32. Its annualised revenue run rate reached $375 million, an eighteenfold increase in twelve months. The company builds training datasets and evaluation frameworks for frontier AI labs and enterprises.",
+        "word_count": 778,
+        "original_language": "EN",
+        "author": "Laura Anderson",
+        "countries": [
+          "GBR"
+        ],
+        "industries": [
+          {
+            "name": "Training Data Management, Versioning & Lineage",
+            "code": "HDAAALAD",
+            "is_primary": true
+          },
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "uk",
+            "san francisco"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Every AI product being built by a UK startup or enterprise right now depends on training data. The large language models they fine-tune, the foundation models they build on, the evaluation benchmarks they use to measure quality all of it was built on data that someone had to construct, curate and validate. Most of the time, that someone is Snorkel AI. Follow every UK startup and tech story at BestStartup UK.\nOn September 22 2026, Snorkel AI raised $350 million in a Series E at a $3.5 billion valuation, co-led by Insight Partners and S32. Its annualised revenue run rate reached $375 million an eighteenfold increase in twelve months. For context: twelve months ago Snorkel AI was generating approximately $20 million in annualised revenue. Today it is generating $375 million. That is the pace at which frontier AI data demand is growing.\nWhat This Means for UK AI Companies\nUK artificial intelligence is a £16 billion sector and growing. DeepMind, Wayve, Stability AI, Synthesia, Darktrace and dozens of other UK AI companies are building products that require training data, evaluation frameworks and reinforcement learning environments to function. Many of them particularly the ones building on or fine-tuning foundation models are already customers or potential customers of the infrastructure Snorkel AI provides.\nThe broader implication for UK AI founders is that the training data layer is not a commodity. It is a specialised capability that requires deep technical expertise, domain knowledge and the ability to construct expert-level datasets at scale. Snorkel AI’s 18x revenue growth tells you that frontier AI labs and large enterprises have concluded they cannot build this capability internally at the speed and quality they require and are willing to pay premium prices to a specialist supplier who can. Read more UK tech and AI startup stories at BestStartup UK.\nWhat Snorkel AI Actually Builds\nSnorkel AI describes itself as the frontier AI data lab. It builds training datasets, evaluation frameworks, synthetic data environments and reinforcement learning setups for AI systems that need more than publicly available data to reach frontier capability.\nThe shift from its original positioning as a data labelling automation tool to its current positioning as a finished data products company is significant. Labelling automation helped companies create their own data faster. Finished data products means Snorkel creates expert-constructed datasets covering specific domains, capabilities and evaluation benchmarks that frontier AI labs and large enterprises cannot easily produce internally and that take even the most qualified humans hours or days to construct individually. Snorkel AI has built the factory that produces these at scale, reliably, and with the quality controls that frontier model training requires. Also read: Cyera raises $400M from Goldman Sachs for AI agent security and Unit1 raises £15M for digital avatar concerts. Follow every UK startup story at BestStartup UK.\nThe Investor Base Behind the Round\nNew investors in Snorkel AI’s Series E include March Capital, Blumberg Capital, Allegis Capital, Frontline, Standard and Third Point Ventures. Existing investors Greylock, Lightspeed, GV, Addition, Wells Fargo and Walden Catalyst all participated. The participation of Frontline a European venture fund signals that the European and UK investment community is paying close attention to AI infrastructure companies at growth stage, even when those companies are headquartered in San Francisco.\nKey Takeaways\nSnorkel AI raised $350 million Series E at $3.5 billion valuation on September 22 2026. Co-led by Insight Partners and S32. Annualised revenue $375 million eighteenfold increase in 12 months. Builds training datasets, evaluation frameworks and RL environments for frontier AI labs, hyperscalers and large enterprises. Shifted from labelling automation to finished expert data products. UK AI sector worth £16 billion depends on the training data infrastructure Snorkel provides. Frontline, a European fund, joined the round signalling European conviction in frontier AI infrastructure.\nFrequently Asked Questions\nWhat is Snorkel AI and what does it build?\nSnorkel AI is a frontier AI data lab that builds training datasets, evaluation frameworks, synthetic data environments and reinforcement learning setups for AI systems. Its customers include frontier AI labs, hyperscalers and large enterprises globally including those in the UK market.\nHow fast is Snorkel AI growing?\nSnorkel AI’s annualised revenue run rate reached $375 million in September 2026 an eighteenfold increase over the previous twelve months, making it one of the fastest-growing enterprise AI infrastructure companies in the world.\nWhy does this matter for UK AI companies?\nUK AI companies building on or fine-tuning foundation models depend on the training data infrastructure that Snorkel AI provides. The company’s 18x growth signals that frontier AI data is a specialised capability not a commodity that even the largest AI organisations are choosing to outsource to specialists.\nWhere can I follow UK startup and tech news?\nFollow every UK startup funding round and tech story at BestStartup UK updated every week."
+      },
+      {
+        "id": 40229839,
+        "title": "Snorkel AI Raises $350 Million at $3.5 Billion. Revenue Grew 18x in 12 Months. This Is What AI Infrastructure Actually Looks Like. - Best Startup US",
+        "url": "https://beststartup.us/snorkel-ai-350-million-series-e-frontier-ai-data-infrastructure-september-2026/",
+        "publisher": "Beststartup",
+        "published_date": "2026-09-26T18:15:01",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a Series E funding round at a $3.5 billion valuation on September 22, 2026, co-led by Insight Partners and S32. The company reported an annualized revenue run rate of $375 million, marking an eighteenfold increase over the previous twelve months. As a supplier of specialized training datasets and evaluation frameworks for frontier AI labs, Snorkel is expanding capacity to meet growing demand for high-quality AI infrastructure.",
+        "word_count": 876,
+        "original_language": "EN",
+        "author": "Best Startup",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "san francisco",
+            "us"
+          ],
+          "product": [
+            "snorkel ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Every frontier AI model that exists today was trained on data. Every improvement to those models — every new capability, every reduction in hallucination, every increase in reasoning accuracy — required more data, better data, and more precisely constructed training environments. The companies building those frontier models do not build their own training data. They buy it, commission it, and increasingly depend on a small number of specialised suppliers who can deliver the quality and scale they require.\nSnorkel AI is the dominant player in that supply chain. On September 22 2026, the San Francisco company raised $350 million in a Series E at a $3.5 billion valuation, co-led by Insight Partners and S32. Follow every US startup funding story at BestStartup US.\nThe Revenue Number That Explains Everything\nSnorkel AI’s annualized revenue run rate reached $375 million in September 2026. Twelve months earlier, that number was approximately $20 million. That is an eighteenfold increase in twelve months — a growth rate that almost never occurs in enterprise software, and almost certainly never occurs in a company that builds physical infrastructure for AI training rather than a pure software product.\nThe valuation of $3.5 billion represents a 9.3 times revenue multiple — modest by frontier AI standards, aggressive by traditional enterprise software benchmarks. The investor base reflects that positioning. New investors in this round include March Capital, Blumberg Capital, Allegis Capital, Frontline, Standard and Third Point Ventures. Existing investors Greylock, Lightspeed, GV, Addition, Wells Fargo and Walden Catalyst also participated. Read more US AI startup funding stories at BestStartup US.\nWhat Snorkel AI Actually Builds\nSnorkel AI describes itself as the frontier AI data lab. That label is precise. The company builds training datasets, evaluation frameworks, synthetic data environments and reinforcement learning setups for AI systems that require more than generic publicly available data to reach frontier capability.\nThe shift from its original positioning as a labelling automation tool to its current positioning as a finished data products company is significant. Labelling automation helped companies create their own training data faster. Finished data products means Snorkel creates the data itself — expert-constructed datasets covering specific domains, capabilities and evaluation benchmarks that frontier AI labs cannot easily produce internally at the speed and quality they require.\nToday’s frontier and agentic AI systems demand what Snorkel calls Data 2.0 — expert agentic tasks, environments and evaluation rubrics that take even the most qualified humans hours or days to construct individually. Snorkel has built the factory that produces these at scale. Its customers include frontier AI labs, hyperscalers, US government agencies and large enterprises. Follow every AI infrastructure story at BestStartup US.\nWhy This Round Is Different From Every Other AI Round This Week\nThe week of September 21-25 2026 produced dozens of large AI funding rounds. Most of them were bets on AI applications — companies using AI to build products that serve end customers in specific verticals. Snorkel AI is a bet on AI infrastructure — the layer underneath applications, underneath models, underneath everything visible in the AI stack.\nInfrastructure bets are structurally different from application bets. Applications compete on product quality, distribution and brand. Infrastructure competes on reliability, scale and switching costs. Once a frontier AI lab is using Snorkel’s data factory for its training runs, switching to a different supplier means rebuilding the data pipelines, re-establishing quality benchmarks and absorbing months of transition costs. That switching cost is a structural moat that application companies rarely achieve.\nSnorkel’s 18x revenue growth is the commercial proof that frontier AI labs have decided it is the supplier they want. The $350 million round funds the capacity expansion required to serve the next wave of demand as model training cycles accelerate and the number of frontier labs globally continues to grow. Also read: Crusoe raises $3.9B AI infrastructure Series F and Profound raises $180M for AI search visibility. Follow every US startup story at BestStartup US.\nKey Takeaways\nSnorkel AI raised $350 million Series E at $3.5 billion valuation on September 22 2026. Co-led by Insight Partners and S32. Annualized revenue run rate $375 million — eighteenfold increase in 12 months. Builds training datasets, evaluation frameworks and RL environments for frontier AI labs, hyperscalers and US government. Shift from labelling automation to finished data products. Customers include frontier AI labs, hyperscalers and large enterprises. New investors include March Capital, Third Point Ventures, Blumberg Capital. Existing investors Greylock, Lightspeed, GV, Addition and Wells Fargo participated.\nFrequently Asked Questions\nWhat is Snorkel AI and what does it do?\nSnorkel AI is a frontier AI data lab that builds training datasets, evaluation frameworks, synthetic data environments and reinforcement learning setups for AI systems. Its customers include frontier AI labs, hyperscalers and US government agencies.\nHow much did Snorkel AI raise in September 2026?\nSnorkel AI raised $350 million in a Series E at a $3.5 billion valuation on September 22 2026, co-led by Insight Partners and S32, with participation from March Capital, Greylock, Lightspeed, GV, Third Point Ventures and others.\nHow fast is Snorkel AI growing?\nSnorkel AI’s annualized revenue run rate reached $375 million in September 2026, an eighteenfold increase over the previous twelve months — one of the fastest revenue growth rates recorded in enterprise AI infrastructure.\nWhere can I follow US AI startup funding news?\nFollow every US startup funding round and AI ecosystem story at BestStartup US — updated every week."
+      },
+      {
+        "id": 38928260,
+        "title": "Snorkel AI Scores $350M",
+        "url": "https://vcnewsdaily.com/snorkel-ai/venture-capital-funding/ybzpqnctgp",
+        "publisher": "VC News Daily",
+        "published_date": "2026-09-25T12:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation in a round co-led by Insight Partners and S32. The investment will expand its agentic data factory, which supplies data and environments for advanced AI lab systems.",
+        "word_count": 131,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "523150",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [
+            "san francisco, ca"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI Scores $350M Back to Home\n\nShare\n\nSAN FRANCISCO, CA, Snorkel AI, the frontier AI data lab, announced it raised $350 million at a valuation of $3.5B in a round co-led by Insight Partners and S32.\n\nSnorkel AI, the frontier AI data lab, announced it raised $350 million at a valuation of $3.5B in a round co-led by Insight Partners and S32, with significant participation from existing investor Addition.\n\n\n\nThe round included new investors March Capital, Blumberg Capital, Allegis Capital, Frontline, Standard, and Third Point Ventures, along with existing investors Greylock, Lightspeed, GV, Factory, Prosperity7, Walden Catalyst, and Wells Fargo. The investment will expand Snorkel's agentic data factory, which supplies the data and environments behind the world's most advanced AI lab systems.\n\n(c) by Massinvestor, Inc. For contact info, please check out our about page.\n\n\n\n\n\n"
+      },
+      {
+        "id": 38814274,
+        "title": "Snorkel AI's $350M Funding Highlights Industry Shift Toward AI Data Solutions",
+        "url": "https://www.citybiz.co/article/908492/snorkel-ais-350m-funding-highlights-industry-shift-toward-ai-data-solutions/",
+        "publisher": "citybiz",
+        "published_date": "2026-09-24T09:54:20",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation in a Series E led by Insight Partners and S32. The company's annualized revenue run rate reached $375 million, an 18-fold increase, as it expands from data labeling to data-as-a-service.",
+        "word_count": 477,
+        "original_language": "EN",
+        "author": "Win Warfield",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Data Monetization & Data Products Services",
+            "code": "BPAEAHAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005yr",
+            "name": "Google Ventures",
+            "website": "http://www.gv.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "braden hancock",
+            "alex ratner",
+            "paroma varma",
+            "christopher ré",
+            "henry ehrenberg"
+          ],
+          "location": [
+            "new york",
+            "u.s."
+          ],
+          "product": [
+            "micro1",
+            "software",
+            "handshake"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI has raised $350 million in new funding at a $3.5 billion valuation, a jump that reflects how quickly demand for high-quality AI training data has intensified across the industry, according to TechCrunch, and a company announcement from co-founder and CEO Alex Ratner. The Series E round was led by New York’s Insight Partners and S32, formerly known as Section 32, with backing from existing investors including Addition, Lightspeed, Greylock, GV and Wells Fargo. The new valuation is nearly triple the $1.3 billion mark Snorkel reached 17 months ago when it raised a $100 million Series D, underscoring how rapidly investor enthusiasm has shifted toward companies selling the infrastructure behind AI models. Founded from research at a Stanford AI lab, Snorkel launched commercially in 2019 after four years of development. What began as a niche tool for making data labeling more efficient has evolved into a larger bet that the most valuable layer in AI may not just be models, but the data pipelines that feed them. Besides Ratner, the other co-founders of Snorkel AI are Christopher Ré, Paroma Varma, Braden Hancock and Henry Ehrenberg. Ratner completed his Ph.D. at Stanford University and is also an affiliate assistant professor at the University of Washington. Snorkel originally built software to automate data labeling, but the company has since moved into a broader business it describes as data-as-a-service. Instead of selling only tools for humans to label examples, it now delivers finished datasets and reinforcement-learning environments that are assembled through a mix of software, synthetic data generation and subject matter experts. That approach is designed to serve frontier labs, hyperscalers, enterprise customers, vertical AI companies and U.S. government agencies, Ratner said in the company’s announcement. The company said its annualized revenue run rate has reached $375 million, an 18-fold increase over the past year. That growth mirrors a wider boom in the market for AI data providers, as model developers seek more specialized, higher-quality training material to improve performance in increasingly competitive systems. Other startups in the space have also reported striking growth. Mercor said its gross annualized revenue has climbed to $2 billion, Handshake reached $1 billion earlier this year and TechCrunch reported that Micro1 had scaled to $500 million. Those figures, however, do not all mean the same thing. Several of these companies reportedly pay a large share of revenue to the experts doing the work, which means gross revenue can overstate the economic value retained by the business. Snorkel argues its model is different because the payments it makes to experts are reflected in cost of goods sold rather than in the headline annualized revenue figure. That distinction matters for investors comparing fast-growing AI data businesses, particularly as the market expands beyond simple labeling toward more complex products such as finished datasets and simulated environments. [Noah Wire Services helped in the writing of this article.]"
+      },
+      {
+        "id": 38779995,
+        "title": "フロンティアAI向け学習データを作るSnorkel AI、Insight PartnersとS32の共同リードで3.5億ドルを調達——評価額は35億ドル",
+        "url": "https://thebridge.jp/2026/09/snorkel-ai-350m-insight-partners-s32-ai-training-data",
+        "publisher": "Thebridge",
+        "published_date": "2026-09-23T21:41:23",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.527,
+        "ai_summary": "Snorkel AI raised $350 million in a round led by Insight Partners and S32, valuing the company at $3.5 billion. The funds will expand its data factory for frontier AI, with new investors including March Capital and Blumberg Capital. The company provides data-creation services for training AI agents.",
+        "word_count": 49,
+        "original_language": "JA",
+        "author": "BRIDGE 編集部",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Synthetic Data Generation Platforms",
+            "code": "HDAAALAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "54172",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "alex ratner"
+          ],
+          "location": [],
+          "product": [
+            "snorkel ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8705,
+        "group_id": 12035978,
+        "full_text": "フロンティアAI向け学習データを作るSnorkel AI、Insight PartnersとS32の共同リードで3.5億ドルを調達——評価額は35億ドル\nAI 開発向けの学習データを手がける Snorkel AI は現地時間22日、Insight Partners と S32 が共同でリードするラウンドで3億5,000万ドルを調達したと発表した。 評価額は35億ドルで、資 […]\nAI 開発向けの学習データを手がける Snorkel AI は現地時間22日、Insight Partners と S32 が共同でリードするラウンドで3億5,000万ドルを調達したと発表した。\n評価額は35億ドルで、資金はフロンティア AI 向けの「データファクトリー」の拡大に充てる。新規に March Capital、Blumberg Capital、Allegis Capital、Frontline、Standard、Third Point Ventures が加わり、既存投資家の Addition、Greylock、Lightspeed、GV、Factory、Prosperity7、Walden Catalyst、Wells Fargo も参加した。\n画像に写っているものが猫か犬かを人手でラベル付けする。AI 学習データといえば長らくそうした単純作業を指していた。だが、業務を丸ごと任せるエージェント型の AI を鍛えようとすると、話が変わる。\n保険の引受審査を任せるなら、申請書類を読み、社内規程に照らし、必要な追加情報を取りに行き、最後に判断根拠まで書かせる必要がある。どの手順が正しく、どこで間違えたのかを判定できる基準がなければ、そもそも訓練も評価もできない。\n共同創業者兼 CEO の Alex Ratner 氏は、こうした専門家が設計するタスクや環境、採点基準を「Data 2.0」と呼び、人員を増やすだけでは解けない研究課題だと説明している。\nSnorkel AI が提供するのは、その「作り方」ごと請け負うサービスだ。ツールを売って顧客に使ってもらうのではなく、専門家が関与してデータセット、ベンチマーク、評価、環境そのものを構築して納品する形態をとり、研究チームが定義した非独占のデータセットや環境を「Snorkel Data Series」として提供し、四半期ごとに更新すると案内している。\n同社は、良いデータは集めるものではなく作るものだと表現する。具体的には、対象分野の専門家の知見に、タスク設計、プログラムによる自動チェック、校正された専門家レビュー、評価環境を組み合わせ、学習に使える測定可能なシグナルへと変換する。まずモデルがどこで失敗するかを評価し、その失敗に合わせてデータや環境を作り、また評価する。そうした反復を回す運用だと述べている。\n分かりやすいのが「Enterprise environments」と呼ぶ製品群だ。企業の実際の業務フローを高い忠実度で再現した模擬環境の中で、AI エージェントに仕事をさせ、訓練と評価を行う。保険の引受審査を再現した環境では、一度目の試行で正解にたどり着けた割合（pass@1）が10.9%から42.0%へ改善したと同社は自社の計測結果として示している。"
+      },
+      {
+        "id": 38776994,
+        "title": "Snorkel AI triples valuation to $3.5 billion in $350M raise",
+        "url": "https://betanews.com/article/snorkel-ai-350-million-series-e-valuation/",
+        "publisher": "BetaNews",
+        "published_date": "2026-09-23T19:16:02",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI closed $350 million in new funding, valuing the company at $3.5 billion. Annualized revenue run-rate now exceeds $350 million, up from about $20 million a year earlier. The company plans to use the capital for hiring, scaling enterprise and government work, and expanding into new verticals.",
+        "word_count": 447,
+        "original_language": "EN",
+        "author": "Camila Nogueira",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "AI/ML Engineering & Model Development Services",
+            "code": "BPAEAHAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner",
+            "andy harrison"
+          ],
+          "location": [
+            "u.s."
+          ],
+          "product": [
+            "snorkel evaluate"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Share\n\nCEO Alex Ratner said Snorkel AI has closed $350 million in new funding, putting the company's valuation at $3.5 billion as demand from frontier AI labs for increasingly complex training data and simulated environments accelerates. Insight Partners and S32 led the round, and existing backers Addition, Greylock and Wells Fargo also took part. Annualized revenue run-rate at the company now stands above $350 million, compared with roughly $20 million twelve months prior. That new figure is close to triple the $1.3 billion valuation Snorkel carried after its $100 million Series D round in May 2025, a raise that also debuted Snorkel Evaluate alongside an expert data-as-a-service product. Growth remains the priority for now, though Snorkel anticipates turning profitable this year. Plans for the new capital include hiring additional researchers and engineers, scaling up enterprise and government work, and building third-party AI evaluation services, plus expansion into fresh verticals and data categories. The company traces back to 2019, when a group of researchers exited Stanford's AI lab to start it. Snorkel initially sold software for labeling and managing training data before moving toward direct delivery of finished datasets and reinforcement-learning environments, a data-as-a-service line it opened in September 2025. Tens of thousands of specialists across disciplines such as coding, law and medicine make up Snorkel's network, and the company charges for the finished data products this group produces instead of billing hours worked. Ratner said the approach means contributors get paid more generously while margins stay protected. Coding data currently outpaces other categories in demand at the company. Snorkel refers to its offering as an \"agentic data development platform,\" combining human specialists with thousands of purpose-built AI models and agents to construct and verify data quality. Specialists handle the design work, setting scenarios, tasks and grading rubrics, and automated systems take on most of the intensive review labor. Frontier AI labs, hyperscalers, enterprises and the U.S. federal government are among Snorkel's customers, the company said. On the balance between human and automated work, Ratner said human involvement isn't disappearing anytime soon, noting that all the data labs draw real value from will still carry some human input for the foreseeable future, even as the volume of that data increasingly depends on synthetic and automated methods to keep pace with rising complexity. S32 partner Andy Harrison, who co-led the funding round, summed up the shift: \"Data is becoming more rare, more specialized, more difficult to find.\" This funding lands within a wave of investment that followed Meta's $14.3 billion acquisition of a 49 percent stake in Scale AI in June 2025. Competitors Surge AI and Mercor have likewise seen strong investor demand, backed by their own revenue growth.\n\nCategory Article"
+      },
+      {
+        "id": 38773893,
+        "title": "Snorkel AI Raises $350 Million At $3.5 Billion Valuation To Expand Agentic Data Factory",
+        "url": "https://pulse2.com/snorkel-ai-raises-350-million-at-3-5-billion-valuation-to-expand-agentic-data-factory/",
+        "publisher": "Pulse 2.0",
+        "published_date": "2026-09-23T17:39:25",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation in a round co-led by Insight Partners and S32. The funding will expand its agentic data factory, which supplies datasets and evaluation frameworks for advanced AI systems. The company plans to extend its Data-as-a-Service into healthcare, law, and software engineering.",
+        "word_count": 607,
+        "original_language": "EN",
+        "author": "Amit Chowdhry",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5417",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner",
+            "andy harrison",
+            "lonne jaffe"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9835,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI, a San Francisco-based company developing advanced data infrastructure for artificial intelligence, has raised $350 million at a $3.5 billion valuation in a financing round co-led by Insight Partners and S32. Existing investor Addition also participated significantly. The funding will support the expansion of Snorkel’s agentic data factory, which supplies the specialized datasets, environments, and evaluation frameworks used to train and assess increasingly sophisticated AI systems.\n\nNew investors in the round include March Capital, Blumberg Capital, Allegis Capital, Frontline, Standard, and Third Point Ventures.\n\nExisting investors Greylock, Lightspeed, GV, Factory, Prosperity7, Walden Catalyst, and Wells Fargo also participated.\n\nSnorkel plans to use the financing to increase its capacity to serve leading AI laboratories and enterprises while extending its research and technology into additional industries, AI modalities, and applications.\n\nFounded in 2019 out of the Stanford AI Lab, Snorkel develops tools and services for building the specialized data required to improve advanced AI systems.\n\nThe company is expanding beyond conventional data labeling, which typically involves assigning categories or other relatively simple annotations to existing information.\n\nIts newer offerings focus on what Snorkel describes as Data 2.0, an approach designed for advanced and agentic AI models that must complete complex, multistep tasks.\n\nThese systems require sophisticated training and evaluation materials, including realistic task environments, expert-developed instructions, and detailed assessment criteria.\n\nCreating such materials can take highly qualified specialists hours or days, particularly in industries where accurate outcomes depend on substantial professional knowledge.\n\nSnorkel’s agentic data factory combines expert human involvement with proprietary technology to produce these research-grade datasets and evaluation environments at greater scale.\n\nThe company works with leading AI laboratories and enterprises on data used for frontier model training, evaluation, and performance measurement.\n\nIts expert Data-as-a-Service offering, launched in September 2025, addresses the growing demand for specialized data development among organizations building advanced AI systems.\n\nSnorkel intends to expand this business into additional high-value sectors, including healthcare, law, and software engineering.\n\nThese industries require AI systems to perform complex tasks involving specialized knowledge, detailed reasoning, and accurate responses to information that may evolve throughout a workflow.\n\nThe new funding will also support development of Snorkel’s core research capabilities and enable the company to expand into additional types of data and model architectures.\n\nSnorkel’s founding team has made extensive contributions to data-centric artificial intelligence. According to the company, its research includes more than 250 peer-reviewed papers with over 25,000 citations.\n\nThe company plans to continue supporting open research through initiatives such as its Open Benchmarks Grants program, which encourages the development of publicly available AI evaluation resources.\n\nThe financing provides additional resources as Snorkel expands its role in the development of training and evaluation infrastructure for frontier and enterprise AI.\n\nKEY QUOTES:\n\n“The teams pushing the frontier want a research data partner who pioneers the science of data development. That’s what Snorkel was built to be: the frontier lab for agentic data, combining human excellence with over a decade of research and technology.”\n\nAlex Ratner, Co-Founder and CEO of Snorkel AI\n\n“Snorkel’s research-grade approach to AI data, environments, and measurement is becoming an increasingly important ingredient in building capable and reliable AI systems – and their demonstrated growth at scale reflects that. We’re excited to back Alex and the team as they continue to bring their frontier AI data factory capabilities to longer-running, complex work in high value industries like healthcare, law, and software engineering.”\n\nLonne Jaffe, Managing Director at Insight Partners\n\n“Snorkel’s expert-agentic environments create a unique flywheel between human expertise and AI, delivering data at the speed and quality that enables a new era of efficiency and accuracy for model development. Working with Snorkel ensures the highest frontier model success rate and creates a true partnership between model developer and data provider.”\n\nAndy Harrison, CEO and General Partner of S32"
+      },
+      {
+        "id": 38754847,
+        "title": "Snorkel AI, 3.5 milyar dolar değerlemeyle 350 milyon dolar yatırım aldı",
+        "url": "https://swipeline.co/snorkel-ai-3-5-milyar-dolar-degerlemeyle-350-milyon-dolar-yatirim-aldi/",
+        "publisher": "Swipeline",
+        "published_date": "2026-09-23T12:41:30",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9608,
+        "ai_summary": "Snorkel AI raised $350 million in a Series E round led by Insight Partners and S32, valuing the company at $3.5 billion. The company, which provides data labeling and simulation environments, reported annualized revenue growth of 18 times to $375 million in the past year.",
+        "word_count": 140,
+        "original_language": "TR",
+        "author": "Serpil Ergül",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005yr",
+            "name": "Google Ventures",
+            "website": "http://www.gv.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          },
+          {
+            "code": "04000000",
+            "name": "economy, business and finance"
+          },
+          {
+            "code": "20000378",
+            "name": "investments"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "627",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          },
+          {
+            "code": "5417",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7310",
+            "name": "SERVICES-ADVERTISING"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "snorkel ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.8636,
+        "group_id": 12035978,
+        "full_text": "Yapay zeka şirketlerine eğitim verisi ve simülasyon ortamları sağlayan Snorkel AI, Insight Partners ve S32 liderliğinde gerçekleşen Seri E turunda 3.5 milyar dolar değerleme üzerinden 350 milyon dolar yatırım aldı. Tura, girişimin mevcut yatırımcıları Addition, Lightspeed, Greylock, GV ve Wells Fargo da katıldı.\n\n2019'da Stanford'daki bir yapay zeka laboratuvarında yürütülen dört yıllık araştırmanın ardından faaliyete geçen Snorkel AI, ilk döneminde veri etiketleme süreçlerini otomatikleştiren bir yazılım geliştiriyordu. Girişim, geçen yıl iş modelinde değişikliğe giderek müşterilerine doğrudan tamamlanmış veri setleri sunmaya başladı.\n\nSnorkel AI, yeni yaklaşımını \"hizmet olarak veri\" (data-as-a-service) olarak tanımlıyor. Yalnızca insan uzmanları müşterilerle buluşturan bir pazar yeri modelinden farklı olarak kendi yazılım ve modellerini kullanarak sentetik veri üretiyor ve süreçlere alan uzmanlarını da dahil ediyor.\n\nYapay zeka laboratuvarları ve şirketlerin yüksek kaliteli eğitim verisine yönelik talep artışıyla birlikte yıllıklandırılmış gelir hızı, son 12 ayda 18 kat artarak 375 milyon dolara ulaştı."
+      },
+      {
+        "id": 38748991,
+        "title": "Snorkel AI Raises $350 Million To Build Data Factory for Frontier AI Labs",
+        "url": "https://ventureburn.com/snorkel-ai-raises-350-million-data-factory-frontier-ai/",
+        "publisher": "Ventureburn",
+        "published_date": "2026-09-23T11:21:39",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a round co-led by Insight Partners and S32, valuing the company at $3.5 billion. The startup's revenue run rate crossed $350 million after launching Expert Data-as-a-Service in September 2025. The funds will expand its agentic data factory for frontier AI labs.",
+        "word_count": 655,
+        "original_language": "EN",
+        "author": "Ekemini September",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Synthetic Data Generation Platforms",
+            "code": "HDAAALAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00028b1",
+            "name": "Blumberg Capital",
+            "website": "http://www.blumbergcapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000063s",
+            "name": "Frontline Ventures",
+            "website": "https://www.frontline.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00029tk",
+            "name": "Allegis Capital",
+            "website": "https://www.allegiscapital.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner",
+            "ekemini"
+          ],
+          "location": [
+            "europe",
+            "us"
+          ],
+          "product": [
+            "expert data-as-a-service"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI Raises $350 Million To Build Data Factory for Frontier AI Labs\n\nBy Ekemini 23 September 2026\n\nKey Takeaways Snorkel AI secures $350M in a round co-led by Insight Partners and S32.\n\nThe startup leverages decade-long Stanford research to deliver programmatically constructed datasets for enterprise deployment.\n\nThe investment targets scaling agentic data factories for training complex frontier artificial intelligence systems.\n\nAI models study data. Lots and lots of data. It was easier to train AI in the old days, but now, AI has progressed. More than labeling photos, you can now use AI to do virtually everything. So, it makes sense to create better and harder training models for today’s AI models. Snorkel AI raises $350 million to do this. This is what most people now call Data 2.0. Snorkel Raises $350M for The Data 2.0 Shift Snorkel AI announced it raised $350 million. The round was co-led by Insight Partners and S32, with a lot of help from existing investor Addition. New investors like March Capital, Blumberg Capital, Allegis Capital, Frontline, Standard, and Third Point Ventures also jumped in. Old investors like Greylock, Lightspeed, GV, Factory, Prosperity7, Walden Catalyst, and Wells Fargo joined too. With this new round, the company’s value stands at $3.5 billion. One year ago, its value stood at $1.3 billion after a successful raise of $100 million. Snorkel says its yearly revenue run rate has now crossed $350 million, all thanks to the launch of Expert Data-as-a-Service in September 2025. More Updates: Spott Raises $21M To Build AI Operating System for Recruiters How Does Snorkel AI Work? Imagine you want to turn an AI into a really good lawyer. You need two things. One, real lawyers who know how to create hard legal cases and write the correct answers and grading rules. Two, you need a way to check all that work fast and at scale. Snorkel built what they call an agentic data factory. It pairs tens of thousands of human experts with thousands of specialized AI agents. The human experts design the hard scenarios, the tasks, and the rubrics, meaning how to grade if the AI did it right. Then their own AI does the boring quality check work to make sure everything is perfect. So humans bring the brains, AI brings the speed. And the best part for the experts is how they get paid. Most old labeling companies pay people by the hour. Snorkel says they do not sell human labor; they sell the final data product. That lets them pay the experts way better while still keeping good profit for themselves. CEO Alex Ratner said the teams building the most advanced AI right now do not want just a vendor who gives them cheap labels. They want a research partner who actually understands the science of how to make good data. And that is what Snorkel wants to be, the frontier lab for data. This research has been on for over ten years, with hundreds of published papers already cited over 25,000 times. More Updates: HighLife Raises $90M For Europe Expansion and Study Who Are They Selling To? They’re selling to everyone who is serious about AI. Top AI labs, big cloud companies, new AI startups, big companies building their own AI, and even US government agencies. This is because everyone now has the same problem. Their models are getting so good that the simple data is no longer useful. They need harder and harder tests to keep improving. The $350 million will be used to expand its agentic data factory even more. More experts, more AI agents, and more complex environments where AI can practice. More Updates: Rainmaker Raises $100M to Turn Cloud Seeding Into Freshwater Production\n\nEkemini I'm a crypto writer with 4+ years of experience passionate about turning big, technical ideas into content anyone can understand. From blockchain to stablecoins to everything in between, I enjoy helping readers stay informed in a space that never stops moving."
+      },
+      {
+        "id": 38752715,
+        "title": "Snorkel AI Triples Valuation to $3.5B on Training Data Demand",
+        "url": "https://www.techjuice.pk/snorkel-ai-3-5-billion-valuation-training-data/",
+        "publisher": "TechJuice",
+        "published_date": "2026-09-23T11:15:04",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in Series E funding on September 22, tripling its valuation to $3.5 billion. The data startup's annualized revenue run rate is $375 million, an eighteenfold increase over the past year. The company pivoted to data-as-a-service, combining synthetic data with expert contributions.",
+        "word_count": 291,
+        "original_language": "EN",
+        "author": "Abdul Wasay",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Synthetic Data Generation Platforms",
+            "code": "HDAAALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": false
+          },
+          {
+            "name": "Data Monetization & Data Products Services",
+            "code": "BPAEAHAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005yr",
+            "name": "Google Ventures",
+            "website": "http://www.gv.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000005e",
+            "name": "Mercor",
+            "website": "https://mercor.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "518210",
+            "name": "Information"
+          },
+          {
+            "code": "518",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "7311",
+            "name": "SERVICES-ADVERTISING AGENCIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "alex ratner"
+          ],
+          "location": [],
+          "product": [
+            "micro1"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI raised $350 million in Series E funding on September 22. The data startup tripled its valuation to $3.5 billion in just seventeen months. This remarkable growth reflects an urgent crisis consuming the AI industry globally. Frontier models now hunger for training data faster than companies can provide it.\n\nInsight Partners and S32 led the round alongside existing investors Addition, Lightspeed, Greylock, GV, and Wells Fargo. The seven-year-old startup originally provided software automating manual data labeling tasks. However, Snorkel shifted strategy last year toward data-as-a-service, delivering completed datasets directly. This pivot proved transformative for company growth and margins significantly.\n\nThe hybrid approach combines synthetic data generated by Snorkel’s models with subject matter expert contributions. This strategy differs fundamentally from pure human labor marketplaces operating today. Snorkel’s annualized revenue run rate now stands at $375 million. This represents an eighteenfold increase over the previous twelve months alone. Such explosive growth underscores how desperately AI labs need training data access.\n\nCompeting data companies are experiencing similar trajectories now. Mercor achieved $2 billion in gross annualized revenue. Handshake crossed the $1 billion milestone earlier this year. Micro1 scaled to $500 million gross run rate recently.\n\nHowever, these figures merit careful interpretation because these companies pay 60-70% directly to domain specialists doing the work. Snorkel operates differently through its hybrid model structure. Its payments to human experts land in cost of goods sold rather than inflating headline revenue metrics.\n\nCEO Alex Ratner co-founded Snorkel following four years researching at Stanford’s AI lab. The company launched commercially in 2019 with this academic foundation. Since then, Snorkel built deep relationships with major AI labs and corporations worldwide.\n\nAs frontier models scale toward trillion-parameter scales, training data demand grows exponentially. Snorkel positioned itself perfectly to capture this expanding opportunity through innovative data strategies."
+      },
+      {
+        "id": 38742181,
+        "title": "Insight Partners, S32 back Snorkel AI at $3.5B valuation with $350M raise — TFN",
+        "url": "https://techfundingnews.com/insight-partners-s32-back-snorkel-ai-at-3-5b-valuation-with-350m-raise/",
+        "publisher": "Tech Funding News",
+        "published_date": "2026-09-23T08:51:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation, nearly triple its price 17 months ago. Its annualized revenue jumped from about $20 million to over $350 million in a year. The company expects to turn a profit this year.",
+        "word_count": 572,
+        "original_language": "EN",
+        "author": "Abhinaya Prabhu",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Synthetic Data Generation Platforms",
+            "code": "HDAAALAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005yr",
+            "name": "Google Ventures",
+            "website": "http://www.gv.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00003ko",
+            "name": "Third Point Ventures",
+            "website": "http://www.thirdpointventures.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000086d",
+            "name": "March Capital",
+            "website": "http://www.marchcp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20001370",
+            "name": "financial service"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "51821",
+            "name": "Information"
+          },
+          {
+            "code": "518",
+            "name": "Information"
+          },
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7310",
+            "name": "SERVICES-ADVERTISING"
+          }
+        ],
+        "entities": {
+          "person": [
+            "chris ré",
+            "braden hancock",
+            "alex ratner",
+            "paroma varma",
+            "henry ehrenberg",
+            "andy harrison"
+          ],
+          "location": [
+            "us"
+          ],
+          "product": [
+            "snorkel ai",
+            "surge ai",
+            "scale ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "- Snorkel AI raised $350 million at a $3.5 billion valuation, nearly triple its price 17 months ago.\n- Its annualised revenue jumped from roughly $20 million to more than $350 million in a year.\n- The round underlines a broader shift: AI labs now pay for finished, expert-built data.\nSnorkel AI just got a lot more expensive, and it’s not because it labels data faster than anyone else anymore. The company, which used to sell software for tagging training data, now builds and sells the finished datasets and simulated work environments that frontier labs train their models on.\nThat pivot has taken its annualised revenue from around $20 million a year ago to more than $350 million now, and investors have responded by tripling its valuation to $3.5 billion in a $350 million round.\nInsight Partners and S32 co-led the raise, with existing backers Addition, Greylock, Wells Fargo, Lightspeed, GV and several others returning, alongside new investors including March Capital and Third Point Ventures. It brings Snorkel to nearly three times the $1.3 billion valuation it held after its $100 million round in May 2025.\nFrom labelling software to a data factory\nSnorkel was founded in 2019 by Alex Ratner, Chris Ré, Paroma Varma, Braden Hancock and Henry Ehrenberg, spinning out of Stanford’s AI Lab, where Ratner and Ré had built the original open-source Snorkel project. For years, the company sold tools that let enterprises label their own data.\nSince launching a data-as-a-service business in September 2025, it has flipped that model: human specialists across coding, law and medicine now design tasks and grading rubrics, while a layer of AI models automates quality control, producing datasets and reinforcement-learning environments it sells directly to labs, hyperscalers, enterprises and the US federal government.\n“Our strong view is that 100% of the data that labs will get value out of will have some human input in the foreseeable future. But 100% of that data will have to use synthetic and automated approaches to keep up with this complexity ,” said Ratner.\nThe data race is getting more competitive\nSnorkel isn’t the only one cashing in on labs running out of usable internet text. Scale AI raised $1 billion at close to a $14 billion valuation before Meta later bought a 49% stake worth roughly $14.3 billion. Mercor went from a $30 million seed round to a $10 billion valuation on a similar bet, and has since been in talks to double that again. Surge AI, meanwhile, was reportedly weighing a first-ever outside raise at north of $25 billion.\nSnorkel’s pitch against that crowd is that it designs the tasks and grades the output, which is a harder thing to compete away on price.\nSnorkel says the capital will fund more researchers and engineers, expand its enterprise and government business, support third-party model evaluations, and push into new industries and data formats. It expects to turn a profit this year.\n“Data is becoming more rare, more specialized, more difficult to find. If you want to train the most frontier, complex and capable models, now you need superior data,” said Andy Harrison, partner at S32 who co-led the funding.\nIf the last 18 months were about labs discovering they’d run out of internet to scrape, the next stretch is about who gets paid to manufacture what’s missing. Snorkel just put $3.5 billion that it can be the one doing the manufacturing — the harder question is whether that job stays defensible once every well-funded rival is building the same expert-plus-AI pitch."
+      },
+      {
+        "id": 38750005,
+        "title": "Snorkel AI Raises $350M Series E",
+        "url": "https://www.thesaasnews.com/news/snorkel-ai-raises-350m-series-e/",
+        "publisher": "The SaaS News",
+        "published_date": "2026-09-23T06:10:26",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI closed a $350 million Series E funding round at a $3.5 billion valuation, led by Insight Partners and S32. The company will use the capital to scale its data-as-a-service offerings for AI training data. The round was announced on September 22, 2026.",
+        "word_count": 217,
+        "original_language": "EN",
+        "author": "Ben Murray",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00005yr",
+            "name": "Google Ventures",
+            "website": "http://www.gv.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000003d",
+            "name": "Lightspeed Venture Partners",
+            "website": "http://lsvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001371",
+            "name": "business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner"
+          ],
+          "location": [
+            "united states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Snorkel AI raises $350M in Series E funding at a $3.5B valuation led by Insight Partners and S32 to expand its AI training data platform.\n\nSnorkel AI Raises $350M Series E at $3.5B Valuation\n\nSnorkel AI, based in the United States, is a startup that provides software and services to help corporations and AI labs build training datasets and simulated environments. The company has successfully closed a $350 million Series E funding round, which places its valuation at $3.5 billion.\n\nInvestors\n\nThe funding round was led by Insight Partners and S32. Additional investors participating in the round included Addition, Lightspeed, Greylock, GV, and Wells Fargo.\n\nSnorkel AI Use of Funds\n\nSnorkel AI plans to use the fresh capital to support its ongoing growth as it scales its data-as-a-service offerings to meet the increasing demand for high-quality AI training data.\n\nAbout Snorkel AI\n\nFounded in 2019, Snorkel AI was established by CEO Alex Ratner and his research team following years of work at a Stanford University AI lab. The company provides a data-centric AI platform that helps organizations programmatically label, build, and manage data for machine learning models, recently expanding into providing complete synthetic and expert-curated datasets.\n\nFunding Details\n\nCompany Website: https://snorkel.ai\n\nCompany: Snorkel AI\n\nRaised: $350M\n\nRound: Series E\n\nFunding Date: September 22, 2026\n\nLead Investor: Insight Partners, S32\n\nAdditional Investors: Addition, Lightspeed, Greylock, GV, Wells Fargo\n\nCompany Website: https://snorkel.ai\n\nSoftware Category: Artificial Intelligence\n\nSource: https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      },
+      {
+        "id": 38725610,
+        "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
+        "url": "https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/",
+        "publisher": "SiliconANGLE",
+        "published_date": "2026-09-23T00:30:49",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a Series E round led by Insight and S32, valuing the company at $3.5 billion. The training-data provider pivoted to selling ready-to-use datasets and expanded into reinforcement learning, crossing a $375 million annualized revenue run rate. It will use the funds to hire engineers and invest in AI safety and open-source benchmarks.",
+        "word_count": 641,
+        "original_language": "EN",
+        "author": "Maria Deutscher",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Dataset Discovery, Marketplaces & Licensing",
+            "code": "HDAAALAE",
+            "is_primary": true
+          },
+          {
+            "name": "Fine-Tuning, Adaptation & Custom Model Training (PEFT/LoRA/RLHF)",
+            "code": "HDAAACAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000052s",
+            "name": "Alphabet",
+            "website": "https://abc.xyz",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "blog_post",
+          "label": "Blog post"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000170",
+            "name": "business information"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "john furrier",
+            "dave vellante",
+            "alex ratner"
+          ],
+          "location": [],
+          "product": [
+            "snorkel flow",
+            "thecube",
+            "thecubeai.com"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "Training data provider Snorkel AI raises $350M at $3.5B valuation\nSnorkel AI Inc., a provider of artificial intelligence training data, today disclosed that it has raised $350 million in funding.\nInsight and S32 led the Series E deal. They were joined by more than a half-dozen other backers including Alphabet Inc.’s GV startup fund.\nSnorkel AI was founded in 2019 by researchers from the Stanford AI Lab. Its first product was Snorkel Flow, a software platform that reduced the amount of work involved in supervised learning projects. Supervised learning is an AI development method that trains neural networks using labeled datasets. Such files comprise prompts and correct, human-generated answers to those prompts.\nCreating labeled datasets is a highly time-consuming process. Snorkel Flow automated the process using statistical methods developed by the company’s founders at Stanford. According to Snorkel AI, those methods addressed the accuracy issues that made earlier automation approaches ineffective.\nLast year, the company changed its business model. It pivoted from selling software that helps developers create training data to providing ready-to-use training datasets. Additionally, Snorkel AI expanded its focus beyond supervised learning to a second, more complex AI training approach known as reinforcement learning.\nWhereas supervised learning uses datasets that contain prompts and correct answers to those prompts, reinforcement learning datasets contain unanswered questions. The AI model being trained must figure how to answer them without any human assistance. Once it produces a response, human reviewers or an automated system verify its accuracy. They then provide the AI with feedback that helps improve its reasoning.\nSnorkel AI relies on tens of thousands of human experts to generate reinforcement learning training tasks. The company also provides customers with other technical assets that are needed for AI training runs.\nWhen an AI model completes a reinforcement learning task, human reviewers check its work based on predefined evaluation criteria. Those criteria can span several pages. In the case of a programming task, for example, the evaluation guidance must cover all the cybersecurity and performance requirements that AI-generated code must meet.\nSnorkel AI develops AI evaluation rubrics for customers. Furthermore, it improves those rubrics over time based on feedback from the human AI reviewers who use them. Some of that feedback is generated when two human reviewers give different scores to an AI prompt response. Such differences usually point to an inconsistency in the underlying evaluation criteria.\nAI models are often trained in specialized virtual environments. A code generation model, for example, might require a simulated version of a developer workstation. Snorkel AI provides such as training sandboxes alongside its datasets and evaluation rubrics.\n“Since launching our new data-as-a-service offering nearly a year ago, we’ve grown over 18 times, and this week crossed an annualized revenue run rate of $375 million,” co-founder and Chief Executive Officer Alex Ratner detailed in a blog post.\nThe company will reportedly use its newly raised funding to hire more engineers. Snorkel AI also plans to invest in AI safety initiatives and support the development of open-source model evaluation benchmarks.\nImage: Unsplash\nA message from John Furrier, co-founder of SiliconANGLE:\nSupport our mission to keep content open and free by engaging with theCUBE community. Join theCUBE’s Alumni Trust Network, where technology leaders connect, share intelligence and create opportunities.\n- 15M+ viewers of theCUBE videos, powering conversations across AI, cloud, cybersecurity and more\n- 11.4k+ theCUBE alumni — Connect with more than 11,400 tech and business leaders shaping the future through a unique trusted-based network\nAre you an AWS customer? Support SiliconANGLE financially by buying your AWS services from our Marketplace portal page and links: https://siliconangle.com/aws-marketplace/\nAbout SiliconANGLE Media\nFounded by tech visionaries John Furrier and Dave Vellante, SiliconANGLE Media has built a dynamic ecosystem of industry-leading digital media brands that reach 15+ million elite tech professionals. Our new proprietary theCUBE AI Video Cloud is breaking ground in audience interaction, leveraging theCUBEai.com neural network to help technology companies make data-driven decisions and stay at the forefront of industry conversations."
+      },
+      {
+        "id": 38720184,
+        "title": "The pivot behind Snorkel AI's $3.5 billion valuation",
+        "url": "https://www.ainvest.com/news/pivot-snorkel-ai-3-5-billion-valuation-2609/",
+        "publisher": "AInvest",
+        "published_date": "2026-09-22T23:26:35",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8951,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation, nearly tripling its May 2025 valuation. Its annualized revenue run-rate crossed $350 million, up from about $20 million a year earlier, after pivoting to data-as-a-service. The company expects to reach profitability this year, but renewal risk remains.",
+        "word_count": 759,
+        "original_language": "EN",
+        "author": "Anders Mirofollow",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Data Monetization & Data Products Services",
+            "code": "BPAEAHAL",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "02im848",
+            "name": "Meta Platforms",
+            "website": "https://about.facebook.com/meta",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "04000000",
+            "name": "economy, business and finance"
+          },
+          {
+            "code": "20001365",
+            "name": "business reporting and performance"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52399",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "51821",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          },
+          {
+            "code": "6159",
+            "name": "MISCELLANEOUS BUSINESS CREDIT INSTITUTION"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "redwood city"
+          ],
+          "product": [
+            "scale ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9932,
+        "group_id": 12035978,
+        "full_text": "The headline number hides the one that matters. Snorkel AI, a Redwood City data startup spun out of the Stanford AI lab, raised $350 million in fresh funding at a $3.5 billion valuation, nearly triple the $1.3 billion valuation investors set in May 2025. But the figure underneath is the striking one: its annualized revenue run-rate crossed $350 million this year, up from roughly $20 million a year earlier. A company does not grow like that by doing more of the same. It grew like that by changing what it sells.\n\nFor most of its life, Snorkel sold software861053--. Its programmatic labeling tools — which let a data team turn an expert's rules into training data instead of hand-annotating every example — built a respectable enterprise business and, in May 2025, a $100 million round led by Addition. Then, in September 2025, it added a \"data-as-a-service\" offering: finished datasets and reinforcement-learning environments, sold as products rather than as a tool to build them. That pivot is the entire story of the tripling. What changed is not just the growth rate but what the revenue line measures and who pays for it.\n\nThe new customers are the most concentrated, best-capitalized buyers in technology: frontier AI labs, hyperscalers, enterprises, and the U.S. federal government. Demand has centered on coding data, with law and medicine behind it. To produce it, Snorkel draws on a network of tens of thousands of specialists in those fields, working alongside a fleet of specialized AI agents.\n\nHere is where a careful reader should slow down, because one accounting choice does real work. Snorkel does not charge customers for human labor. It sells the finished data, and payments to its experts sit in cost of goods sold — below the revenue line. Its $350 million run-rate is therefore a top-line figure: that largest cost is recorded as an expense below the revenue line, not subtracted from the headline number. Not every rival reports it that way: the pass-through competitors in this space hand 60% to 70% of their top-line income to outside specialists, so a same-sized gross number from one of them overstates how much value it keeps. This is part of why Snorkel expects to reach profitability this year even while growing this fast.\n\nThe catch is that it is still a services business, and a services business captures value only as long as the customer keeps buying. The cleanliness of the accounting does not tell you whether a frontier lab will renew at these prices a year from now — whether Snorkel's data measurably improves its models, or whether a customer worth tens of billions decides it would rather own the capability. That last risk is live. Meta's June 2025 purchase of a 49% stake in Scale AI for $14.3 billion shows how high the data bottleneck has risen, and how willing the biggest AI spenders are to buy their way into it. The concentration that makes Snorkel's customers rich enough to pay also makes them powerful enough to internalize the work or fund a competitor.\n\nWork through the arithmetic and the round looks ordinary for the category. A $3.5 billion valuation against a $350 million run-rate is roughly ten times revenue, unremarkable for a hypergrowth AI infrastructureAIIA-- name. The valuation tripled not because ten times became extraordinary but because the revenue in the denominator grew about seventeenfold in a year. An investor's honest question is not whether the multiple is rich. It is whether the revenue is real and repeatable. It is real in that customers pay for finished data. Its repeatability is unproved, because a year-old services run-rate sold to a handful of hyperconcentrated buyers has not yet been tested through a single renewal cycle.\n\nThe round is a signal about the AI stack even for investors who will never own a share of Snorkel. Value has been sliding from raw compute toward the data that decides how good a model actually is, and a company that spent years as a modest labeling tool just converted that position into more than $350 million of annualized revenue in a year. The bullish case is a flywheel — human expertise training specialized agents that make the next dataset cheaper and better, so each renewal gets harder to walk away from. The case that fails it is a services business whose revenue rests on a few laboratories that could, at sufficient scale, build the capability themselves. What separates the two is not the tripled valuation but the one thing nine months of new revenue cannot yet show: whether the customers come back."
+      },
+      {
+        "id": 38720181,
+        "title": "Snorkel AI's $3.5 Billion Round Looked Like a Re-Rating — It Was Actually a Discount",
+        "url": "https://www.ainvest.com/news/snorkel-ai-3-5-billion-looked-rating-discount-2609/",
+        "publisher": "AInvest",
+        "published_date": "2026-09-22T23:23:29",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5247,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation, co-led by Insight Partners and S32. The company's annualized revenue crossed $350 million, down from $20 million a year prior, making the round a discount on sales. It expects to reach profitability this year.",
+        "word_count": 790,
+        "original_language": "EN",
+        "author": "Julian Cruzfollow",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Data Labeling & Annotation Services",
+            "code": "HDAAALAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000042p",
+            "name": "Greylock",
+            "website": "https://www.greylock.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002a3",
+            "name": "Addition",
+            "website": "https://addition.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000rt",
+            "name": "Wells Fargo",
+            "website": "http://www.wellsfargo.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "snorkel flow",
+            "palantirpltr--"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.897,
+        "group_id": 12035978,
+        "full_text": "After the close on Monday, private AI data company Snorkel AI said it had raised $350 million in fresh funding at a $3.5 billion valuation, in a round co-led by Insight Partners and S32, with existing investors Addition, Greylock and Wells Fargo participating.\n\nOn its face that reads like a startup in escape velocity — nearly three times the $1.3 billion Snorkel fetched in its May 2025 round. But the more revealing math sits underneath, because on a sales basis the company actually got cheaper.\n\nHere is the ledger. Annualized revenue has crossed $350 million, up from approximately $20 million a year prior. Divide today's $3.5 billion valuation by that roughly $350 million run-rate and you get about 10 times sales. Run the same divide on the May 2025 round — $1.3 billion on roughly $20 million of revenue — and you're at about 65 times. In absolute dollars the company nearly tripled in value; on revenue it de-rated by a factor of more than six. That is not the shape of a bubble round. It's the shape of a company that grew into its number.\n\nThe reason the number moved so fast is that the business itself changed. Snorkel was founded in 2019 by Stanford AI lab researchers and built its name on software861053-- — Snorkel Flow, a programmatic data-labeling platform. For years that software model produced only modest revenue. Then, in September 2025, the company launched a data-as-a-service business: instead of selling tools, it began selling finished datasets and reinforcement-learning environments, and it sells the resulting data products rather than charging for human labor.\n\nThe pivot was a genuine break, not a cosmetic one. Right around that same launch, Snorkel cut 31 of about 240 employees — roughly 13% of the workforce — with software engineers hit hardest, as the company said it was deprioritizing legacy areas. You don't lay off your software engineers the month after launching the product you were built around unless the old model wasn't scaling. The layoff and the launch describe the same event from two directions.\n\nAll of which points at the question that matters for anyone sizing the AI data theme: is this data-as-a-service a product, or a services business in disguise? The bull case is that it leans toward product. Snorkel combines teams of human experts in coding, law and medicine with specialized AI models and agents for quality control, then sells the finished data; it does not bill for headcount. Cost it favorably and that could carry software-like margins, and Reuters reports the company expects to reach profitability this year.\n\nThe bear case is that any business built around expert humans carries heavier costs than a pure software license, and the public AI complex makes that tension visible. PalantirPLTR--, the closest big public AI software name, trades at roughly 72 times trailing sales with a gross margin near 85%, as of Monday's close. Against that, Snorkel at about 10 times forward run-rate looks cheap — but Palantir sells software and Snorkel sells data with a human-expert layer inside it. A discount to 72 times sales doesn't automatically mean fair value if the cost structure never reaches software margins. The whole gap between Snorkel's single-digit multiple and Palantir's 70-plus is a wager on how productized, and how margin-rich, \"expert data\" can actually get.\n\nFor an ordinary retail reader, the honest caveat is that you cannot buy Snorkel — it is privately held, and none of this re-rating is capturable in a brokerage account. What the round is, then, is a live data point on the AI supply chain: the market increasingly treats high-quality training and evaluation data as the binding constraint on frontier models, and it is willing to pay for the companies that produce it. The public way to express that bet runs through the AI software names, which already carry far richer multiples — so a private raise at about 10 times run-rate either validates the theme or is a reminder of how extended the public AI complex has become. It can be both.\n\nWhen I rank the live issues here, valuation is not the one that worries me. At roughly 10 times a growing, near-breakeven run-rate, the price looks defensible even if the dollar figure in the headline is big. The larger question is the durability and the margins of the data-as-a-service model, which is barely a year old and, by the company's own accounting, only just approaching profitability. I'd take the round as real evidence that the AI data layer is a competitive bottleneck worth watching, but I'd want to see proof that a human-expert data business can hold software-like margins across a few more quarters of scale before giving it the benefit of the doubt. Profitability is expected this year, not yet delivered."
+      },
+      {
+        "id": 38720188,
+        "title": "Snorkel AI tripled its valuation — and got cheaper per dollar of revenue",
+        "url": "https://www.ainvest.com/news/snorkel-ai-tripled-valuation-cheaper-dollar-revenue-2609/",
+        "publisher": "AInvest",
+        "published_date": "2026-09-22T23:22:51",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million at a $3.5 billion valuation, tripling its prior $1.3 billion price. Revenue grew over 18x to about $350 million, cutting the multiple from 65x to 10x. The company expects profitability this year, with future valuation depending on sustaining high-margin growth.",
+        "word_count": 746,
+        "original_language": "EN",
+        "author": "Ainvest Coin Buzzfollow",
+        "countries": [],
+        "industries": [
+          {
+            "name": "B2B SaaS & Enterprise Personalization (CRM, Sales, Support)",
+            "code": "HDAAAGAJ",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": true
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001370",
+            "name": "financial service"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52315",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "523150",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "aime"
+          ],
+          "location": [
+            "u.s."
+          ],
+          "product": [
+            "snorkel ai",
+            "snorkel"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "News/ Technology/ NSIT/ Articles Details\n\nSnorkel AI tripled its valuation — and got cheaper per dollar of revenue Generated by Ainvest Coin Buzz Reviewed by The Newsroom Tuesday, Sep 22, 2026 7:22 pm ET 2min read NSIT -- Aime Summary Overview The 5 Ws Opposite Sides Infobox - Snorkel AI tripled its valuation to $3.5B, but revenue growth (17x) outpaced the price increase, lowering the revenue multiple from 65x to 10x. - The shift from selling data-labeling software to providing pre-trained datasets and reinforcement-learning environments drove the valuation change. - Institutional investors signal a market pivot toward data-as-a-service, but risks include unverified private metrics and concentrated customer reliance. - The company aims for profitability this year, with future valuation hinges on sustaining high-margin growth and avoiding in-house data competition from clients. A company that priced itself at $1.3 billion a year ago just raised $350 million at a $3.5 billion valuation in a round led by InsightNSIT-- and S32, roughly tripling the $1.3 billion valuation it set in May 2025. Read like every other frothy AI headline, this looks like a data-labeling startup re-rating on narrative momentum. The math underneath says otherwise: Snorkel AI grew its revenue base faster than it grew its valuation, so the tripling actually made each dollar of its sales cheaper to own. At the May 2025 round, Snorkel carried a $1.3 billion valuation on about $20 million in revenue — a 65x multiple on a company that sold software861053--. Twelve months later, annualized revenue has crossed $350 million, up from roughly $20 million a year earlier, a step the company describes as growth of more than 18x. Try the division yourself: take the new $3.5 billion valuation and divide by roughly $350 million of revenue, and the multiple lands near 10x. The price tag tripled while the multiple fell by more than 80 percent, because revenue compounded far faster than the number on the term sheet changed. What produced that step-change is a change in what the company sells. Instead of licensing data-labeling software, Snorkel now supplies the finished datasets and reinforcement-learning environments that frontier models are actually trained on, a data-as-a-service offering launched in September 2025. The structure matters to returns: it sells data products rather than billing for human hours, so it can pay specialists well while machines handle the repetitive quality-control work. That a service launched less than a year ago now anchors a $350 million-plus annualized run rate is usage and real capital, not attention. The read-through for a retail investor needs one explicit warning: this is not a stock you can buy. The $3.5 billion figure is a private, negotiated price set by professional investors, not a public-market quote. What the round does hand an outsider is a map of where institutional money believes the AI bottleneck has moved — from compute toward the specialized data that trains, evaluates, and keeps models aligned. It is the difference between selling a labeling tool once and supplying the scarce data itself on a recurring basis, which is why funds pay a venture multiple for the second. Two limits should temper how far that logic carries. Every number above is company-reported from a private firm with no audited public disclosure, so a retail investor cannot verify the run rate. And the customer base is concentrated among frontier labs, hyperscalers, and the federal government, which makes a lab deciding to build data work in-house the single largest threat to the model. The company says it expects to reach profitability within the current year — that is the condition worth watching. If the run rate keeps compounding at these margins, a roughly 10x multiple has organic support; if growth decelerates sharply or a major customer pulls the work inside, there is no public bid standing by to catch the price. The honest judgment to take from the round is that the tripling is real, because it is carried by a revenue jump of roughly 17x rather than by a higher multiple. The open question is not whether Snorkel deserves more per dollar of sales than it did a year ago — it clearly does — but whether the data-as-a-service compound can keep clearing past $350 million and, eventually, at what price a public market chooses to value it. Ainvest Coin Buzz Follow Blending traditional trading wisdom with cutting-edge cryptocurrency insights. Latest Articles Stay ahead of the market. Get curated U.S. market news, insights and key dates delivered to your inbox. Subscribe Newsletter"
+      },
+      {
+        "id": 38720850,
+        "title": "Venture Capital & Startup Funding Roundup, September 22, 2026: General Catalyst, Goldman Sachs, Greylock, M13, Y Combinator & More",
+        "url": "https://techstartups.com/2026/09/22/venture-capital-startup-funding-roundup-september-22-2026-general-catalyst-goldman-sachs-greylock-m13-y-combinator-more/",
+        "publisher": "TechStartups",
+        "published_date": "2026-09-22T22:22:01",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5763,
+        "ai_summary": "Ten venture rounds totaling about $1.379 billion were announced on September 22, 2026, with Cyera, Snorkel AI, and Heidi Health leading. The headline capital includes $240 million non-dilutive financing from Heidi, leaving roughly $1.139 billion in equity. Investors are concentrating capital on companies controlling strategic bottlenecks in AI infrastructure.",
+        "word_count": 4502,
+        "original_language": "EN",
+        "author": "Nickie Louise",
+        "countries": [
+          "USA",
+          "AUS",
+          "ISR"
+        ],
+        "industries": [
+          {
+            "name": "Accelerators & Incubators (Investor-Operated)",
+            "code": "FSANAAAM",
+            "is_primary": true
+          },
+          {
+            "name": "AI Accelerators (GPUs/TPUs/NPUs/ASICs)",
+            "code": "HDAAAAAA",
+            "is_primary": false
+          },
+          {
+            "name": "AI Compute Cloud & GPU-as-a-Service",
+            "code": "HDAAAAAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00004mz",
+            "name": "Teal Health",
+            "website": "https://getteal.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000026b",
+            "name": "Firecrawl",
+            "website": "https://www.firecrawl.dev",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000jtt",
+            "name": "Chamelio",
+            "website": "https://chamelio.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "00006zd",
+            "name": "Ramona",
+            "website": "https://www.ramonaoptics.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "000008x",
+            "name": "Cyera",
+            "website": "https://www.cyera.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "02mlhpd",
+            "name": "goai",
+            "website": "https://goai247.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000dm4",
+            "name": "Baselayer",
+            "website": "https://baselayer.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "000002o",
+            "name": "Heidi Health",
+            "website": "https://www.heidihealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20001370",
+            "name": "financial service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "64",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner"
+          ],
+          "location": [
+            "u.s.",
+            "africa",
+            "europe",
+            "asia-pacific",
+            "melbourne",
+            "new york",
+            "california",
+            "the middle east",
+            "san francisco",
+            "illinois",
+            "chicago",
+            "australia",
+            "england’s midlands",
+            "united states",
+            "durham",
+            "u.s./israel",
+            "japan",
+            "durham, north carolina",
+            "european"
+          ],
+          "product": [
+            "cyera",
+            "snorkel ai",
+            "oasis security",
+            "surge ai",
+            "scale ai",
+            "firecrawl",
+            "ramona",
+            "teal health",
+            "snorkel",
+            "chamelio",
+            "sela",
+            "go.ai",
+            "heidi",
+            "ramona optics"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12127028,
+        "full_text": "0 Shares\n\nVenture capital today is clustering around a surprisingly consistent idea: the next layer of AI value is shifting away from the model itself and toward the systems that make AI usable, governable, trustworthy, and economically productive. Cybersecurity company Cyera pulled in another $400 million. Snorkel AI raised $350 million to supply increasingly specialized training data and reinforcement-learning environments. Heidi Health paired a $100 million equity round with a $240 million non-dilutive facility as clinical AI moves from transcription into healthcare workflows. That pattern continues further down the funding stack. Go.AI is putting private AI infrastructure inside regulated institutions. Firecrawl is building the data-access layer agents need to interact with the web. Baselayer is attacking financial fraud. Sela is applying voice agents specifically to mortgage sales, while Teal Health and Ramona Optics show that investors are still willing to finance differentiated healthcare and life-science infrastructure outside the generative-AI rush. Axios’ deal reporting captures the unusually dense cluster of enterprise AI, security, fintech and healthcare rounds announced Tuesday. Across the ten rounds selected below, the headline capital committed totals about $1.379 billion. That figure needs one qualification: $240 million of Heidi’s package is non-dilutive financing rather than equity, leaving roughly $1.139 billion of equity or equity-like venture/growth funding in the selected set. The three largest transactions, Cyera, Snorkel AI, and Heidi, account for about 79% of headline capital, or roughly three-quarters of the equity component. That concentration is the day’s clearest market signal: investors are writing very large checks where companies can demonstrate strategic control points, customer adoption or both. The Macro Environment: Capital Is Paying for Control, Not Just Intelligence The backdrop is not one of cheap money. The Federal Reserve raised its target range by 25 basis points on September 16 to 3.75%–4.00%, meaning venture investors are still competing against a meaningful cost of capital. That makes today’s nine-figure private rounds more revealing than they would be in a zero-rate environment: investors are reserving large checks for businesses they believe can either dominate a category or become infrastructure other businesses cannot easily remove. Cyera is a good example of the first category. Goldman Sachs is putting $400 million into a company already valued at more than $12 billion, shortly after Cyera completed its $1 billion acquisition of non-human-identity specialist Oasis Security. The investment is less about financing basic product development than giving Cyera enough balance-sheet latitude to broaden its platform, pursue federal and overseas customers, make acquisitions, and choose its own timing for a future public offering. The Wall Street Journal reports that Cyera has raised $1.94 billion since June 2025 alone and has now landed its first customer spending more than $10 million annually. Snorkel represents the second category: infrastructure underneath increasingly capable models. Its annualized revenue run-rate has risen from roughly $20 million a year ago to more than $350 million, according to Reuters, as frontier labs need harder training tasks, specialist-generated datasets and reinforcement-learning environments rather than commodity labeling. At a $3.5 billion valuation, the round prices Snorkel at roughly ten times its reported annualized revenue — a valuation that looks aggressive in ordinary software but much less unusual for a company growing at this speed and positioning itself directly in the frontier-model supply chain. We calculated that multiple from Reuters’ reported valuation and revenue figures. Private and public capital are also beginning to meet around AI infrastructure. On the same day these venture rounds surfaced, data-center infrastructure provider Accelevation set U.S. IPO terms at $20 to $24 per share, implying a market capitalization of around $4.9 billion at the midpoint. That does not mean the public market is broadly open to every venture-backed software company. It suggests something narrower: businesses connected to AI’s physical, security, and operational requirements have a more credible path toward institutional-scale financing than undifferentiated application companies. The implication for founders is important. Calling a product “AI-native” is not enough to command premium capital. Today’s stronger financings sit at specific bottlenecks: who can access sensitive data, where models run, how training data is generated, how clinical work is documented, how agents retrieve information, and how regulated transactions are verified. Investors appear increasingly willing to fund the companies that own those bottlenecks rather than another thin interface sitting on top of somebody else’s model. The Top Funding Rounds Cyera raises $400M to secure data and AI-agent access across the enterprise Cyera’s $400 million investment from Growth Equity at Goldman Sachs Alternatives extends the company’s Series G and comes only months after a $600 million Series G valued the New York cybersecurity company at $12 billion. Cyera says the new investment will support its AI-security roadmap, federal-market expansion and continued growth across Europe, the Middle East, Africa and Asia-Pacific. The strategic premise has broadened substantially from classic data-security posture management. Enterprises deploying AI agents now have software identities that can call tools, query databases, and act on corporate information without constant human involvement. Cyera’s acquisition of Oasis Security brought non-human identity management into the same platform as data security, allowing the company to address both sides of the permission problem: where sensitive information sits and which human, machine or agent can reach it. That is also why Goldman entering at this stage is notable. This is late-stage capital going into a company that already has the scale to contemplate an IPO, not a speculative bet on whether a category will exist. The Wall Street Journal reports that Cyera’s newest financing gives it additional freedom to invest in products and M&A while delaying a listing if private capital remains attractive. For competing data-security and identity vendors, that creates a well-funded consolidator with both an acquisition currency and a $12 billion-plus valuation benchmark. Funding Details\n\nStartup: Cyera\n\nInvestors: Growth Equity at Goldman Sachs Alternatives; existing Series G was led by Evolution Equity\n\nAmount Raised: $400 million\n\nTotal Raised: Approximately $2.7 billion reported overall; $1.94 billion raised since June 2025\n\nFunding Stage: Series G extension\n\nFunding Date: September 22, 2026\n\nHeadquarters: New York, New York, U.S.\n\nSector: Cybersecurity, data security, AI-agent security, identity security Snorkel AI raises $350M to become the data infrastructure behind frontier AI Snorkel AI raised $350 million at a $3.5 billion valuation, co-led by Insight Partners and S32, with participation from Greylock and Wells Fargo. The valuation is almost three times the $1.3 billion figure attached to Snorkel’s $100 million financing in May 2025. More striking is the operating trajectory: Reuters reports annualized revenue above $350 million, versus roughly $20 million a year earlier. The change is tied to a strategic pivot. Snorkel began as software for programmatic data labeling but has increasingly become a supplier of finished datasets and reinforcement-learning environments. Its network includes specialists in coding, law and medicine, while AI systems automate portions of quality assurance and data production. CEO Alex Ratner argues that increasingly capable models require data that is harder to source and judge, creating demand for human expertise combined with automated production rather than conventional annotation labor. That places Snorkel in a market reshaped by Scale AI, Mercor, Surge AI and the frontier labs’ appetite for difficult training and evaluation data. Reuters notes that investor interest intensified after Meta’s 2025 purchase of a 49% stake in Scale AI for $14.3 billion. Snorkel’s answer is to sell the data product rather than bill customers for hours of human work — potentially giving it better operating leverage if it can preserve quality as volumes rise. The company says it expects to reach profitability this year, an unusually consequential detail for a company growing this quickly. Funding Details\n\nStartup: Snorkel AI\n\nInvestors: Insight Partners, S32, Addition, Greylock, Wells Fargo\n\nAmount Raised: $350 million\n\nTotal Raised: Not disclosed in the current announcement\n\nFunding Stage: Growth financing; series designation not disclosed\n\nFunding Date: September 22, 2026; Reuters published the financing at 1:02 p.m. UTC\n\nHeadquarters: San Francisco, California, U.S.\n\nSector: AI training data, reinforcement learning, model evaluation infrastructure Heidi Health raises $100M in equity and secures a $240M growth facility for clinical AI Heidi Health’s financing is best understood as $100 million of Series C equity plus a $240 million non-dilutive growth facility, not a conventional $340 million venture round. Blackbird led the equity financing, with Phoenix Court and, according to Axios, Point72 Private Investments and Headline participating; General Catalyst led the $240 million financing component. The Melbourne healthtech startup started with an AI medical scribe but is pushing toward a broader clinical-workflow platform. The Times reports that Heidi handles about 2.8 million patient interactions each week in 110 languages and has won a major NHS clinical documentation deployment spanning 15 trusts and integrated-care organizations, as well as more than 1,200 GP practices in England’s Midlands. That moves the thesis beyond whether clinicians will use an ambient scribe: the harder question is whether one vendor can become part of the operating layer of large health systems. Valuation reporting differs slightly by outlet. The Times puts the latest valuation at about $900 million, while Australian coverage describes Heidi as reaching roughly the $1 billion or unicorn threshold. The discrepancy likely reflects rounding and reporting conventions, not two separate financings. The more important signal is the financing structure itself. Using $240 million of non-dilutive capital lets Heidi finance expansion without selling the same amount of ownership at today’s valuation — a playbook increasingly relevant to rapidly growing software companies with enough revenue visibility to support structured capital. Funding Details\n\nStartup: Heidi Health\n\nInvestors: Blackbird, Phoenix Court, Point72 Private Investments, Headline; General Catalyst led the non-dilutive facility\n\nAmount Raised: $340 million package — $100 million equity plus $240 million non-dilutive financing\n\nTotal Raised: At least $436.6 million including financing facilities, according to The Times\n\nFunding Stage: Series C plus growth financing facility\n\nFunding Date: September 22, 2026\n\nHeadquarters: Melbourne, Australia\n\nSector: Healthtech, clinical AI, medical documentation and workflow automation Go.AI raises $85M to bring private AI infrastructure inside regulated institutions Chicago-based Go.AI raised an $85 million Series A led by Updata Partners, with existing investors GFT Ventures and LAUNCH participating. The financing puts the company’s total capital raised at roughly $90 million. Go.AI sells AI hardware appliances aimed particularly at banks and other regulated organizations that cannot casually move confidential data or sensitive workloads into external AI services. That makes this an infrastructure bet rather than another model-company wager. Banks increasingly want access to generative AI while preserving control over data residency, audit trails, security, and deployment architecture. Go.AI is trying to occupy the gap between public AI APIs and a fully bespoke internal stack by packaging compute and software into systems that institutions can run under their own governance. Competitive pressure will come from both directions: hyperscalers can offer private-cloud configurations, while server, chip, and enterprise-software companies can assemble their own on-premises AI stacks. Go.AI therefore has to win on deployment speed, regulatory fit, and operating simplicity rather than raw model capability. The size of the Series A suggests investors believe regulated AI deployment itself can become a meaningful product category. Funding Details\n\nStartup: Go.AI\n\nInvestors: Updata Partners, GFT Ventures, LAUNCH\n\nAmount Raised: $85 million\n\nTotal Raised: Approximately $90 million\n\nFunding Stage: Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: Chicago, Illinois, U.S.\n\nSector: AI infrastructure, private AI, financial-services technology Firecrawl raises $75M to build the web-data layer for AI agents Firecrawl raised a $75 million Series B led by Smash Capital, with Altos Ventures, Nexus Venture Partners, Y Combinator, Freestyle, and Offline also participating. Axios describes the company as providing data infrastructure for AI agents — the layer that turns information on the open web into material software agents can retrieve and use programmatically. That may sound like plumbing, but plumbing becomes more valuable as agents move beyond chat interfaces. An AI system asked to research companies, monitor competitors, source products, qualify leads, or execute workflows needs fresh external data in a predictable structure. Model vendors can improve reasoning, but they do not automatically solve crawling, extraction, website changes, access reliability or data preparation. This is the deeper reason infrastructure investors continue financing companies around the model layer. As foundation models become easier to substitute, the differentiated asset can move to the systems that supply them with current information and connect them to real-world workflows. Firecrawl still faces a crowded field spanning web search, crawling, browser automation, and structured-data extraction, so its long-term position will depend on whether developers treat it as a default component rather than one interchangeable API among many. Funding Details\n\nStartup: Firecrawl\n\nInvestors: Smash Capital, Altos Ventures, Nexus Venture Partners, Y Combinator, Freestyle, Offline\n\nAmount Raised: $75 million\n\nTotal Raised: Not disclosed in the reviewed announcement\n\nFunding Stage: Series B\n\nFunding Date: September 22, 2026\n\nHeadquarters: United States\n\nSector: Developer infrastructure, web data, AI-agent infrastructure Baselayer raises $35M to make financial fraud detection an infrastructure layer Baselayer raised $35 million in Series A financing led by M13, with Picus Capital, Afore Capital and Torch Capital participating. The company provides fraud-detection technology to banks and other financial institutions, a category gaining importance as automated account creation, synthetic identities and increasingly capable software systems make old verification processes harder to rely on. Investors are effectively betting on a second-order effect of AI adoption. More automation doesn’t just create opportunities for productivity software; it increases the volume and sophistication of activity that financial institutions must authenticate. That creates demand for infrastructure that can assess counterparties and suspicious behavior without adding manual review to every transaction. Baselayer’s challenge is that fraud, KYC, and identity verification already contain well-funded incumbents. Its opportunity is to build for a world in which the entity on the other side of a workflow may increasingly be software rather than a person. Even without assuming that every AI agent will need a separate financial identity, the sheer increase in machine-mediated transactions should raise the value of higher-frequency verification. Funding Details\n\nStartup: Baselayer\n\nInvestors: M13, Picus Capital, Afore Capital, Torch Capital\n\nAmount Raised: $35 million\n\nTotal Raised: Not disclosed in the reviewed announcement\n\nFunding Stage: Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: United States; city not specified in the reviewed announcement\n\nSector: Fintech, fraud detection, financial infrastructure Chamelio raises $26M to push AI deeper into corporate legal work Chamelio raised $26 million in Series A financing led by Entrée Capital, joined by Work-Bench, Emerge Ventures and Bright Pixel Capital. The company is building an AI platform for in-house legal teams, placing it in one of the most heavily financed vertical-AI categories outside healthcare. Legal software is an instructive test of where AI application companies can retain pricing power. General-purpose models can draft and summarize text increasingly well, which puts pressure on products whose only differentiation is a legal-themed interface. Defensibility has to come from workflow integration, permissioning, institutional knowledge, matter history, review systems and the ability to fit into how corporate legal departments actually operate. That explains why specialist platforms can still command venture backing even as foundational capabilities improve. Legal departments do not buy model tokens; they buy reduced outside-counsel spend, faster contract and matter handling, and a defensible process for sensitive corporate work. Chamelio’s opportunity is therefore less about having a uniquely intelligent model and more about owning enough of the legal workflow that switching products becomes costly. Funding Details\n\nStartup: Chamelio\n\nInvestors: Entrée Capital, Work-Bench, Emerge Ventures, Bright Pixel Capital\n\nAmount Raised: $26 million\n\nTotal Raised: Not disclosed in the reviewed announcement\n\nFunding Stage: Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: U.S./Israel operating footprint; exact primary headquarters was not clearly specified in the reviewed reporting\n\nSector: Legal technology, enterprise AI Ramona Optics raises $25M to scale high-throughput microscopy Durham, North Carolina-based Ramona Optics raised a $25 million Series A led by ARCH Venture Partners, with Stealthpoint Ventures and ND Capital participating. Founded in 2016 by two Caltech graduate students before relocating to Durham, the company makes advanced microscopes designed to increase the scale and speed of biological sample analysis. This is one of the day’s more interesting non-generative-AI transactions because it addresses the physical side of biological data generation. Better computational biology does not remove the need to capture high-quality experimental information in the first place. If laboratories can image larger sample areas or run experiments faster, the downstream value flows into drug discovery, cellular biology and increasingly automated research workflows. ARCH Venture Partners’ involvement is notable because the firm’s life-science investing history places a high bar on whether a scientific tool can become more than laboratory equipment. Ramona currently sells 4x and 10x microscopy systems, according to Axios, and plans to use the capital to expand international sales and engineering. The company has around 25 employees, meaning this round is financing commercial scaling rather than a large existing organization. Funding Details\n\nStartup: Ramona Optics\n\nInvestors: ARCH Venture Partners, Stealthpoint Ventures, ND Capital\n\nAmount Raised: $25 million\n\nTotal Raised: Not disclosed in the reviewed reporting\n\nFunding Stage: Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: Durham, North Carolina, U.S.\n\nSector: Life-science tools, microscopy, laboratory infrastructure Teal Health raises $22M to move cervical-cancer screening into the home San Francisco-based Teal Health raised $22 million in Series A financing led by .406 Ventures, with Emerson Collective, Serena Ventures and Japan’s MPower Partners participating. Teal is developing a self-collection system for at-home HPV-based cervical-cancer screening, shifting a procedure historically associated with an in-clinic visit toward a consumer-accessible workflow. The venture thesis is not simply “healthcare at home.” Screening businesses work only when the entire path — collection, laboratory processing, clinical interpretation, follow-up and payment — functions together. That creates more execution risk than a pure software product but also creates a stronger barrier if a company can integrate those pieces successfully. For investors, Teal sits at the intersection of preventive health, diagnostics, and women’s health, where improved convenience could expand screening participation rather than merely shift existing demand from one provider to another. The presence of both U.S. and Japanese capital also suggests that self-collection workflows could travel internationally if regulatory and clinical pathways support them. Funding Details\n\nStartup: Teal Health\n\nInvestors: .406 Ventures, Emerson Collective, Serena Ventures, MPower Partners\n\nAmount Raised: $22 million\n\nTotal Raised: Not disclosed in the reviewed announcement\n\nFunding Stage: Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: San Francisco, California, U.S.\n\nSector: Women’s health, diagnostics, at-home screening Sela raises $21M to automate mortgage sales with specialized voice agents San Francisco-based Sela raised $21 million across seed and Series A financing from Emergence Capital and Costanoa Ventures. The company builds voice agents designed specifically to automate mortgage sales calls rather than offering a horizontal voice-AI platform for every industry. That focus is strategically significant. Voice generation is becoming cheaper and more widely available, so merely producing natural-sounding speech is unlikely to remain defensible. Vertical products instead need to understand industry terminology, connect with existing systems, handle escalation, operate within compliance requirements, and improve measurable conversion or labor economics. Mortgages are an attractive but demanding proving ground: high customer value supports meaningful software pricing, while the regulated nature of lending raises the cost of inaccurate or uncontrolled automation. If Sela can demonstrate better conversion economics without increasing compliance risk, its moat becomes the mortgage-specific operating system around the voice model, not the underlying speech technology. Funding Details\n\nStartup: Sela\n\nInvestors: Emergence Capital, Costanoa Ventures\n\nAmount Raised: $21 million\n\nTotal Raised: $21 million across the disclosed seed and Series A financings\n\nFunding Stage: Seed and Series A\n\nFunding Date: September 22, 2026\n\nHeadquarters: San Francisco, California, U.S.\n\nSector: Voice AI, mortgage technology, financial-services automation What Today’s Funding Activity Reveals The first pattern is capital concentration. Roughly four-fifths of the $1.379 billion in headline financing represented here went into Cyera, Snorkel, and Heidi. On an equity-only basis after stripping out Heidi’s $240 million non-dilutive facility, those three still account for roughly 75% of the selected capital. Investors are not spreading money evenly across the AI economy. They are concentrating it around companies with evidence of category leadership, unusually high growth, or strategically scarce infrastructure. The second pattern is that AI infrastructure has expanded beyond GPUs and data centers. Today’s deals define infrastructure much more broadly: Snorkel supplies the training and evaluation data; Firecrawl supplies external information to agents; Go.AI supplies controlled deployment environments; Cyera controls sensitive-data access; Baselayer addresses trust and fraud. Taken together, these financings suggest the investable AI stack is moving outward from compute into governance, context, verification and deployment. Third, vertical AI is being held to a different standard than it was two years ago. Heidi, Chamelio and Sela are not being financed merely because they insert a language model into healthcare, legal or lending workflows. Their investment cases increasingly depend on owning the surrounding process. In healthcare, that means integration with clinical systems and institutional deployment; in legal, it means privileged organizational context and workflow; in mortgages, it means compliance and conversion economics. Fourth, cybersecurity is becoming a direct beneficiary of agent adoption rather than a separate technology category. Cyera’s strategy of combining data governance with non-human identity management reflects a broader issue: autonomous software can only become more useful by receiving more permissions. Every additional permission creates another security decision. The value of the agent and the value of controlling the agent may therefore rise together. Cyera’s $12 billion-plus valuation is one of the strongest private-market expressions of that thesis so far. Finally, geography is more concentrated than the word “global” might imply in this particular 12-hour slice. The United States dominates the selected rounds, with Australia represented by Heidi and cross-border capital visible throughout the investor syndicates. That should not be read as evidence that European or emerging-market funding disappeared Tuesday: several sizable European and international deals surfaced in September 22 newsletters but traced back to September 21 or outside the strict cutoff and were therefore removed from this edition. Comparative Funding Table Startup Amount Raised Sector Funding Stage Lead Investors Country Cyera $400M Cybersecurity / AI security Series G extension Goldman Sachs Alternatives U.S. Snorkel AI $350M AI data / RL infrastructure Growth round Insight Partners, S32 U.S. Heidi Health $340M package ($100M equity + $240M facility) Clinical AI Series C + non-dilutive financing Blackbird; General Catalyst on facility Australia Go.AI $85M Private AI infrastructure Series A Updata Partners U.S. Firecrawl $75M AI-agent / web-data infrastructure Series B Smash Capital U.S. Baselayer $35M Fraud / financial infrastructure Series A M13 U.S. Chamelio $26M Legal AI Series A Entrée Capital U.S./Israel Ramona Optics $25M Life-science tools Series A ARCH Venture Partners U.S. Teal Health $22M Women’s health/diagnostics Series A .406 Ventures U.S. Sela $21M Voice AI/mortgage tech Seed + Series A Emergence Capital, Costanoa U.S. The table also shows why round size alone can mislead. Heidi’s headline $340 million is not economically equivalent to Snorkel’s $350 million financing because $240 million of Heidi’s package is non-dilutive. Likewise, Cyera’s $400 million arrives at a $12 billion-plus valuation and late-stage scale, while a $21 million check into Sela carries far more ownership and company-building significance at an earlier stage. Comparing venture rounds requires looking at capital structure, stage and strategic intent, not only the number in the headline. Strategic Takeaways for Founders and Investors For founders, the bar for “AI differentiation” is moving up quickly. Access to a capable model is becoming less persuasive as a fundraising story. Today’s financings reward companies that can explain what they control around the model: proprietary data production, regulated distribution, embedded workflow, identity and permissions, deployment architecture, physical instrumentation, or institutional relationships. Firecrawl, Snorkel, and Go.AI occupy different layers, but all three sell something the underlying model does not provide on its own. The best vertical-AI businesses are becoming workflow businesses. Founders should therefore measure outcomes that buyers actually budget for: clinician hours returned, mortgage conversion rates, legal work brought in-house, fraud losses reduced or deployment time shortened. A company whose value proposition collapses when inference prices fall faces commoditization. A company whose product gets more valuable as models get cheaper has a much stronger economic position. Treat security and governance as product surfaces, not compliance afterthoughts. Cyera’s financing shows how large the market can become when AI adoption creates a new class of access-control problem. For enterprise founders, the ability to explain what an agent can see, which tools it can call, and how its actions are audited may become part of the sales proposition rather than a box checked after deployment. Capital structure is becoming part of competitive strategy. Heidi’s combination of $100 million in equity with a $240 million non-dilutive facility is especially instructive. Companies with substantial revenue and predictable expansion requirements do not always need to fund every growth dollar by selling shares. Debt, structured facilities and other non-dilutive instruments can preserve founder and employee ownership — provided the business has the cash-generation profile to carry the obligation. Late-stage investors are paying for option value. Goldman Sachs’ investment in Cyera gives the company additional time before an IPO, more acquisition capacity and greater flexibility in deciding when to access public markets. For mature private companies, a strong balance sheet can therefore become competitive weaponry: it reduces pressure to list at an inconvenient moment and can turn the company into an acquirer while weaker competitors are still conserving cash. Investors, meanwhile, need to distinguish real infrastructure from temporary abstraction layers. Some AI tooling categories will be absorbed by model providers, cloud platforms or larger enterprise-software vendors. The stronger bets are likely to be products whose value grows with AI usage but whose function is difficult for a model provider to internalize: access governance, specialized proprietary data, regulated deployment, physical data generation and deeply integrated industry workflows. The biggest pricing risk is at the application layer. If two products use similar foundation models, operate on the same customer data and connect to the same systems, switching costs can deteriorate quickly. The financing environment is therefore increasingly rewarding companies that can answer a hard question with specificity: what becomes harder for a customer to replace as your company gets bigger? Conclusion September 22’s funding activity is not simply another day in which “AI got most of the money.” The more useful interpretation is that venture capital is becoming more discriminating about which parts of the AI economy deserve durable margins. Cyera is being financed because autonomous software makes data and identity control harder. Snorkel is being financed because better models require harder-to-produce training and evaluation data. Go.AI is addressing institutions that cannot simply push sensitive workloads into public AI services. Firecrawl addresses the problem of giving agents dependable external information. Heidi, Chamelio and Sela are attempting to turn general AI capability into industry-specific operating systems. Meanwhile, Ramona Optics and Teal Health show that differentiated physical and healthcare products can still draw serious institutional capital without competing in the foundation-model race. The day’s capital concentration matters just as much as the sector mix. With close to four-fifths of headline commitments going to three companies, the market is not behaving like an indiscriminate technology boom. It is behaving like a market willing to pay extraordinary prices for a small number of perceived control points while forcing everyone else to prove the economics at Series A and Series B. That is the signal founders and investors should carry forward. As model intelligence becomes more abundant, scarcity migrates elsewhere: toward trusted data, permissioning, distribution, regulated deployment, specialized workflows, and physical systems that generate information the digital world cannot manufacture by itself. The next valuable startup may still use the same models as everyone else. What matters is whether it owns something around those models that everyone else still needs. 0 Shares\n\n\n\n\n\n\n\n\n\nTrending Now"
+      },
+      {
+        "id": 38716715,
+        "title": "Snorkel AI Secures $350 Million to Advance Frontiers in AI Data Development",
+        "url": "https://third-news.com/article/a3b676b6-b6d3-11f1-a6bf-9ca3ba08e13f",
+        "publisher": "Third News",
+        "published_date": "2026-09-22T22:19:12",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI raised $350 million in a co-led round with Insight Partners and S32, valuing the company at $3.5 billion. The funding will expand its agentic data factory and invest in vertical AI solutions. The company plans to enhance its research and open research initiatives.",
+        "word_count": 544,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000029e",
+            "name": "S32",
+            "website": "https://s32.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000037",
+            "name": "Insight Partners",
+            "website": "https://www.insightpartners.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000183",
+            "name": "business financing"
+          },
+          {
+            "code": "20000208",
+            "name": "research and development"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5417",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "alex ratner",
+            "andy harrison",
+            "lonne jaffe"
+          ],
+          "location": [
+            "san francisco",
+            "united states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 12035978,
+        "full_text": "#United States #San Francisco #Insight Partners #Snorkel AI #Data Factory Snorkel AI Secures $350 Million to Advance Frontiers in AI Data Development On September 22, 2026, Snorkel AI, a pivotal player in frontier AI development, announced a significant funding milestone of $350 million, which elevates its valuation to $3.5 billion. This funding round was co-led by Insight Partners and S32, with noteworthy participation from various existing and new investors, including Addition, March Capital, Blumberg Capital, Allegis Capital, and several others. The capital raise underscores Snorkel’s trajectory toward expanding its agentic data factory, which is responsible for producing the underlying data and environments that fuel advanced AI labs globally.\n\n\n\nThe broader landscape of AI data is witnessing a fundamental shift. In prior eras, developing AI was largely about managing labeling tasks with a workforce-driven approach. However, today’s complex frontier systems demand far more sophisticated capabilities—termed Data 2.0—which entail handling expert tasks that often take skilled human workers days to accomplish. Designing effective solutions in this context has become a research-intensive endeavor, where quality and complexity are critical determinants of value.\n\n\n\nTo rise to this challenge, Snorkel has established a fresh paradigm for data creation and management. Since launching its Data-as-a-Service platform in September 2025, the company has demonstrated significant growth and relevance in the industry. Partnering with leading AI labs and major enterprises, Snorkel focuses on delivering high-quality data solutions that underpin frontier model evaluation and training processes.\n\n\n\nRooted in the prestigious Stanford AI Lab, which birthed the company nearly a decade ago, Snorkel was founded by a team known for its pioneering work in data-centric AI. This legacy is exemplified by a substantial body of research, including over 250 peer-reviewed papers that collectively have gained more than 25,000 citations.\n\n\n\n“The frontier of AI needs research partners who are at the cutting edge of data science,” stated Alex Ratner, co-founder and CEO of Snorkel AI. “Snorkel was designed to be that partner—drawing on over ten years of research and development to be the leading lab for agentic data.”\n\n\n\nLonne Jaffe, Managing Director at Insight Partners, noted, “Snorkel’s rigorous approach to AI data and environments becomes an increasingly critical factor in developing capable and trustworthy AI systems. Their remarkable growth at scale is a testament to the value they deliver.”\n\n\n\nAccording to Andy Harrison, CEO and General Partner at S32, “Snorkel’s unique expert-agentic environments create a synergistic relationship between human skills and AI, offering quality data at unprecedented speeds. This capability enables a new era of efficiency and precision in model development.”\n\n\n\nWith the fresh funding, Snorkel AI plans to greatly enhance its agentic data factory's capacity to keep pace with demand, strategically invest in vertical and enterprise-level AI solutions, and further its research in new domains and modalities. The company has also committed to enriching its open research initiatives, including the establishment of programs like its Open Benchmarks Grants.\n\n\n\nIn summary, Snorkel AI’s recent funding round captures the company’s aggressive pursuit of innovation and leadership within the AI landscape, paving the way for its continued contributions to high-performing AI systems for various industries, including healthcare, law, and software engineering.\n\nTopics Business Technology）\n\n【About Using Articles】 You can freely use the title and article content by linking to the page where the article is posted.\n\n※ Images cannot be used. 【About Links】 Links are free to use."
+      }
+    ],
+    "credits_consumed": 0.3
+  }
+}

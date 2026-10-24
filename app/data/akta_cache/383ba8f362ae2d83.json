@@ -1,0 +1,717 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000lea&sections=company_assessment%2Cfirmographic%2Cbusiness_model",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:26:38.324Z",
+  "data": {
+    "data": {
+      "uuid": "0000lea",
+      "company_assessment": {
+        "market_position": "GlossGenius is a New York-based vertical SaaS company founded in 2016 that sells an all-in-one business operating system to small and mid-sized beauty, wellness, medspa, health, and fitness service businesses in the United States. The platform serves over 120,000 paying businesses and is led by a 300-person team, with venture backing from Bessemer Venture Partners, L Catterton, Imaginary Ventures, 2048 Ventures, HearstLab, and Wormhole Capital — including a $28M growth round led by L Catterton in July 2023. The company was recognized on the 2024 SMBTech50 list (Nasdaq/Stifel/Fenwick partnership). It positions itself as the integrated alternative to fragmented stacks of generic booking, payments, payroll, marketing, and EMR tools used by independent operators and small chains.",
+        "strengths": [
+          {
+            "details": "AI Agents (Growth, Marketing, AI Receptionist) launched in 2024-2026 already identified over $5M in potential revenue for customers and drive rebooking automation, expanding value capture without proportional headcount. As these agents become core to the workflow (rather than standalone tools), GlossGenius can shift from a seat-license model to outcomes-based pricing or higher per-customer ARPU in the Platinum tier ($148/month), lifting blended revenue per location.",
+            "headline": "AI Agents deepen ARPU via automation, not headcount",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "GlossGenius processes payments at a flat 2.6% rate across all tiers, generating transaction-fee revenue layered on top of subscription ($24-148/month). With 120,000+ businesses on the platform, payment revenue becomes a compounding take-rate stream that grows with merchant GMV. Combined with adjacent financial services (BNPL via Affirm/Afterpay/Klarna, instant payouts, salon/spa loans), the platform compounds financial services revenue, a far stickier and larger monetization layer than subscription alone.",
+            "headline": "Payment take-rate compounds as merchant GMV scales",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "The platform targets 2.5M U.S. service businesses and currently serves 120,000+, leaving meaningful runway in core beauty, wellness, and now medspa/health verticals. HIPAA support, EMR charting for medspa, and AI Receptionist capabilities enable expansion into higher-value medical aesthetics and behavioral health practices where willingness to pay (and per-seat economics) is materially higher than indie salons. Each vertical adds both new logos and upgrade paths within existing customers.",
+            "headline": "Multi-vertical land-and-expand across medspa and health",
+            "source": [
+              "https://glossgenius.com/careers"
+            ]
+          },
+          {
+            "details": "Backed by Bessemer Venture Partners, L Catterton, HearstLab, and Imaginary Ventures across Series A-C rounds, including a $28M Series C in July 2023 led by L Catterton (a consumer/retail-focused growth equity firm). Top-tier brand investors add not just capital but vertical expertise in beauty and consumer, supporting future M&A, partnerships, and possibly strategic exit pathways.",
+            "headline": "Top-tier VC backing enables M&A and exit optionality",
+            "source": [
+              "https://www.latestly.com/socially/technology/glossgenius-triples-valuation-raises-25m-to-give-beauty-industrys-tech-stack-a-makeover-latest-tweet-by-techcrunch-4256935.html"
+            ]
+          },
+          {
+            "details": "Proprietary data from 120,000+ beauty/wellness businesses informs AI agent training and is highlighted as a \"strong\" data advantage. As models get smarter with more data, the moat widens against new entrants and horizontal players. Customer outcomes (26% revenue lift, 75% rebooking, 40 hours saved/month) reinforce word-of-mouth, which combined with the Refer-a-Friend program and content/comparison SEO, builds an efficient acquisition engine for a category-leader position.",
+            "headline": "Data and switching-cost moat compound at scale",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Vertical SaaS for beauty/wellness is a crowded space with well-capitalized incumbents (Vagaro, Fresha, Mindbody, Zenoti, Square Appointments, Boulevard) plus horizontal platforms (Mindbody) expanding in. With 120,000+ businesses on the platform, there are limited remaining low-friction SMB customers to acquire, and competition for the next tier of multi-location and medspa accounts is intensifying. As incumbents match the 2.6% payment-processing price point and add AI features, differentiating on price and feature parity becomes harder.",
+            "headline": "Competitive intensity may compress pricing power",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "Operating geographies data explicitly states GlossGenius is \"only available for use within the United States\" with \"International markets\" listed as a geographic restriction. Competitors like Fresha and Treatwell operate across EMEA/APAC. International expansion is non-trivial due to local payment rails, language support, multi-currency processing, and regulatory requirements (e.g., GDPR), creating a hard ceiling on long-term TAM capture and leaving the company exposed to U.S.-only economic cycles.",
+            "headline": "US-only geographic footprint caps TAM ceiling"
+          },
+          {
+            "details": "Customer testimonials from individual stylists/solo practitioners indicate exposure to small and very small businesses with limited operating buffers. Reporting economic conditions or consumer pullback, 60% of clients who leave without rebooking never return, and SMB service businesses are highly sensitive to discretionary consumer spending. Combined with the fact that the customer base is overwhelmingly SMBs (booth renters, solo estheticians, single-location spas), macro-driven churn could meaningfully impair net revenue retention.",
+            "headline": "SMB customer mix drives recession sensitivity",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ]
+          },
+          {
+            "details": "GlossGenius expands into medspa and health verticals that require HIPAA compliance, EMR charting, and now handle client health data with AI agents. The AI Receptionist (powered by ElevenLabs voice AI) and AI Growth/Marketing Agents process structured and unstructured data, including potential PHI. Despite WCAG self-attestation and a HIPAA BAA pathway, an AI hallucination that mishandles a patient inquiry, mis-schedules a medical procedure, or misuses health data could create regulatory exposure (HIPAA, FTC, state consumer health data laws like NV/CA/TX/WA) and reputational damage that disproportionately impacts the higher-value health/medspa segments.",
+            "headline": "Autonomous AI liability in regulated health segments",
+            "source": [
+              "https://glossgenius.com/legal/terms"
+            ]
+          },
+          {
+            "details": "Critical integrations include Stripe (payment processing revenue depends on the 2.6% take rate flowing through), Twilio (all SMS communications), ElevenLabs (AI Receptionist voice capability), and EasyTeam (time tracking). Stripe's pricing or policy changes directly affect unit economics; Twilio outages or rate hikes degrade communications reliability; and ElevenLabs governance limits or pricing shifts could impair a flagship AI capability. Vendor concentration in core paths creates margin, reliability, and roadmap dependencies.",
+            "headline": "Third-party vendor dependencies limit margin control",
+            "source": [
+              "https://glossgenius.com/legal/terms"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Deep workflow integration across booking, payments, CRM, marketing, payroll, and EMR, combined with a free data transfer service that reduces onboarding friction while making exit costly once client histories, recurring memberships, payment card-on-file, and rebooking automations are embedded.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "Proprietary dataset across 120,000+ beauty, wellness, and medspa businesses powers benchmarking, the AI Growth Analyst (reportedly surfacing $5M+ in customer revenue opportunities), and improves recommendations over time relative to thinner competitors.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Integrated ecosystem spanning proprietary Tap & Go hardware, GeniusShop, Affirm/Afterpay/Klarna BNPL, Stripe rails, Twilio SMS, ElevenLabs voice, instant payouts, and merchant financing creates a multi-rail stack that is difficult to replicate piecemeal.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "PLG self-serve trial with no credit card, Reserve with Google integration, aggressive comparison SEO (Vagaro, Fresha, Square, Mangomint, etc.), and a referral credit program generate low-CAC top-of-funnel demand at SMB scale.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Transparent flat 2.6% payment processing with no hidden fees is positioned as industry-lowest, directly attacking incumbent processor margins and giving GlossGenius a procurement-side wedge against Vagaro, Square, and Fresha.",
+            "type": {
+              "code": "cost_advantage",
+              "label": "Cost Advantage"
+            }
+          },
+          {
+            "details": "Brand presence reinforced by SMBTech50 recognition (Nasdaq/Stifel/Fenwick, 2024), Gloss University educational community, and an aesthetic-led product identity (floral card readers, curated brand) tuned to the salon and studio buyer.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Operating geographies explicitly state GlossGenius is \"only available for use within the United States.\" Direct competitors like Fresha and Mindbody operate internationally, meaning GlossGenius forgoes a sizable portion of the global 2.5M+ service business TAM and is exposed to single-country economic cycles.",
+            "headline": "US-only operations cap addressable market"
+          },
+          {
+            "details": "Core platform functionality depends on Stripe (payments/take-rate), Twilio (SMS), ElevenLabs (AI voice receptionist), and EasyTeam (time tracking). Stripe pricing or policy changes directly affect unit economics, Twilio outages disrupt client communications, and ElevenLabs governance or pricing changes could erode a flagship AI capability.",
+            "headline": "Heavy reliance on third-party payment, communications, and AI vendors",
+            "source": [
+              "https://glossgenius.com/legal/terms"
+            ]
+          },
+          {
+            "details": "GlossGenius actively publishes comparison content against Vagaro, Fresha, Square, Booksy, Mangomint, Zenoti, StyleSeat, Boulevard, and others. Mindbody provides an entrenched incumbent alternative with deeper enterprise features; pressure on the 2.6% flat rate or AI differentiation from competitors risks eroding pricing power over time.",
+            "headline": "Crowded competitive landscape with well-capitalized incumbents",
+            "source": [
+              "https://glossgenius.com/blog"
+            ]
+          },
+          {
+            "details": "AI Agents (Growth, Marketing, AI Receptionist) operate 24/7 without human review. In HIPAA-regulated medspa/health verticals (injectables, behavioral therapy), AI hallucinations that mishandle bookings or mishandle PHI could expose GlossGenius to liability and reputational harm, even with HIPAA BAA pathways in place.",
+            "headline": "Autonomous AI introduces regulatory and accuracy risk in health/medspa",
+            "source": [
+              "https://glossgenius.com/legal/terms"
+            ]
+          },
+          {
+            "details": "Customer mix is dominated by solo practitioners and small salons (booth renters, indie estheticians) operating in a highly discretionary category. The 60% lost-and-not-returned stat and reliance on small-business budgets means downturns in consumer discretionary spend could drive elevated churn and pressure ARPU.",
+            "headline": "SMB-heavy customer base is vulnerable to macro and discretionary spending pullback",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ]
+          },
+          {
+            "details": "GlossGenius markets a 2.6% flat payment processing rate as a key differentiator, but Stripe processes the underlying transactions. Stripe's pricing, policy changes, or reliability issues directly impact GlossGenius take-rate economics and the merchant experience, limiting control over a core monetization layer.",
+            "headline": "Single-platform dependency on Stripe constrains payment margin and control",
+            "source": [
+              "https://glossgenius.com/legal/terms"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Scale commentary cites 120,000+ businesses on the platform as of 2024-2025, with customers reporting 26% revenue growth in year one and 75% rebooking rates on average, demonstrating product-market fit at scale.",
+            "headline": "Large and growing customer base of 120,000+ businesses",
+            "source": [
+              "https://glossgenius.com/careers"
+            ]
+          },
+          {
+            "details": "In September 2022, GlossGenius raised $25M and tripled its valuation to ~$333M post-money. Subsequently raised a $28M Series C in July 2023 led by L Catterton, with Bessemer Venture Partners, HearstLab, and Imaginary Ventures participating, marking continued institutional confidence.",
+            "headline": "Strong VC backing with marquee investors and 3x valuation step-up",
+            "source": [
+              "https://www.latestly.com/socially/technology/glossgenius-triples-valuation-raises-25m-to-give-beauty-industrys-tech-stack-a-makeover-latest-tweet-by-techcrunch-4256935.html"
+            ]
+          },
+          {
+            "details": "2024-2026 product launches introduced AI Agents (Growth Agent, Marketing Agent, AI Receptionist powered by ElevenLabs), described as autonomous agents that work 24/7 to fill calendars and grow revenue. AI Growth Analyst already identified over $5M in potential revenue opportunities for customers, a capability not commonly matched by competitors.",
+            "headline": "AI agent differentiation creates a tech moat versus vertical SaaS peers",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "Revenue model combines subscription tiers ($24-$148/month), a flat 2.6% payment processing rate, hardware sales (Tap & Go card readers), BNPL (Affirm/Afterpay/Klarna), instant payouts, and salon/spa loans, blending high-margin subscription with compounding transaction-based revenue.",
+            "headline": "Diversified revenue across subscriptions, payment take-rate, hardware, and financial services",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "GlossGenius was named to the 2024 SMBTech50 list, a Nasdaq/Stifel/Fenwick partnership recognizing top 50 private technology companies serving the small business economy. The list collectively raised over $29B in venture capital, lending GlossGenius reputational credibility among SMB customers and partners.",
+            "headline": "Industry recognition on the 2024 SMBTech50 list",
+            "source": [
+              "https://notablecap.com/blog/the-small-business-boom-in-america-happening-now-powered-by-smbtech"
+            ]
+          },
+          {
+            "details": "Customer segments span Beauty (hair, nail, lashes, makeup, barber), Wellness (esthetics, massage, chiropractic, yoga, pilates, personal training), Medspa & Health (injectables, medical weight loss, PT, behavioral therapy), and Fitness. Vertical depth is reinforced by HIPAA support and EMR charting for medspa/health.",
+            "headline": "Strong vertical specialization across multiple high-value service categories",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          },
+          {
+            "details": "Platform-reported outcomes include 26% more revenue in year one, 75% rebooking, 40 hours saved per month on admin, and 2.6x more revenue for businesses processing payments through GlossGenius, providing a strong value narrative for sales and upsell motions.",
+            "headline": "Compelling quantified customer outcomes enhance monetization potential",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer base is a long-tail of 120,000+ SMBs across beauty, wellness, medspa, health, and fitness verticals with no disclosed enterprise anchors or logos representing material revenue share. Pricing tiers ($24-$148/month) and a flat 2.6% transaction rate indicate a high-volume, low-ACV model with negligible single-customer concentration. Customer quotes span hair salons, medspas, estheticians, personal trainers, chiropractors, and pet groomers, reinforcing segment diversification. The structural risk is not concentration but SMB churn and macroeconomic sensitivity of discretionary beauty and wellness spend.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "Vagaro is a direct vertical SaaS competitor offering booking, payments, marketing, and salon/spa management software to the same SMB beauty and wellness market GlossGenius targets, with comparable subscription tiers and a similar all-in-one value proposition.",
+            "name": "Vagaro",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000049s"
+          },
+          {
+            "description": "Fresha is a leading global salon and spa software platform that competes head-to-head with GlossGenius on booking, payments, and marketplace discovery. Like GlossGenius, Fresha emphasizes transparent flat-rate payment processing and serves solopreneurs and multi-location operators.",
+            "name": "Fresha",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00004od"
+          },
+          {
+            "description": "Mindbody is the established incumbent in fitness, wellness, and salon/spa management software, offering a broader portfolio than GlossGenius across verticals (fitness, salon, spa, wellness) with deeper enterprise features and a long-standing marketplace.",
+            "name": "Mindbody",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0002j5r"
+          },
+          {
+            "description": "Boulevard is a premium salon and spa software platform targeting upscale and multi-location operators, with a particular focus on medspa and self-care brands. It directly competes with GlossGenius in the Platinum/mid-market tier and on the medspa vertical.",
+            "name": "Boulevard",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00005dt"
+          },
+          {
+            "description": "Mangomint is a modern salon and spa software platform emphasizing client experience and operational tools. It competes directly with GlossGenius in mid-market and multi-location salons and is frequently compared in GlossGenius's own competitive content.",
+            "name": "Mangomint",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00007y4"
+          },
+          {
+            "description": "Zenoti is an enterprise-grade spa, salon, and medspa software platform serving multi-location brands worldwide. It overlaps with GlossGenius's Platinum tier and medspa/health verticals but with a stronger enterprise and global focus.",
+            "name": "Zenoti",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00003w9"
+          },
+          {
+            "description": "Square Appointments is the scheduling and booking arm of Block's Square payment platform, targeting small service businesses with bundled payments and software. It competes with GlossGenius at the entry level by leveraging Square's brand and payments ecosystem.",
+            "name": "Square Appointments",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "000068h"
+          },
+          {
+            "description": "Booksy is a salon, spa, and barbershop booking and management platform with a strong consumer marketplace. It is featured in GlossGenius comparison content and competes for the same SMB beauty and barbershop market, particularly internationally.",
+            "name": "Booksy",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000041f"
+          },
+          {
+            "description": "StyleSeat is a beauty and wellness booking marketplace and software provider serving independent beauty professionals. It is listed in GlossGenius comparison materials and competes for the solo hairstylist and solo esthetician segment.",
+            "name": "StyleSeat",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0003ayg"
+          },
+          {
+            "description": "Treatwell is a leading European salon and spa booking marketplace and SaaS platform operating primarily in EMEA. It is not a direct U.S. competitor but represents the geographic scope that GlossGenius lacks as it expands internationally.",
+            "name": "Treatwell",
+            "type": {
+              "code": "regional_player",
+              "label": "Regional Player"
+            },
+            "uuid": "000ahte"
+          }
+        ]
+      },
+      "firmographic": {
+        "name": "GlossGenius",
+        "legal_name": "GlossGenius, Inc.",
+        "website": "glossgenius.com",
+        "company_type": {
+          "code": "private",
+          "label": "Private"
+        },
+        "founded_year": 2016,
+        "operating_status": {
+          "code": "operating",
+          "label": "Operating"
+        },
+        "ownership_category": {
+          "code": "venture_growth_investor_backed",
+          "label": "Venture Growth Investor Backed"
+        },
+        "headcount_range": "251-500",
+        "logo_url": "https://files.akta.pro/logos/00/00/le/b355f107-7793-5f48-a286-523edfea7c2d.png",
+        "akta_rank": 219772
+      },
+      "business_model": {
+        "gtm_motion": [
+          {
+            "description": "GlossGenius operates primarily as a self-serve product-led growth platform with a 14-day free trial (no credit card required) and free data transfer service to attract new customers. The platform offers AI agents (Growth Agent, Marketing Agent) that work autonomously 24/7 to earn more revenue. Direct sales motion exists for enterprise/multi-location businesses through demo requests and sales team engagement. The platform targets solopreneurs, single-location businesses, and multi-location operations across beauty, wellness, medspa, health, and fitness verticals.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "type": {
+              "code": "product_led_growth",
+              "label": "Product Led Growth"
+            }
+          },
+          {
+            "description": "B2C/B2B hybrid go-to-market targeting beauty and wellness service business owners directly. The company drives demand through content marketing (blog, webinars, masterclasses), comparison content against competitors (GlossGenius vs Vagaro, Fresha, Square, etc.), success stories, and educational resources about AI adoption in the beauty industry. The platform emphasizes measurable outcomes like '26% more revenue in year one' and '40 hours saved per month on admin.'",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ],
+            "type": {
+              "code": "direct_to_consumer",
+              "label": "Direct To Consumer"
+            }
+          }
+        ],
+        "revenue_model": [
+          {
+            "description": "Monthly/annual subscription fees for platform access across three tiers (Standard, Gold, Platinum). Pricing ranges from $24-148/month depending on tier and billing frequency. Includes core booking, scheduling, payments, marketing, and business management features.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Subscription Plans",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "2.6% flat payment processing rate with no hidden fees for Tap to Pay, card-on-file, or manual entry transactions. Revenue generated from transaction fees on every payment processed through the platform.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Payment Processing",
+            "type": {
+              "code": "transaction_fee",
+              "label": "Transaction Fee"
+            }
+          },
+          {
+            "description": "Sale of GlossGenius card readers and point-of-sale hardware through the GeniusShop e-commerce store.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Hardware Sales",
+            "type": {
+              "code": "hardware_sales",
+              "label": "Hardware Sales"
+            }
+          },
+          {
+            "description": "Merchants can create and sell memberships and packages to clients, generating recurring revenue for the platform through increased transaction volume.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Memberships & Packages",
+            "type": {
+              "code": "subscription_recurring",
+              "label": "Subscription Recurring"
+            }
+          },
+          {
+            "description": "Gift card sales that drive additional transaction volume through the platform.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Gift Cards",
+            "type": {
+              "code": "transaction_fee",
+              "label": "Transaction Fee"
+            }
+          },
+          {
+            "description": "Provides loans and financing options to merchants, generating revenue through interest or fees on capital advances.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "title": "Loans & Financing",
+            "type": {
+              "code": "managed_services",
+              "label": "Managed Services"
+            }
+          }
+        ],
+        "marketing_channels": [
+          {
+            "description": "Educational blog covering topics including salon software comparisons, business growth strategies, AI adoption, marketing guides, and industry insights. Includes success stories, webinars, and how-to guides.",
+            "source": [
+              "https://glossgenius.com/blog"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "GlossGenius Blog",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "On-demand masterclasses featuring successful customers discussing topics like AI adoption, medspa growth, salon scaling, and business profitability. Includes webinars like 'How High-Performing Salon, Spa & Medspa Owners Use AI' and '5 Strategies for Service Business Profitability.'",
+            "source": [
+              "https://glossgenius.com/blog"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Webinars and Masterclasses",
+            "type": {
+              "code": "webinars_virtual_events",
+              "label": "Webinars/ Virtual Events"
+            }
+          },
+          {
+            "description": "Detailed comparison articles against competitors including Vagaro, Fresha, Square, Booksy, Mangomint, Zenoti, StyleSeat, Boulevard, and others. Articles like 'GlossGenius vs Vagaro: Everything You Need to Know in 2026' and 'Fresha vs GlossGenius: An Honest Comparison.'",
+            "source": [
+              "https://glossgenius.com/blog"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Comparison Content",
+            "type": {
+              "code": "content_marketing_blog",
+              "label": "Content Marketing/ Blog"
+            }
+          },
+          {
+            "description": "Active presence on Instagram, Facebook, and X (Twitter) showcasing product features, customer success stories, and company culture. Instagram handle: @glossgenius.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "Social Media (Instagram, Facebook, X)",
+            "type": {
+              "code": "organic_social",
+              "label": "Organic social"
+            }
+          },
+          {
+            "description": "Targeted search queries for salon software, booking apps, spa management software, and beauty business tools. Comprehensive resource library ranks for buyer intent keywords.",
+            "source": [
+              "https://glossgenius.com/blog"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "SEO / Organic Search",
+            "type": {
+              "code": "seo_organic_search",
+              "label": "SEO/ Organic Search"
+            }
+          },
+          {
+            "description": "Refer-a-Friend feature and referral credit program that incentivizes existing customers to recommend GlossGenius to peers. Referrals Credit mentioned as a customer benefit.",
+            "source": [
+              "https://glossgenius.com/careers"
+            ],
+            "stage": {
+              "code": "post_sale",
+              "label": "Post Sale"
+            },
+            "title": "Referral Program",
+            "type": {
+              "code": "referral_affiliate_partner",
+              "label": "Referral/affiliate/ partner"
+            }
+          },
+          {
+            "description": "Educational platform and community for customers to learn platform features and best practices, building engagement and reducing churn.",
+            "source": [
+              "https://glossgenius.com/careers"
+            ],
+            "stage": {
+              "code": "mid_funnel",
+              "label": "Mid funnel"
+            },
+            "title": "Gloss University",
+            "type": {
+              "code": "community_developer_relations",
+              "label": "Community/ Developer relations"
+            }
+          },
+          {
+            "description": "Featured in press and media as indicated by 'Featured in' section on website, including mentions in beauty and wellness industry publications.",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "stage": {
+              "code": "top_of_funnel",
+              "label": "Top of Funnel"
+            },
+            "title": "PR / Earned Media",
+            "type": {
+              "code": "pr_earned_media",
+              "label": "PR/ Earned Media"
+            }
+          }
+        ],
+        "distribution_channels": [
+          {
+            "description": "Primary distribution channel through glossgenius.com offering 14-day free trial signup, direct subscription, and self-serve onboarding. No credit card required for trial. Includes free data transfer service.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "target_buyer": {
+              "code": "smb_individual_consumer",
+              "label": "SMB/Individual/Consumer"
+            },
+            "title": "Direct Website (glossgenius.com)",
+            "type": {
+              "code": "self_serve_plg",
+              "label": "Self-serve/ PLG"
+            }
+          },
+          {
+            "description": "iOS and Android mobile apps for on-the-go business management, scheduling, and client interactions.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ],
+            "target_buyer": {
+              "code": "smb_individual_consumer",
+              "label": "SMB/Individual/Consumer"
+            },
+            "title": "Mobile App Distribution",
+            "type": {
+              "code": "self_serve_plg",
+              "label": "Self-serve/ PLG"
+            }
+          },
+          {
+            "description": "Sales team engagement for Platinum tier and multi-location businesses. 'Talk to sales' CTA for custom pricing and enterprise features. 'Book a demo' option for personalized product demonstrations.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ],
+            "target_buyer": {
+              "code": "mid_market",
+              "label": "Mid-market"
+            },
+            "title": "Sales-Assisted (Demo Request)",
+            "type": {
+              "code": "direct_sales",
+              "label": "Direct Sales (field/enterprise)"
+            }
+          },
+          {
+            "description": "Integration with Google Booking/Reserve with Google allows businesses to be discovered and booked through Google Search and Maps, driving organic customer acquisition.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://glossgenius.com/"
+            ],
+            "target_buyer": {
+              "code": "smb_individual_consumer",
+              "label": "SMB/Individual/Consumer"
+            },
+            "title": "Google Reserve Integration",
+            "type": {
+              "code": "channel_reseller_var",
+              "label": "Channel/ Reseller/ VAR"
+            }
+          },
+          {
+            "description": "E-commerce store at shopbeauty.glossgenius.com for GlossGenius card readers and point-of-sale hardware. Includes 10-day hassle-free returns.",
+            "scope": "Single Country/ Domestic",
+            "source": [
+              "https://glossgenius.com/careers"
+            ],
+            "target_buyer": {
+              "code": "smb_individual_consumer",
+              "label": "SMB/Individual/Consumer"
+            },
+            "title": "GeniusShop (Hardware E-commerce)",
+            "type": {
+              "code": "ecommerce",
+              "label": "E-commerce (own storefront)"
+            }
+          }
+        ],
+        "cost_components": [
+          "Personnel",
+          "Technology or R&D",
+          "Marketing or Sales",
+          "Infrastructure",
+          "Operations"
+        ],
+        "pricing_details": [
+          {
+            "billing_cadence": {
+              "code": "monthly",
+              "label": "Monthly"
+            },
+            "description": "Standard - Business essentials for solopreneurs",
+            "model": {
+              "code": "subscription",
+              "label": "Subscription"
+            },
+            "notes": "$28/month billed monthly, or $24/month billed annually (14% savings). Includes: Custom Booking Website, Unlimited Client Notifications, Email & Text Marketing, Inventory & Retail Management, Packages & Memberships.",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ]
+          },
+          {
+            "billing_cadence": {
+              "code": "monthly",
+              "label": "Monthly"
+            },
+            "description": "Gold - Growth tools for entrepreneurs and teams (Most Popular)",
+            "model": {
+              "code": "subscription",
+              "label": "Subscription"
+            },
+            "notes": "$56/month billed monthly, or $48/month billed annually (14% savings). Includes everything in Standard plus: Forms & Waivers, Google Booking & Reviews, Automated waitlist, Time Tracking, Room & Resource Management.",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ]
+          },
+          {
+            "billing_cadence": {
+              "code": "monthly",
+              "label": "Monthly"
+            },
+            "description": "Platinum - Power features for scaling growth",
+            "model": {
+              "code": "subscription",
+              "label": "Subscription"
+            },
+            "notes": "$168/month billed monthly, or $148/month billed annually (12% savings). Includes everything in Gold & Standard plus: Team Goal Setting & Analytics, Customizable commissions, Google Marketing Analytics.",
+            "source": [
+              "https://glossgenius.com/free-trial"
+            ]
+          },
+          {
+            "billing_cadence": {
+              "code": "pay_as_you_go",
+              "label": "Pay-as-you-go"
+            },
+            "description": "Payment Processing Rate",
+            "model": {
+              "code": "transaction_based_take_rate",
+              "label": "Transaction based/ take rate"
+            },
+            "notes": "2.6% flat rate per transaction with no hidden fees for Tap to Pay, card-on-file, or manual entry. Industry-leading transparent pricing compared to competitors with variable rates.",
+            "source": [
+              "https://glossgenius.com/"
+            ]
+          }
+        ],
+        "gtm_type": {
+          "code": "b2b",
+          "label": "B2B"
+        },
+        "offering_type": {
+          "code": "software",
+          "label": "Software"
+        }
+      }
+    },
+    "credits_consumed": 6
+  }
+}

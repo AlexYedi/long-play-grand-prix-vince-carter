@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Halyard Ventures Fund I · Q3 2026 review</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header id="top">
+  <div class="title"><strong>Halyard Ventures Fund I</strong> · Q3 2026 · <span class="synthetic">SYNTHETIC fund data</span> · real public comps</div>
+  <div id="fund" class="fund"></div>
+  <nav class="tabs"><button data-tab="review" class="active">GP review</button><button data-tab="letter">LP letter</button></nav>
+</header>
+<main id="review" class="view">
+  <aside id="segments"></aside>
+  <section id="card"><p class="muted">Select a company.</p></section>
+  <aside id="source"><p class="muted">Click any number to see where it came from.</p></aside>
+</main>
+<main id="letter" class="view hidden">
+  <section id="letter-body"></section>
+  <aside id="letter-source" class="source-pane"><p class="muted">Click any number to see where it came from.</p></aside>
+</main>
+<div id="pop" class="pop hidden">
+  <div class="pop-target"></div>
+  <textarea rows="3" placeholder="Note or question"></textarea>
+  <div class="pop-actions">
+    <button data-act="annotate">Annotate</button>
+    <button data-act="founder">Ask founder</button>
+    <button data-act="ops">Ask ops team</button>
+    <button data-act="gp">Ask GP</button>
+    <button data-act="close" class="link">Cancel</button>
+  </div>
+</div>
+<script type="module" src="/app.js"></script>
+</body>
+</html>

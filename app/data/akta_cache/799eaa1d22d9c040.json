@@ -1,0 +1,295 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000lea&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:33.903Z",
+  "data": {
+    "total": 2,
+    "limit": 50,
+    "offset": 0,
+    "count": 2,
+    "data": [
+      {
+        "id": 31910650,
+        "title": "GlossGenius Becomes Genius AI: Inside the $1.15B Bet on the Physical Economy",
+        "url": "https://www.techstars.com/blog/startup-spotlight/glossgenius-becomes-genius-ai-inside-the-dollar115b-bet-on-the-physical-economy",
+        "publisher": "Accelerate Your Success",
+        "published_date": "2026-07-23T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "GlossGenius has rebranded as Genius AI following a Series D funding round that valued the company at $1.15 billion, bringing its total capital raised past $125 million. The company aims to expand its platform beyond beauty and wellness to serve the broader in-person service economy by automating administrative tasks through AI agents. ",
+        "word_count": 519,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Mass-Market Multi-category (1P/3P) Marketplaces",
+            "code": "CRAFAAAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Brand & Marketing Initiatives",
+            "code": "SD07",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000lea",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "02m5o8i",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3851",
+            "name": "OPHTHALMIC GOODS"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "leah cohen-shohet",
+            "danielle cohen-shohet"
+          ],
+          "location": [
+            "america",
+            "u.s."
+          ],
+          "product": [
+            "glossgenius",
+            "genius ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6980438,
+        "full_text": "GlossGenius Becomes Genius AI: Inside the $1.15B Bet on the Physical Economy\nJuly 23, 2026\nGlossGenius (Techstars 2015) has rebranded as Genius AI after raising a Series D at a $1.15B valuation, betting that AI will make human expertise more valuable, not less, in the in-person service economy.\nGlossGenius (Techstars 2015) just changed its name. Not because the beauty and wellness scheduling app people fell in love with was broken, but because it had outgrown what its old name could hold.\nThis week, the company announced a Series D at a $1.15 billion valuation, pushing its total capital raised past $125 million. Alongside the raise, the company introduced a new corporate name, Genius AI, with GlossGenius continuing on as its flagship product.\nThe rebrand isn't cosmetic. As co-founders Danielle Cohen-Shohet and Leah Cohen-Shohet explained in a note published the same day, the customer base has grown well beyond beauty and wellness, and the product has grown well beyond software. The new name reflects both.\nFrom Back-Office Tool to “Physical Economy” AI\nGlossGenius launched on a simple premise. Let service professionals focus on their craft instead of their back office. The founders bootstrapped the company for years, deliberately starting with an industry they saw as one of the most technologically underserved in America, beauty and wellness. Every hour a stylist or esthetician spent chasing no-shows, reconciling payments, or managing a calendar was an hour taken from clients.\nThat focus has scaled. GlossGenius now says it powers more than 125,000 businesses across half of all U.S. ZIP codes, spanning salons, med spas, physical therapy practices, and wellness studios. The company estimates its platform has saved those businesses 112 million hours of administrative work and helped generate more than $2 billion in additional revenue, with the business itself approaching a $200 million revenue run rate this quarter.\nThe bigger claim in the founders' note is about where AI is headed next. Their argument is that as models automate more knowledge work, in-person, human expertise, think the stylist, the physical therapist, the trainer, becomes more valuable, not less. They point to roughly 8 million U.S. businesses built around this kind of hands-on service work, representing more than $2 trillion in annual spend. Genius AI's bet is that this \"physical economy\" is entering its best era, and that the winning platform will be the one that runs the admin work autonomously rather than just helping with it.\nThat shift is already visible in the product. Beyond its core scheduling, payments, and point-of-sale tools, GlossGenius has been rolling out AI agents, including a Growth Agent, a Marketing Agent, and a Reception tool that answers calls and texts around the clock, aimed at automating the busywork that surrounds every appointment rather than just recording it.\nThe Pitch, in One Line\nThe announcement's headline captures the thesis the company is now built around. \"Your genius is the craft. Let everything else run itself.\" It's a bet that the value of human expertise rises as AI takes over everything adjacent to it, and that GlossGenius, now under the Genius AI banner, wants to be the layer that disappears so the practitioner doesn't have to think about it.\nLearn more at genius.ai."
+      },
+      {
+        "id": 31910665,
+        "title": "Introducing Genius AI: The Company Behind GlossGenius Raises Series D at a $1.15 Billion Valuation",
+        "url": "https://finance.yahoo.com/technology/ai/articles/introducing-genius-ai-company-behind-175000570.html",
+        "publisher": "Yahoo",
+        "published_date": "2026-07-21T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Genius AI, formerly known as GlossGenius, secured $44 million in Series D financing at a $1.15 billion valuation led by Lux Capital. The company is rebranding to reflect its expansion into agentic AI products for the in-person service sector, aiming to automate administrative workflows for approximately 8 million businesses. With over 125,000 active clients and a revenue run-rate approaching $200 million, Genius AI focuses on reducing administrative burdens in industries like beauty and wellness. ",
+        "word_count": 424,
+        "original_language": "EN",
+        "author": "Genius Ai",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000003h",
+            "name": "Bessemer Venture Partners",
+            "website": "http://www.bvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "02m5o8i",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008q3",
+            "name": "Imaginary Ventures",
+            "website": "https://imaginary.co/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000hm",
+            "name": "L Catterton",
+            "website": "http://www.lcatterton.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000a3",
+            "name": "Lux Capital",
+            "website": "https://luxcapital.li",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000a2n",
+            "name": "2048 Ventures",
+            "website": "https://www.2048.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000lea",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002j6",
+            "name": "StepStone Group",
+            "website": "https://www.stepstonegroup.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "danielle cohen-shohet",
+            "leah cohen-shohet"
+          ],
+          "location": [
+            "u.s.",
+            "ny",
+            "new york"
+          ],
+          "product": [
+            "glossgenius"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 4862879,
+        "full_text": "NEW YORK, NY / ACCESS Newswire / July 21, 2026 / Genius AI, the technology platform for in-person service businesses, today announced $44 million in Series D financing at a $1.15 billion valuation. The round was led by Lux Capital, with participation from Bessemer Venture Partners, Imaginary Ventures, L Catterton Growth, 2048 Ventures, StepStone Private Ventures, and other existing investors, bringing the company's total capital raised to more than $125 million. Source: Genius AI (EZ Newswire) Alongside the financing, the company announced its new corporate name, Genius AI. This name reflects the expansion of its customer base and product vision: helping every service business run itself. That work began with GlossGenius, which today is now one of the flagship products of Genius AI. GlossGenius automates workflows like scheduling, payments, marketing, staff, and client management. GlossGenius is used widely across single and multi-location businesses with staff in verticals like beauty, wellness, and health-related services. GlossGenius will be joined by additional agentic products that execute the work end-to-end rather than assist with it, as part of the Genius AI platform. In-person service businesses represent one of the largest opportunities for AI transformation. There are roughly 8 million of these businesses that generate more than $2 trillion in annual spend. Yet the average owner loses nearly a third of every week to administrative work. As advancing model capabilities make it possible to complete multi-step work autonomously, Genius AI believes AI will expand capacity for human-to-human care - making many services more human, not less. \"The best work happens with a true partner beside you. As identical twins, we grew up with that - someone who understands you and makes you better. That's what we want for every owner,\" said Leah Cohen-Shohet, co-founder and Chief Business Officer of Genius AI. Today, more than 125,000 businesses across half of all U.S. ZIP codes run on the platform. The company estimates its products have saved customers 112 million hours of administrative work, helped them generate $2 billion in additional revenue, and facilitated more than 624 million client touchpoints. The company is approaching a $200 million revenue run-rate. \"We believe technology in our space will do the opposite of what people fear: not flatten human craft into automation, but free people to be more present, more expressive, and more connected to the people they serve,\" said Danielle Cohen-Shohet, co-founder and CEO of Genius AI. \"One of the most powerful things AI can do isn't to replace what makes us human. It is to give us room to be more human.\"\n\nStory Continues"
+      }
+    ],
+    "credits_consumed": 0.12
+  }
+}

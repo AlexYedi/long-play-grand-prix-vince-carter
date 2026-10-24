@@ -1,0 +1,128 @@
+{
+  "company_id": "C12",
+  "company": "Halcyra Security",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 163800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 491,
+        "end": 527
+      },
+      "quote": "we finished September at $163.8K MRR",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 1970000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 529,
+        "end": 547
+      },
+      "quote": "roughly $1.97M ARR",
+      "confidence": 0.9
+    },
+    "monthly_burn": {
+      "value": 270000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 372,
+        "end": 408
+      },
+      "quote": "with net burn around $270K per month",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 10480000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 335,
+        "end": 366
+      },
+      "quote": "Cash at quarter end was $10.48M",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 38,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 409,
+        "end": 474
+      },
+      "quote": "we have about 38 months of runway before the hiring plan kicks in",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 23,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 581,
+        "end": 602
+      },
+      "quote": "We are 23 people now.",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 31,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 549,
+        "end": 579
+      },
+      "quote": "across 31 enterprise customers",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Closed an $8M seed-2 at a $60M post-money valuation on September 15",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 238,
+        "end": 298
+      },
+      "quote": "we closed an $8M seed-2 at a $60M post-money on September 15",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "SOC 2 Type II renewal audit slipped to November, and two enterprise deals are waiting on it",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C12_halcyra_2026-10-05.txt",
+      "source_span": {
+        "start": 623,
+        "end": 718
+      },
+      "quote": "the SOC 2 Type II renewal audit slipped to November, and two enterprise deals are waiting on it",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

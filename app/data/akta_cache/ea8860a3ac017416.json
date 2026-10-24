@@ -1,0 +1,697 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002m5&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:08.801Z",
+  "data": {
+    "total": 6,
+    "limit": 50,
+    "offset": 0,
+    "count": 6,
+    "data": [
+      {
+        "id": 33399731,
+        "title": "Overjet adds hands-free hard-tissue and natural voice perio charting",
+        "url": "https://www.drbicuspid.com/clinical/treatment-software/ai/article/15832604/overjet-adds-handsfree-hardtissue-and-natural-voice-perio-charting",
+        "publisher": "DrBicuspid.com",
+        "published_date": "2026-08-20T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9109,
+        "ai_summary": "Overjet launched hands-free hard-tissue and natural voice periodontal charting in Overjet Voice, letting providers complete exams via natural speech. The natural perio feature uses a model trained on over 50 million tokens with 98% accuracy, and both features are available now to all Voice subscribers at no extra cost.",
+        "word_count": 219,
+        "original_language": "EN",
+        "author": "Drbicuspid.Com Staff Writersaug",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Periodontal Diagnostics & Risk Assessment (Perio Charting/Microbial Testing)",
+            "code": "HLABACAL",
+            "is_primary": true
+          },
+          {
+            "name": "Automatic Speech Recognition (ASR)",
+            "code": "HDAAAFAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "denticon",
+            "carestack",
+            "dentrix core",
+            "dentrix ascend",
+            "eaglesoft",
+            "open dental",
+            "overjet voice"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7457,
+        "group_id": 9992364,
+        "full_text": "Overjet has launched hands-free hard-tissue charting and natural voice periodontal charting within Overjet Voice, allowing providers to complete an exam using natural speech while the system captures periodontal measurements, restorative findings, billing codes, and clinical notes directly into the practice management system (PMS).\n\nThe hard-tissue charting feature listens throughout a visit and converts findings on decay, existing restorations, missing teeth, and planned treatment into structured odontogram entries for provider review before submission to the PMS.\n\nFor practices using Overjet's Vision AI, providers can verbally confirm x-ray findings flagged by Vision for the same hands-free charting. Hard-tissue charting is available now on CareStack, Eaglesoft, Open Dental, Dentrix Core, Dentrix Ascend, and Denticon, with more integrations planned, at no additional cost to existing Voice subscribers.\n\nThe natural perio charting update lets hygienists and dentists speak measurements in their own words and sequence rather than following a fixed command format. According to Overjet, the underlying model was trained on more than 50 million training-token exposures and understands natural phrasing with more than 98% accuracy.\n\nBoth features are available now to all Overjet Voice subscribers with no additional hardware or workflow changes.\n\nThe comments and observations expressed herein do not necessarily reflect the opinions of DrBicuspid.com, nor should they be construed as an endorsement or admonishment of any particular idea, vendor, or organization. Some content may be AI-generated."
+      },
+      {
+        "id": 20410320,
+        "title": "Three Trends Driving Dental Practices Into the Cloud",
+        "url": "https://www.dentistrytoday.com/three-trends-driving-dental-practices-into-the-cloud/",
+        "publisher": "Dentistry Today",
+        "published_date": "2026-03-09T15:29:38",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.7083,
+        "ai_summary": "The article discusses the increasing adoption of cloud-based software and AI in dental practices, driven by generational shifts, staffing challenges, and the integration of dental care with broader healthcare services. It highlights the growth of SaaS solutions such as Oryx, Vyne, Overjet, and Pearl that improve efficiency and patient outcomes. ",
+        "word_count": 1099,
+        "original_language": "EN",
+        "author": "Dentistry Today",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Dental Teleconsultation Marketplaces",
+            "code": "HLALALAL",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Operational Milestones",
+            "code": "SD04",
+            "is_primary": false
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002dz",
+            "name": "Pearl",
+            "website": "https://hellopearl.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0008hwq",
+            "name": "Oryx Dental",
+            "website": "https://www.oryxdental.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0005sop",
+            "name": "Vyne Dental",
+            "website": "https://vynedental.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "rania saleh"
+          ],
+          "location": [
+            "dc",
+            "us"
+          ],
+          "product": [
+            "pearl",
+            "overjet",
+            "vyne",
+            "oryx software",
+            "oryx dental"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9958,
+        "group_id": 175368,
+        "full_text": "Todays Dental News Web Exclusives Three Trends Driving Dental Practices Into the Cloud By Rania Saleh, DDS, MSD When it comes to software, dentistry has been an under-innovated space for decades. When I was starting my own private cosmetic practice in the mid-2010s, I was shocked by how basic the traditional technology was: on-premise, clunky, and with no real clinical component. It was no wonder so many dental practices still used pen-and-paper or manual processes for taking notes, filling out charts, or communicating information to front office team members. Clinicians can bring all the components of a modern dental practice within their reach with Oryx software, a fully managed, all-in-one solution. Photo credit: Oryx Dental. Thankfully, times are changing. While dentistry was largely left out of the software as a service (SaaS) revolution that transformed so many other verticals in the 2000s, there are finally purpose-built options for dental practices. For example, Vyne provides RCM tools specific to dentistry’s quirks; Overjet and Pearl use the latest in cloud and AI for imaging; and my own company, Oryx Dental, offers an all-in-one practice management system (PMS) built only and specifically for dentists. As a result, we’ve seen a growing number of dentistry practices moving to the cloud. In fact, at Oryx, we doubled our annual recurring revenue in just 12 months. We don’t see that trend slowing any time soon, either. There are broader market forces at play that will push dental practices of all shapes, sizes, and specialties towards the cloud. 1. A New Wave of Dentists Is Entering the Workforce The Boomer generation, commonly defined as people born between 1946 and 1964, are retiring in waves. Right now, we’re in the center of the generation, which means in the next 10 years, we can expect more Boomer dentists to exit the workforce. As they do so, new opportunities arise for newer dentists in several ways: For younger dentists who are working for these soon-to-be-retirees , they may purchase the practice from their mentor or colleague.\n\n, they may purchase the practice from their mentor or colleague. For those who have already established their own practice , they may want to open new locations by acquiring a well-established practice.\n\n, they may want to open new locations by acquiring a well-established practice. Or, for those looking to start their own practice, they’ll find ample patients seeking a new dental practice once their old one shuts down. In all 3 of these situations, a younger, more tech-savvy generation will be making major decisions about how to run a business, including the patient experience, communication, workflows, and technology. So, whether they’re starting from scratch and want a firm, tech-forward foundation or need to integrate patient data, processes, and teams from multiple locations, a younger wave of dental decision-makers will drive more practices onto modern, cloud-first platforms. 2. The Staffing Crunch Continues Since the pandemic, hiring has been a major challenge for dental practices across the US. It’s harder than ever to find great front- or back-office team members. Practice managers are being asked to do more than ever. And with costs rising across the board—from medical school tuition to materials—dentists can’t afford to spend less time in the chair while doing administrative work. Cloud-based technology can significantly shorten workflows by reducing friction. For example: Patients can provide health, insurance, and other information ahead of time via online forms that automatically integrate with the PMS.\n\nWith clinical notes entered into charts via ambient AI voice technology, dentists don’t need to bring information to the front desk for the patient’s next appointment or procedure—the information is there by the time the patient checks out.\n\nAI imaging providers like Overjet, Pearl, and others can quickly give dentists information to assess, diagnose, and determine treatment plans for patients.\n\nAutomation tools can append information to insurance submissions, reducing the amount of back-and-forth with carriers and leading to more timely reimbursements.\n\nClinical, Patient Engagement, and Practice Management modules ensure that nothing gets missed, and free up time so practices can focus more fully on their patients. These are just a few, high-level examples of ways that SaaS and AI solutions can drive efficiency in dental practices—a need that will only accelerate as costs rise and pressures mount. 3. Dental Care Will Become More Integrated with Healthcare When I was running my cosmetic dentistry practice outside DC, I used a thorough, Kois Center-inspired process for assessing patients. I often saw issues in the mouth that pointed to broader health issues like early cancers and would refer patients to medical specialists. In fact, I remember getting calls from doctors thanking me for a referral, as they were able to catch early cancers. They were amazed that a dentist would be able to spot the warning signs. But those of us who sit in the chair know it’s not unusual at all: dental care is healthcare. Oral health is increasingly shown to be tied to major conditions like cardiac disease, diabetes, and more. Organizations like the ADA and the FDI are already calling for dental information to be integrated into EHRs. Given the technological and insurance differences between dentistry and general healthcare, there’s a long road ahead to make dental/healthcare integration a reality. But by having their patient data digitized, in the cloud, and accessible, dental practices—especially large groups or DSOs—will be better positioned for an industry-wide shift towards integrated health. Dentistry’s Future Has Arrived\n\nThere’s a famous quote that’s often used in some version or another by the tech industry, widely attributed to the science fiction writer William Gibson: “The future is already here—it’s just not evenly distributed.”\n\nWhen it comes to dentistry, that’s certainly true. We have incredible leaps in technology not just poised to transform but already available to dental practices all over the world. If a dental practice wants to seamlessly communicate between locations, integrate patient data, automate patient scheduling and the patient experience, and use AI to speed practice workflows, opportunities to do so exist. But not all dental practices are there yet—in fact, most dental practices still use old-fashioned, on-prem technology. That will change rapidly as purpose-built SaaS and AI technologies prove their worth and as word spreads. The future of dentistry is, indeed, already here. Rania Saleh, DDS, MSD, is the founder and CEO of Oryx Dental Software. Prior to starting the company, she was the founder and owner of a multi-site dental practice in the DC area. Dr. Rania attended McGill University, where she received both her DDS and MSD. Previous Post AquaSonic Launching New Electric Toothbrush in Target Stores Nationwide Next Post Dentsply Sirona Advances Dental Imaging With MRI"
+      },
+      {
+        "id": 21858352,
+        "title": "How One Leading DSO Used Analytics to Drive a 26% Increase in Crown Treatment Planning Rates",
+        "url": "https://medcitynews.com/2026/02/how-one-leading-dso-used-analytics-to-drive-a-26-increase-in-crown-treatment-planning-rates/",
+        "publisher": "MedCity News",
+        "published_date": "2026-02-03T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Overjet sponsored a webinar featuring executives from Affinity Dental Management to demonstrate how the company's clinical intelligence software helps dental service organizations improve treatment planning and patient follow-up rates. The webinar highlighted a case where Affinity Dental Management achieved a 26% increase in crown treatment planning rates using Overjet's analytics platform. Topics covered included dental imaging to clinical action workflows, caries detection, and strategies for motivating patients to return for follow-up care.",
+        "word_count": 174,
+        "original_language": "EN",
+        "author": "Stephanie Baum",
+        "countries": [],
+        "industries": [
+          {
+            "name": "General Dentistry Group Practices",
+            "code": "HLABAKAB",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0009o5k",
+            "name": "Affinity Dental Management",
+            "website": "https://affinitydm.com/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000464",
+            "name": "health treatment and procedure"
+          },
+          {
+            "code": "20000470",
+            "name": "health care approach"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "316",
+            "name": "Medical Health"
+          },
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "6212",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "62121",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "dr. gordon barfield",
+            "marguerite dorsa",
+            "dr. mariz tanious",
+            "viktoriia yanchuk"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7266,
+        "group_id": 990194,
+        "full_text": "One of the challenges among dental practices, also known as dental service organizations (DSOs), is not only helping dentists and orthodontists use clinical intelligence for administrative needs for clinical decision support, but also getting patients to come back for follow-up care for cavities and crowns.\n\nIn a recent webinar sponsored by Overjet, Two Perspectives, One Playbook: How Clinical and Regional Leaders Boost Treatment Planning, executives from Affinity Dental Management offered examples of Overjet’s software in action, improving DSO revenue generation and clinical outcomes.\n\nAmong those who took part in the webinar are:\n\nDr. Mariz Tanious, Affinity Dental Management Chief Dental Officer\n\nMarguerite Dorsa, Affinity Dental Regional Manager\n\nDr. Gordon Barfield, Overjet Senior Clinical Manager\n\nTopics the webinar highlighted include:\n\nHow to get from a dental image to clinical action and the steps involved\n\nHow to increase the treatment planning rate for crowns\n\nClinical and operational alignment\n\nUse of tech to show patients’ progression of dental issues\n\nCaries detection\n\nHow to motivate patients to return for follow-up care\n\nOperational alignment and team collaboration\n\nTo access a recording of the webinar, fill in the form below:\n\nPhoto: Viktoriia Yanchuk, Getty Images"
+      },
+      {
+        "id": 21447199,
+        "title": "Dental Practice Overhead Benchmarks 2026 (55–65%)",
+        "url": "https://www.zenone.com/blog/dental-practice-overhead-benchmarks-are-you-spending-too-much/",
+        "publisher": "Zenone",
+        "published_date": "2026-01-15T11:14:04",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.2636,
+        "ai_summary": "Dental practice overhead now averages 60-65% of collections, with anything above 70% signaling serious financial trouble and figures below 55% potentially indicating under-investment, according to industry benchmarks from Overjet and the ADA Health Policy Institute.",
+        "word_count": 2246,
+        "original_language": "EN",
+        "author": "Pricing How It Works About Us Wall Of Love Distributors Webinars Classes Blog Comparisons",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Preventive & Routine General Dentistry (Exams/Cleanings/Sealants/Fluoride)",
+            "code": "HLABAAAA",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Cash Flow & Capital Expenditure",
+            "code": "FR04",
+            "is_primary": true
+          },
+          {
+            "name": "Earnings Releases",
+            "code": "FR01",
+            "is_primary": false
+          },
+          {
+            "name": "Workforce Reductions",
+            "code": "WT02",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "003edcz",
+            "name": "ZenOne",
+            "website": "https://www.zenone.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0008r2l",
+            "name": "Blue & Co",
+            "website": "https://www.blueandco.com/",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": false,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "dr. brandon johnson",
+            "miranda moore",
+            "dr. nikki"
+          ],
+          "location": [
+            "urban locations"
+          ],
+          "product": [
+            "zenone"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 177511,
+        "full_text": "Understanding dental practice overhead benchmarks isn’t just good accounting practice. It’s the difference between thriving and barely surviving. If you’ve ever looked at your practice’s profit and loss statement and wondered where all the money goes, you’re not alone.\n\nThe reality is stark: overhead in dental practices now averages 60-65% of collections, with many practices creeping even higher. That means for every dollar you collect, 60 to 65 cents disappears into operating costs before you even think about taking home a paycheck.\n\nSmart dental practice owners know that managing overhead starts with accurate tracking and inventory control. ZenOne helps practices save an average of $17,000 annually through automated inventory management and real-time price comparisons across trusted suppliers.\n\nSee how much you could save →\n\nDental Practice Overhead Percentages: Quick Answer (2026)\n\nMost dental practices run 60–65% overhead (everything it costs to run the office before you pay the dentist). If you’re consistently over 70%, you’re likely bleeding profit. If you’re under 55%, you may be under-investing in team, systems, or growth.\n\nHealthy target: 55–65% total overhead (best-run practices aim lower)\n\n(best-run practices aim lower) Fastest “quick win” category: supplies (prices vary a lot by vendor and waste is common)\n\nTL;DR: Summary of Dental Practice Overhead Benchmarks\n\nDental office overhead percentages should ideally fall between 55-65% of total collections, with high-performing practices targeting the lower end of this range. While staff costs represent the largest expense category in absolute dollars, dental supplies present the biggest opportunity for quick savings often without any sacrifice to patient care quality. The key to maintaining healthy overhead lies in monthly tracking, strategic vendor negotiations, and ruthless elimination of waste in high-impact categories like supplies, staffing, and lab fees. Real practices like Dr. Brandon Johnson save $24,000 annually through systematic supply management, while others reclaim 12 days per year by delegating ordering to their teams with proper systems in place.\n\nKey Points:\n\nTarget overhead range: 55-65% of collections, with anything above 70% signaling serious financial trouble\n\n55-65% of collections, with anything above 70% signaling serious financial trouble Supplies are your biggest leak: Most practices overspend here, but inventory management tools can save around $17,000 annually\n\nMost practices overspend here, but inventory management tools can save around $17,000 annually Staff costs threshold: Keep personnel expenses below 25% of revenue to maintain profitability\n\nKeep personnel expenses below 25% of revenue to maintain profitability Lab and facility watchpoints: Lab fees above 10% and facility costs exceeding 7% indicate inefficiency\n\nLab fees above 10% and facility costs exceeding 7% indicate inefficiency Monthly monitoring matters: Calculate your overhead percentage monthly rather than waiting for year-end surprises\n\nReal Examples: How Dental Teams Cut Overhead Without Cutting Care\n\nHere are practical, real-world takeaways from dental healthcare providers who focused on overhead. These are simple moves that work in real offices—not “perfect world” advice.\n\nSupplies: Stop “panic ordering.” Set par levels so you don’t pay rush prices.\n\n\n\nStop “panic ordering.” Set par levels so you don’t pay rush prices. Staffing: Track production per team member each month so you don’t overstaff for slow weeks.\n\n\n\nTrack production per team member each month so you don’t overstaff for slow weeks. Lab: Review your top 10 lab cases and make sure you’re not paying premium fees for routine work.\n\n\n\nReview your top 10 lab cases and make sure you’re not paying premium fees for routine work. Facility: Check if you’re paying for space you don’t actually use.\n\n\n\nCheck if you’re paying for space you don’t actually use. Tracking: Calculate overhead monthly (not once a year), so problems don’t hide.\n\nWhat Are Dental Practice Overhead Benchmarks in 2026?\n\nThe dental industry continues to face mounting cost pressures, making it more crucial than ever to understand what constitutes healthy overhead. According to comprehensive analysis from Overjet in 2025, “the national median sits around 62% of collections, yet high-performing practices often maintain overhead between 55-60%.” These top-tier practices achieve lower overhead through strategic technology adoption, streamlined workflows, and efficient staffing models.\n\nRecent data from Blue & Co., a major dental CPA firm, reveals that top-performing practices navigated 2025’s cost increases with a 39% margin before debt service, significantly outpacing industry averages.\n\nCurrent Industry Standards by Category\n\nAccording to ADA Health Policy Institute 2023 data, staff costs represent the largest single expense at 25-30% of collections. Clinical supplies and lab fees combined typically account for 4-7% of revenue, though many practices unknowingly exceed these benchmarks.\n\nHere’s how your dental office overhead percentages should break down:\n\nCategory Benchmark Range Notes Staff/Personnel 25-30% Largest expense; includes salaries, benefits, payroll taxes Clinical Supplies 4-6% Controllable through inventory management Lab Fees 6-8% Varies by case mix and volume Facility Costs 6-10% Higher for smaller practices and urban locations Marketing 4-7% (established)\n\n8-10% (growth) Depends on growth phase and competition Admin/Technology 2-8% Software, compliance, general business expenses\n\nBenchmarks vary by location, procedure mix, and practice size—use these as a starting point, then track monthly\n\nThe ADA HPI data also reveals significant variation by practice size: practices with less than $750,000 in collections typically experience 70-80% overhead, those generating $750,000-$1.5 million see 60-70%, while practices exceeding $1.5 million achieve overhead below 60%.\n\nWhat Counts as Overhead?\n\nOverhead includes every operating expense required to run your practice except doctor compensation. This includes:\n\nPersonnel costs: Staff salaries, benefits, and payroll taxes for hygienists, assistants, and administrative team members\n\nStaff salaries, benefits, and payroll taxes for hygienists, assistants, and administrative team members Clinical costs: Dental supplies, laboratory fees, and any in-house lab technician expenses\n\nDental supplies, laboratory fees, and any in-house lab technician expenses Facility expenses: Rent or mortgage payment, utilities, maintenance, equipment leases, and repairs\n\nRent or mortgage payment, utilities, maintenance, equipment leases, and repairs Administrative costs: Accounting fees, insurance premiums, software subscriptions, professional memberships, and office supplies\n\nHow to Calculate Your Overhead Percentage\n\nStep-by-Step Calculation\n\nPull a complete P&L report covering at least 12 months to smooth out seasonal variations Locate your total collections figure after adjusting for refunds. This represents your actual revenue Identify and exclude all doctor compensation from your expense total (owner salary, associate pay, owner benefits, profit distributions) Apply this formula: (Total Overhead Expenses ÷ Total Collections) × 100\n\nExample: If your practice collected $1 million and had $620,000 in overhead expenses (after excluding doctor pay), your overhead percentage equals 62%.\n\nWhat Your Number Means\n\n55-60%: Top-performing practices. This range provides healthy margins for doctor compensation (typically 35-40% of collections), plus retained profits for reinvestment.\n\nTop-performing practices. This range provides healthy margins for doctor compensation (typically 35-40% of collections), plus retained profits for reinvestment. 60-65%: Average range for dental practices. Room for improvement, but not in immediate danger.\n\nAverage range for dental practices. Room for improvement, but not in immediate danger. 65-70%: Warning territory. Practices in the 67-70% range face operational inefficiency that limits profitability.\n\nWarning territory. Practices in the 67-70% range face operational inefficiency that limits profitability. Above 70%: Serious problems requiring immediate intervention.\n\nThe #1 Overhead Category Practices Overspend On (And How to Fix It)\n\nWhile staff costs represent the largest expense in absolute dollars, dental supplies present the biggest opportunity for immediate savings without impacting patient care. The average 5-chair practice spends $50,000-70,000 annually on supplies (roughly 5-7% of collections), but many practices unknowingly exceed these benchmarks.\n\nWhy Dental Supplies Are Your Biggest Leak\n\nDental supplies quietly drain profits through:\n\nEmergency orders at premium prices\n\nExpired materials that must be discarded\n\nExcessive safety stock that ties up cash\n\nInconsistent pricing for identical products from order to order\n\nSupply costs have risen steadily since 2020, with manufacturers passing along increased raw material and shipping expenses. When supply costs grow faster than production, it signals waste, theft, or pricing problems.\n\nReal example: Dr. Brandon Johnson (Brushy Creek Dentistry) was “spending so many hours on eBay, Net32 and Amazon just trying to find the best price.” After implementing systematic price comparison through ZenOne, he now saves $2,000/month ($24,000/year) on his $10,000 monthly supply spend.\n\n5 Ways to Cut Supply Costs Without Sacrificing Quality\n\n1. Implement real-time price comparison across multiple suppliers\n\nTools like ZenOne enable instant side-by-side pricing across 50+ trusted suppliers, ensuring you never overpay for routine items. The platform’s AI-powered search helps practices identify the best deals on 150,000+ products without manual effort.\n\n2. Establish strict inventory par levels based on actual usage\n\nTrack consumption by operatory to identify waste, and set automated alerts when stock reaches predetermined minimums.\n\n3. Standardize your product formulary\n\nToo many practices allow each dentist to specify preferred brands for every category, multiplying SKU counts and eliminating volume discounts.\n\n4. Negotiate annual contracts with volume rebates\n\nJoin a group purchasing organization or use a centralized procurement platform to leverage collective buying power.\n\n5. Conduct quarterly audits of high-value items\n\nImplement variance logs to track discrepancies from theft, loss, or expired stock. These controls typically uncover thousands of dollars in annual leakage.\n\nStart comparing prices across suppliers →\n\nAverage Markup From Dental Supply Companies (And Why Prices Vary)\n\nDental supply pricing includes markups at different steps in the supply chain. A common rule of thumb is that distributor markup averages around 20%, but it can range from about 5% to 40% depending on the product and market. That’s why the same gloves or composites can cost very different amounts across suppliers.\n\nTo spot markup pain fast, do this once a quarter:\n\nPull your top 10 most-purchased items from the last 90 days. Compare the unit price across at least 3 suppliers (include shipping). Flag anything where the “same item” is 15%+ cheaper elsewhere. Set your reorder list to default to the best-price supplier. Re-check after 30 days (prices change often).\n\nOther Overhead Killers to Audit Right Now\n\nStaff Costs (If Above 25%)\n\nAccording to industry benchmarks, top-performing practices generate $200,000+ per team member. If you’re significantly below this benchmark, you may have too many people for your current patient volume.\n\nSolutions:\n\nCross-train team members to match labor to demand\n\nBalance retention priorities with cost control through competitive compensation packages\n\nTrack employee turnover costs (recruitment, training, lost productivity often exceed retention expenses)\n\nLab Fees (If Above 10%)\n\nLaboratory fees should remain around 6-8% of revenue for general practices.\n\nSolutions:\n\nNegotiate with multiple laboratories for competitive pricing\n\nConsolidate work for volume discounts\n\nReview case mix for in-house milling opportunities\n\nTrack lab fees monthly as a percentage of collections\n\nSome practices achieve lab cost reductions of 10-13% through systematic vendor management.\n\nFacility Costs (If Above 7%)\n\nWhile facility costs can range from 6-15% depending on practice size and location, the 7% threshold serves as a target for efficient operations in most markets.\n\nAs Overjet notes in their 2025 analysis, “high-volume practices frequently maintain overhead below 60% through operational scale advantages. Large practices distribute fixed costs across more patients while negotiating better supplier terms.”\n\nSolutions:\n\nEnergy efficiency upgrades for older facilities\n\nNegotiate lease renewals well in advance\n\nEvaluate whether square footage matches operational needs\n\nMarketing (The Goldilocks Problem)\n\nThe “just right” amount typically falls between 4-7% of annual revenue for established practices, with newer or aggressively growing practices pushing toward 8-10%.\n\nThe key distinction lies in marketing ROI rather than absolute spending. Track cost per new patient acquisition and lifetime value per patient to determine whether marketing delivers profitable growth.\n\nRed Flags You’re Overspending\n\nSupply Warning Signs\n\nSupply costs above 6-7% of monthly collections\n\nFrequent inventory stockouts requiring emergency orders\n\nExpired materials discovered during inventory counts\n\nMultiple staff placing orders without centralized oversight\n\nCan’t quickly produce a list of top 10 supply expenses\n\nOverall Practice Warning Signs\n\nOverhead consistently exceeding 65% of collections\n\nProduction per dentist stagnating while expenses rise\n\nCash flow problems despite adequate production\n\nRevenue per employee below $150,000\n\nReal example: Miranda Moore (Lead Assistant, Beacon Dentistry) was ordering from 18 different vendors. “Each order took 2-3 hours.” After centralizing with ZenOne: “With Zen I have all my products in one place. Ordering takes 15-20 minutes (85% time reduction).”\n\nConclusion\n\nThe difference between operating at 55% overhead versus 70% equals $150,000 in additional profit on a practice collecting $1 million annually.\n\nReal results from practices using ZenOne:\n\nDr. Brandon Johnson : $24,000/year saved through price comparison\n\n$24,000/year saved through price comparison Dr. Nikki : 12 days/year reclaimed by delegating ordering to team\n\n12 days/year reclaimed by delegating ordering to team Miranda Moore: 85% reduction in ordering time\n\nStart with the categories offering the quickest wins: dental supplies through better inventory management, staff costs through productivity improvements, and facility expenses through space optimization. The practices thriving in 2026 aren’t necessarily the ones with the highest production. They’re the ones maintaining healthy overhead that preserves profitability.\n\nReady to see where your supply costs really stand? Visit zenone.com to discover how automated inventory management helps practices save an average of $17,000 annually through smarter ordering and real-time price comparisons.\n\nFrequently Asked Questions About Dental Practice Overhead\n\nWhat is a good overhead percentage for a dental practice?\n\nA healthy overhead percentage typically falls between 55-65% of collections, with high-performing practices targeting 55-60%. This range provides adequate room for doctor compensation (usually 35-40% of revenue) while maintaining profitability. Anything exceeding 70% requires immediate intervention.\n\nHow much should a dental practice spend on marketing?\n\nMarketing expenses should represent 4-7% of annual revenue for most established practices, with newer or aggressively expanding practices potentially spending 8-10%. Track your cost per new patient acquisition and lifetime patient value to ensure marketing delivers profitable growth.\n\nWhat is average associate dentist production per day?\n\nAssociate dentist production typically ranges from $2,500 to $4,500 per day, with new associates at the lower end ($2,000-$3,000 daily) and experienced associates at the higher end ($3,500-$4,500 daily). High-performing associates in well-managed practices can exceed $5,000-$6,000 per day.\n\nHow often should I review my overhead benchmarks?\n\nReview your overhead benchmarks monthly for calculations and tracking, with quarterly comprehensive comparisons against annual standards. Monthly reviews enable early detection of cost trends, particularly important given the 5% annual overhead increases many practices experience.\n\nDo startup practices have different overhead expectations?\n\nYes. New practices must fund substantial upfront costs including $350,000 to over $500,000 in initial investments before generating revenue. Startups typically experience overhead ranging from 70-80% during their first 12-24 months as fixed costs spread over growing patient volumes. With efficient management, startups can move toward standard 60-65% overhead ranges within 24 months."
+      },
+      {
+        "id": 21446326,
+        "title": "Overjet gets FDA nod for CBCT Assist",
+        "url": "https://www.drbicuspid.com/dental-business/regulatory-updates/article/15774427/overjet-gets-fda-nod-for-cbct-assist",
+        "publisher": "DrBicuspid.com",
+        "published_date": "2025-12-22T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Overjet has received U.S. Food and Drug Administration (FDA) clearance for its CBCT Assist product, an AI-powered tool designed for dental 3D cone-beam computed tomography imaging. The technology automatically identifies, labels, segments, and measures anatomical structures including bone levels, airway space, nerve proximity, and implant site conditions to support diagnostic and treatment planning. This clearance expands Overjet's AI platform capabilities in the dental imaging sector.",
+        "word_count": 79,
+        "original_language": "EN",
+        "author": "Drbicuspid.Com Staff Writersdec",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Cone Beam CT (CBCT) Imaging Centers",
+            "code": "HLABAIAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "319",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "3345",
+            "name": "Manufacturing"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3843",
+            "name": "DENTAL EQUIPMENT & SUPPLIES"
+          },
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "cbct assist"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7689,
+        "group_id": 20425,
+        "full_text": "Overjet has received U.S. Food and Drug Administration (FDA) clearance for CBCT Assist, expanding its AI platform to support 3D cone-beam computed tomography (CBCT) scans. The clearance allows Overjet’s AI to assist with anatomical assessment and diagnostic and treatment planning in dentistry. CBCT Assist is designed to automatically identify, label, segment, and measure key anatomical and restorative structures in 3D images, including bone levels, airway space, nerve proximity, sinus distance, and implant site bone height.\n\nFacebook LinkedIn X (Twitter) Pinterest"
+      },
+      {
+        "id": 22080836,
+        "title": "Medit Launches AuraVue: A Unified 3D Intraoral Scan and X-Ray Visualization Powered by Overjet AI",
+        "url": "https://www.prnewswire.com/news-releases/medit-launches-auravue-a-unified-3d-intraoral-scan-and-x-ray-visualization-powered-by-overjet-ai-302636354.html",
+        "publisher": "PR Newswire",
+        "published_date": "2025-12-09T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Medit, a global provider of 3D intraoral scanners headquartered in Seoul, South Korea, launched AuraVue on December 9, 2025 — a next-generation visualization platform that integrates Overjet's FDA-cleared AI technology to combine 3D intraoral scans and X-rays in a single interactive workspace for real-time diagnostics and patient communication. The platform enables clinicians to view diagnostic data side-by-side and generate one-click summary reports, aiming to boost case acceptance and strengthen patient trust in dental practices. Medit is offering a limited-time introductory promotion to celebrate the launch of AuraVue, which runs entirely on the cloud without requiring installation or local storage.",
+        "word_count": 552,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA",
+          "KOR"
+        ],
+        "industries": [
+          {
+            "name": "Dental Imaging Interpretation & Teleradiology Services",
+            "code": "HLABAIAK",
+            "is_primary": true
+          },
+          {
+            "name": "Medical Imaging AI",
+            "code": "HDAAAEAH",
+            "is_primary": false
+          },
+          {
+            "name": "Image Exchange, Sharing & Patient/Provider Portals (DICOM/Web)",
+            "code": "HLACALAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0005byl",
+            "name": "MEDIT",
+            "website": "https://www.medit.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          },
+          {
+            "code": "20000486",
+            "name": "medical service"
+          },
+          {
+            "code": "20001224",
+            "name": "radiology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "287",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621512",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3841",
+            "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS"
+          }
+        ],
+        "entities": {
+          "person": [
+            "skyler wuolle",
+            "michael lee",
+            "wardah inam",
+            "tiffany yang"
+          ],
+          "location": [
+            "europe",
+            "americas",
+            "seoul",
+            "south korea",
+            "newport beach",
+            "calif."
+          ],
+          "product": [
+            "auravue"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9474,
+        "group_id": 5570827,
+        "full_text": "NEWPORT BEACH, Calif., Dec. 9, 2025 /PRNewswire/ -- Medit, a global leader in 3D intraoral scanning and digital dentistry solutions, today announced the launch of AuraVue, a next-generation visualization and consultation platform that integrates Overjet's AI technology to deliver real-time diagnostic insights and clearer patient communication. Continue Reading\n\nMedit Launches AuraVue: A Unified 3D Intraoral Scan and X-Ray Visualization Powered by Overjet AI With AuraVue, clinicians can now view 3D intraoral scans and X-rays side by side in one interactive workspace. By combining Medit's 3D imaging with Overjet's AI-powered radiographic analysis, AuraVue transforms diagnostic data into clear, visual storytelling that helps patients understand their conditions and treatment plans. \"Most patients understand best when they can see what's happening,\" said Michael Lee, chief technology officer of Medit. \"AuraVue transforms diagnostics into a visual story—helping patients better understand their oral health in seconds and empowering clinicians to communicate with confidence.\" For example, a traditional bitewing can reveal decay, distance to the pulp, bone loss, and existing restorations. AuraVue brings that to life by pairing it with a corresponding 3D scan that shows soft tissue, inflammation, cracks, occlusion, discoloration, and wear—all in the same visual frame. The result is a clear, image-backed treatment plan that helps boost case acceptance and strengthen patient trust. \"AuraVue is a strong example of how technology can advance patient-centered care. By combining Medit's leadership in intra-oral scanning with Overjet's clinical AI, we're giving clinicians a clearer, more complete view of oral health than ever before. When patients can see and understand their conditions in real time, trust grows, decisions become easier, and care improves. We're proud to partner with Medit to make that experience accessible to every practice,\" said Wardah Inam, CEO, Overjet. With AI-powered insights from Overjet, clinicians can simply highlight an area of concern and instantly view the corresponding X-ray with diagnostic information displayed side-by-side. Additionally, AuraVue can generate a one-click summary report for easy sharing, whether with patients, referring practitioners, or for insurance claim submissions. AuraVue runs entirely on the cloud, requiring no installation, local storage, or additional set-up. Users can get started immediately by importing X-rays without having to install Overjet separately. To celebrate its launch, Medit is offering a limited-time introductory promotion for AuraVue. For information on how to take advantage of this offer, visit the Medit website for more details. About Medit Medit is a global provider of 3D intraoral scanners and digital dentistry solutions based on proprietary technology. The company supports collaborative workflows between dental clinics and labs through innovative hardware and software solutions. Headquartered in Seoul, South Korea, since 2000, Medit has a strong global presence through its offices in the Americas and Europe and a distributor network spanning over 100 countries. Disclaimer: AuraVue is a patient consultation and communication application that displays diagnostic results generated by Overjet.ai (FDA approved) software. AuraVue does not analyze, interpret, or provide diagnoses. About Overjet Overjet is the world leader in dental AI. Founded by experts from MIT and Harvard University, Overjet builds artificial intelligence that helps dental organizations give patients the highest quality of care. Its technology is FDA-cleared to detect, outline, and quantify major oral health conditions, enabling dentists to diagnose with precision and educate patients with confidence. To learn more, visit overjet.com. Media Contacts:\n\nTiffany Yang\n\nSr. Marketing Manager\n\ntiffany.yang@medit.com Skyler Wuolle\n\nHead of Product Marketing\n\nskyler.wuolle@overjet.ai SOURCE Medit"
+      }
+    ],
+    "credits_consumed": 0.16
+  }
+}

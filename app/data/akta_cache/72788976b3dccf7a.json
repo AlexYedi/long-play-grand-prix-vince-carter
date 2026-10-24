@@ -1,0 +1,1206 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00008iv&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:06.601Z",
+  "data": {
+    "total": 11,
+    "limit": 50,
+    "offset": 0,
+    "count": 11,
+    "data": [
+      {
+        "id": 35606539,
+        "title": "Anthropic被曝雇1000名人类工程师训练Claude Code- DoNews",
+        "url": "https://www.donews.com/news/detail/1/6586310.html",
+        "publisher": "DoNews",
+        "published_date": "2026-06-08T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6633,
+        "ai_summary": "Anthropic is enhancing Claude Code through a project called Marlin, involving about 1,000 human software engineers. Contractors are paid $280 per task to write prompts, review code, and conduct A/B testing. The project is ongoing, and contractors do not know which model version they are evaluating.",
+        "word_count": 210,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": true
+          },
+          {
+            "name": "RLHF, Human Feedback & Evaluation Data Tools",
+            "code": "HDAAALAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000002",
+            "name": "Anthropic",
+            "website": "https://www.anthropic.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000225",
+            "name": "computing and information technology"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "claude code"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7677,
+        "group_id": 11587059,
+        "full_text": "According to reports from IT Home citing foreign media, Anthropic is enhancing the performance of Claude Code through a project involving about 1,000 human software engineers. This project is internally referred to as 'Marlin' at the data labeling company Snorkel AI, and its core focus is on fine-tuning Claude Code's responses to make them closer to the real working environment of developers. AI companies like Anthropic typically outsource data work to third-party companies like Snorkel, which hire contractors to teach AI various specialized fields and perform other tasks to improve the model. Two contractors involved in the Anthropic project revealed that they are paid $280 (approximately 1,902 RMB) for each task they complete, which involves writing prompts and reviewing code. In the Marlin project, contractors with a software engineering background are asked to conduct A/B testing on code produced by two different models. They compare two sets of outputs, choose their preferred results, and assess whether the model has truly met the level of detail required by the prompts. One contractor stated that, essentially, it is about training Claude Code to produce simpler and more maintainable code. It is reported that the project is still ongoing, and the contractors do not know which version of the model they are evaluating."
+      },
+      {
+        "id": 35584115,
+        "title": "The “Invisible Army” of Developers: How Thousands of Freelancers Around the World Teach Claude Code to Write Code Correctly",
+        "url": "https://dev.ua/en/news/iak-pidriadnyky-anthropic-navchaiut-claude-code-pravylno-pysaty-kod-1780304373",
+        "publisher": "dev.ua",
+        "published_date": "2026-06-01T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5714,
+        "ai_summary": "Anthropic uses feedback from nearly 1,000 software engineers to fine-tune Claude Code, with contractors paid $280 per task. The Marlin project, run via Snorkel, has freelancers A/B testing code and choosing better versions, and the project is ongoing.",
+        "word_count": 667,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fine-Tuning, Adaptation & Custom Model Training (PEFT/LoRA/RLHF)",
+            "code": "HDAAACAC",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000002",
+            "name": "Anthropic",
+            "website": "https://www.anthropic.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000231",
+            "name": "software and applications"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "266",
+            "name": "Hobbies & Interests"
+          },
+          {
+            "code": "602",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "claude code",
+            "marlin",
+            "mlflow",
+            "opus"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9141,
+        "group_id": 574247,
+        "full_text": "To improve the performance of Claude Code, Anthropic uses feedback from nearly 1,000 software engineers.\n\nTo improve the performance of Claude Code, Anthropic uses feedback from nearly 1,000 software engineers. AI companies like Anthropic often outsource their data work to third-party contractors, who in turn hire experts to teach the AI ​​various specialized subjects and perform other tasks to improve the models. Business Insider took a look behind the scenes at how developer Claude Code's \"invisible army\" operates around the world. Two contractors working on the Anthropic project told Business Insider that they are paid $280 for each task of creating prototypes and reviewing code. According to them, each task takes about an hour, although some materials required additional approvals during the approval phase with Snorkel, a company that creates datasets to improve AI models and tests for chatbots. The project, called Marlin within Snorkel, focuses on fine-tuning Claude Code's responses so that it can accurately mimic the work of a professional developer. According to Snorkel’s instructions, the freelancers (all of whom have experience in software development) were tasked with A/B testing code written by two different models. In the process, they compared the performance of both models and chose the best one. One of the contractors noted that the goal of the project was to ensure that the model was capable of producing code with the required level of detail specified in the prompt. In effect, this was teaching Claude Code how to write simpler, more maintainable code. The project is still ongoing. The freelancers themselves do not know which versions of the models they are evaluating. As AI becomes smarter and more capable, data-marking platforms are moving from general tasks to increasingly specialized ones that require expert knowledge in a specific field or even degrees. Snorkel’s website states that the company works with professionals who have advanced degrees and degrees (such as Ph.D.s, M.D.s, or J.D.s) or equivalent experience. According to the company, top experts earn more than $3,000 per week. In addition to Snorkel, platforms like Scale AI and Mercor are also willing to pay software engineers up to $110 per hour. The Marlin project participants were to create a series of scenarios in which software developers could use Claude Code. The contractors were tasked with choosing a GitHub repository from a list of thousands of options. They then had to create a Pull Request, a stage where a developer proposes changes to the code, such as new features or bug fixes. The contractors also had to write a prompt, a series of questions explaining exactly what they expected from the model. In one of the tasks, the contractor asked the model to reorganize how the system stores and processes “execution metadata”—additional information about how processes are run. The goal was to make the code clearer and more user-friendly for developers, without changing the logic of the product itself or its functionality. The model produced two versions of the code, after which the contractor chose the one he thought was more effective. According to the project instructions, participants were also required to send clarification prompts to “check how the models work with the context of the conversation.” As part of another task, the executor created a security patch request for the model. It concerned the way MLFlow (an open source machine learning platform) loads Python packages when loading some models. The task instructions required the following from the contractor: \"Evaluate the production-ready code based on its correctness, security, reliability, and maintainability. The fix should effectively block command injection attempts while maintaining access for all legitimate whitelisted pip installer options.\" Anthropic releases Opus 4.8 AI model with four times better bug detection Anthropic releases Opus 4.8 AI model with four times better bug detection Anthropic raises $65 billion and approaches a valuation of almost $1 trillion Anthropic raises $65 billion and approaches a valuation of almost $1 trillion Read the country's main IT news in our Telegram Read the country's main IT news in our Telegram"
+      },
+      {
+        "id": 24511896,
+        "title": "Prefect Highlighted as Orchestration Layer in Snorkel AI Workflow Case Study",
+        "url": "https://www.tipranks.com/news/private-companies/prefect-highlighted-as-orchestration-layer-in-snorkel-ai-workflow-case-study",
+        "publisher": "Tipranks",
+        "published_date": "2026-05-08T06:06:53",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8948,
+        "ai_summary": "Prefect shared via LinkedIn that Snorkel AI migrated from a complex network of Redis queues to Prefect as its primary orchestration layer, with this migration outlined by Snorkel AI software engineer Nithin Krishnamurthi at PyAI Conf 2026. Snorkel AI's implementation uses a custom worker architecture to manage heterogeneous compute workloads including on-prem model training, reinforcement-learning evaluations, and long-running packaging scripts, with Prefect's tooling providing greater observability and operational discipline over these workflows. The article notes this represents a single customer case study without quantitative data on revenue, customer count, or contractual terms, limiting conclusions about financial performance.",
+        "word_count": 217,
+        "original_language": "EN",
+        "author": "Tipranks Private Companies Auto-Generated Newsdesk",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Prompt Engineering, Orchestration & LLMOps Tooling",
+            "code": "HDAAACAD",
+            "is_primary": true
+          },
+          {
+            "name": "Compute Resource Management & Scheduling (Cluster/Workload Managers)",
+            "code": "HDABADAK",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000uth",
+            "name": "Prefect",
+            "website": "https://www.prefect.io",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "nithin krishnamurthi"
+          ],
+          "location": [],
+          "product": [
+            "snorkel ai"
+          ],
+          "event": [
+            "pyai conf 2026"
+          ]
+        },
+        "newsworthiness_score": 0.7263,
+        "group_id": 1575836,
+        "full_text": "According to a recent LinkedIn post from Prefect, a talk at PyAI Conf 2026 describes how Snorkel AI replaced a complex network of Redis queues with Prefect as its primary orchestration layer. The post notes that Snorkel’s software engineer Nithin Krishnamurthi outlines this migration in a conference presentation.\n\nUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions\n\nDiscover top-performing stock ideas and upgrade to a portfolio of market leaders with Smart Investor Picks\n\nThe company’s LinkedIn post highlights that Snorkel’s implementation uses a custom worker architecture to manage a heterogeneous compute stack, including on-prem model training, reinforcement-learning evaluations, and long-running packaging scripts. The post suggests that Prefect’s tooling provided greater observability and operational discipline over these workflows.\n\nFor investors, this external case study may indicate growing adoption of Prefect’s orchestration platform in advanced AI and machine-learning environments. Demonstrated usage in a production context at Snorkel AI could support Prefect’s positioning as an infrastructure provider capable of handling complex, mixed compute workloads.\n\nIf such references translate into broader enterprise uptake, Prefect could potentially deepen its role in AI and data engineering stacks, which are seeing continued investment. However, the post centers on a single customer example and does not provide quantitative data on revenue, customer count, or contractual terms, limiting direct conclusions about near-term financial performance.\n\nDisclaimer & DisclosureReport an Issue"
+      },
+      {
+        "id": 20373193,
+        "title": "Introducing BigLaw Bench: Research",
+        "url": "https://harvey.ai/blog/introducing-big-law-bench-research",
+        "publisher": "Harvey",
+        "published_date": "2026-03-11T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5355,
+        "ai_summary": "The article discusses the launch of BigLaw Bench (BLB): Research, a new benchmark focused on legal research problems using AI, developed with Snorkel AI. The benchmark evaluates AI models' ability to perform complex, realistic legal search and research tasks, aiming to improve and measure future AI research capabilities. ",
+        "word_count": 1014,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": true
+          },
+          {
+            "name": "Search, Retrieval & Semantic Ranking (BM25/vector, hybrid)",
+            "code": "HDAAADAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "13000000",
+            "name": "science and technology"
+          },
+          {
+            "code": "20000208",
+            "name": "research and development"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5417",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "51929",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "delaware",
+            "us"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9655,
+        "group_id": 2205127,
+        "full_text": "The second of our major BigLaw Bench (BLB) expansions this quarter is BLB: Research. This dataset focused on hard agentic legal research problems. Working with our data partner Snorkel AI, a leader in creating complex expert data for frontier AI, we identified a series of US Case Law research problems that leading models are currently unable to solve — even when provided with search tools like web search. The purpose of BLB: Research is twofold. First, to identify how foundation models are improving on research tasks and the failure modes that continue to cause them to return unsatisfactory answers. Second, to investigate ways to improve AI-based legal research through agentic systems and access to non-public data in addition to foundation model capabilities. By enabling us to both identify the best model and to build better infrastructure for those models, BLB: Research helps us build deeper and more accurate research capabilities for our customers. Benchmarking Beyond Models BLB: Research is our first benchmark that requires models to operate end-to-end over more than documents. Models must use tools to perform searches in order to identify relevant research context and provide a grounded, cited response. While historically we had measured search capabilities independently, evolutions in agent building and model deployment led us to combine search and response into a unified benchmark. The main driver of this change is the growing consensus on search as the primary means for providing grounded model responses across the industry. On the research side, as models are increasingly trained to use search rather than training data for up-to-date knowledge, benchmarking their capabilities without search unrealistically undersells what they can do. “ Building a holistic search benchmark allows us to measure performance in the way that tracks how research capabilities are being developed and how our customers expect them to be delivered. ” Search is also becoming table stakes in practice, with customers relying on knowledge sources and expecting pin-cited sources as the default for research-driven use cases. Building a holistic search benchmark allows us to measure performance in the way that tracks how research capabilities are being developed and how our customers expect them to be delivered. Building Realistic Complexity Given its ubiquity as a paradigm, models are, perhaps unsurprisingly, very good at search. They can write booleans and web searches and have learned to use search to explore, understand, and refine their research. A primary objective for BLB: Research was to validate these baseline capabilities, as well as identify areas in which the models were still not capable of turning their search capabilities into meaningful research outcomes for lawyers. In short, we wanted to create a hard benchmark. A good way to make benchmarks hard is to make them esoteric. This is unfortunately also a great way to make a benchmark useless. While we could show the models fail at a number of tasks, if succeeding at those tasks wouldn't actually help a legal professional, that failure is beside the point. Accordingly, we needed to ensure that tasks were difficult and realistic. Realistic tasks are both intrinsically useful and represent a research pattern that is generally useful, such as identifying the best case to cite for a proposition, drafting a research memo, or planning a claim or defense. From these realistic task types we then had to find those that were hard. We did this not by predicting what should be hard but by actually finding the frontier of model capabilities. First, we identified what failure looked like on a structured rubric: How poorly must a model perform before its answer is unhelpful to a legal professional? We found that many partly correct answers are still helpful. For example, slightly-off analysis with good citations to principal cases still gives users a research head start. In general, we found that model answers become unhelpful once the model completes less than 60% of the required task criteria. On these tasks, models are often missing critical reasoning junctures, making wrong turns in their research, or providing answers that are too surface level to be useful. Here are some research tasks that Harvey will use to benchmark models’ research capabilities: Practice Area Task Objective Task Description Corporate Assessing Earn-Out Manipulation Claims After Asset Sale A strategic buyer acquires a Delaware company's assets with a multi-year earn-out, then consolidates the business, reallocates overhead, shifts pricing strategy, and reassigns key salespeople. Assess whether the buyer's integration decisions breach the Asset Purchase Agreement. Securities Litigation Evaluating Securities Fraud Claims Against EV Company for Prototype Misrepresentations A publicly traded hydrogen fuel-cell truck company's CEO made statements about fully functional prototypes and secured partnerships that internal documents contradict. Evaluate material misrepresentation, scienter pleading, and PSLRA safe harbor defenses after a 45% stock price decline. Privacy and Cybersecurity Analyzing Defenses to Nationwide Class Action Arising from FinTech Data Breach A financial-technology company with 650,000 affected users faces a putative nationwide class action after a breach caused by a compromised contractor API credential. Evaluate Article III standing for speculative-harm plaintiffs, choice-of-law barriers to nationwide class certification, and Rule 12(b)(6) strategies. Other practice areas included in the benchmark are: Intellectual Property, Commercial Litigation, Constitutional Law, Regulatory, Employment & Labor, Health Law & Life Sciences, Tax, Tort, Real Property, Media and Technology, Immigration, and Family Law. What’s Next for BLB: Research Sifting through troves of documents to find answers, narratives, and trends is one of the most common tasks in legal practice. The same search capabilities that make models good at case law research also underpin the ability to search EDGAR, an investigation corpus, a deal room, or even a law firm’s own internal knowledge. BLB: Research will build towards measuring all these capabilities and finding the right tools for enabling models to move lawyers from sifting to solving. The next step-change in search capabilities can come from various sources: model capabilities, unique data sources, or the tools to enable the former to interact with the latter. BLB: Research will allow us to track and design innovations in all of these spaces, and convert them into the best possible research results for our customers."
+      },
+      {
+        "id": 31748102,
+        "title": "Finalists Selected for the DIU Blue Object Management Challenge",
+        "url": "https://www.diu.mil/latest/finalists-selected-for-the-diu-blue-object-management-challenge",
+        "publisher": "Diu",
+        "published_date": "2025-12-10T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "The Defense Innovation Unit (DIU) and U.S. Indo-Pacific Command (USINDOPACOM) have selected ten startup teams for the inaugural Blue Object Management Challenge Accelerator Program to prototype dual-use technologies for tracking friendly forces. The selected companies, including CI-PHER Tech, Snorkel AI, and others, will compete for a share of $500,000 in prize awards while working to enhance operational readiness in the Indo-Pacific region. ",
+        "word_count": 265,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Software Engineering & Application Development Training (Languages, Frameworks, Testing)",
+            "code": "BPAEANAI",
+            "is_primary": true
+          },
+          {
+            "name": "Autonomous Defense Systems (AI/ML, Swarming, MUM-T)",
+            "code": "IMABAOAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          },
+          {
+            "name": "Technology Adoption & Disruption",
+            "code": "II02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "028tsms",
+            "name": "DUNEDAIN SYSTEMS LTD",
+            "website": "https://dunedainsystems.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "0003zdk",
+            "name": "Kinnami",
+            "website": "https://www.kinnami.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0049hh3",
+            "name": "Exia Labs",
+            "website": "https://www.exialabs.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0006r8w",
+            "name": "Countifi",
+            "website": "https://www.countifi.com/",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "028eagw",
+            "name": "Lumbra AI",
+            "website": "https://lumbra.ai/",
+            "is_primary": false
+          },
+          {
+            "uuid": "002nnj3",
+            "name": "CI-PHER",
+            "website": "https://www.ci-pher.tech/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007ccx",
+            "name": "Defense Innovation Unit (DIU)",
+            "website": "https://diu.mil",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000763",
+            "name": "information technology and computer science"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7373",
+            "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+          },
+          {
+            "code": "3530",
+            "name": "CONSTRUCTION, MINING & MATERIALS HANDLING MACHINERY & EQUIP"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "washington, d.c.",
+            "indo-pacific theater",
+            "u.s."
+          ],
+          "product": [
+            "valinor streamline, inc",
+            "lumbra, inc"
+          ],
+          "event": [
+            "blue object management challenge",
+            "diu blue object management challenge"
+          ]
+        },
+        "newsworthiness_score": 0.8316,
+        "group_id": 7215751,
+        "full_text": "WASHINGTON, D.C. (December 10, 2025) — The Defense Innovation Unit (DIU), in partnership with the U.S. Indo-Pacific Command (USINDOPACOM), has selected the ten startup teams for the inaugural cohort of the Blue Object Management Challenge Accelerator Program.\n\nThis accelerator is designed to rapidly identify and prototype dual-use commercial technologies that support USINDOPACOM’s operational priorities. In military operations, “blue objects” refer to friendly forces which include U.S. warfighters, equipment, and infrastructure. Blue object management involves the real-time tracking and coordination of these assets, providing commanders with accurate, up-to-date operational awareness, particularly in dynamic or contested environments.\n\nThese 10 companies were competitively selected through DIU’s Prize Challenge process. Companies were selected by the mission partner for their focus on advancing AI-enabled decision-making capabilities that seek to improve how mission-critical data is integrated, accessed, and used across Department of War (DoW) platforms and forces.\n\nThe 2025 cohort includes:\n\nCI-PHER Tech, Inc\n\nCountifi, Inc\n\nDunedain Systems\n\nExia Labs\n\nKinnami Software Corporation\n\nLumbra, Inc\n\nMAIK\n\nSnorkel AI\n\nUnstructured Technologies, Inc\n\nValinor Streamline, Inc\n\nOver the course of the program, participating teams will work alongside DIU and USINDOPACOM to test, validate, and transition solutions that can strengthen operational readiness and address the unique challenges of the region.\n\nThe Blue Object Management Challenge Accelerator was launched in August 2025, and applicants were evaluated through a competitive downselect process. Finalists will receive a share of the $500,000 in prize awards.\n\nThe challenge highlights DIU’s and INDOPACOM’s shared commitment to accelerating innovation in the Indo-Pacific theater, where commercial technology can deliver mission-critical capabilities faster. By working directly with early-stage startups, the program ensures the DoW has access to adaptable, dual-use solutions that enhance resilience, logistics, and decision-making in contested environments."
+      },
+      {
+        "id": 17583810,
+        "title": "Snorkel AI – Expert Data",
+        "url": "https://www.snorkel.ai/#video-expert-daas",
+        "publisher": "Snorkel AI",
+        "published_date": "2025-12-08T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel AI presents its Expert Data Services, which utilize applied research and scalable technology to develop high-quality, domain-specific datasets for AI systems. The company highlights a partnership with Anthropic, noting that their collaboration aims to refine AI models to be reliable and aligned with enterprise needs. Key performance metrics cited include 100x faster data curation and 99% model accuracy. ",
+        "word_count": 230,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Annotation Tooling & Workflow Management",
+            "code": "HDAAALAC",
+            "is_primary": true
+          },
+          {
+            "name": "Training Data Management, Versioning & Lineage",
+            "code": "HDAAALAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "02i6dip",
+            "name": "Anthropic PBC",
+            "website": "https://www.anthropic.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7374",
+            "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION"
+          },
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "kate jensen"
+          ],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.7228,
+        "group_id": 8199168,
+        "full_text": "Shaping how AI learns through better data The AI Data Research Lab Snorkel develops the datasets, benchmarks, and evaluation methods that help AI and agentic systems learn, adapt, and perform in the real world. Expert data services Custom AI solutions\n\nProud to partner with leading frontier AI companies Anthropic is committed to working with innovators like Snorkel to ensure AI systems are refined, reliable, and aligned to enterprise needs. Kate Jensen, Head of Revenue, Anthropic\n\nSnorkel Expert Data Services 100x faster data curation.\n\n40x faster model delivery. 99% model accuracy. AI data development with Snorkel Advancing how AI learns—through expert data, applied research, and scalable technology. Data development services Our researchers, data engineers, and domain experts collaborate to develop high-quality, domain-specific datasets for your unique use cases and goals. Curated and benchmarked to accelerate your AI and agentic system performance. Explore expert data services Applied AI solutions Collaborate with Snorkel’s applied research team to co-develop specialized models, evaluation frameworks, and data pipelines with your organization. Together, we build the datasets and metrics that define and refine your real-world AI performance. Work with our lab Expert data contributor community Become part of Snorkel’s global community of domain experts who help curate, refine, and test the quality of datasets. Collaborate with our researchers and applied AI teams to shape how data teaches intelligent systems. Learn more Coding Business & law Finance Health & medicine STEM"
+      },
+      {
+        "id": 14393382,
+        "title": "Snorkel Expert Data-as-a-Service",
+        "url": "https://snorkel.ai/expert-community/",
+        "publisher": "Snorkel AI",
+        "published_date": "2025-11-26T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel has launched an Expert Community, a data-as-a-service platform that compensates professionals and academics for creating and reviewing AI training data across various specialized domains. Participants are paid per project based on expertise complexity, with top experts earning over $3,000 weekly, while payments are processed via the third-party vendor HireArt. ",
+        "word_count": 793,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Technical & Scientific Expert Networks",
+            "code": "BPAHALAH",
+            "is_primary": true
+          },
+          {
+            "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+            "code": "HDAAACAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000052d",
+            "name": "HireArt",
+            "website": "http://www.hireart.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001275",
+            "name": "gig economy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "89",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "frontier ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.7271,
+        "group_id": 8987724,
+        "full_text": "Join our expert network Get paid to put your expertise to work on frontier AI Join Snorkel’s Expert Community to shape safer, smarter AI across 1,000+ domains.\n\nPut your knowledge to work and get paid for working where and when you want. Join now How it works Snorkel’s Expert Community Our Expert Community is a network of professionals and academics who use their knowledge to shape real-world AI projects. You’ll work on opportunities that match your background from coding, STEM and medicine to law, the humanities, and even lifestyle areas like travel and fitness. As a member, you’ll connect with peers, share best practices, and contribute expertise that top AI developers rely on. These projects require true subject matter knowledge, not just surface-level skills, and your work helps ensure AI is accurate and reliable. Expert‑driven, not generic crowd work Meaningful projects aligned to your background Flexible, paid contributions with clear quality standards Compensation Expert Community members are paid per project, with rates based on expertise and complexity. Top experts earn $3,000+ per week. Every contribution goes through a quality review, combining automated checks and peer feedback. Many projects pay for attempts and include bonuses for high-quality submissions. Snorkel provides feedback so you can improve and maximize your earnings. Join now Priority domains Coding & software Software engineers, developers, code reviewers, and technical writers STEM Computer scientists, engineers across various domains, and applied or pure mathematicians Health & medicine Medical practitioners across specialties, surgeons, internal medicine physicians, and biomedical scientists Humanities & arts Linguists, cultural scholars, philosophers, and visual, performing, or applied artists Social sciences Psychologists, political scientists, economists, and public policy experts Business & law Finance and accounting professionals, human resources specialists, and legal practitioners Next steps Getting started is easy: complete a quick screening or assessment, tell us about your expertise, sign up to receive payments, and start contributing on eligible projects. 1 Create a profile Simply sign up and create an account. 2 Complete screenings Complete a short assessment or sample task. 3 Onboard Provide your information to receive payments. 4 Join projects Opt into eligible work and start contributing. Qualifications We partner with skilled professionals from academia and industry. Some projects require advanced degrees (PhD, MD, JD, CPA) and active licenses, while others accept equivalent experience. Experts must be able to work as independent contractors, and we cannot support visa sponsorship or restricted regions at this time. What we look for: Deep domain expertise and up-to-date knowledge\n\nClear written reasoning and attention to detail\n\nAbility to follow detailed rubrics and maintain consistent quality What you’ll do Most work is asynchronous with clear instructions and rubrics. Projects range from one-off small projects to multi-week engagements—you choose when and how much you contribute. Create Author data in your domain of expertise, such as creating questions that stump frontier LLMs. Review Check data authored by peer domain experts for accuracy and clarity, and recommend fixes or adjustments. Evaluate & improve Compare outputs, apply provided criteria, and flag safety or compliance issues. FAQ Who is eligible to apply? Projects with Snorkel require a wide variety of domain expertise. If you are an expert in one of the broad fields above (projects typically require an advanced degree in one of these areas), are based in an approved geographic region for that particular project, are open to work as an independent contractor, and are interested in contributing to the future of AI in your speciality area, please apply! How long does onboarding take? Approved experts can go from applying to contributing within the same day! You’ll create a profile to tell Snorkel about your expertise, complete a skills assessment, enter information to receive eligible payments, and, once your expertise matches with an eligible project, you’ll receive project-specific instructions. When do I get paid? Payments are processed every week for accepted work from roughly the week prior. Snorkel aims to process all payments within two weeks of contribution acceptance. Exact timelines may vary based on project requirements. Note: payments will be processed via the Agent of Record, HireArt. How are projects assigned? When projects launch that match your expertise, Snorkel will invite you to participate. You can opt in to the opportunities that excite you and contribute on your own time—making an impact while maintaining full flexibility. What is the typical time commitment? Expert contributors can often work as many or as few hours as they’d like. Project contributions will vary from a few minutes per submission to multiple hours, depending on the task's complexity. Can I opt out of certain projects? Expert contributors can choose to work on any project that matches their skillset. Experts control when, how, and what they work on. Ready to apply? Get paid to bring your expertise to the future of AI. Join now"
+      },
+      {
+        "id": 15299342,
+        "title": "Best Agentic AI Development Company to Partner With in 2026",
+        "url": "https://www.innofied.com/best-agentic-ai-development-company-to-partner-with-in-2026/",
+        "publisher": "Innofied",
+        "published_date": "2025-11-20T04:12:27",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "This article ranks Innofied Solutions as the top Agentic AI development company for 2025, highlighting its enterprise readiness and multi-agent architecture capabilities. It also profiles four other key players—Adept, Snorkel AI, Reka AI, and Lyzr Inc.—detailing their specific strengths in interface automation, data-centric systems, multimodal reasoning, and SMB solutions respectively. ",
+        "word_count": 3517,
+        "original_language": "EN",
+        "author": "Bina Roy",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002mg",
+            "name": "Reka AI",
+            "website": "https://reka.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "00002uz",
+            "name": "Lyzr",
+            "website": "https://www.lyzr.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "000a3eb",
+            "name": "Innofied Solution Pvt. Ltd.",
+            "website": "http://www.innofied.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000282d",
+            "name": "The Boston Consulting Group",
+            "website": "http://www.bcg.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7373",
+            "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+          }
+        ],
+        "entities": {
+          "person": [
+            "swarnendu de"
+          ],
+          "location": [
+            "usa"
+          ],
+          "product": [
+            "techblueprint",
+            "reka ai",
+            "snorkel ai",
+            "lyzr inc.",
+            "lyzr",
+            "adept"
+          ],
+          "event": [
+            "sdlc"
+          ]
+        },
+        "newsworthiness_score": 0.9318,
+        "group_id": 8794235,
+        "full_text": "Top 5 Agentic AI Development Company Startups & Enterprises Should Know in 2026\n\nWhat if your business had an extra teammate who never sleeps, never forgets a follow-up, and quietly keeps your CRM, tickets, and workflows under control in the background? That’s the promise of this new wave of agentic AI. Instead of “just another chatbot,” an Agentic AI Development Company helps you deploy AI agents that log into your tools, move work forward, and close loops automatically so your people can focus on decisions, not data entry. For leaders under pressure to grow with leaner teams, this shift matters. According to Boston Consulting Group (BCG), “AI-powered workflows can accelerate business processes by 30 % to 50 % … and reduce low-value work by 25 % to 40%” in areas such as finance, procurement, and customer operations. This article breaks down the top Agentic AI Development Companies in 2025, with Innofied Solutions ranked #1 for its unmatched enterprise readiness, proven delivery capability, and unique strengths in multi-agent architecture and workflow automation. 2. What You Need to Know About Agentic AI 2.1 A Simple Explanation of Agentic AI Agentic AI represents the next evolutionary step in automation – AI systems that don’t just generate answers but take action independently. These agents understand goals, evaluate context, plan their steps, and execute tasks across multiple applications, tools, and data sources. Whether you’re a developer, a manager, or a non-technical founder, think of Agentic AI as an intelligent operator that can move across your digital ecosystem and get real work done.\n\n\n\nUnlike traditional generative AI, which stops at text generation, agentic systems combine reasoning with execution. They can perform tasks such as retrieving an invoice from your ERP, classifying support tickets, updating CRM fields, triggering an approval flow, or even assisting developers with code reviews, testing, and deployment. This ability to connect thinking with doing is what makes agentic systems so transformative. 2.2 How the Best Agentic AI Development Companies Differentiate Themselves Not every AI vendor can deliver production-grade agent workflows. A top Agentic AI Development Company stands out by offering far more than model tuning or chatbot deployment. They design multi-agent pipelines, reasoning layers, and planning modules that handle complex enterprise operations. Their biggest advantage is the strength of their integrations. They don’t just plug into a single app – they connect agents across CRM platforms, ERP systems, internal databases, SaaS tools, and custom APIs. This deep interoperability demands mature engineering, strong architecture, and security-first thinking. Want to build a SaaS that generates $1M ARR? Get our SaaS Success Framework. Used by over 250 SaaS businesses to successfully build and launch their SaaS software across industries. Yes! I want the framework They also prioritize reliability. Enterprise-ready companies embed guardrails, audit logs, workflow governance, and monitoring dashboards to ensure safe and explainable execution. And, unlike generic AI labs that focus on research, a true Agentic AI Development Company delivers real-world deployments that run at scale and receive long-term support and optimization. 2.3 Why Partnering With an Agentic AI Development Company Creates Immediate Value Choosing the right partner accelerates your operational transformation dramatically. Agentic AI firms bring proven frameworks for planning, designing, and deploying task-driven AI systems, cutting development time from months to weeks. They reduce the burden on internal engineering teams by handling workflow mapping, model selection, integration logic, system orchestration, and guardrail design. This allows your team to focus on product, innovation, and strategy rather than repetitive processes. More importantly, these companies tailor agents to your domain, finance, logistics, healthcare, SaaS, e-commerce, or support – resulting in higher accuracy, faster adoption, and stronger ROI than traditional automation or RPA. Once deployed, well-designed agentic systems are scalable and self-improving. They learn, adapt, and expand into new workflows, giving your organization a long-term automation engine rather than a temporary solution. 3. Top 5 Agentic AI Development Companies in 2025 3.1 Innofied Solutions – The #1 Agentic AI Development Company in 2025 As enterprises move toward real-world adoption of autonomous AI systems, Innofied Solutions stands out as the most complete, reliable, and execution-focused Agentic AI Development Company in 2025. Unlike research-centric labs or niche automation vendors, Innofied brings a rare combination of strategic clarity, engineering depth, and integration mastery – making it the top choice for companies that want production-ready agentic systems rather than experiments. 3.1.1 Core Strengths of Innofied Solutions: Deepest Enterprise Experience (600+ digital products delivered): A rare combination of scale, maturity, and execution capability unmatched by Adept, Snorkel, Reka, or Lyzr.\n\nA rare combination of scale, maturity, and execution capability unmatched by Adept, Snorkel, Reka, or Lyzr. End-to-End Agentic AI Engineering: Innofied doesn’t just build agents; they architect multi-agent ecosystems, integrate them into CRMs/ERPs, set up governance layers, and maintain them at scale.\n\nInnofied doesn’t just build agents; they architect multi-agent ecosystems, integrate them into CRMs/ERPs, set up governance layers, and maintain them at scale. CTO-Led Delivery Advantage: Every agentic project is personally guided by Swarnendu De, ensuring strategic clarity, top-tier code quality, and long-term technical alignment.\n\nEvery agentic project is personally guided by Swarnendu De, ensuring strategic clarity, top-tier code quality, and long-term technical alignment. Advanced Multi-Agent Orchestration: Build agents that collaborate, delegate tasks, and operate as a unified system, far beyond single-task agents.\n\nBuild agents that collaborate, delegate tasks, and operate as a unified system, far beyond single-task agents. Superior Integration Capabilities: Native expertise in Salesforce, SAP, Zoho, HubSpot, NetSuite, and custom enterprise systems; no other company on this list matches this breadth.\n\nNative expertise in Salesforce, SAP, Zoho, HubSpot, NetSuite, and custom enterprise systems; no other company on this list matches this breadth. AI Agents for Software Development (Unique Strength): Ability to create dev copilots, QA agents, CI/CD automation agents, and intelligent engineering assistants, capabilities that even Adept, Snorkel, and Reka do not offer at the same depth.\n\nAbility to create dev copilots, QA agents, CI/CD automation agents, and intelligent engineering assistants, capabilities that even Adept, Snorkel, and Reka do not offer at the same depth. Production-Grade Safety & Governance: Includes dashboards, observability tools, human-in-loop controls, permission layers, and secure guardrails, essential for enterprise adoption.\n\nIncludes dashboards, observability tools, human-in-loop controls, permission layers, and secure guardrails, essential for enterprise adoption. Battle-tested Execution Frameworks: Rapid Concept Workshop™, SaaS Product Success Strategy™, and TechBlueprint™ ensure predictable delivery and zero guesswork.\n\nRapid Concept Workshop™, SaaS Product Success Strategy™, and TechBlueprint™ ensure predictable delivery and zero guesswork. Balanced Capability for Both SMB & Enterprise: Rapid deployment for smaller teams and highly scalable architecture for large enterprises, rare flexibility among agentic AI companies. 3.1.2 Ideal Use Cases for Innofied (Broader and Deeper Than Others) Enterprise Workflow Automation: Agentic AI in finance , operations, logistics, procurement, HR, customer success, and high-volume back-office processes.\n\n, operations, logistics, procurement, HR, customer success, and high-volume back-office processes. CRM & ERP Integrated Agents: Automated invoice management, lead routing, ticket updates, contract workflows, approval processes, and data sync across systems.\n\nAutomated invoice management, lead routing, ticket updates, contract workflows, approval processes, and data sync across systems. AI Agents for Software Development: Code review agents, documentation agents, QA/test generation agents, CI/CD copilots, sprint planning agents, ideal for tech-first teams.\n\nCode review agents, documentation agents, QA/test generation agents, CI/CD copilots, sprint planning agents, ideal for tech-first teams. Multi-Agent Enterprise Platforms: Full orchestration engines where agents collaborate on tasks, escalate decisions, or handle multi-step workflows.\n\nFull orchestration engines where agents collaborate on tasks, escalate decisions, or handle multi-step workflows. SaaS Product Copilots: Embedded AI copilots for SaaS products to enhance user experience, automate tasks, and improve retention.\n\nEmbedded AI copilots for SaaS products to enhance user experience, automate tasks, and improve retention. Hybrid RPA + LLM Automation: Perfect for enterprises transitioning from outdated RPA setups to intelligent, context-aware agentic automation.\n\nPerfect for enterprises transitioning from outdated RPA setups to intelligent, context-aware agentic automation. Industry-Specific Intelligence Agents: Healthcare, logistics, fintech, edtech, manufacturing, and e-commerce automation workflows designed with deep domain knowledge. 3.2 Adept – Best for Action-Taking, Interface-Level AI Agents Adept has gained recognition as one of the earliest and strongest players in building action-performing AI agents – systems that don’t rely solely on APIs but can operate software interfaces exactly like a human would. Their technology bridges a major enterprise gap: most organizations still use legacy systems, custom internal tools, or screens with limited API accessibility. Adept’s agents navigate these interfaces autonomously, making the company a preferred partner for businesses that depend on high-volume manual workflows. 3.2.1 Core Strengths Builds action-performing agents capable of navigating software interfaces like a human.\n\nStrong UI-understanding models that interpret buttons, menus, inputs, and workflows.\n\nIdeal for automating legacy systems or tools without APIs.\n\nProven ability to execute multi-step tasks across visually complex applications.\n\nAction transformer architecture enables stable task execution and error recovery.\n\nSuitable for high-volume operational environments that rely heavily on screen-level tasks 3.2.2 Ideal Use Cases Adept is strong in operations-heavy teams, where repetitive tasks slow down workflows – like logistics operations, back-office administration, finance reconciliation, warehouse data entry, or procurement management. Because their agents mimic human UI interactions, Adept is a strong fit for enterprises with legacy platforms or limited API availability. 3.3 Snorkel AI – Best for Data-Centric Agentic Systems Snorkel AI takes a fundamentally different approach to Agentic AI development. Instead of focusing on action-taking agents, Snorkel excels in training domain-specific AI agents using structured, high-quality datasets, making them ideal for highly regulated or data-sensitive industries. Their expertise lies in weak supervision, automated data labeling, and building deeply specialized agents that understand niche terminology, complex rules, and strict compliance requirements. 3.3.1 Core Strengths Leader in weak supervision and automated data labeling for domain-specific agents.\n\nStrong pipeline for building accurate, audit-friendly, data-centric agent systems.\n\nHigh compliance readiness for regulated industries (healthcare, BFSI, government).\n\nDeep expertise in training specialized agents with custom taxonomies and knowledge bases.\n\nRobust governance, versioning, and documentation for enterprise-grade deployments.\n\nExcellent for workflows requiring high precision, structured data, and rule-driven decision-making. 3.3.2 Ideal Use Cases Snorkel is a top choice for: Healthcare organizations needing agents for claims processing, medical coding, and document triage\n\nFinancial institutions requiring compliance-driven agents for risk analysis, KYC, and fraud detection\n\nSaaS companies developing specialized knowledge models for search, recommendations, and insights\n\nEnterprises with complex, unstructured documents that require structured AI interpretation For companies where data accuracy, compliance, and domain expertise matter more than interface actions, Snorkel excels. 3.4 Reka AI – Best for Multimodal Agentic Reasoning Reka AI focuses on multimodal AI models, systems capable of reasoning across text, images, documents, video frames, structured data, and sensor inputs. This makes Reka extremely valuable in industries where visual understanding and rapid multi-channel interpretation are essential. Their models are compact, optimized, and highly efficient, enabling real-time reasoning in demanding environments. 3.4.1 Core Strengths Specializes in multimodal AI models (text, images, documents, sensor data).\n\nCompact, fast models optimized for low-latency, real-time agentic decision-making.\n\nStrong on-device and edge-performance capabilities.\n\nHighly versatile reasoning across visual and textual environments.\n\nExcellent for dynamic, real-world settings like logistics, manufacturing, or mobility platforms.\n\nSupports rapid inference in high-speed SaaS and embedded applications. 3.4.2 Ideal Use Cases Reka is a great fit for: Mobility and logistics : routing agents, fleet monitoring assistants, multimodal dashboards\n\n: routing agents, fleet monitoring assistants, multimodal dashboards Manufacturing and robotics : agents that interpret sensor data and visual signals\n\n: agents that interpret sensor data and visual signals SaaS platforms requiring real-time recommendations or intelligent visual processing\n\nrequiring real-time recommendations or intelligent visual processing Security, inspection, and compliance tasks involving image or video analysis If your business needs fast, multimodal agent systems that perform reliably under pressure, Reka is a strong contender. 3.5 Lyzr Inc. – Best Lightweight Multi-Agent Solution for SMBs Lyzr Inc. is becoming a preferred choice for small and mid-sized businesses looking to adopt Agentic AI without the complexity or cost associated with enterprise-grade frameworks. Their approach emphasizes simplicity, speed, and affordability, making it easy for teams without deep AI expertise to deploy agents across their workflows. 3.5.1 Core Strengths Lightweight multi-agent framework ideal for SMBs and fast-moving teams.\n\nEasy setup with plug-and-play agents for HR, finance, operations, and support tasks.\n\nHighly developer-friendly and accessible to non-technical teams.\n\nCost-effective solution with rapid deployment cycles.\n\nPre-built workflow templates reduce engineering effort and time-to-value.\n\nFlexible enough for small-scale projects yet scalable for growing automation needs. 3.5.2 Ideal Use Cases Lyzr works well for: Small teams automating internal operations\n\nHR and finance departments handling repetitive tasks\n\nMarketing teams using agents for content, analysis, or workflow routing\n\nSupport teams wanting a lightweight triage or classification agent\n\nFounders validating new AI automation ideas without high upfront cost For SMBs that want accessible, scalable Agentic AI without enterprise-level complexity, Lyzr delivers great value. 4. Comparison & Decision Guide As Agentic AI adoption accelerates in 2025, choosing the right development partner becomes one of the most important technology decisions for leaders, CTOs, and founders. Each company in this list excels in a specific category, but their strengths vary widely depending on your use case, integration needs, and scale. This section gives you a clear comparison snapshot and a practical decision framework to help you confidently select the best-fit partner. 4.1 Company-by-Company Summary Table Below is a quick breakdown of the top Agentic AI companies and the areas where they outperform others: Company Strength Category Why They Stand Out Innofied Solutions Best Overall Enterprise Partner The only company combining deep engineering, multi-agent orchestration, enterprise integrations, and long-term scaling support. Ideal for large and mid-sized businesses that need production-grade agentic ecosystems. Adept Best Interface-Level Actors Excels in screen-level automation and human-like software interaction – perfect for legacy systems and operations-heavy workflows. Snorkel AI Best Data-Centric Agent Pipelines Strongest choice for regulated industries and knowledge-driven workflows that require high accuracy, audit trails, and domain-specific datasets. Reka AI Best Real-Time Multimodal Reasoning Specializes in multimodal, low-latency, on-device reasoning, ideal for logistics, mobility, manufacturing, and real-time applications. Lyzr Inc. Best for Small Teams & Fast Pilots Lightweight, affordable agentic automation suited for SMBs, early-stage founders, and teams wanting rapid deployment with minimal complexity. Let’s help you identify the type of partner you need – not just the “top” company, but the one aligned with your use case, operations, and long-term AI transformation roadmap. 4.2 How to Choose the Right Agentic AI Development Company Selecting an Agentic AI partner requires more than comparing features – you need alignment on architecture, integration capability, and the ability to scale agents reliably across your ecosystem. Here are the key decision criteria that matter most: 1. Expertise in Your Domain Different industries need different types of agents. For example: Healthcare → compliance-heavy reasoning agents\n\nLogistics → multimodal, real-time planning agents\n\nSaaS → embedded copilots + product automation\n\nFinance → rule-based, audit-ready process agents Choose a company that has already shipped products in your vertical. 2. Integration Capability Agentic AI is useless without deep system access. Your partner must be able to integrate AI agents into: CRMs (Salesforce, HubSpot, Zoho)\n\nERPs (SAP, NetSuite, Odoo)\n\nDatabases, warehouses, and internal APIs\n\nSaaS tools and custom internal systems This determines whether your agents can actually take action, not just provide suggestions. 3. Transparency in Architecture A reliable partner should provide: Clear agent workflows\n\nExecution graphs\n\nGovernance rules\n\nGuardrails and error-handling processes\n\nDocumentation for maintenance and scaling Opaque AI = operational risk. Transparent AI = long-term reliability. 4. Ability to Scale Multi-Agent Systems Building one agent is easy. Maintaining a coordinated multi-agent ecosystem that operates across your entire business is difficult. The right partner must support: Multi-agent orchestration\n\nCommunication protocols between agents\n\nEscalation logic\n\nCollaboration workflows\n\nHigh-volume task execution without model drift This is where companies like Innofied significantly outperform smaller or research-focused teams. 5. Long-Term Support Readiness Agentic AI systems require: Continuous monitoring\n\nModel updates\n\nWorkflow improvements\n\nIntegration patches\n\nPerformance tuning\n\nGovernance & compliance updates Choose a company with strong post-launch support, not a vendor that hands over a prototype and disappears. 6. Why Innofied Leads the Market Innofied has delivered 600+ successful digital products, giving the company a deep understanding of how real businesses operate – and what they expect from AI automation. Its strength lies in going far beyond model deployment. Innofied offers an end-to-end agentic AI solution, from rapid discovery to architecture planning, multi-agent workflow design, integrations, governance, and long-term scaling. A major advantage is its CTO-led execution model. Swarnendu De, a hands-on product and technology leader, is directly involved in agentic system architecture, engineering decisions, and workflow strategy. This creates a level of leadership and technical oversight that very few companies can match. Innofied also excels in CRM/ERP-integrated agents, multi-agent orchestration, and hybrid automation systems combining RPA, APIs, and LLM-driven reasoning. Their teams understand enterprise constraints – security, performance, compliance, governance – and build agentic systems that operate reliably in complex environments. 7. What Makes Innofied Different From Others What truly differentiates Innofied is its ability to build AI agents for software development – an area most agentic companies cannot deliver. This includes dev copilots, CI/CD pipeline agents, QA automation agents, code review intelligence, and multi-agent systems that collaborate during the SDLC. Their enterprise integration capabilities are unmatched. Innofied builds agents that natively connect with Salesforce, SAP, Zoho, HubSpot, NetSuite, and any custom internal system. This positions them as the ideal partner for organizations that rely heavily on integrated workflows. They also provide governance dashboards, observability tools, rule-based guardrails, and human-in-loop control layers-capabilities often missing in traditional AI labs. Additionally, Innofied follows structured frameworks for discovery, delivery, and scaling – ensuring predictable outcomes, consistent communication, and seamless rollout. Whether it’s a fast-moving SMB or a large enterprise, Innofied has the capacity and maturity to handle both. To make these advantages stand out clearly, you can highlight them as bullets: Deep experience with 600+ delivered products across startups and enterprises.\n\nEnd-to-end agentic AI capabilities: strategy, architecture, engineering, and rollout.\n\nStrong focus on production reliability, observability, and governance from day one.\n\nProven success with complex, integrated workflows across CRM, ERP, and custom tools.\n\nHands-on, CTO-led engagement that keeps architecture and execution aligned with business goals. 8. Why Choose Innofied as Your Agentic AI Development Partner? Innofied delivers the strongest combination of product strategy, engineering expertise, and integration capability in the market. They design agentic systems using transparent architecture, reliable execution frameworks, and predictable delivery cycles. Their long-term support, DevOps readiness, and scaling processes ensure your AI agents continue to evolve as your workflows grow. Most importantly, Innofied is a partner that focuses on real business outcomes – not prototype-level experiments. For companies that want robust, enterprise-ready Agentic AI from day one, Innofied is the most complete choice. If you’d like, the next step can be to tighten this for SEO by weaving “Agentic AI Development Company” and “AI agents for software development” naturally into a few of these bullets and headings. 9. FAQs: 9.1 What exactly are agentic AI development services? Agentic AI development services involve building AI systems that can think, plan, and take actions on their own. Instead of only giving responses, these agents can perform real tasks such as updating your CRM records, checking invoices, reviewing code, processing tickets, or running approvals. Simply put: it’s AI that does work for you, not just talks to you. 9.2 Why should companies invest in AI agents? Because AI agents make businesses faster and more efficient. They reduce manual work, cut operational costs, improve accuracy, and can run tasks 24/7. Companies use them to scale workflows without adding more people and to get higher-quality results in less time. 9.3 Why choose Innofied Solutions for Agentic AI development? Innofied stands out because it delivers real, deployable AI agents that integrate with complex business systems. The team has built 600+ products, brings strong CRM/ERP integration skills, and offers CTO-led technical guidance for every project. Innofied’s agent systems include safety controls, transparent workflows, and long-term support, ideal for enterprises that need reliable outcomes. 9.4 Which industries benefit most from AI agents? Industries with heavy operations benefit the most, such as logistics, healthcare, finance, SaaS, e-commerce, manufacturing, and any business handling large volumes of data or repetitive tasks. These sectors quickly see better speed, lower cost, and fewer manual processes with agentic automation. 9.5 How do I choose the right partner for Agentic AI development? Look for a team with proven industry experience, strong integration capability, clear architecture, and the ability to scale from one agent to many. The right partner should also provide ongoing support, monitoring, and workflow improvements – not just build a prototype and leave. 10. Your Next Move: Choose the Top Agentic AI Development Company Here’s the truth: most startups and mid-sized companies eventually face AI that only chats won’t move the needle anymore. What actually transforms a business is AI that can do the work – update the CRM, process the invoice, qualify the lead, review the code, and resolve the ticket. That’s why choosing the right agentic AI development partner isn’t a technical decision… It’s a growth decision. And this is exactly where Innofied Solutions, one of the best AI Automation Agencies in USA, becomes the unfair advantage. They don’t just “build AI” – they design systems that plug into your real workflows, automate the messy middle, and scale with your product as it grows. Strategy? Covered. Engineering? World-class. Integrations? Their strongest suit. 2025 is the year AI stops being an experiment and becomes your silent execution engine. If you’re building fast, scaling smart, and want AI that actually delivers outcomes, not hype, then partnering with a team like Innofied could easily be the most important decision you make this year."
+      },
+      {
+        "id": 14393385,
+        "title": "Our technology",
+        "url": "https://snorkel.ai/our-technology/",
+        "publisher": "Snorkel AI",
+        "published_date": "2025-11-18T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Snorkel presents its AI data development platform, which integrates expert data engineering with applied AI research to build and deploy intelligent systems from experimentation to production. The technology connects enterprise data streams to ML platforms, enabling organizations to evaluate, develop, and improve models with measurable impact through tools for data curation and evaluation. Snorkel highlights capabilities in expert data services and enterprise AI solutions aimed at accelerating model delivery and improving accuracy.",
+        "word_count": 327,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "End-to-End MLOps & ML Platform Suites",
+            "code": "HDAAABAA",
+            "is_primary": true
+          },
+          {
+            "name": "LLMOps & Generative AI Platforms (Prompt/Agent Orchestration, RAG)",
+            "code": "HDAEANAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000763",
+            "name": "information technology and computer science"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "72",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.744,
+        "group_id": 8987725,
+        "full_text": "OUR TECHNOLOGY Deliver specialized data and AI systems faster Snorkel unites expert data engineering and applied AI research to build, evaluate, and deploy intelligent systems that move from experimentation to production with measurable impact—delivering datasets, benchmarks, and evaluation frameworks that help AI perform in the real world. Expert data services Custom AI solutions\n\nThe technology powering Snorkel solutions Our AI data development platform bridges the gap between data and production AI. It connects enterprise data streams and ML platforms to the systems that run AI in production–enabling organizations to evaluate, develop, and improve models and agents with research-grade precision. Powered by Snorkel’s expert data engineering and applied research, the platform provides the tools and services to evaluate, develop, and deliver AI with measurable impact. Evaluate models with domain-specific test sets and diagnostics Develop data pipelines, fine-tuning flows, and RAG/agent evaluations Deliver expert data and governance that drive reliable, measurable performance in production\n\nThe result A unified foundation for transforming raw enterprise data into high-performing AI systems–faster, safer, and at scale. Enterprise data stream Operational data\n\n(apps, DBs, APIs) Content & docs\n\n(wikis, PDFs, emails) Telemetry\n\n(logs, clicks, events) Data platforms Data lakes/catalogs Feature stores/\n\nML data platforms Vector DBs/\n\nretrieval index AI Data Development Platform (Snorkel AI) Evaluate\n\nDomain tests sets\n\nCustom evals\n\nSegment/slice diagnostics Develop\n\nData curation (programmatic/AI)\n\nAgent/RAG diagnostics\n\nFine-tune flows Expert Data Services\n\nSME labeling\n\nEval/training sets\n\nQuality & governance AI runtime Foundational models\n\nFine-tuned models Agents\n\nRAG\n\nOrchestrators Observability\n\nMonitoring AI in production Deployment Security/compliance Measured lift\n\nOur solutions Expert data services Expert data, built for AI frontier labs and enterprise performance. Our expert community and programmatic labeling technology produce high-quality, high-fidelity data across domains—from financial documents to agentic evaluation environments—driving faster development cycles and higher model accuracy. 100x Faster data curation 40x Faster model delivery 99% Model accuracy Explore expert data services Enterprise AI solutions AI to unlock enterprise ROI—faster Snorkel’s proven delivery model helps you co-develop and continuously improve AI applications across the full AI lifecycle. +8 Increase in NPS +7% Add-to-cart rate 95% +41\n\nfrom project start Chatbot accuracy Explore AI solutions"
+      },
+      {
+        "id": 17583828,
+        "title": "Terminal-Bench 2.0: Raising the bar for AI agent evaluation",
+        "url": "https://snorkel.ai/blog/terminal-bench-2-0-raising-the-bar-for-ai-agent-evaluation/",
+        "publisher": "Snorkel AI",
+        "published_date": "2025-11-07T21:33:02",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Stanford University and Laude Institute have released Terminal-Bench 2.0, an updated benchmark for evaluating AI coding agents in command-line environments, featuring 89 curated tasks with enhanced verification and higher difficulty than the original version. Snorkel AI was a top external contributor to the project, providing reliable difficulty assessment, failure mode analysis, and task contributions to the dataset. The team also announced Harbor, a new framework for scaling containerized AI agent environments to enable developers to parallelize execution across thousands of containers on neocloud providers or Kubernetes clusters.",
+        "word_count": 877,
+        "original_language": "EN",
+        "author": "Kobie Crawford",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Evaluation, Benchmarking & Observability (Evals, Monitoring, Tracing)",
+            "code": "HDAAACAH",
+            "is_primary": true
+          },
+          {
+            "name": "Performance Engineering & Scalability Testing",
+            "code": "BPAEAKAK",
+            "is_primary": false
+          },
+          {
+            "name": "Developer Experience (DevEx) Tooling & Productivity Engineering",
+            "code": "BPAEAKAM",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Research, Development & Innovation",
+            "code": "SD08",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0098jkm",
+            "name": "Laude Institute",
+            "website": "https://www.laude.org",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "611519",
+            "name": "Educational Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          },
+          {
+            "code": "3575",
+            "name": "COMPUTER TERMINALS"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [],
+          "product": [
+            "harbor",
+            "terminal-bench",
+            "terminal-bench 2.0",
+            "youtube"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9351,
+        "group_id": 6712796,
+        "full_text": "Terminal-Bench 2.0: Raising the bar for AI agent evaluation\n\nTerminal-Bench, a joint project between Stanford University and Laude Institute, has quickly become the gold standard for evaluating AI coding agents’ capabilities in command-line environments. Since its launch earlier this year, the benchmark has garnered over 1,000 GitHub stars and attracted contributions from nearly 100 developers worldwide. At Snorkel AI, we’re proud to be one of the top external contributors to this project, and we’re thrilled to see the release of Terminal-Bench 2.0–a significant leap forward in both difficulty and quality. Why Terminal-Bench 2.0 matters From the beginning, Terminal-Bench was designed as a living benchmark that would evolve alongside AI capabilities. As frontier models improved, with performance climbing over 50% on the original benchmark, the team knew it was time to raise the stakes. Terminal-Bench 2.0 delivers on this vision with 89 carefully curated tasks that push the boundaries of what AI agents can accomplish in terminal environments. Each task underwent rigorous verification, with the development team meticulously reviewing every challenge to ensure it meets the highest standards. What’s new in 2.0 Increased difficulty: Terminal-Bench 2.0 is substantially more challenging than its predecessor. Tasks now better represent the frontier challenges that distinguish truly capable agents from those that can only handle routine operations. This ensures the benchmark remains relevant as AI capabilities advance—maintaining the crucial 50% performance ceiling where there’s clear room for improvement while still delivering meaningful signal for evaluation. Enhanced verification: One of the most significant improvements in 2.0 is the dramatic increase in task quality and reproducibility. The original benchmark included several problematic tasks—some were unsolvable for artificial reasons, others set arbitrary thresholds, and a few lacked robustness (like the YouTube download task affected by changing anti-bot protections). Terminal-Bench 2.0 eliminates these problems. Every task is now reproducible, properly specified, and genuinely solvable, with the team confident that near-100% performance is attainable for sufficiently capable agents. Real-world impact: Terminal-Bench 2.0 removes tasks that don’t reflect valuable real-world work. The easy “Hello World” debugging task is gone, along with other challenges that, while interesting academically, don’t provide meaningful details about an agent’s economic impact or ability to perform valuable tasks that engineers actually get paid to do. Snorkel AI’s contributions Snorkel’s researchers joined other contributors to Terminal-Bench to help the project achieve its goals of delivering a thoroughly vetted, challenging dataset. The team’s main contributions to the project centered on three areas: Reliable difficulty assessment: Our research team leveraged its expertise to develop a systematic assessment of Terminal-Bench 2.0 task difficulty, providing consistent criteria that could be applied across all contributed tasks. Extended failure mode analysis: We developed a failure taxonomy and collected traces to better understand where LLMs fail when executing Terminal-Bench tasks. These insights can help with better task design and inform how to improve agents and models under test. Tasks: The Snorkel team is a top contributor to the Terminal-Bench registry, and we’re pleased that we have been able to provide tasks to the Terminal-Bench 2.0 dataset. The next level: Introducing Harbor In addition to Terminal-Bench 2.0, the team has just announced an exciting new project named Harbor (site | repo). Harbor represents a significant evolution in how developers can scale up containerized AI agent environments. Born from observing how the community actually used Terminal-Bench, Harbor abstracts away the complexities of container-based rollouts—a challenge that seems simple but quickly grows complex at scale. The framework emerged after the Terminal-Bench team noticed users deploying the benchmark in unexpected ways—for example, as CI/CD tests for agents, for reinforcement learning with synthetic tasks, and for prompt optimization. All these use cases had the same abstraction in common: containerized environments performing rollouts that return tokens and rewards. Harbor makes this pattern accessible with minimal code, allowing developers to scale from local testing to thousands of parallel containers across neocloud providers like Daytona, E2B, and Modal, or on self-managed Kubernetes clusters. Better together: the benchmark and the framework Terminal-Bench 2.0 represents more than just a version update—it’s a commitment to maintaining the highest quality evaluation infrastructure as AI agent capabilities increase. By prioritizing rigorous verification and meaningful difficulty over arbitrary metrics, the benchmark ensures that progress on Terminal-Bench translates to genuine improvements in AI agents’ ability to perform complex, real-world tasks. And now, with Harbor, practitioners can parallelize the execution of entire datasets for faster iteration and greater efficiency. For teams building the next generation of AI coding assistants, Terminal-Bench 2.0 and Harbor provide an evaluation framework with the necessary robustness and reproducibility to measure true progress in this rapidly evolving space. At Snorkel, we enthusiastically support the Terminal-Bench community and are confident that reproducible, containerized environments will accelerate the development of accurate and reliable agentic AI systems. If you need to build or improve your agents with expert-verified data in an RL environment, come talk to us! Terminal-Bench is an open-source project led by Stanford University and Laude Institute, with contributions from a vibrant community of individuals and organizations, including Snorkel AI. To learn more about the benchmark, contribute tasks, or evaluate your own agents, visit tbench.ai or join the project’s Discord community. To find out more about Snorkel’s data development platform and our work with frontier AI labs, visit us at snorkel.ai and connect with our team."
+      },
+      {
+        "id": 15348112,
+        "title": "How Rox achieved 99% accuracy with Snorkel Evaluate",
+        "url": "https://snorkel.ai/customer-story/how-rox-achieved-99-accuracy-with-snorkel-evaluate/",
+        "publisher": "Snorkel AI",
+        "published_date": "2025-11-03T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Rox utilized Snorkel Evaluate to refine its AI-powered sales agent swarm, achieving 99% accuracy in generating personalized outbound emails. This technical improvement allowed Rox to identify and correct model errors, such as incorrect recipient names, enabling the confident deployment of a critical feature. The partnership highlights the necessity of specialized evaluators for ensuring reliability in agentic AI applications. ",
+        "word_count": 296,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Intent-Based Networking (IBN) & Closed-Loop Assurance",
+            "code": "HDAFAGAD",
+            "is_primary": true
+          },
+          {
+            "name": "Model Hosting, Serving & Inference Platforms",
+            "code": "HDAAACAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Operational Milestones",
+            "code": "SD04",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00vqjhx",
+            "name": "Rox",
+            "website": "https://rox.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "00008iv",
+            "name": "Snorkel AI",
+            "website": "https://www.snorkel.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "623",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "shriram sridharan"
+          ],
+          "location": [],
+          "product": [
+            "rox sales agent swarm",
+            "snorkel evaluate"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9951,
+        "group_id": 8805201,
+        "full_text": "CUSTOMER STORY How Rox achieved 99% accuracy with Snorkel Evaluate 99% Achieved accuracy with specialized evaluators +24 Point improvement in shipped critical outbound email feature\n\nEnterprises facing aggressive revenue targets without more headcount are turning to agentic AI innovator Rox. Rox is redefining the revenue stack with it’s AI-powered sales productivity platform, starting with the Rox sales agent swarm which provides agents that can perform at the level of top sales reps. Rox is redefining the revenue stack with our AI-powered sales platform. Off-the-shelf models aren’t capable of delivering the quality we need to ensure our agents are accurately personalizing outbound emails. With Snorkel Evaluate we have been able to confidently assess our outbound email agent, then identify and fix issues to achieve human-level accuracy. The level of visibility and control Snorkel delivers is a huge advantage as we build trustworthy, agentic AI at scale. – Shriram Sridharan, co-founder, Rox Challenge Rox’s ability to ensure outbound emails are fully accurate and aligned with each customer’s brand and objectives is a key differentiator. However, when developing models Rox found that off-the-shelf evaluation approaches were not able to deliver the required quality for critical custom evaluation tasks. Initially Rox wrote it’s own LLM-as-a-judge. While the model seemed to score well, the Rox team wanted higher confidence for production deployment. Solution Using the Snorkel Evaluation Suite, Rox scored the judge against human experts and found it aligned only around 75% of the time. The team used Snorkel to iterate on the judge to increase alignment. The aligned judge surfaced an issue with the prototype outbound model, which used the wrong recipient name around 11% of time, enabling Rox to correct the model’s behavior. Outcomes Achieved 99%+ accuracy with specialized evaluators enabling sufficient trust to ship a critical email outbound feature."
+      }
+    ],
+    "credits_consumed": 0.21
+  }
+}

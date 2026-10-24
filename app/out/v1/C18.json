@@ -1,0 +1,125 @@
+{
+  "company_id": "C18",
+  "company": "Thistlecrumb Foods",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+  "revenue_type": "non_recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 236000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 252,
+        "end": 295
+      },
+      "quote": "Revenue (month)    $210,000        $236,000",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 105000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 335,
+        "end": 378
+      },
+      "quote": "Net burn           $120,000        $105,000",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 1885000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 379,
+        "end": 424
+      },
+      "quote": "Cash               $2,200,000      $1,885,000",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 425,
+        "end": 465
+      },
+      "quote": "Runway             18 mo           18 mo",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 17,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 466,
+        "end": 503
+      },
+      "quote": "Team               17              17",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 465,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 296,
+        "end": 334
+      },
+      "quote": "Retail doors       410             465",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Added 55 retail doors with a regional grocery chain (410 to 465); net burn fell from $120k to $105k as gross margin reached 41%.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 505,
+        "end": 597
+      },
+      "quote": "Burn improved as gross margin moved to 41%. We added 55 doors with a regional grocery chain.",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Slotting fees for the Q1 shelf reset will spike burn in January.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C18_thistlecrumb_2026-10-16.txt",
+      "source_span": {
+        "start": 598,
+        "end": 672
+      },
+      "quote": "Heads up: slotting fees for the Q1 shelf reset will spike burn in January.",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

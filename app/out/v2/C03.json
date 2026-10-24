@@ -1,0 +1,135 @@
+{
+  "company_id": "C03",
+  "company": "Ossmere Health",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 71250,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 309,
+        "end": 346
+      },
+      "quote": "Recurring revenue, September: $71,250",
+      "confidence": 0.9,
+      "derivation": "Stated recurring revenue for September"
+    },
+    "arr": {
+      "value": 855000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Sep 2026",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 309,
+        "end": 346
+      },
+      "quote": "Recurring revenue, September: $71,250",
+      "confidence": 0.9,
+      "derivation": "12 x 71,250 MRR; no ARR stated"
+    },
+    "monthly_burn": {
+      "value": 205000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 738,
+        "end": 774
+      },
+      "quote": "| Monthly net burn | $190K | $205K |",
+      "confidence": 0.9,
+      "derivation": "Q3 column of financials table"
+    },
+    "cash": {
+      "value": 3620000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 775,
+        "end": 818
+      },
+      "quote": "| Cash (end of quarter) | $4.20M | $3.62M |",
+      "confidence": 0.9,
+      "derivation": "Q3 column, $3.62M"
+    },
+    "runway_months": {
+      "value": 18,
+      "unit": "months",
+      "currency": null,
+      "period": "Q3 2026",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 819,
+        "end": 845
+      },
+      "quote": "| Runway | 22 mo | 18 mo |",
+      "confidence": 0.9,
+      "derivation": "Q3 column of table"
+    },
+    "headcount": {
+      "value": 18,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 620,
+        "end": 643
+      },
+      "quote": "FTEs at quarter end: 18",
+      "confidence": 0.9,
+      "derivation": "Stated FTEs at quarter end"
+    },
+    "customers": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": "Q3 2026 end",
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 349,
+        "end": 389
+      },
+      "quote": "Clinic groups live: 11 (+2 this quarter)",
+      "confidence": 0.9,
+      "derivation": "Company counts clinic groups live"
+    },
+    "key_highlight": {
+      "value": "Signed a 40-clinic regional cardiology group, the largest contract to date",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 392,
+        "end": 466
+      },
+      "quote": "Signed a 40-clinic regional cardiology group, our largest contract to date",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "CMS proposed rule could cut the remote-monitoring reimbursement code by ~12% in 2027",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C03_ossmere_Q3-2026-deck-export.md",
+      "source_span": {
+        "start": 868,
+        "end": 952
+      },
+      "quote": "CMS proposed rule could cut the remote-monitoring reimbursement code by ~12% in 2027",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

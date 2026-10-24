@@ -1,0 +1,930 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0005v2n&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:09.254Z",
+  "data": {
+    "data": {
+      "uuid": "0005v2n",
+      "funding_detail": {
+        "funding_rounds": [
+          {
+            "id": 271235,
+            "date": {
+              "month": 1,
+              "year": 2025
+            },
+            "round": {
+              "code": "undisclosed",
+              "label": "Undisclosed"
+            }
+          },
+          {
+            "id": 303587,
+            "date": {
+              "month": 4,
+              "year": 2023
+            },
+            "round": {
+              "code": "grant",
+              "label": "Grant"
+            }
+          },
+          {
+            "id": 631950,
+            "date": {
+              "month": 8,
+              "year": 2022
+            },
+            "round": {
+              "code": "seed",
+              "label": "Seed"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Center of Aging and Brain Health Innovation",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000l3d",
+            "website": "http://www.cabhi.com"
+          },
+          {
+            "name": "Davidovs Venture Collective",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000yps",
+            "website": "https://dvc.ai"
+          },
+          {
+            "name": "Davidovs Venture Collective",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000bc3k",
+            "website": "https://dvc.ai"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 3 more funding rounds; 4 more investors; funding round details - date and investors; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Denti.AI builds and sells a cloud-based dental AI platform that automates clinical documentation, periodontal charting, X-ray disease detection, and front-desk operations for dental practices. The platform includes an ambient AI scribe, voice-activated perio charting, FDA-cleared radiographic analysis, patented auto-charting software, and a 24/7 AI receptionist, with native integrations to 10+ practice management systems. Customers are primarily U.S. and Canadian dental practices, DSOs, and dental hygienists who subscribe monthly or annually, with custom enterprise pricing for large multi-location DSOs.",
+        "differentiator": "Denti.AI offers the only FDA-cleared AI solution covering all three major dental concerns: caries, periapical radiolucencies, and bone levels. Industry-first FDA clearance for disease detection on panoramic images. First AI-powered dental auto-charting software with FDA clearance. Proprietary low-bandwidth technology enabling real-time voice charting without strong internet. Unified platform combining clinical AI (imaging, charting, scribe) with front-office AI (receptionist) in one ecosystem.",
+        "functional_benefit": "Saves 1-2 hours daily on documentation per provider. Completes full-mouth perio charts in under 5 minutes (vs. 10-15 minutes manually). Reduces charting clicks by 70% with Auto-Chart. Increases treatment opportunities by 26% through enhanced X-ray detection. Boosts hygienist revenue by 10%. Achieves 96% adoption rate after three sessions with Scribe. Practices complete 50% more perio charts per hygienist.",
+        "problem_solved": "Dental practices spend excessive time on documentation and administrative tasks, leading to clinician burnout and reduced patient interaction. Traditional perio charting requires two people and significant time. X-ray analysis misses early-stage lesions and treatment opportunities. Manual charting creates inconsistent documentation and compliance issues. Patients often don't understand their oral health conditions, leading to low treatment acceptance.",
+        "quantifiable_outcome": [
+          "Save 1-2 hours daily on note-taking and charting",
+          "Complete perio chart in 5 minutes vs. 10-15 minutes manually",
+          "26% additional treatment opportunities identified with Detect",
+          "70% reduction in charting clicks with Auto-Chart",
+          "10% revenue boost for hygienists",
+          "50% more perio charts completed per hygienist",
+          "96% adoption rate after 3 sessions with Scribe",
+          "Near-zero customer churn after rollout",
+          "Up to 20 minutes saved per patient with Voice Perio"
+        ],
+        "product_overview": "Denti.AI offers an all-in-one unified dental AI platform comprising four core products: Denti.AI Scribe (ambient AI scribe for clinical documentation), Denti.AI Voice Perio (voice-activated periodontal charting), Denti.AI Receptionist (AI front-desk agent), and Denti.AI Voice Assistant (mobile iOS app). Add-on modules include Denti.AI Detect (FDA-cleared X-ray imaging analysis) and Denti.AI Auto-Chart/Auto-Chart 2 (patented auto-charting from radiographs). The platform integrates with 10+ practice management systems including Dentrix, Open Dental, Eaglesoft, and others. Core differentiators include FDA clearances, voice-perio charting in under 5 minutes, ambient scribe technology saving 1-2 hours daily, and unified clinical+front-office AI.",
+        "product_and_service": [
+          {
+            "category": "Clinical Documentation / Ambient AI Scribe",
+            "description": "AI-powered ambient clinical documentation assistant that listens to dentist-patient conversations in real time, transcribes them, identifies clinical entities (chief complaints, exam findings, diagnoses, treatment plans), and auto-generates structured notes in customizable SOAP or custom templates; supports 50+ patient languages with English translation and saves directly into the PMS. Offered as a tiered subscription (Single Install, Business, Unlimited) to dental practices and DSOs.",
+            "name": "Denti.AI Scribe",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "url": "https://www.denti.ai/scribe"
+          },
+          {
+            "category": "Periodontal Charting / Voice AI",
+            "description": "Voice-activated periodontal charting software that lets clinicians speak pocket depths, bleeding points, recession, furcation, and mobility scores and have AI populate charts in real time, enabling assistant-free full-mouth perio charting in under 5 minutes with AAP staging and patient-friendly reports. Sold as a tiered subscription (Basic, Analytics) to dental practices, hygienists, and DSOs.",
+            "name": "Denti.AI Voice Perio",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "url": "https://www.denti.ai/voice-perio"
+          },
+          {
+            "category": "Front-Office AI / AI Receptionist",
+            "description": "AI front-desk agent that uses natural language processing to answer patient calls 24/7, book and reschedule appointments, handle routine patient requests, and manage multi-channel communication (phone, SMS, web chat) by checking real-time PMS schedule availability; HIPAA compliant with 256-bit encryption. Offered as an add-on or standalone subscription to dental practices and DSOs.",
+            "name": "Denti.AI Receptionist",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "url": "https://www.denti.ai/ai-receptionist"
+          },
+          {
+            "category": "Mobile Clinical Scribe / iOS App",
+            "description": "Mobile AI dental scribe application for iPhone and iPad that listens to dental visits, produces template-ready clinical notes, supports 50+ patient languages with English translation, and synchronizes with Denti.AI Scribe across web and desktop. Sold as a subscription to dental professionals.",
+            "name": "Denti.AI Voice Assistant (iOS app)",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "url": "https://apps.apple.com/ca/app/denti-ai-voice-assistant/id6463771924"
+          },
+          {
+            "category": "Dental Imaging AI / Radiographic Analysis",
+            "description": "FDA 510(k)-cleared AI imaging analysis tool that identifies caries, apical radiolucencies, and bone loss on intraoral, bitewing, periapical, panoramic, and CBCT radiographs and provides descriptions and patient education content, unlocking an estimated 26% more treatment opportunities. Offered as a $49/month per-location add-on subscription to dental practices and DSOs.",
+            "name": "Denti.AI Detect",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "url": "https://www.denti.ai/dental-ai"
+          },
+          {
+            "category": "Auto-Charting Software / Dental Imaging AI",
+            "description": "Patented, FDA-cleared AI auto-charting software (U.S. Patent No. 11389131) that automatically detects and charts existing restorations (crowns, implants, fillings), missing teeth, and proposed treatment from radiographs directly into the PMS, reducing charting clicks by 70%. Offered as a $99/month add-on subscription bundled with Detect.",
+            "name": "Denti.AI Auto-Chart",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "url": "https://www.denti.ai/dental-ai"
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Serving 10,000+ dental professionals across the United States and Canada",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "10,000+"
+          },
+          {
+            "description": "Trusted by 20+ leading DSOs including four of the ten largest in North America",
+            "source": [
+              "https://www.denti.ai/about"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "20+"
+          },
+          {
+            "description": "Voice Perio surpassed 1 million completed perio charts as of January 2025",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "user_engagement",
+              "label": "User Engagement"
+            },
+            "value": "1,000,000+"
+          },
+          {
+            "description": "Denti.AI Voice Perio is used by 20+ DSOs and hundreds of private practices; customer churn remains near zero after rollout",
+            "source": [
+              "https://www.denti.ai/blog-posts/denti-ai-voice-perio-vs-bola-ai-voice-perio"
+            ],
+            "type": {
+              "code": "contract_wins",
+              "label": "Contract Wins"
+            },
+            "value": "100+"
+          },
+          {
+            "description": "Practices complete about 50% more perio charts per hygienist with Voice Perio",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "50%+"
+          },
+          {
+            "description": "Dentists save 1-2 hours daily on note-taking and charting",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "1-2 hours"
+          },
+          {
+            "description": "Complete a full perio chart in just 5 minutes with Voice Perio",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "5 minutes"
+          },
+          {
+            "description": "Additional treatment opportunities identified for dentists using Detect",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "26%"
+          },
+          {
+            "description": "Revenue boost for hygienists using Voice Perio",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "10%"
+          },
+          {
+            "description": "Reduction in charting clicks with Auto-Chart",
+            "source": [
+              "https://www.denti.ai/"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "70%"
+          },
+          {
+            "description": "Adoption rate after three live sessions with Scribe",
+            "source": [
+              "https://www.denti.ai/blog-posts/ai-dental-scribe-101-goodbye-manual-charting"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "96%"
+          },
+          {
+            "description": "Average ROI reported by dental practices and DSOs implementing AI platforms",
+            "source": [
+              "https://www.denti.ai/dental-ai"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "18x"
+          },
+          {
+            "description": "ROI within first six months for AI receptionists",
+            "source": [
+              "https://www.denti.ai/dental-ai"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "9-17x"
+          },
+          {
+            "description": "Lost annual revenue from missed calls for a practice receiving 75 new patient inquiries per month",
+            "source": [
+              "https://www.denti.ai/dental-ai"
+            ],
+            "type": {
+              "code": "customer_outcomes",
+              "label": "Customer Outcomes"
+            },
+            "value": "$265,000+"
+          },
+          {
+            "description": "Company established in 2018 in Canada",
+            "source": [
+              "https://www.denti.ai/about"
+            ],
+            "type": {
+              "code": "regulatory_milestones",
+              "label": "Regulatory Milestones"
+            },
+            "value": "2018"
+          },
+          {
+            "description": "Received FDA clearance for multiple AI-powered tools",
+            "source": [
+              "https://www.denti.ai/about"
+            ],
+            "type": {
+              "code": "regulatory_milestones",
+              "label": "Regulatory Milestones"
+            },
+            "value": "2022-2023"
+          },
+          {
+            "description": "FDA 510(k) clearance for Denti.AI Detect (caries, periapical lesions, bone loss)",
+            "source": [
+              "https://www.denti.ai/denti-ai-pioneers-fda-cleared-pathology-detection-in-both-panoramic-and-intraoral-x-rays-with-launch-of-denti-ai-detect"
+            ],
+            "type": {
+              "code": "regulatory_milestones",
+              "label": "Regulatory Milestones"
+            },
+            "value": "2023"
+          },
+          {
+            "description": "First AI-powered dental auto-charting software FDA clearance (Auto-Chart)",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "regulatory_milestones",
+              "label": "Regulatory Milestones"
+            },
+            "value": "2022"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "day": 19,
+              "month": 6,
+              "year": 2025
+            },
+            "description": "New partnership to bring Denti.AI's AI-powered solutions—Voice Perio and Scribe—to more dental professionals across the country. Collaboration helps practices streamline perio charting and clinical documentation, giving providers more time to focus on patient care.",
+            "name": "Synergy Dental Partners",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000izep"
+          },
+          {
+            "announced_on": {
+              "day": 23,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Strategic partnership combining Denti.AI's cutting-edge AI solutions with EDA's expansive network and purchasing power, making advanced technology more affordable and seamless for independent dental practices.",
+            "name": "Elite Dental Alliance",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "channel_reseller_distributor",
+              "label": "Channel Partner/ Reseller/ Distributor"
+            },
+            "uuid": "000ry6s"
+          },
+          {
+            "announced_on": {
+              "day": 5,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Leading DSO Dental Care Alliance chose Denti.AI to streamline and enhance clinical workflows. DCA aims to reduce administrative burdens and tedious documentation and charting tasks, empowering hygienists and dentists to spend more meaningful time with patients.",
+            "name": "Dental Care Alliance",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "000ueba"
+          },
+          {
+            "announced_on": {
+              "day": 30,
+              "month": 12,
+              "year": 2025
+            },
+            "description": "California-based DSO joined Denti.AI in December 2025. Helping them spend less time on documentation and more time with patients, supporting their mission of delivering better patient care through smarter technology.",
+            "name": "Straine Dental Management",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00084k6"
+          },
+          {
+            "announced_on": {
+              "day": 26,
+              "month": 11,
+              "year": 2025
+            },
+            "description": "Vancouver Island-based dental group joined Denti.AI in November 2025. Excited to support their team with AI-powered clinical tools across their practices.",
+            "name": "Blue Ocean Group",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "003zzij"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 10,
+              "year": 2023
+            },
+            "description": "Denti.AI Detect received FDA 510(k) clearance, including an industry-first clearance for AI disease detection on panoramic dental images (caries, periapical radiolucencies, bone loss).",
+            "source": [
+              "https://www.denti.ai/denti-ai-pioneers-fda-cleared-pathology-detection-in-both-panoramic-and-intraoral-x-rays-with-launch-of-denti-ai-detect"
+            ],
+            "type": {
+              "code": "regulatory_action",
+              "label": "Regulatory Action"
+            }
+          },
+          {
+            "date": {
+              "year": 2024
+            },
+            "description": "Denti.AI launched its AI-powered ambient clinical documentation product (Denti.AI Scribe), extending the platform beyond imaging and perio charting into the higher-frequency documentation workflow.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 23,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Denti.AI announced a strategic GPO partnership with Elite Dental Alliance to distribute its AI solutions across independent dental practices via EDA's purchasing network.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 8,
+              "year": 2025
+            },
+            "description": "Denti.AI launched Auto-Chart 2, layering live voice capture onto radiograph AI to auto-complete odontograms into the PMS, and introduced the Denti.AI Voice Assistant iOS app for mobile scribe workflows.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "product_launch",
+              "label": "Product Launch"
+            }
+          },
+          {
+            "date": {
+              "day": 5,
+              "month": 2,
+              "year": 2025
+            },
+            "description": "Leading DSO Dental Care Alliance (DCA) selected Denti.AI to deploy AI clinical documentation and perio charting across its practice network.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "year": 2025
+            },
+            "description": "Dr. Adam Burr, former Chief Dental Officer at Elite Dental Partners, joined Denti.AI as Principal Dental Advisor, adding enterprise DSO clinical credibility to the leadership bench.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Dr. Adam Burr, formerly the Chief Dental Officer at Elite Dental Partners, joined Denti.AI as Principal Dental Advisor, bringing a proven track record of mentoring dentists, pioneering clinical care standards, and excelling in strategic business planning.",
+            "source": [
+              "https://www.denti.ai/news"
+            ],
+            "title": "Dr. Adam Burr joins Denti.AI as Principal Dental Advisor",
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "Denti.AI launched Auto-Chart 2 in August 2025, combining live voice capture with radiograph AI to auto-complete odontograms, and the Denti.AI Voice Assistant iOS app in October 2025, materially expanding the product surface from imaging/charting into a unified voice+vision clinical documentation platform.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "The February 2025 Elite Dental Alliance GPO partnership and the June 2025 Synergy Dental Partners partnership open distribution via group purchasing and partner networks beyond Denti.AI's direct sales motion, accelerating reach into independent practices.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "2025 enterprise DSO signings accelerated with Dental Care Alliance (February 2025), Straine Dental Management (December 2025), and Blue Ocean Group (November 2025), broadening the roster of multi-location DSO customers beyond the original Aspen Dental anchor.",
+            "type": {
+              "code": "new_customer_segment",
+              "label": "New Customer Segment"
+            }
+          },
+          {
+            "description": "In August 2025, Denti.AI reduced Denti.AI Detect pricing to $49/location/month for qualified DSOs and partners, signaling an offensive pricing move to address competitive pressure and accelerate enterprise penetration.",
+            "type": {
+              "code": "new_pricing_model",
+              "label": "New Pricing Model"
+            }
+          },
+          {
+            "description": "New PMS integrations announced in 2024 (Curve Dental) and 2025 (Oryx) extend the integration footprint alongside the existing 10+ PMS ecosystem, deepening embedment within the dental software stack.",
+            "type": {
+              "code": "ecosystem_buildout",
+              "label": "Ecosystem Buildout"
+            }
+          },
+          {
+            "description": "Denti.AI Detect and Auto-Chart are licensed by Health Canada in addition to FDA clearance, and the company operates in both the U.S. and Canadian markets, indicating a regulatory foundation that supports cross-border North American commercialization.",
+            "type": {
+              "code": "regulatory_pursuit",
+              "label": "Regulatory Pursuit"
+            }
+          },
+          {
+            "description": "November 2025 addition of Vancouver Island-based Blue Ocean Group demonstrates continued Canadian DSO expansion alongside the primary U.S. market, with the Toronto and Vancouver offices supporting North American coverage.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "5m_10m",
+          "label": "$5M-$10M"
+        },
+        "valuation_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Denti.AI Technology Inc. is a privately held Toronto-based dental AI company (founded 2017/2018) serving 10,000+ dental professionals across the United States and Canada, including 20+ leading DSOs and four of the ten largest DSOs in North America. The company holds industry-first FDA 510(k) clearances for dental auto-charting (Auto-Chart, December 2022) and for disease detection on panoramic images (Detect, October 2023), positioning it as a clinically validated, regulation-cleared provider at the upper end of the dental AI market.",
+        "strengths": [
+          {
+            "details": "Denti.AI is one of the few vendors combining clinical AI (Scribe $129-399/month, Voice Perio $99-199/month, Detect $49/month) with front-office AI (Receptionist) on a single platform. Bundled per-location spend could reach $700+/month, and as more products are adopted, switching costs and customer stickiness compound — already evidenced by 96% Scribe adoption and near-zero Voice Perio churn post-rollout.",
+            "headline": "Unified platform drives land-and-expand across clinical and front-office AI",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "With 4 of the 10 largest North American DSOs already as customers and 20+ DSOs total, Denti.AI has clear expansion paths to remaining top DSOs and across their hundreds-to-thousands of locations each. Continued new logo momentum is signaled by Dental Care Alliance (Feb 2025), Straine (Dec 2025), and Blue Ocean (Nov 2025), supporting a multi-year DSO rollout curve.",
+            "headline": "Top-tier DSO penetration creates clear expansion runway",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "Voice Perio has logged hundreds of millions of periodontal measurements and 1M+ completed charts by January 2025; the platform is trained on millions of radiographs. As usage scales, model accuracy and clinical value improve, widening the gap with new entrants. Near-zero churn means this training data continues to flow without leakage to competitors.",
+            "headline": "Data network effects compound with each chart and radiograph processed",
+            "source": [
+              "https://www.denti.ai/news"
+            ]
+          },
+          {
+            "details": "FDA 510(k) clearances for Auto-Chart (industry-first) and Detect (industry-first for panoramic disease detection) cost significant time and capital to replicate. Combined with U.S. Patent No. 11389131 on Auto-Chart and Health Canada licensing, Denti.AI has a defensible IP and regulatory position. New entrants face 12-24 month FDA timelines during which Denti.AI can continue expanding product and customer base.",
+            "headline": "Regulatory and IP clearances create a defensible moat",
+            "source": [
+              "https://www.denti.ai/news"
+            ]
+          },
+          {
+            "details": "Practices report 18x average ROI, 50% more perio charts per hygienist, 26% additional treatment opportunities with Detect, and 9-17x ROI within six months for AI receptionists. These measurable outcomes drive bottom-up adoption from individual practitioners who then champion DSO-wide deployments — a strong go-to-market motion that complements the top-down DSO sales motion and lowers customer acquisition cost.",
+            "headline": "Documented ROI fuels bottom-up adoption that complements enterprise sales",
+            "source": [
+              "https://www.denti.ai/dental-ai"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Denti.AI explicitly lowered Detect pricing to $49/location/month 'to address competitive pricing concerns.' As multiple competitors (Pearl, Overjet, VideaHealth) reach FDA clearance for similar imaging AI, pricing power in the imaging module could compress further, reducing blended ARPU and constraining R&D and sales investment needed to defend share.",
+            "headline": "Pricing pressure signals commoditization of dental AI imaging",
+            "source": [
+              "https://www.denti.ai/pricing"
+            ]
+          },
+          {
+            "details": "Denti.AI's funding rounds show $0 disclosed amounts and small employee headcount (11-50), suggesting limited institutional capital raised. Meanwhile, well-funded competitors in dental AI (Pearl, Overjet, VideaHealth) have raised significantly more. Larger rivals can outspend on R&D, sales, and customer acquisition, potentially squeezing Denti.AI's market position.",
+            "headline": "Well-capitalized competitors could outpace Denti.AI in product and distribution",
+            "source": [
+              "https://www.denti.ai/about"
+            ]
+          },
+          {
+            "details": "Top DSO customers (Aspen, Dentalcorp, Mortenson) have the scale and resources to build AI tools in-house or negotiate exclusive arrangements with larger healthtech platforms (e.g., Planet DDS, which acquired Apteryx). A single major DSO decision to consolidate vendors or self-build could eliminate a significant chunk of enterprise revenue and reduce DSO motion leverage.",
+            "headline": "DSO self-build or vendor consolidation threatens enterprise channel",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "Denti.AI Detect and Auto-Chart make clinical claims subject to FDA regulation. As FDA and international regulators increase scrutiny on AI/ML SaMD, future iterations may require additional clinical validation, longer approval timelines, or stricter labeling. Any regulatory setback could delay product launches and erode competitive positioning against less-regulated international players.",
+            "headline": "Regulatory headwinds on AI diagnostics could slow product roadmap",
+            "source": [
+              "https://www.denti.ai/denti-ai-pioneers-fda-cleared-pathology-detection-in-both-panoramic-and-intraoral-x-rays-with-launch-of-denti-ai-detect"
+            ]
+          },
+          {
+            "details": "With 4 of the 10 largest DSOs in North America as customers, a small number of enterprise contracts could represent a significant share of revenue. DSO industry consolidation — which has accelerated in recent years — could result in contract terminations, renegotiations, or vendor consolidation events that disrupt revenue stability and growth.",
+            "headline": "DSO customer concentration exposes revenue to industry consolidation events",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Denti.AI holds FDA 510(k) clearance for Denti.AI Detect (caries, periapical radiolucencies, bone loss) with an industry-first clearance for disease detection on panoramic images, plus the first FDA clearance for AI-powered dental auto-charting software (Auto-Chart). These clearances create a meaningful regulatory barrier for competitors pursuing diagnostic imaging AI in dentistry.",
+            "type": {
+              "code": "regulatory_moat",
+              "label": "Regulatory Moat"
+            }
+          },
+          {
+            "details": "The company is trained on millions of dental radiographs, clinical notes, periodontal measurements, and treatment records; Denti.AI Voice Perio alone has logged hundreds of millions of periodontal measurements with verified accuracy and surpassed 1 million completed perio charts as of January 2025, creating a proprietary data flywheel that improves model performance with scale.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Native integrations with 10+ dental practice management systems (Dentrix, Dentrix Ascend, Denticon, CareStack, Open Dental, Eaglesoft, ClearDent, ABELDent, Curve Dental, Oryx) enable direct save-to-PMS workflows that embed Denti.AI into the daily clinical operating stack of practices.",
+            "type": {
+              "code": "ecosystem_lock_in",
+              "label": "Ecosystem Lock In"
+            }
+          },
+          {
+            "details": "Reported 96% adoption rate after three sessions with Scribe and near-zero customer churn after DSO rollout indicate high workflow entrenchment; deep PMS-coupled workflows and clinician training investment create meaningful switching friction once deployed.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          },
+          {
+            "details": "U.S. Patent No. 11389131 protects the Auto-Chart auto-charting method, and proprietary low-bandwidth technology enables real-time voice charting without strong internet connectivity at practice locations, creating defensible technical IP beyond data advantages.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Denti.AI serves 20+ leading DSOs including four of the ten largest in North America (Aspen Dental, Dental Care Alliance, Mortenson, Elite Dental Partners, Dentalcorp), giving it privileged access to the largest consolidated buyer segment in dentistry and a structural distribution advantage over point-solution competitors.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Co-founder and Lead Researcher Lyudmila Tuzova developed the original CNN-based dental pathology detection prototype and authored published research with UNC Adams School of Dentistry and University of Louisville School of Dentistry; CTO Max Kharchenko brings 8 years of large-scale ML project leadership, and CEO Dmitry Tuzoff is a PhD researcher in deep learning.",
+            "type": {
+              "code": "talent_moat",
+              "label": "Talent Moat"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "Denti.AI's own comparison content names direct competitors including Bola AI (voice perio) and DentScribe (scribe). Pearl, Overjet, and VideaHealth are established players in dental imaging AI. Denti.AI explicitly lowered Detect pricing to $49/location/month 'to address competitive pricing concerns,' indicating margin compression in core imaging AI.",
+            "headline": "Highly competitive dental AI market with well-funded rivals and explicit pricing pressure",
+            "source": [
+              "https://www.denti.ai/pricing"
+            ]
+          },
+          {
+            "details": "Operating geographies are restricted to the United States and Canada. There is no disclosed global footprint, international expansion, or presence in other major dental markets (Europe, Asia-Pacific, Latin America), materially capping the addressable market relative to peers pursuing global scale.",
+            "headline": "Geographic concentration limited to US and Canada only",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "Denti.AI has only 11-50 employees while serving 10,000+ dental professionals, 20+ DSOs, and operating six product lines. The lean team for an enterprise-focused SaaS company could constrain product velocity, enterprise sales execution, and support capacity as the customer base scales.",
+            "headline": "Small headcount relative to enterprise ambitions and product breadth",
+            "source": [
+              "https://www.denti.ai/team"
+            ]
+          },
+          {
+            "details": "Top customers include 4 of the 10 largest DSOs in North America (Aspen Dental, Dentalcorp, Mortenson, etc.). A single major DSO churn or contract renegotiation could materially impact revenue. Large DSOs also have scale to build internal AI capabilities or consolidate vendors to a single healthtech platform.",
+            "headline": "DSO customer concentration creates partnership and churn risk",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "Denti.AI Detect and Auto-Chart make clinical diagnostic and charting claims subject to FDA regulation. As regulators increase scrutiny on AI/ML SaMD, future product iterations may face stricter validation, labeling, or approval requirements, potentially slowing time-to-market and adding compliance burden.",
+            "headline": "Regulatory and liability exposure in AI diagnostic and charting products",
+            "source": [
+              "https://www.denti.ai/denti-ai-pioneers-fda-cleared-pathology-detection-in-both-panoramic-and-intraoral-x-rays-with-launch-of-denti-ai-detect"
+            ]
+          },
+          {
+            "details": "Pearl, Overjet, and VideaHealth have all reached FDA clearance for dental imaging AI covering overlapping conditions. As core imaging detection (caries, bone loss) becomes table stakes, Denti.AI's technical differentiation may erode, requiring continuous R&D investment to maintain lead.",
+            "headline": "Risk of feature commoditization as multiple competitors reach FDA clearance for dental imaging AI",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "Denti.AI serves 10,000+ dental professionals across the US and Canada, and its customer roster includes Aspen Dental, Mortenson Dental Partners, Elite Dental Partners, Dentalcorp, Guardian Dentistry Partners, Dental Care Alliance, P1 Dental Partners, Park Dentistry Partners and others — with 4 of the 10 largest DSOs in North America signed on.",
+            "headline": "Scaled user base of 10,000+ dental professionals and 20+ leading DSOs including 4 of the top 10 in North America",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "Denti.AI received FDA 510(k) clearance for Auto-Chart in December 2022 as the first AI-powered dental auto-charting software, and for Detect in October 2023 with the industry-first clearance for disease detection on panoramic images, covering caries, periapical radiolucencies, and bone loss. U.S. Patent No. 11389131 covers Auto-Chart technology.",
+            "headline": "Multiple FDA 510(k) clearances including industry-firsts for AI auto-charting and panoramic disease detection",
+            "source": [
+              "https://www.denti.ai/news"
+            ]
+          },
+          {
+            "details": "Voice Perio shows near-zero customer churn after DSO rollout. Scribe achieves a 96% adoption rate after three live sessions. Voice Perio surpassed 1,000,000 completed perio charts as of January 2025, with hundreds of millions of periodontal measurements logged.",
+            "headline": "Near-zero customer churn and 96% adoption rate after just three sessions",
+            "source": [
+              "https://www.denti.ai/blog-posts/denti-ai-voice-perio-vs-bola-ai-voice-perio"
+            ]
+          },
+          {
+            "details": "Practices report an 18x average ROI. Specific outcomes include 1-2 hours saved daily on documentation, full perio charts completed in under 5 minutes (vs 10-15 minutes manually), 70% reduction in charting clicks with Auto-Chart, 26% additional treatment opportunities identified with Detect, 50% more perio charts per hygienist, and 9-17x ROI within six months for AI receptionists.",
+            "headline": "Quantifiable 18x ROI with measurable clinical and financial efficiency gains",
+            "source": [
+              "https://www.denti.ai/dental-ai"
+            ]
+          },
+          {
+            "details": "U.S. Patent No. 11389131 covers Auto-Chart, and a proprietary low-bandwidth technology enables real-time voice charting without strong internet. Denti.AI integrates with 10+ practice management systems (Dentrix, Dentrix Ascend, Denticon, CareStack, Open Dental, Eaglesoft, ClearDent, ABELDent, Curve Dental, Oryx), creating distribution leverage and switching friction.",
+            "headline": "Patented proprietary technology with deep PMS ecosystem integration",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          },
+          {
+            "details": "CEO Dmitry Tuzoff is a PhD Researcher in Deep Learning, former Country Director at Huawei, and co-founded three fast-growing companies with $15M+ in revenue. COO Daniil Mordovskoy has 15+ years executive leadership, including scaling Groupon's regional sales 26x and a $100M+ acquisition at Delivery Club. Lead Researcher Lyudmila Tuzova published pioneering CNN-based dental pathology detection research with UNC Adams School of Dentistry.",
+            "headline": "Experienced leadership with deep AI research, dental, and SaaS scaling backgrounds",
+            "source": [
+              "https://www.denti.ai/team"
+            ]
+          },
+          {
+            "details": "Denti.AI offers an all-in-one dental AI platform with Scribe (ambient clinical documentation), Voice Perio (voice-activated perio charting), Detect (FDA-cleared imaging AI), Auto-Chart/Auto-Chart 2 (patented auto-charting), Receptionist (AI front-desk agent), and a Voice Assistant iOS app. Bundling creates cross-sell opportunities and a multi-product land-and-expand motion.",
+            "headline": "Unified platform spanning clinical AI and front-office AI with cross-sell motion",
+            "source": [
+              "https://www.denti.ai/"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Denti.AI serves an estimated 10,000+ individual dental professionals across the U.S. and Canada and 20+ enterprise DSOs including four of the ten largest in North America (Aspen Dental, Dental Care Alliance, Mortenson, Elite Dental Partners). The named enterprise logos — Aspen, DCA, Mortenson, Elite, Dentalcorp, Guardian, P1, Park, Passion, Integrity, Straine, Blue Ocean — represent a mix of top-decile DSOs and mid-tier groups, providing meaningful but not exclusive anchor revenue. The dual GTM (enterprise field sales for DSOs plus PLG self-serve with publicly disclosed $99-$399/month pricing for individuals and small groups) diversifies the revenue base across a long tail of SMB subscribers. Concentration risk is Moderate: large DSO contracts likely account for a disproportionate share of ARR, but the 10,000+ professional user base, multi-product attach, and absence of any single customer exceeding ~10-15% of revenue (based on disclosed logo distribution) limit critical exposure; near-zero reported churn after rollout further stabilizes the concentration profile.",
+          "classification": {
+            "code": "Moderate",
+            "label": "Moderate"
+          }
+        },
+        "peers": [
+          {
+            "description": "Pearl is a dental AI company providing FDA-cleared imaging analysis for caries, bone level, and other conditions. It is a direct competitor to Denti.AI Detect and Auto-Chart, serving similar DSOs and private practices with overlapping computer-vision-based diagnostic functionality.",
+            "name": "Pearl",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002dz"
+          },
+          {
+            "description": "Planet DDS is a dental software platform serving DSOs with practice management, imaging, and AI capabilities (including through acquisitions like Apteryx). It is a broad incumbent that could compete with Denti.AI's enterprise DSO motion by offering bundled PMS+AI solutions to the same enterprise customer base.",
+            "name": "Planet DDS",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0005yzu"
+          },
+          {
+            "description": "Adit is a dental practice management software company offering patient communication, scheduling, and AI-powered tools for dental practices. It is an emerging player that overlaps with parts of Denti.AI's front-office AI (Receptionist) and broader dental SaaS positioning, though its PMS offering is broader than Denti.AI's AI focus.",
+            "name": "Adit",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            }
+          },
+          {
+            "description": "DentScribe.ai is a dental AI ambient scribe that listens to patient-clinician conversations and generates clinical notes. It is a direct competitor to Denti.AI Scribe, explicitly compared in Denti.AI's marketing content, targeting the same dental practice and DSO customer base.",
+            "name": "DentScribe.ai",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0005x1i"
+          },
+          {
+            "description": "Curve Dental is a cloud-based dental practice management system that Denti.AI integrates with. As a broad incumbent, Curve competes in the broader dental software category where Denti.AI's PMS-integrated AI tools operate, though it does not directly compete on the AI product layer.",
+            "name": "Curve Dental",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "00049wa"
+          },
+          {
+            "description": "tab32 is a cloud-based dental practice management system with integrated AI capabilities. It is an emerging player that overlaps with parts of Denti.AI's clinical AI suite (charting, imaging AI) while also serving as a full PMS, providing a more bundled offering for similar dental practice customers.",
+            "name": "tab32",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0006x5c"
+          },
+          {
+            "description": "VideaHealth provides AI-powered dental imaging analysis for caries and other conditions, with FDA clearance. It is a direct competitor to Denti.AI Detect, serving DSOs and dental practices with similar computer-vision-based diagnostic capabilities.",
+            "name": "VideaHealth",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002z9"
+          },
+          {
+            "description": "Bola AI is a voice-AI dental company offering voice-activated perio charting and clinical documentation. It is a direct competitor to Denti.AI Voice Perio, explicitly named in Denti.AI's own comparison content, and serves similar dental practice customers with overlapping voice-AI functionality.",
+            "name": "Bola AI",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0007ai4"
+          },
+          {
+            "description": "Overjet is a dental AI platform providing FDA-cleared imaging analysis and clinical insights for DSOs and insurance carriers. It directly competes with Denti.AI Detect in the dental imaging AI category, with a similar enterprise DSO go-to-market motion.",
+            "name": "Overjet",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00002m5"
+          },
+          {
+            "description": "Dentrix is one of the most widely used dental practice management systems in North America, owned by Henry Schein. It is a broad incumbent that Denti.AI integrates with (rather than competes with directly), but represents the dominant workflow system that dental AI vendors must plug into to reach scale.",
+            "name": "Dentrix",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0008ijx"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

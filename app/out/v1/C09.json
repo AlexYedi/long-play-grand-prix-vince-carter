@@ -1,0 +1,128 @@
+{
+  "company_id": "C09",
+  "company": "Stillmote Studios",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+  "revenue_type": "non_recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 100000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 403,
+        "end": 428
+      },
+      "quote": "September billings: $100K",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": 1200000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 179,
+        "end": 213
+      },
+      "quote": "ARR: $1.2M (September, annualized)",
+      "confidence": 0.9
+    },
+    "monthly_burn": {
+      "value": 52000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 533,
+        "end": 554
+      },
+      "quote": "Monthly net burn $52K",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 745000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 557,
+        "end": 596
+      },
+      "quote": "Cash $745K, roughly 14 months of runway",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 14,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 557,
+        "end": 596
+      },
+      "quote": "Cash $745K, roughly 14 months of runway",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 8,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 495,
+        "end": 530
+      },
+      "quote": "Team of 8 (hired a second producer)",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 14,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 216,
+        "end": 252
+      },
+      "quote": "14 brand clients served (up from 11)",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "14 brand clients served, up from 11, and two repeat clients booked Q4 holiday campaigns",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 255,
+        "end": 301
+      },
+      "quote": "Two repeat clients booked Q4 holiday campaigns",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "No contracted revenue beyond November; pipeline is project by project",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C09_stillmote_Q3-deck.md",
+      "source_span": {
+        "start": 618,
+        "end": 687
+      },
+      "quote": "No contracted revenue beyond November; pipeline is project by project",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

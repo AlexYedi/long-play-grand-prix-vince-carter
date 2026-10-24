@@ -1,0 +1,338 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000qzl&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:05.327Z",
+  "data": {
+    "total": 3,
+    "limit": 50,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 13180588,
+        "title": "Surge AI",
+        "url": "https://www.linkedin.com/company/surge-ai/",
+        "publisher": "LinkedIn",
+        "published_date": "2026-09-10T19:02:56.658000",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Meta launched Gaia2, an agent evaluation benchmark, within its new ARE RL Environment platform. The platform tests models in dynamic, real-world conditions with API timeouts and shifting priorities. Surge AI collaborated on Gaia2 and ARE, providing diverse scenarios and data.",
+        "word_count": 249,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "AI Benchmarking, Profiling & Performance Monitoring",
+            "code": "HDAAAAAJ",
+            "is_primary": true
+          },
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          },
+          {
+            "uuid": "00094au",
+            "name": "Meta",
+            "website": "https://www.meta.com",
+            "is_primary": false
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "54172",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "grégoire mialon",
+            "thomas scialom"
+          ],
+          "location": [],
+          "product": [
+            "gaia2"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9659,
+        "group_id": 11333079,
+        "full_text": "Thrilled to see Meta — Thomas Scialom, PhD, Grégoire Mialon, and the brilliant Meta Agents team — launch 𝗚𝗮𝗶𝗮𝟮, built within their new 𝗔𝗴𝗲𝗻𝘁 𝗥𝗟 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁 platform! Gaia2 sets a new bar for agent evaluation by testing models in dynamic, real-world conditions, where APIs timeout, priorities shift, and unexpected friction derails even the smartest systems. The ARE RL Environment framework is designed to 𝗿𝘂𝗻 𝗮𝗻𝗱 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲 𝗮𝗴𝗲𝗻𝘁𝘀 in environments that look and feel like the real world. (After all, in this day and age, winning IMO medals is a challenge of the past. It’s deploying models into the rich, long tail messiness of the real world that’s the golden frontier.) Two years ago, Meta pioneered this vision with 𝗚𝗔𝗜𝗔, a benchmark we were proud to help build. Since then, we’ve had the privilege of collaborating again on 𝗚𝗮𝗶𝗮𝟮 𝗮𝗻𝗱 𝗔𝗥𝗘, creating the diverse scenarios and data that helped bring these ideas to life — with a team at Meta that recognized the importance of RL environments long before they became the hot new kid on the block. We’ve always believed that training models is only half the story. Measuring them — with the right objectives, in the right environments — is just as critical. Who cares if a model gets better at the wrong thing? 𝗚𝗮𝗶𝗮𝟮 𝗶𝘀 𝗮 𝗯𝗶𝗴 𝘀𝘁𝗲𝗽 𝗳𝗼𝗿𝘄𝗮𝗿𝗱 𝗼𝗻 𝘁𝗵𝗮𝘁 𝗷𝗼𝘂𝗿𝗻𝗲𝘆. We’re excited to keep collaborating toward powerful, reliable AI that works even in the chaos of the real world. Congrats to the Meta team! https://lnkd.in/eF5NRVuF"
+      },
+      {
+        "id": 18241057,
+        "title": "Surge AI: The $24B Data Engine Teaching AGI Real Human Taste",
+        "url": "https://www.todayin-ai.com/p/surgeai",
+        "publisher": "Todayin-Ai",
+        "published_date": "2025-12-23T15:00:39",
+        "sentiment": "Positive",
+        "sentiment_score": 0.8831,
+        "ai_summary": "Surge AI is a startup founded in 2020 by Edwin Chen that builds high-quality human data for training and evaluating advanced AI models. The company is preparing for an external raise of up to $1 billion, targeting a valuation of around $24 billion. ",
+        "word_count": 1200,
+        "original_language": "EN",
+        "author": "Today In Ai",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Foundation Model Developers (LLM/Multimodal Model Labs)",
+            "code": "HDAAACAA",
+            "is_primary": true
+          },
+          {
+            "name": "Synthetic Data & Data Augmentation for Foundation Models",
+            "code": "HDAAACAK",
+            "is_primary": false
+          },
+          {
+            "name": "AI/ML Engineering & Model Development Services",
+            "code": "BPAEAHAF",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Partnerships & Alliances",
+            "code": "SD02",
+            "is_primary": false
+          },
+          {
+            "name": "Strategic Hiring",
+            "code": "WT01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20000736",
+            "name": "scientific innovation"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "5415",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "54151",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7371",
+            "name": "SERVICES-COMPUTER PROGRAMMING SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "edwin chen",
+            "peter thiel",
+            "edwin"
+          ],
+          "location": [
+            "manhattan",
+            "san francisco",
+            "crystal river, florida",
+            "silicon valley"
+          ],
+          "product": [
+            "gpt-3",
+            "slack",
+            "gmail",
+            "github",
+            "surge ai",
+            "scale ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 5816947,
+        "full_text": "Surge AI: The $24B Data Engine Teaching AGI Real Human Taste 🤖 Meet Edwin Chen: the 37-year-old who bootstrapped a $24B AI startup with $0 in VC\n\nIn partnership with\n\n(5 minutes)\n\nHi 👋, this is the Today in AI Newsletter: The weekly newsletter bringing you one step closer to building your own startup.\n\nWe analyze a cool, industry-shaping AI startup every week, with a full breakdown of what they do, how they make money, how much they’ve raised, and the opportunity ahead.\n\nLet’s get to the good stuff in this email:\n\n💡 This startup is the human-data engine behind frontier labs like OpenAI, Anthropic, Mistral AI & more.\n\n📈 They’ve bootstrapped to $1B+ in revenue , stayed profitable from day one , and now manage a core team of about 250 people .\n\n🚀 They are now preparing their first-ever external raise of up to $1B, targeting a ~$24B valuation - founder Edwin Chen owns ~75% of the company and sits on an estimated $18B net worth as the youngest member of the Forbes 400 (#55).\n\nSo what’s the startup and who are the founders behind it? Here’s the story of Surge AI 📈\n\nSurge AI was founded by Edwin Chen in 2020 to build high-quality human data that trains and evaluates the most advanced AI models.\n\nInstead of cheap crowd work that tags cat photos, Surge runs a curated marketplace of elite annotators who handle things like RLHF, safety, reasoning, taste, and multi-step agent behavior. 🤖\n\nTheir mission is to raise AGI like you would raise a child so it grows up curious, imaginative, and aligned with rich human values, not just optimized for leaderboard scores & clickbait.\n\nOn the product side, that looks like:\n\nHumans and models working together, with models generating and self-labeling, then Surgers reviewing, correcting, and adversarially testing them.\n\nComplex RL environments that feel like video game worlds filled with tools like Slack, Gmail, GitHub, spreadsheets, and CRM systems, where agents learn to handle real productivity tasks across long timelines.\n\nSurge’s key idea: the ceiling of your model is set by the quality of your human data.\n\nYou can’t train a master chef by giving them a million recipes for boiling water.\n\nYou train them on rare, expert recipes, subtle flavor calls, and detailed feedback.\n\nSurge gives that level of training signal to AI.\n\nBackstory 👀\n\nEdwin Chen grew up in Crystal River, Florida, in the back of his parents’ Chinese-Thai-American restaurant, Peking Garden.\n\nHe did homework near the cash register while his parents worked shifts, and he fell in love with math in the eighth grade, when calculus made the world feel legible.\n\nThat curiosity took him to Choate, then to MIT at 17, where he studied math, linguistics, and computer science and even worked on decoding an Incan knot language.\n\nHe was obsessed with how humans encode meaning into patterns, whether it was language, symbols, or data.\n\nAfter MIT, Edwin went deep into applied math and ML.\n\nHe did algorithmic work at Peter Thiel’s Clarium Capital, then held ML roles at Google, Facebook, Twitter, and Dropbox, shipped recommendation systems, search, and content moderation.\n\nThis is where the frustration started.\n\nAt Facebook and Twitter, he watched outside vendors deliver datasets that were slow, and off-target.\n\nBasic tasks like distinguishing a coffee shop from a hospital would come back with ridiculous errors.\n\nThe teams were spending millions on data that made models worse. Edwin saw a huge waste of human potential.\n\nSmart people inside big tech were building powerful models, while outsourced annotators with weak tooling and low pay were tagging data with almost no context.\n\nAround 2020, right after GPT-3 landed, Edwin snapped.\n\nHe realized the entire industry treated data labeling as a commodity cost center, when it should be a core R&D function.\n\nSo he quit, moved to Manhattan, and decided to build the opposite of the standard playbook.\n\nHigh-end human data, top talent, premium pricing, and no VCs telling him to chase vanity metrics.\n\nThe Hustle 🤑\n\nEdwin wrote the first version of Surge AI’s MVP in about one month, mostly solo, in a small San Francisco apartment.\n\nThe product was simple at first. A platform where ML teams could define rich labeling tasks, and route them to a hand-picked pool of annotators.\n\nHe used savings from his decade in big tech, a \"couple million\" by his own count, and set three strict rules for the company:\n\nNo external financing. No burning cash. No low-value, simple orders.\n\nIf a task looked like commodity tagging for pennies, Surge would decline it.\n\nEdwin then used one of his most underrated assets. His blog.\n\nHe had built a reputation in the data science community through long technical posts, like the famous \"Pop vs. Soda\" map that went viral from his Twitter days.\n\nHe turned that distribution into a GTM channel.\n\nEarly Surge customers came through deep content aimed at serious data scientists.\n\nHe wrote about data quality, annotation philosophy, and AGI alignment.\n\nFrom there, the team focused on building the highest-quality data annotation workforce on the planet.\n\nTo join Surge Force, annotators had to pass a brutal funnel.\n\nStrong professional background. Five trial writing tasks. Review and approval by senior annotators.\n\nThey pulled in professors from Stanford, Princeton, and Harvard, lawyers, finance pros, and native speakers across 50+ languages and dialects.\n\nFor many roles, the acceptance bar is described as harder than getting into an Ivy League. Surge paid accordingly.\n\nContractors earn $20–$40+ per hour, with some tasks paying 30–40 cents per working minute, far above other gig platforms.\n\nInside the platform, Surge’s own ML models track keystrokes, speed, accuracy, and agreement patterns, constantly updating per-annotator trust scores.\n\nBad or lazy work is detected and removed.\n\nSurge also leaned into adversarial work.\n\nThey run AI red teams, including projects with groups like Redwood Research, where experts try to trick models into sneaky behavior, then label and fix the failure modes.\n\nQuality is the product.\n\nThat contrarian take turned into a huge advantage when Meta invested heavily in rival Scale AI and took a huge stake.\n\nLabs like Google, OpenAI, Anthropic, and xAI did not want their most sensitive data and roadmaps flowing through a vendor effectively tied to a competitor.\n\nThey needed a neutral, independent supplier.\n\nSurge was sitting there, profitable, battle-tested, and fully independent.\n\nStats 📊\n\nFrom a cold start in 2020, Surge AI scaled to about $1.2B in revenue in 2024, beating Scale AI’s ~$870M over the same period.\n\nThe company has roughly 250 people including part-time and consultants, which means close to $9M+ in revenue per person.\n\nOn top of that, Surge coordinates a global workforce of over 1M contractors, with about 50,000 considered expert, high-skill Surgers.\n\nSurge has been profitable almost from day one, growing into what many consider the most capital-efficient AI infrastructure company in Silicon Valley.\n\nIt has done this with $0 in outside funding so far. Edwin still owns roughly 75% of the company.\n\nAt a current estimated valuation of ~$24B, that gives him a personal net worth of ~$18B. In 2025, he entered the Forbes 400 at #55, as the youngest person on the list.\n\nCustomer spend shows how central Surge has become.\n\nMeta reportedly spends over $150M per year with Surge.\n\nGoogle spends over $100M per year.\n\nOther major labs, including OpenAI, Anthropic, Microsoft, and xAI, rely on Surge for RLHF, model evaluation, and safety-critical pipelines.\n\nSurge often charges 50% to 10x more than other providers.\n\nThey’re so good because their data improves model performance in ways you cannot reach with cheap labeling.\n\nBefore you go 👋\n\nThank you for reading. Know someone who'd love this newsletter? Share the love. 🌟"
+      },
+      {
+        "id": 18241008,
+        "title": "Surge AI Research Fellowship Program 2026 – Opportunity Desk",
+        "url": "https://opportunitydesk.org/2025/11/14/surge-ai-research-fellowship-program-2026/",
+        "publisher": "Opportunitydesk",
+        "published_date": "2025-11-14T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 0.9372,
+        "ai_summary": "Applications are open for the Surge AI Research Fellowship Program 2026, which seeks PhD-level experts to contribute to AI model development and assessment within the STEM fields. The program aims to improve AI safety and accuracy by identifying limitations and proposing improvements, offering flexible, high-profile research opportunities. ",
+        "word_count": 344,
+        "original_language": "EN",
+        "author": "Jude Ogar",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Safety, Alignment & Content Moderation (Guardrails, Red Teaming)",
+            "code": "HDAAACAI",
+            "is_primary": true
+          },
+          {
+            "name": "Career Readiness & Employability Skills (Resume, Interview, Networking)",
+            "code": "EDAMAKAG",
+            "is_primary": false
+          },
+          {
+            "name": "Observability, Monitoring & AIOps",
+            "code": "BPAEAKAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0000qzl",
+            "name": "Surge AI",
+            "website": "https://www.surgehq.ai",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "academic",
+          "label": "Academic"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "fellows",
+            "scholars",
+            "practitioners"
+          ],
+          "location": [
+            "world"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.943,
+        "group_id": 5814191,
+        "full_text": "Deadline: Ongoing Applications are open for the Surge AI Research Fellowship Program 2026. The Surge AI Fellowship is founded on a singular conviction: progress in artificial intelligence must be grounded in quality at the highest level. In recent years, AI systems have achieved remarkable breakthroughs, yet they continue to reveal critical limitations when applied to academic research. To address this, Surge AI is convening leading scholars and practitioners, PhD-level experts across disciplines, to guide the development of models capable of performing at the frontier of human knowledge. Their initial efforts are concentrated in the STEM fields, where rigor, precision, and depth of understanding are indispensable. Their vision is a future where AI is both safe and accurate—advancing human knowledge while meeting the most exacting standards of scholarship. To realize this, they are committed to ensuring that the world’s brightest minds are the ones leading this initiative. Responsibilities Fellows are entrusted with advancing the frontier of evaluating model development. They focus on systematically identifying the limitations and failure modes of current AI systems, designing rigorous challenges to probe their boundaries, and collaborating with Surge AI leadership to propose and refine strategies for improvement. This program complements, rather than replaces, ongoing scholarly or professional commitments. Fellows retain full autonomy in setting their schedules, with compensation provided on an hourly basis. Benefits You’ll gain access to some of the most highly sought-after projects on the Surge platform and contribute to high-profile, deeply impactful work that is exclusive to their select team. In this role, you’ll collaborate closely with the Surge leadership team, where your feedback is not only welcomed but essential. They offer competitive pay, the flexibility to set your own schedule, and they do not require exclusivity, allowing you to balance other commitments alongside your work with them. Eligibility They welcome leading scholars and practitioners, PhD-level experts across disciplines to apply.\n\nApplications may be from anywhere in the world. Application If you’re interested in learning more about the opportunity, email researchfellows@surgehq.ai with a CV or any relevant work samples. For more information, visit Surge AI Fellowship Program."
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

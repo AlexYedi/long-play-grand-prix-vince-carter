@@ -1,0 +1,295 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002m5&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:15.060Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 26888838,
+        "title": "DentScribe Was Supposed to Be a Scribe",
+        "url": "https://www.ainvest.com/news/dentscribe-supposed-scribe-2607/",
+        "publisher": "AInvest",
+        "published_date": "2026-07-01T06:49:39",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.464,
+        "ai_summary": "DentScribe, an AI startup originally focused on clinical documentation for dental practices, pivoted in March to capture post-appointment sales conversations between treatment coordinators and patients, targeting dental service organizations (DSOs) to help standardize revenue processes. The company competes with Overjet, which took the opposite approach—moving from billing and revenue cycle management toward clinical documentation—and has raised $133 million at a $550 million valuation. DentScribe lacks public funding or disclosed metrics, raising questions about its ability to scale against a better-capitalized competitor in what the article describes as a race to control dental practice information flows.",
+        "word_count": 918,
+        "original_language": "EN",
+        "author": "Yesterday Adam Shapiro",
+        "countries": [],
+        "industries": [
+          {
+            "name": "General Dentistry Group Practices",
+            "code": "HLABAKAB",
+            "is_primary": true
+          },
+          {
+            "name": "Claims Management, Scrubbing & Clearinghouse",
+            "code": "HLACACAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Competitive Threats",
+            "code": "II04",
+            "is_primary": true
+          },
+          {
+            "name": "Business-Model Evolution",
+            "code": "II03",
+            "is_primary": false
+          },
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0005x1i",
+            "name": "DentScribe.ai",
+            "website": "http://www.dentscribe.ai",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000712",
+            "name": "dentistry"
+          },
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "99",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621210",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "ratinder paul singh ahuja"
+          ],
+          "location": [],
+          "product": [
+            "dentscribe",
+            "amzn"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 0.9681,
+        "group_id": 2678995,
+        "full_text": "Aime Summary Overview The 5 Ws Opposite Sides Infobox - DentScribe shifted from clinical documentation to capturing post-appointment sales conversations, targeting dental service organizations (DSOs) to standardize revenue processes. - The AI tool digitizes treatment coordinator-patient discussions about costs and payment plans, creating structured data for DSOs to analyze conversion rates and revenue leaks. - Competitor Overjet, focused on billing and expanding into clinical documentation, contrasts DentScribe’s clinical-to-revenue approach in a race to control dental practice information flows. - DentScribe’s unproven scale and lack of public funding raise questions against Overjet’s $550M valuation and DSO partnerships, though its clinical integration offers a stronger dentist-centric wedge. - The winner will control both clinical notes and revenue discussions, dominating the workflow that connects patient care to practice profitability.\n\nDentScribe was supposed to be a documentation tool. That was the premise: listen to dentist-patient conversations, turn them into clinical notes, save the practice time. A reasonable idea, the way AI scribing works everywhere else. Then in March they announced Treatment Coordinator Notes-an AI workflow that structures the conversations treatment coordinators have with patients after appointments. Those are not clinical notes. They are sales conversations. Treatment coordinators explain recommended procedures, discuss costs, negotiate payment plans, and try to get patients to accept treatment plans that can run into the thousands of dollars. DentScribe wants to listen to those conversations, too, and turn them into structured internal records. Ask Aime: Could the recent surge in gold prices, coupled with a downward trend in the stock market, indicate a safe-haven investment opportunity for sector diversification? The move is not obvious. Why would a clinical documentation startup go after revenue conversations? And why specifically target dental service organizations-the large multi-location groups that own dozens or hundreds of practices? Quick Backtesting Tool Symbol SPY Strategy Absolute Momentum Backtest Range Past 5 years I think the answer is that DentScribe is trying to solve a problem it couldn't solve from the clinical side alone. Ask Aime: Why is Amazon's (AMZN) stock price down today? Here's the thing about dental practices. The money lives in the gap between what a dentist recommends and what a patient accepts. A dentist sees a cavity, writes up a treatment plan, and hands it to the patient. Whether that plan becomes revenue depends on the treatment coordinator. But treatment coordinators are the least digitized role in a dental office. Their conversations happen in hallways, at front desks, over the phone. The details scatter into text messages, sticky notes, and individual memory. For a single-location practice, that's annoying. For a DSO trying to standardize operations across 200 locations, it's a structural problem. If you can't see what the treatment coordinator said to a patient in one clinic, you can't compare conversion rates, train staff, or spot where revenue is leaking. DentScribe's treatment coordinator feature turns those scattered conversations into something a DSO can actually analyze. Expressed concerns, discussed procedures, follow-up actions-structured, searchable, comparable across locations. This is not a documentation product anymore. It's an information layer for revenue operations. The founder sees it this way. Ratinder Paul Singh Ahuja, a tech visionary with over 70 patents, co-founded DentScribe. The company has patented AI technology for processing clinical interactions. And in October 2025, Dr. Mandeep S. Dhalla-a surgeon who built a large-scale retina consolidation practice-invested in DentScribe and joined as a strategic advisor. He reportedly described DentScribe's AI as turning SOAP notes into \"the operating system for growth\". That's a big claim. It suggests the vision extends well beyond charting. But there's a competitor already playing this game, and from the opposite direction. Overjet, the better-funded dental AI company, started with revenue cycle management-eligibility checks, claim processing, payment routing-and has been expanding toward clinical documentation. Overjet raised $53 million in March 2024, bringing total funding to roughly $133 million and a $550 million valuation. In June 2026, Dental Care Alliance, a major DSO, deployed Overjet AI across its entire patient journey, from check-in to claim. So you have two companies converging on the same territory. Overjet moves from billing toward clinical. DentScribe moves from clinical toward revenue. The one who controls both sides controls the practice's information flow. Here's what I don't know. DentScribe's funding is not public. I couldn't find user counts, revenue figures, or DSO customer names. The company clearly believes it has a path, but the evidence for scale is thin. Overjet, by contrast, has the war chest and the headline DSO deal. If this becomes a funding war, DentScribe could be outspent. But there's a reason the underdog path might work. DentScribe starts from inside the exam room. Clinical documentation is the highest-friction, most universally hated task in dentistry-every dentist experiences it daily. That's a stronger wedge than billing optimization, which mainly appeals to practice managers and finance teams. If DentScribe gets in through clinical and then expands into revenue coordination, it's adding features to a product dentists already use. Overjet has to do the reverse. The way to win this isn't to be the better scribe. It's to be the system that connects what happens in the chair to what shows up on the practice's P&L. DentScribe seems to understand that. The question is whether a private company with no visible funding can build it fast enough. If you're watching dental AI, the test is simple. Watch which company controls the full conversation-not just the clinical notes, but the treatment discussion that follows. Whoever owns both sides of that conversation owns the practice's most important workflow. The rest is features."
+      },
+      {
+        "id": 22005626,
+        "title": "SEC FORM D",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809302/000180930225000003/xslFormDX01/primary_doc.xml",
+        "publisher": "Sec",
+        "published_date": "2025-12-29T00:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0745,
+        "ai_summary": "Overjet, Inc. filed a Form D notice with the SEC on December 24, 2025, for an exempt offering of equity securities under Rule 506(b), with a first sale occurring on December 12, 2025. The total offering amount is $34,801,486, of which $24,562,699 has already been sold to 22 investors, leaving $10,238,787 remaining. The company, incorporated in Delaware and headquartered in Boston, Massachusetts, did not disclose revenue information and reported zero sales commissions or finders' fees.",
+        "word_count": 1418,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "IPO & New Issue Issuer Services (Listing/ISIN setup)",
+            "code": "FSACAKAH",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [],
+        "iab_categories": [],
+        "naics_codes": [
+          {
+            "code": "523160",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jaffe lonne",
+            "montgomery james",
+            "inam wardah",
+            "bischoff chris",
+            "wardah inam"
+          ],
+          "location": [
+            "delaware",
+            "boston massachusetts",
+            "washington, d.c.",
+            "united states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9388,
+        "group_id": 5610693,
+        "full_text": "The Securities and Exchange Commission has not necessarily reviewed the information in this filing and has not determined if it is accurate and complete.\n\nThe reader should not assume that the information is accurate and complete. UNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nIntentional misstatements or omissions of fact constitute federal criminal violations. See 18 U.S.C. 1001.\n\n\n\nFORM D\n\n\n\nNotice of Exempt Offering of Securities\n\nOMB APPROVAL OMB Number: 3235-0076 Estimated average burden hours per response: 4.00\n\n1. Issuer's Identity\n\nCIK (Filer ID Number) Previous Names X None Entity Type 0001809302 X Corporation Limited Partnership Limited Liability Company General Partnership Business Trust Other (Specify)\n\nName of Issuer Overjet, Inc. Jurisdiction of Incorporation/Organization DELAWARE Year of Incorporation/Organization X Over Five Years Ago Within Last Five Years (Specify Year) Yet to Be Formed\n\n2. Principal Place of Business and Contact Information\n\nName of Issuer Overjet, Inc. Street Address 1 Street Address 2 200 State Street, Suite 1220 City State/Province/Country ZIP/PostalCode Phone Number of Issuer Boston MASSACHUSETTS 02109 617-949-0380\n\n3. Related Persons\n\nLast Name First Name Middle Name Inam Wardah Street Address 1 Street Address 2 200 State Street, Ste 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: X Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Jaffe Lonne Street Address 1 Street Address 2 200 State Street, Ste 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Bischoff Chris Street Address 1 Street Address 2 200 State Street, Ste 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Montgomery James Street Address 1 Street Address 2 200 State Street, Ste 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\n4. Industry Group\n\nAgriculture Banking & Financial Services Commercial Banking Insurance Investing Investment Banking Pooled Investment Fund Is the issuer registered as\n\nan investment company under\n\nthe Investment Company\n\nAct of 1940? Yes No Other Banking & Financial Services Business Services Energy Coal Mining Electric Utilities Energy Conservation Environmental Services Oil & Gas Other Energy Health Care Biotechnology Health Insurance Hospitals & Physicians Pharmaceuticals Other Health Care Manufacturing Real Estate Commercial Construction REITS & Finance Residential Other Real Estate Retailing Restaurants Technology Computers Telecommunications Other Technology Travel Airlines & Airports Lodging & Conventions Tourism & Travel Services Other Travel X Other\n\n5. Issuer Size\n\nRevenue Range OR Aggregate Net Asset Value Range No Revenues No Aggregate Net Asset Value $1 - $1,000,000 $1 - $5,000,000 $1,000,001 - $5,000,000 $5,000,001 - $25,000,000 $5,000,001 - $25,000,000 $25,000,001 - $50,000,000 $25,000,001 - $100,000,000 $50,000,001 - $100,000,000 Over $100,000,000 Over $100,000,000 X Decline to Disclose Decline to Disclose Not Applicable Not Applicable\n\n6. Federal Exemption(s) and Exclusion(s) Claimed (select all that apply)\n\nRule 504(b)(1) (not (i), (ii) or (iii)) Rule 504 (b)(1)(i) Rule 504 (b)(1)(ii) Rule 504 (b)(1)(iii) X Rule 506(b) Rule 506(c) Securities Act Section 4(a)(5) Investment Company Act Section 3(c) Section 3(c)(1) Section 3(c)(9) Section 3(c)(2) Section 3(c)(10) Section 3(c)(3) Section 3(c)(11) Section 3(c)(4) Section 3(c)(12) Section 3(c)(5) Section 3(c)(13) Section 3(c)(6) Section 3(c)(14) Section 3(c)(7)\n\n7. Type of Filing\n\nX New Notice Date of First Sale 2025-12-12 First Sale Yet to Occur Amendment\n\n8. Duration of Offering\n\nDoes the Issuer intend this offering to last more than one year? Yes X No\n\n9. Type(s) of Securities Offered (select all that apply)\n\nX Equity Pooled Investment Fund Interests Debt Tenant-in-Common Securities Option, Warrant or Other Right to Acquire Another Security Mineral Property Securities Security to be Acquired Upon Exercise of Option, Warrant or Other Right to Acquire Security Other (describe)\n\n10. Business Combination Transaction\n\nIs this offering being made in connection with a business combination transaction, such as a merger, acquisition or exchange offer? Yes X No\n\nClarification of Response (if Necessary):\n\n11. Minimum Investment\n\nMinimum investment accepted from any outside investor $ 0 USD\n\n12. Sales Compensation\n\nRecipient Recipient CRD Number X None (Associated) Broker or Dealer X None (Associated) Broker or Dealer CRD Number X None Street Address 1 Street Address 2 City State/Province/Country ZIP/Postal Code State(s) of Solicitation (select all that apply)\n\nCheck “All States” or check individual States All States Foreign/non-US\n\n13. Offering and Sales Amounts\n\nTotal Offering Amount $ 34,801,486 USD or Indefinite Total Amount Sold $ 24,562,699 USD Total Remaining to be Sold $ 10,238,787 USD or Indefinite\n\nClarification of Response (if Necessary):\n\n14. Investors\n\nSelect if securities in the offering have been or may be sold to persons who do not qualify as accredited investors, and enter the number of such non-accredited investors who already have invested in the offering. Regardless of whether securities in the offering have been or may be sold to persons who do not qualify as accredited investors, enter the total number of investors who already have invested in the offering: 22\n\n15. Sales Commissions & Finder's Fees Expenses\n\nProvide separately the amounts of sales commissions and finders fees expenses, if any. If the amount of an expenditure is not known, provide an estimate and check the box next to the amount.\n\nSales Commissions $ 0 USD Estimate Finders' Fees $ 0 USD Estimate\n\nClarification of Response (if Necessary):\n\n16. Use of Proceeds\n\nProvide the amount of the gross proceeds of the offering that has been or is proposed to be used for payments to any of the persons required to be named as executive officers, directors or promoters in response to Item 3 above. If the amount is unknown, provide an estimate and check the box next to the amount.\n\n$ 0 USD Estimate\n\nClarification of Response (if Necessary):\n\nSignature and Submission\n\nPlease verify the information you have entered and review the Terms of Submission below before signing and clicking SUBMIT below to file this notice.\n\nTerms of Submission\n\nIn submitting this notice, each issuer named above is: Notifying the SEC and/or each State in which this notice is filed of the offering of securities described and undertaking to furnish them, upon written request, in the accordance with applicable law, the information furnished to offerees.* Irrevocably appointing each of the Secretary of the SEC and, the Securities Administrator or other legally designated officer of the State in which the issuer maintains its principal place of business and any State in which this notice is filed, as its agents for service of process, and agreeing that these persons may accept service on its behalf, of any notice, process or pleading, and further agreeing that such service may be made by registered or certified mail, in any Federal or state action, administrative proceeding, or arbitration brought against the issuer in any place subject to the jurisdiction of the United States, if the action, proceeding or arbitration (a) arises out of any activity in connection with the offering of securities that is the subject of this notice, and (b) is founded, directly or indirectly, upon the provisions of: (i) the Securities Act of 1933, the Securities Exchange Act of 1934, the Trust Indenture Act of 1939, the Investment Company Act of 1940, or the Investment Advisers Act of 1940, or any rule or regulation under any of these statutes, or (ii) the laws of the State in which the issuer maintains its principal place of business or any State in which this notice is filed. Certifying that, if the issuer is claiming a Regulation D exemption for the offering, the issuer is not disqualified from relying on Rule 504 or Rule 506 for one of the reasons stated in Rule 504(b)(3) or Rule 506(d).\n\nEach Issuer identified above has read this notice, knows the contents to be true, and has duly caused this notice to be signed on its behalf by the undersigned duly authorized person.\n\nFor signature, type in the signer's name or other letters or characters adopted or authorized as the signer's signature.\n\nIssuer Signature Name of Signer Title Date Overjet, Inc. /s/ Wardah Inam Wardah Inam President and Chief Executive Officer 2025-12-24\n\nPersons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB number.\n\n* This undertaking does not affect any limits Section 102(a) of the National Securities Markets Improvement Act of 1996 (\"NSMIA\") [Pub. L. No. 104-290, 110 Stat. 3416 (Oct. 11, 1996)] imposes on the ability of States to require information. As a result, if the securities that are the subject of this Form D are \"covered securities\" for purposes of NSMIA, whether in all instances or due to the nature of the offering that is the subject of this Form D, States cannot routinely require offering materials under this undertaking or otherwise and can require offering materials only to the extent NSMIA permits them to do so under NSMIA's preservation of their anti-fraud authority."
+      },
+      {
+        "id": 22029520,
+        "title": "SEC FORM D",
+        "url": "https://www.sec.gov/Archives/edgar/data/1809302/000180930225000002/xslFormDX01/primary_doc.xml",
+        "publisher": "Sec",
+        "published_date": "2025-12-08T00:00:00",
+        "sentiment": "Negative",
+        "sentiment_score": 0.0715,
+        "ai_summary": "The article reports that Overjet, Inc. filed a Form D notice with the SEC for an exempt offering of securities totaling $800,000. The offering is connected to a business transaction and involves securities such as equity and fund interests. ",
+        "word_count": 1418,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "IPO & New Issue Issuer Services (Listing/ISIN setup)",
+            "code": "FSACAKAH",
+            "is_primary": true
+          },
+          {
+            "name": "M&A / Corporate Finance Finders (Deal Origination)",
+            "code": "FSAEAMAD",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002m5",
+            "name": "Overjet",
+            "website": "https://www.overjet.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "review",
+          "label": "Review"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "jaffe lonne",
+            "montgomery james",
+            "inam wardah",
+            "bischoff chris",
+            "wardah inam"
+          ],
+          "location": [
+            "delaware",
+            "boston massachusetts",
+            "washington, d.c.",
+            "united states"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 0.9337,
+        "group_id": 6429101,
+        "full_text": "The Securities and Exchange Commission has not necessarily reviewed the information in this filing and has not determined if it is accurate and complete.\n\nThe reader should not assume that the information is accurate and complete. UNITED STATES SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\nIntentional misstatements or omissions of fact constitute federal criminal violations. See 18 U.S.C. 1001.\n\n\n\nFORM D\n\n\n\nNotice of Exempt Offering of Securities\n\nOMB APPROVAL OMB Number: 3235-0076 Estimated average burden hours per response: 4.00\n\n1. Issuer's Identity\n\nCIK (Filer ID Number) Previous Names X None Entity Type 0001809302 X Corporation Limited Partnership Limited Liability Company General Partnership Business Trust Other (Specify)\n\nName of Issuer Overjet, Inc. Jurisdiction of Incorporation/Organization DELAWARE Year of Incorporation/Organization X Over Five Years Ago Within Last Five Years (Specify Year) Yet to Be Formed\n\n2. Principal Place of Business and Contact Information\n\nName of Issuer Overjet, Inc. Street Address 1 Street Address 2 200 STATE STREET STE 1220 City State/Province/Country ZIP/PostalCode Phone Number of Issuer BOSTON MASSACHUSETTS 02109 617-949-0380\n\n3. Related Persons\n\nLast Name First Name Middle Name Inam Wardah Street Address 1 Street Address 2 200 STATE STREET STE 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: X Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Jaffe Lonne Street Address 1 Street Address 2 200 STATE STREET STE 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Bischoff Chris Street Address 1 Street Address 2 200 STATE STREET STE 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\nLast Name First Name Middle Name Montgomery James Street Address 1 Street Address 2 200 STATE STREET STE 1220 City State/Province/Country ZIP/PostalCode Boston MASSACHUSETTS 02109\n\nRelationship: Executive Officer X Director Promoter\n\nClarification of Response (if Necessary):\n\n4. Industry Group\n\nAgriculture Banking & Financial Services Commercial Banking Insurance Investing Investment Banking Pooled Investment Fund Is the issuer registered as\n\nan investment company under\n\nthe Investment Company\n\nAct of 1940? Yes No Other Banking & Financial Services Business Services Energy Coal Mining Electric Utilities Energy Conservation Environmental Services Oil & Gas Other Energy Health Care Biotechnology Health Insurance Hospitals & Physicians Pharmaceuticals Other Health Care Manufacturing Real Estate Commercial Construction REITS & Finance Residential Other Real Estate Retailing Restaurants Technology Computers Telecommunications Other Technology Travel Airlines & Airports Lodging & Conventions Tourism & Travel Services Other Travel X Other\n\n5. Issuer Size\n\nRevenue Range OR Aggregate Net Asset Value Range No Revenues No Aggregate Net Asset Value $1 - $1,000,000 $1 - $5,000,000 $1,000,001 - $5,000,000 $5,000,001 - $25,000,000 $5,000,001 - $25,000,000 $25,000,001 - $50,000,000 $25,000,001 - $100,000,000 $50,000,001 - $100,000,000 Over $100,000,000 Over $100,000,000 X Decline to Disclose Decline to Disclose Not Applicable Not Applicable\n\n6. Federal Exemption(s) and Exclusion(s) Claimed (select all that apply)\n\nRule 504(b)(1) (not (i), (ii) or (iii)) Rule 504 (b)(1)(i) Rule 504 (b)(1)(ii) Rule 504 (b)(1)(iii) X Rule 506(b) Rule 506(c) Securities Act Section 4(a)(5) Investment Company Act Section 3(c) Section 3(c)(1) Section 3(c)(9) Section 3(c)(2) Section 3(c)(10) Section 3(c)(3) Section 3(c)(11) Section 3(c)(4) Section 3(c)(12) Section 3(c)(5) Section 3(c)(13) Section 3(c)(6) Section 3(c)(14) Section 3(c)(7)\n\n7. Type of Filing\n\nX New Notice Date of First Sale 2025-11-24 First Sale Yet to Occur Amendment\n\n8. Duration of Offering\n\nDoes the Issuer intend this offering to last more than one year? Yes X No\n\n9. Type(s) of Securities Offered (select all that apply)\n\nX Equity Pooled Investment Fund Interests Debt Tenant-in-Common Securities Option, Warrant or Other Right to Acquire Another Security Mineral Property Securities Security to be Acquired Upon Exercise of Option, Warrant or Other Right to Acquire Security Other (describe)\n\n10. Business Combination Transaction\n\nIs this offering being made in connection with a business combination transaction, such as a merger, acquisition or exchange offer? X Yes No\n\nClarification of Response (if Necessary):\n\n11. Minimum Investment\n\nMinimum investment accepted from any outside investor $ 0 USD\n\n12. Sales Compensation\n\nRecipient Recipient CRD Number X None (Associated) Broker or Dealer X None (Associated) Broker or Dealer CRD Number X None Street Address 1 Street Address 2 City State/Province/Country ZIP/Postal Code State(s) of Solicitation (select all that apply)\n\nCheck “All States” or check individual States All States Foreign/non-US\n\n13. Offering and Sales Amounts\n\nTotal Offering Amount $ 800,000 USD or Indefinite Total Amount Sold $ 800,000 USD Total Remaining to be Sold $ 0 USD or Indefinite\n\nClarification of Response (if Necessary):\n\n14. Investors\n\nSelect if securities in the offering have been or may be sold to persons who do not qualify as accredited investors, and enter the number of such non-accredited investors who already have invested in the offering. Regardless of whether securities in the offering have been or may be sold to persons who do not qualify as accredited investors, enter the total number of investors who already have invested in the offering: 17\n\n15. Sales Commissions & Finder's Fees Expenses\n\nProvide separately the amounts of sales commissions and finders fees expenses, if any. If the amount of an expenditure is not known, provide an estimate and check the box next to the amount.\n\nSales Commissions $ 0 USD Estimate Finders' Fees $ 0 USD Estimate\n\nClarification of Response (if Necessary):\n\n16. Use of Proceeds\n\nProvide the amount of the gross proceeds of the offering that has been or is proposed to be used for payments to any of the persons required to be named as executive officers, directors or promoters in response to Item 3 above. If the amount is unknown, provide an estimate and check the box next to the amount.\n\n$ 0 USD Estimate\n\nClarification of Response (if Necessary):\n\nSignature and Submission\n\nPlease verify the information you have entered and review the Terms of Submission below before signing and clicking SUBMIT below to file this notice.\n\nTerms of Submission\n\nIn submitting this notice, each issuer named above is: Notifying the SEC and/or each State in which this notice is filed of the offering of securities described and undertaking to furnish them, upon written request, in the accordance with applicable law, the information furnished to offerees.* Irrevocably appointing each of the Secretary of the SEC and, the Securities Administrator or other legally designated officer of the State in which the issuer maintains its principal place of business and any State in which this notice is filed, as its agents for service of process, and agreeing that these persons may accept service on its behalf, of any notice, process or pleading, and further agreeing that such service may be made by registered or certified mail, in any Federal or state action, administrative proceeding, or arbitration brought against the issuer in any place subject to the jurisdiction of the United States, if the action, proceeding or arbitration (a) arises out of any activity in connection with the offering of securities that is the subject of this notice, and (b) is founded, directly or indirectly, upon the provisions of: (i) the Securities Act of 1933, the Securities Exchange Act of 1934, the Trust Indenture Act of 1939, the Investment Company Act of 1940, or the Investment Advisers Act of 1940, or any rule or regulation under any of these statutes, or (ii) the laws of the State in which the issuer maintains its principal place of business or any State in which this notice is filed. Certifying that, if the issuer is claiming a Regulation D exemption for the offering, the issuer is not disqualified from relying on Rule 504 or Rule 506 for one of the reasons stated in Rule 504(b)(3) or Rule 506(d).\n\nEach Issuer identified above has read this notice, knows the contents to be true, and has duly caused this notice to be signed on its behalf by the undersigned duly authorized person.\n\nFor signature, type in the signer's name or other letters or characters adopted or authorized as the signer's signature.\n\nIssuer Signature Name of Signer Title Date Overjet, Inc. /s/ Wardah Inam Wardah Inam President and Chief Executive Officer 2025-12-08\n\nPersons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB number.\n\n* This undertaking does not affect any limits Section 102(a) of the National Securities Markets Improvement Act of 1996 (\"NSMIA\") [Pub. L. No. 104-290, 110 Stat. 3416 (Oct. 11, 1996)] imposes on the ability of States to require information. As a result, if the securities that are the subject of this Form D are \"covered securities\" for purposes of NSMIA, whether in all instances or due to the nature of the offering that is the subject of this Form D, States cannot routinely require offering materials under this undertaking or otherwise and can require offering materials only to the extent NSMIA permits them to do so under NSMIA's preservation of their anti-fraud authority."
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

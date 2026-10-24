@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000lea&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:34.778Z",
+  "data": {
+    "total": 0,
+    "limit": 20,
+    "offset": 0,
+    "count": 0,
+    "data": [],
+    "credits_consumed": 0.1
+  }
+}

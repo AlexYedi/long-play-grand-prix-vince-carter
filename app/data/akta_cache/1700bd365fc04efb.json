@@ -1,0 +1,291 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/headcount-trends?company=000004k",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:30.668Z",
+  "data": {
+    "data": {
+      "uuid": "000004k",
+      "linkedin_username": "spring-health",
+      "linkedin_official_name": "Spring Health",
+      "linkedin_id": "10779476",
+      "total_employees": 3898,
+      "growth_periods": [
+        {
+          "month_difference": 6,
+          "change_percentage": 1
+        },
+        {
+          "month_difference": 12,
+          "change_percentage": 6
+        },
+        {
+          "month_difference": 24,
+          "change_percentage": 27
+        }
+      ],
+      "headcount_monthly": [
+        {
+          "employee_count": 3063,
+          "date": "2024-10-01"
+        },
+        {
+          "employee_count": 3099,
+          "date": "2024-11-01"
+        },
+        {
+          "employee_count": 3138,
+          "date": "2024-12-01"
+        },
+        {
+          "employee_count": 3237,
+          "date": "2025-01-01"
+        },
+        {
+          "employee_count": 3303,
+          "date": "2025-02-01"
+        },
+        {
+          "employee_count": 3375,
+          "date": "2025-03-01"
+        },
+        {
+          "employee_count": 3457,
+          "date": "2025-04-01"
+        },
+        {
+          "employee_count": 3513,
+          "date": "2025-05-01"
+        },
+        {
+          "employee_count": 3547,
+          "date": "2025-06-01"
+        },
+        {
+          "employee_count": 3576,
+          "date": "2025-07-01"
+        },
+        {
+          "employee_count": 3613,
+          "date": "2025-08-01"
+        },
+        {
+          "employee_count": 3653,
+          "date": "2025-09-01"
+        },
+        {
+          "employee_count": 3691,
+          "date": "2025-10-01"
+        },
+        {
+          "employee_count": 3739,
+          "date": "2025-11-01"
+        },
+        {
+          "employee_count": 3771,
+          "date": "2025-12-01"
+        },
+        {
+          "employee_count": 3808,
+          "date": "2026-01-01"
+        },
+        {
+          "employee_count": 3823,
+          "date": "2026-02-01"
+        },
+        {
+          "employee_count": 3859,
+          "date": "2026-03-01"
+        },
+        {
+          "employee_count": 3878,
+          "date": "2026-04-01"
+        },
+        {
+          "employee_count": 3896,
+          "date": "2026-05-01"
+        },
+        {
+          "employee_count": 3916,
+          "date": "2026-06-01"
+        },
+        {
+          "employee_count": 3911,
+          "date": "2026-07-01"
+        },
+        {
+          "employee_count": 3911,
+          "date": "2026-08-01"
+        },
+        {
+          "employee_count": 3904,
+          "date": "2026-09-01"
+        },
+        {
+          "employee_count": 3898,
+          "date": "2026-10-01"
+        }
+      ],
+      "date": "2026-10-01",
+      "headcount_by_function": [
+        {
+          "name": "Healthcare Services",
+          "employee_count": 2049,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 1
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 6
+            }
+          ]
+        },
+        {
+          "name": "Community and Social Services",
+          "employee_count": 282,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 4
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 13
+            }
+          ]
+        },
+        {
+          "name": "Engineering",
+          "employee_count": 232,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 1
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 3
+            }
+          ]
+        },
+        {
+          "name": "Operations",
+          "employee_count": 157,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 1
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 3
+            }
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "employee_count": 141,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": -6
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -4
+            }
+          ]
+        },
+        {
+          "name": "Sales",
+          "employee_count": 99,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 11
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 19
+            }
+          ]
+        },
+        {
+          "name": "Support",
+          "employee_count": 97,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 12
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 28
+            }
+          ]
+        },
+        {
+          "name": "Consulting",
+          "employee_count": 83,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 5
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 8
+            }
+          ]
+        },
+        {
+          "name": "Business Development",
+          "employee_count": 78,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 7
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 1
+            }
+          ]
+        },
+        {
+          "name": "Military and Protective Services",
+          "employee_count": 95,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": 3
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": 9
+            }
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "employee_count": 82,
+          "growth_periods": [
+            {
+              "month_difference": 6,
+              "change_percentage": -15
+            },
+            {
+              "month_difference": 12,
+              "change_percentage": -8
+            }
+          ]
+        }
+      ]
+    },
+    "credits_consumed": 2.5
+  }
+}

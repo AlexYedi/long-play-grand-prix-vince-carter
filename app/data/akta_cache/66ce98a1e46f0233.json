@@ -1,0 +1,728 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000a6x&sections=funding_detail%2Cproduct_offering%2Cstrategic_signal%2Cfinancial_estimate%2Ccompany_assessment",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:24.864Z",
+  "data": {
+    "data": {
+      "uuid": "0000a6x",
+      "funding_detail": {
+        "funding_overview": {
+          "last_funding_date": {
+            "month": 9,
+            "year": 2025
+          },
+          "total_funding_usd": 487000000
+        },
+        "funding_rounds": [
+          {
+            "id": 2970,
+            "date": {
+              "month": 9,
+              "year": 2025
+            },
+            "round": {
+              "code": "undisclosed",
+              "label": "Undisclosed"
+            }
+          },
+          {
+            "id": 412315,
+            "date": {
+              "month": 12,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          },
+          {
+            "id": 195523,
+            "date": {
+              "month": 6,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Prysm Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "000042w",
+            "website": "https://www.prysmcapital.com"
+          },
+          {
+            "name": "SoftBank Vision Fund",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00006k6",
+            "website": "https://visionfund.com"
+          },
+          {
+            "name": "Access Industries",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0004128",
+            "website": "http://www.accessindustries.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 13 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      },
+      "product_offering": {
+        "core_offering": "Cerebral is a digital mental health platform that delivers online psychiatric and behavioral therapy services, including mental health assessments, telehealth appointments, counseling sessions, and prescription medication delivery for conditions such as anxiety, depression, and ADHD. Services are accessed directly by consumers through the Cerebral website and mobile app, with an expanding share of care delivered through in-network insurance plans and employer wellness programs, supplemented by the acquired Inflow ADHD digital therapeutic app for continuous between-visit care.",
+        "differentiator": "Integrated telehealth platform combining mental health assessments, telehealth appointments, counseling, medication delivery, and digital therapeutics. Recent acquisition of Inflow's ADHD app expands continuous care capabilities between clinical appointments.",
+        "functional_benefit": "Convenient online access to psychiatric and behavioral therapy services; mental health assessments; telehealth appointments; counseling; medication delivery; anxiety, depression, and ADHD treatments; group therapy; couples counseling; skill-building modules; and community engagement for ADHD patients.",
+        "problem_solved": "Limited access to mental health care services, convenience of remote/telehealth delivery, shortage of mental health professionals, stigma around seeking mental health support, continuous care gaps between clinical appointments, and fragmented ADHD treatment options.",
+        "product_overview": "Cerebral operates as a digital mental health platform offering online psychiatric and behavioral therapy services, including mental health assessments, telehealth appointments, counseling, and medication delivery. The company offers a unified platform providing care for anxiety, depression, ADHD, and other mental health conditions through direct-to-consumer subscription plans. Cerebral has expanded through acquisitions including Resilience Lab and Inflow (an ADHD-focused app), integrating these tools to provide continuous, personalized care alongside clinical services.",
+        "product_and_service": [
+          {
+            "category": "Online mental health telemedicine services",
+            "description": "A digital mental health platform that delivers mental health assessments, telehealth appointments, counseling sessions, psychiatric evaluations, and prescription medication delivery for individuals experiencing anxiety, depression, ADHD, and related mental health conditions, accessed directly by consumers through the Cerebral website and mobile app.",
+            "name": "Cerebral Telehealth Platform",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ],
+            "url": "https://cerebral.com/"
+          },
+          {
+            "category": "Digital therapeutic for ADHD",
+            "description": "An ADHD-focused digital therapeutic app based on Cognitive Behavioral Therapy principles that provides skill-building modules, therapy tools, and community engagement for adults with ADHD, now integrated into Cerebral's clinical platform to extend support between appointments.",
+            "name": "Inflow ADHD Digital Therapeutic App",
+            "source": [
+              "https://www.businesswire.com/news/home/20260324103905/en/Cerebral-Acquires-Leading-ADHD-Behavioral-App-Inflow-Expanding-Access-to-Continuous-Care"
+            ]
+          },
+          {
+            "category": "Mental health therapy services",
+            "description": "A mental health platform acquired by Cerebral to expand its clinical workforce and service capabilities, providing additional therapy capacity and mental health services to patients within Cerebral's broader care offering.",
+            "name": "Resilience Lab Mental Health Services",
+            "source": [
+              "https://www.mobihealthnews.com/news/cerebral-acquires-adhd-app-inflow-expand-mental-health-platform"
+            ]
+          }
+        ]
+      },
+      "strategic_signal": {
+        "scale_indicator": [
+          {
+            "description": "Valued at $4.8 billion after raising $300 million in venture capital in December 2021",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "$4.8 billion"
+          },
+          {
+            "description": "Series C funding led by SoftBank Vision Fund 2 in December 2021",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$300 million"
+          },
+          {
+            "description": "Series B funding led by Access Industries in June 2021, bringing valuation to $1.23 billion at that time",
+            "source": [
+              "https://healthcareandprotection.com/cerebral-secures-127m-in-further-funding/"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$127 million"
+          },
+          {
+            "description": "Additional funding raised in September 2025 following acquisition of Resilience Labs",
+            "source": [
+              "https://bhbusiness.com/2025/09/12/cerebral-raises-25m-just-over-a-month-after-first-acquisition/"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$25 million"
+          },
+          {
+            "description": "SEC Form D filing in March 2026 for equity securities in connection with a business combination transaction (merger consideration), with $57.5 million targeted from 30 investors",
+            "source": [
+              "https://www.sec.gov/Archives/edgar/data/2083019/000208301926000001/xslFormDX01/primary_doc.xml"
+            ],
+            "type": {
+              "code": "funding_raised",
+              "label": "Funding Raised"
+            },
+            "value": "$48.8 million"
+          },
+          {
+            "description": "Patients whose health data was exposed through third-party tracking tools to LinkedIn, Snapchat, and TikHub",
+            "source": [
+              "https://www.kaspersky.com/blog/telehealth-issues-2026/55560/"
+            ],
+            "type": {
+              "code": "customer_count",
+              "label": "Customer Count"
+            },
+            "value": "3.2 million+"
+          },
+          {
+            "description": "National telehealth provider operating across the United States",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ],
+            "type": {
+              "code": "geographic_reach",
+              "label": "Geographic Reach"
+            },
+            "value": "United States"
+          },
+          {
+            "description": "Near $5 billion collapse under DOJ and FTC investigation for regulatory and privacy issues",
+            "source": [
+              "https://bekey.io/blog/mental-health-tech-in-twenty-twenty-five-consolidation-personalization-and-the-uneven-reality-of-access"
+            ],
+            "type": {
+              "code": "valuation",
+              "label": "Valuation"
+            },
+            "value": "Near $5 billion collapse"
+          }
+        ],
+        "partnership": [
+          {
+            "announced_on": {
+              "month": 10,
+              "year": 2021
+            },
+            "description": "Olympic athlete Simone Biles joined Cerebral as Chief Impact Officer in October 2021, contributing to the company's rapid growth and valuation increase. Biles advocates for mental health awareness and accessibility through her role and personal investment.",
+            "name": "Simone Biles",
+            "source": [
+              "https://bit.ly/3m4GlzW"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            }
+          },
+          {
+            "announced_on": {
+              "day": 15,
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Partnership to expand in-network access to high-quality mental health care across Texas through the San Antonio Spurs healthcare network and community outreach.",
+            "name": "San Antonio Spurs",
+            "source": [
+              "https://www.businesswire.com/news/home/20250115248680/en/Cerebral-Partners-with-the-San-Antonio-Spurs-to-Expand-In-Network-Access-to-High-Quality-Mental-Health-Care-Across-Texas"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "gtm_marketing",
+              "label": "GTM or Marketing Partner"
+            },
+            "uuid": "02m3del"
+          },
+          {
+            "announced_on": {
+              "day": 24,
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Acquired Inflow, an ADHD-focused app developer, to broaden treatment capabilities and enhance patient support beyond clinical interactions through behavioral tools, therapy, and skill development.",
+            "name": "Inflow",
+            "source": [
+              "https://hlth.com/insights/news/cerebral-acquires-inflow-to-expand-adhd-digital-therapeutics-capabilities-2026-03-25"
+            ],
+            "strategic_tier": "Core",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "0002opm"
+          },
+          {
+            "description": "Previously acquired Resilience Lab as part of Cerebral's strategy to expand mental health services before regulatory challenges.",
+            "name": "Resilience Lab",
+            "source": [
+              "https://www.mobihealthnews.com/news/cerebral-acquires-adhd-app-inflow-expand-mental-health-platform"
+            ],
+            "strategic_tier": "Minor",
+            "type": {
+              "code": "strategic_codevelopment",
+              "label": "Strategic or Co-development Partner"
+            },
+            "uuid": "00008rd"
+          }
+        ],
+        "recent_move": [
+          {
+            "date": {
+              "month": 12,
+              "year": 2021
+            },
+            "description": "Cerebral raised $300 million in a round led by SoftBank Vision Fund 2 in December 2021 at a $4.8 billion post-money valuation, which simultaneously capitalized the business and set up the aggressive expansion later implicated in the regulatory fallout.",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ],
+            "type": {
+              "code": "funding_round",
+              "label": "Funding Round"
+            }
+          },
+          {
+            "date": {
+              "day": 15,
+              "month": 1,
+              "year": 2025
+            },
+            "description": "Cerebral pivoted away from direct-to-consumer controlled-substance prescribing toward an insurance-based care model following DOJ and FTC investigations, and signed a partnership with the San Antonio Spurs to deliver in-network mental health care across Texas.",
+            "source": [
+              "https://bhbusiness.com/2026/03/24/cerebrals-latest-acquisition-marks-its-reentry-into-adhd-care/"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "month": 3,
+              "year": 2026
+            },
+            "description": "Cerebral acquired Inflow, an ADHD-focused digital therapeutic app, in March 2026 to integrate behavioral tools, therapy, and skill development into a continuous-care model.",
+            "source": [
+              "https://www.businesswire.com/news/home/20260324103905/en/Cerebral-Acquires-Leading-ADHD-Behavioral-App-Inflow-Expanding-Access-to-Continuous-Care"
+            ],
+            "type": {
+              "code": "acquisition",
+              "label": "Acquisition"
+            }
+          },
+          {
+            "date": {
+              "month": 8,
+              "year": 2021
+            },
+            "description": "Cerebral replaced salaries with a pay-per-session model and removed health insurance benefits for over 200 employees in August 2021, restructuring clinician compensation to a variable-cost structure.",
+            "source": [
+              "https://trib.al/bgIaMq3"
+            ],
+            "type": {
+              "code": "restructuring",
+              "label": "Restructuring"
+            }
+          },
+          {
+            "date": {
+              "month": 10,
+              "year": 2021
+            },
+            "description": "Olympic athlete Simone Biles joined Cerebral as Chief Impact Officer in October 2021, providing brand credibility and mental-health awareness advocacy during the company's hyper-growth phase.",
+            "source": [
+              "https://bit.ly/3m4GlzW"
+            ],
+            "type": {
+              "code": "partnership",
+              "label": "Partnership"
+            }
+          },
+          {
+            "date": {
+              "year": 2022
+            },
+            "description": "Brian Reinken replaced founder Kyle Robertson as CEO in 2022, a leadership transition that coincided with the company's regulatory settlements and reset of go-to-market strategy.",
+            "source": [
+              "https://www.sec.gov/Archives/edgar/data/2083019/000208301926000001/xslFormDX01/primary_doc.xml"
+            ],
+            "type": {
+              "code": "leadership_change",
+              "label": "Leadership Change"
+            }
+          }
+        ],
+        "leadership_change": [
+          {
+            "description": "Cerebral, a mental health startup backed by SoftBank, replaced over 200 employees' salaries with a pay-per-session model and removed their health insurance benefits in August 2021. The company stated the changes aimed to enable high-performing therapists to earn more but faced criticism due to their immediate implementation and negative impact on employee well-being.",
+            "source": [
+              "https://trib.al/bgIaMq3"
+            ],
+            "title": "Pay-per-session model implementation",
+            "type": {
+              "code": "restructuring",
+              "label": "Restructuring"
+            }
+          }
+        ],
+        "expansion_highlight": [
+          {
+            "description": "The March 2026 Inflow acquisition brings ADHD-specific digital therapeutics, skill-building, and community engagement into Cerebral's clinical stack, broadening the product surface from episodic telehealth into continuous behavioral care.",
+            "type": {
+              "code": "new_product_line",
+              "label": "New Product Line"
+            }
+          },
+          {
+            "description": "The 2025 Resilience Lab acquisition and the March 2026 SEC Form D filing ($48.8M raised as merger consideration, targeting $57.5M from 30 investors) indicate an active M&A roll-up strategy to rebuild clinical capacity and product breadth.",
+            "type": {
+              "code": "m_and_a_signal",
+              "label": "M And A Signal"
+            }
+          },
+          {
+            "description": "The 2025 San Antonio Spurs partnership and explicit 'enterprise_field_sales' GTM motion targeting employer wellness programs and health insurance networks mark a channel pivot from pure D2C into B2B2C employer/insurer distribution.",
+            "type": {
+              "code": "new_channel",
+              "label": "New Channel"
+            }
+          },
+          {
+            "description": "The Texas-focused Spurs partnership represents Cerebral's first explicitly regional go-to-market push beyond undifferentiated national telehealth, using a sports franchise as a community-distribution anchor.",
+            "type": {
+              "code": "new_geography",
+              "label": "New Geography"
+            }
+          },
+          {
+            "description": "The September 2025 $25M raise and March 2026 $48.8M business-combination filing provide capital to fund integration of acquisitions and the hybrid care model rather than greenfield growth, suggesting a measured, post-trauma expansion pace.",
+            "type": {
+              "code": "funding_signal",
+              "label": "Funding Signal"
+            }
+          },
+          {
+            "description": "The leadership roster now includes a Chief Product Officer (Alexandria Stried), SVP Commercial (Jeff Soffen), GM of Therapy (JJ Caffey), and a Director of ML and Data Engineering (Matthew Rubashkin), signaling buildout of product, commercial, and ML/data functions needed to operationalize the hybrid care model.",
+            "type": {
+              "code": "hiring_signal",
+              "label": "Hiring Signal"
+            }
+          }
+        ]
+      },
+      "financial_estimate": {
+        "revenue_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        },
+        "valuation_estimate": {
+          "code": "100m_250m",
+          "label": "$100M-$250M"
+        }
+      },
+      "company_assessment": {
+        "market_position": "Cerebral is a San Francisco-based, venture-backed telehealth company founded in 2020 that delivers online mental health care to individuals across the United States. The company scaled rapidly to a peak $4.8 billion valuation by December 2021, but has since faced regulatory scrutiny from the FTC and DOJ over controlled-substance prescribing practices and patient-data privacy, leading to a $7 million FTC settlement, leadership transition, and a strategic pivot toward insurance-based and hybrid care delivery.",
+        "strengths": [
+          {
+            "details": "Cerebral's acquisition of Inflow (announced March 2026) adds a CBT-based ADHD digital therapeutic with skill-building content and community engagement. As payers increasingly require continuous, between-visit care for chronic conditions like ADHD, this integration positions Cerebral to command higher per-member per-month rates and improve retention versus medication-only telehealth competitors.",
+            "headline": "Digital therapeutic layer deepens ADHD moat",
+            "source": [
+              "https://pulse2.com/cerebral-acquires-adhd-app-inflow-to-expand-continuous-care/"
+            ]
+          },
+          {
+            "details": "Shifting from cash-pay DTC to in-network coverage with health insurers — alongside the San Antonio Spurs partnership for Texas-based access — opens the larger employer-sponsored mental health market. In-network contracts typically deliver stickier, multi-year revenue streams and lower customer acquisition costs than the original consumer subscription model.",
+            "headline": "Insurance-based pivot unlocks payer revenue",
+            "source": [
+              "https://bhbusiness.com/2026/03/24/cerebrals-latest-acquisition-marks-its-reentry-into-adhd-care/"
+            ]
+          },
+          {
+            "details": "Cerebral's scale of 3.2M+ patients exposed through its prior data flows indicates a very large addressable audience already aware of the brand. Rebuilding around measured, compliance-first delivery through the Resilience Lab clinical workforce and Inflow digital tools gives Cerebral a distribution head start that newer entrants must rebuild from scratch.",
+            "headline": "Existing brand awareness compounds into B2B pipeline",
+            "source": [
+              "https://bit.ly/3m4GlzW"
+            ]
+          },
+          {
+            "details": "Mental health remains structurally undersupplied, and employer demand for integrated virtual behavioral health continues to grow. By combining psychiatry, therapy, and digital therapeutics under one platform, Cerebral is positioned to capture share as health plans consolidate vendor rosters toward integrated, outcomes-measuring providers.",
+            "headline": "Integrated platform model wins payer consolidation",
+            "source": [
+              "https://hlth.com/insights/news/cerebral-acquires-inflow-to-expand-adhd-digital-therapeutics-capabilities-2026-03-25"
+            ]
+          },
+          {
+            "details": "Cerebral has raised over $480M across rounds from SoftBank Vision Fund 2, Access Industries, Oak HC/FT, and WestCap. Despite the 2021 valuation reset, the company remains capitalized enough — and has continued raising in 2025-2026 — to fund integration of Inflow and Resilience Lab and to pursue a business combination transaction that could crystallize value for shareholders.",
+            "headline": "Strong capital base funds next-stage buildout",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ]
+          }
+        ],
+        "weakness": [
+          {
+            "details": "Following FTC settlement and DOJ scrutiny, Cerebral faces structural constraints on its core prescribing operations. The original direct-to-consumer controlled substance prescribing model has already been abandoned, and ongoing investigations could further restrict service offerings, lengthen sales cycles with payers, and require costly compliance infrastructure that compresses unit economics.",
+            "headline": "Regulatory fallout limits prescribing and growth runway",
+            "source": [
+              "https://bekey.io/blog/mental-health-tech-in-twenty-twenty-five-consolidation-personalization-and-the-uneven-reality-of-access"
+            ]
+          },
+          {
+            "details": "The 2025 FTC settlement over disclosure of 3.2 million patients' health data to LinkedIn, Snapchat, and TikTok, combined with the AI-driven prescribing controversy, has materially damaged Cerebral's brand. Competitor platforms with cleaner compliance records may capture the patients and employer contracts that Cerebral once won through aggressive digital marketing.",
+            "headline": "Brand damage from privacy violations persists",
+            "source": [
+              "https://hackernoon.com/startup-cerebral-agrees-to-pay-$7-million-fine-and-more-under-order-by-the-ftc"
+            ]
+          },
+          {
+            "details": "The original $4.8B valuation collapsed as the controlled-substance business wound down, the founding CEO departed in 2022, and employees were moved to a pay-per-session model. Each of these events weakens the execution case and makes the company more dependent on a small executive team (Reinken, Goldberg, Kniska) to rebuild the business while integrating acquisitions.",
+            "headline": "Leadership and valuation instability compound execution risk",
+            "source": [
+              "https://bekey.io/blog/mental-health-tech-in-twenty-twenty-five-consolidation-personalization-and-the-uneven-reality-of-access"
+            ]
+          },
+          {
+            "details": "The pivot away from cash-pay DTC toward in-network insurance coverage typically lengthens revenue cycles, lowers per-visit reimbursement, and requires deeper payer relationships. Cerebral's hybrid care model and ADHD focus via Inflow are sensible, but competing with established payer-embedded platforms (Lyra, Spring Health) in those contracts is far more difficult than the 2021 cash-pay land grab.",
+            "headline": "Insurance-based pivot pressures margins and growth",
+            "source": [
+              "https://bhbusiness.com/2026/03/24/cerebrals-latest-acquisition-marks-its-reentry-into-adhd-care/"
+            ]
+          },
+          {
+            "details": "The 2021 restructuring that swapped salaries for pay-per-session compensation and removed health benefits for 200+ clinicians, combined with the AI-prescribing controversy, has made recruiting and retaining licensed therapists and psychiatrists more difficult. At scale, clinician supply — not marketing — is the binding constraint on growth in teletherapy.",
+            "headline": "Clinician attrition risk from prior compensation overhaul",
+            "source": [
+              "https://trib.al/bgIaMq3"
+            ]
+          }
+        ],
+        "competitive_moat": [
+          {
+            "details": "Cerebral built a national direct-to-consumer telehealth funnel reinforced by high-visibility celebrity partnerships (Simone Biles as Chief Impact Officer since October 2021, San Antonio Spurs partnership announced January 2025) and a self-serve web/app channel. This top-of-funnel brand visibility is a meaningful acquisition asset in mental health, where consumer trust and awareness drive conversion.",
+            "type": {
+              "code": "distribution_advantage",
+              "label": "Distribution Advantage"
+            }
+          },
+          {
+            "details": "Brand equity is anchored by the Simone Biles association and earned-media coverage during the 2020-2021 growth phase; however, that brand has been materially eroded by DOJ/FTC scrutiny and the $7M FTC privacy settlement, limiting moat strength.",
+            "type": {
+              "code": "intangible_assets",
+              "label": "Intangible Assets"
+            }
+          },
+          {
+            "details": "Cerebral holds health data on 3.2 million+ patients that could power longitudinal outcomes analytics and personalization. This dataset is simultaneously a liability: third-party tracking tools leaked PHI to LinkedIn, Snapchat, and TikTok, triggering the FTC action and constraining how aggressively Cerebral can commercialize the data.",
+            "type": {
+              "code": "data_advantage",
+              "label": "Data Advantage"
+            }
+          },
+          {
+            "details": "Telehealth delivery structurally undercuts in-person psychiatry on real estate, scheduling, and clinician utilization costs, and the 2021 pay-per-session restructuring of 200+ employees was an explicit attempt to push variable costs closer to revenue per session. The model is unit-economic sensitive to clinician churn, however.",
+            "type": {
+              "code": "cost_advantage",
+              "label": "Cost Advantage"
+            }
+          },
+          {
+            "details": "Subscription-based mental health treatment with ongoing medication management creates modest switching friction (clinical continuity, prescription transfers), but mental-health services are commoditizing rapidly (Talkspace, Lyra, Headway, Done.), keeping true switching costs low.",
+            "type": {
+              "code": "switching_costs",
+              "label": "Switching Costs"
+            }
+          }
+        ],
+        "key_risks": [
+          {
+            "details": "The FTC fined Cerebral $7M for disclosing 3.2 million patients' sensitive health data to LinkedIn, Snapchat, and TikTok via embedded tracking tools. Beyond the direct financial cost, the breach undermines trust with both consumers and enterprise buyers that Cerebral is courting post-pivot.",
+            "headline": "FTC privacy settlement and data exposure damage reputation",
+            "source": [
+              "https://hackernoon.com/startup-cerebral-agrees-to-pay-$7-million-fine-and-more-under-order-by-the-ftc"
+            ]
+          },
+          {
+            "details": "Cerebral used an AI system to prescribe psychiatric medications with minimal human oversight, including controlled substances, drawing DOJ and FTC scrutiny. The controversy forced a pivot away from DTC controlled-substance prescribing and remains a material regulatory and reputational overhang.",
+            "headline": "AI-driven controlled-substance prescribing controversy",
+            "source": [
+              "https://www.webpronews.com/an-ai-chatbot-prescribed-psychiatric-medication-the-patient-was-a-reporter/"
+            ]
+          },
+          {
+            "details": "Cerebral was valued at $4.8B in December 2021 and suffered a \"near $5 billion collapse\" under DOJ and FTC investigation. The collapse reflects diminished investor confidence and may complicate future capital raising on favorable terms.",
+            "headline": "Valuation collapse from $4.8B peak amid regulatory pressure",
+            "source": [
+              "https://bekey.io/blog/mental-health-tech-in-twenty-twenty-five-consolidation-personalization-and-the-uneven-reality-of-access"
+            ]
+          },
+          {
+            "details": "Founder Kyle Robertson departed in 2022 and was replaced by Brian Reinken as CEO during the regulatory crisis. Founder turnover at a regulated healthcare company of this scale introduces execution and cultural continuity risk during an already-difficult pivot.",
+            "headline": "Founding CEO departure creates leadership continuity risk",
+            "source": [
+              "https://www.sec.gov/Archives/edgar/data/2083019/000208301926000001/xslFormDX01/primary_doc.xml"
+            ]
+          },
+          {
+            "details": "In August 2021 Cerebral replaced salaries with a pay-per-session model and removed health insurance benefits for 200+ clinicians. The abrupt restructuring was widely criticized and could impair the company's ability to recruit and retain licensed therapists and psychiatrists, which are the binding capacity constraint in teletherapy.",
+            "headline": "Controversial clinician compensation overhaul risks talent supply",
+            "source": [
+              "https://trib.al/bgIaMq3"
+            ]
+          }
+        ],
+        "key_highlights": [
+          {
+            "details": "3.2 million patients' data was exposed through Cerebral's tracking tools, indicating the platform had reached millions of users — a level of consumer traction rare in teletherapy.",
+            "headline": "Massive patient scale signals real underlying demand",
+            "source": [
+              "https://www.kaspersky.com/blog/telehealth-issues-2026/55560/"
+            ]
+          },
+          {
+            "details": "Acquisition of Inflow (March 2026) adds a CBT-based ADHD behavioral app with skill-building modules and community features, integrating continuous digital care into clinician-led services.",
+            "headline": "Hybrid model differentiates on continuous ADHD care",
+            "source": [
+              "https://www.businesswire.com/news/home/20260324103905/en/Cerebral-Acquires-Leading-ADHD-Behavioral-App-Inflow-Expanding-Access-to-Continuous-Care"
+            ]
+          },
+          {
+            "details": "Olympic athlete Simone Biles joined as Chief Impact Officer in October 2021 and continues to advocate for the platform, providing meaningful top-of-funnel awareness for the brand.",
+            "headline": "Strong brand visibility through celebrity partnership",
+            "source": [
+              "https://bit.ly/3m4GlzW"
+            ]
+          },
+          {
+            "details": "Cerebral refocused on insurance-based care and is expanding in-network access via partnerships including the San Antonio Spurs in Texas, shifting toward stickier payer revenue streams.",
+            "headline": "Pivoting to insurance-based revenue improves unit economics",
+            "source": [
+              "https://bhbusiness.com/2026/03/24/cerebrals-latest-acquisition-marks-its-reentry-into-adhd-care/"
+            ]
+          },
+          {
+            "details": "Cerebral raised over $480M cumulatively, including a $300M SoftBank-led round at $4.8B in December 2021 and an additional $25M in September 2025 plus a $48.8M business combination filing in 2026.",
+            "headline": "Substantial capital base despite valuation reset",
+            "source": [
+              "https://buff.ly/33lMlh1"
+            ]
+          },
+          {
+            "details": "Cerebral acquired Resilience Lab (2025) to expand clinical workforce and Inflow (2026) to add digital therapeutics, demonstrating continued M&A execution to broaden the integrated care offering.",
+            "headline": "Active acquisitions show platform-building ambition",
+            "source": [
+              "https://www.mobihealthnews.com/news/cerebral-acquires-adhd-app-inflow-expand-mental-health-platform"
+            ]
+          }
+        ],
+        "customer_concentration": {
+          "details": "Customer base is structurally diversified: 3.2 million+ individual patients form the long-tail D2C core, with no single named enterprise customer disclosed as material to revenue. The San Antonio Spurs is framed as a regional distribution and community outreach partnership rather than a revenue anchor, and the emerging employer/insurer channel is still nascent per the 'enterprise_field_sales' motion description. Pricing is subscription-recurring on a per-patient basis, which inherently distributes exposure across thousands of small monthly contracts. Implication: revenue is predictable in aggregate but highly sensitive to consumer churn, regulatory shocks, and brand sentiment rather than to any single logo loss.",
+          "classification": {
+            "code": "Low",
+            "label": "Low"
+          }
+        },
+        "peers": [
+          {
+            "description": "B2B mental health benefits platform serving employers and health plans, with therapy, coaching, and integrated digital tools. Comparable to Cerebral's insurance/employer GTM motion and integrated care model.",
+            "name": "Lyra Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00009oi"
+          },
+          {
+            "description": "Public, direct-to-consumer and B2B teletherapy platform offering therapy, psychiatry, and medication management. Closely comparable to Cerebral on product (mental health telehealth), customer base (consumers and employers), and business model (subscription + insurance).",
+            "name": "Talkspace",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00000cj"
+          },
+          {
+            "description": "Direct-to-consumer telehealth platform focused on ADHD treatment, including evaluation, prescription, and ongoing care. Direct peer for Cerebral's ADHD offering and for the controlled-substance prescribing model that drove Cerebral's regulatory controversy.",
+            "name": "Done (Done Global)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00059r8"
+          },
+          {
+            "description": "Largest consumer-facing teletherapy subscription service, owned by Teladoc Health. Directly comparable to Cerebral on D2C mental health subscription model and broad-condition therapy positioning.",
+            "name": "BetterHelp (Teladoc Health)",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "00026oy"
+          },
+          {
+            "description": "Employer and payer-focused mental health benefits platform combining therapy, psychiatry, and digital exercises. Directly comparable on payer GTM and integrated care model pursued by Cerebral post-2022.",
+            "name": "Spring Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "000004k"
+          },
+          {
+            "description": "Merged entity of Headspace and Ginger, offering therapy, coaching, and digital self-care to consumers, employers, and payers. Comparable hybrid of clinical and digital mental health care.",
+            "name": "Headspace Health",
+            "type": {
+              "code": "direct_peer",
+              "label": "Direct Peer"
+            },
+            "uuid": "0000aip"
+          },
+          {
+            "description": "Public D2C telehealth platform offering mental health treatment alongside primary care, dermatology, and other specialties. Comparable D2C subscription model and mental health prescribing offering.",
+            "name": "Hims & Hers Health",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000fq7"
+          },
+          {
+            "description": "Largest virtual care incumbent offering general medical, mental health (via BetterHelp and acquired providers), and chronic condition management. Comparable as a broad telehealth incumbent with overlapping mental health services.",
+            "name": "Teladoc Health",
+            "type": {
+              "code": "broad_incumbent",
+              "label": "Broad Incumbent"
+            },
+            "uuid": "0000glc"
+          },
+          {
+            "description": "Digital mental health platform combining therapist-led care with app-based CBT programs, sold to employers and payers. Comparable hybrid clinician + digital therapeutic model that Cerebral is pursuing via Inflow.",
+            "name": "Meru Health",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000csg"
+          },
+          {
+            "description": "Hybrid in-person and teletherapy provider focused on measurement-based care, serving employer and payer clients. Comparable on integrated, outcomes-oriented behavioral health delivery model.",
+            "name": "Two Chairs",
+            "type": {
+              "code": "emerging_player",
+              "label": "Emerging Player"
+            },
+            "uuid": "0000ai6"
+          }
+        ]
+      }
+    },
+    "credits_consumed": 9
+  }
+}

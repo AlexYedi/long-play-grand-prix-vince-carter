@@ -1,0 +1,125 @@
+{
+  "company_id": "C13",
+  "company": "Pebblequill Learning",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 24100,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 26,
+        "end": 37
+      },
+      "quote": "MRR: $24.1K",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 60000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 54,
+        "end": 67
+      },
+      "quote": "Burn: $60K/mo",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 940000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 70,
+        "end": 81
+      },
+      "quote": "Cash: $940K",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 15,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 84,
+        "end": 101
+      },
+      "quote": "Runway: 15 months",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 6,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 104,
+        "end": 123
+      },
+      "quote": "Team: 6 (no change)",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 33,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 40,
+        "end": 51
+      },
+      "quote": "Schools: 33",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "94% renewal rate on school-year contracts",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 126,
+        "end": 173
+      },
+      "quote": "Good: 94% renewal rate on school-year contracts",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "Budget freezes in two pilot districts",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C13_pebblequill_2026-10-16.md",
+      "source_span": {
+        "start": 176,
+        "end": 218
+      },
+      "quote": "Bad: budget freezes in two pilot districts",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

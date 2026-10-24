@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000ees&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:15.040Z",
+  "data": {
+    "data": {
+      "uuid": "0000ees",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "public",
+            "label": "Public"
+          },
+          "last_funding_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "total_funding_usd": 171800000
+        },
+        "funding_rounds": [
+          {
+            "id": 7687539,
+            "date": {
+              "month": 6,
+              "year": 2021
+            },
+            "round": {
+              "code": "secondary_market",
+              "label": "Secondary Market"
+            }
+          },
+          {
+            "id": 270245,
+            "date": {
+              "month": 10,
+              "year": 2019
+            },
+            "round": {
+              "code": "series_d",
+              "label": "Series D"
+            }
+          },
+          {
+            "id": 375268,
+            "date": {
+              "month": 12,
+              "year": 2018
+            },
+            "round": {
+              "code": "series_c",
+              "label": "Series C"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Frazier VC",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00nho1v",
+            "website": "https://www.frazier.vc"
+          },
+          {
+            "name": "Frazier VC",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0005w9h",
+            "website": "https://www.frazier.vc"
+          },
+          {
+            "name": "Blue Cloud Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000ert",
+            "website": "http://www.bluecloudventures.com"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 6 more funding rounds; 22 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}

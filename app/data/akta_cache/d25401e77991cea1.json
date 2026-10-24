@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=00002z9&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:05:58.616Z",
+  "data": {
+    "data": {
+      "uuid": "00002z9",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 1,
+            "year": 2025
+          },
+          "total_funding_usd": 66500000
+        },
+        "funding_rounds": [
+          {
+            "id": 6178,
+            "date": {
+              "month": 1,
+              "year": 2025
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 292578,
+            "date": {
+              "month": 3,
+              "year": 2022
+            },
+            "round": {
+              "code": "series_a",
+              "label": "Series A"
+            }
+          },
+          {
+            "id": 591885,
+            "date": {
+              "month": 1,
+              "year": 2020
+            },
+            "round": {
+              "code": "seed",
+              "label": "Seed"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Avenir",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0002a2b",
+            "website": "http://avenirgrowth.com"
+          },
+          {
+            "name": "BAM Ventures",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00004rp",
+            "website": "http://bam.vc"
+          },
+          {
+            "name": "Threshold",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0000awd",
+            "website": "http://threshold.vc"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 2 more funding rounds; 5 more investors; last funding date; funding round details - date, investors, amount, news articles; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}

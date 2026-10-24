@@ -1,0 +1,600 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0000lea&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:35.547Z",
+  "data": {
+    "total": 3,
+    "limit": 20,
+    "offset": 0,
+    "count": 3,
+    "data": [
+      {
+        "id": 31910650,
+        "title": "GlossGenius Becomes Genius AI: Inside the $1.15B Bet on the Physical Economy",
+        "url": "https://www.techstars.com/blog/startup-spotlight/glossgenius-becomes-genius-ai-inside-the-dollar115b-bet-on-the-physical-economy",
+        "publisher": "Accelerate Your Success",
+        "published_date": "2026-07-23T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "GlossGenius has rebranded as Genius AI following a Series D funding round that valued the company at $1.15 billion, bringing its total capital raised past $125 million. The company aims to expand its platform beyond beauty and wellness to serve the broader in-person service economy by automating administrative tasks through AI agents. ",
+        "word_count": 519,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Mass-Market Multi-category (1P/3P) Marketplaces",
+            "code": "CRAFAAAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Brand & Marketing Initiatives",
+            "code": "SD07",
+            "is_primary": false
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "02m5o8i",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000lea",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          },
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "61",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "541511",
+            "name": "Professional, Scientific, and Technical Services"
+          },
+          {
+            "code": "51321",
+            "name": "Information"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "3851",
+            "name": "OPHTHALMIC GOODS"
+          },
+          {
+            "code": "7372",
+            "name": "SERVICES-PREPACKAGED SOFTWARE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "leah cohen-shohet",
+            "danielle cohen-shohet"
+          ],
+          "location": [
+            "america",
+            "u.s."
+          ],
+          "product": [
+            "glossgenius",
+            "genius ai"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6980438,
+        "full_text": "GlossGenius Becomes Genius AI: Inside the $1.15B Bet on the Physical Economy\nJuly 23, 2026\nGlossGenius (Techstars 2015) has rebranded as Genius AI after raising a Series D at a $1.15B valuation, betting that AI will make human expertise more valuable, not less, in the in-person service economy.\nGlossGenius (Techstars 2015) just changed its name. Not because the beauty and wellness scheduling app people fell in love with was broken, but because it had outgrown what its old name could hold.\nThis week, the company announced a Series D at a $1.15 billion valuation, pushing its total capital raised past $125 million. Alongside the raise, the company introduced a new corporate name, Genius AI, with GlossGenius continuing on as its flagship product.\nThe rebrand isn't cosmetic. As co-founders Danielle Cohen-Shohet and Leah Cohen-Shohet explained in a note published the same day, the customer base has grown well beyond beauty and wellness, and the product has grown well beyond software. The new name reflects both.\nFrom Back-Office Tool to “Physical Economy” AI\nGlossGenius launched on a simple premise. Let service professionals focus on their craft instead of their back office. The founders bootstrapped the company for years, deliberately starting with an industry they saw as one of the most technologically underserved in America, beauty and wellness. Every hour a stylist or esthetician spent chasing no-shows, reconciling payments, or managing a calendar was an hour taken from clients.\nThat focus has scaled. GlossGenius now says it powers more than 125,000 businesses across half of all U.S. ZIP codes, spanning salons, med spas, physical therapy practices, and wellness studios. The company estimates its platform has saved those businesses 112 million hours of administrative work and helped generate more than $2 billion in additional revenue, with the business itself approaching a $200 million revenue run rate this quarter.\nThe bigger claim in the founders' note is about where AI is headed next. Their argument is that as models automate more knowledge work, in-person, human expertise, think the stylist, the physical therapist, the trainer, becomes more valuable, not less. They point to roughly 8 million U.S. businesses built around this kind of hands-on service work, representing more than $2 trillion in annual spend. Genius AI's bet is that this \"physical economy\" is entering its best era, and that the winning platform will be the one that runs the admin work autonomously rather than just helping with it.\nThat shift is already visible in the product. Beyond its core scheduling, payments, and point-of-sale tools, GlossGenius has been rolling out AI agents, including a Growth Agent, a Marketing Agent, and a Reception tool that answers calls and texts around the clock, aimed at automating the busywork that surrounds every appointment rather than just recording it.\nThe Pitch, in One Line\nThe announcement's headline captures the thesis the company is now built around. \"Your genius is the craft. Let everything else run itself.\" It's a bet that the value of human expertise rises as AI takes over everything adjacent to it, and that GlossGenius, now under the Genius AI banner, wants to be the layer that disappears so the practitioner doesn't have to think about it.\nLearn more at genius.ai."
+      },
+      {
+        "id": 31910665,
+        "title": "Introducing Genius AI: The Company Behind GlossGenius Raises Series D at a $1.15 Billion Valuation",
+        "url": "https://finance.yahoo.com/technology/ai/articles/introducing-genius-ai-company-behind-175000570.html",
+        "publisher": "Yahoo",
+        "published_date": "2026-07-21T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Genius AI, formerly known as GlossGenius, secured $44 million in Series D financing at a $1.15 billion valuation led by Lux Capital. The company is rebranding to reflect its expansion into agentic AI products for the in-person service sector, aiming to automate administrative workflows for approximately 8 million businesses. With over 125,000 active clients and a revenue run-rate approaching $200 million, Genius AI focuses on reducing administrative burdens in industries like beauty and wellness. ",
+        "word_count": 424,
+        "original_language": "EN",
+        "author": "Genius Ai",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Agents & Autonomous Workflows (Tool Use, Planning, Multi-Agent)",
+            "code": "HDAAACAF",
+            "is_primary": true
+          },
+          {
+            "name": "Generative AI & LLM Solutions Services (RAG, Agents, Copilots)",
+            "code": "BPAEAHAG",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          },
+          {
+            "name": "Valuation Events",
+            "code": "CM09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00000a3",
+            "name": "Lux Capital",
+            "website": "https://luxcapital.li",
+            "is_primary": false
+          },
+          {
+            "uuid": "00008q3",
+            "name": "Imaginary Ventures",
+            "website": "https://imaginary.co/",
+            "is_primary": false
+          },
+          {
+            "uuid": "02m5o8i",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000003h",
+            "name": "Bessemer Venture Partners",
+            "website": "http://www.bvp.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "00002j6",
+            "name": "StepStone Group",
+            "website": "https://www.stepstonegroup.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000a2n",
+            "name": "2048 Ventures",
+            "website": "https://www.2048.vc",
+            "is_primary": false
+          },
+          {
+            "uuid": "00000hm",
+            "name": "L Catterton",
+            "website": "http://www.lcatterton.com",
+            "is_primary": false
+          },
+          {
+            "uuid": "0000lea",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000349",
+            "name": "business enterprise"
+          },
+          {
+            "code": "20001158",
+            "name": "start-up and entrepreneurial business"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "597",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "68",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "danielle cohen-shohet",
+            "leah cohen-shohet"
+          ],
+          "location": [
+            "u.s.",
+            "ny",
+            "new york"
+          ],
+          "product": [
+            "glossgenius"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 4862879,
+        "full_text": "NEW YORK, NY / ACCESS Newswire / July 21, 2026 / Genius AI, the technology platform for in-person service businesses, today announced $44 million in Series D financing at a $1.15 billion valuation. The round was led by Lux Capital, with participation from Bessemer Venture Partners, Imaginary Ventures, L Catterton Growth, 2048 Ventures, StepStone Private Ventures, and other existing investors, bringing the company's total capital raised to more than $125 million. Source: Genius AI (EZ Newswire) Alongside the financing, the company announced its new corporate name, Genius AI. This name reflects the expansion of its customer base and product vision: helping every service business run itself. That work began with GlossGenius, which today is now one of the flagship products of Genius AI. GlossGenius automates workflows like scheduling, payments, marketing, staff, and client management. GlossGenius is used widely across single and multi-location businesses with staff in verticals like beauty, wellness, and health-related services. GlossGenius will be joined by additional agentic products that execute the work end-to-end rather than assist with it, as part of the Genius AI platform. In-person service businesses represent one of the largest opportunities for AI transformation. There are roughly 8 million of these businesses that generate more than $2 trillion in annual spend. Yet the average owner loses nearly a third of every week to administrative work. As advancing model capabilities make it possible to complete multi-step work autonomously, Genius AI believes AI will expand capacity for human-to-human care - making many services more human, not less. \"The best work happens with a true partner beside you. As identical twins, we grew up with that - someone who understands you and makes you better. That's what we want for every owner,\" said Leah Cohen-Shohet, co-founder and Chief Business Officer of Genius AI. Today, more than 125,000 businesses across half of all U.S. ZIP codes run on the platform. The company estimates its products have saved customers 112 million hours of administrative work, helped them generate $2 billion in additional revenue, and facilitated more than 624 million client touchpoints. The company is approaching a $200 million revenue run-rate. \"We believe technology in our space will do the opposite of what people fear: not flatten human craft into automation, but free people to be more present, more expressive, and more connected to the people they serve,\" said Danielle Cohen-Shohet, co-founder and CEO of Genius AI. \"One of the most powerful things AI can do isn't to replace what makes us human. It is to give us room to be more human.\"\n\nStory Continues"
+      },
+      {
+        "id": 21646134,
+        "title": "2048 Ventures Companies",
+        "url": "https://www.2048.vc/companies?current-stage=pre-seed",
+        "publisher": "2048",
+        "published_date": "2026-01-01T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.6252,
+        "ai_summary": "The article reports on multiple startups and VC investments, including GlossGenius raising $28 million in Series C and Flock Safety acquiring Aerodome. The investments and acquisitions involve companies across various regions, notably in New York, Boston, and Bay Area. ",
+        "word_count": 1728,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Mergers & Acquisitions",
+            "code": "CM03",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000007y",
+            "name": "Flock Safety",
+            "website": "https://www.flocksafety.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000lea",
+            "name": "Genius AI",
+            "website": "https://genius.ai/",
+            "is_primary": true
+          },
+          {
+            "uuid": "0000f8l",
+            "name": "Aerodome",
+            "website": "https://www.aerodome.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": false,
+        "iptc_codes": [
+          {
+            "code": "20000173",
+            "name": "analysts comment"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "71",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "6211",
+            "name": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+          },
+          {
+            "code": "6282",
+            "name": "INVESTMENT ADVICE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "karim butt",
+            "danielle cohen-shohet",
+            "caitlyn miller",
+            "rahul sidhu",
+            "josh stein",
+            "annie lu",
+            "michael healander",
+            "daniel bradshaw",
+            "matthew watts",
+            "jon fry",
+            "james kawas",
+            "caitlin leksana",
+            "andrew giessel",
+            "stefan johanson",
+            "vinay shukla",
+            "jamie davidson",
+            "timmy galvin",
+            "joseph lee",
+            "patrick vatterott",
+            "yash joshi",
+            "rahul aggarwal",
+            "naim kabir",
+            "thomas cortina",
+            "patrick quire",
+            "sharvil patel",
+            "leszek lisowski",
+            "clay spence",
+            "mikayel khachatryan",
+            "roshan patel",
+            "david lu",
+            "thomas clawson",
+            "vivek vishwanath",
+            "kenaniah cerny",
+            "max metcalf",
+            "ana healander",
+            "anna lawn",
+            "abhi chandra",
+            "burhan syed",
+            "yulia lampi",
+            "simon bornschein",
+            "mohammed mian",
+            "liz giorgi",
+            "vaish raman",
+            "abel chan",
+            "sean ammirati",
+            "vladimir khoetsyan",
+            "priya murali",
+            "marina pavlovic rivas",
+            "hayley anderson",
+            "allan svirsky",
+            "magdalena tyrpien",
+            "dr. ed wu",
+            "dr. jeff munzar",
+            "dr. milad dagher",
+            "dani arnaout",
+            "dr. david juncker",
+            "ashot mnatsakanyan",
+            "greg ekchian",
+            "giri addanki",
+            "lukas salomon",
+            "carl pigeon",
+            "karthik raman",
+            "kevin flyangolts",
+            "christine schindler",
+            "carolyn mooney",
+            "hannah kim",
+            "vish srivastava",
+            "jeremy wang",
+            "mark schnittman",
+            "kibby pollak",
+            "julie rogers",
+            "julianna oláh",
+            "patrick renner",
+            "alexander spivak",
+            "susanne mitschke",
+            "edwin wong",
+            "sanjay hariharan",
+            "chris valdivia",
+            "ansel tessier",
+            "alina zolotareva",
+            "michael mcnabb",
+            "david mckellar",
+            "ziggy hallgarten",
+            "arturo quiroz",
+            "chris shelner",
+            "andrew hessel",
+            "carla vanderhoof",
+            "chad moles",
+            "peter weijmarshausen",
+            "scott ferguson",
+            "max makeev",
+            "alec soronow",
+            "milan thakor",
+            "lane burgett",
+            "beau palin",
+            "alec costanza",
+            "kavya swaminathan",
+            "matt fitzgerald",
+            "raheem chaudhry",
+            "austin hall",
+            "isabel arango mesa",
+            "ben quachtran",
+            "ryan o'neil",
+            "andrés arango mesa",
+            "shashi shekhar verma",
+            "sumner vanderhoof",
+            "conor loy",
+            "nicolás aramayo benvenutto",
+            "rogelio arellano",
+            "isabel arango ruiz",
+            "fatma collins",
+            "brooks leitner",
+            "chase reid",
+            "trevor nicks",
+            "zoe lynch",
+            "rachel vrabec",
+            "brandon minor",
+            "lisa-marie assenza",
+            "mark wilhelm",
+            "eben matthews",
+            "adam martin",
+            "christopher li",
+            "roy mehta",
+            "inara lalani",
+            "cristian ponce",
+            "jamie snedden",
+            "sheida shahi",
+            "julian mazzitelli",
+            "adam bisogni",
+            "rohan seth",
+            "ricci rukavina",
+            "zoe cohen",
+            "pedro correa de sampaio",
+            "annelise soulier",
+            "negin ashouri",
+            "théo schäfer",
+            "peter lopez",
+            "ryan murray",
+            "aaron edwards",
+            "jermaine r ijieh",
+            "aida mollaei",
+            "clara isabel arango ruiz",
+            "durlabh jain",
+            "hamza farooq"
+          ],
+          "location": [
+            "montreal",
+            "boston",
+            "bay area",
+            "new york",
+            "detroit",
+            "denver",
+            "austin",
+            "london",
+            "salt lake city",
+            "philadelphia",
+            "latam",
+            "toronto",
+            "san francisco",
+            "washington dc",
+            "ottawa",
+            "los angeles",
+            "houston",
+            "chicago",
+            "portland"
+          ],
+          "product": [
+            "impilo",
+            "twostep therapeutics",
+            "lendflow",
+            "fazeshift",
+            "eli health",
+            "conversenow",
+            "wirestock",
+            "nomic bio",
+            "pageport",
+            "glossgenius",
+            "flyp",
+            "laminar",
+            "arrow",
+            "supademo",
+            "nimbus health",
+            "soona",
+            "recora health",
+            "airspace link",
+            "cobalt id",
+            "nionyx bio",
+            "rondah",
+            "coding.bio",
+            "aerodome",
+            "acorn finance",
+            "psyrin",
+            "ribbit",
+            "pathspot",
+            "aclid",
+            "enurgen",
+            "propensity",
+            "nextmv",
+            "colla health",
+            "aslan",
+            "century health",
+            "romix biosciences",
+            "pocket ai",
+            "wareclouds",
+            "broome",
+            "spruce systems",
+            "vo health",
+            "stratagen bio",
+            "biobox",
+            "persist ai",
+            "almanac engineering",
+            "ettos",
+            "ten little",
+            "actor",
+            "macroverse media",
+            "impacked"
+          ],
+          "event": [
+            "2048 ventures"
+          ]
+        },
+        "newsworthiness_score": 0.8224,
+        "group_id": 6456584,
+        "full_text": "GlossGenius Comprehensive platform for Beauty Industry. Danielle Cohen-Shohet CEO Karim Butt Co-Founder Why we invested GlossGenius raises $28 million Series C led by L Catterton Growth New York\n\nAerodome Air support and Drone-as First-Responder infrastructure for police departments. Rahul Sidhu CEO Kenaniah Cerny CTO Why we invested Flock Safety acquires Aerodome Exited New York\n\nLaminar Platform for precision automation for industrials and data centers. Annie Lu CEO David Lu CTO Why we invested Laminar raises $12 million Series A led by Greycroft ‍ Series A Boston\n\nAirspace Link Workflow and infrastructure for flying drones beyond the visual line of sight. Michael Healander CEO Daniel Bradshaw CTO Ana Healander Head of CX Why we invested Airspace Link raises $23 million Series B led by Avanta Ventures Series B Detroit\n\nNomic Bio Next generation proteomic tools. Dr. Milad Dagher CEO Dr. David Juncker CSO Dr. Jeff Munzar Head of Tech Why we invested Nomic Bio raises $42 million Series B Series B Montreal\n\nTwoStep Therapeutics Peptide-drug conjugates for targeted delivery to solid tumors. Caitlyn Miller CEO Why we invested TwoStep Therapeutics raises $6.5 million Seed led by NFX ‍ Series A Bay Area\n\nFazeshift AI-powered apps for invoicing & accounts receivable. Caitlin Leksana CEO Timmy Galvin CTO Why we invested Fazeshift raises $4 million Seed led by Gradient Ventures Series A Boston\n\nImpilo The operational OS for at-home health. Josh Stein CEO Patrick Quire COO Why we invested Impilo raises $11.5 million Series A led by Construct Capital ‍ Series A Philadelphia\n\nGrowth Signals AI-powered system of record and communication for corporate innovation. Sean Ammirati CEO Andrew Giessel CTO Anna Lawn Head of Product Why we invested Series A US-Other\n\nNionyx Bio Nionyx is engineering programmable AAV vectors for tissue-specific delivery, with an initial focus on rare kidney diseases. Magdalena Tyrpien CEO Leszek Lisowski CSO Why we invested Seed New York\n\nNimbus Health The future of pulmonology. Clay Spence CEO Sharvil Patel Head of Product Why we invested Seed Bay Area\n\nRondah AI receptionists for dental service organizations. Burhan Syed CEO Mohammed Mian CTO Allan Svirsky CPO Why we invested Pre-Seed New York\n\nCobalt ID Business identity verification platform to tackle B2B fraud. Priya Murali Founder Vaish Raman CTO Why we invested Seed New York\n\nPageport Apps for Financial Advisors. Max Metcalf Co-Founder Thomas Clawson Co-Founder Why we invested Seed Salt Lake City\n\nSupademo Intuitive product demos and product guides. Joseph Lee CEO Koushik Marka CTO Why we invested Pre-Seed New York\n\nCoding.Bio Modular therapies engineered for immune activation. Simon Bornschein CEO Yulia Lampi CSO Why we invested Seed London\n\nInfraHub Empowering smarter road infrastructure management with AI-driven insights. Stefan Johanson CEO Naim Kabir CTO Why we invested Seed Bay Area\n\nConverseNow Voice AI platform for restaurants. Vinay Shukla CEO Rahul Aggarwal CTO Why we invested ConverseNow raises $15 million Series A led by Craft Ventures Series A Austin\n\nSoona All-in-one platform to make, manage, and optimize content for ecommerce. Liz Giorgi Co-Founder and CEO Hayley Anderson Co-Founder and CCO Why we invested Soona raises $35 million Series B led by Bain Capital Ventures Series B Denver\n\nVitally Customer success platform for B2B software companies. Jamie Davidson CEO Patrick Vatterott CTO Why we invested Vitally raises $30 million Series B led by Next47 Series B New York\n\nWirestock Management & distribution platform for creators' digital content. Mikayel Khachatryan CEO Vladimir Khoetsyan CTO Ashot Mnatsakanyan CPO Why we invested Series A New York\n\nFlyp Marketplace connecting re-selling platforms with people who want to sell their stuff. James Kawas CEO Dani Arnaout CTO Why we invested Flyp raises $10 million Series A led by Asymmetric Capital Partners Series A Bay Area\n\nLendflow Embedded lending services for B2B companies. Jon Fry CEO Matthew Watts CTO Why we invested Lendflow raises $10.8 million Series A led by Underscore VC Series A Austin\n\nEli Health At-home saliva-based hormone monitoring. Marina Pavlovic Rivas CEO Thomas Cortina CTO Why we invested Eli Health raises $12 million Series A led by BDC Capital ‍ Series A Montreal\n\nArrow Platform for healthcare payments. Roshan Patel CEO Yash Joshi CTO Abel Chan COO Why we invested Arrow raises $110 million Series A led by Gradient Ventures Series A New York\n\nRecora Health Virtual cardiac rehab, care management and navigation services. Abhi Chandra CEO Vivek Vishwanath Chief Growth Officer Dr. Ed Wu Chief Medical Officer Why we invested Recora raises $20 million Series A led by SignalFire Series A New York\n\nAcorn Finance Simple POS financing tool for contractors (and manufacturers) to offer their homeowner customers. Giri Addanki CEO Why we invested Acorn Finance raises $8.4 million Series A led by MassMutal Ventures Series A Bay Area\n\nPathspot Platform for detecting food-borne illnesses for hospitality industry. Christine Schindler CEO Dutch Waanders CTO Why we invested Pathspot raises $6.5 million Series A led by Valor Siren Ventures Series A New York\n\nNextmv DecisionOps workflow for efficient model validation and management. Carolyn Mooney CEO Ryan O'Neil CTO Why we invested nextmv raises $8 million Series A led by FirstMark ‍ Series A Philadelphia\n\nPersist AI Drug formulation development and manufacturing using automation and AI. Karthik Raman CEO Chris Shelner COO Why we invested Persist AI raises $12 million Series A led by Spero Ventures Series A Bay Area\n\nAclid The security and safety API layer for synthetic biology. Kevin Flyangolts CEO Why we invested Aclid raises $3.3 million Seed led by 2048 Ventures and IA Ventures ‍ Seed New York\n\nPropensity Account-based marketing platform for B2B growth teams. Sumner Vanderhoof CEO Carla Vanderhoof CCO Why we invested Seed+ Boston\n\nCitrus Labs Digital CRO for CPG, Cosmetics, and Biotech. Susanne Mitschke CEO Patrick Renner COO Rogelio Arellano CTO Why we invested Seed+ Los Angeles\n\nHumane Genomics Synthetic oncolytic virus platform for personalized cancer treatment. Peter Weijmarshausen CEO Chad Moles CSO Andrew Hessel President Why we invested Humane Genomics raises $4 million Seed led by Union Square Ventures Seed New York\n\nRibbit Autonomous aviation technology. Carl Pigeon CEO Jeremy Wang CTO Why we invested Pre-Seed Toronto\n\nTen Little Data driven, personalized Kids’ shoes brand. Fatma Collins CEO Julie Rogers COO Why we invested Seed+ New York\n\nPocket AI Front Office Platform for Rehab Therapy Hannah Kim CEO & Co-Founder Ben Quachtran Co-Founder Why we invested Pre-Seed New York\n\nEnurgen The operating system for solar energy system operators. Kibby Pollak CEO Chris Valdivia CTO Why we invested Enurgen raises $4.1 million Seed co-led by BDC, Brightspark, and Diagram ‍ Seed Ottawa\n\nStratagen Bio MRI-based tools for quantitative biomarker assessment. Greg Ekchian CEO Why we invested Pre-Seed Boston\n\nWareclouds Fulfillment and last-mile-delivery for e-commerce. Arturo Quiroz CEO Nicolás Aramayo Benvenutto Co-Founder Why we invested Wareclouds raises $2 million Seed led by 2048 Ventures Seed Latam\n\nPsyrin Streamlined mental heathcare operations through AI. Edwin Wong CEO Julianna Oláh CTO Raheem Chaudhry Co-Founder Why we invested Pre-Seed Bay Area\n\nCentury Health AI-powered real-world evidence for accelerated treatments. Vish Srivastava CEO Sanjay Hariharan CTO Why we invested Pre-Seed New York\n\nAslan Protects AI agents that avert the next mass shooting before it happens. Chase Reid CEO Ansel Tessier CTO Why we invested Pre-Seed Washington DC\n\nColla Health Empowering oncology practices with embedded, collaborative mental health care. Milan Thakor CEO Beau Palin COO Why we invested Seed Houston\n\nKascaid Kascaid is developing biosensors for real-time monitoring of inflammatory biomarkers. Kavya Swaminathan CEO Scott Ferguson CSO Austin Hall CPO Why we invested Pre-Seed Bay Area\n\nRomix Biosciences Accelerating drug development with an AI-enabled full body molecular scan of inflammation. Conor Loy CEO David McKellar CTO Why we invested Pre-Seed New York\n\nSpruce Systems Ground truth intelligence for landscapers. Max Makeev CEO Mark Schnittman CTO Matt Fitzgerald CPO Why we invested Pre-Seed Boston\n\nVO Health VO Health is a precision health company developing next-generation biomarkers of healthspan and performance. Brooks Leitner CEO Alina Zolotareva COO Why we invested Pre-Seed New York\n\nAlmanac Engineering Your all-in-one 24/7 automated 3D printing factory. Michael McNabb CEO Alec Soronow CTO Why we invested Pre-Seed San Francisco\n\nBroome The agentic AI platform for commercial real estate Ziggy Hallgarten CEO Alexander Spivak CTO Alec Costanza Co-Founder Why we invested Pre-seed New York\n\nUnion Specialty AI native wholesale platform for specialty insurance Lukas Salomon CEO Why we invested Pre-seed New York\n\nActor Deploying general robot models into the real world Lane Burgett CEO Shashi Shekhar Verma CTO Why we invested Pre-seed San Francisco\n\nEttos The e-commerce platform for beauty products in Latam. Andrés Arango Mesa CEO Isabel Arango Mesa CTO Clara Isabel Arango Ruiz CGO Why we invested Pre-Seed Latam\n\nBioBox Analytics Software that creates a GPS for drug target discovery from customers’ data. Christopher Li CEO Julian Mazzitelli CTO Hamza Farooq CIO Why we invested Pre-Seed Toronto\n\nInso Bio Next-generation, automated sample prep, starting with HMW DNA. Harvey Tian CEO Adam Bisogni CSO Why we invested Pre-Seed New York\n\nImpacked Marketplace for CPG primary packaging. Lisa-Marie Assenza CEO Why we invested Impacked raises $2.5 million Seed led by TenOneTen Ventures ‍ Seed New York\n\nMacroverse Media A platform to create and consume digital comics and graphic novels, with a longer-term vision for a multi-channel media platform. Eben Matthews CEO Adam Martin Co-Founder Ricci Rukavina Co-Founder Why we invested Pre-Seed Los Angeles\n\nTangram Software for Automatic Calibration in Robotics. Brandon Minor CEO Why we invested Seed + Denver\n\nKanary Monitoring app for privacy protection and personal information on the internet. Rachel Vrabec CEO Why we invested Pre-Seed Chicago\n\nCoolR Group Full out-of-the-box solution for brands and retailers to track assets (coolers and shelves). Roy Mehta CEO Durlabh Jain CTO Why we invested Seed New York\n\nAdaptis Technologies Circularity and carbon footprint optimization platform for buildings. Sheida Shahi CEO Aida Mollaei CTO Why we invested Seed Toronto\n\nFemTherapeutics Adjustable OTC gynecological prosthetics. Inara Lalani Co-Founder Negin Ashouri Co-Founder Why we invested Seed Montreal\n\nCaravel Bio Engineered enzyme and protein carriers. Trevor Nicks CEO Why we invested Pre-Seed Portland\n\nKiraGen Bio Multiplex edited CAR-T cell therapies for solid tumors. Aaron Edwards CEO Ryan Murray CSO Why we invested Pre-Seed Boston\n\nNeobe Therapeutics Live biotherapeutics that disrupt solid tumors and enhance immunotherapy success. Pedro Correa de Sampaio CEO Annelise Soulier CSO Why we invested Seed London\n\nRipple AI AI-powered email marketing for ecommerce brands. Rohan Seth CEO Peter Lopez COO Why we invested Pre-Seed New York\n\nTetsuwan Scientific Autonomous platforms for life sciences research. Cristian Ponce CEO Théo Schäfer CTO Why we invested Pre-Seed Bay Area\n\nVariant AI The First Meme Game Social Platform. Zoe Lynch CEO Why we invested Pre-Seed Bay Area\n\nJulumuqi AR/AI powered copilot for tabletop games. Mark Wilhelm CEO Zoe Cohen CTO Why we invested Pre-Seed Bay Area\n\nGroundfloor A members’ club rethought from the ground up, offering flexible workspace and more. Jamie Snedden CEO Jermaine R Ijieh CPO Leutrim Rexhepi CTO Why we invested Pre-Seed Bay Area"
+      }
+    ],
+    "credits_consumed": 0.13
+  }
+}

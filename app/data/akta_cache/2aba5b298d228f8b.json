@@ -1,0 +1,128 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=00002bj&type_list=CM01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:16.580Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 31952866,
+        "title": "Leila Janah, a social entrepreneur who was on a mission to end global poverty dies at 37",
+        "url": "https://yourstory.com/herstory/2020/02/leila-janah-samasource-entrepreneur-died",
+        "publisher": "YourStory",
+        "published_date": "2026-07-23T00:00:00",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.63,
+        "ai_summary": "Leila Janah, a social entrepreneur and founder of companies aimed at reducing global poverty, died on January 24 at the age of 37 due to complications from epithelioid sarcoma. She founded Samasource, LXMI, and Samaschool, employing thousands in countries including Kenya, Uganda, and India to provide decent wages and training. Her efforts helped over 50,000 people escape poverty, illustrating the potential of marginalized individuals in the global economy. ",
+        "word_count": 500,
+        "original_language": "EN",
+        "author": "Nirandhi Gowthaman",
+        "countries": [
+          "KEN",
+          "UGA",
+          "IND"
+        ],
+        "industries": [
+          {
+            "name": "Rural Livelihoods & Economic Empowerment",
+            "code": "BPAGABAA",
+            "is_primary": true
+          },
+          {
+            "name": "Anti-Trafficking, Smuggling Prevention & Safe Migration Services",
+            "code": "BPADAHAK",
+            "is_primary": false
+          },
+          {
+            "name": "Cash Assistance & Social Safety Net Delivery for Displaced Populations",
+            "code": "BPADAHAH",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Equity Fund-Raising",
+            "code": "CM01",
+            "is_primary": true
+          },
+          {
+            "name": "Sustainability & ESG",
+            "code": "SD09",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "00002bj",
+            "name": "Sama",
+            "website": "http://www.sama.com",
+            "is_primary": true
+          },
+          {
+            "uuid": "0007ctu",
+            "name": "LXMI",
+            "website": "https://lxmi.com/",
+            "is_primary": true
+          },
+          {
+            "uuid": "000mcka",
+            "name": "SAMA",
+            "website": "https://samaschool.in",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000807",
+            "name": "slavery"
+          }
+        ],
+        "iab_categories": [],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "leila janah",
+            "martine janah",
+            "ved",
+            "sahadev chirayath",
+            "tassilo festetics",
+            "rekha balakrishnan"
+          ],
+          "location": [
+            "uganda",
+            "kenya",
+            "india",
+            "benin",
+            "manhattan",
+            "niagara falls",
+            "nile river valley",
+            "united states",
+            "east africa",
+            "lewiston, new york",
+            "african countries"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 7200366,
+        "full_text": "Woman Entrepreneur Leila Janah, a social entrepreneur who was on a mission to end global poverty dies at 37 Leila Janah founded three companies - Samasource, LXMI and Samaschool to help marginalised and poor people the opportunity to earn a decent wage. She had a rare form of soft-tissue cancer. Nirandhi Gowthaman312 Stories Monday February 03, 2020 , 2 min Read Leila Janah, a social entrepreneur who was on a mission to end global poverty died on January 24 in a hospital in Manhattan. She died from complications of epithelioid sarcoma. She was 37.\n\nShe was the founder of Samasource, an artificial intelligence company which employs nearly 3,000 people in Kenya, Uganda and India. She believed that the intellect of the poorest people in the world was an untapped source in the global economy.\n\nLeila Janah was on a mission to end global poverty. (Image credits:Lucas Jackson/Reuters) Leila was also the founder and CEO of LXMI, a fair-trade, organic skin care company, and Samaschool, a nonprofit organisation that trains people in digital skills, according to Samasource. The luxury cosmetic brand that she started also employed marginalised people and gave them a decent wage. She started the company in 2015 after she saw local people harvesting local nuts in Benin.\n\nIt employs hundreds of poor women along the Nile River Valley, largely in Uganda, to harvest Nilotica nuts and turn them into a butter that is exported to the United States for use in the production of its skin-care products. The company has hired more people from other African countries and in India to harvest other ingredients for its products.\n\nAccording to Samasource, at least half the people hired by the company are women. Its employees have worked under contracts with companies including Microsoft, Google, Facebook, Walmart, Getty Images, Glassdoor and Vulcan Capital. According to the company’s website, it is one of the largest employers in East Africa and has helped more than 50,000 people lift themselves out of poverty.\n\nIn a Facebook post in November, she opened up about her battle with cancer. She wrote, \"Epithelioid sarcoma is a rare, strange beast. As it moves through my body, I'm trying to understand what it could possibly teach me. My biggest lesson is awe: I'm awe-struck by the complexity of human biology, and equally by the almost mystical power of human connection and love flowing my way.\" Sign up for our exclusive newsletters. Subscribe to check out our popular newsletters. * indicates mandatory fields\n\nEpithelioid sarcoma is a rare, slow-growing type of soft tissue cancer and typically starts as a painless bump.\n\nShe was born to Indian immigrant parents, Sahadev Chirayath and Martine Janah in 1982 in Lewiston, New York, near Niagara Falls. She is survived by her parents, her husband Tassilo Festetics; her parents; a brother, Ved; and her stepdaughter.\n\n\n\n(Edited by Rekha Balakrishnan) ALSO READ 6 women whose philanthropic efforts are inspiring social change Advertise with us social entrepreneur indian origin, women Leila Janah Samasource Advertise with us Advertise with us Advertise with us Advertise with us"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

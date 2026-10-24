@@ -1,0 +1,119 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=000004k&type_list=RC01&start_date=2025-10-25&limit=20",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:29:08.328Z",
+  "data": {
+    "total": 1,
+    "limit": 20,
+    "offset": 0,
+    "count": 1,
+    "data": [
+      {
+        "id": 22265625,
+        "title": "Spring Health Publishes Largest Outcomes Study Demonstrating Measurable Clinical Improvements in Mental Health Care",
+        "url": "https://www.prnewswire.com/news-releases/spring-health-publishes-largest-outcomes-study-demonstrating-measurable-clinical-improvements-in-mental-health-care-302623647.html",
+        "publisher": "PR Newswire",
+        "published_date": "2025-11-24T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Spring Health published a peer-reviewed outcomes study demonstrating significant clinical improvements in mental health care for over 53,000 patients across the United States. The study highlights the effectiveness of Spring Health's personalized, data-driven model, which achieved remission for 61.7% of participants and high effect sizes for depression and anxiety. ",
+        "word_count": 477,
+        "original_language": "EN",
+        "author": "Spring Health",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Psychiatry & Medication Management Platforms",
+            "code": "HLALAEAB",
+            "is_primary": true
+          },
+          {
+            "name": "Employer Wellness & Population Health Programs",
+            "code": "HLAEAAAH",
+            "is_primary": false
+          },
+          {
+            "name": "Quality Measurement, Reporting & Benchmarking (HEDIS/Stars/CQM)",
+            "code": "HLACAHAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Culture & Workplace Practices",
+            "code": "WT04",
+            "is_primary": false
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "000004k",
+            "name": "Spring Health",
+            "website": "https://www.springhealth.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "academic",
+          "label": "Academic"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [],
+        "iab_categories": [
+          {
+            "code": "301",
+            "name": "Medical Health"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "621112",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "621420",
+            "name": "Health Care and Social Assistance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "8011",
+            "name": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE"
+          }
+        ],
+        "entities": {
+          "person": [
+            "adam chekroud",
+            "dr. mill brown"
+          ],
+          "location": [
+            "new york"
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 6178111,
+        "full_text": "NEW YORK, Nov. 24, 2025 /PRNewswire/ -- Spring Health, the leading global mental health solution for employers and health plans, announced today the publication of a peer-reviewed study in the Online Journal of Public Health Informatics (OJPHI)--the largest outcomes study of its kind in the behavioral health industry. The findings confirm that Spring Health provides notable clinical improvements at scale, exceeding gold-standard benchmarks for evidence-based mental health care. The study analyzed nearly 53,000 patients from over 500 US-based employers, revealing that 92.3% of participants reliably improved or recovered from depression or anxiety. Additionally, 61.7% reached remission, with symptoms dropping into the subclinical range. Effect sizes, which measure the strength of the relationship between assessment score changes and treatments, were very large–1.61 for depression and 1.82 for anxiety. These are more than twice the benchmark for standard psychotherapy (0.63 and 0.51, respectively). \"For years, employers and health plans have struggled to understand whether their mental health investments are effective,\" said Adam Chekroud, President and Co-Founder of Spring Health. \"This study provides clear evidence that our personalized, data-driven care, evidence-based methods, and unified technology platform work together to significantly and quickly improve clinical outcomes for individuals.\" The research demonstrates that Spring Health's measurement-based, precision-matched model delivered increasing clinical value as coverage grew 37-fold—from 260,000 to 9.6 million covered lives over 3.5 years. Anxiety and depression symptom improvement increased significantly compared to benchmarks as coverage expanded, underscoring the power of Spring's continuous data improvement feedback loop where every data point fuels smarter care and better results for the next member. \"This research validates the investments we've made to deliver a single unified platform across 100% of our providers and members globally,\" said Dr. Mill Brown, Chief Medical Officer at Spring Health. \"We're proud to be the only global mental health platform that enables measurement based care at scale across our entire network with full visibility of every care action taken across all appointments worldwide.\" Results remained consistent across racial, ethnic, age, and gender groups, indicating that Spring Health's model promotes equitable care delivery for diverse populations. The full study, \"Evidence-Based Mental Health at Scale: Benchmarking Retrospective Cohort Study of a Digital Employee Benefits Program for Depression and Anxiety ,\" is available in the Online Journal of Public Health Informatics. About Spring Health\n\nSpring Health is a complete global mental health solution for employers and health plans. By integrating products for members, providers, and customers, Spring Health delivers personalized care for every individual—from digital tools and meditation to coaching, therapy, and medication—ensuring the right care at the right time. Certified by JAMA Network Open and the Validation Institute for demonstrating net savings for customers, Spring Health equips business leaders with real-time insights and clinical expertise to support diverse organizational needs. Today, more than 20 million people worldwide have access to Spring Health. Learn more at www.springhealth.com . Media Contact:\n\npress@springhealth.com SOURCE Spring Health"
+      }
+    ],
+    "credits_consumed": 0.11
+  }
+}

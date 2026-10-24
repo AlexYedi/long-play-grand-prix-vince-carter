@@ -1,0 +1,125 @@
+{
+  "company_id": "C07",
+  "company": "Gantrell Dental Cloud",
+  "period": "2026-Q3",
+  "update_status": "received",
+  "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+  "revenue_type": "recurring",
+  "fields": {
+    "monthly_revenue": {
+      "value": 52800,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 472,
+        "end": 534
+      },
+      "quote": "September MRR was $52.8K as we cleaned up some legacy accounts",
+      "confidence": 0.9
+    },
+    "arr": {
+      "value": null,
+      "unit": "currency",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": null,
+      "quote": null,
+      "confidence": 0
+    },
+    "monthly_burn": {
+      "value": 68000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 712,
+        "end": 741
+      },
+      "quote": "net burn ran about $68K/month",
+      "confidence": 0.9
+    },
+    "cash": {
+      "value": 290000,
+      "unit": "currency",
+      "currency": "USD",
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 888,
+        "end": 907
+      },
+      "quote": "Cash at 9/30: $290K",
+      "confidence": 0.9
+    },
+    "runway_months": {
+      "value": 4,
+      "unit": "months",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 909,
+        "end": 934
+      },
+      "quote": "~4 months at current burn",
+      "confidence": 0.9
+    },
+    "headcount": {
+      "value": 11,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 647,
+        "end": 672
+      },
+      "quote": "The team is steady at 11.",
+      "confidence": 0.9
+    },
+    "customers": {
+      "value": 74,
+      "unit": "count",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 540,
+        "end": 617
+      },
+      "quote": "we now serve 74 practices after offboarding a handful of single-chair offices",
+      "confidence": 0.9
+    },
+    "key_highlight": {
+      "value": "Q4 pipeline is the biggest ever, with three multi-location DSOs in late-stage trials. They also shipped the imaging integration their largest DSO requested.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 354,
+        "end": 453
+      },
+      "quote": "the Q4 pipeline is the biggest it has ever been: three multi-location DSOs are in late-stage trials",
+      "confidence": 0.9
+    },
+    "key_risk": {
+      "value": "About 4 months of runway ($290K cash against $68K/month burn), and the company is exploring a bridge.",
+      "unit": "text",
+      "currency": null,
+      "period": null,
+      "source_file": "updates/Q3_2026/C07_gantrell_2026-10-15.txt",
+      "source_span": {
+        "start": 888,
+        "end": 969
+      },
+      "quote": "Cash at 9/30: $290K; ~4 months at current burn. Exploring options incl. a bridge.",
+      "confidence": 0.9
+    }
+  },
+  "flags": []
+}

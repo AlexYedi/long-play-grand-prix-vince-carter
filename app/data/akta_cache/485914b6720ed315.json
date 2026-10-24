@@ -1,0 +1,794 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/news?primary_company=0003l7p&type_list=SD01&start_date=2025-10-25&limit=50",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:27:19.049Z",
+  "data": {
+    "total": 8,
+    "limit": 50,
+    "offset": 0,
+    "count": 8,
+    "data": [
+      {
+        "id": 34195701,
+        "title": "Fraud Detection & Prevention Software for Enterprise",
+        "url": "https://www.accertify.com/platform/fraud-management/",
+        "publisher": "Accertify",
+        "published_date": "2026-08-27T07:17:58",
+        "sentiment": "Neutral",
+        "sentiment_score": 0.5483,
+        "ai_summary": "Accertify's fraud management platform uses AI-driven machine learning, device intelligence, and behavior analytics to detect and prevent fraud while approving more legitimate transactions. The company reported preventing over $5.8B in fraud and abuse in 2025, with a 98.10% average transaction approval rate and 47% of clients achieving over 99% approval. The platform is part of Accertify's Predictive Yes Platform, which integrates identity, behavioral, and transaction signals.",
+        "word_count": 1374,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Prevention (payments fraud, account takeover, scams)",
+            "code": "FSAGAFAE",
+            "is_primary": true
+          },
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": false
+          },
+          {
+            "name": "Device Fingerprinting & Behavioral Biometrics",
+            "code": "FSAMALAL",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001298",
+            "name": "artificial intelligence"
+          },
+          {
+            "code": "20000097",
+            "name": "fraud"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522390",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6199",
+            "name": "FINANCE SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [],
+          "location": [
+            "kansas city"
+          ],
+          "product": [
+            "predictive yes platform",
+            "riskified",
+            "sardine ai",
+            "accertify",
+            "forter fraud management"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 10594844,
+        "full_text": "Fraud Management Say Yes to Approving More Good Customers. No to Fraud and Abuse Schemes. Fraud continues to evolve, and merchants are absorbing the cost. With fraudulent eCommerce transaction losses expected to grow from $56 billion in 2025 to $131 billion by 2030, merchants need fraud strategies that protect revenue without adding customer friction.1 Approve More Good Transactions Increase approvals without increasing fraud exposure.\n\nDecide with Precision Improve decision accuracy with real-time risk signals.\n\nSmart Fraud Strategy Optimize fraud strategy with AI-driven insights and expert support. Talk to Us See how it works Part of the Predictive Yes Platform · AI-driven machine learning · Device intelligence & behavior analytics Built for\n\nFinance & Revenue Leadership\n\nFraud & Risk Teams\n\nRisk & Compliance Teams\n\neCommerce & Digital Teams The Impact of an Unclear Fraud Management and Detection Strategy Without the right fraud management strategy, merchants risk losing revenue on both sides: to increasingly sophisticated fraud attacks and to overly aggressive controls that decline legitimate customers. A smarter fraud strategy should protect revenue while supporting growth, using actionable insights and an adaptable approach to reduce fraud, limit false positives, and minimize unnecessary checkout friction. ~131B loss from fraudulent eCommerce transactions predicted in 20301 62% of participants in a survey say the ability to reduce or minimize time spent on fraud management will be an important factor in their investment decisions in 1-3 years2 98% of merchants report at least one form of fraud attack over the last 12 months2 59.4% increase of basis points, from 26.1 in 2019 to 41.6 in 20233 Fraud continues to evolve, and merchants are absorbing the cost — sophisticated attacks on one side, and overly aggressive controls that decline good customers on the other, with fraud and risk teams caught trying to balance both. Meet Fraud Management Approve More Good Customers with a Smart Fraud Management Solution Accertify’s Fraud Management helps you approve more good customers, while providing fraud detection and prevention using AI-driven machine learning, device intelligence, and user behavior analytics to detect and prevent fraud. How It Works From transaction to confident\n\ndecision. STEP 1 Review faster See multiple transactions in Queue view or drill into one transaction in Review view. STEP 2 Investigate smarter Access key transaction details, link data across multiple transactions, and view risk signals in one place. STEP 3 Improve future decisions Leverage data insights during review to support more consistent decisioning. STEP 4 Decide with confidence Make clear accept-or-reject decisions backed by the right transaction insights. Approve More Good Transactions Use risk-scoring, consortium data, and industry-tuned models to predict fraud patterns. Decide with Precision Decide with greater accuracy through AI-driven risk intelligence that adapts to emerging patterns, while configurable controls keep decisions aligned with policy. Smart Fraud Strategy Leverage on-demand reporting, performance insights and Strategic Risk Services to monitor fraud trends, optimize daily operations, and improve decisioning. 98.10% of transactions approved4 Accertify’s fraud management platform supports approving more good transactions, while detecting and preventing fraudulent ones — helping you gain and protect revenue. Capability Highlights Everything a fraud and risk team\n\nneeds, in one workspace. Real-Time Fraud Screening Screen transactions in real time for fraud, leveraging strong AI-powered models. Configurable Decisioning Enable scoring on all elements of a transaction including AI-driven insights from Accertify’s consortium network. KPI Dashboard Surface fraud insights on the dashboard that allow you to see high level metrics quickly. Report Generation Generate custom reports using selected inputs, including analyst, chargeback, resolution reports, and more. Data Validation Integration Integrate fraud screening and validation services to strengthen transaction risk assessment. Consortium Data Identify known threats across Accertify’s global network to support more precise decisions. The Predictive Yes Platform Built Into the Predictive Yes Platform Fraud Management doesn’t work alone. It’s one piece of Accertify’s Predictive Yes Platform, which joins identity, behavioral, and transaction signals across the entire customer lifecycle — from account creation through checkout and beyond. More than a fraud management platform, our fraud solution gives the tools, documentation, and strategic support needed to make more confident fraud decisions. See the full platform ACCOUNT LOGIN CHECKOUT POST-PURCHASE Account Protection Account Protection Fraud & Payments Chargeback Management Explore the Platform The rest of Accertify's fraud and risk\n\nsolutions. Abuse Prevention Stop returns abuse, refund fraud, and policy exploitation. Chargeback Management Automate dispute defense end to end. Account Protection Stop account takeover, credential abuse, and loyalty fraud. Payment Optimization Tune conversion and approval rates on payments. Frequently Asked Questions Questions About Fraud Management Is Accertify a fraud prevention software for high volume transactions? Yes, Accertify is fraud prevention software built for high-volume transactions. With more than $5.8B in fraud and abuse prevented in 2025, a 98.10% transaction approval rate by count, and 47% of clients achieving greater than 99% transaction approval, Accertify helps retailers protect revenue while approving more good customers. Trusted by many of the world’s leading brands for the past 19 years, Accertify is the best fraud management platform for large retailers, and any retailer working to stay ahead of fraud. Is Accertify a real-time fraud decisioning platform for large merchants? Yes, our fraud prevention platform works in real-time, through AI-driven machine learning, device intelligence, and user behavior analytics to support the approval of more good customers, while detecting and preventing fraud for merchants. Can you provide a card not present fraud prevention software comparison? Accertify has helped clients say yes to more customers, revenue, and growth for the past 19 years. Trusted by many of the world’s leading brands, Accertify delivers a 98.10% transaction approval rate by count, with 47% of clients achieving greater than 99% transaction approval. With more than $5.8B in fraud and abuse prevented in 2025, Accertify combines industry-leading tools, deep fraud expertise, and strategic support to help merchants approve more good transactions while reducing fraud risk. How does Accertify Fraud Management compare to Forter Fraud Management Accertify helps merchants tailor fraud strategy to their business with AI-driven risk intelligence that adapts to emerging patterns and configurable controls that keep decisions aligned with policy. AI-driven risk scoring, device intelligence, behavior analytics, reporting, and optional Strategic Risk Services help teams approve more legitimate transactions while maintaining visibility and control as fraud evolves. Accertify also connects Fraud Management with Chargeback Management to support a broader revenue protection lifecycle. With more than $5.8B in fraud and abuse prevented in 2025, Accertify delivers a 98.10% transaction approval rate by count, with 47% of clients achieving greater than 99% transaction approval. How does Accertify Fraud Management compare to Sardine AI? Accertify differentiates through proven enterprise scale, configurable control, and portfolio breadth. In 2025, Accertify processed more than 10 billion transactions, helped prevent $5.8B in fraud and abuse, and delivered a 98.10% average approval rate across the business, with approximately 45% of clients achieving greater than 99% transaction approval. Accertify helps merchants with fraud detection, approve more good transactions, tune decisioning strategies, and connect fraud prevention with Chargeback Management to address disputes and policy-abuse-related losses. How does Accertify Fraud Management compare to Riskified? Accertify brings together fraud prevention and chargeback management in a connected platform built for high-volume merchants. With configurable decisioning, AI-driven risk intelligence, device intelligence, behavior analytics, reporting, and optional Strategic Risk Services, Accertify helps teams adapt to changing fraud patterns while keeping decisions aligned with business policy. Accertify also gives merchants a clear path from prevention to recovery by connecting fraud insights with dispute workflows. In 2025, Accertify processed more than 10 billion transactions, helped prevent $5.8B in fraud and abuse, and delivered a 98.10% average approval rate across the business, with approximately 45% of clients achieving greater than 99% transaction approval. Do I need Accertify's full fraud platform to use Fraud Management Fraud Management can be purchased as a standalone solution. For merchants looking to optimize outcomes further, it can also be used with Accertify’s Chargeback Management solution to connect chargeback activity with broader fraud, order, and transaction data for a more complete view of risk and recovery opportunities. Sources: 1. Juniper Research. 2. 2026 MRC Global Payments and Fraud Report. 3. Federal Reserve Bank of Kansas City. 4. 2025 Accertify Client Data. Say Yes to Boosted Authorization Revenue. No to More Fraud Liability. Payment Optimization helps you say yes to more good transactions, improving the purchase experience, increasing authorization revenue, and managing liability. See it in action."
+      },
+      {
+        "id": 32986365,
+        "title": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance",
+        "url": "https://www.financialcontent.com/article/bizwire-2026-8-25-accertify-expands-fraud-prevention-capabilities-into-healthcare-with-hipaa-compliance",
+        "publisher": "FinancialContent Business Page",
+        "published_date": "2026-08-25T16:44:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify announced it has achieved HIPAA compliance, allowing healthcare organizations, HSA providers, pharmacies and healthcare-adjacent businesses to use its AI-powered Predictive Yes fraud prevention platform while safeguarding protected health information. The company cited healthcare fraud costing tens of billions annually and HSA assets near $174 billion at the end of 2025.",
+        "word_count": 499,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+            "code": "HLACAJAJ",
+            "is_primary": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": true
+          },
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20000278",
+            "name": "health care provider"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "626",
+            "name": "Technology & Computing"
+          },
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "andy mortland"
+          ],
+          "location": [],
+          "product": [
+            "hsa cards",
+            "hsa",
+            "health savings account"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9403451,
+        "full_text": "ⓘ This article is third-party content and does not represent the views of this site. We make no guarantees regarding its accuracy or completeness.\n\nHIPAA compliance enables healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses to leverage Accertify's AI-powered fraud prevention platform while meeting rigorous privacy and security requirements\n\nAccertify, a leading fraud decisioning provider whose Predictive Yes Platform helps merchants say yes to more good customers, more revenue, and more growth, today announced it has achieved HIPAA compliance, expanding the company's ability to help healthcare organizations and healthcare-adjacent businesses combat payment fraud, account takeover, and other forms of digital healthcare fraud while safeguarding protected health information (PHI).\n\nHealthcare fraud costs the industry tens of billions of dollars annually and increasingly extends beyond traditional claims fraud into digital payments, account access, and ecommerce. At the same time, the Health Savings Account (HSA) market continues to expand rapidly, reaching nearly 42 million accounts holding approximately $174 billion in assets at the end of 2025, according to research from Devenir. As HSA cards become a more common payment method for healthcare purchases, they also present an increasingly attractive target for account takeover, stolen credentials, and payment fraud.\n\nAchieving HIPAA compliance expands Accertify's ability to help healthcare organizations apply enterprise-grade fraud prevention across digital payment journeys involving protected health information. The company can now support a broader range of healthcare and healthcare-adjacent organizations, including HSA issuers, pharmacies, insurers, and medical supply retailers, while meeting the privacy and security standards required to safeguard sensitive patient data.\n\n\"Healthcare organizations are rapidly digitizing the way consumers pay for care, prescriptions, and other qualified expenses,\" said Andy Mortland, Vice President of Product and Development at Accertify. \"As healthcare payments become more connected and HSA adoption continues to grow, fraudsters are following the money. Organizations need fraud prevention that protects consumers without creating friction at the moments that matter most.\"\n\nFor healthcare payment organizations, that balance between fraud prevention, privacy, and customer experience is becoming increasingly critical.\n\nAs healthcare organizations, pharmacies, and healthcare retailers continue expanding digital payment options, Accertify's Predictive Yes Platform helps them confidently approve legitimate healthcare purchases while detecting fraud across the customer journey, enabling organizations to protect consumers, preserve trust, and grow revenue without introducing unnecessary friction.\n\nAbout Accertify\n\nAccertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at accertify.com.\n\nView source version on businesswire.com: https://www.businesswire.com/news/home/20260825741854/en/"
+      },
+      {
+        "id": 35075274,
+        "title": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance",
+        "url": "https://www.morningstar.com/news/business-wire/20260825741854/accertify-expands-fraud-prevention-capabilities-into-healthcare-with-hipaa-compliance",
+        "publisher": "Morningstar",
+        "published_date": "2026-08-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify announced HIPAA compliance, enabling its AI-powered fraud prevention platform to serve healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses. The company's Predictive Yes Platform now supports digital payment journeys involving protected health information, addressing healthcare fraud costs of tens of billions annually. HSA adoption continues to grow, with nearly 42 million accounts holding $174 billion in assets.",
+        "word_count": 511,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+            "code": "HLACAJAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          },
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "97",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "63",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "95",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "62",
+            "name": "Health Care and Social Assistance"
+          },
+          {
+            "code": "524114",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "52411",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "6324",
+            "name": "HOSPITAL & MEDICAL SERVICE PLANS"
+          },
+          {
+            "code": "6321",
+            "name": "ACCIDENT & HEALTH INSURANCE"
+          },
+          {
+            "code": "8000",
+            "name": "SERVICES-HEALTH SERVICES"
+          }
+        ],
+        "entities": {
+          "person": [
+            "andy mortland",
+            "tylor tourville"
+          ],
+          "location": [],
+          "product": [
+            "hsa cards",
+            "hsa",
+            "health savings account"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9403451,
+        "full_text": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance Provided by Business Wire\n\nAccertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance HIPAA compliance enables healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses to leverage Accertify's AI-powered fraud prevention platform while meeting rigorous privacy and security requirements Accertify, a leading fraud decisioning provider whose Predictive Yes Platform helps merchants say yes to more good customers, more revenue, and more growth, today announced it has achieved HIPAA compliance, expanding the company's ability to help healthcare organizations and healthcare-adjacent businesses combat payment fraud, account takeover, and other forms of digital healthcare fraud while safeguarding protected health information (PHI). Healthcare fraud costs the industry tens of billions of dollars annually and increasingly extends beyond traditional claims fraud into digital payments, account access, and ecommerce. At the same time, the Health Savings Account (HSA) market continues to expand rapidly, reaching nearly 42 million accounts holding approximately $174 billion in assets at the end of 2025, according to research from Devenir. As HSA cards become a more common payment method for healthcare purchases, they also present an increasingly attractive target for account takeover, stolen credentials, and payment fraud. Achieving HIPAA compliance expands Accertify's ability to help healthcare organizations apply enterprise-grade fraud prevention across digital payment journeys involving protected health information. The company can now support a broader range of healthcare and healthcare-adjacent organizations, including HSA issuers, pharmacies, insurers, and medical supply retailers, while meeting the privacy and security standards required to safeguard sensitive patient data. \"Healthcare organizations are rapidly digitizing the way consumers pay for care, prescriptions, and other qualified expenses,\" said Andy Mortland, Vice President of Product and Development at Accertify. \"As healthcare payments become more connected and HSA adoption continues to grow, fraudsters are following the money. Organizations need fraud prevention that protects consumers without creating friction at the moments that matter most.\" For healthcare payment organizations, that balance between fraud prevention, privacy, and customer experience is becoming increasingly critical. As healthcare organizations, pharmacies, and healthcare retailers continue expanding digital payment options, Accertify's Predictive Yes Platform helps them confidently approve legitimate healthcare purchases while detecting fraud across the customer journey, enabling organizations to protect consumers, preserve trust, and grow revenue without introducing unnecessary friction. About Accertify\n\nAccertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at accertify.com. Media Contact\n\nTylor Tourville\n\nT2 PR\n\ntylor@t2pr.agency View source version on businesswire.com: https://www.businesswire.com/news/home/20260825741854/en/"
+      },
+      {
+        "id": 32969884,
+        "title": "Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance",
+        "url": "https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-08-25T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify, a fraud decisioning provider based in Itasca, Illinois, announced it has achieved HIPAA compliance, allowing its AI-powered Predictive Yes Platform to serve healthcare organizations, HSA issuers, pharmacies and medical supply retailers. The company cites healthcare fraud costing tens of billions annually and HSA assets near $174 billion. No financial terms were disclosed.",
+        "word_count": 1338,
+        "original_language": "EN",
+        "author": "",
+        "countries": [
+          "USA"
+        ],
+        "industries": [
+          {
+            "name": "Governance, Risk & Compliance (GRC) + HIPAA/HITRUST/ISO Readiness",
+            "code": "HLACAJAJ",
+            "is_primary": true
+          },
+          {
+            "name": "A2A Payment Initiation Service Providers (PISPs)",
+            "code": "FSAMAFAB",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Regulatory Approvals & Certifications",
+            "code": "RC01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "news_analysis",
+          "label": "News analysis"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20001354",
+            "name": "healthcare industry"
+          },
+          {
+            "code": "20000479",
+            "name": "healthcare policy"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "52411",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "524114",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "andy mortland",
+            "tylor tourville t2 pr",
+            "tylor tourville"
+          ],
+          "location": [
+            "africa",
+            "middle east",
+            "itasca",
+            "itasca, ill."
+          ],
+          "product": [
+            "hsa cards",
+            "hsa",
+            "health savings account",
+            "software",
+            "supermarket"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 9375127,
+        "full_text": "Aug 25, 2026 8:00 AM Eastern Daylight Time\n\n# **Accertify Expands Fraud Prevention Capabilities into Healthcare with HIPAA Compliance**\n\nShare\n\n---\n\n*HIPAA compliance enables healthcare organizations, HSA providers, pharmacies, and healthcare-adjacent businesses to leverage Accertify's AI-powered fraud prevention platform while meeting rigorous privacy and security requirements*\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify, a leading fraud decisioning provider whose Predictive Yes Platform helps merchants say yes to more good customers, more revenue, and more growth, today announced it has achieved HIPAA compliance, expanding the company's ability to help healthcare organizations and healthcare-adjacent businesses combat payment fraud, account takeover, and other forms of digital healthcare fraud while safeguarding protected health information (PHI).\n\nHealthcare fraud costs the industry tens of billions of dollars annually and increasingly extends beyond traditional claims fraud into digital payments, account access, and ecommerce. At the same time, the Health Savings Account (HSA) market continues to expand rapidly, reaching nearly 42 million accounts holding approximately $174 billion in assets at the end of 2025, according to research from Devenir. As HSA cards become a more common payment method for healthcare purchases, they also present an increasingly attractive target for account takeover, stolen credentials, and payment fraud.\n\nAchieving HIPAA compliance expands Accertify's ability to help healthcare organizations apply enterprise-grade fraud prevention across digital payment journeys involving protected health information. The company can now support a broader range of healthcare and healthcare-adjacent organizations, including HSA issuers, pharmacies, insurers, and medical supply retailers, while meeting the privacy and security standards required to safeguard sensitive patient data.\n\n\"Healthcare organizations are rapidly digitizing the way consumers pay for care, prescriptions, and other qualified expenses,\" said Andy Mortland, Vice President of Product and Development at Accertify. \"As healthcare payments become more connected and HSA adoption continues to grow, fraudsters are following the money. Organizations need fraud prevention that protects consumers without creating friction at the moments that matter most.\"\n\nFor healthcare payment organizations, that balance between fraud prevention, privacy, and customer experience is becoming increasingly critical.\n\nAs healthcare organizations, pharmacies, and healthcare retailers continue expanding digital payment options, Accertify's Predictive Yes Platform helps them confidently approve legitimate healthcare purchases while detecting fraud across the customer journey, enabling organizations to protect consumers, preserve trust, and grow revenue without introducing unnecessary friction.\n\n**About Accertify**Accertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at [accertify.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Faccertify.com%2F&esheet=54593969&newsitemid=20260825741854&lan=en-US&anchor=accertify.com&index=1&md5=f3345eb400b4996ffe73f55fcbb9790b).\n\n## Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nIndustry:\n\n* [Software](/newsroom?industry=1000169)\n* [General Health](/newsroom?industry=1085807)\n* [Online Retail](/newsroom?industry=1050084)\n* [Professional Services](/newsroom?industry=1000150)\n* [Fintech](/newsroom?industry=1778659)\n* [Supermarket](/newsroom?industry=1000174)\n* [Technology](/newsroom?industry=1000178)\n* [Artificial Intelligence](/newsroom?industry=1778623)\n* [Security](/newsroom?industry=1050094)\n* [Retail](/newsroom?industry=1000162)\n* [Health Insurance](/newsroom?industry=1778633)\n* [Health](/newsroom?industry=1000088)\n\n### Accertify\n\n---\n\nRelease Summary\n\nAccertify announces it has achieved HIPAA compliance, expanding its ability to help healthcare-adjacent businesses combat payment fraud.\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance)\n\n---\n\n### Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nSocial Media Profiles\n\n[Accertify on LinkedIn](https://www.linkedin.com/company/accertify-inc-/)\n\n[Accertify on X](https://x.com/AccertifyInc)\n\nMore News From Accertify\n\nGet RSS Feed\n\n[## Accertify and Liminal Release First Empirical Study Proving Fraud-Cyber Convergence Works - and Defining How to Do It Right](/news/home/20260722695686/en/Accertify-and-Liminal-Release-First-Empirical-Study-Proving-Fraud-Cyber-Convergence-Works---and-Defining-How-to-Do-It-Right)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify releases landmark research proving fraud-cyber convergence improves business outcomes and identifies top-performing practices....\n\n[## Accertify's Q2 Global Air Travel Fraud Report Finds Fraud Pressure Intensifying Across Middle East and Africa](/news/home/20260715427770/en/Accertifys-Q2-Global-Air-Travel-Fraud-Report-Finds-Fraud-Pressure-Intensifying-Across-Middle-East-and-Africa)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify publishes Q2 analysis of nearly 133 million airline booking transactions examining how fraud pressure varies across global airline markets...\n\n[## Accertify Sets Bold Vision for “More Yes” – a New Era of AI-Powered Commerce Enablement](/news/home/20260528270619/en/Accertify-Sets-Bold-Vision-for-More-Yes-a-New-Era-of-AI-Powered-Commerce-Enablement)\n\nITASCA, Ill.--([BUSINESS WIRE](https://www.businesswire.com))--Accertify announces the Predictive Yes Platform to help businesses say \"yes\" to more customers, without getting burned by fraud....\n\n[Back to Newsroom](/newsroom)\n\n### Accertify\n\n---\n\nRelease Summary\n\nAccertify announces it has achieved HIPAA compliance, expanding its ability to help healthcare-adjacent businesses combat payment fraud.\n\nRelease Versions\n\n[English](https://www.businesswire.com/news/home/20260825741854/en/Accertify-Expands-Fraud-Prevention-Capabilities-into-Healthcare-with-HIPAA-Compliance)\n\n---\n\n### Contacts\n\n**Media Contact**  \nTylor Tourville\n  \nT2 PR\n  \n[tylor@t2pr.agency](mailto:tylor@t2pr.agency)\n\nSocial Media Profiles\n\n[Accertify on LinkedIn](https://www.linkedin.com/company/accertify-inc-/)\n\n[Accertify on X](https://x.com/AccertifyInc)\n\n## Wish your news had this kind of reach?\n\n[Sign Up](/sign-up/account)[Learn About Business Wire](/why-business-wire)\n\n### Privacy Preference Center\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.\n[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nStrictly Necessary Cookies\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Functional Cookies\n\nFunctional Cookies\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Performance Cookies\n\nPerformance Cookies\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Targeting Cookies\n\nTargeting Cookies\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\n[Cookies Details‎](javascript:void(0))\n\n#### Social Media Cookies\n\nSocial Media Cookies\n\nThese cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.\n\n[Cookies Details‎](javascript:void(0))\n\nConfirm My Choices\n\n[Back Button\n\nBack](javascript:void(0)) \n\n### Performance Cookies\n\nVendor Search Search Icon [Filter Icon](javascript:void(0))\n\n[Clear Filters](javascript:void(0))\n\nInformation storage and access\n\nApply\n\nConsent Leg.Interest\n\nAll Consent Allowed\n\nSelect All Vendors\n\nSelect All Vendors\n\nAll Consent Allowed\n\n* ### 33Across\n\n  #### host description\n\n  #### View Cookies\n\n  REPLACE-WITH-DYANMIC-HOST-ID\n\n  + Name\n\n    cookie name\n\n* ### 33Across\n\n  [View Privacy Notice](#)\n\n  3 Purposes\n\n  REPLACE-WITH-DYANMIC-VENDOR-ID\n\n  Arrow\n\n  Consent Purposes\n\n  Location Based Ads\n\n  Consent Allowed\n\n  Legitimate Interest Purposes\n\n  Personalize\n\n  [Require Opt-Out](#)\n\n  Special Purposes\n\n  Location Based Ads\n\n  Features\n\n  Location Based Ads\n\n  Special Features\n\n  Location Based Ads\n\nConfirm My Choices\n\nBy clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Cookie Policy](https://services.businesswire.com/cookie-policy)\n\nCookies Settings Accept All Cookies"
+      },
+      {
+        "id": 25226723,
+        "title": "Accertify Sets Bold Vision for “More Yes” – a New Era of AI-Powered Commerce Enablement",
+        "url": "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/",
+        "publisher": "Aijourn",
+        "published_date": "2026-05-28T14:05:57",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify announced the Predictive Yes Platform, a new enterprise fraud decisioning technology that connects identity, behavioral, and purchase signals across the full customer lifecycle from account creation through post-purchase. The platform leverages data from over 10 billion transactions and $1.25 trillion in commerce processed annually, alongside a consortium approach where 98% of clients share anonymized fraud intelligence across retail, travel, and other sectors. New AI enhancements include machine learning for automated manual review, graph network capabilities for real-time fraud ring detection, and industry-specific AI models for deeper vertical precision.",
+        "word_count": 759,
+        "original_language": "EN",
+        "author": "Business Wire",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Fraud Detection & Transaction Monitoring",
+            "code": "FSAMALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Verification & Risk Signals (Device Fingerprinting, Behavioral Biometrics)",
+            "code": "HDADALAJ",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522320",
+            "name": "Finance and Insurance"
+          },
+          {
+            "code": "541512",
+            "name": "Professional, Scientific, and Technical Services"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "greg dukat",
+            "tylor tourville"
+          ],
+          "location": [
+            "itasca, ill."
+          ],
+          "product": [],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2349516,
+        "full_text": "To reflect its connected, continuous ML-based fraud decisioning capabilities across the full customer lifecycle, Accertify’s platform is now the Predictive Yes Platform\n\nITASCA, Ill.–(BUSINESS WIRE)–The fraud problem has shifted. For years, merchants have focused their fraud defenses at checkout, at the moment of transaction. Meanwhile fraudsters have shifted their attack methods, exploiting account creation, login, and account changes long before a purchase is made. At the same time, the explosion of first-party abuse – like refund fraud, promotion gaming, and policy exploitation by people who look exactly like legitimate customers – has extended fraud risk past the point of payment. Against this backdrop, a convergence between fraud and cybersecurity is occurring as the two disciplines join forces and work together on account takeover, identity confidence, and card not present (CNP) fraud. This convergence recognizes that fraudsters are treating the entire customer lifecycle as a single attack surface. In the meantime, businesses must still drive growth. Accertify, Inc. today announced the Predictive Yes Platform, a new category of enterprise technology that addresses these challenges by joining identity, behavioral, historical, and purchase signals across the full customer lifecycle and decisioning on them continuously, from the moment a customer arrives to long after they’ve checked out. The platform makes possible a new kind of yes: not reckless, not naive, but precise, confident, and data-backed. That is the vision Accertify calls “More Yes.” “Fraudsters don’t respect org charts,” said Greg Dukat, CEO of Accertify. “They treat account creation, login, checkout, and post-purchase as one continuous attack surface. The Predictive Yes Platform is built the same way – one connected system across the full customer lifecycle, so businesses can approve more good customers with confidence and fuel growth – without the wrong people coming along for the ride.” The Predictive Yes Platform The Predictive Yes Platform connects signals that have historically lived in silos – identity signals at account creation, behavioral signals at login and account change, browsing and shopping signals at consideration, purchase signals at checkout, and outcome signals through returns, refunds, and chargebacks – into a single, continuously learning view of each customer. Rather than making isolated decisions at individual transaction points, the platform decisions risk at every stage of the journey, so that by the time a good customer reaches checkout, the answer is already clear. That intelligence is fueled by three structural advantages. The first is data at scale: Over the past 12-month period from May 1, 2025, to April 30, 2026, according to Accertify client data, the company processed more than 10 billion transactions representing $1.25 trillion in commerce.\n\nThe second is a consortium approach in which 98% of Accertify clients have opted in to share anonymized fraud intelligence across hundreds of enterprise brands in retail, travel, regulated gaming, entertainment and media, restaurants, ticketing, financial services, and other sectors – so a pattern identified anywhere in the network protects everyone, and a trusted customer verified anywhere moves faster everywhere.\n\nThe third is layered AI-powered models, from decision trees to supervised machine learning to graph networks and more – each purpose-built for specific fraud types and using industry-specific signals – working in concert to stay ahead of evolving attacks. Those advantages are continuously extended through platform innovation. Accertify’s most recent enhancements put AI at the center of decisioning in new ways. A new AI-driven capability applies machine learning to the manual review queue before a human analyst ever sees it, automating a significant portion of reviews and reducing the over-marking that costs merchants good customers. Graph network capabilities now bring real-time detection of fraud rings and coordinated attacks by mapping complex, non-linear relationships between identities, devices, behaviors, and transactions. And updated industry-specific AI models bring deeper vertical signal training to bear, improving precision for Accertify’s largest client segments. About Accertify Accertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company’s Predictive Yes Platform helps businesses say yes to more – more good customers, more revenue, and more growth – without getting burned. It’s a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That’s the More Yes difference. Learn more at accertify.com. Contacts Media Contact\n\nTylor Tourville\n\n\n\nT2 PR\n\n\n\ntylor@t2pr.agency"
+      },
+      {
+        "id": 25227004,
+        "title": "Accertify Sets Bold Vision for “More Yes” – a New Era of AI-Powered Commerce Enablement",
+        "url": "https://www.businesswire.com/news/home/20260528270619/en/Accertify-Sets-Bold-Vision-for-More-Yes-a-New-Era-of-AI-Powered-Commerce-Enablement",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-05-28T13:46:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify, Inc. announced its Predictive Yes Platform, a new enterprise fraud decisioning technology that connects identity, behavioral, historical, and purchase signals across the full customer lifecycle to help businesses approve more legitimate transactions. The platform processes over 10 billion transactions representing $1.25 trillion in commerce annually, with 98% of Accertify clients participating in a consortium that shares anonymized fraud intelligence across hundreds of enterprise brands. New AI-driven capabilities include automated manual review queuing, real-time fraud ring detection via graph networks, and industry-specific machine learning models designed to reduce false positives and fuel business growth.",
+        "word_count": 888,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Risk Scoring, Decisioning & Orchestration",
+            "code": "FSAMALAB",
+            "is_primary": true
+          },
+          {
+            "name": "Marketplace & Platform Trust & Safety (Buyer/Seller Abuse)",
+            "code": "HDADALAI",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": true,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000271",
+            "name": "financial and business service"
+          },
+          {
+            "code": "20000205",
+            "name": "new product or service"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "115",
+            "name": "Business and Finance"
+          },
+          {
+            "code": "59",
+            "name": "Business and Finance"
+          }
+        ],
+        "naics_codes": [
+          {
+            "code": "522320",
+            "name": "Finance and Insurance"
+          }
+        ],
+        "sic_codes": [
+          {
+            "code": "7370",
+            "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+          }
+        ],
+        "entities": {
+          "person": [
+            "greg dukat",
+            "carleigh jaques"
+          ],
+          "location": [
+            "itasca, ill."
+          ],
+          "product": [
+            "accertify"
+          ],
+          "event": []
+        },
+        "newsworthiness_score": 1,
+        "group_id": 2349516,
+        "full_text": "Accertify Sets Bold Vision for “More Yes” – a New Era of AI-Powered Commerce Enablement\n\nShare\n\nTo reflect its connected, continuous ML-based fraud decisioning capabilities across the full customer lifecycle, Accertify’s platform is now the Predictive Yes Platform\n\nITASCA, Ill.--(BUSINESS WIRE)--The fraud problem has shifted. For years, merchants have focused their fraud defenses at checkout, at the moment of transaction. Meanwhile fraudsters have shifted their attack methods, exploiting account creation, login, and account changes long before a purchase is made. At the same time, the explosion of first-party abuse - like refund fraud, promotion gaming, and policy exploitation by people who look exactly like legitimate customers - has extended fraud risk past the point of payment. Against this backdrop, a convergence between fraud and cybersecurity is occurring as the two disciplines join forces and work together on account takeover, identity confidence, and card not present (CNP) fraud. This convergence recognizes that fraudsters are treating the entire customer lifecycle as a single attack surface. In the meantime, businesses must still drive growth. Accertify, Inc. today announced the Predictive Yes Platform, a new category of enterprise technology that addresses these challenges by joining identity, behavioral, historical, and purchase signals across the full customer lifecycle and decisioning on them continuously, from the moment a customer arrives to long after they've checked out. The platform makes possible a new kind of yes: not reckless, not naive, but precise, confident, and data-backed. That is the vision Accertify calls \"More Yes.\" “Fraudsters don’t respect org charts,” said Greg Dukat, CEO of Accertify. “They treat account creation, login, checkout, and post-purchase as one continuous attack surface. The Predictive Yes Platform is built the same way - one connected system across the full customer lifecycle, so businesses can approve more good customers with confidence and fuel growth - without the wrong people coming along for the ride.” The Predictive Yes Platform The Predictive Yes Platform connects signals that have historically lived in silos - identity signals at account creation, behavioral signals at login and account change, browsing and shopping signals at consideration, purchase signals at checkout, and outcome signals through returns, refunds, and chargebacks - into a single, continuously learning view of each customer. Rather than making isolated decisions at individual transaction points, the platform decisions risk at every stage of the journey, so that by the time a good customer reaches checkout, the answer is already clear. That intelligence is fueled by three structural advantages. The first is data at scale: Over the past 12-month period from May 1, 2025, to April 30, 2026, according to Accertify client data, the company processed more than 10 billion transactions representing $1.25 trillion in commerce.\n\nThe second is a consortium approach in which 98% of Accertify clients have opted in to share anonymized fraud intelligence across hundreds of enterprise brands in retail, travel, regulated gaming, entertainment and media, restaurants, ticketing, financial services, and other sectors - so a pattern identified anywhere in the network protects everyone, and a trusted customer verified anywhere moves faster everywhere.\n\nThe third is layered AI-powered models, from decision trees to supervised machine learning to graph networks and more - each purpose-built for specific fraud types and using industry-specific signals - working in concert to stay ahead of evolving attacks. Those advantages are continuously extended through platform innovation. Accertify's most recent enhancements put AI at the center of decisioning in new ways. A new AI-driven capability applies machine learning to the manual review queue before a human analyst ever sees it, automating a significant portion of reviews and reducing the over-marking that costs merchants good customers. Graph network capabilities now bring real-time detection of fraud rings and coordinated attacks by mapping complex, non-linear relationships between identities, devices, behaviors, and transactions. And updated industry-specific AI models bring deeper vertical signal training to bear, improving precision for Accertify's largest client segments. About Accertify Accertify enables commerce by doing one thing extraordinarily well: pinpointing fraud. The company's Predictive Yes Platform helps businesses say yes to more - more good customers, more revenue, and more growth - without getting burned. It's a precise, confident, data-backed yes, made possible by joining signals across the entire customer lifecycle through unmatched data volume, layered AI-powered models, and a consortium approach that protects clients from bad actors spotted anywhere in the network while unlocking business with good actors verified anywhere in the network. With more than 10 billion transactions and over $1 trillion in commerce processed in 2025 alone, Accertify delivers the intelligence and precision that fraud and payments teams need to say yes confidently and enable growth. That's the More Yes difference. Learn more at accertify.com.\n\nAccertify Release Summary Accertify announces the Predictive Yes Platform to help businesses say \"yes\" to more customers, without getting burned by fraud. Release Versions English Social Media Profiles Accertify on LinkedIn Accertify on X\n\nMore News From Accertify\n\nGet RSS Feed\n\nAccertify Appoints Carleigh Jaques to Board of Directors ITASCA, Ill.--( BUSINESS WIRE )--Accertify, Inc., a leading unified risk decisioning platform provider, today announced the appointment of Carleigh Jaques to its Board of Directors. Jaques brings more than 20 years of leadership experience across fraud, payments, risk, and digital identity, including a distinguished 15-year tenure at Visa Inc. At Visa, Jaques most recently served as Senior Vice President and Global Head of Risk & Identity Solutions, where she led the company’s global fraud an..."
+      },
+      {
+        "id": 21727657,
+        "title": "Accertify’s Attack State Combats Coordinated Login Attacks",
+        "url": "https://www.crowdfundinsider.com/2026/03/266650-accertifys-attack-state-combats-coordinated-login-attacks/",
+        "publisher": "CrowdFund Insider",
+        "published_date": "2026-03-15T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify announced the launch of Attack State, a new capability within its Account Protection solution designed to detect and respond to coordinated login attacks and automated threats targeting customer accounts. The solution continuously analyzes login activity against broader traffic patterns to identify anomalies associated with bot-driven campaigns, credential stuffing, and account takeover attempts, providing both fraud and cybersecurity teams with automated alerts and contextual intelligence. Accertify will present Attack State at MRC Vegas 2026, taking place March 16-19.",
+        "word_count": 323,
+        "original_language": "EN",
+        "author": "Tony Zerucha",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Account Takeover (ATO) Prevention",
+            "code": "HDADALAA",
+            "is_primary": true
+          },
+          {
+            "name": "Credential Stuffing & Password Attack Protection",
+            "code": "HDADALAC",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          },
+          {
+            "name": "Emerging Technologies",
+            "code": "II01",
+            "is_primary": false
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000229",
+            "name": "computer security"
+          },
+          {
+            "code": "20000603",
+            "name": "security measures (defense)"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [],
+        "entities": {
+          "person": [
+            "andy mortland"
+          ],
+          "location": [],
+          "product": [
+            "attack state"
+          ],
+          "event": [
+            "mrc vegas 2026"
+          ]
+        },
+        "newsworthiness_score": 0.8197,
+        "group_id": 1028955,
+        "full_text": "Accertify, a unified risk decisioning platform provider, today announced the launch of Attack State, a new capability within its Account Protection solution that helps organizations detect and respond to coordinated login attacks and other automated threats targeting customer accounts.\n\nAttack State analyzes login activity continuously and compares it to the organization’s broader traffic patterns to determine when a client’s environment may be under active attack. By comparing expected network behavior with real-time activity, the capability identifies anomalies associated with bot-driven campaigns, credential stuffing, and account takeover attempts.\n\nAttack State provides both fraud and cybersecurity teams with greater visibility into account access attempts across web, mobile, and API environments. When abnormal activity is detected, Attack State surfaces alerts and contextual intelligence automatically, helping cybersecurity teams assess potential threats, monitor system performance, and adjust perimeter defenses if necessary.\n\nFor fraud prevention teams, the benefit is earlier awareness of attacks that may otherwise go unnoticed until downstream fraud or account compromise occurs. Additionally, Attack State allows Accertify’s models to adjust to the traffic anomaly and continue to allow good users through while blocking malicious bad actors.\n\n“Customer accounts are one of the most valuable targets for attackers today,” said Andy Mortland, senior vice president of product and development, Accertify. “This is why we must broaden fraud controls beyond the point of checkout alone. Organizations need visibility into signals across the entire customer journey, from login activity to transactions to post-purchase.\n\n“Attack State is an example of the power of taking a holistic, platform approach to fraud, one that connects early attack signals with downstream fraud decisioning, giving fraud and cybersecurity teams the context they need to respond faster and protect customer accounts.”\n\nAccertify will be presenting Attack State during a workshop titled, Protecting Accounts Before Fraud Reaches Checkout, at MRC Vegas 2026, taking place March 16-19. Accertify is also a sponsor and exhibitor of the conference. Please visit booth #211 to meet with the Accertify team at the event to learn more."
+      },
+      {
+        "id": 21659306,
+        "title": "Accertify Introduces Attack State Intelligence to Strengthen Account Protection and Detect Coordinated Login Attacks",
+        "url": "https://www.businesswire.com/news/home/20260313152197/en/Accertify-Introduces-Attack-State-Intelligence-to-Strengthen-Account-Protection-and-Detect-Coordinated-Login-Attacks",
+        "publisher": "Business Wire Blog",
+        "published_date": "2026-03-13T00:00:00",
+        "sentiment": "Positive",
+        "sentiment_score": 1,
+        "ai_summary": "Accertify, a unified risk decisioning platform provider, announced the launch of Attack State, a new capability within its Account Protection solution designed to detect coordinated login attacks and automated threats targeting customer accounts. The capability analyzes login activity in real time and compares it to an organization's broader traffic patterns to identify anomalies associated with bot-driven campaigns, credential stuffing, and account takeover attempts across web, mobile, and API environments. Accertify will present Attack State at MRC Vegas 2026, taking place March 16-19.",
+        "word_count": 543,
+        "original_language": "EN",
+        "author": "",
+        "countries": [],
+        "industries": [
+          {
+            "name": "Credential Stuffing & Password Attack Protection",
+            "code": "HDADALAC",
+            "is_primary": true
+          },
+          {
+            "name": "Account Takeover (ATO) Prevention",
+            "code": "HDADALAA",
+            "is_primary": false
+          }
+        ],
+        "tags": [
+          {
+            "name": "Product Launches & Enhancements",
+            "code": "SD01",
+            "is_primary": true
+          }
+        ],
+        "company_mentions": [
+          {
+            "uuid": "0003l7p",
+            "name": "Accertify",
+            "website": "http://www.accertify.com",
+            "is_primary": true
+          }
+        ],
+        "article_type": {
+          "code": "explainer",
+          "label": "Explainer"
+        },
+        "is_press_release": true,
+        "is_opinion": false,
+        "is_breaking": true,
+        "iptc_codes": [
+          {
+            "code": "20000229",
+            "name": "computer security"
+          },
+          {
+            "code": "20000086",
+            "name": "cyber crime"
+          }
+        ],
+        "iab_categories": [
+          {
+            "code": "618",
+            "name": "Technology & Computing"
+          }
+        ],
+        "naics_codes": [],
+        "sic_codes": [
+          {
+            "code": "7373",
+            "name": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN"
+          }
+        ],
+        "entities": {
+          "person": [
+            "carleigh jaques",
+            "andy mortland"
+          ],
+          "location": [
+            "itasca, ill.",
+            "itasca",
+            "ill."
+          ],
+          "product": [
+            "attack state"
+          ],
+          "event": [
+            "mrc vegas 2026"
+          ]
+        },
+        "newsworthiness_score": 0.957,
+        "group_id": 1028955,
+        "full_text": "Accertify Introduces Attack State Intelligence to Strengthen Account Protection and Detect Coordinated Login Attacks\n\nShare\n\nNew capability helps organizations identify abnormal traffic patterns and account takeover attacks in real time\n\nITASCA, Ill.--(BUSINESS WIRE)--Accertify, a leading unified risk decisioning platform provider, today announced the launch of Attack State, a new capability within its Account Protection solution that helps organizations detect and respond to coordinated login attacks and other automated threats targeting customer accounts. Attack State analyzes login activity continuously and compares it to the organization’s broader traffic patterns to determine when a client’s environment may be under active attack. By comparing expected network behavior with real-time activity, the capability identifies anomalies associated with bot-driven campaigns, credential stuffing, and account takeover attempts. Attack State provides both fraud and cybersecurity teams with greater visibility into account access attempts across web, mobile, and API environments. When abnormal activity is detected, Attack State surfaces alerts and contextual intelligence automatically, helping cybersecurity teams assess potential threats, monitor system performance, and adjust perimeter defenses if necessary. For fraud prevention teams, the benefit is earlier awareness of attacks that may otherwise go unnoticed until downstream fraud or account compromise occurs. Additionally, Attack State allows Accertify's models to adjust to the traffic anomaly and continue to allow good users through while blocking malicious bad actors. “Customer accounts are one of the most valuable targets for attackers today,” said Andy Mortland, senior vice president of product and development, Accertify. “This is why we must broaden fraud controls beyond the point of checkout alone. Organizations need visibility into signals across the entire customer journey, from login activity to transactions to post-purchase. Attack State is an example of the power of taking a holistic, platform approach to fraud, one that connects early attack signals with downstream fraud decisioning, giving fraud and cybersecurity teams the context they need to respond faster and protect customer accounts.” Accertify will be presenting Attack State during a workshop titled, Protecting Accounts Before Fraud Reaches Checkout, at MRC Vegas 2026, taking place March 16-19. Accertify is also a sponsor and exhibitor of the conference. Please visit booth #211 to meet with the Accertify team at the event to learn more. About Accertify\n\nAccertify, Inc., is a leading unified risk decisioning platform provider, spanning fraud prevention, chargeback management, account protection, abuse prevention, and payment optimization solutions to clients spanning diverse industries worldwide. Accertify’s platform protects digital commerce, helping clients grow their business by driving down fraud-related losses, simplifying business processes, all while upholding the consumer experience. To learn more about Accertify, visit www.accertify.com.\n\nAccertify, Inc. Release Summary Accertify announces the launch of Attack State, a new capability that helps organizations detect and respond to coordinated login attacks. Release Versions English Social Media Profiles Accertify on LinkedIn Accertify on X\n\nMore News From Accertify, Inc.\n\nGet RSS Feed\n\nAccertify Appoints Carleigh Jaques to Board of Directors ITASCA, Ill.--( BUSINESS WIRE )--Accertify, Inc., a leading unified risk decisioning platform provider, today announced the appointment of Carleigh Jaques to its Board of Directors. Jaques brings more than 20 years of leadership experience across fraud, payments, risk, and digital identity, including a distinguished 15-year tenure at Visa Inc. At Visa, Jaques most recently served as Senior Vice President and Global Head of Risk & Identity Solutions, where she led the company’s global fraud an..."
+      }
+    ],
+    "credits_consumed": 0.18
+  }
+}

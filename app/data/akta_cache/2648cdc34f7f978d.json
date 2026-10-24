@@ -1,0 +1,92 @@
+{
+  "request": {
+    "method": "GET",
+    "path": "/api/v1/company/enrichment?company=0000gqh&sections=funding_detail",
+    "body": null
+  },
+  "fetchedAt": "2026-10-24T18:06:03.856Z",
+  "data": {
+    "data": {
+      "uuid": "0000gqh",
+      "funding_detail": {
+        "funding_overview": {
+          "funding_stage": {
+            "code": "series_b",
+            "label": "Series B"
+          },
+          "last_funding_date": {
+            "month": 7,
+            "year": 2022
+          },
+          "total_funding_usd": 74100000
+        },
+        "funding_rounds": [
+          {
+            "id": 440937,
+            "date": {
+              "month": 7,
+              "year": 2022
+            },
+            "round": {
+              "code": "corporate_funded",
+              "label": "Corporate-Funded"
+            }
+          },
+          {
+            "id": 297982,
+            "date": {
+              "month": 4,
+              "year": 2021
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          },
+          {
+            "id": 301754,
+            "date": {
+              "month": 10,
+              "year": 2019
+            },
+            "round": {
+              "code": "series_b",
+              "label": "Series B"
+            }
+          }
+        ],
+        "investors": [
+          {
+            "name": "Straumann Hld",
+            "type": {
+              "code": "public",
+              "label": "Public"
+            },
+            "uuid": "002wmfn",
+            "website": "https://www.straumann.com/en/dental-professionals.html"
+          },
+          {
+            "name": "Delta Dental",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "0004t7o",
+            "website": "https://www.deltadentalins.com"
+          },
+          {
+            "name": "Steadview Capital",
+            "type": {
+              "code": "private",
+              "label": "Private"
+            },
+            "uuid": "00053te",
+            "website": "http://steadview.com/"
+          }
+        ],
+        "note": "Additional data available on Enterprise tier: 3 more funding rounds; 5 more investors; last funding date; funding round details - date, investors, amount; investor details - date of entry and rounds participated."
+      }
+    },
+    "credits_consumed": 3
+  }
+}
