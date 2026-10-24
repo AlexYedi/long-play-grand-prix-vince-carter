@@ -1,6 +1,6 @@
 # Judges: who's in the room and what the demo shows them
 
-**Event:** Deal Flow, NYC's first VC hackathon. Hosted by localhost:nyc and VCLab at betaworks on 2026-10-24: one day, teams of four, live demos judged by NYC fund partners and operators. The prize is intros to the judges' funds. No scoring rubric was published, so the working rule is from the event page: "both slick code and a real business."
+**Event:** Deal Flow, NYC's first VC hackathon. Hosted by localhost:nyc and VCLab at betaworks on 2026-10-24: one day, teams of four, live demos judged by NYC fund partners and operators. The prize is intros to the judges' funds. A rubric is now published (Design, Uniqueness, Execution, Business feasibility, 1–5 each; see `docs/event-rules-and-setup.md`). Before it was, the working rule came from the event page: "both slick code and a real business."
 
 **Our track:** Track 4, Funds: "make LPs as informed as their GPs." Built GP-side, for emerging managers.
 

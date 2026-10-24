@@ -5,3 +5,10 @@ __pycache__/
 *.pyc
 node_modules/
 .venv/
+
+# Raw interview audio and transcripts stay local (see .claude/references/build-in-public.md)
+interviews/*.m4a
+interviews/*.mp3
+interviews/*.wav
+interviews/*Transcript*
+interviews/*REVIEW*
