@@ -1,0 +1,78 @@
+{
+  "bank": "lp-update-orchestrator",
+  "published_at": "2026-10-24T19:06:26.175Z",
+  "versions": {
+    "ledger/2026-Q3.json": {
+      "unchanged": false,
+      "version": {
+        "at": 1792868776.6565883,
+        "author": "assistant-f18078a8845944b4a662da7c430eacd9",
+        "branch": "main",
+        "id": "5dac2163de3d",
+        "merged_from": null,
+        "message": "extractor-v2 + reconciler: Halyard Fund I Q3 2026 ledger (synthetic fund)",
+        "number": 19,
+        "parent": "280c9c8951b3",
+        "stats": {
+          "added": 1,
+          "modified": 0,
+          "removed": 0
+        }
+      }
+    },
+    "market/universe.json": {
+      "unchanged": false,
+      "version": {
+        "at": 1792868776.8146114,
+        "author": "assistant-f18078a8845944b4a662da7c430eacd9",
+        "branch": "main",
+        "id": "f63778099d3d",
+        "merged_from": null,
+        "message": "Real funds (March Capital, Left Lane) and Akta-defined competitor sets",
+        "number": 20,
+        "parent": "5dac2163de3d",
+        "stats": {
+          "added": 1,
+          "modified": 0,
+          "removed": 0
+        }
+      }
+    },
+    "market/launch_velocity.json": {
+      "unchanged": false,
+      "version": {
+        "at": 1792868786.0678287,
+        "author": "assistant-f18078a8845944b4a662da7c430eacd9",
+        "branch": "main",
+        "id": "29049a350f28",
+        "merged_from": null,
+        "message": "launch-analyst: tiered launches and velocity vs. competitors (akta.pro)",
+        "number": 21,
+        "parent": "f63778099d3d",
+        "stats": {
+          "added": 1,
+          "modified": 0,
+          "removed": 0
+        }
+      }
+    },
+    "market/customer_adoption.json": {
+      "unchanged": false,
+      "version": {
+        "at": 1792868786.2372496,
+        "author": "assistant-f18078a8845944b4a662da7c430eacd9",
+        "branch": "main",
+        "id": "67b9a9b2503e",
+        "merged_from": null,
+        "message": "adoption-analyst: new public customers vs. competitors (akta.pro)",
+        "number": 22,
+        "parent": "29049a350f28",
+        "stats": {
+          "added": 1,
+          "modified": 0,
+          "removed": 0
+        }
+      }
+    }
+  }
+}

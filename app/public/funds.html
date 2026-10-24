@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Real Funds vs. Market</title>
+<style>
+  :root { --ink:#1a1a1a; --muted:#666; --line:#e5e5e5; --red:#b42318; --amber:#b54708; --green:#067647; --bg:#fff; }
+  body { font: 14px/1.45 -apple-system, system-ui, sans-serif; color: var(--ink); background: var(--bg); margin: 0; padding: 24px 32px; }
+  h1 { font-size: 20px; margin: 0 0 4px; } h2 { font-size: 16px; margin: 28px 0 6px; } h3 { font-size: 14px; margin: 18px 0 6px; }
+  .cap { color: var(--muted); font-size: 12px; } .tag { font-size: 11px; padding: 1px 6px; border-radius: 3px; background: #eef4ff; color: #1849a9; }
+  table { border-collapse: collapse; width: 100%; margin: 6px 0; } th, td { text-align: left; padding: 5px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-weight: 600; color: var(--muted); font-size: 12px; } tr.me td { background: #fffbeb; font-weight: 600; }
+  .up { color: var(--green); } .down { color: var(--red); } a { color: #1849a9; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; } nav a { margin-right: 16px; }
+</style>
+</head>
+<body>
+<nav class="cap"><a href="/">← Halyard review (synthetic fund)</a> <span class="tag">REAL DATA · akta.pro</span></nav>
+<h1>Real funds vs. the market</h1>
+<div class="cap" id="meta">Loading…</div>
+<div id="root"></div>
+<script>
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+(async () => {
+  const [u, L, A] = await Promise.all(['universe.json', 'universe_launches.json', 'universe_adoption.json'].map((f) => fetch('/api/data/' + f).then((r) => r.json())));
+  document.getElementById('meta').innerHTML = `Portfolios from Akta investor data · competitor sets = Akta's own peer list · window ${esc(L.window.start)} → ${esc(L.window.end)} · T1 new product line/clearance, T2 major capability, T3 minor · velocity = weighted launches per 90 days · customers = organisations publicly announcing they use the company, quote-verified`;
+  const byCo = Object.fromEntries(A.companies.map((c) => [c.akta_id, c]));
+  let html = '';
+  for (const f of u.funds) {
+    html += `<h2>${esc(f.name)} <span class="cap">· ${f.portfolio_size_in_akta} portfolio companies in Akta · showing ${f.portcos.length}</span></h2>`;
+    for (const p of f.portcos) {
+      const lg = L.groups.find((g) => g.portco_akta_id === p.akta_id) || {};
+      const ag = A.groups.find((g) => g.portco_akta_id === p.akta_id) || {};
+      const me = byCo[p.akta_id] || {};
+      html += `<h3>${esc(p.name)} <span class="cap">${esc(p.product_category || '')}</span></h3><div class="grid"><div>
+        <div class="cap">Product velocity: rank ${lg.portco_rank ?? '–'} of ${lg.of ?? '–'} · ${lg.portco_vs_median ?? '–'}× competitor median${lg.portco_funding_window ? ` · around ${esc(lg.portco_funding_window.round)} (${esc(lg.portco_funding_window.date.slice(0, 7))}): ${lg.portco_funding_window.pre} → ${lg.portco_funding_window.post}` : ''}</div>
+        <table><tr><th>Company</th><th>Stage</th><th>Headcount</th><th>T1/T2/T3</th><th>Velocity</th></tr>${(lg.leaderboard || []).map((r) => `<tr class="${r.akta_id === p.akta_id ? 'me' : ''}"><td>${esc(r.name)}</td><td>${esc(r.stage || '')}</td><td>${esc(r.headcount ?? '')}</td><td>${r.tiers ? `${r.tiers[1]}/${r.tiers[2]}/${r.tiers[3]}` : ''}</td><td>${esc(r.velocity ?? '')}</td></tr>`).join('')}</table>
+      </div><div>
+        <div class="cap">New public customers: last 90 days <b>${ag.portco_new_last_90d ?? '–'}</b> vs. prior quarterly avg ${ag.portco_prior_quarterly_avg ?? '–'} · rank ${ag.portco_rank ?? '–'} of ${ag.of ?? '–'}${ag.tied_with ? ` (tied with ${ag.tied_with})` : ''}</div>
+        <table><tr><th>Company</th><th>New, last 90d</th><th>Prior 9 months</th></tr>${(ag.leaderboard || []).map((r) => `<tr class="${r.akta_id === p.akta_id ? 'me' : ''}"><td>${esc(r.name)}</td><td>${r.new_last_90d}</td><td>${r.prior_9m}</td></tr>`).join('')}</table>
+        ${(me.adopters || []).length ? `<div class="cap">Named customers: ${me.adopters.map((a) => `${esc(a.org)} (${esc(a.first_seen)}, <a href="${esc(a.url)}" target="_blank" rel="noopener">Akta news ${esc(a.akta_news_id)}</a>)`).join(' · ')}</div>` : ''}
+      </div></div>`;
+    }
+  }
+  const top = (L.top_tier1_launches || []).slice(0, 6);
+  html += `<h2>Most differentiated tier-1 launches across both portfolios' markets</h2><table><tr><th>Company</th><th>Date</th><th>Launch</th><th>Why it's different</th><th>Source</th></tr>${top.map((l) => `<tr><td>${esc(l.company)}</td><td>${esc(l.date)}</td><td>${esc(l.event_key || l.title)}</td><td>${esc(l.why_differentiated)}</td><td>${l.source?.url ? `<a href="${esc(l.source.url)}" target="_blank" rel="noopener">${esc(l.source.akta_news_id ? 'Akta ' + l.source.akta_news_id : 'source')}</a>` : 'Akta signal'}</td></tr>`).join('')}</table>`;
+  document.getElementById('root').innerHTML = html;
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,771 @@
+{
+ "real_data": true,
+ "source": "akta.pro REST: news (SD01 launches, RC01 approvals, CM01 equity), company enrichment (funding_detail, product_offering, strategic_signal, financial_estimate, company_assessment), headcount-trends",
+ "fetched_at": "2026-10-24T18:27:03.611Z",
+ "window": {
+  "start": "2025-10-25",
+  "end": "2026-10-24"
+ },
+ "method": {
+  "tiers": "1 = new product line/market or regulatory clearance that unlocks one; 2 = major capability or distribution-expanding integration; 3 = minor feature/update (standard PMM launch tiering)",
+  "velocity": "weighted launch points per 90 days (T1=3, T2=2, T3=1)",
+  "grounding": "kept only if the evidence quote appears verbatim in the Akta title/summary; duplicate reports of one launch collapsed",
+  "competitor_set": "Akta company_assessment.peers for each portfolio company",
+  "caveats": "Akta news lookback 12 months; funding dates month-level, trimmed to 3 rounds; pre/post-round velocity only where a round falls in the window; launches are what's publicly reported."
+ },
+ "groups": [
+  {
+   "fund": "March Capital",
+   "fund_akta_id": "000086d",
+   "portco": "Overjet",
+   "portco_akta_id": "00002m5",
+   "members": [
+    "00002m5",
+    "00002dz",
+    "00002z9",
+    "0005v2n",
+    "0005yzu"
+   ],
+   "competitor_median_velocity": 3.2,
+   "portco_velocity": 2.5,
+   "portco_vs_median": 0.78,
+   "portco_rank": 4,
+   "of": 5,
+   "portco_tiers": {
+    "1": 1,
+    "2": 3,
+    "3": 1
+   },
+   "portco_funding_window": {
+    "round": "Series Unknown",
+    "date": "2025-12-15",
+    "pre": 3.5,
+    "post": 2.3
+   },
+   "leaderboard": [
+    {
+     "name": "VideaHealth",
+     "akta_id": "00002z9",
+     "velocity": 4.2,
+     "tiers": {
+      "1": 5,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": 184,
+     "per_100_employees": 2.28,
+     "stage": "Series B"
+    },
+    {
+     "name": "Pearl",
+     "akta_id": "00002dz",
+     "velocity": 4,
+     "tiers": {
+      "1": 3,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 286,
+     "per_100_employees": 1.4,
+     "stage": "Series B"
+    },
+    {
+     "name": "Planet DDS",
+     "akta_id": "0005yzu",
+     "velocity": 3.2,
+     "tiers": {
+      "1": 2,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 440,
+     "per_100_employees": 0.73,
+     "stage": "Private Equity"
+    },
+    {
+     "name": "Overjet",
+     "akta_id": "00002m5",
+     "velocity": 2.5,
+     "tiers": {
+      "1": 1,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 363,
+     "per_100_employees": 0.69,
+     "stage": "Series C"
+    },
+    {
+     "name": "Denti.AI",
+     "akta_id": "0005v2n",
+     "velocity": 0,
+     "tiers": {
+      "1": 0,
+      "2": 0,
+      "3": 0
+     },
+     "headcount": 52,
+     "per_100_employees": 0,
+     "stage": null
+    }
+   ]
+  },
+  {
+   "fund": "March Capital",
+   "fund_akta_id": "000086d",
+   "portco": "Snorkel AI",
+   "portco_akta_id": "00008iv",
+   "members": [
+    "00008iv",
+    "0002azl",
+    "00000di",
+    "0000qzl",
+    "00002bj"
+   ],
+   "competitor_median_velocity": 2.2,
+   "portco_velocity": 2.2,
+   "portco_vs_median": 1,
+   "portco_rank": 3,
+   "of": 5,
+   "portco_tiers": {
+    "1": 1,
+    "2": 3,
+    "3": 0
+   },
+   "portco_funding_window": {
+    "round": "Series E",
+    "date": "2026-09-15",
+    "pre": 2.5,
+    "post": 0
+   },
+   "leaderboard": [
+    {
+     "name": "Scale AI",
+     "akta_id": "00000di",
+     "velocity": 5.4,
+     "tiers": {
+      "1": 2,
+      "2": 7,
+      "3": 2
+     },
+     "headcount": 7485,
+     "per_100_employees": 0.07,
+     "stage": "Series F"
+    },
+    {
+     "name": "Labelbox",
+     "akta_id": "0002azl",
+     "velocity": 2.5,
+     "tiers": {
+      "1": 2,
+      "2": 2,
+      "3": 0
+     },
+     "headcount": 490,
+     "per_100_employees": 0.51,
+     "stage": "Series E"
+    },
+    {
+     "name": "Snorkel AI",
+     "akta_id": "00008iv",
+     "velocity": 2.2,
+     "tiers": {
+      "1": 1,
+      "2": 3,
+      "3": 0
+     },
+     "headcount": 1484,
+     "per_100_employees": 0.15,
+     "stage": "Series E"
+    },
+    {
+     "name": "Sama",
+     "akta_id": "00002bj",
+     "velocity": 1,
+     "tiers": {
+      "1": 0,
+      "2": 2,
+      "3": 0
+     },
+     "headcount": 4303,
+     "per_100_employees": 0.02,
+     "stage": "Series B"
+    },
+    {
+     "name": "Surge AI",
+     "akta_id": "0000qzl",
+     "velocity": 0.5,
+     "tiers": {
+      "1": 0,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": 553,
+     "per_100_employees": 0.09,
+     "stage": null
+    }
+   ]
+  },
+  {
+   "fund": "March Capital",
+   "fund_akta_id": "000086d",
+   "portco": "Forter",
+   "portco_akta_id": "00003id",
+   "members": [
+    "00003id",
+    "0002rlm",
+    "00002xb",
+    "0003l7p",
+    "0000b4d"
+   ],
+   "competitor_median_velocity": 2.2,
+   "portco_velocity": 2.7,
+   "portco_vs_median": 1.23,
+   "portco_rank": 2,
+   "of": 5,
+   "portco_tiers": {
+    "1": 2,
+    "2": 2,
+    "3": 1
+   },
+   "portco_funding_window": null,
+   "leaderboard": [
+    {
+     "name": "Riskified",
+     "akta_id": "0000b4d",
+     "velocity": 6.7,
+     "tiers": {
+      "1": 3,
+      "2": 8,
+      "3": 2
+     },
+     "headcount": 729,
+     "per_100_employees": 0.92,
+     "stage": "Public"
+    },
+    {
+     "name": "Forter",
+     "akta_id": "00003id",
+     "velocity": 2.7,
+     "tiers": {
+      "1": 2,
+      "2": 2,
+      "3": 1
+     },
+     "headcount": 717,
+     "per_100_employees": 0.38,
+     "stage": "Series F"
+    },
+    {
+     "name": "Accertify",
+     "akta_id": "0003l7p",
+     "velocity": 2.2,
+     "tiers": {
+      "1": 2,
+      "2": 1,
+      "3": 1
+     },
+     "headcount": 947,
+     "per_100_employees": 0.23,
+     "stage": "Acquired"
+    },
+    {
+     "name": "Ravelin",
+     "akta_id": "0002rlm",
+     "velocity": 0,
+     "tiers": {
+      "1": 0,
+      "2": 0,
+      "3": 0
+     },
+     "headcount": null,
+     "per_100_employees": null,
+     "stage": "Acquired"
+    },
+    {
+     "name": "Signifyd",
+     "akta_id": "00002xb",
+     "velocity": 0,
+     "tiers": {
+      "1": 0,
+      "2": 0,
+      "3": 0
+     },
+     "headcount": 493,
+     "per_100_employees": 0,
+     "stage": "Series E"
+    }
+   ]
+  },
+  {
+   "fund": "Left Lane Capital",
+   "fund_akta_id": "00004a4",
+   "portco": "Pearl",
+   "portco_akta_id": "00002dz",
+   "members": [
+    "00002dz",
+    "00002m5",
+    "0007ijl",
+    "00002z9",
+    "00049wa"
+   ],
+   "competitor_median_velocity": 2.5,
+   "portco_velocity": 4,
+   "portco_vs_median": 1.6,
+   "portco_rank": 2,
+   "of": 5,
+   "portco_tiers": {
+    "1": 3,
+    "2": 3,
+    "3": 1
+   },
+   "portco_funding_window": null,
+   "leaderboard": [
+    {
+     "name": "VideaHealth",
+     "akta_id": "00002z9",
+     "velocity": 4.2,
+     "tiers": {
+      "1": 5,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": 184,
+     "per_100_employees": 2.28,
+     "stage": "Series B"
+    },
+    {
+     "name": "Pearl",
+     "akta_id": "00002dz",
+     "velocity": 4,
+     "tiers": {
+      "1": 3,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 286,
+     "per_100_employees": 1.4,
+     "stage": "Series B"
+    },
+    {
+     "name": "Overjet",
+     "akta_id": "00002m5",
+     "velocity": 2.5,
+     "tiers": {
+      "1": 1,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 363,
+     "per_100_employees": 0.69,
+     "stage": "Series C"
+    },
+    {
+     "name": "Curve Dental",
+     "akta_id": "00049wa",
+     "velocity": 1.5,
+     "tiers": {
+      "1": 1,
+      "2": 1,
+      "3": 1
+     },
+     "headcount": 215,
+     "per_100_employees": 0.7,
+     "stage": "Venture-Funded"
+    },
+    {
+     "name": "Diagnocat",
+     "akta_id": "0007ijl",
+     "velocity": 0.2,
+     "tiers": {
+      "1": 0,
+      "2": 0,
+      "3": 1
+     },
+     "headcount": 65,
+     "per_100_employees": 0.31,
+     "stage": null
+    }
+   ]
+  },
+  {
+   "fund": "Left Lane Capital",
+   "fund_akta_id": "00004a4",
+   "portco": "GlossGenius",
+   "portco_akta_id": "0000lea",
+   "members": [
+    "0000lea",
+    "000049s",
+    "00004od",
+    "00005dt",
+    "00007y4"
+   ],
+   "competitor_median_velocity": 0.7,
+   "portco_velocity": 0.5,
+   "portco_vs_median": 0.71,
+   "portco_rank": 4,
+   "of": 5,
+   "portco_tiers": {
+    "1": 0,
+    "2": 1,
+    "3": 0
+   },
+   "portco_funding_window": null,
+   "leaderboard": [
+    {
+     "name": "Fresha",
+     "akta_id": "00004od",
+     "velocity": 3.2,
+     "tiers": {
+      "1": 1,
+      "2": 5,
+      "3": 0
+     },
+     "headcount": 960,
+     "per_100_employees": 0.33,
+     "stage": "Series C"
+    },
+    {
+     "name": "Vagaro",
+     "akta_id": "000049s",
+     "velocity": 1.5,
+     "tiers": {
+      "1": 0,
+      "2": 2,
+      "3": 2
+     },
+     "headcount": 706,
+     "per_100_employees": 0.21,
+     "stage": "Private Equity"
+    },
+    {
+     "name": "Boulevard",
+     "akta_id": "00005dt",
+     "velocity": 0.7,
+     "tiers": {
+      "1": 1,
+      "2": 0,
+      "3": 0
+     },
+     "headcount": 625,
+     "per_100_employees": 0.11,
+     "stage": "Series D"
+    },
+    {
+     "name": "GlossGenius",
+     "akta_id": "0000lea",
+     "velocity": 0.5,
+     "tiers": {
+      "1": 0,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": null,
+     "per_100_employees": null,
+     "stage": null
+    },
+    {
+     "name": "Mangomint",
+     "akta_id": "00007y4",
+     "velocity": 0.5,
+     "tiers": {
+      "1": 0,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": 145,
+     "per_100_employees": 0.34,
+     "stage": "Series B"
+    }
+   ]
+  },
+  {
+   "fund": "Left Lane Capital",
+   "fund_akta_id": "00004a4",
+   "portco": "Talkiatry",
+   "portco_akta_id": "00000so",
+   "members": [
+    "00000so",
+    "0000a6x",
+    "00009oi",
+    "000004k",
+    "0000aip"
+   ],
+   "competitor_median_velocity": 2.2,
+   "portco_velocity": 1.5,
+   "portco_vs_median": 0.68,
+   "portco_rank": 4,
+   "of": 5,
+   "portco_tiers": {
+    "1": 0,
+    "2": 3,
+    "3": 0
+   },
+   "portco_funding_window": {
+    "round": "Series D",
+    "date": "2026-02-15",
+    "pre": 0,
+    "post": 2.2
+   },
+   "leaderboard": [
+    {
+     "name": "Spring Health",
+     "akta_id": "000004k",
+     "velocity": 4,
+     "tiers": {
+      "1": 3,
+      "2": 3,
+      "3": 1
+     },
+     "headcount": 3898,
+     "per_100_employees": 0.1,
+     "stage": "Series E"
+    },
+    {
+     "name": "Headspace Health",
+     "akta_id": "0000aip",
+     "velocity": 3,
+     "tiers": {
+      "1": 0,
+      "2": 5,
+      "3": 2
+     },
+     "headcount": 1535,
+     "per_100_employees": 0.2,
+     "stage": "Acquired"
+    },
+    {
+     "name": "Lyra Health",
+     "akta_id": "00009oi",
+     "velocity": 2.2,
+     "tiers": {
+      "1": 1,
+      "2": 3,
+      "3": 0
+     },
+     "headcount": 3010,
+     "per_100_employees": 0.07,
+     "stage": "Series G"
+    },
+    {
+     "name": "Talkiatry",
+     "akta_id": "00000so",
+     "velocity": 1.5,
+     "tiers": {
+      "1": 0,
+      "2": 3,
+      "3": 0
+     },
+     "headcount": 813,
+     "per_100_employees": 0.18,
+     "stage": "Series D"
+    },
+    {
+     "name": "Cerebral",
+     "akta_id": "0000a6x",
+     "velocity": 0.5,
+     "tiers": {
+      "1": 0,
+      "2": 1,
+      "3": 0
+     },
+     "headcount": null,
+     "per_100_employees": null,
+     "stage": null
+    }
+   ]
+  }
+ ],
+ "top_tier1_launches": [
+  {
+   "company": "Riskified",
+   "date": "2026-10-22",
+   "event_key": "Agent Identity Risk Intelligence launch",
+   "tier": 1,
+   "why_differentiated": "Targets the greenfield agentic commerce trust category, with initial Shopify/Meta Muse deployment, extending AI Agent Intelligence into a new market few peers address.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 42143493,
+    "url": "https://ecommercenews.in/story/riskified-launches-ai-agent-identity-checks-for-merchants",
+    "publisher": "Ecommercenews"
+   }
+  },
+  {
+   "company": "Forter",
+   "date": "2026-10-13",
+   "event_key": "Agentic Commerce Engine launch",
+   "tier": 1,
+   "why_differentiated": "Builds on Forter's first-mover agent authentication position (TACP, Agentic Orchestration Suite) and opens a new revenue channel in agentic commerce, a category where peers like Stripe Radar and Signifyd have less established standards.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 40525083,
+    "url": "https://www.prnewswire.com/news-releases/forter-turns-the-ai-shopping-agent-surge-into-a-secure-revenue-channel-for-merchants-302906333.html",
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "company": "Pearl",
+   "date": "2026-09-03",
+   "event_key": "Second Opinion 3D launch",
+   "tier": 1,
+   "why_differentiated": "Opens the CBCT/3D market to general dentists, leveraging Pearl's unique FDA 510(k) clearance for both 2D and 3D analysis that competitors lack.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 33783745,
+    "url": "https://www.financialcontent.com/article/gnwcq-2026-9-3-pearl-launches-second-opinion-3d-bringing-fda-cleared-cbct-imaging-ai-to-general-dentists-for-the-first-time",
+    "publisher": "FinancialContent Business Page"
+   }
+  },
+  {
+   "company": "Accertify",
+   "date": "2026-08-25",
+   "event_key": "HIPAA compliance healthcare expansion",
+   "tier": 1,
+   "why_differentiated": "HIPAA compliance is a regulatory unlock that opens healthcare as a new vertical and adds data diversity to the consortium, extending the vertical diversification thesis.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 32986365,
+    "url": "https://www.financialcontent.com/article/bizwire-2026-8-25-accertify-expands-fraud-prevention-capabilities-into-healthcare-with-hipaa-compliance",
+    "publisher": "FinancialContent Business Page"
+   }
+  },
+  {
+   "company": "Planet DDS",
+   "date": "2026-07-17",
+   "event_key": "DentalOS enterprise platform launch",
+   "tier": 1,
+   "why_differentiated": "It unifies Denticon and Cloud 9 on a single data layer with AI tools, which deepens the vertical integration and data moat against legacy PMS vendors.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 28172225,
+    "url": "https://www.businesswire.com/news/home/20260717585917/en/Planet-DDS-Declares-the-Practice-Management-Era-Over-and-Launches-DentalOS-the-Dental-Enterprise-Platform-for-DSOs",
+    "publisher": "Business Wire Blog"
+   }
+  },
+  {
+   "company": "Curve Dental",
+   "date": "2026-07-14",
+   "event_key": "Curve Care+ clinical AI suite launch",
+   "tier": 1,
+   "why_differentiated": "A native voice-driven clinical AI suite (notes, charting, perio) inside the PMS extends Curve's AI-native stack beyond bolt-on rivals and opens a new AI-module monetization line in the US and Canada.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 27575926,
+    "url": "https://www.prnewswire.com/news-releases/curve-dental-launches-curve-care-a-native-clinical-ai-suite-built-for-modern-dentistry-302825428.html",
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "company": "Spring Health",
+   "date": "2026-06-10",
+   "event_key": "Neurodiversity Program launch",
+   "tier": 1,
+   "why_differentiated": "A new specialty care program for neurodivergent children and caregivers, powered by Guide, moves Spring Health into higher-acuity specialty care with a larger wallet per member.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 25792813,
+    "url": "https://www.prnewswire.com/news-releases/for-caregivers-of-neurodivergent-children-finding-the-right-care-is-a-full-time-job-302796162.html",
+    "publisher": "PR Newswire"
+   }
+  },
+  {
+   "company": "Labelbox",
+   "date": "2026-06-01",
+   "event_key": "Recursion enterprise agent RL platform",
+   "tier": 1,
+   "why_differentiated": "Opens the enterprise specialist-agent RL market beyond frontier labs, using Alignerr and RL infrastructure at lower token cost.",
+   "source": {
+    "kind": "akta_strategic_signal",
+    "akta_company_id": "0002azl",
+    "url": "https://labelbox.com/"
+   }
+  },
+  {
+   "company": "VideaHealth",
+   "date": "2026-05-12",
+   "event_key": "Ambient Intelligence launch",
+   "tier": 1,
+   "why_differentiated": "Ambient Intelligence is a new product category extending Voice Notes from documentation into conversational practice insights, building on Videa's platform expansion beyond diagnostics, though availability is limited to select Voice Notes customers and a waitlist.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 35184114,
+    "url": "https://www.businesswire.com/news/home/20260512805114/en/Videa-Launches-Ambient-Intelligence-Extending-Voice-AI-from-Documentation-to-Practice-Insights",
+    "publisher": "Business Wire Blog"
+   }
+  },
+  {
+   "company": "Lyra Health",
+   "date": "2026-05-06",
+   "event_key": "Pediatric and young adult crisis care (Urgent Care, Virtual IOP)",
+   "tier": 1,
+   "why_differentiated": "Adds high-acuity youth crisis care following the Bend Health acquisition, moving Lyra into a new family mental health segment with demonstrated 54% pediatric spend reduction.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 35183089,
+    "url": "https://www.businesswire.com/news/home/20260506983801/en/Lyra-Health-Launches-Comprehensive-Care-for-Youth-and-Young-Adults-Facing-Severe-Mental-Health-Crises",
+    "publisher": "Business Wire Blog"
+   }
+  },
+  {
+   "company": "Pearl",
+   "date": "2026-05-01",
+   "event_key": "Pearl RCM launch",
+   "tier": 1,
+   "why_differentiated": "New product line into revenue cycle management, built on FDA-cleared radiologic AI.",
+   "source": {
+    "kind": "akta_strategic_signal",
+    "akta_company_id": "00002dz",
+    "url": "https://www.businesswire.com/news/home/20260527187868/en/Pearl-RCM-Launches-to-Improve-Insurance-Workflows-and-Claim-Outcomes-in-Dentistry"
+   }
+  },
+  {
+   "company": "Accertify",
+   "date": "2026-05-01",
+   "event_key": "Predictive Yes Platform launch",
+   "tier": 1,
+   "why_differentiated": "A unified lifecycle risk decisioning platform backed by consortium data from 10B+ transactions builds on Accertify's cross-merchant data moat, which peers with smaller installed bases can't easily replicate.",
+   "source": {
+    "kind": "akta_strategic_signal",
+    "akta_company_id": "0003l7p",
+    "url": "https://aijourn.com/accertify-sets-bold-vision-for-more-yes-a-new-era-of-ai-powered-commerce-enablement/"
+   }
+  },
+  {
+   "company": "Spring Health",
+   "date": "2026-05-01",
+   "event_key": "Alma acquisition close",
+   "tier": 1,
+   "why_differentiated": "Acquisition adds payer distribution (120M+ lives) and a clinician membership platform, unlocking a new payer market and two-sided network effects that peers like Lyra and Modern Health lack.",
+   "source": {
+    "kind": "akta_strategic_signal",
+    "akta_company_id": "000004k",
+    "url": "https://pulse2.com/spring-health-and-alma-complete-combination-to-create-first-lifelong-mental-health-platform/"
+   }
+  },
+  {
+   "company": "Boulevard",
+   "date": "2026-04-14",
+   "event_key": "Boulevard ePrescribe launch",
+   "tier": 1,
+   "why_differentiated": "Native EPCS-compliant e-prescribing for controlled substances inside the medspa workflow creates clinical lock-in and extends the regulatory moat, and few salon-focused peers offer it.",
+   "source": {
+    "kind": "akta_news",
+    "akta_news_id": 21979931,
+    "url": "https://www.businesswire.com/news/home/20260414281455/en/Boulevard-Expands-Clinical-Capabilities-for-Medspas-with-Launch-of-ePrescribe",
+    "publisher": "Business Wire Blog"
+   }
+  },
+  {
+   "company": "Riskified",
+   "date": "2026-04-07",
+   "event_key": "Outpayce (Amadeus) partnership",
+   "tier": 1,
+   "why_differentiated": "Opens the airline/travel payments vertical via Amadeus's Outpayce as first guarantee provider, extending the merchant network into a new market.",
+   "source": {
+    "kind": "akta_strategic_signal",
+    "akta_company_id": "0000b4d",
+    "url": "https://www.businesswire.com/news/home/20260331782202/en/Riskified-Partners-with-Outpayce-from-Amadeus-to-Enable-and-Secure-Payments-for-Airlines-and-Travel-Merchants-Worldwide"
+   }
+  }
+ ]
+}

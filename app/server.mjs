@@ -64,8 +64,17 @@ function readBody(req) {
 
 // HOOK: Roundtable task routing goes here later (founder / ops / GP).
 // Must stay side-effect free until wired; returns {routed:false}.
-function routeQuestion(q) { // eslint-disable-line no-unused-vars
-  return { routed: false };
+// Questions go to Roundtable as versioned files under questions/, addressed to founder/ops/gp.
+async function routeQuestion(q) {
+  try {
+    const { rt } = await import('./lib/sponsors.mjs');
+    const { env } = await import('./lib/env.mjs');
+    const p = `questions/${q.company_id}/${q.id}.json`;
+    const r = await rt('write_file', { bank: env.rtBank, path: p, content: JSON.stringify(q, null, 2), message: `Question for ${q.to} on ${q.company_id}`, request_id: `ask:${q.id}` });
+    return { routed: true, roundtable: { bank: env.rtBank, path: p, version: r?.version?.id ?? null } };
+  } catch (e) {
+    return { routed: false, error: String(e.message).slice(0, 160) };
+  }
 }
 
 function ledger() {
@@ -106,6 +115,12 @@ const server = http.createServer(async (req, res) => {
       return send(res, 200, { annotations: readJsonl('annotations.jsonl'), questions: readJsonl('questions.jsonl'), approvals: readJsonl('approvals.jsonl') });
     }
 
+    // Real market layer for funds.html (allow-listed files only).
+    const DATA = { 'universe.json': 1, 'universe_launches.json': 1, 'universe_adoption.json': 1 };
+    if (req.method === 'GET' && p.startsWith('/api/data/') && DATA[p.slice(10)]) {
+      const f = path.join(APP, 'data', p.slice(10));
+      return fs.existsSync(f) ? send(res, 200, fs.readFileSync(f, 'utf8')) : send(res, 404, { error: 'not built' });
+    }
     if (req.method === 'GET' && p === '/api/akta') {
       const f = path.join(APP, 'data', 'akta_comps.json');
       return fs.existsSync(f) ? send(res, 200, fs.readFileSync(f, 'utf8')) : send(res, 200, { available: false });
@@ -122,7 +137,7 @@ const server = http.createServer(async (req, res) => {
       const b = await readBody(req);
       if (!b.company_id || !b.question || !['founder', 'ops', 'gp'].includes(b.to)) return send(res, 400, { error: 'company_id, question and to (founder|ops|gp) required' });
       const q = { id: randomUUID(), ts: new Date().toISOString(), company_id: b.company_id, target: b.target ?? null, question: String(b.question), to: b.to, status: 'open' };
-      q.routing = routeQuestion(q);
+      q.routing = await routeQuestion(q);
       append('questions.jsonl', q);
       return send(res, 200, { id: q.id, routing: q.routing });
     }
@@ -130,6 +145,13 @@ const server = http.createServer(async (req, res) => {
     if (req.method === 'POST' && p === '/api/approve') {
       const b = await readBody(req);
       if (!b.company_id || !b.approver) return send(res, 400, { error: 'company_id (or "fund") and approver required' });
+      // Same gate as the review page: every red flag needs a GP annotation before approval.
+      const co = (JSON.parse(ledger().body).companies || []).find((c) => c.company_id === b.company_id);
+      if (co) {
+        const noted = new Set(readJsonl('annotations.jsonl').filter((a) => a.company_id === co.company_id).map((a) => a.target));
+        const open = co.flags.filter((f) => f.severity === 'red' && !noted.has(f.flag)).map((f) => f.flag);
+        if (open.length) return send(res, 409, { error: 'red flags need a GP annotation before approval', open });
+      }
       const rec = append('approvals.jsonl', { id: randomUUID(), ts: new Date().toISOString(), company_id: b.company_id, approver: String(b.approver) });
       return send(res, 200, rec);
     }

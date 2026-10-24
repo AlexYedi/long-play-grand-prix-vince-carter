@@ -1,0 +1,19 @@
+<!doctype html><meta charset="utf-8"><style>
+body{margin:0;width:1512px;height:738px;background:#0f1115;color:#d6dae0;font:16px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;padding:34px 60px;box-sizing:border-box}
+.k{color:#8b93a1;font:600 13px -apple-system,system-ui;letter-spacing:2px;text-transform:uppercase;margin-bottom:12px}
+.you{color:#fff}.you b{color:#f0b429}.tool{color:#7aa2f7}.dim{color:#6b7280}.ok{color:#9ece6a}.red{color:#f7768e}
+.out{border-left:3px solid #3b4252;padding:6px 0 6px 16px;margin:10px 0 0;color:#e5e7eb;font:16px/1.55 -apple-system,system-ui}
+.out h4{margin:0 0 4px;font-size:16px;color:#fff}.cap{position:absolute;bottom:22px;left:60px;color:#6b7280;font:12px -apple-system,system-ui}
+</style><body>
+<div class="k">Headless: Claude Code + lp-ledger MCP · real tool calls and outputs</div>
+<div class="you"><b>&gt;</b> Which portfolio companies are quietly in trouble? Write Gantrell's paragraph for LPs, and tell me how Pearl compares with its competitors.</div>
+<div class="tool">⏺ lp-ledger · find_companies(severity: "red")</div>
+<div class="dim">&nbsp;&nbsp;⎿ C06 Murrelwick Robotics: <span class="red">missing_update</span> · C07 Gantrell Dental Cloud: <span class="red">revenue_decline, low_runway, unexplained_mark</span></div>
+<div class="tool">⏺ lp-ledger · get_company(C07, lens: "lp") · render_guidelines(lp_letter)</div>
+<div class="dim">&nbsp;&nbsp;⎿ approved · 5 metrics <span class="ok">✓ founder quote</span> · mark $1.65M · 3 GP notes</div>
+<div class="tool">⏺ lp-ledger · fund_portfolio("Left Lane Capital")</div>
+<div class="dim">&nbsp;&nbsp;⎿ Pearl: launch velocity rank 2 of 5 (1.6× competitor median) · new public customers last 90 days 0 vs. prior quarterly avg 1.7 · akta.pro</div>
+<div class="out"><h4>LP view: Gantrell Dental Cloud (synthetic)</h4>September MRR $52.8K, down 13.4% from $61K; customers 74 (87 in Q2); runway about 4 months [founder update, footnote]. Mark held at $1.65M, last round; GP note: under review against market comps pending Q4 bridge terms.</div>
+<div class="out"><h4>GP view: Pearl (real, Left Lane Capital)</h4>2nd of 5 on tiered launch velocity in its Akta-defined competitor set, but no newly announced customers in the last 90 days after five in the prior nine months. Question for the next board meeting: is the pipeline converting? [Akta news ids on request]</div>
+<div class="cap">Same ledger, different lens: the LP sees only GP-approved items; internal CRM rows are withheld at that tier.</div>
+</body>
