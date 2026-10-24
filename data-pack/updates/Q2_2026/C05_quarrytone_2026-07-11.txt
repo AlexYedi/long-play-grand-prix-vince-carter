@@ -1,0 +1,22 @@
+From: Ines Quarrow <ines@quarrytone.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Sat, 11 Jul 2026 09:30:00 -0400
+Subject: Quarrytone AI - Q2 2026 investor update
+
+Hi Theodora and Marcus,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $72,000
+- ARR: $864,000
+- Monthly net burn: $210,000
+- Cash on hand (June 30): $5,100,000
+- Runway: 24 months
+- Headcount: 15
+- Paying customers: 18
+
+Highlight: inference cost per request down 40% after the scheduler rewrite.
+Risk we're watching: GPU capacity contracts renew in Q4 at higher prices.
+
+Thanks,
+Ines

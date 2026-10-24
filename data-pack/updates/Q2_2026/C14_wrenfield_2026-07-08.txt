@@ -1,0 +1,22 @@
+From: Lena Wrenfield <lena@wrenfield.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 08 Jul 2026 09:30:00 -0400
+Subject: Wrenfield Cover - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $47,300
+- ARR: $567,600
+- Monthly net burn: $175,000
+- Cash on hand (June 30): $3,950,000
+- Runway: 22 months
+- Headcount: 15
+- Active policies: 2,140
+
+Highlight: crossed 2,000 active policies.
+Risk we're watching: reinsurance capacity renews in January.
+
+Thanks,
+Lena

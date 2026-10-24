@@ -1,0 +1,22 @@
+From: Silas Dunmarsh <silas@dunmarsh.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 09 Jul 2026 09:30:00 -0400
+Subject: Dunmarsh Grid - Q2 2026 investor update
+
+Hi Theodora and Marcus,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $39,000
+- ARR: $468,000
+- Monthly net burn: $155,000
+- Cash on hand (June 30): $4,400,000
+- Runway: 28 months
+- Headcount: 13
+- Utility customers: 5
+
+Highlight: fifth utility signed a 3-year contract.
+Risk we're watching: utility procurement timelines are slow.
+
+Thanks,
+Silas

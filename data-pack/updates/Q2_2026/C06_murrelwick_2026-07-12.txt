@@ -1,0 +1,21 @@
+From: Teodor Murrelind <teodor@murrelwick.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Sun, 12 Jul 2026 09:30:00 -0400
+Subject: Murrelwick Robotics - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- Revenue (June, non-recurring): $35,000
+- Monthly net burn: $260,000
+- Cash on hand (June 30): $3,800,000
+- Runway: 15 months
+- Headcount: 21
+- Paid pilot customers: 4
+
+Highlight: fourth paid pilot started with a regional 3PL.
+Risk we're watching: pilot-to-fleet conversion still unproven.
+
+Thanks,
+Teodor

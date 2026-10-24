@@ -1,0 +1,22 @@
+From: Jonah Tidewell <jonah@tidewright.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 08 Jul 2026 09:30:00 -0400
+Subject: Tidewright Labs - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $96,400
+- ARR: $1,156,800
+- Monthly net burn: $140,000
+- Cash on hand (June 30): $3,100,000
+- Runway: 22 months
+- Headcount: 12
+- Paying teams: 220
+
+Highlight: crossed 200 paying teams on self-serve.
+Risk we're watching: a well-funded competitor launched a free tier.
+
+Thanks,
+Jonah

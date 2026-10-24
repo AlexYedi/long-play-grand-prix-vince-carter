@@ -1,0 +1,22 @@
+From: Katrin Vellstrom <katrin@vellstrom.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 16 Jul 2026 09:30:00 -0400
+Subject: Vellstrom Data GmbH - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026. All figures in EUR.
+
+- MRR (June): €31,200
+- ARR: €374,400
+- Monthly net burn: €118,000
+- Cash on hand (June 30): €2,780,000
+- Runway: 23 months
+- Headcount: 13
+- Customers: 17
+
+Highlight: signed our first DAX-listed customer pilot.
+Risk we're watching: German enterprise procurement cycles are long.
+
+Thanks,
+Katrin

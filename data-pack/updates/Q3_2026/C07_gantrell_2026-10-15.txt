@@ -1,0 +1,18 @@
+From: Dana Gantrell <dana@gantrell.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 15 Oct 2026 18:20:00 -0500
+Subject: Gantrell Q3 - foundation quarter, biggest pipeline yet
+
+Hi Halyard team,
+
+Q3 was a foundation-building quarter for us. We rebuilt onboarding end to end, shipped the imaging integration our largest DSO asked for, and the Q4 pipeline is the biggest it has ever been: three multi-location DSOs are in late-stage trials.
+
+On the numbers, September MRR was $52.8K as we cleaned up some legacy accounts, and we now serve 74 practices after offboarding a handful of single-chair offices that were never a great fit. The team is steady at 11. We are investing in the DSO trials, so net burn ran about $68K/month.
+
+Really excited about Q4. Would love 20 minutes with either of you in the next couple of weeks to talk through the DSO motion.
+
+Best,
+Dana
+
+--
+* Cash at 9/30: $290K; ~4 months at current burn. Exploring options incl. a bridge.

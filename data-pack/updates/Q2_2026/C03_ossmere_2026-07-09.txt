@@ -1,0 +1,22 @@
+From: Priyanka Ossler <priyanka@ossmere.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 09 Jul 2026 09:30:00 -0400
+Subject: Ossmere Health - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $58,000
+- ARR: $696,000
+- Monthly net burn: $190,000
+- Cash on hand (June 30): $4,200,000
+- Runway: 22 months
+- Headcount: 16
+- Clinic groups live: 9
+
+Highlight: went live with our ninth clinic group.
+Risk we're watching: payer reimbursement code for our remote-monitoring workflow is under review.
+
+Thanks,
+Priyanka

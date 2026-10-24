@@ -1,0 +1,22 @@
+From: Wes Bracklund <wes@brackenfold.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Fri, 10 Jul 2026 09:30:00 -0400
+Subject: Brackenfold - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $14,500
+- ARR: $174,000
+- Monthly net burn: $62,000
+- Cash on hand (June 30): $1,450,000
+- Runway: 23 months
+- Headcount: 5
+- Paying customers: 6
+
+Highlight: first municipal customer signed.
+Risk we're watching: pilots take 6+ months to convert.
+
+Thanks,
+Wes

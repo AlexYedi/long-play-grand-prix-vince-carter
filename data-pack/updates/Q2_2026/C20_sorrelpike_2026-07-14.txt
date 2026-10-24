@@ -1,0 +1,22 @@
+From: Gemma Sorrel <gemma@sorrelpike.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 14 Jul 2026 09:30:00 -0400
+Subject: Sorrel & Pike People - Q2 2026 investor update
+
+Hi Theodora and Marcus,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $64,800
+- ARR: $777,600
+- Monthly net burn: $140,000
+- Cash on hand (June 30): $2,900,000
+- Runway: 20 months
+- Headcount: 14
+- Customers: 58
+
+Highlight: launched payroll-sync integrations.
+Risk we're watching: SMB churn ticked up to 2.1% monthly.
+
+Thanks,
+Gemma

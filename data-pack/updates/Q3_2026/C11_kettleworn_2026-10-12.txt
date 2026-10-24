@@ -1,0 +1,19 @@
+From: Ravi Kettleby <ravi@kettleworn.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Mon, 12 Oct 2026 11:15:00 -0500
+Subject: Kettleworn | Q3 numbers
+
+Hey team - numbers below, pasted from the board pack.
+
+Sept MRR landed at 91.7k, cash is 1.65m and we're at 13 months of runway on the current plan. 162 merchants live, team of 11.
+
+(all figures $K unless noted)
+                 Jul      Aug      Sep
+MRR              86.1     88.9     91.7
+Net burn         129      130      131
+GMV processed (thousands of orders)   412   431   448
+
+Best news of the quarter: returns module now attached to 38% of new merchants.
+Watching: our two largest merchants are piloting an in-house checkout build.
+
+Ravi

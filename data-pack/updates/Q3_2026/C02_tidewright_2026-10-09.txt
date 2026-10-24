@@ -1,0 +1,19 @@
+From: Jonah Tidewell <jonah@tidewright.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Fri, 09 Oct 2026 17:02:00 -0400
+Subject: Tidewright // Q3
+
+Hi all - Q3 metrics pasted straight from our sheet:
+
+Metric	Jul-26	Aug-26	Sep-26
+MRR	$101,200	$106,750	$112,900
+Paying teams	239	251	268
+Net burn	$148,000	$151,000	$150,000
+Ending cash	$2,965,000	$2,814,000	$2,665,000
+Headcount	12	13	13
+Runway (mo)	20	19	18
+
+Two notes. Good: we launched the Enterprise tier and signed our first 3 enterprise contracts. Less good: free-to-paid conversion slipped from 4.1% to 3.4% after the competitor's free tier.
+
+Happy to walk through on a call.
+Jonah

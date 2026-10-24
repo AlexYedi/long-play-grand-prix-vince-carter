@@ -1,0 +1,22 @@
+From: Odessa Halcyon <odessa@halcyra.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Mon, 06 Jul 2026 09:30:00 -0400
+Subject: Halcyra Security - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $141,000
+- ARR: $1,692,000
+- Monthly net burn: $260,000
+- Cash on hand (June 30): $3,300,000
+- Runway: 13 months
+- Headcount: 18
+- Enterprise customers: 26
+
+Highlight: closed two enterprise logos in financial services.
+Risk we're watching: SOC 2 Type II audit scheduled for Q3.
+
+Thanks,
+Odessa

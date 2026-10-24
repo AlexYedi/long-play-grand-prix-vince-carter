@@ -1,0 +1,22 @@
+From: Dana Gantrell <dana@gantrell.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Mon, 13 Jul 2026 09:30:00 -0400
+Subject: Gantrell Dental Cloud - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $61,000
+- ARR: $732,000
+- Monthly net burn: $55,000
+- Cash on hand (June 30): $494,000
+- Runway: 9 months
+- Headcount: 11
+- Practices on platform: 87
+
+Highlight: launched the imaging integration beta.
+Risk we're watching: two mid-size practices gave churn notice.
+
+Thanks,
+Dana

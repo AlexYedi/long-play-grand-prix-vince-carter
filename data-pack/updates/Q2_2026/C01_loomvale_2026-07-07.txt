@@ -1,0 +1,22 @@
+From: Mara Quillfeather <mara@loomvale.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 07 Jul 2026 09:30:00 -0400
+Subject: Loomvale Systems - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $118,000
+- ARR: $1,416,000
+- Monthly net burn: $165,000
+- Cash on hand (June 30): $2,900,000
+- Runway: 18 months
+- Headcount: 14
+- Paying customers (brokerages): 41
+
+Highlight: signed our first two enterprise brokerages on annual contracts.
+Risk we're watching: sales cycle for enterprise brokerages is running 4-5 months.
+
+Thanks,
+Mara

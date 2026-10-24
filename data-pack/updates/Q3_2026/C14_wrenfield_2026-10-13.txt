@@ -1,0 +1,21 @@
+From: Lena Wrenfield <lena@wrenfield.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 13 Oct 2026 09:12:00 -0400
+Subject: Wrenfield Cover Q3 KPIs
+
+Hi Theodora, Marcus,
+
+Pasting our KPI table from the board deck, short commentary below.
+
+| KPI | Jun 2026 | Sep 2026 |
+|---|---|---|
+| Monthly revenue (fees + commission) | $47,300 | $55,900 |
+| Active policies | 2,140 | 2,610 |
+| Net burn / month | $175,000 | $182,000 |
+| Cash | $3,950,000 | $3,400,000 |
+| Runway (months) | 22 | 18 |
+| FTEs | 15 | 16 |
+
+Commentary: loss ratio improved to 54% on the renters book. On the risk side, our reinsurance treaty renews January 1 and pricing is up across the market.
+
+Lena

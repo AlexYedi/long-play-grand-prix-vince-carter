@@ -1,0 +1,21 @@
+From: Elio Marrowby <elio@marrowlight.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Mon, 13 Jul 2026 09:30:00 -0400
+Subject: Marrowlight Bio - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- Revenue: $0 (pre-revenue)
+- Monthly net burn: $95,000
+- Cash on hand (June 30): $2,600,000
+- Runway: 27 months
+- Headcount: 7
+- Paying customers: 0
+
+Highlight: assay hit target sensitivity on first design-partner samples.
+Risk we're watching: lab hiring is slow.
+
+Thanks,
+Elio

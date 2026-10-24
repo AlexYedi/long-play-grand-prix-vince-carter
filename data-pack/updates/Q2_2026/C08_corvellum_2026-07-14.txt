@@ -1,0 +1,22 @@
+From: Felix Corvellis <felix@corvellum.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 14 Jul 2026 09:30:00 -0400
+Subject: Corvellum Pay - Q2 2026 investor update
+
+Hi Halyard team,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $168,000
+- ARR: $2,016,000
+- Monthly net burn: $230,000
+- Cash on hand (June 30): $4,600,000
+- Runway: 20 months
+- Headcount: 22
+- Customers: 34
+
+Highlight: processed our first month above $40M in payment volume.
+Risk we're watching: sponsor bank renegotiation due in Q4.
+
+Thanks,
+Felix

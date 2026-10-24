@@ -1,0 +1,21 @@
+From: Rosalind Cinderby <rosalind@cinderquay.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 16 Jul 2026 09:30:00 -0400
+Subject: Cinderquay Games - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- Revenue (June, non-recurring): $31,000
+- Monthly net burn: $90,000
+- Cash on hand (June 30): $1,500,000
+- Runway: 16 months
+- Headcount: 9
+- Paying users: 3,900
+
+Highlight: soft-launched in two test markets.
+Risk we're watching: paid user acquisition costs are rising.
+
+Thanks,
+Rosalind

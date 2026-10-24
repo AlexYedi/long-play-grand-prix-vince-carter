@@ -1,0 +1,22 @@
+From: Noor Ashvane <noor@ashvane.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Fri, 10 Jul 2026 09:30:00 -0400
+Subject: Ashvane Legal - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $88,600
+- ARR: $1,063,200
+- Monthly net burn: $150,000
+- Cash on hand (June 30): $3,600,000
+- Runway: 24 months
+- Headcount: 12
+- Law firms: 37
+
+Highlight: net revenue retention at 128%.
+Risk we're watching: incumbent research vendors bundling drafting tools.
+
+Thanks,
+Noor

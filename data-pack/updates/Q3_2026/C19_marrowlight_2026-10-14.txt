@@ -1,0 +1,15 @@
+From: Elio Marrowby <elio@marrowlight.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 14 Oct 2026 16:30:00 -0400
+Subject: Marrowlight Bio Q3 update
+
+Dear Theodora and Marcus,
+
+Science first: the assay was validated on a second design partner's samples at target sensitivity. We remain pre-revenue with no paying customers yet, as planned; two design partners are working with us unpaid.
+
+We brought on a senior scientist (team of 8). Burn was $98K per month and cash at quarter end was $2.31M, giving 23 months of runway.
+
+Main risk: lead times on a key reagent doubled to 14 weeks, which could push our next milestone by a month.
+
+Best regards,
+Elio

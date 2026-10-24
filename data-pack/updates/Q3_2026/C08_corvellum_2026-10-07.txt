@@ -1,0 +1,25 @@
+From: Felix Corvellis <felix@corvellum.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 07 Oct 2026 07:55:00 -0400
+Subject: Corvellum Pay | Q3 2026 update
+
+Hi Theodora, Marcus,
+
+Headline: MRR crossed $210K in September (~$2.5M ARR) and payment volume hit a record $61M for the month. We went live with our first two construction-supply distributors on embedded payables.
+
+Detail below, same table we send the board.
+
+| Metric | Q2 (Jun) | Q3 (Sep) |
+|---|---|---|
+| MRR | $168,000 | $192,400 |
+| Net burn / mo | $230,000 | $245,000 |
+| Cash | $4.60M | $3.9M |
+| Runway (mo) | 20 | 16 |
+| Headcount | 22 | 25 |
+| Customers | 34 | 39 |
+
+MRR in the table excludes one-time implementation fees ($18K in September).
+
+Risk: our sponsor bank renegotiation slipped to Q1 and they are asking for a higher reserve.
+
+Felix

@@ -1,0 +1,18 @@
+From: Rosalind Cinderby <rosalind@cinderquay.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 20 Oct 2026 12:00:00 -0700
+Subject: Cinderquay Games - Q3
+
+Hi Halyard - table below (copied out of Notion so formatting may be off)
+
+Metric | June | September
+In-app purchase revenue (month) | $31,000 | $44,500
+Paying users | 3,900 | 5,250
+Net burn | $90,000 | $92,000
+Cash | $1,500,000 | $1,220,000
+Runway | 16 months | 13 months
+Headcount | 9 | 10
+
+Soft-launch D30 retention came in at 14%. One app store's platform fee change from January will cost us ~3 points of margin.
+
+Rosalind

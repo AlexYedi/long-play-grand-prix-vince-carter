@@ -1,0 +1,19 @@
+From: Mara Quillfeather <mara@loomvale.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 06 Oct 2026 08:41:00 -0400
+Subject: Loomvale Q3 2026 investor update
+
+Hi all,
+
+Quick Q3 recap. Short version: best quarter we've had.
+
+We closed the seed extension in late August, $6M led by a new lead investor at a $48M post-money, which takes cash on hand to $8.39M at September 30. Net burn averaged $172K a month across the quarter, so runway is roughly 48 months at current spend (we will step burn up as we hire).
+
+September MRR came in at $141.5K, up from $118K in June, which puts ARR at $1.698M. We added 11 net new brokerages and now have 52 paying customers. Team is 19 people after five hires, mostly engineering.
+
+What keeps me up at night: two of our top five customers renew in Q1 and one of them is being acquired, so we are pushing to get multi-year paper signed before year end.
+
+Asks: intros to heads of operations at mid-market freight brokers (50-300 trucks).
+
+Thanks,
+Mara

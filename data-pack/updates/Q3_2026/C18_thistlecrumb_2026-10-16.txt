@@ -1,0 +1,18 @@
+From: Hattie Thistlewood <hattie@thistlecrumb.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Fri, 16 Oct 2026 08:00:00 -0700
+Subject: Thistlecrumb Q3 numbers
+
+Hi both, here's the quarter.
+
+                   Q2 '26 (Jun)    Q3 '26 (Sep)
+Revenue (month)    $210,000        $236,000
+Retail doors       410             465
+Net burn           $120,000        $105,000
+Cash               $2,200,000      $1,885,000
+Runway             18 mo           18 mo
+Team               17              17
+
+Burn improved as gross margin moved to 41%. We added 55 doors with a regional grocery chain. Heads up: slotting fees for the Q1 shelf reset will spike burn in January.
+
+Hattie

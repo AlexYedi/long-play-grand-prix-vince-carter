@@ -1,0 +1,21 @@
+From: Hattie Thistlewood <hattie@thistlecrumb.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Sun, 12 Jul 2026 09:30:00 -0400
+Subject: Thistlecrumb Foods - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- Revenue (June, non-recurring): $210,000
+- Monthly net burn: $120,000
+- Cash on hand (June 30): $2,200,000
+- Runway: 18 months
+- Headcount: 17
+- Retail doors: 410
+
+Highlight: entered a 120-store regional grocery chain.
+Risk we're watching: promo spend is high in new doors.
+
+Thanks,
+Hattie

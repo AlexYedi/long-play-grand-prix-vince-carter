@@ -1,0 +1,22 @@
+From: Tomas Vellow <tomas@velloway.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Sat, 11 Jul 2026 09:30:00 -0400
+Subject: Velloway Mobility - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $18,200
+- ARR: $218,400
+- Monthly net burn: $85,000
+- Cash on hand (June 30): $1,300,000
+- Runway: 15 months
+- Headcount: 8
+- Fleet operators: 3
+
+Highlight: third fleet operator went live.
+Risk we're watching: fleet electrification budgets are shifting.
+
+Thanks,
+Tomas

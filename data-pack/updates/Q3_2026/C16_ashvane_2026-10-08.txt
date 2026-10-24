@@ -1,0 +1,14 @@
+From: Noor Ashvane <noor@ashvane.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Thu, 08 Oct 2026 13:44:00 -0400
+Subject: Ashvane - Q3
+
+Hi Halyard,
+
+We did $109,300 in MRR in September, up about 23% on the quarter, with 45 law firms now paying. The quarter's milestone: our first 200+ lawyer firm signed a firmwide license.
+
+We hired two engineers, so headcount is 14. Net burn was ~$165K and we ended the quarter with $3.13M in the bank, i.e. 19 months of runway.
+
+The thing I'm watching: a large research incumbent started bundling a competing drafting tool for free.
+
+Noor

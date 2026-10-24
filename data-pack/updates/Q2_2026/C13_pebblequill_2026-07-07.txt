@@ -1,0 +1,22 @@
+From: Bram Pebbleton <bram@pebblequill.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Tue, 07 Jul 2026 09:30:00 -0400
+Subject: Pebblequill Learning - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $22,400
+- ARR: $268,800
+- Monthly net burn: $58,000
+- Cash on hand (June 30): $1,120,000
+- Runway: 19 months
+- Headcount: 6
+- Schools: 31
+
+Highlight: expanded to two new districts.
+Risk we're watching: district budgets set in August could slip.
+
+Thanks,
+Bram

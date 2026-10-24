@@ -1,0 +1,14 @@
+From: Odessa Halcyon <odessa@halcyra.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Mon, 05 Oct 2026 10:03:00 -0400
+Subject: Halcyra Q3: seed-2 closed
+
+Theodora, Marcus, and the Halyard LP-facing crew,
+
+The big news first: we closed an $8M seed-2 at a $60M post-money on September 15. Thank you both for the references. Cash at quarter end was $10.48M, and with net burn around $270K per month we have about 38 months of runway before the hiring plan kicks in.
+
+Commercially, we finished September at $163.8K MRR (roughly $1.97M ARR) across 31 enterprise customers. We are 23 people now.
+
+One thing to flag: the SOC 2 Type II renewal audit slipped to November, and two enterprise deals are waiting on it.
+
+Odessa

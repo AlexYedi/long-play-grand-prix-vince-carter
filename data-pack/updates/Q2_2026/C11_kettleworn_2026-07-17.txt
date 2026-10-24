@@ -1,0 +1,22 @@
+From: Ravi Kettleby <ravi@kettleworn.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Fri, 17 Jul 2026 09:30:00 -0400
+Subject: Kettleworn Commerce - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $83,000
+- ARR: $996,000
+- Monthly net burn: $128,000
+- Cash on hand (June 30): $2,040,000
+- Runway: 16 months
+- Headcount: 10
+- Merchants live: 140
+
+Highlight: launched the returns module.
+Risk we're watching: two large merchants are evaluating in-house builds.
+
+Thanks,
+Ravi

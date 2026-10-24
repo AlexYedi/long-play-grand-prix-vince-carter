@@ -1,0 +1,14 @@
+From: Kit Lanternby <kit@lanternwick.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Sun, 11 Oct 2026 21:10:00 -0400
+Subject: lanternwick q3 - self-serve worked
+
+hey Theodora + Marcus,
+
+Short one. MRR nearly tripled after the self-serve launch: we ended September at $27.4K MRR (vs $9.8K in June) across 11 paying customers.
+
+We hired three engineers, so we're 9 now and burn went up to $95K/mo. Cash is $1.62M which is 17 months at this burn.
+
+Watching closely: model API costs are 38% of revenue and rising with usage.
+
+kit

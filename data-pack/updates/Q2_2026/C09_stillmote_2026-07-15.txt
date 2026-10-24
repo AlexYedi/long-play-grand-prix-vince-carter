@@ -1,0 +1,21 @@
+From: June Stillmore <june@stillmote.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 15 Jul 2026 09:30:00 -0400
+Subject: Stillmote Studios - Q2 2026 investor update
+
+Hello Halyard,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- Revenue (June, non-recurring): $78,000
+- Monthly net burn: $45,000
+- Cash on hand (June 30): $880,000
+- Runway: 20 months
+- Headcount: 7
+- Brand clients: 11
+
+Highlight: booked our largest brand campaign to date.
+Risk we're watching: revenue is lumpy and project-based.
+
+Thanks,
+June

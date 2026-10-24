@@ -1,0 +1,22 @@
+From: Kit Lanternby <kit@lanternwick.example>
+To: Halyard Ventures <updates@halyard.example>
+Date: Wed, 15 Jul 2026 09:30:00 -0400
+Subject: Lanternwick Agents - Q2 2026 investor update
+
+Hi Theodora and Marcus,
+
+Here is our Q2 2026 update. Key metrics as of June 30, 2026.
+
+- MRR (June): $9,800
+- ARR: $117,600
+- Monthly net burn: $70,000
+- Cash on hand (June 30): $1,900,000
+- Runway: 27 months
+- Headcount: 6
+- Paying customers: 4
+
+Highlight: first four paying customers on the agent platform.
+Risk we're watching: pricing model still being tested.
+
+Thanks,
+Kit
