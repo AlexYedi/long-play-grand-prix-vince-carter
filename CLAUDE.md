@@ -19,6 +19,8 @@ Read `docs/plan-v3.md` first; it wins over every other plan doc. `docs/plan-v2.m
 | `docs/`, `research/` | Plan, evidence, judges, sponsor docs |
 | `.env` | Keys (git-ignored). The app reads Alex's names: `PRISMTRACE_INGEST_API_KEY`, `ROUNDTABLE_API_KEY`, `ROUNDTABLE_WORKSPACE_ID`, `ROUNDTABLE_BASE_URL`. Never print values. |
 
+**Roundtable, after the hackathon (2026-10-30).** The app reaches Roundtable only through its HTTP API with the `.env` key (`app/publish.mjs`, question routing in `app/server.mjs`). The CLI's background daemon and the `roundtable` MCP connector were removed: the daemon ran at login and reported session metadata (session IDs, project paths, token usage, prompt/tool event times) from every Claude Code and Codex session on the machine to roundtable.bot, not just this project. Do not reinstall the CLI to run the demo. Once the API key is revoked, `publish.mjs` and question routing fail; the last published versions remain in `app/out/roundtable_versions.json`.
+
 ## Project tooling (`.claude/`)
 | Need | Use |
 |---|---|
